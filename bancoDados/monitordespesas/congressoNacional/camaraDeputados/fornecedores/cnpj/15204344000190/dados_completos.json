@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO BR AG LTDA",
+      "cnpj": "15204344000190",
+      "total_recebido": 346.4,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:55:19.204898"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 346.4
+  },
+  "anos": {
+    "2024": {
+      "total": 346.4,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "164360": {
+      "deputado": {
+        "id": 164360,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164360",
+        "nome": "Carmen Zanotto",
+        "siglaPartido": "CIDADANIA",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/164360.jpg",
+        "email": null
+      },
+      "total": 346.4,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7765673,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-28T00:00:00",
+          "numDocumento": "1111243",
+          "valorDocumento": 346.4,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7765673",
+          "nomeFornecedor": "AUTO POSTO BR AG LTDA",
+          "cnpjCpfFornecedor": "15204344000190",
+          "valorLiquido": 346.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

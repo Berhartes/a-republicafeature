@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO OLIVEIRA LTDA",
+      "cnpj": "28621019000174",
+      "total_recebido": 520.1,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:02.309044"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 520.1
+  },
+  "anos": {
+    "2023": {
+      "total": 223.97,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 296.13,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220612": {
+      "deputado": {
+        "id": 220612,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220612",
+        "nome": "Bebeto",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220612.jpg",
+        "email": "dep.bebeto@camara.leg.br"
+      },
+      "total": 520.1,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7510158,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-13T00:00:00",
+          "numDocumento": "317901",
+          "valorDocumento": 223.97,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7510158",
+          "nomeFornecedor": "POSTO OLIVEIRA LTDA",
+          "cnpjCpfFornecedor": "28621019000174",
+          "valorLiquido": 223.97,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7676179,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-10T00:00:00",
+          "numDocumento": "442675",
+          "valorDocumento": 296.13,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7676179",
+          "nomeFornecedor": "POSTO OLIVEIRA LTDA",
+          "cnpjCpfFornecedor": "28621019000174",
+          "valorLiquido": 296.13,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO TREVO DA BARRA LTDA",
+      "cnpj": "03573550000198",
+      "total_recebido": 314.02,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:05.898181"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 314.02
+  },
+  "anos": {
+    "2025": {
+      "total": 314.02,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "73701": {
+      "deputado": {
+        "id": 73701,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73701",
+        "nome": "Benedita da Silva",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73701.jpg",
+        "email": "dep.beneditadasilva@camara.leg.br"
+      },
+      "total": 314.02,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7900483,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-07T14:51:26",
+          "numDocumento": "48466",
+          "valorDocumento": 314.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7900483",
+          "nomeFornecedor": "AUTO POSTO TREVO DA BARRA LTDA",
+          "cnpjCpfFornecedor": "03573550000198",
+          "valorLiquido": 314.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Kalunga Comercio e Industria Grafica Ltda",
+      "cnpj": "43283811006433",
+      "total_recebido": 11304.8,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:15.644476"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 11304.8
+  },
+  "anos": {
+    "2023": {
+      "total": 4890.1,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 6414.7,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "73433": {
+      "deputado": {
+        "id": 73433,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73433",
+        "nome": "Arlindo Chinaglia",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73433.jpg",
+        "email": "dep.arlindochinaglia@camara.leg.br"
+      },
+      "total": 11304.8,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7672916,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-28T00:00:00",
+          "numDocumento": "429848",
+          "valorDocumento": 5168.2,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/974/2024/7672916.pdf",
+          "nomeFornecedor": "Kalunga Comercio e Industria Grafica Ltda",
+          "cnpjCpfFornecedor": "43283811006433",
+          "valorLiquido": 4890.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7859638,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-26T00:00:00",
+          "numDocumento": "441056",
+          "valorDocumento": 6414.7,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/974/2025/7859638.pdf",
+          "nomeFornecedor": "Kalunga Comercio e Industria Grafica Ltda",
+          "cnpjCpfFornecedor": "43283811006433",
+          "valorLiquido": 6414.7,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

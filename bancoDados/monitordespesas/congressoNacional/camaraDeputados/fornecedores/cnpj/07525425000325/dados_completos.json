@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "B.L. SERVICE ADMINISTRADORA DE SERVICOS LTDA",
+      "cnpj": "07525425000325",
+      "total_recebido": 462.8,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:04.245307"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 462.8
+  },
+  "anos": {
+    "2024": {
+      "total": 462.8,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220638": {
+      "deputado": {
+        "id": 220638,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220638",
+        "nome": "Antonio Carlos Rodrigues",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
+        "email": "dep.antoniocarlosrodrigues@camara.leg.br"
+      },
+      "total": 462.8,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7733083,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-20T00:00:00",
+          "numDocumento": "571176",
+          "valorDocumento": 462.8,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3654/2024/7733083.pdf",
+          "nomeFornecedor": "B.L. SERVICE ADMINISTRADORA DE SERVICOS LTDA",
+          "cnpjCpfFornecedor": "07525425000325",
+          "valorLiquido": 462.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

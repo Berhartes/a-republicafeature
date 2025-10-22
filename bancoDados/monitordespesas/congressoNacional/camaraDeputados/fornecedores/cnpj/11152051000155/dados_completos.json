@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ECOPOSTOS LTDA",
+      "cnpj": "11152051000155",
+      "total_recebido": 768.9,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:14.885282"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 768.9
+  },
+  "anos": {
+    "2023": {
+      "total": 497.61,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 271.29,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220698": {
+      "deputado": {
+        "id": 220698,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220698",
+        "nome": "Beto Preto",
+        "siglaPartido": "PSD",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
+        "email": null
+      },
+      "total": 768.9,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7522357,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-05T00:00:00",
+          "numDocumento": "140048",
+          "valorDocumento": 183.65,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7522357",
+          "nomeFornecedor": "ECOPOSTOS LTDA",
+          "cnpjCpfFornecedor": "11152051000155",
+          "valorLiquido": 183.65,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7495901,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-08T00:00:00",
+          "numDocumento": "132619",
+          "valorDocumento": 188.73,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7495901",
+          "nomeFornecedor": "ECOPOSTOS EIRELI",
+          "cnpjCpfFornecedor": "11152051000155",
+          "valorLiquido": 188.73,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7498243,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-11T00:00:00",
+          "numDocumento": "133093",
+          "valorDocumento": 125.23,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7498243",
+          "nomeFornecedor": "ECOPOSTOS EIRELI",
+          "cnpjCpfFornecedor": "11152051000155",
+          "valorLiquido": 125.23,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7749650,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-08T09:30:28",
+          "numDocumento": "191868",
+          "valorDocumento": 190.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7749650",
+          "nomeFornecedor": "ECOPOSTOS LTDA",
+          "cnpjCpfFornecedor": "11152051000155",
+          "valorLiquido": 190.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7753340,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-14T09:53:08",
+          "numDocumento": "192636",
+          "valorDocumento": 81.27,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7753340",
+          "nomeFornecedor": "ECOPOSTOS LTDA",
+          "cnpjCpfFornecedor": "11152051000155",
+          "valorLiquido": 81.27,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

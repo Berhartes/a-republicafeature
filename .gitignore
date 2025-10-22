@@ -1,0 +1,17 @@
+node_modules/
+.pnpm-store/
+.pnpm-home/
+dist/
+build/
+.next/
+.env
+.env.local
+.env.*.local
+coverage/
+bancodeDados/monitordespesas/monitordespesas.db
+pnpm-lock.yaml
+venv/
+.venv/
+packages/etlpython/venv/
+packages/etlpython/.venv/
+packages/backup/

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ATLANTICA HOTELS INT. BRASIL LTDA",
+      "cnpj": "02223966003058",
+      "total_recebido": 313.14,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:26.765447"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 313.14
+  },
+  "anos": {
+    "2024": {
+      "total": 313.14,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178829": {
+      "deputado": {
+        "id": 178829,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178829",
+        "nome": "Capitão Augusto",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
+        "email": "dep.capitaoaugusto@camara.leg.br"
+      },
+      "total": 313.14,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7756048,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-17T00:00:00",
+          "numDocumento": "124930",
+          "valorDocumento": 313.14,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2024/7756048.pdf",
+          "nomeFornecedor": "ATLANTICA HOTELS INT. BRASIL LTDA",
+          "cnpjCpfFornecedor": "02223966003058",
+          "valorLiquido": 313.14,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

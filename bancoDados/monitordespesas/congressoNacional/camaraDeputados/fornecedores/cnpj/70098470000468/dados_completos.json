@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "W. A. BARRETO E CIA LTDA",
+      "cnpj": "70098470000468",
+      "total_recebido": 379.59,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:53.631402"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 379.59
+  },
+  "anos": {
+    "2023": {
+      "total": 379.59,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220574": {
+      "deputado": {
+        "id": 220574,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220574",
+        "nome": "Cabo Gilberto Silva",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "PB",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220574.jpg",
+        "email": "dep.cabogilbertosilva@camara.leg.br"
+      },
+      "total": 379.59,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7645484,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-10T00:00:00",
+          "numDocumento": "1361938",
+          "valorDocumento": 379.59,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7645484",
+          "nomeFornecedor": "W. A. BARRETO E CIA LTDA",
+          "cnpjCpfFornecedor": "70098470000468",
+          "valorLiquido": 379.59,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "QUASAR LOCADORA DE VEICULOS EIRELI",
+      "cnpj": "38024675000143",
+      "total_recebido": 4270.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:37.488032"
+  },
+  "categorias": {
+    "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 4270.0
+  },
+  "anos": {
+    "2023": {
+      "total": 4270.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204507": {
+      "deputado": {
+        "id": 204507,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204507",
+        "nome": "Carla Zambelli",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204507.jpg",
+        "email": "dep.carlazambelli@camara.leg.br"
+      },
+      "total": 4270.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7565974,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-23T00:00:00",
+          "numDocumento": "63",
+          "valorDocumento": 1370.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2023/7565974.pdf",
+          "nomeFornecedor": "QUASAR LOCADORA DE VEICULOS EIRELI",
+          "cnpjCpfFornecedor": "38024675000143",
+          "valorLiquido": 1370.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7536306,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-03T00:00:00",
+          "numDocumento": "43",
+          "valorDocumento": 2900.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2023/7536306.pdf",
+          "nomeFornecedor": "QUASAR LOCADORA DE VEICULOS EIRELI",
+          "cnpjCpfFornecedor": "38024675000143",
+          "valorLiquido": 2900.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

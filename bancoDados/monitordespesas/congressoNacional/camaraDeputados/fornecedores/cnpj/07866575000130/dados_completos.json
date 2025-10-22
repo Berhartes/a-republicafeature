@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CALHÃO & CHEMIN LTDA-ME",
+      "cnpj": "07866575000130",
+      "total_recebido": 148.25,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:05.701048"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 148.25
+  },
+  "anos": {
+    "2023": {
+      "total": 148.25,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220596": {
+      "deputado": {
+        "id": 220596,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220596",
+        "nome": "Amália Barros",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220596.jpg",
+        "email": null
+      },
+      "total": 148.25,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7520319,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-03T00:00:00",
+          "numDocumento": "357765",
+          "valorDocumento": 47.76,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7520319.pdf",
+          "nomeFornecedor": "CALHÃO & CHEMIN LTDA-ME",
+          "cnpjCpfFornecedor": "07866575000130",
+          "valorLiquido": 42.76,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7507491,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-09T00:00:00",
+          "numDocumento": "346874",
+          "valorDocumento": 56.1,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7507491.pdf",
+          "nomeFornecedor": "CALHÃO & CHEMIN LTDA-ME",
+          "cnpjCpfFornecedor": "07866575000130",
+          "valorLiquido": 56.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7507711,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-17T00:00:00",
+          "numDocumento": "348508",
+          "valorDocumento": 49.39,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7507711.pdf",
+          "nomeFornecedor": "CALHÃO & CHEMIN LTDA-ME",
+          "cnpjCpfFornecedor": "07866575000130",
+          "valorLiquido": 49.39,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

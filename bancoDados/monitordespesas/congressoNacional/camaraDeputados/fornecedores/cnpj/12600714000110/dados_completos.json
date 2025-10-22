@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO BRASILINO LTDA",
+      "cnpj": "12600714000110",
+      "total_recebido": 472.11,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:55:10.904361"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 472.11
+  },
+  "anos": {
+    "2023": {
+      "total": 233.01,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 239.1,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204426": {
+      "deputado": {
+        "id": 204426,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204426",
+        "nome": "Carlos Veras",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
+        "email": "dep.carlosveras@camara.leg.br"
+      },
+      "total": 472.11,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7532930,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-16T00:00:00",
+          "numDocumento": "425820",
+          "valorDocumento": 233.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7532930",
+          "nomeFornecedor": "AUTO POSTO BRASILINO LTDA",
+          "cnpjCpfFornecedor": "12600714000110",
+          "valorLiquido": 233.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7808693,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-08T13:33:38",
+          "numDocumento": "63628",
+          "valorDocumento": 239.1,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7808693",
+          "nomeFornecedor": "AUTO POSTO BRASILINO LTDA",
+          "cnpjCpfFornecedor": "12600714000110",
+          "valorLiquido": 239.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

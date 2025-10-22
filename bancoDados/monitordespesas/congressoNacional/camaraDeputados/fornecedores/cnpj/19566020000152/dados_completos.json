@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MMN Serviços de Hospedagem",
+      "cnpj": "19566020000152",
+      "total_recebido": 177.52,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:46.774798"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 177.52
+  },
+  "anos": {
+    "2024": {
+      "total": 177.52,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "210989": {
+      "deputado": {
+        "id": 210989,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/210989",
+        "nome": "Bruno Farias",
+        "siglaPartido": "AVANTE",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/210989.jpg",
+        "email": "dep.brunofarias@camara.leg.br"
+      },
+      "total": 177.52,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7767895,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-14T00:00:00",
+          "numDocumento": "20245482",
+          "valorDocumento": 177.52,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3624/2024/7767895.pdf",
+          "nomeFornecedor": "MMN Serviços de Hospedagem",
+          "cnpjCpfFornecedor": "19566020000152",
+          "valorLiquido": 177.52,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

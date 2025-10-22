@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO DE COMBUSTIVEIS VACCARI LTDA",
+      "cnpj": "87687489000108",
+      "total_recebido": 1795.8600000000004,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:40.293196"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1795.8600000000004
+  },
+  "anos": {
+    "2023": {
+      "total": 1581.9500000000003,
+      "transacoes": 6,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 213.91,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160538": {
+      "deputado": {
+        "id": 160538,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160538",
+        "nome": "Bohn Gass",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160538.jpg",
+        "email": "dep.bohngass@camara.leg.br"
+      },
+      "total": 1795.8600000000004,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7627905,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-09T00:00:00",
+          "numDocumento": "396525",
+          "valorDocumento": 282.96,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7627905",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS VACCARI LTDA",
+          "cnpjCpfFornecedor": "87687489000108",
+          "valorLiquido": 282.96,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7546793,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-19T00:00:00",
+          "numDocumento": "210843",
+          "valorDocumento": 261.78,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7546793",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS VACCARI LTDA",
+          "cnpjCpfFornecedor": "87687489000108",
+          "valorLiquido": 261.78,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7539086,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-18T00:00:00",
+          "numDocumento": "172661",
+          "valorDocumento": 235.96,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7539086",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS VACCARI LTDA",
+          "cnpjCpfFornecedor": "87687489000108",
+          "valorLiquido": 235.96,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7512862,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-05T00:00:00",
+          "numDocumento": "119861",
+          "valorDocumento": 293.19,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7512862",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS VACCARI LTDA",
+          "cnpjCpfFornecedor": "87687489000108",
+          "valorLiquido": 293.19,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7516589,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-24T00:00:00",
+          "numDocumento": "142510",
+          "valorDocumento": 268.89,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7516589",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS VACCARI LTDA",
+          "cnpjCpfFornecedor": "87687489000108",
+          "valorLiquido": 268.89,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7521468,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-30T00:00:00",
+          "numDocumento": "148757",
+          "valorDocumento": 239.17,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7521468",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS VACCARI LTDA",
+          "cnpjCpfFornecedor": "87687489000108",
+          "valorLiquido": 239.17,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7850811,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-15T23:02:20",
+          "numDocumento": "1003996",
+          "valorDocumento": 213.91,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7850811",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS VACCARI LTDA",
+          "cnpjCpfFornecedor": "87687489000108",
+          "valorLiquido": 213.91,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

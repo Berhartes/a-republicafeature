@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Cipriani & Cipriani Ltda._ME",
+      "cnpj": "01805545000138",
+      "total_recebido": 27880.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:52.903716"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 27880.0
+  },
+  "anos": {
+    "2023": {
+      "total": 5080.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 22800.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "123756": {
+      "deputado": {
+        "id": 123756,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/123756",
+        "nome": "Antônia Lúcia",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "AC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/123756.jpg",
+        "email": "dep.antonialucia@camara.leg.br"
+      },
+      "total": 27880.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7659295,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-06T00:00:00",
+          "numDocumento": "993",
+          "valorDocumento": 5080.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7659295",
+          "nomeFornecedor": "Cipriani & Cipriani Ltda._ME",
+          "cnpjCpfFornecedor": "01805545000138",
+          "valorLiquido": 5080.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7783326,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-13T00:00:00",
+          "numDocumento": "1095",
+          "valorDocumento": 9460.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7783326",
+          "nomeFornecedor": "Cipriani Importacao e Exportacao Ltda",
+          "cnpjCpfFornecedor": "01805545000138",
+          "valorLiquido": 9460.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7729932,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-30T00:00:00",
+          "numDocumento": "1068",
+          "valorDocumento": 13340.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2258/2024/7729932.pdf",
+          "nomeFornecedor": "Cipriani & Cipriani Ltda._ME",
+          "cnpjCpfFornecedor": "01805545000138",
+          "valorLiquido": 13340.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

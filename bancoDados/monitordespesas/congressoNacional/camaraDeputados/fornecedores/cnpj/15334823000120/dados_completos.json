@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO CONQUISTA LTDA",
+      "cnpj": "15334823000120",
+      "total_recebido": 314.06,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:53:48.143057"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 314.06
+  },
+  "anos": {
+    "2023": {
+      "total": 264.06,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 50.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220548": {
+      "deputado": {
+        "id": 220548,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220548",
+        "nome": "Camila Jara",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "MS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
+        "email": "dep.camilajara@camara.leg.br"
+      },
+      "total": 314.06,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7529616,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-16T00:00:00",
+          "numDocumento": "442893",
+          "valorDocumento": 184.06,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7529616",
+          "nomeFornecedor": "POSTO CONQUISTA LTDA",
+          "cnpjCpfFornecedor": "15334823000120",
+          "valorLiquido": 184.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7506344,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-06T00:00:00",
+          "numDocumento": "427481",
+          "valorDocumento": 80.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7506344",
+          "nomeFornecedor": "POSTO CONQUISTA LTDA",
+          "cnpjCpfFornecedor": "15334823000120",
+          "valorLiquido": 80.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7836363,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-26T00:00:00",
+          "numDocumento": "659974",
+          "valorDocumento": 50.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7836363",
+          "nomeFornecedor": "POSTO CONQUISTA LTDA",
+          "cnpjCpfFornecedor": "15334823000120",
+          "valorLiquido": 50.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

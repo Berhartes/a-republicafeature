@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "RAYANE SERVICOS GRAFICOS E PUBLICITARIOS EIRELI - ME",
+      "cnpj": "27336716000110",
+      "total_recebido": 420.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:52.936306"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 420.0
+  },
+  "anos": {
+    "2023": {
+      "total": 420.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "123756": {
+      "deputado": {
+        "id": 123756,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/123756",
+        "nome": "Antônia Lúcia",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "AC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/123756.jpg",
+        "email": "dep.antonialucia@camara.leg.br"
+      },
+      "total": 420.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7546752,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-03T00:00:00",
+          "numDocumento": "2873",
+          "valorDocumento": 420.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7546752",
+          "nomeFornecedor": "RAYANE SERVICOS GRAFICOS E PUBLICITARIOS EIRELI - ME",
+          "cnpjCpfFornecedor": "27336716000110",
+          "valorLiquido": 420.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

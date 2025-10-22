@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "REDE FARROUPILHA GESTAO, VAR E INOVACAO LTDA",
+      "cnpj": "87091997001001",
+      "total_recebido": 598.04,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:12.226887"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 598.04
+  },
+  "anos": {
+    "2023": {
+      "total": 408.03999999999996,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 190.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220549": {
+      "deputado": {
+        "id": 220549,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220549",
+        "nome": "Any Ortiz",
+        "siglaPartido": "CIDADANIA",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
+        "email": "dep.anyortiz@camara.leg.br"
+      },
+      "total": 598.04,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7678454,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-28T00:00:00",
+          "numDocumento": "119056",
+          "valorDocumento": 194.26,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7678454",
+          "nomeFornecedor": "REDE FARROUPILHA GESTAO, VAR E INOVACAO LTDA",
+          "cnpjCpfFornecedor": "87091997001001",
+          "valorLiquido": 194.26,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7542904,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-16T00:00:00",
+          "numDocumento": "49381",
+          "valorDocumento": 213.78,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7542904",
+          "nomeFornecedor": "ABAST FARROUPILHA LTDA",
+          "cnpjCpfFornecedor": "87091997001001",
+          "valorLiquido": 213.78,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7823166,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-30T09:02:18",
+          "numDocumento": "239544",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7823166",
+          "nomeFornecedor": "REDE FARROUPILHA GESTAO, VAR E INOVACAO LTDA",
+          "cnpjCpfFornecedor": "87091997001001",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7722462,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-22T10:24:49",
+          "numDocumento": "170541",
+          "valorDocumento": 40.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7722462",
+          "nomeFornecedor": "REDE FARROUPILHA GESTAO, VAR E INOVACAO LTDA",
+          "cnpjCpfFornecedor": "87091997001001",
+          "valorLiquido": 40.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

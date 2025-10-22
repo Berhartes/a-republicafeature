@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO ECCELLENZA LTDA",
+      "cnpj": "04372562000117",
+      "total_recebido": 1392.8700000000001,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:21.123789"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1392.8700000000001
+  },
+  "anos": {
+    "2023": {
+      "total": 869.61,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 523.26,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220683": {
+      "deputado": {
+        "id": 220683,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220683",
+        "nome": "Beto Richa",
+        "siglaPartido": "PSDB",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220683.jpg",
+        "email": "dep.betoricha@camara.leg.br"
+      },
+      "total": 1392.8700000000001,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7649573,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-16T00:00:00",
+          "numDocumento": "1745815",
+          "valorDocumento": 491.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7649573",
+          "nomeFornecedor": "AUTO POSTO ECCELLENZA LTDA",
+          "cnpjCpfFornecedor": "04372562000117",
+          "valorLiquido": 491.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7615331,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-22T00:00:00",
+          "numDocumento": "1691411",
+          "valorDocumento": 378.61,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7615331",
+          "nomeFornecedor": "AUTO POSTO ECCELLENZA LTDA",
+          "cnpjCpfFornecedor": "04372562000117",
+          "valorLiquido": 378.61,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7843049,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-25T07:12:30",
+          "numDocumento": "91069",
+          "valorDocumento": 250.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7843049",
+          "nomeFornecedor": "AUTO POSTO ECCELLENZA LTDA",
+          "cnpjCpfFornecedor": "04372562000117",
+          "valorLiquido": 250.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7812691,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-17T00:00:00",
+          "numDocumento": "17320",
+          "valorDocumento": 273.26,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7812691",
+          "nomeFornecedor": "AUTO POSTO ECCELLENZA LTDA",
+          "cnpjCpfFornecedor": "04372562000117",
+          "valorLiquido": 273.26,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Coopercitrus cooperativa de produtores rurais",
+      "cnpj": "45236791010740",
+      "total_recebido": 304.05,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:48.608679"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 304.05
+  },
+  "anos": {
+    "2024": {
+      "total": 304.05,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204515": {
+      "deputado": {
+        "id": 204515,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204515",
+        "nome": "André Janones",
+        "siglaPartido": "AVANTE",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
+        "email": "dep.andrejanones@camara.leg.br"
+      },
+      "total": 304.05,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7823537,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-01T00:00:00",
+          "numDocumento": "77826",
+          "valorDocumento": 171.25,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2024/7823537.pdf",
+          "nomeFornecedor": "Coopercitrus cooperativa de produtores rurais",
+          "cnpjCpfFornecedor": "45236791010740",
+          "valorLiquido": 171.25,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7697382,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-26T00:00:00",
+          "numDocumento": "54773",
+          "valorDocumento": 132.8,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2024/7697382.pdf",
+          "nomeFornecedor": "Coopercitrus cooperativa de produtores rurais",
+          "cnpjCpfFornecedor": "45236791010740",
+          "valorLiquido": 132.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

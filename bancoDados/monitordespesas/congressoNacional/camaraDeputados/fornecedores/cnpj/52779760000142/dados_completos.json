@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "A BROTHER FILMS LTDA",
+      "cnpj": "52779760000142",
+      "total_recebido": 72500.0,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:21.159378"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 72500.0
+  },
+  "anos": {
+    "2023": {
+      "total": 16500.0,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 56000.0,
+      "transacoes": 6,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220683": {
+      "deputado": {
+        "id": 220683,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220683",
+        "nome": "Beto Richa",
+        "siglaPartido": "PSDB",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220683.jpg",
+        "email": "dep.betoricha@camara.leg.br"
+      },
+      "total": 72500.0,
+      "transacoes": 8,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7651664,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-30T00:00:00",
+          "numDocumento": "9",
+          "valorDocumento": 7500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3694/2023/7651664.pdf",
+          "nomeFornecedor": "A BROTHER FILMS LTDA",
+          "cnpjCpfFornecedor": "52779760000142",
+          "valorLiquido": 7500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7637885,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-07T00:00:00",
+          "numDocumento": "1",
+          "valorDocumento": 9000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3694/2023/7637885.pdf",
+          "nomeFornecedor": "A BROTHER FILMS LTDA",
+          "cnpjCpfFornecedor": "52779760000142",
+          "valorLiquido": 9000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7790231,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-15T00:00:00",
+          "numDocumento": "33",
+          "valorDocumento": 12000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3694/2024/7790231.pdf",
+          "nomeFornecedor": "A BROTHER FILMS LTDA",
+          "cnpjCpfFornecedor": "52779760000142",
+          "valorLiquido": 12000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7740587,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-23T00:00:00",
+          "numDocumento": "29",
+          "valorDocumento": 12000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3694/2024/7740587.pdf",
+          "nomeFornecedor": "A BROTHER FILMS LTDA",
+          "cnpjCpfFornecedor": "52779760000142",
+          "valorLiquido": 12000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7723755,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-23T00:00:00",
+          "numDocumento": "27",
+          "valorDocumento": 8000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3694/2024/7723755.pdf",
+          "nomeFornecedor": "A BROTHER FILMS LTDA",
+          "cnpjCpfFornecedor": "52779760000142",
+          "valorLiquido": 8000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7708165,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-22T00:00:00",
+          "numDocumento": "26",
+          "valorDocumento": 8000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3694/2024/7708165.pdf",
+          "nomeFornecedor": "A BROTHER FILMS LTDA",
+          "cnpjCpfFornecedor": "52779760000142",
+          "valorLiquido": 8000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7691506,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-26T00:00:00",
+          "numDocumento": "25",
+          "valorDocumento": 8000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3694/2024/7691506.pdf",
+          "nomeFornecedor": "A BROTHER FILMS LTDA",
+          "cnpjCpfFornecedor": "52779760000142",
+          "valorLiquido": 8000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7675136,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-19T00:00:00",
+          "numDocumento": "22",
+          "valorDocumento": 8000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3694/2024/7675136.pdf",
+          "nomeFornecedor": "A BROTHER FILMS LTDA",
+          "cnpjCpfFornecedor": "52779760000142",
+          "valorLiquido": 8000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

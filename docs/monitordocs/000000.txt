@@ -1,0 +1,80 @@
+vejo valor no fluxo que você montou: API oficial → ETL → banco canônico → processamento ETC → caches JSON → frontend. Essa linha é sólida e escalável. Os pontos de atenção são contrato de dados, versionamento, validação e experiência de desenvolvimento. Abaixo deixo um plano pragmático para você evoluir com segurança e velocidade.
+
+Visão Geral
+
+Seu “zero ao frontend” funciona, mas precisa de contratos claros entre ETC e frontend para evitar quebras e inconsistências.
+Trate os caches como uma API estática versionada: com schemas, metadados e política de ruptura.
+Garanta uma boa experiência de dev: dados de exemplo para desenvolvimento, feedback rápido, logs úteis e erros amigáveis.
+Fluxo Recomendido
+
+ETL: roda agendado (cron/CI), idempotente, grava um dataset canônico no banco/arquivos.
+ETC: processa tudo do banco canônico e publica caches JSON sob packages/monitor-despesas/public/cache/....
+Publicação: cada arquivo de cache deve ter metadata com version, generatedAt, itemCount, checksum (opcional).
+Frontend: hooks como useDeputadosETC leem caches, com fallback e “stale-while-revalidate” quando aplicável.
+Contratos e Versionamento
+
+Defina JSON Schemas por arquivo de cache e valide no CI:
+deputados-perfildespesas.json: deputados[], estatisticas, metadata.
+deputados-premiacoes.json: premiacoes[id] = { coroas[], trofeus[], medalhas[] }, metadata.
+Use semver na metadata.version:
+major: mudanças de quebra no contrato,
+minor: campos novos compatíveis,
+patch: correções de dados.
+Inclua officialStrings nos objetos de premiação para padronizar termos exibidos.
+Qualidade de Dados
+
+Checks no ETC antes de publicar:
+Integridade: IDs únicos, relações válidas (deputadoId presente nos dois caches).
+Completude: campos obrigatórios não nulos.
+Consistência: “termos oficiais” centralizados (um dicionário, não soltos nos componentes).
+Estatísticas coerentes (somas, médias).
+Observabilidade e Erros
+
+Padronize logs de ETL/ETC (info/warn/error) com contexto (arquivo, contagem).
+No frontend: error boundary e mensagens amigáveis quando cache ausente (ex.: “Premiações indisponíveis no momento”).
+Não “exploda” ao faltar premiações; usamos objeto vazio e logger.warn — isso já está alinhado.
+Performance
+
+Particione caches por escopo: perfil, rankings, premiações (como você já está indicando).
+Pré-compute rankings e agregações no ETC; evite cálculos pesados no cliente.
+Carregue sob demanda (lazy) o que for volumoso (ex.: premiações detalhadas só no perfil).
+Acessibilidade e UX
+
+Continue adicionando aria-label, placeholder e rótulos visíveis nos Select.
+Padronize componentes via design system (botões, selects, tooltips) e teste com Lighthouse/axe.
+Segurança e Conformidade
+
+Evite dados sensíveis em caches públicos.
+Sanitize strings antes de renderizar no frontend.
+Defina política de CORS, CSP e headers adequados se hospedar estático/CDN.
+Workflow de Desenvolvimento (com Vibe Code)
+
+Tenha “dados de desenvolvimento” (seeds) para trabalhar offline:
+Coloque versões mínimas dos caches com 2–3 deputados representativos.
+Scripts úteis:
+pnpm -w dev para orquestrar tudo,
+pnpm etl:run e pnpm etc:build para regenerar caches,
+CI que valida schemas e publica caches.
+Documente “como rodar” e “como regenerar caches” no README do monitor-despesas.
+Quick Wins (imediatos)
+
+Gerar caches mínimos que seu frontend espera:
+packages/monitor-despesas/public/cache/deputados/deputados-perfildespesas.json
+packages/monitor-despesas/public/cache/deputados/deputados-premiacoes.json
+Estruturas sugeridas (resumo):
+deputados-perfildespesas.json:
+deputados: [{ id, nome, partido, uf, gastosTotais, itens: [...] }]
+estatisticas: { totalDeputados, gastosTotais, mediaGastos }
+metadata: { version, generatedAt, itemCount }
+deputados-premiacoes.json:
+premiacoes: { [id]: { coroas: [...], trofeus: [...], medalhas: [...] } }
+cada item inclui categoriaOficial, valor, periodo, fonte, observacao.
+metadata: { version, generatedAt, itemCount }
+Adicione DOCUMENTACAO_MIGRACAO_ETC.md com os contratos e exemplos JSON reais para reduzir atrito.
+Próximos Passos
+
+Especificar e escrever JSON Schemas para os caches.
+Criar job ETC que publica esses caches no local correto e com metadados.
+Adicionar validação de schemas no CI e antes do vite build.
+Completar a migração restante para useDeputadosETC e remover GlobalData/serviços legados.
+Colocar seeds de desenvolvimento para que o site sempre tenha algo para mostrar durante a criação com Vibe Code.

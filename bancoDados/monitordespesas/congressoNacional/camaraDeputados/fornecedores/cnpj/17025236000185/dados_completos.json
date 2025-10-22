@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "LIZARA HOTEL E RESTAURANTE EIRELI - EPP",
+      "cnpj": "17025236000185",
+      "total_recebido": 1453.5200000000002,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:55:19.154840"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 1453.5200000000002
+  },
+  "anos": {
+    "2024": {
+      "total": 1453.5200000000002,
+      "transacoes": 5,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "164360": {
+      "deputado": {
+        "id": 164360,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164360",
+        "nome": "Carmen Zanotto",
+        "siglaPartido": "CIDADANIA",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/164360.jpg",
+        "email": null
+      },
+      "total": 1453.5200000000002,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7851097,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-13T00:00:00",
+          "numDocumento": "21894",
+          "valorDocumento": 274.18,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2433/2024/7851097.pdf",
+          "nomeFornecedor": "LIZARA HOTEL E RESTAURANTE EIRELI - EPP",
+          "cnpjCpfFornecedor": "17025236000185",
+          "valorLiquido": 274.18,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7837567,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-07T00:00:00",
+          "numDocumento": "20698",
+          "valorDocumento": 301.72,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2433/2024/7837567.pdf",
+          "nomeFornecedor": "LIZARA HOTEL E RESTAURANTE EIRELI - EPP",
+          "cnpjCpfFornecedor": "17025236000185",
+          "valorLiquido": 301.72,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7838196,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-09T00:00:00",
+          "numDocumento": "20745",
+          "valorDocumento": 301.72,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2433/2024/7838196.pdf",
+          "nomeFornecedor": "LIZARA HOTEL E RESTAURANTE EIRELI - EPP",
+          "cnpjCpfFornecedor": "17025236000185",
+          "valorLiquido": 301.72,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7838205,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-23T00:00:00",
+          "numDocumento": "21251",
+          "valorDocumento": 301.72,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2433/2024/7838205.pdf",
+          "nomeFornecedor": "LIZARA HOTEL E RESTAURANTE EIRELI - EPP",
+          "cnpjCpfFornecedor": "17025236000185",
+          "valorLiquido": 301.72,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7841821,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-29T00:00:00",
+          "numDocumento": "21409",
+          "valorDocumento": 274.18,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2433/2024/7841821.pdf",
+          "nomeFornecedor": "LIZARA HOTEL E RESTAURANTE EIRELI - EPP",
+          "cnpjCpfFornecedor": "17025236000185",
+          "valorLiquido": 274.18,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

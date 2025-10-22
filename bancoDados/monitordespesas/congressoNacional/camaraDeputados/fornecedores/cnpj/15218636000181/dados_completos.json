@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO COLONIAL LTDA",
+      "cnpj": "15218636000181",
+      "total_recebido": 2066.14,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:50.744696"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 2066.14
+  },
+  "anos": {
+    "2023": {
+      "total": 1066.08,
+      "transacoes": 4,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 1000.06,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220676": {
+      "deputado": {
+        "id": 220676,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220676",
+        "nome": "Andreia Siqueira",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "PA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220676.jpg",
+        "email": "dep.andreiasiqueira@camara.leg.br"
+      },
+      "total": 2066.14,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7668207,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-20T00:00:00",
+          "numDocumento": "213332",
+          "valorDocumento": 258.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7668207",
+          "nomeFornecedor": "AUTO POSTO COLONIAL LTDA",
+          "cnpjCpfFornecedor": "15218636000181",
+          "valorLiquido": 258.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7649169,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-27T00:00:00",
+          "numDocumento": "208989",
+          "valorDocumento": 279.78,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7649169",
+          "nomeFornecedor": "AUTO POSTO COLONIAL LTDA",
+          "cnpjCpfFornecedor": "15218636000181",
+          "valorLiquido": 279.78,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7560906,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-13T00:00:00",
+          "numDocumento": "179797",
+          "valorDocumento": 260.22,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7560906",
+          "nomeFornecedor": "AUTO POSTO COLONIAL LTDA",
+          "cnpjCpfFornecedor": "15218636000181",
+          "valorLiquido": 260.22,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7518188,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-18T00:00:00",
+          "numDocumento": "168395",
+          "valorDocumento": 268.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7518188",
+          "nomeFornecedor": "AUTO POSTO COLONIAL LTDA",
+          "cnpjCpfFornecedor": "15218636000181",
+          "valorLiquido": 268.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7838125,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-17T13:45:19",
+          "numDocumento": "285432",
+          "valorDocumento": 390.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7838125",
+          "nomeFornecedor": "AUTO POSTO COLONIAL LTDA",
+          "cnpjCpfFornecedor": "15218636000181",
+          "valorLiquido": 390.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7804783,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-11T11:16:04",
+          "numDocumento": "266356",
+          "valorDocumento": 360.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7804783",
+          "nomeFornecedor": "AUTO POSTO COLONIAL LTDA",
+          "cnpjCpfFornecedor": "15218636000181",
+          "valorLiquido": 360.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7699658,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-06T07:45:20",
+          "numDocumento": "226736",
+          "valorDocumento": 250.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7699658",
+          "nomeFornecedor": "AUTO POSTO COLONIAL LTDA",
+          "cnpjCpfFornecedor": "15218636000181",
+          "valorLiquido": 250.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

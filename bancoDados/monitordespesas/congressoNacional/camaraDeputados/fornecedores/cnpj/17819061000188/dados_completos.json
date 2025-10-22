@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SAE",
+      "cnpj": "17819061000188",
+      "total_recebido": 152.9,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:48.641143"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 152.9
+  },
+  "anos": {
+    "2024": {
+      "total": 152.9,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204515": {
+      "deputado": {
+        "id": 204515,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204515",
+        "nome": "André Janones",
+        "siglaPartido": "AVANTE",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
+        "email": "dep.andrejanones@camara.leg.br"
+      },
+      "total": 152.9,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7809604,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-06T00:00:00",
+          "numDocumento": "187720820245",
+          "valorDocumento": 27.05,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2024/7809604.pdf",
+          "nomeFornecedor": "SAE",
+          "cnpjCpfFornecedor": "17819061000188",
+          "valorLiquido": 27.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7766807,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-08T00:00:00",
+          "numDocumento": "18772062024-9",
+          "valorDocumento": 27.05,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2024/7766807.pdf",
+          "nomeFornecedor": "SAE",
+          "cnpjCpfFornecedor": "17819061000188",
+          "valorLiquido": 27.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7749029,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-08T00:00:00",
+          "numDocumento": "18772052024",
+          "valorDocumento": 61.79,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2024/7749029.pdf",
+          "nomeFornecedor": "SAE",
+          "cnpjCpfFornecedor": "17819061000188",
+          "valorLiquido": 61.79,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7732006,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-08T00:00:00",
+          "numDocumento": "18772042024-4",
+          "valorDocumento": 37.38,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2024/7732006.pdf",
+          "nomeFornecedor": "SAE",
+          "cnpjCpfFornecedor": "17819061000188",
+          "valorLiquido": 37.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

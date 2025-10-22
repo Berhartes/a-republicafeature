@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SANTA EUDOXIA COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "16785879000164",
+      "total_recebido": 342.58,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:41.278815"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 342.58
+  },
+  "anos": {
+    "2024": {
+      "total": 342.58,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74052": {
+      "deputado": {
+        "id": 74052,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74052",
+        "nome": "Bosco Costa",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74052.jpg",
+        "email": null
+      },
+      "total": 342.58,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7813995,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-02T00:00:00",
+          "numDocumento": "451685",
+          "valorDocumento": 359.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7813995",
+          "nomeFornecedor": "SANTA EUDOXIA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "16785879000164",
+          "valorLiquido": 342.58,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

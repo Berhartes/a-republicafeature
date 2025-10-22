@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MAREDOMUS TURISMO EIRELI",
+      "cnpj": "02905530000104",
+      "total_recebido": 3246.87,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:43.169466"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 3246.87
+  },
+  "anos": {
+    "2023": {
+      "total": 240.55,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 828.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 2178.32,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "133439": {
+      "deputado": {
+        "id": 133439,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/133439",
+        "nome": "André Figueiredo",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/133439.jpg",
+        "email": "dep.andrefigueiredo@camara.leg.br"
+      },
+      "total": 3246.87,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7566254,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-29T00:00:00",
+          "numDocumento": "39731",
+          "valorDocumento": 240.55,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2023/7566254.pdf",
+          "nomeFornecedor": "MAREDOMUS TURISMO EIRELI",
+          "cnpjCpfFornecedor": "02905530000104",
+          "valorLiquido": 240.55,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7719580,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-13T00:00:00",
+          "numDocumento": "42324",
+          "valorDocumento": 828.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2024/7719580.pdf",
+          "nomeFornecedor": "MAREDOMUS TURISMO EIRELI",
+          "cnpjCpfFornecedor": "02905530000104",
+          "valorLiquido": 828.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7992143,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-30T00:00:00",
+          "numDocumento": "47125",
+          "valorDocumento": 634.32,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2025/7992143.pdf",
+          "nomeFornecedor": "MAREDOMUS TURISMO EIRELI",
+          "cnpjCpfFornecedor": "02905530000104",
+          "valorLiquido": 634.32,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7921538,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-28T00:00:00",
+          "numDocumento": "45921",
+          "valorDocumento": 286.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2025/7921538.pdf",
+          "nomeFornecedor": "MAREDOMUS TURISMO EIRELI",
+          "cnpjCpfFornecedor": "02905530000104",
+          "valorLiquido": 286.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7923233,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-31T00:00:00",
+          "numDocumento": "46014",
+          "valorDocumento": 286.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2025/7923233.pdf",
+          "nomeFornecedor": "MAREDOMUS TURISMO EIRELI",
+          "cnpjCpfFornecedor": "02905530000104",
+          "valorLiquido": 286.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 1,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7861023,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-01-22T00:00:00",
+          "numDocumento": "44531",
+          "valorDocumento": 972.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2025/7861023.pdf",
+          "nomeFornecedor": "MAREDOMUS TURISMO EIRELI",
+          "cnpjCpfFornecedor": "02905530000104",
+          "valorLiquido": 972.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

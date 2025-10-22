@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "TRI HOTEL PREMIUM",
+      "cnpj": "20947458002022",
+      "total_recebido": 490.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:42.986596"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 490.0
+  },
+  "anos": {
+    "2024": {
+      "total": 490.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204361": {
+      "deputado": {
+        "id": 204361,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
+        "nome": "Carlos Chiodini",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+        "email": null
+      },
+      "total": 490.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7846276,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-11T00:00:00",
+          "numDocumento": "16964",
+          "valorDocumento": 245.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7846276.pdf",
+          "nomeFornecedor": "TRI HOTEL PREMIUM",
+          "cnpjCpfFornecedor": "20947458002022",
+          "valorLiquido": 245.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7846204,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-11T00:00:00",
+          "numDocumento": "16967",
+          "valorDocumento": 245.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7846204.pdf",
+          "nomeFornecedor": "TRI HOTEL PREMIUM",
+          "cnpjCpfFornecedor": "20947458002022",
+          "valorLiquido": 245.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

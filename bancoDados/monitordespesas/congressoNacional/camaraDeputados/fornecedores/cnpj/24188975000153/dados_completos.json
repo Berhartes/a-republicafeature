@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SUPREMA COMBUSTIVEIS LTDA",
+      "cnpj": "24188975000153",
+      "total_recebido": 2115.35,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:50.375320"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 2115.35
+  },
+  "anos": {
+    "2023": {
+      "total": 650.04,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 758.39,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 706.9200000000001,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178993": {
+      "deputado": {
+        "id": 178993,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178993",
+        "nome": "Carlos Henrique Gaguim",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178993.jpg",
+        "email": "dep.carloshenriquegaguim@camara.leg.br"
+      },
+      "total": 2115.35,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7670635,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-30T00:00:00",
+          "numDocumento": "2521",
+          "valorDocumento": 260.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7670635",
+          "nomeFornecedor": "SUPREMA COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "24188975000153",
+          "valorLiquido": 260.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7588416,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-07T00:00:00",
+          "numDocumento": "9395",
+          "valorDocumento": 390.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7588416",
+          "nomeFornecedor": "SUPREMA COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "24188975000153",
+          "valorLiquido": 390.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7841676,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-06T14:49:30",
+          "numDocumento": "218416",
+          "valorDocumento": 418.36,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7841676",
+          "nomeFornecedor": "SUPREMA COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "24188975000153",
+          "valorLiquido": 418.36,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7710769,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-29T10:11:03",
+          "numDocumento": "43421",
+          "valorDocumento": 340.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7710769",
+          "nomeFornecedor": "SUPREMA COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "24188975000153",
+          "valorLiquido": 340.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7925517,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-09T07:59:46",
+          "numDocumento": "120491",
+          "valorDocumento": 270.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7925517",
+          "nomeFornecedor": "SUPREMA COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "24188975000153",
+          "valorLiquido": 270.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7932094,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-13T00:00:00",
+          "numDocumento": "38460",
+          "valorDocumento": 244.33,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7932094",
+          "nomeFornecedor": "SUPREMA COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "24188975000153",
+          "valorLiquido": 244.33,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7901858,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-22T14:05:37",
+          "numDocumento": "30062",
+          "valorDocumento": 192.57,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7901858",
+          "nomeFornecedor": "SUPREMA COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "24188975000153",
+          "valorLiquido": 192.57,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

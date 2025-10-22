@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ALMEIDA E BARROS COMERCIO LTDA",
+      "cnpj": "41576958000102",
+      "total_recebido": 604.27,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:22.653406"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 604.27
+  },
+  "anos": {
+    "2024": {
+      "total": 604.27,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160541": {
+      "deputado": {
+        "id": 160541,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160541",
+        "nome": "Arthur Lira",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "AL",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160541.jpg",
+        "email": "dep.arthurlira@camara.leg.br"
+      },
+      "total": 604.27,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7820568,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-20T17:41:42",
+          "numDocumento": "392902",
+          "valorDocumento": 604.27,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7820568",
+          "nomeFornecedor": "ALMEIDA E BARROS COMERCIO LTDA",
+          "cnpjCpfFornecedor": "41576958000102",
+          "valorLiquido": 604.27,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

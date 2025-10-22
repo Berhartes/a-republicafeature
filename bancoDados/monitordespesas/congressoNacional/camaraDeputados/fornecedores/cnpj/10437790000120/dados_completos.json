@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "NPM COMERCIAL DE CONBUSTÍVEIS LTDA ME",
+      "cnpj": "10437790000120",
+      "total_recebido": 503.81,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:43.146966"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 503.81
+  },
+  "anos": {
+    "2023": {
+      "total": 257.24,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 246.57,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "133439": {
+      "deputado": {
+        "id": 133439,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/133439",
+        "nome": "André Figueiredo",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/133439.jpg",
+        "email": "dep.andrefigueiredo@camara.leg.br"
+      },
+      "total": 503.81,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7595306,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-20T00:00:00",
+          "numDocumento": "273985",
+          "valorDocumento": 257.24,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2023/7595306.pdf",
+          "nomeFornecedor": "NPM COMERCIAL DE CONBUSTÍVEIS LTDA ME",
+          "cnpjCpfFornecedor": "10437790000120",
+          "valorLiquido": 257.24,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7922423,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-30T00:00:00",
+          "numDocumento": "403566",
+          "valorDocumento": 246.57,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2025/7922423.pdf",
+          "nomeFornecedor": "NPM COMERCIAL DE CONBUSTÍVEIS LTDA ME",
+          "cnpjCpfFornecedor": "10437790000120",
+          "valorLiquido": 246.57,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

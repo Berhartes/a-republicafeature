@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "REDE LK DE POSTOS LTDA",
+      "cnpj": "01820806000431",
+      "total_recebido": 168.23,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:21.124829"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 168.23
+  },
+  "anos": {
+    "2024": {
+      "total": 168.23,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "141391": {
+      "deputado": {
+        "id": 141391,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141391",
+        "nome": "Arnaldo Jardim",
+        "siglaPartido": "CIDADANIA",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141391.jpg",
+        "email": "dep.arnaldojardim@camara.leg.br"
+      },
+      "total": 168.23,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7742162,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-23T00:00:00",
+          "numDocumento": "762290",
+          "valorDocumento": 168.23,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2024/7742162.pdf",
+          "nomeFornecedor": "REDE LK DE POSTOS LTDA",
+          "cnpjCpfFornecedor": "01820806000431",
+          "valorLiquido": 168.23,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

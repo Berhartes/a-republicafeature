@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO A2",
+      "cnpj": "19439445000109",
+      "total_recebido": 205.28,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:15.856947"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 205.28
+  },
+  "anos": {
+    "2024": {
+      "total": 205.28,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "73433": {
+      "deputado": {
+        "id": 73433,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73433",
+        "nome": "Arlindo Chinaglia",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73433.jpg",
+        "email": "dep.arlindochinaglia@camara.leg.br"
+      },
+      "total": 205.28,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7824398,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-04T00:00:00",
+          "numDocumento": "223946",
+          "valorDocumento": 205.28,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/974/2024/7824398.pdf",
+          "nomeFornecedor": "AUTO POSTO A2",
+          "cnpjCpfFornecedor": "19439445000109",
+          "valorLiquido": 205.28,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

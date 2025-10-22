@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEL SAN LUCAS LTDA",
+      "cnpj": "16870577000194",
+      "total_recebido": 220.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:32.709526"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 220.0
+  },
+  "anos": {
+    "2023": {
+      "total": 220.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204388": {
+      "deputado": {
+        "id": 204388,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388",
+        "nome": "Bibo Nunes",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
+        "email": "dep.bibonunes@camara.leg.br"
+      },
+      "total": 220.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7538461,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-05T00:00:00",
+          "numDocumento": "17318",
+          "valorDocumento": 220.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7538461.pdf",
+          "nomeFornecedor": "HOTEL SAN LUCAS LTDA",
+          "cnpjCpfFornecedor": "16870577000194",
+          "valorLiquido": 220.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

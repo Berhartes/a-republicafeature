@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO AGRICOPEL FL 15",
+      "cnpj": "83488882001690",
+      "total_recebido": 632.17,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:55:19.212145"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 632.17
+  },
+  "anos": {
+    "2024": {
+      "total": 632.17,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "164360": {
+      "deputado": {
+        "id": 164360,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164360",
+        "nome": "Carmen Zanotto",
+        "siglaPartido": "CIDADANIA",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/164360.jpg",
+        "email": null
+      },
+      "total": 632.17,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7757713,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-07T20:13:32",
+          "numDocumento": "72805",
+          "valorDocumento": 299.09,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7757713",
+          "nomeFornecedor": "POSTO AGRICOPEL FL 15",
+          "cnpjCpfFornecedor": "83488882001690",
+          "valorLiquido": 299.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7757717,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-15T16:51:46",
+          "numDocumento": "75746",
+          "valorDocumento": 333.08,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7757717",
+          "nomeFornecedor": "POSTO AGRICOPEL FL 15",
+          "cnpjCpfFornecedor": "83488882001690",
+          "valorLiquido": 333.08,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

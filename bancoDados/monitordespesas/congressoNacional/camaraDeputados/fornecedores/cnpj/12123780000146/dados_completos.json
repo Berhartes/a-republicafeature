@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO DE COMBUSTIVEIS CONNECTA CEILANDIA SUL LTDA",
+      "cnpj": "12123780000146",
+      "total_recebido": 1229.82,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:45.574777"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1229.82
+  },
+  "anos": {
+    "2023": {
+      "total": 1229.82,
+      "transacoes": 8,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178962": {
+      "deputado": {
+        "id": 178962,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178962",
+        "nome": "Carlos Gomes",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
+        "email": null
+      },
+      "total": 1229.82,
+      "transacoes": 8,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7637210,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-06T00:00:00",
+          "numDocumento": "57197",
+          "valorDocumento": 99.97,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7637210",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS CONNECTA CEILANDIA SUL LTDA",
+          "cnpjCpfFornecedor": "12123780000146",
+          "valorLiquido": 99.97,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7602069,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-01T00:00:00",
+          "numDocumento": "46431",
+          "valorDocumento": 50.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7602069",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS CONNECTA CEILANDIA SUL LTDA",
+          "cnpjCpfFornecedor": "12123780000146",
+          "valorLiquido": 50.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7602061,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-02T00:00:00",
+          "numDocumento": "46848",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7602061",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS CONNECTA CEILANDIA SUL LTDA",
+          "cnpjCpfFornecedor": "12123780000146",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7602064,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-03T00:00:00",
+          "numDocumento": "55096",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7602064",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS CONNECTA CEILANDIA SUL LTDA",
+          "cnpjCpfFornecedor": "12123780000146",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7611550,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-18T00:00:00",
+          "numDocumento": "56963",
+          "valorDocumento": 50.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7611550",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS CONNECTA CEILANDIA SUL LTDA",
+          "cnpjCpfFornecedor": "12123780000146",
+          "valorLiquido": 50.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7571242,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-05T00:00:00",
+          "numDocumento": "37188",
+          "valorDocumento": 282.79,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7571242",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS CONNECTA CEILANDIA SUL LTDA",
+          "cnpjCpfFornecedor": "12123780000146",
+          "valorLiquido": 282.79,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7562484,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-20T00:00:00",
+          "numDocumento": "46572",
+          "valorDocumento": 247.06,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7562484",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS CONNECTA CEILANDIA SUL LTDA",
+          "cnpjCpfFornecedor": "12123780000146",
+          "valorLiquido": 247.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7547614,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-22T00:00:00",
+          "numDocumento": "42217",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7547614",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS CONNECTA CEILANDIA SUL LTDA",
+          "cnpjCpfFornecedor": "12123780000146",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO TREVO PIRAUBA LTDA",
+      "cnpj": "07857658000163",
+      "total_recebido": 200.06,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:30.448740"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 200.06
+  },
+  "anos": {
+    "2024": {
+      "total": 200.06,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220632": {
+      "deputado": {
+        "id": 220632,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220632",
+        "nome": "Ana Pimentel",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220632.jpg",
+        "email": "dep.anapimentel@camara.leg.br"
+      },
+      "total": 200.06,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7796765,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-28T00:00:00",
+          "numDocumento": "184926",
+          "valorDocumento": 200.06,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3626/2024/7796765.pdf",
+          "nomeFornecedor": "POSTO TREVO PIRAUBA LTDA",
+          "cnpjCpfFornecedor": "07857658000163",
+          "valorLiquido": 200.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ZANIN E VIEIRA LTDA",
+      "cnpj": "04166671000188",
+      "total_recebido": 163.04,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:53:48.481068"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 163.04
+  },
+  "anos": {
+    "2025": {
+      "total": 163.04,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220548": {
+      "deputado": {
+        "id": 220548,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220548",
+        "nome": "Camila Jara",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "MS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
+        "email": "dep.camilajara@camara.leg.br"
+      },
+      "total": 163.04,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7955960,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-31T00:00:00",
+          "numDocumento": "472512",
+          "valorDocumento": 163.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7955960",
+          "nomeFornecedor": "ZANIN E VIEIRA LTDA",
+          "cnpjCpfFornecedor": "04166671000188",
+          "valorLiquido": 163.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

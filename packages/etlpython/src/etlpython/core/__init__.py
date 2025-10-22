@@ -1,0 +1,1 @@
+"""Core abstractions for ETL pipeline."""

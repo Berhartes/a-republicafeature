@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "REDE DE POSTOS AUTO POSTO CENTER LTDA  WENCESLAU",
+      "cnpj": "43648976000854",
+      "total_recebido": 100.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:32.925175"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 100.0
+  },
+  "anos": {
+    "2024": {
+      "total": 100.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204388": {
+      "deputado": {
+        "id": 204388,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388",
+        "nome": "Bibo Nunes",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
+        "email": "dep.bibonunes@camara.leg.br"
+      },
+      "total": 100.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7827580,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-07T12:01:50",
+          "numDocumento": "54962",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7827580",
+          "nomeFornecedor": "REDE DE POSTOS AUTO POSTO CENTER LTDA  WENCESLAU",
+          "cnpjCpfFornecedor": "43648976000854",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "25015036000170",
+      "total_recebido": 400.06,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:32.718647"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 400.06
+  },
+  "anos": {
+    "2023": {
+      "total": 400.06,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204388": {
+      "deputado": {
+        "id": 204388,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388",
+        "nome": "Bibo Nunes",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
+        "email": "dep.bibonunes@camara.leg.br"
+      },
+      "total": 400.06,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7528387,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-12T00:00:00",
+          "numDocumento": "135913",
+          "valorDocumento": 200.06,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7528387",
+          "nomeFornecedor": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "25015036000170",
+          "valorLiquido": 200.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7528401,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-14T00:00:00",
+          "numDocumento": "136053",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7528401",
+          "nomeFornecedor": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "25015036000170",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

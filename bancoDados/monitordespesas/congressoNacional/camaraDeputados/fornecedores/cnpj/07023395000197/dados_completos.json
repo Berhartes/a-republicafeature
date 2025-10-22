@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO PRECIOSO DO OESTE LTDA",
+      "cnpj": "07023395000197",
+      "total_recebido": 1005.85,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:27.645238"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1005.85
+  },
+  "anos": {
+    "2023": {
+      "total": 240.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 220.21,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 545.64,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160600": {
+      "deputado": {
+        "id": 160600,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160600",
+        "nome": "Arthur Oliveira Maia",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
+        "email": "dep.arthuroliveiramaia@camara.leg.br"
+      },
+      "total": 1005.85,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7637307,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-19T00:00:00",
+          "numDocumento": "597628",
+          "valorDocumento": 240.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7637307",
+          "nomeFornecedor": "AUTO POSTO PRECIOSO DO OESTE LTDA",
+          "cnpjCpfFornecedor": "07023395000197",
+          "valorLiquido": 240.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7724823,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-18T00:00:00",
+          "numDocumento": "645256",
+          "valorDocumento": 220.21,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7724823",
+          "nomeFornecedor": "AUTO POSTO PRECIOSO DO OESTE LTDA",
+          "cnpjCpfFornecedor": "07023395000197",
+          "valorLiquido": 220.21,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7946676,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-29T00:00:00",
+          "numDocumento": "791106",
+          "valorDocumento": 375.61,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7946676",
+          "nomeFornecedor": "AUTO POSTO PRECIOSO DO OESTE LTDA",
+          "cnpjCpfFornecedor": "07023395000197",
+          "valorLiquido": 375.61,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7926204,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-29T00:00:00",
+          "numDocumento": "782268",
+          "valorDocumento": 170.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7926204",
+          "nomeFornecedor": "AUTO POSTO PRECIOSO DO OESTE LTDA",
+          "cnpjCpfFornecedor": "07023395000197",
+          "valorLiquido": 170.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

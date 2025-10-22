@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "G&G COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
+      "cnpj": "31919309000103",
+      "total_recebido": 59.5,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:53:18.151241"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 59.5
+  },
+  "anos": {
+    "2023": {
+      "total": 59.5,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "143942": {
+      "deputado": {
+        "id": 143942,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143942",
+        "nome": "Caio Vianna",
+        "siglaPartido": "PSD",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/143942.jpg",
+        "email": "dep.caiovianna@camara.leg.br"
+      },
+      "total": 59.5,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7665530,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-19T00:00:00",
+          "numDocumento": "2108",
+          "valorDocumento": 65.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7665530",
+          "nomeFornecedor": "G&G COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
+          "cnpjCpfFornecedor": "31919309000103",
+          "valorLiquido": 59.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

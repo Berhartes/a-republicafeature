@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "DIARIO DE PERNAMBUCO S A",
+      "cnpj": "10803492000107",
+      "total_recebido": 1539.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:36.636623"
+  },
+  "categorias": {
+    "ASSINATURA DE PUBLICAÇÕES": 1539.0
+  },
+  "anos": {
+    "2023": {
+      "total": 513.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 513.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 513.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160665": {
+      "deputado": {
+        "id": 160665,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160665",
+        "nome": "Augusto Coutinho",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
+        "email": "dep.augustocoutinho@camara.leg.br"
+      },
+      "total": 1539.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "ASSINATURA DE PUBLICAÇÕES",
+          "codDocumento": 7590451,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-10T00:00:00",
+          "numDocumento": "388",
+          "valorDocumento": 513.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7590451",
+          "nomeFornecedor": "DIARIO DE PERNAMBUCO S A",
+          "cnpjCpfFornecedor": "10803492000107",
+          "valorLiquido": 513.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "ASSINATURA DE PUBLICAÇÕES",
+          "codDocumento": 7779859,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-17T00:00:00",
+          "numDocumento": "424",
+          "valorDocumento": 513.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7779859",
+          "nomeFornecedor": "DIARIO DE PERNAMBUCO S A",
+          "cnpjCpfFornecedor": "10803492000107",
+          "valorLiquido": 513.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "ASSINATURA DE PUBLICAÇÕES",
+          "codDocumento": 7971847,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-20T00:00:00",
+          "numDocumento": "472",
+          "valorDocumento": 513.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7971847",
+          "nomeFornecedor": "DIARIO DE PERNAMBUCO S A",
+          "cnpjCpfFornecedor": "10803492000107",
+          "valorLiquido": 513.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

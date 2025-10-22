@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PDOIS COM DE PORDUTOS ALIMENTICIOS",
+      "cnpj": "68393511000588",
+      "total_recebido": 17.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:17.009137"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 17.0
+  },
+  "anos": {
+    "2023": {
+      "total": 17.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "107970": {
+      "deputado": {
+        "id": 107970,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/107970",
+        "nome": "Ana Paula Leão",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/107970.jpg",
+        "email": "dep.anapaulaleao@camara.leg.br"
+      },
+      "total": 17.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7561568,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-06T00:00:00",
+          "numDocumento": "78142",
+          "valorDocumento": 17.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3664/2023/7561568.pdf",
+          "nomeFornecedor": "PDOIS COM DE PORDUTOS ALIMENTICIOS",
+          "cnpjCpfFornecedor": "68393511000588",
+          "valorLiquido": 17.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

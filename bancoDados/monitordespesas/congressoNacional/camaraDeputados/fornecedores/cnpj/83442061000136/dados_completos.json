@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO ISAC LTDA",
+      "cnpj": "83442061000136",
+      "total_recebido": 1134.23,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:42.725035"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1134.23
+  },
+  "anos": {
+    "2023": {
+      "total": 312.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 702.23,
+      "transacoes": 5,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 120.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204361": {
+      "deputado": {
+        "id": 204361,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
+        "nome": "Carlos Chiodini",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+        "email": null
+      },
+      "total": 1134.23,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7599550,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-21T00:00:00",
+          "numDocumento": "000854564",
+          "valorDocumento": 312.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2023/7599550.pdf",
+          "nomeFornecedor": "AUTO POSTO ISAC LTDA",
+          "cnpjCpfFornecedor": "83442061000136",
+          "valorLiquido": 312.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7850359,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-13T16:55:03",
+          "numDocumento": "197761",
+          "valorDocumento": 120.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7850359",
+          "nomeFornecedor": "AUTO POSTO ISAC LTDA",
+          "cnpjCpfFornecedor": "83442061000136",
+          "valorLiquido": 120.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7850362,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-16T05:58:49",
+          "numDocumento": "200730",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7850362",
+          "nomeFornecedor": "AUTO POSTO ISAC LTDA",
+          "cnpjCpfFornecedor": "83442061000136",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7839983,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-25T00:00:00",
+          "numDocumento": "179936",
+          "valorDocumento": 232.1,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7839983",
+          "nomeFornecedor": "AUTO POSTO ISAC LTDA",
+          "cnpjCpfFornecedor": "83442061000136",
+          "valorLiquido": 232.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7785097,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-04T09:47:40",
+          "numDocumento": "45606",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7785097",
+          "nomeFornecedor": "AUTO POSTO ISAC LTDA",
+          "cnpjCpfFornecedor": "83442061000136",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7702535,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-21T00:00:00",
+          "numDocumento": "001081273",
+          "valorDocumento": 150.13,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7702535.pdf",
+          "nomeFornecedor": "AUTO POSTO ISAC LTDA",
+          "cnpjCpfFornecedor": "83442061000136",
+          "valorLiquido": 150.13,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7875472,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-02-23T18:11:47",
+          "numDocumento": "275615",
+          "valorDocumento": 120.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7875472",
+          "nomeFornecedor": "AUTO POSTO ISAC LTDA",
+          "cnpjCpfFornecedor": "83442061000136",
+          "valorLiquido": 120.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

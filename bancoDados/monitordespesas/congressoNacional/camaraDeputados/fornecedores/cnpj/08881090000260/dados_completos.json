@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SANTOS DUMONT INVESTIMENTO IMOBILIARIO S/A",
+      "cnpj": "08881090000260",
+      "total_recebido": 429.45,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:05.629644"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 429.45
+  },
+  "anos": {
+    "2023": {
+      "total": 429.45,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "73701": {
+      "deputado": {
+        "id": 73701,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73701",
+        "nome": "Benedita da Silva",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73701.jpg",
+        "email": "dep.beneditadasilva@camara.leg.br"
+      },
+      "total": 429.45,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7649471,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-28T00:00:00",
+          "numDocumento": "00694753",
+          "valorDocumento": 429.45,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/188/2023/7649471.pdf",
+          "nomeFornecedor": "SANTOS DUMONT INVESTIMENTO IMOBILIARIO S/A",
+          "cnpjCpfFornecedor": "08881090000260",
+          "valorLiquido": 429.45,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

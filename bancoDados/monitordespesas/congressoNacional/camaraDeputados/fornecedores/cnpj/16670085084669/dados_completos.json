@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "LOCALIZA RENT A CAR S/A",
+      "cnpj": "16670085084669",
+      "total_recebido": 2289.31,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:05.444180"
+  },
+  "categorias": {
+    "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 2289.31
+  },
+  "anos": {
+    "2023": {
+      "total": 2289.31,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220596": {
+      "deputado": {
+        "id": 220596,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220596",
+        "nome": "Amália Barros",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220596.jpg",
+        "email": null
+      },
+      "total": 2289.31,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7599345,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-28T00:00:00",
+          "numDocumento": "59268",
+          "valorDocumento": 2369.35,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7599345.pdf",
+          "nomeFornecedor": "LOCALIZA RENT A CAR S/A",
+          "cnpjCpfFornecedor": "16670085084669",
+          "valorLiquido": 2289.31,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

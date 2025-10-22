@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO DE GASOLINA MEIA NOITE LTDA",
+      "cnpj": "42443481000150",
+      "total_recebido": 170.03,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:57.004152"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 170.03
+  },
+  "anos": {
+    "2024": {
+      "total": 170.03,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220605": {
+      "deputado": {
+        "id": 220605,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220605",
+        "nome": "Bandeira de Mello",
+        "siglaPartido": "PSB",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220605.jpg",
+        "email": "dep.bandeirademello@camara.leg.br"
+      },
+      "total": 170.03,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7816240,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-30T00:00:00",
+          "numDocumento": "9174 ROB",
+          "valorDocumento": 170.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7816240",
+          "nomeFornecedor": "POSTO DE GASOLINA MEIA NOITE LTDA",
+          "cnpjCpfFornecedor": "42443481000150",
+          "valorLiquido": 170.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

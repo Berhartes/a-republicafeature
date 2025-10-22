@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GUSTAVO GONCALVES DE OLIVEIRA PAIVA - ME",
+      "cnpj": "04208323000126",
+      "total_recebido": 193.9,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:48.684755"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 193.9
+  },
+  "anos": {
+    "2024": {
+      "total": 193.9,
+      "transacoes": 5,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204515": {
+      "deputado": {
+        "id": 204515,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204515",
+        "nome": "André Janones",
+        "siglaPartido": "AVANTE",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
+        "email": "dep.andrejanones@camara.leg.br"
+      },
+      "total": 193.9,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7789511,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-10T00:00:00",
+          "numDocumento": "103882",
+          "valorDocumento": 39.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7789511",
+          "nomeFornecedor": "GUSTAVO GONCALVES DE OLIVEIRA PAIVA - ME",
+          "cnpjCpfFornecedor": "04208323000126",
+          "valorLiquido": 37.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7797610,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-13T00:00:00",
+          "numDocumento": "104038",
+          "valorDocumento": 38.1,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7797610",
+          "nomeFornecedor": "GUSTAVO GONCALVES DE OLIVEIRA PAIVA - ME",
+          "cnpjCpfFornecedor": "04208323000126",
+          "valorLiquido": 38.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7789555,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-21T00:00:00",
+          "numDocumento": "104463",
+          "valorDocumento": 39.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7789555",
+          "nomeFornecedor": "GUSTAVO GONCALVES DE OLIVEIRA PAIVA - ME",
+          "cnpjCpfFornecedor": "04208323000126",
+          "valorLiquido": 37.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7701962,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-11T00:00:00",
+          "numDocumento": "97098",
+          "valorDocumento": 40.9,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7701962",
+          "nomeFornecedor": "GUSTAVO GONCALVES DE OLIVEIRA PAIVA - ME",
+          "cnpjCpfFornecedor": "04208323000126",
+          "valorLiquido": 40.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7709194,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-25T00:00:00",
+          "numDocumento": "98011",
+          "valorDocumento": 40.9,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7709194",
+          "nomeFornecedor": "GUSTAVO GONCALVES DE OLIVEIRA PAIVA - ME",
+          "cnpjCpfFornecedor": "04208323000126",
+          "valorLiquido": 40.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

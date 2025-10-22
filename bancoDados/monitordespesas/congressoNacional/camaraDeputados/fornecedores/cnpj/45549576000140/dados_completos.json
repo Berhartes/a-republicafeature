@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "felipe porto pimental",
+      "cnpj": "45549576000140",
+      "total_recebido": 36755.399999999994,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:48.274856"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 36755.399999999994
+  },
+  "anos": {
+    "2023": {
+      "total": 20690.1,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 16065.3,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204515": {
+      "deputado": {
+        "id": 204515,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204515",
+        "nome": "André Janones",
+        "siglaPartido": "AVANTE",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
+        "email": "dep.andrejanones@camara.leg.br"
+      },
+      "total": 36755.399999999994,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7666885,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-21T00:00:00",
+          "numDocumento": "6",
+          "valorDocumento": 10634.6,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2023/7666885.pdf",
+          "nomeFornecedor": "felipe porto pimental",
+          "cnpjCpfFornecedor": "45549576000140",
+          "valorLiquido": 10634.6,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7643703,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-09T00:00:00",
+          "numDocumento": "4",
+          "valorDocumento": 10055.5,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2023/7643703.pdf",
+          "nomeFornecedor": "felipe porto pimental",
+          "cnpjCpfFornecedor": "45549576000140",
+          "valorLiquido": 10055.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7682960,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-01T00:00:00",
+          "numDocumento": "10",
+          "valorDocumento": 16065.3,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2024/7682960.pdf",
+          "nomeFornecedor": "felipe porto pimental",
+          "cnpjCpfFornecedor": "45549576000140",
+          "valorLiquido": 16065.3,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

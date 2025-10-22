@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "C L FELIX DA SILVEIRA",
+      "cnpj": "33086822000196",
+      "total_recebido": 2700.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:10.513300"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 2700.0
+  },
+  "anos": {
+    "2023": {
+      "total": 1200.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 1500.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "109429": {
+      "deputado": {
+        "id": 109429,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/109429",
+        "nome": "Benes Leocádio",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "RN",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/109429.jpg",
+        "email": "dep.benesleocadio@camara.leg.br"
+      },
+      "total": 2700.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7527079,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-26T00:00:00",
+          "numDocumento": "000000171",
+          "valorDocumento": 1200.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3352/2023/7527079.pdf",
+          "nomeFornecedor": "C L FELIX DA SILVEIRA",
+          "cnpjCpfFornecedor": "33086822000196",
+          "valorLiquido": 1200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7731888,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-08T00:00:00",
+          "numDocumento": "000000259",
+          "valorDocumento": 1500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3352/2024/7731888.pdf",
+          "nomeFornecedor": "CL FELIX DA SILVEIRA",
+          "cnpjCpfFornecedor": "33086822000196",
+          "valorLiquido": 1500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

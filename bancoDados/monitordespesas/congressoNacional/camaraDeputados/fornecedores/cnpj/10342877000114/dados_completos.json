@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO DE GASOLINA PRAIA DA BARRA LTDA",
+      "cnpj": "10342877000114",
+      "total_recebido": 357.99,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:56.731703"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 357.99
+  },
+  "anos": {
+    "2023": {
+      "total": 142.9,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 215.09,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220605": {
+      "deputado": {
+        "id": 220605,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220605",
+        "nome": "Bandeira de Mello",
+        "siglaPartido": "PSB",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220605.jpg",
+        "email": "dep.bandeirademello@camara.leg.br"
+      },
+      "total": 357.99,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7594008,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-19T00:00:00",
+          "numDocumento": "72866",
+          "valorDocumento": 142.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3656/2023/7594008.pdf",
+          "nomeFornecedor": "POSTO DE GASOLINA PRAIA DA BARRA LTDA",
+          "cnpjCpfFornecedor": "10342877000114",
+          "valorLiquido": 142.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7815478,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-02T00:00:00",
+          "numDocumento": "94556 FUR",
+          "valorDocumento": 215.09,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7815478",
+          "nomeFornecedor": "POSTO DE GASOLINA PRAIA DA BARRA LTDA",
+          "cnpjCpfFornecedor": "10342877000114",
+          "valorLiquido": 215.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

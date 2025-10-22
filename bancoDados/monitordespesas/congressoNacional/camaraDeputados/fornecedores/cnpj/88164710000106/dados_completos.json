@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "TANOS COMERCIO DE LANCHES LTDA",
+      "cnpj": "88164710000106",
+      "total_recebido": 240.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:32.592350"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 240.0
+  },
+  "anos": {
+    "2023": {
+      "total": 80.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 160.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204388": {
+      "deputado": {
+        "id": 204388,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388",
+        "nome": "Bibo Nunes",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
+        "email": "dep.bibonunes@camara.leg.br"
+      },
+      "total": 240.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7593642,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-17T00:00:00",
+          "numDocumento": "115737",
+          "valorDocumento": 80.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7593642",
+          "nomeFornecedor": "TANOS COMERCIO DE LANCHES LTDA",
+          "cnpjCpfFornecedor": "88164710000106",
+          "valorLiquido": 80.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7833852,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-22T00:00:00",
+          "numDocumento": "160349",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7833852",
+          "nomeFornecedor": "TANOS COMERCIO DE LANCHES LTDA",
+          "cnpjCpfFornecedor": "88164710000106",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7824078,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-31T00:00:00",
+          "numDocumento": "158511",
+          "valorDocumento": 60.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7824078",
+          "nomeFornecedor": "TANOS COMERCIO DE LANCHES LTDA",
+          "cnpjCpfFornecedor": "88164710000106",
+          "valorLiquido": 60.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

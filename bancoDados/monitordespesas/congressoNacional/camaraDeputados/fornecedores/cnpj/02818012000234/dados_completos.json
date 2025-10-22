@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HP COMERCIO E DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "02818012000234",
+      "total_recebido": 1409.97,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:18.704916"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1409.97
+  },
+  "anos": {
+    "2024": {
+      "total": 298.22,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 1111.75,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220690": {
+      "deputado": {
+        "id": 220690,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220690",
+        "nome": "Capitão Alden",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
+        "email": "dep.capitaoalden@camara.leg.br"
+      },
+      "total": 1409.97,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7701206,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-07T00:00:00",
+          "numDocumento": "178366",
+          "valorDocumento": 177.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7701206",
+          "nomeFornecedor": "HP COMERCIO E DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "02818012000234",
+          "valorLiquido": 177.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7688973,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-21T00:00:00",
+          "numDocumento": "185299",
+          "valorDocumento": 121.2,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7688973",
+          "nomeFornecedor": "HP COMERCIO E DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "02818012000234",
+          "valorLiquido": 121.2,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7971648,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-08T00:00:00",
+          "numDocumento": "394527",
+          "valorDocumento": 207.54,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7971648",
+          "nomeFornecedor": "HP COMERCIO E DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "02818012000234",
+          "valorLiquido": 207.54,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7958889,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-03T00:00:00",
+          "numDocumento": "239919",
+          "valorDocumento": 340.44,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7958889",
+          "nomeFornecedor": "HP COMERCIO E DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "02818012000234",
+          "valorLiquido": 340.44,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7886079,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-17T00:00:00",
+          "numDocumento": "217934",
+          "valorDocumento": 298.32,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7886079",
+          "nomeFornecedor": "HP COMERCIO E DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "02818012000234",
+          "valorLiquido": 298.32,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7900018,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-31T00:00:00",
+          "numDocumento": "346298",
+          "valorDocumento": 265.45,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7900018",
+          "nomeFornecedor": "HP COMERCIO E DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "02818012000234",
+          "valorLiquido": 265.45,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

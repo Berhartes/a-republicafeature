@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
+      "cnpj": "34276766000115",
+      "total_recebido": 1550.9,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:46.960379"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1550.9
+  },
+  "anos": {
+    "2023": {
+      "total": 1184.76,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 366.14,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "69871": {
+      "deputado": {
+        "id": 69871,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/69871",
+        "nome": "Bacelar",
+        "siglaPartido": "PV",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
+        "email": "dep.bacelar@camara.leg.br"
+      },
+      "total": 1550.9,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7540859,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-05T00:00:00",
+          "numDocumento": "5334878",
+          "valorDocumento": 373.18,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7540859",
+          "nomeFornecedor": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
+          "cnpjCpfFornecedor": "34276766000115",
+          "valorLiquido": 373.18,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7507314,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-03T00:00:00",
+          "numDocumento": "5211553",
+          "valorDocumento": 428.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7507314",
+          "nomeFornecedor": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
+          "cnpjCpfFornecedor": "34276766000115",
+          "valorLiquido": 428.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7498662,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-10T00:00:00",
+          "numDocumento": "5171324",
+          "valorDocumento": 383.56,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7498662",
+          "nomeFornecedor": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
+          "cnpjCpfFornecedor": "34276766000115",
+          "valorLiquido": 383.56,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7814784,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-05T10:42:39",
+          "numDocumento": "6388088",
+          "valorDocumento": 366.14,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7814784",
+          "nomeFornecedor": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
+          "cnpjCpfFornecedor": "34276766000115",
+          "valorLiquido": 366.14,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

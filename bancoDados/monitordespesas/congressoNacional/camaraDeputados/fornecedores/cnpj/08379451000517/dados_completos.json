@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "LLL Schmidt Com de Cereais e Confecões Ltda",
+      "cnpj": "08379451000517",
+      "total_recebido": 203.03,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:42.888281"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 203.03
+  },
+  "anos": {
+    "2023": {
+      "total": 203.03,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204361": {
+      "deputado": {
+        "id": 204361,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
+        "nome": "Carlos Chiodini",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+        "email": null
+      },
+      "total": 203.03,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7510419,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-09T00:00:00",
+          "numDocumento": "000123861",
+          "valorDocumento": 203.03,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2023/7510419.pdf",
+          "nomeFornecedor": "LLL Schmidt Com de Cereais e Confecões Ltda",
+          "cnpjCpfFornecedor": "08379451000517",
+          "valorLiquido": 203.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

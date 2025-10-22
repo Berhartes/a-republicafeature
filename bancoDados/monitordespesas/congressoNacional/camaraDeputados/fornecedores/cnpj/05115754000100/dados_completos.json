@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "TELEMIDIA - PROPAGANDA,MARKENTING & CHECKING LTDA",
+      "cnpj": "05115754000100",
+      "total_recebido": 4500.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:55.462771"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 4500.0
+  },
+  "anos": {
+    "2023": {
+      "total": 4500.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220544": {
+      "deputado": {
+        "id": 220544,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220544",
+        "nome": "Antonio Andrade",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
+        "email": "dep.antonioandrade@camara.leg.br"
+      },
+      "total": 4500.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7597634,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-28T00:00:00",
+          "numDocumento": "2023000000114",
+          "valorDocumento": 1500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3709/2023/7597634.pdf",
+          "nomeFornecedor": "TELEMIDIA - PROPAGANDA,MARKENTING & CHECKING LTDA",
+          "cnpjCpfFornecedor": "05115754000100",
+          "valorLiquido": 1500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7579489,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-27T00:00:00",
+          "numDocumento": "202300000000094",
+          "valorDocumento": 1500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3709/2023/7579489.pdf",
+          "nomeFornecedor": "TELEMIDIA - PROPAGANDA,MARKENTING & CHECKING LTDA",
+          "cnpjCpfFornecedor": "05115754000100",
+          "valorLiquido": 1500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7564228,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-26T00:00:00",
+          "numDocumento": "202300000000074",
+          "valorDocumento": 1500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3709/2023/7564228.pdf",
+          "nomeFornecedor": "TELEMIDIA - PROPAGANDA,MARKENTING & CHECKING LTDA",
+          "cnpjCpfFornecedor": "05115754000100",
+          "valorLiquido": 1500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

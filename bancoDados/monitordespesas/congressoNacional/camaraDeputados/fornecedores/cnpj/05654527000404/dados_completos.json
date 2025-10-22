@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HDEZ EMPREENDIMENTOS LTDA",
+      "cnpj": "05654527000404",
+      "total_recebido": 461.66,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:42.928073"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 461.66
+  },
+  "anos": {
+    "2023": {
+      "total": 461.66,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204361": {
+      "deputado": {
+        "id": 204361,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
+        "nome": "Carlos Chiodini",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+        "email": null
+      },
+      "total": 461.66,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7504152,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-15T00:00:00",
+          "numDocumento": "000000988296",
+          "valorDocumento": 230.83,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2023/7504152.pdf",
+          "nomeFornecedor": "HDEZ EMPREENDIMENTOS LTDA",
+          "cnpjCpfFornecedor": "05654527000404",
+          "valorLiquido": 230.83,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7498826,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-14T00:00:00",
+          "numDocumento": "98281",
+          "valorDocumento": 230.83,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2023/7498826.pdf",
+          "nomeFornecedor": "HDEZ EMPREENDIMENTOS LTDA",
+          "cnpjCpfFornecedor": "05654527000404",
+          "valorLiquido": 230.83,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

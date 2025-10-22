@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ARARA AZUL REDE DE POSTOS LTDA",
+      "cnpj": "04145589001149",
+      "total_recebido": 640.0600000000001,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:09.662152"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 640.0600000000001
+  },
+  "anos": {
+    "2024": {
+      "total": 640.0600000000001,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204356": {
+      "deputado": {
+        "id": 204356,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204356",
+        "nome": "Amaro Neto",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "ES",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204356.jpg",
+        "email": "dep.amaroneto@camara.leg.br"
+      },
+      "total": 640.0600000000001,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7723209,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-02T09:14:50",
+          "numDocumento": "28751",
+          "valorDocumento": 210.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7723209",
+          "nomeFornecedor": "ARARA AZUL REDE DE POSTOS LTDA",
+          "cnpjCpfFornecedor": "04145589001149",
+          "valorLiquido": 210.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7678764,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-01T00:00:00",
+          "numDocumento": "54537",
+          "valorDocumento": 245.05,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7678764",
+          "nomeFornecedor": "ARARA AZUL REDE DE POSTOS LTDA",
+          "cnpjCpfFornecedor": "04145589001149",
+          "valorLiquido": 245.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7681192,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-09T00:00:00",
+          "numDocumento": "22205",
+          "valorDocumento": 184.99,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7681192",
+          "nomeFornecedor": "ARARA AZUL REDE DE POSTOS LTDA",
+          "cnpjCpfFornecedor": "04145589001149",
+          "valorLiquido": 184.99,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

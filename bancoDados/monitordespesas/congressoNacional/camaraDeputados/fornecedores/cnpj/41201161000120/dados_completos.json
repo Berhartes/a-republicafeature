@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "REJANE CASIMIRO DE OLIVEIRA MENDES",
+      "cnpj": "41201161000120",
+      "total_recebido": 1204.03,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:53.604153"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1204.03
+  },
+  "anos": {
+    "2023": {
+      "total": 187.95,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 756.05,
+      "transacoes": 4,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 260.03,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220574": {
+      "deputado": {
+        "id": 220574,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220574",
+        "nome": "Cabo Gilberto Silva",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "PB",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220574.jpg",
+        "email": "dep.cabogilbertosilva@camara.leg.br"
+      },
+      "total": 1204.03,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7682422,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-22T22:19:16",
+          "numDocumento": "368076",
+          "valorDocumento": 187.95,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7682422",
+          "nomeFornecedor": "REJANE CASIMIRO DE OLIVEIRA MENDES",
+          "cnpjCpfFornecedor": "41201161000120",
+          "valorLiquido": 187.95,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7835983,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-15T17:06:56",
+          "numDocumento": "435938",
+          "valorDocumento": 245.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7835983",
+          "nomeFornecedor": "REJANE CASIMIRO DE OLIVEIRA MENDES",
+          "cnpjCpfFornecedor": "41201161000120",
+          "valorLiquido": 245.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7763446,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-14T18:23:12",
+          "numDocumento": "408826",
+          "valorDocumento": 260.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7763446",
+          "nomeFornecedor": "REJANE CASIMIRO DE OLIVEIRA MENDES",
+          "cnpjCpfFornecedor": "41201161000120",
+          "valorLiquido": 260.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7763550,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-30T00:00:00",
+          "numDocumento": "411844",
+          "valorDocumento": 106.89,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7763550",
+          "nomeFornecedor": "REJANE CASIMIRO DE OLIVEIRA MENDES",
+          "cnpjCpfFornecedor": "41201161000120",
+          "valorLiquido": 106.89,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7688853,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-17T09:29:47",
+          "numDocumento": "383011",
+          "valorDocumento": 144.14,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7688853",
+          "nomeFornecedor": "REJANE CASIMIRO DE OLIVEIRA MENDES",
+          "cnpjCpfFornecedor": "41201161000120",
+          "valorLiquido": 144.14,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7975755,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-22T18:05:42",
+          "numDocumento": "514159",
+          "valorDocumento": 260.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7975755",
+          "nomeFornecedor": "REJANE CASIMIRO DE OLIVEIRA MENDES",
+          "cnpjCpfFornecedor": "41201161000120",
+          "valorLiquido": 260.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

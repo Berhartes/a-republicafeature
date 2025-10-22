@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PARELHAS GAS LTDA",
+      "cnpj": "24206617001289",
+      "total_recebido": 410.61,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:30.603137"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 410.61
+  },
+  "anos": {
+    "2025": {
+      "total": 410.61,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "213762": {
+      "deputado": {
+        "id": 213762,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/213762",
+        "nome": "Carla Dickson",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "RN",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/213762.jpg",
+        "email": "dep.carladickson@camara.leg.br"
+      },
+      "total": 410.61,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7953568,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-24T11:15:52",
+          "numDocumento": "247429",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7953568",
+          "nomeFornecedor": "PARELHAS GAS LTDA",
+          "cnpjCpfFornecedor": "24206617001289",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7930846,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-07T09:25:08",
+          "numDocumento": "213193",
+          "valorDocumento": 260.61,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7930846",
+          "nomeFornecedor": "PARELHAS GAS LTDA",
+          "cnpjCpfFornecedor": "24206617001289",
+          "valorLiquido": 260.61,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

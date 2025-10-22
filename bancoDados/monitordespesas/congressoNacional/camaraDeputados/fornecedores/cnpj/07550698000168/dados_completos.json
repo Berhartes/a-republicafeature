@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO SANTA M&Ocirc;NICA",
+      "cnpj": "07550698000168",
+      "total_recebido": 207.73,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:42.896821"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 207.73
+  },
+  "anos": {
+    "2023": {
+      "total": 207.73,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204361": {
+      "deputado": {
+        "id": 204361,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
+        "nome": "Carlos Chiodini",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+        "email": null
+      },
+      "total": 207.73,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7531794,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-31T00:00:00",
+          "numDocumento": "000359225",
+          "valorDocumento": 207.73,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2023/7531794.pdf",
+          "nomeFornecedor": "POSTO SANTA M&Ocirc;NICA",
+          "cnpjCpfFornecedor": "07550698000168",
+          "valorLiquido": 207.73,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

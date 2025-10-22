@@ -1,0 +1,203 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "FUNDACAO CULTURAL E EDUCACIONAL BOM JESUS",
+      "cnpj": "14617674000144",
+      "total_recebido": 15700.0,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:27.574632"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 15700.0
+  },
+  "anos": {
+    "2023": {
+      "total": 2400.0,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 8000.0,
+      "transacoes": 4,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 5300.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160600": {
+      "deputado": {
+        "id": 160600,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160600",
+        "nome": "Arthur Oliveira Maia",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
+        "email": "dep.arthuroliveiramaia@camara.leg.br"
+      },
+      "total": 15700.0,
+      "transacoes": 8,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7656112,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-30T00:00:00",
+          "numDocumento": "01001625",
+          "valorDocumento": 1400.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2023/7656112.pdf",
+          "nomeFornecedor": "FUNDACAO CULTURAL E EDUCACIONAL BOM JESUS",
+          "cnpjCpfFornecedor": "14617674000144",
+          "valorLiquido": 1400.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7548974,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-24T00:00:00",
+          "numDocumento": "01001340",
+          "valorDocumento": 1000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2023/7548974.pdf",
+          "nomeFornecedor": "FUNDACAO CULTURAL E EDUCACIONAL BOM JESUS",
+          "cnpjCpfFornecedor": "14617674000144",
+          "valorLiquido": 1000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7784313,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-08T00:00:00",
+          "numDocumento": "01002007",
+          "valorDocumento": 2000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2024/7784313.pdf",
+          "nomeFornecedor": "FUNDACAO CULTURAL E EDUCACIONAL BOM JESUS",
+          "cnpjCpfFornecedor": "14617674000144",
+          "valorLiquido": 2000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7771479,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-15T00:00:00",
+          "numDocumento": "01001960",
+          "valorDocumento": 2000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2024/7771479.pdf",
+          "nomeFornecedor": "FUNDACAO CULTURAL E EDUCACIONAL BOM JESUS",
+          "cnpjCpfFornecedor": "14617674000144",
+          "valorLiquido": 2000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7759963,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-26T00:00:00",
+          "numDocumento": "01001930",
+          "valorDocumento": 2000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2024/7759963.pdf",
+          "nomeFornecedor": "FUNDACAO CULTURAL E EDUCACIONAL BOM JESUS",
+          "cnpjCpfFornecedor": "14617674000144",
+          "valorLiquido": 2000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7742240,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-23T00:00:00",
+          "numDocumento": "01001889",
+          "valorDocumento": 2000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2024/7742240.pdf",
+          "nomeFornecedor": "FUNDACAO CULTURAL E EDUCACIONAL BOM JESUS",
+          "cnpjCpfFornecedor": "14617674000144",
+          "valorLiquido": 2000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7983702,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-17T00:00:00",
+          "numDocumento": "01002619",
+          "valorDocumento": 2800.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2025/7983702.pdf",
+          "nomeFornecedor": "FUNDACAO CULTURAL E EDUCACIONAL BOM JESUS",
+          "cnpjCpfFornecedor": "14617674000144",
+          "valorLiquido": 2800.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7986140,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-23T00:00:00",
+          "numDocumento": "01002643",
+          "valorDocumento": 2500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2025/7986140.pdf",
+          "nomeFornecedor": "FUNDACAO CULTURAL E EDUCACIONAL BOM JESUS",
+          "cnpjCpfFornecedor": "14617674000144",
+          "valorLiquido": 2500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

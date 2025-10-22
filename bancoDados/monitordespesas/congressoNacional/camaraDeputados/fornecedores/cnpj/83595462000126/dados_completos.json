@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIO DE COMBUSTIVEIS SPILLERE LTDA",
+      "cnpj": "83595462000126",
+      "total_recebido": 321.53,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:23.980858"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 321.53
+  },
+  "anos": {
+    "2024": {
+      "total": 321.53,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220556": {
+      "deputado": {
+        "id": 220556,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220556",
+        "nome": "Ana Paula Lima",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
+        "email": "dep.anapaulalima@camara.leg.br"
+      },
+      "total": 321.53,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7735619,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-08T00:00:00",
+          "numDocumento": "139241",
+          "valorDocumento": 321.53,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3705/2024/7735619.pdf",
+          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS SPILLERE LTDA",
+          "cnpjCpfFornecedor": "83595462000126",
+          "valorLiquido": 321.53,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

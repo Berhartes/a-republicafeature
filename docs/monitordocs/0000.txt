@@ -1,0 +1,130 @@
+ em pagina categoria http://localhost:5173/gastos/categorias/passagem-aerea-sigepa , não é para haver nenhum processamento.  todos os dados exibidos no front end de 
+  paginacategoria deve acontecer pelo cache gerado pela funcao etc (cache) e no momento atual ha um processamento enorme acontecendo na pagina categoria , observe o 
+  comportamento da pagina http://localhost:5173/gastos/fornecedores pois a pagina categoria é como se fosse uma pagina com filtros especificos da pagina fornecedores
+
+● Vou investigar o comportamento das páginas de categoria e fornecedores para entender onde está ocorrendo o processamento desnecessário na página de categoria.
+
+● Search(pattern: "**/*fornecedores*")
+  ⎿  Found 67 files (ctrl+o to expand)
+
+● Search(pattern: "**/*categoria*")
+  ⎿  Found 21 files (ctrl+o to expand)
+
+● Read(packages/monitor-despesas/src/pages/FornecedoresPage.tsx)
+  ⎿  Read 655 lines (ctrl+o to expand)
+
+● Read(packages/monitor-despesas/src/components/categoria/FornecedoresCategoriaPage.tsx)
+  ⎿  Read 536 lines (ctrl+o to expand)
+
+● Read(packages/monitor-despesas/src/components/categoria/hooks/useFornecedoresCategoriaData.ts)
+  ⎿  Read 333 lines (ctrl+o to expand)
+
+● Read(packages/monitor-despesas/src/hooks/useFornecedoresETC.ts)
+  ⎿  Read 133 lines (ctrl+o to expand)
+
+● Read(packages/monitor-despesas/src/hooks/useGlobalFornecedoresProcessor.ts)
+  ⎿  Read 43 lines (ctrl+o to expand)
+
+● Search(pattern: "useGlobalData|GlobalDataContext", glob: "**/*.ts*", head_limit: 10)
+  ⎿  Found 2 files (ctrl+o to expand)
+
+● Search(pattern: "**/GlobalDataContext*")
+  ⎿  Error: This operation was aborted
+
+> na verdade eu nao sei se esse global data ainda deveria existir, todos os dados acessados pelo frontend em monitor despesas deve ser realizado pelo sistema ETC . e 
+  portanto as capacidades de globaldata devem ser transferida para dentro da capacidade de etc .
+
+● Entendi perfeitamente! Você tem razão - o GlobalDataContext está criando uma complexidade desnecessária e processamento duplicado. Vou investigar todas as
+  dependências para planejar a migração completa para o sistema ETC.
+
+● Search(pattern: "GlobalDataContext|useGlobalData", glob: "**/*.ts*", output_mode: "content")
+  ⎿  Found 7 lines (ctrl+o to expand)
+
+● Search(pattern: "import.*GlobalDataContext|from.*GlobalDataContext", glob: "**/*.ts*", output_mode: "content")
+  ⎿  Found 0 lines 
+
+● Search(pattern: "**/contexts/**")
+  ⎿  Found 5 files (ctrl+o to expand)
+
+● Read(packages/monitor-despesas/src/contexts/GlobalDataContext.tsx)
+  ⎿  Read 50 lines (ctrl+o to expand)
+
+● Search(pattern: "useGlobalData|GlobalDataContext", glob: "**/*.tsx")
+  ⎿  Found 12 files (ctrl+o to expand)
+
+● Agora vou analisar quais são os hooks ETC já disponíveis para entender como podemos centralizar tudo:
+
+● Search(pattern: "**/hooks/*ETC*")
+  ⎿  Found 1 file (ctrl+o to expand)
+
+● Search(pattern: "**/cache/*.json", path: "packages/monitor-despesas/public")
+  ⎿  Found 30 files (ctrl+o to expand)
+
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ Ready to code?                                                                                                                                                         │
+│                                                                                                                                                                        │
+│ Here is Claude's plan:                                                                                                                                                 │
+│ ╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮ │
+│ │ Plano de Centralização ETC e Eliminação do Processamento Desnecessário                                                                                             │ │
+│ │                                                                                                                                                                    │ │
+│ │ 🔍 Problema Identificado                                                                                                                                           │ │
+│ │                                                                                                                                                                    │ │
+│ │ A página de categoria (/gastos/categorias/passagem-aerea-sigepa) está fazendo processamento desnecessário porque:                                                  │ │
+│ │                                                                                                                                                                    │ │
+│ │ 1. Página Fornecedores (FornecedoresPage.tsx):                                                                                                                     │ │
+│ │   - ✅ Usa useFornecedoresETC() - hook direto que lê cache ETC /cache/fornecedores.json                                                                             │ │
+│ │   - ✅ ZERO processamento - apenas exibe dados já processados pelo ETL                                                                                              │ │
+│ │   - ✅ Performance otimizada                                                                                                                                        │ │
+│ │ 2. Página Categoria (FornecedoresCategoriaPage.tsx):                                                                                                               │ │
+│ │   - ❌ Usa useFornecedoresCategoriaData() que depende de useGlobalFornecedoresProcessor()                                                                           │ │
+│ │   - ❌ useGlobalFornecedoresProcessor() depende de useGlobalData() (GlobalDataContext)                                                                              │ │
+│ │   - ❌ GlobalDataContext faz processamento complexo carregando deputies-cache.json e processando dados                                                              │ │
+│ │   - ❌ Processamento duplicado e desnecessário                                                                                                                      │ │
+│ │                                                                                                                                                                    │ │
+│ │ 🎯 Solução: Migração Completa para Sistema ETC                                                                                                                     │ │
+│ │                                                                                                                                                                    │ │
+│ │ 1. Migrar Página Categoria para ETC Direto                                                                                                                         │ │
+│ │                                                                                                                                                                    │ │
+│ │ - Substituir useFornecedoresCategoriaData() por useFornecedoresETC()                                                                                               │ │
+│ │ - Aplicar filtro de categoria localmente nos dados já processados do cache ETC                                                                                     │ │
+│ │ - Eliminar dependência do GlobalDataContext                                                                                                                        │ │
+│ │                                                                                                                                                                    │ │
+│ │ 2. Criar Hooks ETC Específicos                                                                                                                                     │ │
+│ │                                                                                                                                                                    │ │
+│ │ - useDeputadosETC() - para substituir dados de deputados do GlobalDataContext                                                                                      │ │
+│ │ - useRankingsETC() - para dados de rankings                                                                                                                        │ │
+│ │ - useDashboardETC() - para dados do dashboard                                                                                                                      │ │
+│ │ - usePremiacoesETC() - para dados de premiações                                                                                                                    │ │
+│ │                                                                                                                                                                    │ │
+│ │ 3. Remover GlobalDataContext Completamente                                                                                                                         │ │
+│ │                                                                                                                                                                    │ │
+│ │ - Eliminar GlobalDataContext.tsx                                                                                                                                   │ │
+│ │ - Migrar todas as 12 páginas/componentes que usam useGlobalData()                                                                                                  │ │
+│ │ - Atualizar App.tsx para remover o provider                                                                                                                        │ │
+│ │                                                                                                                                                                    │ │
+│ │ 4. Caches ETC Disponíveis                                                                                                                                          │ │
+│ │                                                                                                                                                                    │ │
+│ │ ✅ /cache/fornecedores.json        (já em uso)                                                                                                                      │ │
+│ │ ✅ /cache/deputados.json           (disponível)                                                                                                                     │ │
+│ │ ✅ /cache/rankings-cache.json      (disponível)                                                                                                                     │ │
+│ │ ✅ /cache/dashboard-cache.json     (disponível)                                                                                                                     │ │
+│ │ ✅ /cache/suppliers-cache.json     (disponível)                                                                                                                     │ │
+│ │ ✅ /cache/deputies-cache.json      (legado - substituir)                                                                                                            │ │
+│ │                                                                                                                                                                    │ │
+│ │ 5. Componentes a Migrar                                                                                                                                            │ │
+│ │                                                                                                                                                                    │ │
+│ │ 1. /components/categoria/FornecedoresCategoriaPage.tsx (PRIORITÁRIO)                                                                                               │ │
+│ │ 2. /pages/RelatoriosPage.tsx                                                                                                                                       │ │
+│ │ 3. /components/premiacoes/ExibicaoPremiacoes.tsx                                                                                                                   │ │
+│ │ 4. /components/charts/InteractiveCharts.tsx                                                                                                                        │ │
+│ │ 5. /components/charts/PredictiveMetrics.tsx                                                                                                                        │ │
+│ │ 6. /components/categoria/DeputadosCategoriaPage.tsx                                                                                                                │ │
+│ │ 7. E mais 6 componentes                                                                                                                                            │ │
+│ │                                                                                                                                                                    │ │
+│ │ 6. Resultado Final                                                                                                                                                 │ │
+│ │                                                                                                                                                                    │ │
+│ │ - ZERO processamento em todas as páginas frontend                                                                                                                  │ │
+│ │ - Todas as páginas usam apenas cache ETC pré-processado                                                                                                            │ │
+│ │ - Performance máxima - dados já calculados pelo ETL                                                                                                                │ │
+│ │ - Consistência total - mesma fonte de dados (ETC) para tudo                                                                                                        │ │
+│ │ - Manutenção simplificada - uma única fonte de verdade           

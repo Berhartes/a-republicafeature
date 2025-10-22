@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Auto Posto Estrela do Sul 3",
+      "cnpj": "10993611000131",
+      "total_recebido": 214.89,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:53:48.276575"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 214.89
+  },
+  "anos": {
+    "2024": {
+      "total": 214.89,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220548": {
+      "deputado": {
+        "id": 220548,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220548",
+        "nome": "Camila Jara",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "MS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
+        "email": "dep.camilajara@camara.leg.br"
+      },
+      "total": 214.89,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7773022,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-18T00:00:00",
+          "numDocumento": "144634",
+          "valorDocumento": 214.89,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7773022",
+          "nomeFornecedor": "Auto Posto Estrela do Sul 3",
+          "cnpjCpfFornecedor": "10993611000131",
+          "valorLiquido": 214.89,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

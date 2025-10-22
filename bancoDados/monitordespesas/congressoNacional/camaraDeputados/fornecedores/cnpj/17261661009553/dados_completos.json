@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Outback Steakhouse Restaurantes Brasil S A",
+      "cnpj": "17261661009553",
+      "total_recebido": 255.6,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:53:18.253869"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 255.6
+  },
+  "anos": {
+    "2025": {
+      "total": 255.6,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "143942": {
+      "deputado": {
+        "id": 143942,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143942",
+        "nome": "Caio Vianna",
+        "siglaPartido": "PSD",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/143942.jpg",
+        "email": "dep.caiovianna@camara.leg.br"
+      },
+      "total": 255.6,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7976047,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-02T00:00:00",
+          "numDocumento": "263444",
+          "valorDocumento": 140.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7976047",
+          "nomeFornecedor": "Outback Steakhouse Restaurantes Brasil S A",
+          "cnpjCpfFornecedor": "17261661009553",
+          "valorLiquido": 127.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7930937,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-09T00:00:00",
+          "numDocumento": "243657",
+          "valorDocumento": 143.14,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7930937",
+          "nomeFornecedor": "Outback Steakhouse Restaurantes Brasil S A",
+          "cnpjCpfFornecedor": "17261661009553",
+          "valorLiquido": 127.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

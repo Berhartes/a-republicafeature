@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "WINDSOR BARRA HOTEL LTDA",
+      "cnpj": "05298154000125",
+      "total_recebido": 762.3,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:13.319430"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 762.3
+  },
+  "anos": {
+    "2024": {
+      "total": 762.3,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204358": {
+      "deputado": {
+        "id": 204358,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204358",
+        "nome": "Beto Pereira",
+        "siglaPartido": "PSDB",
+        "uriPartido": "",
+        "siglaUf": "MS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204358.jpg",
+        "email": "dep.betopereira@camara.leg.br"
+      },
+      "total": 762.3,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7708360,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-14T00:00:00",
+          "numDocumento": "421528",
+          "valorDocumento": 762.3,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3432/2024/7708360.pdf",
+          "nomeFornecedor": "WINDSOR BARRA HOTEL LTDA",
+          "cnpjCpfFornecedor": "05298154000125",
+          "valorLiquido": 762.3,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

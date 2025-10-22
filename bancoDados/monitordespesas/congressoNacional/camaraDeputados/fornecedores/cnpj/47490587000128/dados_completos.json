@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO PAVAO PARADA 1 LTDA",
+      "cnpj": "47490587000128",
+      "total_recebido": 529.11,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:15.907324"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 529.11
+  },
+  "anos": {
+    "2024": {
+      "total": 309.02,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 220.09,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "73433": {
+      "deputado": {
+        "id": 73433,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73433",
+        "nome": "Arlindo Chinaglia",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73433.jpg",
+        "email": "dep.arlindochinaglia@camara.leg.br"
+      },
+      "total": 529.11,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7788335,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-05T00:00:00",
+          "numDocumento": "055552",
+          "valorDocumento": 309.02,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/974/2024/7788335.pdf",
+          "nomeFornecedor": "POSTO PAVAO PARADA 1 LTDA",
+          "cnpjCpfFornecedor": "47490587000128",
+          "valorLiquido": 309.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7901602,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-03T00:00:00",
+          "numDocumento": "141051",
+          "valorDocumento": 220.09,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/974/2025/7901602.pdf",
+          "nomeFornecedor": "POSTO PAVAO PARADA 1 LTDA",
+          "cnpjCpfFornecedor": "47490587000128",
+          "valorLiquido": 220.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

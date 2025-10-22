@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "KJSA COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "02986295000142",
+      "total_recebido": 1111.94,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:42.501334"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1111.94
+  },
+  "anos": {
+    "2023": {
+      "total": 518.6600000000001,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 593.28,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204361": {
+      "deputado": {
+        "id": 204361,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
+        "nome": "Carlos Chiodini",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+        "email": null
+      },
+      "total": 1111.94,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7660899,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-01T00:00:00",
+          "numDocumento": "961879",
+          "valorDocumento": 136.48,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7660899",
+          "nomeFornecedor": "KJSA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "02986295000142",
+          "valorLiquido": 136.48,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7574316,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-22T00:00:00",
+          "numDocumento": "903313",
+          "valorDocumento": 172.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7574316",
+          "nomeFornecedor": "KJSA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "02986295000142",
+          "valorLiquido": 172.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7558345,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-29T00:00:00",
+          "numDocumento": "894916",
+          "valorDocumento": 209.68,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7558345",
+          "nomeFornecedor": "KJSA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "02986295000142",
+          "valorLiquido": 209.68,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7850968,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-19T19:24:25",
+          "numDocumento": "1102931",
+          "valorDocumento": 165.46,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7850968",
+          "nomeFornecedor": "KJSA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "02986295000142",
+          "valorLiquido": 165.46,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7840215,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-19T21:12:18",
+          "numDocumento": "1090989",
+          "valorDocumento": 156.11,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7840215",
+          "nomeFornecedor": "KJSA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "02986295000142",
+          "valorLiquido": 156.11,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7683679,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-12T00:00:00",
+          "numDocumento": "976627",
+          "valorDocumento": 271.71,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7683679",
+          "nomeFornecedor": "KJSA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "02986295000142",
+          "valorLiquido": 271.71,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "RICCO BURGER COMERCIO DE ALIMENTOS LTDA",
+      "cnpj": "28841110000103",
+      "total_recebido": 59.49,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:05.386045"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 59.49
+  },
+  "anos": {
+    "2023": {
+      "total": 59.49,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220596": {
+      "deputado": {
+        "id": 220596,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220596",
+        "nome": "Amália Barros",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220596.jpg",
+        "email": null
+      },
+      "total": 59.49,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7611877,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-15T00:00:00",
+          "numDocumento": "143170",
+          "valorDocumento": 59.49,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7611877",
+          "nomeFornecedor": "RICCO BURGER COMERCIO DE ALIMENTOS LTDA",
+          "cnpjCpfFornecedor": "28841110000103",
+          "valorLiquido": 59.49,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

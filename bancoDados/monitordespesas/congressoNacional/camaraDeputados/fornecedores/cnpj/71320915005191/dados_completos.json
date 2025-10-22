@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COOPERATIVA DOS PLANTADORES DE CANA DO OESTE DO E",
+      "cnpj": "71320915005191",
+      "total_recebido": 695.0600000000001,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:20.976067"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 695.0600000000001
+  },
+  "anos": {
+    "2024": {
+      "total": 695.0600000000001,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "141391": {
+      "deputado": {
+        "id": 141391,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141391",
+        "nome": "Arnaldo Jardim",
+        "siglaPartido": "CIDADANIA",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141391.jpg",
+        "email": "dep.arnaldojardim@camara.leg.br"
+      },
+      "total": 695.0600000000001,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7839454,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-01T00:00:00",
+          "numDocumento": "105602",
+          "valorDocumento": 160.02,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2024/7839454.pdf",
+          "nomeFornecedor": "COOPERATIVA DOS PLANTADORES DE CANA DO OESTE DO E",
+          "cnpjCpfFornecedor": "71320915005191",
+          "valorLiquido": 160.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7754907,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-14T00:00:00",
+          "numDocumento": "32533",
+          "valorDocumento": 185.06,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2024/7754907.pdf",
+          "nomeFornecedor": "COOPERATIVA DOS PLANTADORES DE CANA DO OESTE DO E",
+          "cnpjCpfFornecedor": "71320915005191",
+          "valorLiquido": 185.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7729479,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-29T00:00:00",
+          "numDocumento": "040053",
+          "valorDocumento": 170.02,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2024/7729479.pdf",
+          "nomeFornecedor": "COOPERATIVA DOS PLANTADORES DE CANA DO OESTE DO E",
+          "cnpjCpfFornecedor": "71320915005191",
+          "valorLiquido": 170.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7729473,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-30T00:00:00",
+          "numDocumento": "040316",
+          "valorDocumento": 179.96,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2024/7729473.pdf",
+          "nomeFornecedor": "COOPERATIVA DOS PLANTADORES DE CANA DO OESTE DO E",
+          "cnpjCpfFornecedor": "71320915005191",
+          "valorLiquido": 179.96,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

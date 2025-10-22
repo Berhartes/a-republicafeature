@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Caminhos da serra gaucha",
+      "cnpj": "47815827000117",
+      "total_recebido": 11.9,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:40.645098"
+  },
+  "categorias": {
+    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 11.9
+  },
+  "anos": {
+    "2023": {
+      "total": 11.9,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160538": {
+      "deputado": {
+        "id": 160538,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160538",
+        "nome": "Bohn Gass",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160538.jpg",
+        "email": "dep.bohngass@camara.leg.br"
+      },
+      "total": 11.9,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7506902,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-18T00:00:00",
+          "numDocumento": "s/n",
+          "valorDocumento": 11.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2405/2023/7506902.pdf",
+          "nomeFornecedor": "Caminhos da serra gaucha",
+          "cnpjCpfFornecedor": "47815827000117",
+          "valorLiquido": 11.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

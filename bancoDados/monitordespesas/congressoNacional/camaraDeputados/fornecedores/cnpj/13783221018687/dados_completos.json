@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MADERO INDUSTRIA E COMERCIO S.",
+      "cnpj": "13783221018687",
+      "total_recebido": 59.65,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:53:18.184417"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 59.65
+  },
+  "anos": {
+    "2023": {
+      "total": 59.65,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "143942": {
+      "deputado": {
+        "id": 143942,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143942",
+        "nome": "Caio Vianna",
+        "siglaPartido": "PSD",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/143942.jpg",
+        "email": "dep.caiovianna@camara.leg.br"
+      },
+      "total": 59.65,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7624602,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-10T00:00:00",
+          "numDocumento": "34787",
+          "valorDocumento": 65.61,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7624602",
+          "nomeFornecedor": "MADERO INDUSTRIA E COMERCIO S.",
+          "cnpjCpfFornecedor": "13783221018687",
+          "valorLiquido": 59.65,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

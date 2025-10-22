@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ALLPARK EMPREENDIMENTOS, PARTICIPAÇÕES E SERVIÇOS S.A.",
+      "cnpj": "60537263144672",
+      "total_recebido": 1430.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:40.668745"
+  },
+  "categorias": {
+    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 1430.0
+  },
+  "anos": {
+    "2024": {
+      "total": 1430.0,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160538": {
+      "deputado": {
+        "id": 160538,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160538",
+        "nome": "Bohn Gass",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160538.jpg",
+        "email": "dep.bohngass@camara.leg.br"
+      },
+      "total": 1430.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7844846,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-03T00:00:00",
+          "numDocumento": "2024541",
+          "valorDocumento": 350.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2405/2024/7844846.pdf",
+          "nomeFornecedor": "ALLPARK EMPREENDIMENTOS, PARTICIPAÇÕES E SERVIÇOS S.A.",
+          "cnpjCpfFornecedor": "60537263144672",
+          "valorLiquido": 350.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7844851,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-03T00:00:00",
+          "numDocumento": "2024543",
+          "valorDocumento": 365.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2405/2024/7844851.pdf",
+          "nomeFornecedor": "ALLPARK EMPREENDIMENTOS, PARTICIPAÇÕES E SERVIÇOS S.A.",
+          "cnpjCpfFornecedor": "60537263144672",
+          "valorLiquido": 365.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7844828,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-05T00:00:00",
+          "numDocumento": "2024424",
+          "valorDocumento": 350.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2405/2024/7844828.pdf",
+          "nomeFornecedor": "ALLPARK EMPREENDIMENTOS, PARTICIPAÇÕES E SERVIÇOS S.A.",
+          "cnpjCpfFornecedor": "60537263144672",
+          "valorLiquido": 350.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7844838,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-06T00:00:00",
+          "numDocumento": "2024437",
+          "valorDocumento": 365.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2405/2024/7844838.pdf",
+          "nomeFornecedor": "ALLPARK EMPREENDIMENTOS, PARTICIPAÇÕES E SERVIÇOS S.A.",
+          "cnpjCpfFornecedor": "60537263144672",
+          "valorLiquido": 365.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

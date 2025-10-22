@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "B5 EMPREENDIMENTOS LTDA",
+      "cnpj": "35640408000102",
+      "total_recebido": 4270.8,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:37.456503"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 4270.8
+  },
+  "anos": {
+    "2023": {
+      "total": 4270.8,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204507": {
+      "deputado": {
+        "id": 204507,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204507",
+        "nome": "Carla Zambelli",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204507.jpg",
+        "email": "dep.carlazambelli@camara.leg.br"
+      },
+      "total": 4270.8,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7574447,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-12T00:00:00",
+          "numDocumento": "3",
+          "valorDocumento": 4270.8,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2023/7574447.pdf",
+          "nomeFornecedor": "B5 EMPREENDIMENTOS LTDA",
+          "cnpjCpfFornecedor": "35640408000102",
+          "valorLiquido": 4270.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

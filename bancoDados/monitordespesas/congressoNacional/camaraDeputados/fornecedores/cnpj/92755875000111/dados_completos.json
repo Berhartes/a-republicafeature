@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Promotora de Garagens Ltda - EPP",
+      "cnpj": "92755875000111",
+      "total_recebido": 3600.0,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:32.549589"
+  },
+  "categorias": {
+    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 3600.0
+  },
+  "anos": {
+    "2023": {
+      "total": 3600.0,
+      "transacoes": 8,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204388": {
+      "deputado": {
+        "id": 204388,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388",
+        "nome": "Bibo Nunes",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
+        "email": "dep.bibonunes@camara.leg.br"
+      },
+      "total": 3600.0,
+      "transacoes": 8,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7604003,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-05T00:00:00",
+          "numDocumento": "20231001",
+          "valorDocumento": 450.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7604003.pdf",
+          "nomeFornecedor": "Promotora de Garagens Ltda - EPP",
+          "cnpjCpfFornecedor": "92755875000111",
+          "valorLiquido": 450.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7590108,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-01T00:00:00",
+          "numDocumento": "2023832",
+          "valorDocumento": 450.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7590108.pdf",
+          "nomeFornecedor": "Promotora de Garagens Ltda - EPP",
+          "cnpjCpfFornecedor": "92755875000111",
+          "valorLiquido": 450.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7573727,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-04T00:00:00",
+          "numDocumento": "2023729",
+          "valorDocumento": 450.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7573727.pdf",
+          "nomeFornecedor": "Promotora de Garagens Ltda - EPP",
+          "cnpjCpfFornecedor": "92755875000111",
+          "valorLiquido": 450.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7555357,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-05T00:00:00",
+          "numDocumento": "2023623",
+          "valorDocumento": 450.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7555357.pdf",
+          "nomeFornecedor": "Promotora de Garagens Ltda - EPP",
+          "cnpjCpfFornecedor": "92755875000111",
+          "valorLiquido": 450.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7536205,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-02T00:00:00",
+          "numDocumento": "2022483",
+          "valorDocumento": 450.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7536205.pdf",
+          "nomeFornecedor": "Promotora de Garagens Ltda - EPP",
+          "cnpjCpfFornecedor": "92755875000111",
+          "valorLiquido": 450.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7523965,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-06T00:00:00",
+          "numDocumento": "2023402",
+          "valorDocumento": 450.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7523965.pdf",
+          "nomeFornecedor": "Promotora de Garagens Ltda - EPP",
+          "cnpjCpfFornecedor": "92755875000111",
+          "valorLiquido": 450.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7505640,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-06T00:00:00",
+          "numDocumento": "2023236",
+          "valorDocumento": 450.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7505640.pdf",
+          "nomeFornecedor": "Promotora de Garagens Ltda - EPP",
+          "cnpjCpfFornecedor": "92755875000111",
+          "valorLiquido": 450.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7495654,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-07T00:00:00",
+          "numDocumento": "2023130",
+          "valorDocumento": 450.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7495654.pdf",
+          "nomeFornecedor": "Promotora de Garagens Ltda - EPP",
+          "cnpjCpfFornecedor": "92755875000111",
+          "valorLiquido": 450.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

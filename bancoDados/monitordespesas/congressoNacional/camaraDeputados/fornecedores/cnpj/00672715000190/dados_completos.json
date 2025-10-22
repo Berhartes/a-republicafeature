@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO LEAO DA ILHA LTDA",
+      "cnpj": "00672715000190",
+      "total_recebido": 1010.01,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:39.375234"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1010.01
+  },
+  "anos": {
+    "2023": {
+      "total": 260.01,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 750.0,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204423": {
+      "deputado": {
+        "id": 204423,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204423",
+        "nome": "André Ferreira",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204423.jpg",
+        "email": "dep.andreferreira@camara.leg.br"
+      },
+      "total": 1010.01,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7516690,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-24T00:00:00",
+          "numDocumento": "421111",
+          "valorDocumento": 260.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7516690",
+          "nomeFornecedor": "POSTO LEAO DA ILHA LTDA",
+          "cnpjCpfFornecedor": "00672715000190",
+          "valorLiquido": 260.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7813227,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-04T09:54:24",
+          "numDocumento": "551322",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7813227",
+          "nomeFornecedor": "POSTO LEAO DA ILHA LTDA",
+          "cnpjCpfFornecedor": "00672715000190",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7813220,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-05T20:10:51",
+          "numDocumento": "551824",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7813220",
+          "nomeFornecedor": "POSTO LEAO DA ILHA LTDA",
+          "cnpjCpfFornecedor": "00672715000190",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7722708,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-17T10:27:01",
+          "numDocumento": "509600",
+          "valorDocumento": 250.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7722708",
+          "nomeFornecedor": "POSTO LEAO DA ILHA LTDA",
+          "cnpjCpfFornecedor": "00672715000190",
+          "valorLiquido": 250.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7738020,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-24T00:00:00",
+          "numDocumento": "511556",
+          "valorDocumento": 100.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3368/2024/7738020.pdf",
+          "nomeFornecedor": "POSTO LEAO DA ILHA LTDA",
+          "cnpjCpfFornecedor": "00672715000190",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

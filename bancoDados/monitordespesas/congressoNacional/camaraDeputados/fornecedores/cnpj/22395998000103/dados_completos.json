@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Ieda do Socorro Ferreira de Souza",
+      "cnpj": "22395998000103",
+      "total_recebido": 58.17,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:26.646133"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 58.17
+  },
+  "anos": {
+    "2023": {
+      "total": 58.17,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178829": {
+      "deputado": {
+        "id": 178829,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178829",
+        "nome": "Capitão Augusto",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
+        "email": "dep.capitaoaugusto@camara.leg.br"
+      },
+      "total": 58.17,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7515982,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-24T00:00:00",
+          "numDocumento": "007719",
+          "valorDocumento": 58.17,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2023/7515982.pdf",
+          "nomeFornecedor": "Ieda do Socorro Ferreira de Souza",
+          "cnpjCpfFornecedor": "22395998000103",
+          "valorLiquido": 58.17,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

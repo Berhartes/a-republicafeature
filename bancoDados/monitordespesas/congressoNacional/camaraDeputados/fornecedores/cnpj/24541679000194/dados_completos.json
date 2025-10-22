@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO GASPARZINHO DE MERITI LTDA",
+      "cnpj": "24541679000194",
+      "total_recebido": 1066.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:02.335991"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1066.0
+  },
+  "anos": {
+    "2024": {
+      "total": 666.0,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 400.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220612": {
+      "deputado": {
+        "id": 220612,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220612",
+        "nome": "Bebeto",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220612.jpg",
+        "email": "dep.bebeto@camara.leg.br"
+      },
+      "total": 1066.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7812631,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-05T10:17:45",
+          "numDocumento": "14229",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7812631",
+          "nomeFornecedor": "AUTO POSTO GASPARZINHO DE MERITI LTDA",
+          "cnpjCpfFornecedor": "24541679000194",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7808387,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-28T12:26:59",
+          "numDocumento": "13607",
+          "valorDocumento": 266.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7808387",
+          "nomeFornecedor": "AUTO POSTO GASPARZINHO DE MERITI LTDA",
+          "cnpjCpfFornecedor": "24541679000194",
+          "valorLiquido": 266.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7793453,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-21T16:26:37",
+          "numDocumento": "11157",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7793453",
+          "nomeFornecedor": "AUTO POSTO GASPARZINHO DE MERITI LTDA",
+          "cnpjCpfFornecedor": "24541679000194",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7878841,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-08T11:31:01",
+          "numDocumento": "23388",
+          "valorDocumento": 400.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7878841",
+          "nomeFornecedor": "AUTO POSTO GASPARZINHO DE MERITI LTDA",
+          "cnpjCpfFornecedor": "24541679000194",
+          "valorLiquido": 400.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

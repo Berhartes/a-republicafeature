@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MP POSTOS E LOGISTICA LTDA  CHAPECO  FILIAL 17",
+      "cnpj": "23448964001921",
+      "total_recebido": 488.65,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:42.577839"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 488.65
+  },
+  "anos": {
+    "2023": {
+      "total": 488.65,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204361": {
+      "deputado": {
+        "id": 204361,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
+        "nome": "Carlos Chiodini",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+        "email": null
+      },
+      "total": 488.65,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7649716,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-23T00:00:00",
+          "numDocumento": "330695",
+          "valorDocumento": 283.87,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7649716",
+          "nomeFornecedor": "MP POSTOS E LOGISTICA LTDA  CHAPECO  FILIAL 17",
+          "cnpjCpfFornecedor": "23448964001921",
+          "valorLiquido": 283.87,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7591926,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-06T00:00:00",
+          "numDocumento": "236158",
+          "valorDocumento": 204.78,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7591926",
+          "nomeFornecedor": "MP POSTOS E LOGISTICA LTDA  CHAPECO  FILIAL 17",
+          "cnpjCpfFornecedor": "23448964001921",
+          "valorLiquido": 204.78,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

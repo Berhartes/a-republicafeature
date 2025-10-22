@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "G10 Terceirizações LTDA",
+      "cnpj": "23957761000212",
+      "total_recebido": 47.67,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:05.710434"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 47.67
+  },
+  "anos": {
+    "2023": {
+      "total": 47.67,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220596": {
+      "deputado": {
+        "id": 220596,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220596",
+        "nome": "Amália Barros",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220596.jpg",
+        "email": null
+      },
+      "total": 47.67,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7529256,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-20T00:00:00",
+          "numDocumento": "2150",
+          "valorDocumento": 47.67,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7529256.pdf",
+          "nomeFornecedor": "G10 Terceirizações LTDA",
+          "cnpjCpfFornecedor": "23957761000212",
+          "valorLiquido": 47.67,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

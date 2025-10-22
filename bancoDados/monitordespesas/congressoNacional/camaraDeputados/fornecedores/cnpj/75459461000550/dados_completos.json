@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO NIENKOTTER LTDA",
+      "cnpj": "75459461000550",
+      "total_recebido": 467.03,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:29.094363"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 467.03
+  },
+  "anos": {
+    "2024": {
+      "total": 467.03,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "229106": {
+      "deputado": {
+        "id": 229106,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/229106",
+        "nome": "Carla Ayres",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/229106.jpg",
+        "email": null
+      },
+      "total": 467.03,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7789400,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-08T00:00:00",
+          "numDocumento": "105154",
+          "valorDocumento": 467.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7789400",
+          "nomeFornecedor": "AUTO POSTO NIENKOTTER LTDA",
+          "cnpjCpfFornecedor": "75459461000550",
+          "valorLiquido": 467.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

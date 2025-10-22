@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CENTRO AUTOMOTIVO VALCRIZ LTDA",
+      "cnpj": "15515862000124",
+      "total_recebido": 245.01,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:20.944604"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 245.01
+  },
+  "anos": {
+    "2023": {
+      "total": 245.01,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "141391": {
+      "deputado": {
+        "id": 141391,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141391",
+        "nome": "Arnaldo Jardim",
+        "siglaPartido": "CIDADANIA",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141391.jpg",
+        "email": "dep.arnaldojardim@camara.leg.br"
+      },
+      "total": 245.01,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7508999,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-09T00:00:00",
+          "numDocumento": "181248",
+          "valorDocumento": 100.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2023/7508999.pdf",
+          "nomeFornecedor": "CENTRO AUTOMOTIVO VALCRIZ LTDA",
+          "cnpjCpfFornecedor": "15515862000124",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7498144,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-08T00:00:00",
+          "numDocumento": "165972",
+          "valorDocumento": 145.01,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2023/7498144.pdf",
+          "nomeFornecedor": "CENTRO AUTOMOTIVO VALCRIZ LTDA",
+          "cnpjCpfFornecedor": "15515862000124",
+          "valorLiquido": 145.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

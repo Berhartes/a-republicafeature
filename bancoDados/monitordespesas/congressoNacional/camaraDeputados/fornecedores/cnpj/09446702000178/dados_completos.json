@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "A C ARAUJO DE OLIVEIRA",
+      "cnpj": "09446702000178",
+      "total_recebido": 460.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:55:10.523185"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 460.0
+  },
+  "anos": {
+    "2023": {
+      "total": 460.0,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204426": {
+      "deputado": {
+        "id": 204426,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204426",
+        "nome": "Carlos Veras",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
+        "email": "dep.carlosveras@camara.leg.br"
+      },
+      "total": 460.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7654547,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-02T00:00:00",
+          "numDocumento": "00001455",
+          "valorDocumento": 115.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3234/2023/7654547.pdf",
+          "nomeFornecedor": "A C ARAUJO DE OLIVEIRA",
+          "cnpjCpfFornecedor": "09446702000178",
+          "valorLiquido": 115.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7654543,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-02T00:00:00",
+          "numDocumento": "00001456",
+          "valorDocumento": 115.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3234/2023/7654543.pdf",
+          "nomeFornecedor": "A C ARAUJO DE OLIVEIRA",
+          "cnpjCpfFornecedor": "09446702000178",
+          "valorLiquido": 115.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7654538,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-02T00:00:00",
+          "numDocumento": "00001457",
+          "valorDocumento": 115.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3234/2023/7654538.pdf",
+          "nomeFornecedor": "A C ARAUJO DE OLIVEIRA",
+          "cnpjCpfFornecedor": "09446702000178",
+          "valorLiquido": 115.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7654532,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-02T00:00:00",
+          "numDocumento": "00001458",
+          "valorDocumento": 115.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3234/2023/7654532.pdf",
+          "nomeFornecedor": "A C ARAUJO DE OLIVEIRA",
+          "cnpjCpfFornecedor": "09446702000178",
+          "valorLiquido": 115.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

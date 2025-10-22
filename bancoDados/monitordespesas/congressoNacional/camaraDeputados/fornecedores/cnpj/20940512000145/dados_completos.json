@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "REDE DE POSTOS MARAJO GRANDE GOIANIA LTDA",
+      "cnpj": "20940512000145",
+      "total_recebido": 575.14,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:48.423214"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 575.14
+  },
+  "anos": {
+    "2023": {
+      "total": 228.18,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 346.96000000000004,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204515": {
+      "deputado": {
+        "id": 204515,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204515",
+        "nome": "André Janones",
+        "siglaPartido": "AVANTE",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
+        "email": "dep.andrejanones@camara.leg.br"
+      },
+      "total": 575.14,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7583725,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-02T00:00:00",
+          "numDocumento": "182285",
+          "valorDocumento": 228.18,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2023/7583725.pdf",
+          "nomeFornecedor": "REDE DE POSTOS MARAJO GRANDE GOIANIA LTDA",
+          "cnpjCpfFornecedor": "20940512000145",
+          "valorLiquido": 228.18,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7844685,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-07T16:26:19",
+          "numDocumento": "367483",
+          "valorDocumento": 150.61,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7844685",
+          "nomeFornecedor": "REDE DE POSTOS MARAJO GRANDE GOIANIA LTDA",
+          "cnpjCpfFornecedor": "20940512000145",
+          "valorLiquido": 150.61,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7803293,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-12T12:22:34",
+          "numDocumento": "345891",
+          "valorDocumento": 196.35,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7803293",
+          "nomeFornecedor": "REDE DE POSTOS MARAJO GRANDE GOIANIA LTDA",
+          "cnpjCpfFornecedor": "20940512000145",
+          "valorLiquido": 196.35,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

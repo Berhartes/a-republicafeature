@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "QUATROELOS EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+      "cnpj": "35173625000300",
+      "total_recebido": 897.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:04.181954"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 897.0
+  },
+  "anos": {
+    "2023": {
+      "total": 897.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220638": {
+      "deputado": {
+        "id": 220638,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220638",
+        "nome": "Antonio Carlos Rodrigues",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
+        "email": "dep.antoniocarlosrodrigues@camara.leg.br"
+      },
+      "total": 897.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7649422,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-17T00:00:00",
+          "numDocumento": "00004720",
+          "valorDocumento": 299.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3654/2023/7649422.pdf",
+          "nomeFornecedor": "QUATROELOS EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+          "cnpjCpfFornecedor": "35173625000300",
+          "valorLiquido": 299.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7649365,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-17T00:00:00",
+          "numDocumento": "00004721",
+          "valorDocumento": 299.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3654/2023/7649365.pdf",
+          "nomeFornecedor": "QUATROELOS EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+          "cnpjCpfFornecedor": "35173625000300",
+          "valorLiquido": 299.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7649403,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-17T00:00:00",
+          "numDocumento": "00004722",
+          "valorDocumento": 299.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3654/2023/7649403.pdf",
+          "nomeFornecedor": "QUATROELOS EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+          "cnpjCpfFornecedor": "35173625000300",
+          "valorLiquido": 299.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

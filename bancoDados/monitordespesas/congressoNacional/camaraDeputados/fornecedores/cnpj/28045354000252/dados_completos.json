@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "IMPRA INDUSTRIA GRAFICA LTDA",
+      "cnpj": "28045354000252",
+      "total_recebido": 421.30000000000007,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:48.842475"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 421.30000000000007
+  },
+  "anos": {
+    "2024": {
+      "total": 421.30000000000007,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220635": {
+      "deputado": {
+        "id": 220635,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220635",
+        "nome": "Bruno Ganem",
+        "siglaPartido": "PODE",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220635.jpg",
+        "email": "dep.brunoganem@camara.leg.br"
+      },
+      "total": 421.30000000000007,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7845435,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-25T00:00:00",
+          "numDocumento": "1007758",
+          "valorDocumento": 291.1,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3707/2024/7845435.pdf",
+          "nomeFornecedor": "IMPRA INDUSTRIA GRAFICA LTDA",
+          "cnpjCpfFornecedor": "28045354000252",
+          "valorLiquido": 291.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7728399,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-30T00:00:00",
+          "numDocumento": "202400000787580",
+          "valorDocumento": 65.1,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3707/2024/7728399.pdf",
+          "nomeFornecedor": "IMPRA INDUSTRIA GRAFICA LTDA",
+          "cnpjCpfFornecedor": "28045354000252",
+          "valorLiquido": 65.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7685116,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-24T00:00:00",
+          "numDocumento": "202400000694429",
+          "valorDocumento": 65.1,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3707/2024/7685116.pdf",
+          "nomeFornecedor": "IMPRA INDUSTRIA GRAFICA LTDA",
+          "cnpjCpfFornecedor": "28045354000252",
+          "valorLiquido": 65.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

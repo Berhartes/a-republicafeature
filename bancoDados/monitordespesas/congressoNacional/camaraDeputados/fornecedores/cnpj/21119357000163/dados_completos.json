@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "TIPO MIDIA LTDA-ME",
+      "cnpj": "21119357000163",
+      "total_recebido": 13100.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:46.416102"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 13100.0
+  },
+  "anos": {
+    "2023": {
+      "total": 13100.0,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "210989": {
+      "deputado": {
+        "id": 210989,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/210989",
+        "nome": "Bruno Farias",
+        "siglaPartido": "AVANTE",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/210989.jpg",
+        "email": "dep.brunofarias@camara.leg.br"
+      },
+      "total": 13100.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7622354,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-06T00:00:00",
+          "numDocumento": "5110",
+          "valorDocumento": 4800.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3624/2023/7622354.pdf",
+          "nomeFornecedor": "TIPO MIDIA LTDA-ME",
+          "cnpjCpfFornecedor": "21119357000163",
+          "valorLiquido": 4800.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7611170,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-19T00:00:00",
+          "numDocumento": "4860",
+          "valorDocumento": 1300.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3624/2023/7611170.pdf",
+          "nomeFornecedor": "TIPO MIDIA LTDA-ME",
+          "cnpjCpfFornecedor": "21119357000163",
+          "valorLiquido": 1300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7599395,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-01T00:00:00",
+          "numDocumento": "4886",
+          "valorDocumento": 1300.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3624/2023/7599395.pdf",
+          "nomeFornecedor": "TIPO MIDIA LTDA-ME",
+          "cnpjCpfFornecedor": "21119357000163",
+          "valorLiquido": 1300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7560030,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-03T00:00:00",
+          "numDocumento": "4793",
+          "valorDocumento": 5700.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3624/2023/7560030.pdf",
+          "nomeFornecedor": "TIPO MIDIA LTDA",
+          "cnpjCpfFornecedor": "21119357000163",
+          "valorLiquido": 5700.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "039 - QI 13 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597003970",
+      "total_recebido": 308.96,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:55:19.176469"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 308.96
+  },
+  "anos": {
+    "2024": {
+      "total": 308.96,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "164360": {
+      "deputado": {
+        "id": 164360,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164360",
+        "nome": "Carmen Zanotto",
+        "siglaPartido": "CIDADANIA",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/164360.jpg",
+        "email": null
+      },
+      "total": 308.96,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7833038,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-29T08:49:05",
+          "numDocumento": "135358",
+          "valorDocumento": 308.96,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7833038",
+          "nomeFornecedor": "039 - QI 13 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+          "cnpjCpfFornecedor": "00306597003970",
+          "valorLiquido": 308.96,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

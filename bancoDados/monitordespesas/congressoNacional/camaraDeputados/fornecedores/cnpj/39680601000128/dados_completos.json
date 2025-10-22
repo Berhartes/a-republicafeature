@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO CENTRAL",
+      "cnpj": "39680601000128",
+      "total_recebido": 211.53,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:23.816026"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 211.53
+  },
+  "anos": {
+    "2023": {
+      "total": 211.53,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220556": {
+      "deputado": {
+        "id": 220556,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220556",
+        "nome": "Ana Paula Lima",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
+        "email": "dep.anapaulalima@camara.leg.br"
+      },
+      "total": 211.53,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7508206,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-04T00:00:00",
+          "numDocumento": "000097557",
+          "valorDocumento": 211.53,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3705/2023/7508206.pdf",
+          "nomeFornecedor": "POSTO CENTRAL",
+          "cnpjCpfFornecedor": "39680601000128",
+          "valorLiquido": 211.53,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

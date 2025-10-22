@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO MARU S .A I",
+      "cnpj": "81894297000188",
+      "total_recebido": 1030.98,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:21.319277"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1030.98
+  },
+  "anos": {
+    "2023": {
+      "total": 560.98,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 470.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220683": {
+      "deputado": {
+        "id": 220683,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220683",
+        "nome": "Beto Richa",
+        "siglaPartido": "PSDB",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220683.jpg",
+        "email": "dep.betoricha@camara.leg.br"
+      },
+      "total": 1030.98,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7557518,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-07T00:00:00",
+          "numDocumento": "370235",
+          "valorDocumento": 309.88,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7557518",
+          "nomeFornecedor": "POSTO MARU S .A I",
+          "cnpjCpfFornecedor": "81894297000188",
+          "valorLiquido": 309.88,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7518538,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-23T00:00:00",
+          "numDocumento": "320732",
+          "valorDocumento": 251.1,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7518538",
+          "nomeFornecedor": "POSTO MARU S .A I",
+          "cnpjCpfFornecedor": "81894297000188",
+          "valorLiquido": 251.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7812868,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-07T00:00:00",
+          "numDocumento": "1418651",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7812868",
+          "nomeFornecedor": "POSTO MARU S .A I",
+          "cnpjCpfFornecedor": "81894297000188",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7746638,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-30T12:34:58",
+          "numDocumento": "1345854",
+          "valorDocumento": 320.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7746638",
+          "nomeFornecedor": "POSTO MARU S .A I",
+          "cnpjCpfFornecedor": "81894297000188",
+          "valorLiquido": 320.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

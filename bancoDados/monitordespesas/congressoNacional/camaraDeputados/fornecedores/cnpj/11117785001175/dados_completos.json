@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ALBUQUERQUE PNEUS LTDA",
+      "cnpj": "11117785001175",
+      "total_recebido": 246.61,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:55:10.420352"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 246.61
+  },
+  "anos": {
+    "2023": {
+      "total": 246.61,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204426": {
+      "deputado": {
+        "id": 204426,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204426",
+        "nome": "Carlos Veras",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
+        "email": "dep.carlosveras@camara.leg.br"
+      },
+      "total": 246.61,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7664721,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-18T00:00:00",
+          "numDocumento": "265416",
+          "valorDocumento": 70.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7664721",
+          "nomeFornecedor": "ALBUQUERQUE PNEUS LTDA",
+          "cnpjCpfFornecedor": "11117785001175",
+          "valorLiquido": 70.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7585379,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-07T00:00:00",
+          "numDocumento": "8990",
+          "valorDocumento": 176.61,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7585379",
+          "nomeFornecedor": "ALBUQUERQUE PNEUS LTDA",
+          "cnpjCpfFornecedor": "11117785001175",
+          "valorLiquido": 176.61,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

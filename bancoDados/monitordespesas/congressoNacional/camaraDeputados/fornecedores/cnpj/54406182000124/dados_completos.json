@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CENTRO AUTOMOTIVO CACADOR LTDA",
+      "cnpj": "54406182000124",
+      "total_recebido": 403.92,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:24.086625"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 403.92
+  },
+  "anos": {
+    "2025": {
+      "total": 403.92,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220556": {
+      "deputado": {
+        "id": 220556,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220556",
+        "nome": "Ana Paula Lima",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
+        "email": "dep.anapaulalima@camara.leg.br"
+      },
+      "total": 403.92,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7991431,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-26T09:30:03",
+          "numDocumento": "156804",
+          "valorDocumento": 130.06,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7991431",
+          "nomeFornecedor": "CENTRO AUTOMOTIVO CACADOR LTDA",
+          "cnpjCpfFornecedor": "54406182000124",
+          "valorLiquido": 130.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7881845,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-07T00:00:00",
+          "numDocumento": "64006",
+          "valorDocumento": 273.86,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7881845",
+          "nomeFornecedor": "CENTRO AUTOMOTIVO CACADOR LTDA",
+          "cnpjCpfFornecedor": "54406182000124",
+          "valorLiquido": 273.86,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

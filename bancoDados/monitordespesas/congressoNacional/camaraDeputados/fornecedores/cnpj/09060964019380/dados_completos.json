@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PIMENTA VERDE ALIMENTOS ME",
+      "cnpj": "09060964019380",
+      "total_recebido": 35.8,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:05.648549"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 35.8
+  },
+  "anos": {
+    "2023": {
+      "total": 35.8,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220596": {
+      "deputado": {
+        "id": 220596,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220596",
+        "nome": "Amália Barros",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220596.jpg",
+        "email": null
+      },
+      "total": 35.8,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7542561,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-11T00:00:00",
+          "numDocumento": "045061",
+          "valorDocumento": 35.8,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7542561.pdf",
+          "nomeFornecedor": "PIMENTA VERDE ALIMENTOS ME",
+          "cnpjCpfFornecedor": "09060964019380",
+          "valorLiquido": 35.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

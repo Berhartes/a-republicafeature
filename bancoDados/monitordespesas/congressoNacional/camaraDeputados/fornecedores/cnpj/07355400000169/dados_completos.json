@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO PORTAL DE MINAS LTDA",
+      "cnpj": "07355400000169",
+      "total_recebido": 243.92,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:46.504709"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 243.92
+  },
+  "anos": {
+    "2023": {
+      "total": 243.92,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "210989": {
+      "deputado": {
+        "id": 210989,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/210989",
+        "nome": "Bruno Farias",
+        "siglaPartido": "AVANTE",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/210989.jpg",
+        "email": "dep.brunofarias@camara.leg.br"
+      },
+      "total": 243.92,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7523048,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-31T00:00:00",
+          "numDocumento": "185887",
+          "valorDocumento": 243.92,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3624/2023/7523048.pdf",
+          "nomeFornecedor": "AUTO POSTO PORTAL DE MINAS LTDA",
+          "cnpjCpfFornecedor": "07355400000169",
+          "valorLiquido": 243.92,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

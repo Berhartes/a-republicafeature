@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO ALVES & SILVA LTDA",
+      "cnpj": "14110745000207",
+      "total_recebido": 2015.81,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:55:10.849546"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 2015.81
+  },
+  "anos": {
+    "2023": {
+      "total": 494.65,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 1521.1599999999999,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204426": {
+      "deputado": {
+        "id": 204426,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204426",
+        "nome": "Carlos Veras",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
+        "email": "dep.carlosveras@camara.leg.br"
+      },
+      "total": 2015.81,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7563785,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-25T00:00:00",
+          "numDocumento": "34320",
+          "valorDocumento": 160.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7563785",
+          "nomeFornecedor": "AUTO POSTO ALVES & SILVA LTDA",
+          "cnpjCpfFornecedor": "14110745000207",
+          "valorLiquido": 160.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7511680,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-19T00:00:00",
+          "numDocumento": "8306",
+          "valorDocumento": 334.63,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7511680",
+          "nomeFornecedor": "AUTO POSTO ALVES & SILVA LTDA",
+          "cnpjCpfFornecedor": "14110745000207",
+          "valorLiquido": 334.63,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7845219,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-10T13:09:16",
+          "numDocumento": "154410",
+          "valorDocumento": 369.64,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7845219",
+          "nomeFornecedor": "AUTO POSTO ALVES & SILVA LTDA",
+          "cnpjCpfFornecedor": "14110745000207",
+          "valorLiquido": 369.64,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7837881,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-29T09:23:30",
+          "numDocumento": "151551",
+          "valorDocumento": 397.6,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7837881",
+          "nomeFornecedor": "AUTO POSTO ALVES & SILVA LTDA",
+          "cnpjCpfFornecedor": "14110745000207",
+          "valorLiquido": 397.6,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7789040,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-19T00:00:00",
+          "numDocumento": "128502",
+          "valorDocumento": 363.79,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7789040",
+          "nomeFornecedor": "AUTO POSTO ALVES & SILVA LTDA",
+          "cnpjCpfFornecedor": "14110745000207",
+          "valorLiquido": 363.79,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7792107,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-24T00:00:00",
+          "numDocumento": "129661",
+          "valorDocumento": 390.13,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7792107",
+          "nomeFornecedor": "AUTO POSTO ALVES & SILVA LTDA",
+          "cnpjCpfFornecedor": "14110745000207",
+          "valorLiquido": 390.13,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

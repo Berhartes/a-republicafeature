@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO PESQUE E PAGUE CIDADE DE TANGUA LTDA",
+      "cnpj": "05201063000120",
+      "total_recebido": 587.0699999999999,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:53:18.174896"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 587.0699999999999
+  },
+  "anos": {
+    "2023": {
+      "total": 337.07,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 250.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "143942": {
+      "deputado": {
+        "id": 143942,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143942",
+        "nome": "Caio Vianna",
+        "siglaPartido": "PSD",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/143942.jpg",
+        "email": "dep.caiovianna@camara.leg.br"
+      },
+      "total": 587.0699999999999,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7621858,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-05T00:00:00",
+          "numDocumento": "19508",
+          "valorDocumento": 237.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7621858",
+          "nomeFornecedor": "POSTO PESQUE E PAGUE CIDADE DE TANGUA LTDA",
+          "cnpjCpfFornecedor": "05201063000120",
+          "valorLiquido": 237.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7624887,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-27T00:00:00",
+          "numDocumento": "2765",
+          "valorDocumento": 100.05,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7624887",
+          "nomeFornecedor": "POSTO PESQUE E PAGUE CIDADE DE TANGUA LTDA",
+          "cnpjCpfFornecedor": "05201063000120",
+          "valorLiquido": 100.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7951332,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-14T20:46:02",
+          "numDocumento": "48400",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7951332",
+          "nomeFornecedor": "POSTO PESQUE E PAGUE CIDADE DE TANGUA LTDA",
+          "cnpjCpfFornecedor": "05201063000120",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7933843,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-08T13:05:16",
+          "numDocumento": "40502",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7933843",
+          "nomeFornecedor": "POSTO PESQUE E PAGUE CIDADE DE TANGUA LTDA",
+          "cnpjCpfFornecedor": "05201063000120",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

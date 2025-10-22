@@ -1,0 +1,12 @@
+{
+  "name": "@a-republica/etl-python",
+  "version": "0.1.0",
+  "description": "Python ETL pipeline for Câmara dos Deputados data",
+  "scripts": {
+  "etl:despesasdeputados:pc": "py -m etlpython.sources.congresso_nacional.camara_deputados.cli",
+  "etl:materialize:unified": "py -m etlpython.cli.materialize_unified"
+  },
+  "keywords": ["etl", "python", "camara", "deputados"],
+  "author": "A República",
+  "private": true
+}

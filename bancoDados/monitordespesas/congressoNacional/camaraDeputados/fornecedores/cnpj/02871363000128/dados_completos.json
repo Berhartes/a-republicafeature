@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO PANTERA LTDA",
+      "cnpj": "02871363000128",
+      "total_recebido": 1762.5999999999997,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:48.408960"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1762.5999999999997
+  },
+  "anos": {
+    "2023": {
+      "total": 1188.8999999999999,
+      "transacoes": 4,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 573.7,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204515": {
+      "deputado": {
+        "id": 204515,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204515",
+        "nome": "André Janones",
+        "siglaPartido": "AVANTE",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
+        "email": "dep.andrejanones@camara.leg.br"
+      },
+      "total": 1762.5999999999997,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7584851,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-06T00:00:00",
+          "numDocumento": "33480",
+          "valorDocumento": 269.01,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2023/7584851.pdf",
+          "nomeFornecedor": "POSTO PANTERA LTDA",
+          "cnpjCpfFornecedor": "02871363000128",
+          "valorLiquido": 269.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7550585,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-25T00:00:00",
+          "numDocumento": "024327",
+          "valorDocumento": 328.58,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2023/7550585.pdf",
+          "nomeFornecedor": "POSTO PANTERA LTDA",
+          "cnpjCpfFornecedor": "02871363000128",
+          "valorLiquido": 328.58,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7539068,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-04T00:00:00",
+          "numDocumento": "22373",
+          "valorDocumento": 415.8,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2023/7539068.pdf",
+          "nomeFornecedor": "POSTO PANTERA LTDA",
+          "cnpjCpfFornecedor": "02871363000128",
+          "valorLiquido": 415.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7513645,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-17T00:00:00",
+          "numDocumento": "17248",
+          "valorDocumento": 175.51,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2023/7513645.pdf",
+          "nomeFornecedor": "POSTO PANTERA LTDA",
+          "cnpjCpfFornecedor": "02871363000128",
+          "valorLiquido": 175.51,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7844561,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-11T00:00:00",
+          "numDocumento": "76672",
+          "valorDocumento": 268.11,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2024/7844561.pdf",
+          "nomeFornecedor": "POSTO PANTERA LTDA",
+          "cnpjCpfFornecedor": "02871363000128",
+          "valorLiquido": 268.11,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7823559,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-03T00:00:00",
+          "numDocumento": "74527",
+          "valorDocumento": 142.62,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2024/7823559.pdf",
+          "nomeFornecedor": "POSTO PANTERA LTDA",
+          "cnpjCpfFornecedor": "02871363000128",
+          "valorLiquido": 142.62,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7828269,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-29T00:00:00",
+          "numDocumento": "74226",
+          "valorDocumento": 162.97,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2024/7828269.pdf",
+          "nomeFornecedor": "POSTO PANTERA LTDA",
+          "cnpjCpfFornecedor": "02871363000128",
+          "valorLiquido": 162.97,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

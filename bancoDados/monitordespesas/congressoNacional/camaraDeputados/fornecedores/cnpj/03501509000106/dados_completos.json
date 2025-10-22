@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PREFEITURA MUNICIPAL DE CAMPO GRANDE",
+      "cnpj": "03501509000106",
+      "total_recebido": 1488.6299999999999,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:53:48.182171"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 1488.6299999999999
+  },
+  "anos": {
+    "2024": {
+      "total": 1488.6299999999999,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220548": {
+      "deputado": {
+        "id": 220548,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220548",
+        "nome": "Camila Jara",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "MS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
+        "email": "dep.camilajara@camara.leg.br"
+      },
+      "total": 1488.6299999999999,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7848549,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-10T00:00:00",
+          "numDocumento": "16717872420240",
+          "valorDocumento": 501.17,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3637/2024/7848549.pdf",
+          "nomeFornecedor": "PREFEITURA MUNICIPAL DE CAMPO GRANDE",
+          "cnpjCpfFornecedor": "03501509000106",
+          "valorLiquido": 496.21,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7848530,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-11T00:00:00",
+          "numDocumento": "16717862420245",
+          "valorDocumento": 506.13,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3637/2024/7848530.pdf",
+          "nomeFornecedor": "PREFEITURA MUNICIPAL DE CAMPO GRANDE",
+          "cnpjCpfFornecedor": "03501509000106",
+          "valorLiquido": 496.21,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7848500,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-10T00:00:00",
+          "numDocumento": "16717852420240",
+          "valorDocumento": 511.09,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3637/2024/7848500.pdf",
+          "nomeFornecedor": "PREFEITURA MUNICIPAL DE CAMPO GRANDE",
+          "cnpjCpfFornecedor": "03501509000106",
+          "valorLiquido": 496.21,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

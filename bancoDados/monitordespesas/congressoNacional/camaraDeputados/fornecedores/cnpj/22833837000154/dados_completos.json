@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "L C M RESTAURANTE LTDA",
+      "cnpj": "22833837000154",
+      "total_recebido": 179.6,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:26.496793"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 179.6
+  },
+  "anos": {
+    "2023": {
+      "total": 179.6,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178829": {
+      "deputado": {
+        "id": 178829,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178829",
+        "nome": "Capitão Augusto",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
+        "email": "dep.capitaoaugusto@camara.leg.br"
+      },
+      "total": 179.6,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7603372,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-01T00:00:00",
+          "numDocumento": "273593",
+          "valorDocumento": 120.78,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2023/7603372.pdf",
+          "nomeFornecedor": "L C M RESTAURANTE LTDA",
+          "cnpjCpfFornecedor": "22833837000154",
+          "valorLiquido": 109.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7512791,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-20T00:00:00",
+          "numDocumento": "251127",
+          "valorDocumento": 76.78,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2023/7512791.pdf",
+          "nomeFornecedor": "L C M RESTAURANTE LTDA",
+          "cnpjCpfFornecedor": "22833837000154",
+          "valorLiquido": 69.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

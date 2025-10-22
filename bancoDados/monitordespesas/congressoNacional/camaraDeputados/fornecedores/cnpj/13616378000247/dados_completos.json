@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO MUFFATO LTDA",
+      "cnpj": "13616378000247",
+      "total_recebido": 259.57,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:21.340908"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 259.57
+  },
+  "anos": {
+    "2023": {
+      "total": 259.57,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220683": {
+      "deputado": {
+        "id": 220683,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220683",
+        "nome": "Beto Richa",
+        "siglaPartido": "PSDB",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220683.jpg",
+        "email": "dep.betoricha@camara.leg.br"
+      },
+      "total": 259.57,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7552176,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-25T00:00:00",
+          "numDocumento": "1396040",
+          "valorDocumento": 259.57,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7552176",
+          "nomeFornecedor": "AUTO POSTO MUFFATO LTDA",
+          "cnpjCpfFornecedor": "13616378000247",
+          "valorLiquido": 259.57,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MULTIPLICAR E SERVIÇOS LTDA EPP",
+      "cnpj": "04241959000170",
+      "total_recebido": 56613.0,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:46.998444"
+  },
+  "categorias": {
+    "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 56613.0
+  },
+  "anos": {
+    "2024": {
+      "total": 63.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 56550.0,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "69871": {
+      "deputado": {
+        "id": 69871,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/69871",
+        "nome": "Bacelar",
+        "siglaPartido": "PV",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
+        "email": "dep.bacelar@camara.leg.br"
+      },
+      "total": 56613.0,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7849768,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-19T00:00:00",
+          "numDocumento": "00000513",
+          "valorDocumento": 12650.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2985/2024/7849768.pdf",
+          "nomeFornecedor": "MULTIPLICAR E SERVIÇOS LTDA EPP",
+          "cnpjCpfFornecedor": "04241959000170",
+          "valorLiquido": 63.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7992443,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-01T00:00:00",
+          "numDocumento": "00000536",
+          "valorDocumento": 18600.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2985/2025/7992443.pdf",
+          "nomeFornecedor": "MULTIPLICAR E SERVIÇOS LTDA EPP",
+          "cnpjCpfFornecedor": "04241959000170",
+          "valorLiquido": 18600.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7973890,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-01T00:00:00",
+          "numDocumento": "00000533",
+          "valorDocumento": 12650.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2985/2025/7973890.pdf",
+          "nomeFornecedor": "MULTIPLICAR E SERVIÇOS LTDA EPP",
+          "cnpjCpfFornecedor": "04241959000170",
+          "valorLiquido": 12650.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7955709,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-01T00:00:00",
+          "numDocumento": "00000530",
+          "valorDocumento": 12650.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2985/2025/7955709.pdf",
+          "nomeFornecedor": "MULTIPLICAR E SERVIÇOS LTDA EPP",
+          "cnpjCpfFornecedor": "04241959000170",
+          "valorLiquido": 12650.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7942480,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-01T00:00:00",
+          "numDocumento": "00000527",
+          "valorDocumento": 12650.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2985/2025/7942480.pdf",
+          "nomeFornecedor": "MULTIPLICAR E SERVIÇOS LTDA EPP",
+          "cnpjCpfFornecedor": "04241959000170",
+          "valorLiquido": 12650.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

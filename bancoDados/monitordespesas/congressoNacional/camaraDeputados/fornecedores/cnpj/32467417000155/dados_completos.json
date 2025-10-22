@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "J C RODRIGUES NETO E FILHOS LTDA",
+      "cnpj": "32467417000155",
+      "total_recebido": 237.55,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:09.627977"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 237.55
+  },
+  "anos": {
+    "2023": {
+      "total": 237.55,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204356": {
+      "deputado": {
+        "id": 204356,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204356",
+        "nome": "Amaro Neto",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "ES",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204356.jpg",
+        "email": "dep.amaroneto@camara.leg.br"
+      },
+      "total": 237.55,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7549626,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-26T00:00:00",
+          "numDocumento": "126063",
+          "valorDocumento": 237.55,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7549626",
+          "nomeFornecedor": "J C RODRIGUES NETO E FILHOS LTDA",
+          "cnpjCpfFornecedor": "32467417000155",
+          "valorLiquido": 237.55,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

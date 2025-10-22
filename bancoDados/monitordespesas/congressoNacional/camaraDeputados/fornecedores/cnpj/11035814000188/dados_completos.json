@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CENTRO AUTOMOTIVO ÁGUA FRIA LTDA",
+      "cnpj": "11035814000188",
+      "total_recebido": 504.02,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:37.434464"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 504.02
+  },
+  "anos": {
+    "2023": {
+      "total": 504.02,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204507": {
+      "deputado": {
+        "id": 204507,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204507",
+        "nome": "Carla Zambelli",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204507.jpg",
+        "email": "dep.carlazambelli@camara.leg.br"
+      },
+      "total": 504.02,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7588818,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-06T00:00:00",
+          "numDocumento": "320882",
+          "valorDocumento": 227.45,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2023/7588818.pdf",
+          "nomeFornecedor": "CENTRO AUTOMOTIVO ÁGUA FRIA LTDA",
+          "cnpjCpfFornecedor": "11035814000188",
+          "valorLiquido": 227.45,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7569111,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-15T00:00:00",
+          "numDocumento": "310249",
+          "valorDocumento": 276.57,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2023/7569111.pdf",
+          "nomeFornecedor": "CENTRO AUTOMOTIVO ÁGUA FRIA LTDA",
+          "cnpjCpfFornecedor": "11035814000188",
+          "valorLiquido": 276.57,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

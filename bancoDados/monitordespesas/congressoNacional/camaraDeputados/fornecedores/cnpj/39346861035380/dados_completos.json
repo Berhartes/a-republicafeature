@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CENCOSUD BRASIL COMERCIAL LTDA",
+      "cnpj": "39346861035380",
+      "total_recebido": 1209.7,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:30.140475"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1209.7
+  },
+  "anos": {
+    "2023": {
+      "total": 212.81,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 996.89,
+      "transacoes": 5,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220632": {
+      "deputado": {
+        "id": 220632,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220632",
+        "nome": "Ana Pimentel",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220632.jpg",
+        "email": "dep.anapimentel@camara.leg.br"
+      },
+      "total": 1209.7,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7555966,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-05T00:00:00",
+          "numDocumento": "432943",
+          "valorDocumento": 212.81,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3626/2023/7555966.pdf",
+          "nomeFornecedor": "CENCOSUD BRASIL COMERCIAL LTDA",
+          "cnpjCpfFornecedor": "39346861035380",
+          "valorLiquido": 212.81,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7854663,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-07T00:00:00",
+          "numDocumento": "494844",
+          "valorDocumento": 201.16,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3626/2025/7854663.pdf",
+          "nomeFornecedor": "CENCOSUD BRASIL COMERCIAL LTDA",
+          "cnpjCpfFornecedor": "39346861035380",
+          "valorLiquido": 198.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7835447,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-22T00:00:00",
+          "numDocumento": "586951",
+          "valorDocumento": 187.18,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3626/2024/7835447.pdf",
+          "nomeFornecedor": "CENCOSUD BRASIL COMERCIAL LTDA",
+          "cnpjCpfFornecedor": "39346861035380",
+          "valorLiquido": 187.18,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7814881,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-07T00:00:00",
+          "numDocumento": "482342",
+          "valorDocumento": 180.18,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3626/2024/7814881.pdf",
+          "nomeFornecedor": "CENCOSUD BRASIL COMERCIAL LTDA",
+          "cnpjCpfFornecedor": "39346861035380",
+          "valorLiquido": 180.18,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7818396,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-11T00:00:00",
+          "numDocumento": "576695",
+          "valorDocumento": 200.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3626/2024/7818396.pdf",
+          "nomeFornecedor": "CENCOSUD BRASIL COMERCIAL LTDA",
+          "cnpjCpfFornecedor": "39346861035380",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7718299,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-12T00:00:00",
+          "numDocumento": "525291",
+          "valorDocumento": 231.52,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3626/2024/7718299.pdf",
+          "nomeFornecedor": "CENCOSUD BRASIL COMERCIAL LTDA",
+          "cnpjCpfFornecedor": "39346861035380",
+          "valorLiquido": 231.52,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

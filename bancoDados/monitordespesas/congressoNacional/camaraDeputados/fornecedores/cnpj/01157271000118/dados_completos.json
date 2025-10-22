@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIAL DE COMBUSTIVEIS PLANETARIO LTDA",
+      "cnpj": "01157271000118",
+      "total_recebido": 794.78,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:32.720847"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 794.78
+  },
+  "anos": {
+    "2023": {
+      "total": 557.38,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 237.4,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204388": {
+      "deputado": {
+        "id": 204388,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388",
+        "nome": "Bibo Nunes",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
+        "email": "dep.bibonunes@camara.leg.br"
+      },
+      "total": 794.78,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7528418,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-17T00:00:00",
+          "numDocumento": "1249467",
+          "valorDocumento": 270.99,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7528418",
+          "nomeFornecedor": "COMERCIAL DE COMBUSTIVEIS PLANETARIO LTDA",
+          "cnpjCpfFornecedor": "01157271000118",
+          "valorLiquido": 270.99,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7505619,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-02T00:00:00",
+          "numDocumento": "1218013",
+          "valorDocumento": 286.39,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7505619",
+          "nomeFornecedor": "COMERCIAL DE COMBUSTIVEIS PLANETARIO LTDA",
+          "cnpjCpfFornecedor": "01157271000118",
+          "valorLiquido": 286.39,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7832769,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-20T09:44:26",
+          "numDocumento": "13771",
+          "valorDocumento": 237.4,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7832769",
+          "nomeFornecedor": "COML DE COMB PLANETARIO LTDA",
+          "cnpjCpfFornecedor": "01157271000118",
+          "valorLiquido": 237.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

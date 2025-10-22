@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "M M PETROLEO LTDA",
+      "cnpj": "00935571000118",
+      "total_recebido": 952.71,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:55:10.651662"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 952.71
+  },
+  "anos": {
+    "2023": {
+      "total": 608.38,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 344.33,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204426": {
+      "deputado": {
+        "id": 204426,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204426",
+        "nome": "Carlos Veras",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
+        "email": "dep.carlosveras@camara.leg.br"
+      },
+      "total": 952.71,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7613234,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-21T00:00:00",
+          "numDocumento": "119697",
+          "valorDocumento": 296.46,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7613234",
+          "nomeFornecedor": "M M PETROLEO LTDA",
+          "cnpjCpfFornecedor": "00935571000118",
+          "valorLiquido": 296.46,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7516587,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-25T00:00:00",
+          "numDocumento": "83426",
+          "valorDocumento": 311.92,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7516587",
+          "nomeFornecedor": "M M PETROLEO LTDA",
+          "cnpjCpfFornecedor": "00935571000118",
+          "valorLiquido": 311.92,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7804162,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-16T00:00:00",
+          "numDocumento": "371734",
+          "valorDocumento": 344.33,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7804162",
+          "nomeFornecedor": "M M PETROLEO LTDA",
+          "cnpjCpfFornecedor": "00935571000118",
+          "valorLiquido": 344.33,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

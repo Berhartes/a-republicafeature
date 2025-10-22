@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO SALVATERRA LTDA- EPP",
+      "cnpj": "24659912000138",
+      "total_recebido": 727.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:30.365066"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 727.0
+  },
+  "anos": {
+    "2024": {
+      "total": 727.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220632": {
+      "deputado": {
+        "id": 220632,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220632",
+        "nome": "Ana Pimentel",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220632.jpg",
+        "email": "dep.anapimentel@camara.leg.br"
+      },
+      "total": 727.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7783313,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-02T00:00:00",
+          "numDocumento": "463606",
+          "valorDocumento": 277.01,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3626/2024/7783313.pdf",
+          "nomeFornecedor": "AUTO POSTO SALVATERRA LTDA- EPP",
+          "cnpjCpfFornecedor": "24659912000138",
+          "valorLiquido": 277.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7743433,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-23T00:00:00",
+          "numDocumento": "445551",
+          "valorDocumento": 300.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3626/2024/7743433.pdf",
+          "nomeFornecedor": "AUTO POSTO SALVATERRA LTDA- EPP",
+          "cnpjCpfFornecedor": "24659912000138",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7734431,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-03T00:00:00",
+          "numDocumento": "433404",
+          "valorDocumento": 149.99,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3626/2024/7734431.pdf",
+          "nomeFornecedor": "AUTO POSTO SALVATERRA LTDA- EPP",
+          "cnpjCpfFornecedor": "24659912000138",
+          "valorLiquido": 149.99,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

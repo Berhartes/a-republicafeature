@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUGUSTO URIAS DA CRUZ E FILHOS LTDA",
+      "cnpj": "01138114000165",
+      "total_recebido": 756.62,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:37.228078"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 756.62
+  },
+  "anos": {
+    "2023": {
+      "total": 327.48,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 429.14,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204507": {
+      "deputado": {
+        "id": 204507,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204507",
+        "nome": "Carla Zambelli",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204507.jpg",
+        "email": "dep.carlazambelli@camara.leg.br"
+      },
+      "total": 756.62,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7673449,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-30T00:00:00",
+          "numDocumento": "943007",
+          "valorDocumento": 327.48,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7673449",
+          "nomeFornecedor": "AUGUSTO URIAS DA CRUZ E FILHOS LTDA",
+          "cnpjCpfFornecedor": "01138114000165",
+          "valorLiquido": 327.48,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7837234,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-24T00:00:00",
+          "numDocumento": "1331107",
+          "valorDocumento": 239.74,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7837234",
+          "nomeFornecedor": "AUGUSTO URIAS DA CRUZ E FILHOS LTDA",
+          "cnpjCpfFornecedor": "01138114000165",
+          "valorLiquido": 239.74,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7786089,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-13T00:00:00",
+          "numDocumento": "1210849",
+          "valorDocumento": 189.4,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7786089",
+          "nomeFornecedor": "AUGUSTO URIAS DA CRUZ E FILHOS LTDA",
+          "cnpjCpfFornecedor": "01138114000165",
+          "valorLiquido": 189.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

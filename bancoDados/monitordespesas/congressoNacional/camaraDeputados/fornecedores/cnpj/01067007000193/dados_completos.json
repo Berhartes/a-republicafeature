@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "R S IGLESIAS",
+      "cnpj": "01067007000193",
+      "total_recebido": 3500.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:31.283310"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 3500.0
+  },
+  "anos": {
+    "2025": {
+      "total": 3500.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178831": {
+      "deputado": {
+        "id": 178831,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178831",
+        "nome": "ANDRÉ ABDON",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178831.jpg",
+        "email": "dep.andreabdon@camara.leg.br"
+      },
+      "total": 3500.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7986873,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-20T00:00:00",
+          "numDocumento": "3222",
+          "valorDocumento": 3500.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7986873",
+          "nomeFornecedor": "R S IGLESIAS",
+          "cnpjCpfFornecedor": "01067007000193",
+          "valorLiquido": 3500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

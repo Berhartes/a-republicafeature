@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Administradora Geral de Estacionamento S.A.",
+      "cnpj": "86862208030980",
+      "total_recebido": 1437.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:26.506507"
+  },
+  "categorias": {
+    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 1437.0
+  },
+  "anos": {
+    "2023": {
+      "total": 965.0,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 472.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178829": {
+      "deputado": {
+        "id": 178829,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178829",
+        "nome": "Capitão Augusto",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
+        "email": "dep.capitaoaugusto@camara.leg.br"
+      },
+      "total": 1437.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7608188,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-06T00:00:00",
+          "numDocumento": "2155691",
+          "valorDocumento": 100.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2023/7608188.pdf",
+          "nomeFornecedor": "Administradora Geral de Estacionamento S.A.",
+          "cnpjCpfFornecedor": "86862208030980",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7609136,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-12T00:00:00",
+          "numDocumento": "2177991",
+          "valorDocumento": 405.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2023/7609136.pdf",
+          "nomeFornecedor": "Administradora Geral de Estacionamento S.A.",
+          "cnpjCpfFornecedor": "86862208030980",
+          "valorLiquido": 405.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7500797,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-26T00:00:00",
+          "numDocumento": "1450332",
+          "valorDocumento": 460.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2023/7500797.pdf",
+          "nomeFornecedor": "Administradora Geral de Estacionamento S.A.",
+          "cnpjCpfFornecedor": "86862208030980",
+          "valorLiquido": 460.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7751111,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-03T00:00:00",
+          "numDocumento": "2915738",
+          "valorDocumento": 472.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2024/7751111.pdf",
+          "nomeFornecedor": "Administradora Geral de Estacionamento S.A.",
+          "cnpjCpfFornecedor": "86862208030980",
+          "valorLiquido": 472.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

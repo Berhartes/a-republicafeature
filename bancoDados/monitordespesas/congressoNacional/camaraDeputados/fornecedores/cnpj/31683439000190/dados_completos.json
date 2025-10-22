@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "NOBILE GESTAO DE EMPREENDIMENTOS LTDA SCP 001",
+      "cnpj": "31683439000190",
+      "total_recebido": 990.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:36.687880"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 990.0
+  },
+  "anos": {
+    "2023": {
+      "total": 990.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160665": {
+      "deputado": {
+        "id": 160665,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160665",
+        "nome": "Augusto Coutinho",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
+        "email": "dep.augustocoutinho@camara.leg.br"
+      },
+      "total": 990.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7514321,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-22T00:00:00",
+          "numDocumento": "2447",
+          "valorDocumento": 990.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2236/2023/7514321.pdf",
+          "nomeFornecedor": "NOBILE GESTAO DE EMPREENDIMENTOS LTDA SCP 001",
+          "cnpjCpfFornecedor": "31683439000190",
+          "valorLiquido": 990.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

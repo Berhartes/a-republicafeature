@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "FUNCHAL AUTO POSTO LT",
+      "cnpj": "56157399000173",
+      "total_recebido": 623.29,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:20.696039"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 623.29
+  },
+  "anos": {
+    "2023": {
+      "total": 623.29,
+      "transacoes": 5,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "141391": {
+      "deputado": {
+        "id": 141391,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141391",
+        "nome": "Arnaldo Jardim",
+        "siglaPartido": "CIDADANIA",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141391.jpg",
+        "email": "dep.arnaldojardim@camara.leg.br"
+      },
+      "total": 623.29,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7657571,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-04T00:00:00",
+          "numDocumento": "136401",
+          "valorDocumento": 176.6,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2023/7657571.pdf",
+          "nomeFornecedor": "FUNCHAL AUTO POSTO LT",
+          "cnpjCpfFornecedor": "56157399000173",
+          "valorLiquido": 176.6,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7526875,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-14T00:00:00",
+          "numDocumento": "117943",
+          "valorDocumento": 202.37,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2023/7526875.pdf",
+          "nomeFornecedor": "FUNCHAL AUTO POSTO LT",
+          "cnpjCpfFornecedor": "56157399000173",
+          "valorLiquido": 202.37,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7518726,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-24T00:00:00",
+          "numDocumento": "116075",
+          "valorDocumento": 64.32,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2023/7518726.pdf",
+          "nomeFornecedor": "FUNCHAL AUTO POSTO LT",
+          "cnpjCpfFornecedor": "56157399000173",
+          "valorLiquido": 64.32,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7521678,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-31T00:00:00",
+          "numDocumento": "116721",
+          "valorDocumento": 80.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2023/7521678.pdf",
+          "nomeFornecedor": "FUNCHAL AUTO POSTO LT",
+          "cnpjCpfFornecedor": "56157399000173",
+          "valorLiquido": 80.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7521683,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-31T00:00:00",
+          "numDocumento": "116776",
+          "valorDocumento": 100.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2023/7521683.pdf",
+          "nomeFornecedor": "FUNCHAL AUTO POSTO LT",
+          "cnpjCpfFornecedor": "56157399000173",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

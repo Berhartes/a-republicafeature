@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PONTUAL PESQUISAS E MIDIAS EIRELI",
+      "cnpj": "14614894000114",
+      "total_recebido": 6000.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:29.388425"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 6000.0
+  },
+  "anos": {
+    "2023": {
+      "total": 6000.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74090": {
+      "deputado": {
+        "id": 74090,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74090",
+        "nome": "Átila Lins",
+        "siglaPartido": "PSD",
+        "uriPartido": "",
+        "siglaUf": "AM",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74090.jpg",
+        "email": "dep.atilalins@camara.leg.br"
+      },
+      "total": 6000.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7559407,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-14T00:00:00",
+          "numDocumento": "627",
+          "valorDocumento": 3000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2023/7559407.pdf",
+          "nomeFornecedor": "PONTUAL PESQUISAS E MIDIAS EIRELI",
+          "cnpjCpfFornecedor": "14614894000114",
+          "valorLiquido": 3000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7516464,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-27T00:00:00",
+          "numDocumento": "585",
+          "valorDocumento": 3000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2023/7516464.pdf",
+          "nomeFornecedor": "PONTUAL PESQUISAS E MIDIAS LTDA",
+          "cnpjCpfFornecedor": "14614894000114",
+          "valorLiquido": 3000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

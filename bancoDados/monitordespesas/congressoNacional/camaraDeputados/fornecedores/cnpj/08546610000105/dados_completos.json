@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "DT COMBUSTIVEIS LTDA",
+      "cnpj": "08546610000105",
+      "total_recebido": 648.21,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:28.013581"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 648.21
+  },
+  "anos": {
+    "2025": {
+      "total": 648.21,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160600": {
+      "deputado": {
+        "id": 160600,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160600",
+        "nome": "Arthur Oliveira Maia",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
+        "email": "dep.arthuroliveiramaia@camara.leg.br"
+      },
+      "total": 648.21,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7973863,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-22T00:00:00",
+          "numDocumento": "674666",
+          "valorDocumento": 389.62,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7973863",
+          "nomeFornecedor": "DT COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "08546610000105",
+          "valorLiquido": 389.62,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7973864,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-24T00:00:00",
+          "numDocumento": "675370",
+          "valorDocumento": 258.59,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7973864",
+          "nomeFornecedor": "DT COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "08546610000105",
+          "valorLiquido": 258.59,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

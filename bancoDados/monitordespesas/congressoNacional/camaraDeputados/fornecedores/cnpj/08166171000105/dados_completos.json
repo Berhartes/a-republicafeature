@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "TIC COMERCIO DE COMBUSTIVEIS LTDA ME",
+      "cnpj": "08166171000105",
+      "total_recebido": 429.05,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:46.973627"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 429.05
+  },
+  "anos": {
+    "2023": {
+      "total": 368.92,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 60.13,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "69871": {
+      "deputado": {
+        "id": 69871,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/69871",
+        "nome": "Bacelar",
+        "siglaPartido": "PV",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
+        "email": "dep.bacelar@camara.leg.br"
+      },
+      "total": 429.05,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7531156,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-18T00:00:00",
+          "numDocumento": "3791647",
+          "valorDocumento": 368.92,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7531156",
+          "nomeFornecedor": "TIC COMERCIO DE COMBUSTIVEIS LTDA ME",
+          "cnpjCpfFornecedor": "08166171000105",
+          "valorLiquido": 368.92,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7986476,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-17T00:00:00",
+          "numDocumento": "5437443",
+          "valorDocumento": 130.13,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7986476",
+          "nomeFornecedor": "TIC COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "08166171000105",
+          "valorLiquido": 60.13,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

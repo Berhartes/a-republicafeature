@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ANTONIA DE OLIVEIRA VALE",
+      "cnpj": "42360918000191",
+      "total_recebido": 430.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:43.241993"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 430.0
+  },
+  "anos": {
+    "2024": {
+      "total": 430.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "133439": {
+      "deputado": {
+        "id": 133439,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/133439",
+        "nome": "André Figueiredo",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/133439.jpg",
+        "email": "dep.andrefigueiredo@camara.leg.br"
+      },
+      "total": 430.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7790062,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-02T00:00:00",
+          "numDocumento": "0000002890",
+          "valorDocumento": 130.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2024/7790062.pdf",
+          "nomeFornecedor": "ANTONIA DE OLIVEIRA VALE",
+          "cnpjCpfFornecedor": "42360918000191",
+          "valorLiquido": 130.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7790067,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-02T00:00:00",
+          "numDocumento": "0000002891",
+          "valorDocumento": 130.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2024/7790067.pdf",
+          "nomeFornecedor": "ANTONIA DE OLIVEIRA VALE",
+          "cnpjCpfFornecedor": "42360918000191",
+          "valorLiquido": 130.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7790069,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-02T00:00:00",
+          "numDocumento": "0000002892",
+          "valorDocumento": 170.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2024/7790069.pdf",
+          "nomeFornecedor": "ANTONIA DE OLIVEIRA VALE",
+          "cnpjCpfFornecedor": "42360918000191",
+          "valorLiquido": 170.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

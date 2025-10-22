@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Auto Posto Parceirão LTDA",
+      "cnpj": "18277766000183",
+      "total_recebido": 292.04,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:04.287790"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 292.04
+  },
+  "anos": {
+    "2025": {
+      "total": 292.04,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220638": {
+      "deputado": {
+        "id": 220638,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220638",
+        "nome": "Antonio Carlos Rodrigues",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
+        "email": "dep.antoniocarlosrodrigues@camara.leg.br"
+      },
+      "total": 292.04,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7901182,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-12T00:00:00",
+          "numDocumento": "28874",
+          "valorDocumento": 292.04,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3654/2025/7901182.pdf",
+          "nomeFornecedor": "Auto Posto Parceirão LTDA",
+          "cnpjCpfFornecedor": "18277766000183",
+          "valorLiquido": 292.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Posto Ponte Nova Ltda",
+      "cnpj": "17159880000146",
+      "total_recebido": 125.22,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:30.166290"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 125.22
+  },
+  "anos": {
+    "2023": {
+      "total": 125.22,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220632": {
+      "deputado": {
+        "id": 220632,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220632",
+        "nome": "Ana Pimentel",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220632.jpg",
+        "email": "dep.anapimentel@camara.leg.br"
+      },
+      "total": 125.22,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7551405,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-29T00:00:00",
+          "numDocumento": "14346",
+          "valorDocumento": 125.22,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3626/2023/7551405.pdf",
+          "nomeFornecedor": "Posto Ponte Nova Ltda",
+          "cnpjCpfFornecedor": "17159880000146",
+          "valorLiquido": 125.22,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PIZZARIA MOGI MIRIM LTDA",
+      "cnpj": "10929435000179",
+      "total_recebido": 655.55,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:05.199875"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 655.55
+  },
+  "anos": {
+    "2023": {
+      "total": 550.55,
+      "transacoes": 5,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 105.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220596": {
+      "deputado": {
+        "id": 220596,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220596",
+        "nome": "Amália Barros",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220596.jpg",
+        "email": null
+      },
+      "total": 655.55,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7665994,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-17T00:00:00",
+          "numDocumento": "1092161",
+          "valorDocumento": 90.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7665994.pdf",
+          "nomeFornecedor": "PIZZARIA MOGI MIRIM LTDA",
+          "cnpjCpfFornecedor": "10929435000179",
+          "valorLiquido": 90.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7617488,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-22T00:00:00",
+          "numDocumento": "1092161",
+          "valorDocumento": 115.3,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7617488.pdf",
+          "nomeFornecedor": "PIZZARIA MOGI MIRIM LTDA",
+          "cnpjCpfFornecedor": "10929435000179",
+          "valorLiquido": 115.3,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7565907,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-28T00:00:00",
+          "numDocumento": "001604",
+          "valorDocumento": 152.1,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7565907.pdf",
+          "nomeFornecedor": "PIZZARIA MOGI MIRIM LTDA",
+          "cnpjCpfFornecedor": "10929435000179",
+          "valorLiquido": 152.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7542553,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-12T00:00:00",
+          "numDocumento": "001521",
+          "valorDocumento": 118.15,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7542553.pdf",
+          "nomeFornecedor": "PIZZARIA MOGI MIRIM LTDA",
+          "cnpjCpfFornecedor": "10929435000179",
+          "valorLiquido": 113.15,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7515949,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-24T00:00:00",
+          "numDocumento": "001470",
+          "valorDocumento": 80.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7515949.pdf",
+          "nomeFornecedor": "PIZZARIA MOGI MIRIM LTDA",
+          "cnpjCpfFornecedor": "10929435000179",
+          "valorLiquido": 80.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7707661,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-25T00:00:00",
+          "numDocumento": "002186",
+          "valorDocumento": 105.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2024/7707661.pdf",
+          "nomeFornecedor": "PIZZARIA MOGI MIRIM LTDA",
+          "cnpjCpfFornecedor": "10929435000179",
+          "valorLiquido": 105.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

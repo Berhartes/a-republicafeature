@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+      "cnpj": "09001879002619",
+      "total_recebido": 183.76,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:05.258650"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 183.76
+  },
+  "anos": {
+    "2023": {
+      "total": 183.76,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220596": {
+      "deputado": {
+        "id": 220596,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220596",
+        "nome": "Amália Barros",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220596.jpg",
+        "email": null
+      },
+      "total": 183.76,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7648840,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-04T00:00:00",
+          "numDocumento": "742512",
+          "valorDocumento": 131.87,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7648840.pdf",
+          "nomeFornecedor": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "09001879002619",
+          "valorLiquido": 131.87,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7498963,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-13T00:00:00",
+          "numDocumento": "14832",
+          "valorDocumento": 51.89,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7498963.pdf",
+          "nomeFornecedor": "COMERCIAL AMAZONIA 24 DE PETROLEO EIRELI",
+          "cnpjCpfFornecedor": "09001879002619",
+          "valorLiquido": 51.89,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

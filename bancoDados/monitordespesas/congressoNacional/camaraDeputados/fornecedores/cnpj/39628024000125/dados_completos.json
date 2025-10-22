@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO VERENKA 04 LTDA",
+      "cnpj": "39628024000125",
+      "total_recebido": 1026.46,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:42.493474"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1026.46
+  },
+  "anos": {
+    "2023": {
+      "total": 596.75,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 231.05,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 198.66,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204361": {
+      "deputado": {
+        "id": 204361,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
+        "nome": "Carlos Chiodini",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+        "email": null
+      },
+      "total": 1026.46,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7660937,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-08T00:00:00",
+          "numDocumento": "228369",
+          "valorDocumento": 295.3,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7660937",
+          "nomeFornecedor": "AUTO POSTO VERENKA 04 LTDA",
+          "cnpjCpfFornecedor": "39628024000125",
+          "valorLiquido": 295.3,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7649726,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-25T00:00:00",
+          "numDocumento": "221866",
+          "valorDocumento": 301.45,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7649726",
+          "nomeFornecedor": "AUTO POSTO VERENKA 04 LTDA",
+          "cnpjCpfFornecedor": "39628024000125",
+          "valorLiquido": 301.45,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7740578,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-03T00:00:00",
+          "numDocumento": "270640",
+          "valorDocumento": 231.05,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7740578.pdf",
+          "nomeFornecedor": "AUTO POSTO VERENKA 04 LTDA",
+          "cnpjCpfFornecedor": "39628024000125",
+          "valorLiquido": 231.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7869654,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-02-06T14:52:54",
+          "numDocumento": "421090",
+          "valorDocumento": 198.66,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7869654",
+          "nomeFornecedor": "AUTO POSTO VERENKA 04 LTDA",
+          "cnpjCpfFornecedor": "39628024000125",
+          "valorLiquido": 198.66,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "FEMA HOTEL  LTDA",
+      "cnpj": "04263016000148",
+      "total_recebido": 1240.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:29.208826"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 1240.0
+  },
+  "anos": {
+    "2024": {
+      "total": 1240.0,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "229106": {
+      "deputado": {
+        "id": 229106,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/229106",
+        "nome": "Carla Ayres",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/229106.jpg",
+        "email": null
+      },
+      "total": 1240.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7777074,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-24T00:00:00",
+          "numDocumento": "0088331",
+          "valorDocumento": 248.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3773/2024/7777074.pdf",
+          "nomeFornecedor": "FEMA HOTEL  LTDA",
+          "cnpjCpfFornecedor": "04263016000148",
+          "valorLiquido": 248.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7777811,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-24T00:00:00",
+          "numDocumento": "0088333",
+          "valorDocumento": 248.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3773/2024/7777811.pdf",
+          "nomeFornecedor": "FEMA HOTEL  LTDA",
+          "cnpjCpfFornecedor": "04263016000148",
+          "valorLiquido": 248.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7778089,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-24T00:00:00",
+          "numDocumento": "87910",
+          "valorDocumento": 496.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3773/2024/7778089.pdf",
+          "nomeFornecedor": "FEMA HOTEL  LTDA",
+          "cnpjCpfFornecedor": "04263016000148",
+          "valorLiquido": 496.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7778588,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-24T00:00:00",
+          "numDocumento": "87911",
+          "valorDocumento": 248.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3773/2024/7778588.pdf",
+          "nomeFornecedor": "FEMA HOTEL  LTDA",
+          "cnpjCpfFornecedor": "04263016000148",
+          "valorLiquido": 248.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

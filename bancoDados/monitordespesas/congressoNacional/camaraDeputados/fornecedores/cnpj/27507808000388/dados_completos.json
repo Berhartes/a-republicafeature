@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HDCN COMERCIO DE ALIMENTOS LTDA EPP",
+      "cnpj": "27507808000388",
+      "total_recebido": 280.3,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:56.674123"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 280.3
+  },
+  "anos": {
+    "2023": {
+      "total": 240.40000000000003,
+      "transacoes": 4,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 39.9,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220605": {
+      "deputado": {
+        "id": 220605,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220605",
+        "nome": "Bandeira de Mello",
+        "siglaPartido": "PSB",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220605.jpg",
+        "email": "dep.bandeirademello@camara.leg.br"
+      },
+      "total": 280.3,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7622594,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-07T00:00:00",
+          "numDocumento": "1193302",
+          "valorDocumento": 35.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3656/2023/7622594.pdf",
+          "nomeFornecedor": "HDCN COMERCIO DE ALIMENTOS LTDA EPP",
+          "cnpjCpfFornecedor": "27507808000388",
+          "valorLiquido": 35.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7615149,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-21T00:00:00",
+          "numDocumento": "1191635",
+          "valorDocumento": 68.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3656/2023/7615149.pdf",
+          "nomeFornecedor": "HDCN COMERCIO DE ALIMENTOS LTDA EPP",
+          "cnpjCpfFornecedor": "27507808000388",
+          "valorLiquido": 68.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7594110,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-10T00:00:00",
+          "numDocumento": "1187552",
+          "valorDocumento": 65.8,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3656/2023/7594110.pdf",
+          "nomeFornecedor": "HDCN COMERCIO DE ALIMENTOS LTDA EPP",
+          "cnpjCpfFornecedor": "27507808000388",
+          "valorLiquido": 65.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7596161,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-17T00:00:00",
+          "numDocumento": "1188351",
+          "valorDocumento": 69.8,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3656/2023/7596161.pdf",
+          "nomeFornecedor": "HDCN COMERCIO DE ALIMENTOS LTDA EPP",
+          "cnpjCpfFornecedor": "27507808000388",
+          "valorLiquido": 69.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7845876,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-12T00:00:00",
+          "numDocumento": "1232398",
+          "valorDocumento": 39.9,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7845876",
+          "nomeFornecedor": "HDCN COMERCIO DE ALIMENTOS LTDA EPP",
+          "cnpjCpfFornecedor": "27507808000388",
+          "valorLiquido": 39.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

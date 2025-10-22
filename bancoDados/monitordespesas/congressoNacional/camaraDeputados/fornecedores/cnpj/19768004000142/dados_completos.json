@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Estrela do Leste Comércio de Combustíveis Ltda",
+      "cnpj": "19768004000142",
+      "total_recebido": 275.63,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:46.162066"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 275.63
+  },
+  "anos": {
+    "2023": {
+      "total": 275.63,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "210989": {
+      "deputado": {
+        "id": 210989,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/210989",
+        "nome": "Bruno Farias",
+        "siglaPartido": "AVANTE",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/210989.jpg",
+        "email": "dep.brunofarias@camara.leg.br"
+      },
+      "total": 275.63,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7661164,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-02T00:00:00",
+          "numDocumento": "223647",
+          "valorDocumento": 275.63,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3624/2023/7661164.pdf",
+          "nomeFornecedor": "Estrela do Leste Comércio de Combustíveis Ltda",
+          "cnpjCpfFornecedor": "19768004000142",
+          "valorLiquido": 275.63,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

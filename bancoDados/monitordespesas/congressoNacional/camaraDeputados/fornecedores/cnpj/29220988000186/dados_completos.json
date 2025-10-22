@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GRUPO MBF LTDA",
+      "cnpj": "29220988000186",
+      "total_recebido": 237.6,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:14.929347"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 237.6
+  },
+  "anos": {
+    "2023": {
+      "total": 237.6,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220698": {
+      "deputado": {
+        "id": 220698,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220698",
+        "nome": "Beto Preto",
+        "siglaPartido": "PSD",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
+        "email": null
+      },
+      "total": 237.6,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7512970,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-17T00:00:00",
+          "numDocumento": "5325",
+          "valorDocumento": 237.6,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7512970",
+          "nomeFornecedor": "GRUPO MBF LTDA",
+          "cnpjCpfFornecedor": "29220988000186",
+          "valorLiquido": 237.6,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

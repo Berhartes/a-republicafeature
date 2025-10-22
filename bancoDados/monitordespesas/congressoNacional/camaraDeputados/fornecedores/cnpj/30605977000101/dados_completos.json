@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "TÁXI LEGAL",
+      "cnpj": "30605977000101",
+      "total_recebido": 135.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:55:18.061479"
+  },
+  "categorias": {
+    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 135.0
+  },
+  "anos": {
+    "2023": {
+      "total": 135.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "141398": {
+      "deputado": {
+        "id": 141398,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141398",
+        "nome": "Carlos Zarattini",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141398.jpg",
+        "email": "dep.carloszarattini@camara.leg.br"
+      },
+      "total": 135.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7648590,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-20T00:00:00",
+          "numDocumento": "s/rn",
+          "valorDocumento": 52.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1963/2023/7648590.pdf",
+          "nomeFornecedor": "TÁXI LEGAL",
+          "cnpjCpfFornecedor": "30605977000101",
+          "valorLiquido": 52.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7527476,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-12T00:00:00",
+          "numDocumento": "S/N",
+          "valorDocumento": 48.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1963/2023/7527476.pdf",
+          "nomeFornecedor": "TÁXI LEGAL",
+          "cnpjCpfFornecedor": "30605977000101",
+          "valorLiquido": 48.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7517486,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-23T00:00:00",
+          "numDocumento": "s/n",
+          "valorDocumento": 35.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1963/2023/7517486.pdf",
+          "nomeFornecedor": "TÁXI LEGAL",
+          "cnpjCpfFornecedor": "30605977000101",
+          "valorLiquido": 35.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

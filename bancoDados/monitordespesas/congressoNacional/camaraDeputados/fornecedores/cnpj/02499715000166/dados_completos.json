@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ROMA TRUCK CENTER LTDA",
+      "cnpj": "02499715000166",
+      "total_recebido": 365.04,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:07.366008"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 365.04
+  },
+  "anos": {
+    "2024": {
+      "total": 365.04,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220707": {
+      "deputado": {
+        "id": 220707,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220707",
+        "nome": "Amanda Gentil",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220707.jpg",
+        "email": "dep.amandagentil@camara.leg.br"
+      },
+      "total": 365.04,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7694341,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-20T21:48:05",
+          "numDocumento": "2300457",
+          "valorDocumento": 365.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7694341",
+          "nomeFornecedor": "ROMA TRUCK CENTER LTDA",
+          "cnpjCpfFornecedor": "02499715000166",
+          "valorLiquido": 365.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

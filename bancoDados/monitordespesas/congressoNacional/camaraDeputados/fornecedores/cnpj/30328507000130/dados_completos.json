@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CHARLES SOARES ALMEIDA 00605885273",
+      "cnpj": "30328507000130",
+      "total_recebido": 22000.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:41.833585"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 22000.0
+  },
+  "anos": {
+    "2023": {
+      "total": 22000.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220577": {
+      "deputado": {
+        "id": 220577,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220577",
+        "nome": "Augusto Puppio",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220577.jpg",
+        "email": null
+      },
+      "total": 22000.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7593969,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-21T00:00:00",
+          "numDocumento": "19",
+          "valorDocumento": 22000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3540/2023/7593969.pdf",
+          "nomeFornecedor": "CHARLES SOARES ALMEIDA 00605885273",
+          "cnpjCpfFornecedor": "30328507000130",
+          "valorLiquido": 22000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

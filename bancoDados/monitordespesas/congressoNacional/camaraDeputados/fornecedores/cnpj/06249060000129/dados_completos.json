@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO DE COMBUSTIVEIS PODIUM LTDA",
+      "cnpj": "06249060000129",
+      "total_recebido": 838.9200000000001,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:12.446334"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 838.9200000000001
+  },
+  "anos": {
+    "2024": {
+      "total": 580.9200000000001,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 258.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220549": {
+      "deputado": {
+        "id": 220549,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220549",
+        "nome": "Any Ortiz",
+        "siglaPartido": "CIDADANIA",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
+        "email": "dep.anyortiz@camara.leg.br"
+      },
+      "total": 838.9200000000001,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7799287,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-23T13:54:43",
+          "numDocumento": "162676",
+          "valorDocumento": 185.05,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7799287",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS PODIUM LTDA",
+          "cnpjCpfFornecedor": "06249060000129",
+          "valorLiquido": 185.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7796158,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-01T11:33:41",
+          "numDocumento": "166920",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7796158",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS PODIUM LTDA",
+          "cnpjCpfFornecedor": "06249060000129",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7768244,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-04T12:00:59",
+          "numDocumento": "139166",
+          "valorDocumento": 195.87,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7768244",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS PODIUM LTDA",
+          "cnpjCpfFornecedor": "06249060000129",
+          "valorLiquido": 195.87,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7920125,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-24T00:00:00",
+          "numDocumento": "354513",
+          "valorDocumento": 258.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7920125",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS PODIUM LTDA",
+          "cnpjCpfFornecedor": "06249060000129",
+          "valorLiquido": 258.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

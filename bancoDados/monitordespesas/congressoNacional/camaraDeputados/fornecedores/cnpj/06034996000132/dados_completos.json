@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Reck e Dias Ltda.",
+      "cnpj": "06034996000132",
+      "total_recebido": 32000.0,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:32.335110"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 32000.0
+  },
+  "anos": {
+    "2023": {
+      "total": 32000.0,
+      "transacoes": 8,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204388": {
+      "deputado": {
+        "id": 204388,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388",
+        "nome": "Bibo Nunes",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
+        "email": "dep.bibonunes@camara.leg.br"
+      },
+      "total": 32000.0,
+      "transacoes": 8,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7668655,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-26T00:00:00",
+          "numDocumento": "11",
+          "valorDocumento": 3500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7668655.pdf",
+          "nomeFornecedor": "Reck e Dias Ltda.",
+          "cnpjCpfFornecedor": "06034996000132",
+          "valorLiquido": 3500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7649156,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-27T00:00:00",
+          "numDocumento": "10",
+          "valorDocumento": 3500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7649156.pdf",
+          "nomeFornecedor": "Reck e Dias Ltda.",
+          "cnpjCpfFornecedor": "06034996000132",
+          "valorLiquido": 3500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7632061,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-26T00:00:00",
+          "numDocumento": "9",
+          "valorDocumento": 3500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7632061.pdf",
+          "nomeFornecedor": "Reck e Dias Ltda.",
+          "cnpjCpfFornecedor": "06034996000132",
+          "valorLiquido": 3500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7613600,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-25T00:00:00",
+          "numDocumento": "8",
+          "valorDocumento": 3500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7613600.pdf",
+          "nomeFornecedor": "Reck e Dias Ltda.",
+          "cnpjCpfFornecedor": "06034996000132",
+          "valorLiquido": 3500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7597654,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-25T00:00:00",
+          "numDocumento": "7",
+          "valorDocumento": 4500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7597654.pdf",
+          "nomeFornecedor": "Reck e Dias Ltda.",
+          "cnpjCpfFornecedor": "06034996000132",
+          "valorLiquido": 4500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7578441,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-25T00:00:00",
+          "numDocumento": "6",
+          "valorDocumento": 4500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7578441.pdf",
+          "nomeFornecedor": "Reck e Dias Ltda.",
+          "cnpjCpfFornecedor": "06034996000132",
+          "valorLiquido": 4500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7565460,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-28T00:00:00",
+          "numDocumento": "5",
+          "valorDocumento": 4500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7565460.pdf",
+          "nomeFornecedor": "Reck e Dias Ltda.",
+          "cnpjCpfFornecedor": "06034996000132",
+          "valorLiquido": 4500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7553865,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-29T00:00:00",
+          "numDocumento": "4",
+          "valorDocumento": 4500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7553865.pdf",
+          "nomeFornecedor": "Reck e Dias Ltda.",
+          "cnpjCpfFornecedor": "06034996000132",
+          "valorLiquido": 4500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A",
+      "cnpj": "17261661005728",
+      "total_recebido": 96.77,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:56.840089"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 96.77
+  },
+  "anos": {
+    "2023": {
+      "total": 96.77,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220605": {
+      "deputado": {
+        "id": 220605,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220605",
+        "nome": "Bandeira de Mello",
+        "siglaPartido": "PSB",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220605.jpg",
+        "email": "dep.bandeirademello@camara.leg.br"
+      },
+      "total": 96.77,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7557873,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-30T00:00:00",
+          "numDocumento": "218454",
+          "valorDocumento": 96.77,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3656/2023/7557873.pdf",
+          "nomeFornecedor": "OUTBACK STEAKHOUSE RESTAURANTES BRASIL S/A",
+          "cnpjCpfFornecedor": "17261661005728",
+          "valorLiquido": 96.77,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

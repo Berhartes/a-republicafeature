@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEL UNIÃO",
+      "cnpj": "19561844000130",
+      "total_recebido": 2390.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:17.222678"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 2390.0
+  },
+  "anos": {
+    "2024": {
+      "total": 2390.0,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "107970": {
+      "deputado": {
+        "id": 107970,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/107970",
+        "nome": "Ana Paula Leão",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/107970.jpg",
+        "email": "dep.anapaulaleao@camara.leg.br"
+      },
+      "total": 2390.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7809154,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-30T00:00:00",
+          "numDocumento": "10703",
+          "valorDocumento": 500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3664/2024/7809154.pdf",
+          "nomeFornecedor": "HOTEL UNIÃO",
+          "cnpjCpfFornecedor": "19561844000130",
+          "valorLiquido": 500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7808038,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-30T00:00:00",
+          "numDocumento": "10704",
+          "valorDocumento": 450.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3664/2024/7808038.pdf",
+          "nomeFornecedor": "HOTEL UNIÃO",
+          "cnpjCpfFornecedor": "19561844000130",
+          "valorLiquido": 450.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7703028,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-11T00:00:00",
+          "numDocumento": "9826",
+          "valorDocumento": 720.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3664/2024/7703028.pdf",
+          "nomeFornecedor": "HOTEL UNIÃO",
+          "cnpjCpfFornecedor": "19561844000130",
+          "valorLiquido": 720.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7703030,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-11T00:00:00",
+          "numDocumento": "9827",
+          "valorDocumento": 720.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3664/2024/7703030.pdf",
+          "nomeFornecedor": "HOTEL UNIÃO",
+          "cnpjCpfFornecedor": "19561844000130",
+          "valorLiquido": 720.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

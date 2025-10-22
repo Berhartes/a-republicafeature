@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CONFRARIA  UCHOA",
+      "cnpj": "69665669000107",
+      "total_recebido": 383.55,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:31.850128"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 383.55
+  },
+  "anos": {
+    "2025": {
+      "total": 383.55,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "123086": {
+      "deputado": {
+        "id": 123086,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/123086",
+        "nome": "Átila Lira",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "PI",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/123086.jpg",
+        "email": "dep.atilamlira@camara.leg.br"
+      },
+      "total": 383.55,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7980131,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-12T00:00:00",
+          "numDocumento": "47049",
+          "valorDocumento": 383.55,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3670/2025/7980131.pdf",
+          "nomeFornecedor": "CONFRARIA  UCHOA",
+          "cnpjCpfFornecedor": "69665669000107",
+          "valorLiquido": 383.55,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

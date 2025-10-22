@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO DE COMBUSTIVEIS COSTINHA LTDA",
+      "cnpj": "12778220000120",
+      "total_recebido": 32150.0,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:53.583095"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 32150.0
+  },
+  "anos": {
+    "2023": {
+      "total": 32150.0,
+      "transacoes": 5,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220574": {
+      "deputado": {
+        "id": 220574,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220574",
+        "nome": "Cabo Gilberto Silva",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "PB",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220574.jpg",
+        "email": "dep.cabogilbertosilva@camara.leg.br"
+      },
+      "total": 32150.0,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7658956,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-11T00:00:00",
+          "numDocumento": "482",
+          "valorDocumento": 5500.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7658956",
+          "nomeFornecedor": "AUTO POSTO DE COMBUSTIVEIS COSTINHA LTDA",
+          "cnpjCpfFornecedor": "12778220000120",
+          "valorLiquido": 5500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7628677,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-18T00:00:00",
+          "numDocumento": "421",
+          "valorDocumento": 4500.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7628677",
+          "nomeFornecedor": "AUTO POSTO DE COMBUSTIVEIS COSTINHA LTDA",
+          "cnpjCpfFornecedor": "12778220000120",
+          "valorLiquido": 4500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7549229,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-26T00:00:00",
+          "numDocumento": "264",
+          "valorDocumento": 6350.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7549229",
+          "nomeFornecedor": "AUTO POSTO DE COMBUSTIVEIS COSTINHA LTDA",
+          "cnpjCpfFornecedor": "12778220000120",
+          "valorLiquido": 6350.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7525705,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-13T00:00:00",
+          "numDocumento": "213",
+          "valorDocumento": 8300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7525705",
+          "nomeFornecedor": "AUTO POSTO DE COMBUSTIVEIS COSTINHA LTDA",
+          "cnpjCpfFornecedor": "12778220000120",
+          "valorLiquido": 8300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7512784,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-21T00:00:00",
+          "numDocumento": "185",
+          "valorDocumento": 7500.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7512784",
+          "nomeFornecedor": "AUTO POSTO DE COMBUSTIVEIS COSTINHA LTDA",
+          "cnpjCpfFornecedor": "12778220000120",
+          "valorLiquido": 7500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

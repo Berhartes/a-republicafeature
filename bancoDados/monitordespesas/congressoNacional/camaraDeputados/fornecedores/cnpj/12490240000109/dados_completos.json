@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "KTEDRAL PRODUTORA AUDIOVISUAL E EVENTOS LTDA",
+      "cnpj": "12490240000109",
+      "total_recebido": 24800.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:36.713483"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 24800.0
+  },
+  "anos": {
+    "2024": {
+      "total": 24800.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160665": {
+      "deputado": {
+        "id": 160665,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160665",
+        "nome": "Augusto Coutinho",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
+        "email": "dep.augustocoutinho@camara.leg.br"
+      },
+      "total": 24800.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7851341,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-26T00:00:00",
+          "numDocumento": "43",
+          "valorDocumento": 24800.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2236/2024/7851341.pdf",
+          "nomeFornecedor": "KTEDRAL PRODUTORA AUDIOVISUAL E EVENTOS LTDA",
+          "cnpjCpfFornecedor": "12490240000109",
+          "valorLiquido": 24800.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

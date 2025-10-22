@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "58.249.556 MATEUS DA SILVA RODRIGUES",
+      "cnpj": "58249556000104",
+      "total_recebido": 10500.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:15.831178"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 10500.0
+  },
+  "anos": {
+    "2024": {
+      "total": 10500.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "73433": {
+      "deputado": {
+        "id": 73433,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73433",
+        "nome": "Arlindo Chinaglia",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73433.jpg",
+        "email": "dep.arlindochinaglia@camara.leg.br"
+      },
+      "total": 10500.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7861610,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-02-18T00:00:00",
+          "numDocumento": "4",
+          "valorDocumento": 10500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/974/2025/7861610.pdf",
+          "nomeFornecedor": "58.249.556 MATEUS DA SILVA RODRIGUES",
+          "cnpjCpfFornecedor": "58249556000104",
+          "valorLiquido": 10500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

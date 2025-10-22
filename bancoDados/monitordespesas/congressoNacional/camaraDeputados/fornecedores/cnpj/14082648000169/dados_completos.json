@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO UMARIZAL LTDA",
+      "cnpj": "14082648000169",
+      "total_recebido": 435.57,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:07.465073"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 435.57
+  },
+  "anos": {
+    "2025": {
+      "total": 435.57,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220675": {
+      "deputado": {
+        "id": 220675,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220675",
+        "nome": "Antônio Doido",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "PA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220675.jpg",
+        "email": "dep.antoniodoido@camara.leg.br"
+      },
+      "total": 435.57,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7995122,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-08T00:00:00",
+          "numDocumento": "168227",
+          "valorDocumento": 435.57,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7995122",
+          "nomeFornecedor": "POSTO UMARIZAL LTDA",
+          "cnpjCpfFornecedor": "14082648000169",
+          "valorLiquido": 435.57,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "LR COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "25287951000203",
+      "total_recebido": 400.43,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:53.811478"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 400.43
+  },
+  "anos": {
+    "2025": {
+      "total": 400.43,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220574": {
+      "deputado": {
+        "id": 220574,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220574",
+        "nome": "Cabo Gilberto Silva",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "PB",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220574.jpg",
+        "email": "dep.cabogilbertosilva@camara.leg.br"
+      },
+      "total": 400.43,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7926862,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-31T00:00:00",
+          "numDocumento": "11071",
+          "valorDocumento": 400.43,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7926862",
+          "nomeFornecedor": "LR COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "25287951000203",
+          "valorLiquido": 400.43,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

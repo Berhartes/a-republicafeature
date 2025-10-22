@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SOUZA e VITAL LTDA",
+      "cnpj": "38154506000128",
+      "total_recebido": 1701.65,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:50.556385"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1701.65
+  },
+  "anos": {
+    "2023": {
+      "total": 576.09,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 709.29,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 416.27,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178993": {
+      "deputado": {
+        "id": 178993,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178993",
+        "nome": "Carlos Henrique Gaguim",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178993.jpg",
+        "email": "dep.carloshenriquegaguim@camara.leg.br"
+      },
+      "total": 1701.65,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7517827,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-28T00:00:00",
+          "numDocumento": "1216796",
+          "valorDocumento": 350.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7517827",
+          "nomeFornecedor": "SOUZA e VITAL LTDA",
+          "cnpjCpfFornecedor": "38154506000128",
+          "valorLiquido": 350.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7501744,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-28T00:00:00",
+          "numDocumento": "1199290",
+          "valorDocumento": 226.09,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7501744",
+          "nomeFornecedor": "SOUZA e VITAL LTDA",
+          "cnpjCpfFornecedor": "38154506000128",
+          "valorLiquido": 226.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7851605,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-13T14:30:07",
+          "numDocumento": "1588422",
+          "valorDocumento": 220.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7851605",
+          "nomeFornecedor": "SOUZA e VITAL LTDA",
+          "cnpjCpfFornecedor": "38154506000128",
+          "valorLiquido": 220.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7850566,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-19T13:57:07",
+          "numDocumento": "1591418",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7850566",
+          "nomeFornecedor": "SOUZA e VITAL LTDA",
+          "cnpjCpfFornecedor": "38154506000128",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7774298,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-22T14:27:12",
+          "numDocumento": "1515880",
+          "valorDocumento": 289.29,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7774298",
+          "nomeFornecedor": "SOUZA e VITAL LTDA",
+          "cnpjCpfFornecedor": "38154506000128",
+          "valorLiquido": 289.29,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7973741,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-29T00:00:00",
+          "numDocumento": "137630",
+          "valorDocumento": 416.27,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7973741",
+          "nomeFornecedor": "SOUZA e VITAL LTDA",
+          "cnpjCpfFornecedor": "38154506000128",
+          "valorLiquido": 416.27,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

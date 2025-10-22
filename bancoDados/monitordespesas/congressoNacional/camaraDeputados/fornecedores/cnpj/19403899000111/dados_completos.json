@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SPRIME SERVIÇOS ADMINISTRATIVOS LTDA",
+      "cnpj": "19403899000111",
+      "total_recebido": 19200.0,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:06.742922"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 19200.0
+  },
+  "anos": {
+    "2025": {
+      "total": 19200.0,
+      "transacoes": 6,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204572": {
+      "deputado": {
+        "id": 204572,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204572",
+        "nome": "Capitão Alberto Neto",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "AM",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
+        "email": "dep.capitaoalbertoneto@camara.leg.br"
+      },
+      "total": 19200.0,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7993035,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-30T00:00:00",
+          "numDocumento": "09/2025",
+          "valorDocumento": 3200.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2025/7993035.pdf",
+          "nomeFornecedor": "SPRIME SERVIÇOS ADMINISTRATIVOS LTDA",
+          "cnpjCpfFornecedor": "19403899000111",
+          "valorLiquido": 3200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7979922,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-29T00:00:00",
+          "numDocumento": "08/2025",
+          "valorDocumento": 3200.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2025/7979922.pdf",
+          "nomeFornecedor": "SPRIME SERVIÇOS ADMINISTRATIVOS LTDA",
+          "cnpjCpfFornecedor": "19403899000111",
+          "valorLiquido": 3200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7979920,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-30T00:00:00",
+          "numDocumento": "07/2025",
+          "valorDocumento": 3200.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2025/7979920.pdf",
+          "nomeFornecedor": "SPRIME SERVIÇOS ADMINISTRATIVOS LTDA",
+          "cnpjCpfFornecedor": "19403899000111",
+          "valorLiquido": 3200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7940438,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-30T00:00:00",
+          "numDocumento": "06",
+          "valorDocumento": 3200.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2025/7940438.pdf",
+          "nomeFornecedor": "SPRIME SERVIÇOS ADMINISTRATIVOS LTDA",
+          "cnpjCpfFornecedor": "19403899000111",
+          "valorLiquido": 3200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7940395,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-30T00:00:00",
+          "numDocumento": "05",
+          "valorDocumento": 3200.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2025/7940395.pdf",
+          "nomeFornecedor": "SPRIME SERVIÇOS ADMINISTRATIVOS LTDA",
+          "cnpjCpfFornecedor": "19403899000111",
+          "valorLiquido": 3200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7940391,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-30T00:00:00",
+          "numDocumento": "04",
+          "valorDocumento": 3200.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2025/7940391.pdf",
+          "nomeFornecedor": "SPRIME SERVIÇOS ADMINISTRATIVOS LTDA",
+          "cnpjCpfFornecedor": "19403899000111",
+          "valorLiquido": 3200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

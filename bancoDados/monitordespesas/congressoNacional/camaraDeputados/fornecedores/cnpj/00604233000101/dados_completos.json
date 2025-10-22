@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO LA PALOMA",
+      "cnpj": "00604233000101",
+      "total_recebido": 250.65,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:30.403570"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 250.65
+  },
+  "anos": {
+    "2024": {
+      "total": 250.65,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220632": {
+      "deputado": {
+        "id": 220632,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220632",
+        "nome": "Ana Pimentel",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220632.jpg",
+        "email": "dep.anapimentel@camara.leg.br"
+      },
+      "total": 250.65,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7770638,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-08T00:00:00",
+          "numDocumento": "461518",
+          "valorDocumento": 250.65,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3626/2024/7770638.pdf",
+          "nomeFornecedor": "AUTO POSTO LA PALOMA",
+          "cnpjCpfFornecedor": "00604233000101",
+          "valorLiquido": 250.65,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

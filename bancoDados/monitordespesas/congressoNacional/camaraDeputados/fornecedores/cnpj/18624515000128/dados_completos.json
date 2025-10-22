@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO DUZENTOS E UM COM COMB LTDA",
+      "cnpj": "18624515000128",
+      "total_recebido": 1765.51,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:05.816168"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1765.51
+  },
+  "anos": {
+    "2024": {
+      "total": 1765.51,
+      "transacoes": 8,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "73701": {
+      "deputado": {
+        "id": 73701,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73701",
+        "nome": "Benedita da Silva",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73701.jpg",
+        "email": "dep.beneditadasilva@camara.leg.br"
+      },
+      "total": 1765.51,
+      "transacoes": 8,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7813842,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-01T11:37:32",
+          "numDocumento": "10241",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7813842",
+          "nomeFornecedor": "AUTO POSTO DUZENTOS E UM COM COMB LTDA",
+          "cnpjCpfFornecedor": "18624515000128",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7792536,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-17T09:13:38",
+          "numDocumento": "9605",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7792536",
+          "nomeFornecedor": "AUTO POSTO DUZENTOS E UM COM COMB LTDA",
+          "cnpjCpfFornecedor": "18624515000128",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7792540,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-19T19:27:21",
+          "numDocumento": "9670",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7792540",
+          "nomeFornecedor": "AUTO POSTO DUZENTOS E UM COM COMB LTDA",
+          "cnpjCpfFornecedor": "18624515000128",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7792546,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-23T21:25:18",
+          "numDocumento": "9889",
+          "valorDocumento": 249.19,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7792546",
+          "nomeFornecedor": "AUTO POSTO DUZENTOS E UM COM COMB LTDA",
+          "cnpjCpfFornecedor": "18624515000128",
+          "valorLiquido": 249.19,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7792542,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-24T21:42:16",
+          "numDocumento": "9929",
+          "valorDocumento": 266.32,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7792542",
+          "nomeFornecedor": "AUTO POSTO DUZENTOS E UM COM COMB LTDA",
+          "cnpjCpfFornecedor": "18624515000128",
+          "valorLiquido": 266.32,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7784974,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-29T00:00:00",
+          "numDocumento": "8773",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7784974",
+          "nomeFornecedor": "AUTO POSTO DUZENTOS E UM COM COMB LTDA",
+          "cnpjCpfFornecedor": "18624515000128",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7784979,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-31T00:00:00",
+          "numDocumento": "8886",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7784979",
+          "nomeFornecedor": "AUTO POSTO DUZENTOS E UM COM COMB LTDA",
+          "cnpjCpfFornecedor": "18624515000128",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7755675,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-15T20:14:26",
+          "numDocumento": "7192",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7755675",
+          "nomeFornecedor": "AUTO POSTO DUZENTOS E UM COM COMB LTDA",
+          "cnpjCpfFornecedor": "18624515000128",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

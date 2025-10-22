@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "TIRADENTES POSTO DE GASOLINA E SERVICOS",
+      "cnpj": "29196201000198",
+      "total_recebido": 219.54,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:53.970240"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 219.54
+  },
+  "anos": {
+    "2023": {
+      "total": 219.54,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204460": {
+      "deputado": {
+        "id": 204460,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204460",
+        "nome": "Carlos Jordy",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
+        "email": "dep.carlosjordy@camara.leg.br"
+      },
+      "total": 219.54,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7620989,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-04T00:00:00",
+          "numDocumento": "14141",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7620989",
+          "nomeFornecedor": "TIRADENTES POSTO DE GASOLINA E SERVICOS",
+          "cnpjCpfFornecedor": "29196201000198",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7550247,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-24T00:00:00",
+          "numDocumento": "477272",
+          "valorDocumento": 35.19,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7550247",
+          "nomeFornecedor": "TIRADENTES POSTO DE GAS. E S.LTDA",
+          "cnpjCpfFornecedor": "29196201000198",
+          "valorLiquido": 35.19,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7519065,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-30T00:00:00",
+          "numDocumento": "475676",
+          "valorDocumento": 34.35,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7519065",
+          "nomeFornecedor": "TIRADENTES POSTO DE GAS. E S.LTDA",
+          "cnpjCpfFornecedor": "29196201000198",
+          "valorLiquido": 34.35,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

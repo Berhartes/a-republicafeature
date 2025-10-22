@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BRASTURINVEST INVESTIMENTO",
+      "cnpj": "03422594001008",
+      "total_recebido": 3404.25,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:37.458881"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 3404.25
+  },
+  "anos": {
+    "2023": {
+      "total": 2883.75,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 520.5,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204507": {
+      "deputado": {
+        "id": 204507,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204507",
+        "nome": "Carla Zambelli",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204507.jpg",
+        "email": "dep.carlazambelli@camara.leg.br"
+      },
+      "total": 3404.25,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7573712,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-11T00:00:00",
+          "numDocumento": "00134303",
+          "valorDocumento": 1638.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2023/7573712.pdf",
+          "nomeFornecedor": "BRASTURINVEST INVESTIMENTO",
+          "cnpjCpfFornecedor": "03422594001008",
+          "valorLiquido": 1638.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7565340,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-20T00:00:00",
+          "numDocumento": "00132761",
+          "valorDocumento": 1245.75,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2023/7565340.pdf",
+          "nomeFornecedor": "BRASTURINVEST INVESTIMENTO",
+          "cnpjCpfFornecedor": "03422594001008",
+          "valorLiquido": 1245.75,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7834077,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-19T00:00:00",
+          "numDocumento": "57",
+          "valorDocumento": 520.5,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2024/7834077.pdf",
+          "nomeFornecedor": "BRASTURINVEST INVESTIMENTO",
+          "cnpjCpfFornecedor": "03422594001008",
+          "valorLiquido": 520.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

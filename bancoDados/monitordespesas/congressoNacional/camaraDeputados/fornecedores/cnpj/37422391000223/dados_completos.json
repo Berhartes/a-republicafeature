@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "LEOBAS & BARREIRA & CIA LTDA",
+      "cnpj": "37422391000223",
+      "total_recebido": 332.48,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:55.636713"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 332.48
+  },
+  "anos": {
+    "2025": {
+      "total": 332.48,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220544": {
+      "deputado": {
+        "id": 220544,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220544",
+        "nome": "Antonio Andrade",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
+        "email": "dep.antonioandrade@camara.leg.br"
+      },
+      "total": 332.48,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7925529,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-29T15:41:22",
+          "numDocumento": "72610",
+          "valorDocumento": 332.48,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7925529",
+          "nomeFornecedor": "LEOBAS & BARREIRA & CIA LTDA",
+          "cnpjCpfFornecedor": "37422391000223",
+          "valorLiquido": 332.48,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

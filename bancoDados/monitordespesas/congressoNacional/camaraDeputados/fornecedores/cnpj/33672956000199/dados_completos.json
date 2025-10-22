@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO Z19 LTDA",
+      "cnpj": "33672956000199",
+      "total_recebido": 270.9,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:24.164950"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 270.9
+  },
+  "anos": {
+    "2025": {
+      "total": 270.9,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220556": {
+      "deputado": {
+        "id": 220556,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220556",
+        "nome": "Ana Paula Lima",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
+        "email": "dep.anapaulalima@camara.leg.br"
+      },
+      "total": 270.9,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7909546,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-26T18:17:28",
+          "numDocumento": "108529",
+          "valorDocumento": 270.9,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7909546",
+          "nomeFornecedor": "POSTO Z19 LTDA",
+          "cnpjCpfFornecedor": "33672956000199",
+          "valorLiquido": 270.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

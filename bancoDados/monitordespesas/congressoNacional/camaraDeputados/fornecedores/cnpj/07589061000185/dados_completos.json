@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "E. J. W. DOS PRAZERES",
+      "cnpj": "07589061000185",
+      "total_recebido": 2557.7,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:36.653014"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 2557.7
+  },
+  "anos": {
+    "2023": {
+      "total": 1189.4,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 1049.3,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 319.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160665": {
+      "deputado": {
+        "id": 160665,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160665",
+        "nome": "Augusto Coutinho",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
+        "email": "dep.augustocoutinho@camara.leg.br"
+      },
+      "total": 2557.7,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7562144,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-14T00:00:00",
+          "numDocumento": "11329",
+          "valorDocumento": 474.9,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7562144",
+          "nomeFornecedor": "E. J. W. DOS PRAZERES",
+          "cnpjCpfFornecedor": "07589061000185",
+          "valorLiquido": 474.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7528129,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-06T00:00:00",
+          "numDocumento": "11231",
+          "valorDocumento": 405.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7528129",
+          "nomeFornecedor": "E. J. W. DOS PRAZERES",
+          "cnpjCpfFornecedor": "07589061000185",
+          "valorLiquido": 405.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7495836,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-01T00:00:00",
+          "numDocumento": "11164",
+          "valorDocumento": 309.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7495836",
+          "nomeFornecedor": "E. J. W. DOS PRAZERES",
+          "cnpjCpfFornecedor": "07589061000185",
+          "valorLiquido": 309.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7808164,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-04T00:00:00",
+          "numDocumento": "11795",
+          "valorDocumento": 393.6,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7808164",
+          "nomeFornecedor": "E. J. W. DOS PRAZERES",
+          "cnpjCpfFornecedor": "07589061000185",
+          "valorLiquido": 393.6,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7787277,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-02T00:00:00",
+          "numDocumento": "11758",
+          "valorDocumento": 175.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7787277",
+          "nomeFornecedor": "E. J. W. DOS PRAZERES",
+          "cnpjCpfFornecedor": "07589061000185",
+          "valorLiquido": 175.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7696126,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-21T00:00:00",
+          "numDocumento": "11569",
+          "valorDocumento": 480.7,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7696126",
+          "nomeFornecedor": "E. J. W. DOS PRAZERES",
+          "cnpjCpfFornecedor": "07589061000185",
+          "valorLiquido": 480.7,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7960778,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-26T00:00:00",
+          "numDocumento": "12140",
+          "valorDocumento": 319.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7960778",
+          "nomeFornecedor": "E. J. W. DOS PRAZERES",
+          "cnpjCpfFornecedor": "07589061000185",
+          "valorLiquido": 319.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEL SANTA MARIA",
+      "cnpj": "29716935000150",
+      "total_recebido": 935.0,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:01.422335"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 935.0
+  },
+  "anos": {
+    "2023": {
+      "total": 255.0,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 680.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178881": {
+      "deputado": {
+        "id": 178881,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178881",
+        "nome": "Aluisio Mendes",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
+        "email": "dep.aluisiomendes@camara.leg.br"
+      },
+      "total": 935.0,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7539389,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-03T00:00:00",
+          "numDocumento": "202300000000067",
+          "valorDocumento": 85.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2999/2023/7539389.pdf",
+          "nomeFornecedor": "HOTEL SANTA MARIA",
+          "cnpjCpfFornecedor": "29716935000150",
+          "valorLiquido": 85.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7539383,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-03T00:00:00",
+          "numDocumento": "202300000000068",
+          "valorDocumento": 85.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2999/2023/7539383.pdf",
+          "nomeFornecedor": "HOTEL SANTA MARIA",
+          "cnpjCpfFornecedor": "29716935000150",
+          "valorLiquido": 85.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7539391,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-03T00:00:00",
+          "numDocumento": "202300000000070",
+          "valorDocumento": 85.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2999/2023/7539391.pdf",
+          "nomeFornecedor": "HOTEL SANTA MARIA",
+          "cnpjCpfFornecedor": "29716935000150",
+          "valorLiquido": 85.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7791907,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-22T00:00:00",
+          "numDocumento": "2024000000000068",
+          "valorDocumento": 170.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2999/2024/7791907.pdf",
+          "nomeFornecedor": "HOTEL SANTA MARIA",
+          "cnpjCpfFornecedor": "29716935000150",
+          "valorLiquido": 170.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7791903,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-22T00:00:00",
+          "numDocumento": "202400000000066",
+          "valorDocumento": 170.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2999/2024/7791903.pdf",
+          "nomeFornecedor": "HOTEL SANTA MARIA",
+          "cnpjCpfFornecedor": "29716935000150",
+          "valorLiquido": 170.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7791899,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-22T00:00:00",
+          "numDocumento": "202400000000067",
+          "valorDocumento": 340.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2999/2024/7791899.pdf",
+          "nomeFornecedor": "HOTEL SANTA MARIA",
+          "cnpjCpfFornecedor": "29716935000150",
+          "valorLiquido": 340.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

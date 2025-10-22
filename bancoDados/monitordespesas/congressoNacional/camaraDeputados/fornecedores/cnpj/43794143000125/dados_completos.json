@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "F G REBOUÇAS AUTO POSTO LTDA",
+      "cnpj": "43794143000125",
+      "total_recebido": 1180.86,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:20.693572"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1180.86
+  },
+  "anos": {
+    "2023": {
+      "total": 532.52,
+      "transacoes": 4,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 648.34,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "141391": {
+      "deputado": {
+        "id": 141391,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141391",
+        "nome": "Arnaldo Jardim",
+        "siglaPartido": "CIDADANIA",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141391.jpg",
+        "email": "dep.arnaldojardim@camara.leg.br"
+      },
+      "total": 1180.86,
+      "transacoes": 8,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7678286,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-21T00:00:00",
+          "numDocumento": "386412",
+          "valorDocumento": 149.45,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2024/7678286.pdf",
+          "nomeFornecedor": "F G REBOUÇAS AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "43794143000125",
+          "valorLiquido": 149.45,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7637870,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-01T00:00:00",
+          "numDocumento": "355882",
+          "valorDocumento": 163.07,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2023/7637870.pdf",
+          "nomeFornecedor": "F G REBOUÇAS AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "43794143000125",
+          "valorLiquido": 163.07,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7574077,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-08T00:00:00",
+          "numDocumento": "280409",
+          "valorDocumento": 120.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2023/7574077.pdf",
+          "nomeFornecedor": "F G REBOUÇAS AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "43794143000125",
+          "valorLiquido": 120.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7550907,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-29T00:00:00",
+          "numDocumento": "254100",
+          "valorDocumento": 100.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2023/7550907.pdf",
+          "nomeFornecedor": "F G REBOUÇAS AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "43794143000125",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7857314,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-13T00:00:00",
+          "numDocumento": "586871",
+          "valorDocumento": 150.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2025/7857314.pdf",
+          "nomeFornecedor": "F G REBOUÇAS AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "43794143000125",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7829726,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-04T00:00:00",
+          "numDocumento": "565240",
+          "valorDocumento": 160.37,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2024/7829726.pdf",
+          "nomeFornecedor": "F G REBOUÇAS AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "43794143000125",
+          "valorLiquido": 160.37,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7751127,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-09T00:00:00",
+          "numDocumento": "482497",
+          "valorDocumento": 162.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2024/7751127.pdf",
+          "nomeFornecedor": "F G REBOUÇAS AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "43794143000125",
+          "valorLiquido": 162.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7729476,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-01T00:00:00",
+          "numDocumento": "457868",
+          "valorDocumento": 175.97,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2024/7729476.pdf",
+          "nomeFornecedor": "F G REBOUÇAS AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "43794143000125",
+          "valorLiquido": 175.97,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

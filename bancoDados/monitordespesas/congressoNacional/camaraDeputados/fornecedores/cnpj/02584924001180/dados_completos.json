@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ICH ADMINISTRACAO DE HOTEIS S.A.",
+      "cnpj": "02584924001180",
+      "total_recebido": 184.5,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:23.795941"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 184.5
+  },
+  "anos": {
+    "2023": {
+      "total": 184.5,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220556": {
+      "deputado": {
+        "id": 220556,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220556",
+        "nome": "Ana Paula Lima",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
+        "email": "dep.anapaulalima@camara.leg.br"
+      },
+      "total": 184.5,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7551563,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-27T00:00:00",
+          "numDocumento": "81463",
+          "valorDocumento": 184.5,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3705/2023/7551563.pdf",
+          "nomeFornecedor": "ICH ADMINISTRACAO DE HOTEIS S.A.",
+          "cnpjCpfFornecedor": "02584924001180",
+          "valorLiquido": 184.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ADEVALDO MENDES DOS REIS",
+      "cnpj": "53354537000116",
+      "total_recebido": 1000.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:50.978639"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 1000.0
+  },
+  "anos": {
+    "2024": {
+      "total": 1000.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220676": {
+      "deputado": {
+        "id": 220676,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220676",
+        "nome": "Andreia Siqueira",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "PA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220676.jpg",
+        "email": "dep.andreiasiqueira@camara.leg.br"
+      },
+      "total": 1000.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7734094,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-25T00:00:00",
+          "numDocumento": "8",
+          "valorDocumento": 1000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3552/2024/7734094.pdf",
+          "nomeFornecedor": "ADEVALDO MENDES DOS REIS",
+          "cnpjCpfFornecedor": "53354537000116",
+          "valorLiquido": 1000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

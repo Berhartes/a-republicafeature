@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO GALLI LTDA",
+      "cnpj": "08981807000245",
+      "total_recebido": 569.41,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:23.772912"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 569.41
+  },
+  "anos": {
+    "2023": {
+      "total": 230.24,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 339.16999999999996,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220556": {
+      "deputado": {
+        "id": 220556,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220556",
+        "nome": "Ana Paula Lima",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
+        "email": "dep.anapaulalima@camara.leg.br"
+      },
+      "total": 569.41,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7548217,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-13T00:00:00",
+          "numDocumento": "42893",
+          "valorDocumento": 230.24,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7548217",
+          "nomeFornecedor": "AUTO POSTO GALLI LTDA",
+          "cnpjCpfFornecedor": "08981807000245",
+          "valorLiquido": 230.24,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 8000031,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-11T15:21:04",
+          "numDocumento": "808042",
+          "valorDocumento": 198.42,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8000031",
+          "nomeFornecedor": "AUTO POSTO GALLI LTDA",
+          "cnpjCpfFornecedor": "08981807000245",
+          "valorLiquido": 198.42,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7887733,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-23T09:26:17",
+          "numDocumento": "633995",
+          "valorDocumento": 140.75,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7887733",
+          "nomeFornecedor": "AUTO POSTO GALLI LTDA",
+          "cnpjCpfFornecedor": "08981807000245",
+          "valorLiquido": 140.75,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

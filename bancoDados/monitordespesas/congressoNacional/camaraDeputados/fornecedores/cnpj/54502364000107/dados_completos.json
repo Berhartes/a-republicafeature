@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO SÃO JOÃO DE ASSIS LTDA",
+      "cnpj": "54502364000107",
+      "total_recebido": 352.01,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:26.596651"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 352.01
+  },
+  "anos": {
+    "2023": {
+      "total": 272.01,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 80.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178829": {
+      "deputado": {
+        "id": 178829,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178829",
+        "nome": "Capitão Augusto",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
+        "email": "dep.capitaoaugusto@camara.leg.br"
+      },
+      "total": 352.01,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7547037,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-22T00:00:00",
+          "numDocumento": "423935",
+          "valorDocumento": 272.01,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2023/7547037.pdf",
+          "nomeFornecedor": "AUTO POSTO SÃO JOÃO DE ASSIS LTDA",
+          "cnpjCpfFornecedor": "54502364000107",
+          "valorLiquido": 272.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7709173,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-23T00:00:00",
+          "numDocumento": "519623",
+          "valorDocumento": 80.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2024/7709173.pdf",
+          "nomeFornecedor": "AUTO POSTO SÃO JOÃO DE ASSIS LTDA",
+          "cnpjCpfFornecedor": "54502364000107",
+          "valorLiquido": 80.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

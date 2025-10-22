@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO ZERO VINTE LTDA",
+      "cnpj": "10433246000100",
+      "total_recebido": 207.86,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:53.677161"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 207.86
+  },
+  "anos": {
+    "2023": {
+      "total": 207.86,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220574": {
+      "deputado": {
+        "id": 220574,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220574",
+        "nome": "Cabo Gilberto Silva",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "PB",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220574.jpg",
+        "email": "dep.cabogilbertosilva@camara.leg.br"
+      },
+      "total": 207.86,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7530627,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-23T00:00:00",
+          "numDocumento": "213540",
+          "valorDocumento": 207.86,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7530627",
+          "nomeFornecedor": "POSTO ZERO VINTE LTDA",
+          "cnpjCpfFornecedor": "10433246000100",
+          "valorLiquido": 207.86,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

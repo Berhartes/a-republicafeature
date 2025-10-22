@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "R MORAES AGENCIA DE TURISMO EIRELI",
+      "cnpj": "00000000000010",
+      "total_recebido": 30820.5,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:55:19.198110"
+  },
+  "categorias": {
+    "PASSAGEM AÉREA - REEMBOLSO": 30820.5
+  },
+  "anos": {
+    "2024": {
+      "total": 30820.5,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "164360": {
+      "deputado": {
+        "id": 164360,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164360",
+        "nome": "Carmen Zanotto",
+        "siglaPartido": "CIDADANIA",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/164360.jpg",
+        "email": null
+      },
+      "total": 30820.5,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "PASSAGEM AÉREA - REEMBOLSO",
+          "codDocumento": 7797907,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-14T00:00:00",
+          "numDocumento": "0473046158482",
+          "valorDocumento": 39086.1,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2433/2024/7797907.pdf",
+          "nomeFornecedor": "R MORAES AGENCIA DE TURISMO EIRELI",
+          "cnpjCpfFornecedor": "00000000000010",
+          "valorLiquido": 30820.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

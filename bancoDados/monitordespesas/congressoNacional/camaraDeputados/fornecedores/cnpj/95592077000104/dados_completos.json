@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Planalto Transportes ltda",
+      "cnpj": "95592077000104",
+      "total_recebido": 359.05,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:40.670818"
+  },
+  "categorias": {
+    "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS": 359.05
+  },
+  "anos": {
+    "2024": {
+      "total": 359.05,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160538": {
+      "deputado": {
+        "id": 160538,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160538",
+        "nome": "Bohn Gass",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160538.jpg",
+        "email": "dep.bohngass@camara.leg.br"
+      },
+      "total": 359.05,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+          "codDocumento": 7840669,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-02T00:00:00",
+          "numDocumento": "164550",
+          "valorDocumento": 156.75,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2405/2024/7840669.pdf",
+          "nomeFornecedor": "Planalto Transportes ltda",
+          "cnpjCpfFornecedor": "95592077000104",
+          "valorLiquido": 156.75,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+          "codDocumento": 7842729,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-08T00:00:00",
+          "numDocumento": "378655",
+          "valorDocumento": 202.3,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2405/2024/7842729.pdf",
+          "nomeFornecedor": "Planalto Transportes ltda",
+          "cnpjCpfFornecedor": "95592077000104",
+          "valorLiquido": 202.3,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "DIRETIVA PAPELARIA LTDA",
+      "cnpj": "63243406000115",
+      "total_recebido": 1736.9999999999998,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:27.671211"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 1736.9999999999998
+  },
+  "anos": {
+    "2023": {
+      "total": 497.4,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 1239.6,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160600": {
+      "deputado": {
+        "id": 160600,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160600",
+        "nome": "Arthur Oliveira Maia",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
+        "email": "dep.arthuroliveiramaia@camara.leg.br"
+      },
+      "total": 1736.9999999999998,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7603151,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-04T00:00:00",
+          "numDocumento": "1384",
+          "valorDocumento": 497.4,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7603151",
+          "nomeFornecedor": "DIRETIVA PAPELARIA LTDA",
+          "cnpjCpfFornecedor": "63243406000115",
+          "valorLiquido": 497.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7840600,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-04T00:00:00",
+          "numDocumento": "2527",
+          "valorDocumento": 258.7,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7840600",
+          "nomeFornecedor": "DIRETIVA PAPELARIA LTDA",
+          "cnpjCpfFornecedor": "63243406000115",
+          "valorLiquido": 258.7,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7771470,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-11T00:00:00",
+          "numDocumento": "2175",
+          "valorDocumento": 432.6,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7771470",
+          "nomeFornecedor": "DIRETIVA PAPELARIA LTDA",
+          "cnpjCpfFornecedor": "63243406000115",
+          "valorLiquido": 432.6,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7711595,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-01T00:00:00",
+          "numDocumento": "1900",
+          "valorDocumento": 548.3,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7711595",
+          "nomeFornecedor": "DIRETIVA PAPELARIA LTDA",
+          "cnpjCpfFornecedor": "63243406000115",
+          "valorLiquido": 548.3,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

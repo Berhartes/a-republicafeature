@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS",
+      "cnpj": "17695813000650",
+      "total_recebido": 290.99,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:45.709281"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 290.99
+  },
+  "anos": {
+    "2023": {
+      "total": 290.99,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178962": {
+      "deputado": {
+        "id": 178962,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178962",
+        "nome": "Carlos Gomes",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
+        "email": null
+      },
+      "total": 290.99,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7583343,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-25T00:00:00",
+          "numDocumento": "762498",
+          "valorDocumento": 290.99,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7583343",
+          "nomeFornecedor": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS",
+          "cnpjCpfFornecedor": "17695813000650",
+          "valorLiquido": 290.99,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

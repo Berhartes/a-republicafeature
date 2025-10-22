@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CORESFIL COM REVENDEDOR DE COMBUSTIVEIS LTDA",
+      "cnpj": "13018536000771",
+      "total_recebido": 400.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:01.398766"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 400.0
+  },
+  "anos": {
+    "2024": {
+      "total": 400.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160553": {
+      "deputado": {
+        "id": 160553,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+        "nome": "Antonio Brito",
+        "siglaPartido": "PSD",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+        "email": "dep.antoniobrito@camara.leg.br"
+      },
+      "total": 400.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7833281,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-17T18:36:21",
+          "numDocumento": "2269014",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7833281",
+          "nomeFornecedor": "CORESFIL COM REVENDEDOR DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "13018536000771",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7714283,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-01T20:53:09",
+          "numDocumento": "2061554",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7714283",
+          "nomeFornecedor": "CORESFIL COM REVENDEDOR DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "13018536000771",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

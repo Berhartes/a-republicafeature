@@ -1,0 +1,1 @@
+"""Extract module for fetching data from Câmara API."""

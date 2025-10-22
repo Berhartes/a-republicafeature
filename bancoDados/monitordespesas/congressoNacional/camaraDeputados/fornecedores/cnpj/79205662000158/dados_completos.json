@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEIS ELO MARINGA LTDA",
+      "cnpj": "79205662000158",
+      "total_recebido": 709.1,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:21.334445"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 709.1
+  },
+  "anos": {
+    "2023": {
+      "total": 709.1,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220683": {
+      "deputado": {
+        "id": 220683,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220683",
+        "nome": "Beto Richa",
+        "siglaPartido": "PSDB",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220683.jpg",
+        "email": "dep.betoricha@camara.leg.br"
+      },
+      "total": 709.1,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7559330,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-15T00:00:00",
+          "numDocumento": "28681",
+          "valorDocumento": 179.55,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3694/2023/7559330.pdf",
+          "nomeFornecedor": "HOTEIS ELO MARINGA LTDA",
+          "cnpjCpfFornecedor": "79205662000158",
+          "valorLiquido": 179.55,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7559306,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-15T00:00:00",
+          "numDocumento": "28788",
+          "valorDocumento": 160.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3694/2023/7559306.pdf",
+          "nomeFornecedor": "HOTEIS ELO MARINGA LTDA",
+          "cnpjCpfFornecedor": "79205662000158",
+          "valorLiquido": 160.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7559303,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-15T00:00:00",
+          "numDocumento": "28789",
+          "valorDocumento": 160.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3694/2023/7559303.pdf",
+          "nomeFornecedor": "HOTEIS ELO MARINGA LTDA",
+          "cnpjCpfFornecedor": "79205662000158",
+          "valorLiquido": 160.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7559294,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-15T00:00:00",
+          "numDocumento": "28790",
+          "valorDocumento": 209.55,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3694/2023/7559294.pdf",
+          "nomeFornecedor": "HOTEIS ELO MARINGA LTDA",
+          "cnpjCpfFornecedor": "79205662000158",
+          "valorLiquido": 209.55,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

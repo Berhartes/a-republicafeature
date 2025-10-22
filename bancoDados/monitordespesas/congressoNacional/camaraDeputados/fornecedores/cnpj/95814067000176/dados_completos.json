@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GUERINO RIGO CIA LTDA - EPP",
+      "cnpj": "95814067000176",
+      "total_recebido": 792.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:32.494540"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 792.0
+  },
+  "anos": {
+    "2023": {
+      "total": 792.0,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204388": {
+      "deputado": {
+        "id": 204388,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388",
+        "nome": "Bibo Nunes",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
+        "email": "dep.bibonunes@camara.leg.br"
+      },
+      "total": 792.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7626813,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-15T00:00:00",
+          "numDocumento": "64092",
+          "valorDocumento": 198.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7626813.pdf",
+          "nomeFornecedor": "GUERINO RIGO CIA LTDA - EPP",
+          "cnpjCpfFornecedor": "95814067000176",
+          "valorLiquido": 198.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7626955,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-15T00:00:00",
+          "numDocumento": "64093",
+          "valorDocumento": 198.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7626955.pdf",
+          "nomeFornecedor": "GUERINO RIGO CIA LTDA - EPP",
+          "cnpjCpfFornecedor": "95814067000176",
+          "valorLiquido": 198.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7626804,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-15T00:00:00",
+          "numDocumento": "64094",
+          "valorDocumento": 198.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7626804.pdf",
+          "nomeFornecedor": "GUERINO RIGO CIA LTDA - EPP",
+          "cnpjCpfFornecedor": "95814067000176",
+          "valorLiquido": 198.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7626942,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-15T00:00:00",
+          "numDocumento": "64095",
+          "valorDocumento": 198.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2023/7626942.pdf",
+          "nomeFornecedor": "GUERINO RIGO CIA LTDA - EPP",
+          "cnpjCpfFornecedor": "95814067000176",
+          "valorLiquido": 198.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

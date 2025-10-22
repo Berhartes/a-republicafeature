@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ECO POSTO VITORIA COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "39886541000102",
+      "total_recebido": 350.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:39.339004"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 350.0
+  },
+  "anos": {
+    "2023": {
+      "total": 150.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 200.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204423": {
+      "deputado": {
+        "id": 204423,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204423",
+        "nome": "André Ferreira",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204423.jpg",
+        "email": "dep.andreferreira@camara.leg.br"
+      },
+      "total": 350.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7566745,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-29T00:00:00",
+          "numDocumento": "6746",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7566745",
+          "nomeFornecedor": "ECO POSTO VITORIA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "39886541000102",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7851471,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-21T18:07:49",
+          "numDocumento": "55996",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7851471",
+          "nomeFornecedor": "ECO POSTO VITORIA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "39886541000102",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

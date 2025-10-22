@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "DOMA ROOFTOP BAR E RESTAURANTE LTDA",
+      "cnpj": "43334601000143",
+      "total_recebido": 116.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:17.132844"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 116.0
+  },
+  "anos": {
+    "2024": {
+      "total": 116.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "107970": {
+      "deputado": {
+        "id": 107970,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/107970",
+        "nome": "Ana Paula Leão",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/107970.jpg",
+        "email": "dep.anapaulaleao@camara.leg.br"
+      },
+      "total": 116.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7845804,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-11T00:00:00",
+          "numDocumento": "11429",
+          "valorDocumento": 77.97,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7845804",
+          "nomeFornecedor": "DOMA ROOFTOP BAR E RESTAURANTE LTDA",
+          "cnpjCpfFornecedor": "43334601000143",
+          "valorLiquido": 69.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7689493,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-20T00:00:00",
+          "numDocumento": "7577",
+          "valorDocumento": 47.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7689493",
+          "nomeFornecedor": "DOMA ROOFTOP BAR E RESTAURANTE LTDA",
+          "cnpjCpfFornecedor": "43334601000143",
+          "valorLiquido": 47.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

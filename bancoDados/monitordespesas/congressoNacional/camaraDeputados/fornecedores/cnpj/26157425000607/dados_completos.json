@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO VITORA JUNQUEIRA EIRELI",
+      "cnpj": "26157425000607",
+      "total_recebido": 1102.4699999999998,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:48.326180"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1102.4699999999998
+  },
+  "anos": {
+    "2023": {
+      "total": 590.8499999999999,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 511.62,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204515": {
+      "deputado": {
+        "id": 204515,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204515",
+        "nome": "André Janones",
+        "siglaPartido": "AVANTE",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
+        "email": "dep.andrejanones@camara.leg.br"
+      },
+      "total": 1102.4699999999998,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7649017,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-03T00:00:00",
+          "numDocumento": "113414",
+          "valorDocumento": 150.04,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2023/7649017.pdf",
+          "nomeFornecedor": "POSTO VITORA JUNQUEIRA EIRELI",
+          "cnpjCpfFornecedor": "26157425000607",
+          "valorLiquido": 150.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7623335,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-24T00:00:00",
+          "numDocumento": "109861",
+          "valorDocumento": 265.01,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2023/7623335.pdf",
+          "nomeFornecedor": "POSTO VITORA JUNQUEIRA EIRELI",
+          "cnpjCpfFornecedor": "26157425000607",
+          "valorLiquido": 265.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7544525,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-12T00:00:00",
+          "numDocumento": "97177",
+          "valorDocumento": 175.8,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2023/7544525.pdf",
+          "nomeFornecedor": "POSTO VITORA JUNQUEIRA EIRELI",
+          "cnpjCpfFornecedor": "26157425000607",
+          "valorLiquido": 175.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7802494,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-15T00:00:00",
+          "numDocumento": "137471",
+          "valorDocumento": 227.66,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2024/7802494.pdf",
+          "nomeFornecedor": "POSTO VITORA JUNQUEIRA EIRELI",
+          "cnpjCpfFornecedor": "26157425000607",
+          "valorLiquido": 227.66,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7688670,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-04T00:00:00",
+          "numDocumento": "122543",
+          "valorDocumento": 283.96,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2024/7688670.pdf",
+          "nomeFornecedor": "POSTO VITORA JUNQUEIRA EIRELI",
+          "cnpjCpfFornecedor": "26157425000607",
+          "valorLiquido": 283.96,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

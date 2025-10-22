@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "EMPRESA AUTO VIAÇÃO PROGRESSO S/A",
+      "cnpj": "10788677000190",
+      "total_recebido": 170.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:55:11.010540"
+  },
+  "categorias": {
+    "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS": 170.0
+  },
+  "anos": {
+    "2024": {
+      "total": 170.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204426": {
+      "deputado": {
+        "id": 204426,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204426",
+        "nome": "Carlos Veras",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
+        "email": "dep.carlosveras@camara.leg.br"
+      },
+      "total": 170.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+          "codDocumento": 7818270,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-13T00:00:00",
+          "numDocumento": "3499045",
+          "valorDocumento": 170.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3234/2024/7818270.pdf",
+          "nomeFornecedor": "EMPRESA AUTO VIAÇÃO PROGRESSO S/A",
+          "cnpjCpfFornecedor": "10788677000190",
+          "valorLiquido": 170.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

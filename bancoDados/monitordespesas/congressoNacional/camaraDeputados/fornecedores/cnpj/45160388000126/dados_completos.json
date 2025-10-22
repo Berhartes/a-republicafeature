@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "OPERA ENERGY POSTO DOM BOSCO LTDA",
+      "cnpj": "45160388000126",
+      "total_recebido": 548.11,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:39.556039"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 548.11
+  },
+  "anos": {
+    "2025": {
+      "total": 548.11,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204423": {
+      "deputado": {
+        "id": 204423,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204423",
+        "nome": "André Ferreira",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204423.jpg",
+        "email": "dep.andreferreira@camara.leg.br"
+      },
+      "total": 548.11,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7960213,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-08T00:00:00",
+          "numDocumento": "70888",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7960213",
+          "nomeFornecedor": "OPERA ENERGY POSTO DOM BOSCO LTDA",
+          "cnpjCpfFornecedor": "45160388000126",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7977970,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-17T12:52:14",
+          "numDocumento": "72202",
+          "valorDocumento": 348.11,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7977970",
+          "nomeFornecedor": "OPERA ENERGY POSTO DOM BOSCO LTDA",
+          "cnpjCpfFornecedor": "45160388000126",
+          "valorLiquido": 348.11,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

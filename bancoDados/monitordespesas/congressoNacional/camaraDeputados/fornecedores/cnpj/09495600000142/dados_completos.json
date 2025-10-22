@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "EDITORA  GRAFICA PAULA LTDA ME",
+      "cnpj": "09495600000142",
+      "total_recebido": 80500.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:48.425483"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 80500.0
+  },
+  "anos": {
+    "2023": {
+      "total": 1300.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 79200.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204515": {
+      "deputado": {
+        "id": 204515,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204515",
+        "nome": "André Janones",
+        "siglaPartido": "AVANTE",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
+        "email": "dep.andrejanones@camara.leg.br"
+      },
+      "total": 80500.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7573711,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-11T00:00:00",
+          "numDocumento": "4277",
+          "valorDocumento": 1300.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2023/7573711.pdf",
+          "nomeFornecedor": "EDITORA  GRAFICA PAULA LTDA ME",
+          "cnpjCpfFornecedor": "09495600000142",
+          "valorLiquido": 1300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7947740,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-14T00:00:00",
+          "numDocumento": "5057",
+          "valorDocumento": 39600.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2025/7947740.pdf",
+          "nomeFornecedor": "EDITORA  GRAFICA PAULA LTDA ME",
+          "cnpjCpfFornecedor": "09495600000142",
+          "valorLiquido": 39600.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7947730,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-04T00:00:00",
+          "numDocumento": "5056",
+          "valorDocumento": 39600.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2025/7947730.pdf",
+          "nomeFornecedor": "EDITORA  GRAFICA PAULA LTDA ME",
+          "cnpjCpfFornecedor": "09495600000142",
+          "valorLiquido": 39600.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

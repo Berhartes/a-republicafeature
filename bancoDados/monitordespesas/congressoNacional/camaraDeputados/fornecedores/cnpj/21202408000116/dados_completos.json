@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HIROCHI & JULIA KITAGAWA COM. COMBUSTIVEIS LTDA",
+      "cnpj": "21202408000116",
+      "total_recebido": 159.3,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:26.481617"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 159.3
+  },
+  "anos": {
+    "2023": {
+      "total": 159.3,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178829": {
+      "deputado": {
+        "id": 178829,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178829",
+        "nome": "Capitão Augusto",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
+        "email": "dep.capitaoaugusto@camara.leg.br"
+      },
+      "total": 159.3,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7638937,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-25T00:00:00",
+          "numDocumento": "018519",
+          "valorDocumento": 159.3,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2023/7638937.pdf",
+          "nomeFornecedor": "HIROCHI & JULIA KITAGAWA COM. COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "21202408000116",
+          "valorLiquido": 159.3,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

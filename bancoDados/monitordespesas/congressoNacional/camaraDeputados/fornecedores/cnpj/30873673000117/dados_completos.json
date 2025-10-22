@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "VICENTE SOUZA E CIA LTDA",
+      "cnpj": "30873673000117",
+      "total_recebido": 160.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:54.198825"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 160.0
+  },
+  "anos": {
+    "2025": {
+      "total": 160.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204460": {
+      "deputado": {
+        "id": 204460,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204460",
+        "nome": "Carlos Jordy",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
+        "email": "dep.carlosjordy@camara.leg.br"
+      },
+      "total": 160.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7868743,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-01-23T21:28:37",
+          "numDocumento": "208476",
+          "valorDocumento": 160.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7868743",
+          "nomeFornecedor": "VICENTE SOUZA E CIA LTDA",
+          "cnpjCpfFornecedor": "30873673000117",
+          "valorLiquido": 160.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

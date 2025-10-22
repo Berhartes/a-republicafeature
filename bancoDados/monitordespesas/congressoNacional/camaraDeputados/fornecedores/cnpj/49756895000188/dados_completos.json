@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SMART MIDIA EXTERIOR LTDA",
+      "cnpj": "49756895000188",
+      "total_recebido": 66272.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:07.250301"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 66272.0
+  },
+  "anos": {
+    "2023": {
+      "total": 66272.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220707": {
+      "deputado": {
+        "id": 220707,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220707",
+        "nome": "Amanda Gentil",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220707.jpg",
+        "email": "dep.amandagentil@camara.leg.br"
+      },
+      "total": 66272.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7669251,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-26T00:00:00",
+          "numDocumento": "00000146",
+          "valorDocumento": 66272.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3644/2023/7669251.pdf",
+          "nomeFornecedor": "SMART MIDIA EXTERIOR LTDA",
+          "cnpjCpfFornecedor": "49756895000188",
+          "valorLiquido": 66272.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

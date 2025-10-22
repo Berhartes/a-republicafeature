@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO TIGRE JANGADEIROS LTDA",
+      "cnpj": "32876089000140",
+      "total_recebido": 890.05,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:22.701555"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 890.05
+  },
+  "anos": {
+    "2024": {
+      "total": 290.05,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 600.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160541": {
+      "deputado": {
+        "id": 160541,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160541",
+        "nome": "Arthur Lira",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "AL",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160541.jpg",
+        "email": "dep.arthurlira@camara.leg.br"
+      },
+      "total": 890.05,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7740555,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-11T00:00:00",
+          "numDocumento": "595064",
+          "valorDocumento": 290.05,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7740555",
+          "nomeFornecedor": "AUTO POSTO TIGRE JANGADEIROS LTDA",
+          "cnpjCpfFornecedor": "32876089000140",
+          "valorLiquido": 290.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7949404,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-14T00:00:00",
+          "numDocumento": "863463",
+          "valorDocumento": 600.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7949404",
+          "nomeFornecedor": "AUTO POSTO TIGRE JANGADEIROS LTDA",
+          "cnpjCpfFornecedor": "32876089000140",
+          "valorLiquido": 600.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

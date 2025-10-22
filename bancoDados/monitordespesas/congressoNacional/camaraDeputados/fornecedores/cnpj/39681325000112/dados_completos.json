@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "STAR DE ITAPERUNA",
+      "cnpj": "39681325000112",
+      "total_recebido": 1197.0,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:57.181544"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 1197.0
+  },
+  "anos": {
+    "2024": {
+      "total": 1197.0,
+      "transacoes": 5,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220605": {
+      "deputado": {
+        "id": 220605,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220605",
+        "nome": "Bandeira de Mello",
+        "siglaPartido": "PSB",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220605.jpg",
+        "email": "dep.bandeirademello@camara.leg.br"
+      },
+      "total": 1197.0,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7731045,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-03T00:00:00",
+          "numDocumento": "20240000000041962",
+          "valorDocumento": 297.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3656/2024/7731045.pdf",
+          "nomeFornecedor": "STAR DE ITAPERUNA",
+          "cnpjCpfFornecedor": "39681325000112",
+          "valorLiquido": 297.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7731054,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-03T00:00:00",
+          "numDocumento": "202400000041960",
+          "valorDocumento": 225.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3656/2024/7731054.pdf",
+          "nomeFornecedor": "STAR DE ITAPERUNA",
+          "cnpjCpfFornecedor": "39681325000112",
+          "valorLiquido": 225.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7731050,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-03T00:00:00",
+          "numDocumento": "202400000041961",
+          "valorDocumento": 225.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3656/2024/7731050.pdf",
+          "nomeFornecedor": "STAR DE ITAPERUNA",
+          "cnpjCpfFornecedor": "39681325000112",
+          "valorLiquido": 225.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7731058,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-03T00:00:00",
+          "numDocumento": "202400000041963",
+          "valorDocumento": 225.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3656/2024/7731058.pdf",
+          "nomeFornecedor": "STAR DE ITAPERUNA",
+          "cnpjCpfFornecedor": "39681325000112",
+          "valorLiquido": 225.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7731067,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-15T00:00:00",
+          "numDocumento": "202400000042165",
+          "valorDocumento": 225.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3656/2024/7731067.pdf",
+          "nomeFornecedor": "STAR DE ITAPERUNA",
+          "cnpjCpfFornecedor": "39681325000112",
+          "valorLiquido": 225.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

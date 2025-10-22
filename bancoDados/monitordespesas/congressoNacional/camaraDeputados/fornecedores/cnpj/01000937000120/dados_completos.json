@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEL BERGOZZA LTDA",
+      "cnpj": "01000937000120",
+      "total_recebido": 398.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:23.769284"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 398.0
+  },
+  "anos": {
+    "2023": {
+      "total": 398.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220556": {
+      "deputado": {
+        "id": 220556,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220556",
+        "nome": "Ana Paula Lima",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
+        "email": "dep.anapaulalima@camara.leg.br"
+      },
+      "total": 398.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7571504,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-24T00:00:00",
+          "numDocumento": "33851",
+          "valorDocumento": 199.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3705/2023/7571504.pdf",
+          "nomeFornecedor": "HOTEL BERGOZZA LTDA",
+          "cnpjCpfFornecedor": "01000937000120",
+          "valorLiquido": 199.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7571509,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-24T00:00:00",
+          "numDocumento": "33852",
+          "valorDocumento": 199.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3705/2023/7571509.pdf",
+          "nomeFornecedor": "HOTEL BERGOZZA LTDA",
+          "cnpjCpfFornecedor": "01000937000120",
+          "valorLiquido": 199.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

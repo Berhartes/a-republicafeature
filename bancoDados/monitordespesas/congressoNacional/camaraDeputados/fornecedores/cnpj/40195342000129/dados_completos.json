@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIO DE COMBUSTIVEIS TBM LTDA",
+      "cnpj": "40195342000129",
+      "total_recebido": 542.4200000000001,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:15.025710"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 542.4200000000001
+  },
+  "anos": {
+    "2024": {
+      "total": 542.4200000000001,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220698": {
+      "deputado": {
+        "id": 220698,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220698",
+        "nome": "Beto Preto",
+        "siglaPartido": "PSD",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
+        "email": null
+      },
+      "total": 542.4200000000001,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7810359,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-21T12:29:21",
+          "numDocumento": "38471",
+          "valorDocumento": 392.99,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7810359",
+          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS TBM LTDA",
+          "cnpjCpfFornecedor": "40195342000129",
+          "valorLiquido": 392.99,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7794643,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-30T00:00:00",
+          "numDocumento": "139705",
+          "valorDocumento": 149.43,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7794643",
+          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS TBM LTDA",
+          "cnpjCpfFornecedor": "40195342000129",
+          "valorLiquido": 149.43,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

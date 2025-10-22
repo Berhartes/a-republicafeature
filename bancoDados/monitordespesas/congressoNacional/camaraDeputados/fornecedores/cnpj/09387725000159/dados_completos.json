@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CONCESSIONARIA DO RODOANEL OESTE S.A.",
+      "cnpj": "09387725000159",
+      "total_recebido": 12.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:37.519999"
+  },
+  "categorias": {
+    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 12.0
+  },
+  "anos": {
+    "2023": {
+      "total": 5.6,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 6.4,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204507": {
+      "deputado": {
+        "id": 204507,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204507",
+        "nome": "Carla Zambelli",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204507.jpg",
+        "email": "dep.carlazambelli@camara.leg.br"
+      },
+      "total": 12.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7547994,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-20T00:00:00",
+          "numDocumento": "128997",
+          "valorDocumento": 2.8,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2023/7547994.pdf",
+          "nomeFornecedor": "CONCESSIONARIA DO RODOANEL OESTE S.A.",
+          "cnpjCpfFornecedor": "09387725000159",
+          "valorLiquido": 2.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7535107,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-28T00:00:00",
+          "numDocumento": "129441",
+          "valorDocumento": 2.8,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2023/7535107.pdf",
+          "nomeFornecedor": "CONCESSIONARIA DO RODOANEL OESTE S.A.",
+          "cnpjCpfFornecedor": "09387725000159",
+          "valorLiquido": 2.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7769868,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-05T00:00:00",
+          "numDocumento": "123376",
+          "valorDocumento": 3.2,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2024/7769868.pdf",
+          "nomeFornecedor": "CONCESSIONARIA DO RODOANEL OESTE S.A.",
+          "cnpjCpfFornecedor": "09387725000159",
+          "valorLiquido": 3.2,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7769655,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-08T00:00:00",
+          "numDocumento": "3,20",
+          "valorDocumento": 3.2,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2024/7769655.pdf",
+          "nomeFornecedor": "CONCESSIONARIA DO RODOANEL OESTE S.A.",
+          "cnpjCpfFornecedor": "09387725000159",
+          "valorLiquido": 3.2,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

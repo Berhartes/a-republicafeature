@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CIA BRASILEIRA DE DISTRIBUICAO",
+      "cnpj": "47508411132494",
+      "total_recebido": 200.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:39.209608"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 200.0
+  },
+  "anos": {
+    "2023": {
+      "total": 200.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204423": {
+      "deputado": {
+        "id": 204423,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204423",
+        "nome": "André Ferreira",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204423.jpg",
+        "email": "dep.andreferreira@camara.leg.br"
+      },
+      "total": 200.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7648430,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-10T00:00:00",
+          "numDocumento": "552365",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7648430",
+          "nomeFornecedor": "CIA BRASILEIRA DE DISTRIBUICAO",
+          "cnpjCpfFornecedor": "47508411132494",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

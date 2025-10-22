@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEL ALIANCA EXPRESS SA",
+      "cnpj": "06941151000120",
+      "total_recebido": 1085.8,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:29.130864"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 1085.8
+  },
+  "anos": {
+    "2024": {
+      "total": 1085.8,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "229106": {
+      "deputado": {
+        "id": 229106,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/229106",
+        "nome": "Carla Ayres",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/229106.jpg",
+        "email": null
+      },
+      "total": 1085.8,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7794248,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-13T00:00:00",
+          "numDocumento": "86524",
+          "valorDocumento": 319.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3773/2024/7794248.pdf",
+          "nomeFornecedor": "HOTEL ALIANCA EXPRESS SA",
+          "cnpjCpfFornecedor": "06941151000120",
+          "valorLiquido": 319.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7788889,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-13T00:00:00",
+          "numDocumento": "86529",
+          "valorDocumento": 319.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3773/2024/7788889.pdf",
+          "nomeFornecedor": "HOTEL ALIANCA EXPRESS SA",
+          "cnpjCpfFornecedor": "06941151000120",
+          "valorLiquido": 319.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7788888,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-13T00:00:00",
+          "numDocumento": "86530",
+          "valorDocumento": 446.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3773/2024/7788888.pdf",
+          "nomeFornecedor": "HOTEL ALIANCA EXPRESS SA",
+          "cnpjCpfFornecedor": "06941151000120",
+          "valorLiquido": 446.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

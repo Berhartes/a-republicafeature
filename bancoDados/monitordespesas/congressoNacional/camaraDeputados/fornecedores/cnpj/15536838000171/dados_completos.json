@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AYRON CARVALHO DE ARAUJO JUNIOR - ME",
+      "cnpj": "15536838000171",
+      "total_recebido": 684.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:36.883818"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 684.0
+  },
+  "anos": {
+    "2025": {
+      "total": 684.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160665": {
+      "deputado": {
+        "id": 160665,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160665",
+        "nome": "Augusto Coutinho",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
+        "email": "dep.augustocoutinho@camara.leg.br"
+      },
+      "total": 684.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7924983,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-01T00:00:00",
+          "numDocumento": "3061",
+          "valorDocumento": 342.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2236/2025/7924983.pdf",
+          "nomeFornecedor": "AYRON CARVALHO DE ARAUJO JUNIOR - ME",
+          "cnpjCpfFornecedor": "15536838000171",
+          "valorLiquido": 342.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7925871,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-01T00:00:00",
+          "numDocumento": "3062",
+          "valorDocumento": 342.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2236/2025/7925871.pdf",
+          "nomeFornecedor": "AYRON CARVALHO DE ARAUJO JUNIOR - ME",
+          "cnpjCpfFornecedor": "15536838000171",
+          "valorLiquido": 342.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

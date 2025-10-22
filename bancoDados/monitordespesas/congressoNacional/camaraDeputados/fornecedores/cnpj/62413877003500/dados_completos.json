@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL",
+      "cnpj": "62413877003500",
+      "total_recebido": 3828.95,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:06.725153"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 3828.95
+  },
+  "anos": {
+    "2024": {
+      "total": 3828.95,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204572": {
+      "deputado": {
+        "id": 204572,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204572",
+        "nome": "Capitão Alberto Neto",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "AM",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
+        "email": "dep.capitaoalbertoneto@camara.leg.br"
+      },
+      "total": 3828.95,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7756568,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-19T00:00:00",
+          "numDocumento": "00397599",
+          "valorDocumento": 3671.95,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2024/7756568.pdf",
+          "nomeFornecedor": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL",
+          "cnpjCpfFornecedor": "62413877003500",
+          "valorLiquido": 3671.95,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7756566,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-19T00:00:00",
+          "numDocumento": "00397600",
+          "valorDocumento": 157.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2024/7756566.pdf",
+          "nomeFornecedor": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL",
+          "cnpjCpfFornecedor": "62413877003500",
+          "valorLiquido": 157.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

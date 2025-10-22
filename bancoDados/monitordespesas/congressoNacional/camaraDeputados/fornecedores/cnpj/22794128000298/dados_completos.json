@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MIMIM COMERCIO DE COMBUSTIVEIS EIRELI 02",
+      "cnpj": "22794128000298",
+      "total_recebido": 433.94,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:42.941083"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 433.94
+  },
+  "anos": {
+    "2024": {
+      "total": 433.94,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204361": {
+      "deputado": {
+        "id": 204361,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
+        "nome": "Carlos Chiodini",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+        "email": null
+      },
+      "total": 433.94,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7848019,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-13T12:01:49",
+          "numDocumento": "360216",
+          "valorDocumento": 186.88,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7848019",
+          "nomeFornecedor": "MIMIM COMERCIO DE COMBUSTIVEIS EIRELI 02",
+          "cnpjCpfFornecedor": "22794128000298",
+          "valorLiquido": 186.88,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7740571,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-01T00:00:00",
+          "numDocumento": "222146",
+          "valorDocumento": 247.06,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7740571.pdf",
+          "nomeFornecedor": "MIMIM COMERCIO DE COMBUSTIVEIS EIRELI - EPP",
+          "cnpjCpfFornecedor": "22794128000298",
+          "valorLiquido": 247.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

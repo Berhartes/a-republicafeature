@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "O SERINGUAL COMUNICAÇÃO LTDA",
+      "cnpj": "46010202000115",
+      "total_recebido": 2500.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:52.930697"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 2500.0
+  },
+  "anos": {
+    "2023": {
+      "total": 2500.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "123756": {
+      "deputado": {
+        "id": 123756,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/123756",
+        "nome": "Antônia Lúcia",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "AC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/123756.jpg",
+        "email": "dep.antonialucia@camara.leg.br"
+      },
+      "total": 2500.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7572495,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-05T00:00:00",
+          "numDocumento": "56",
+          "valorDocumento": 2500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2258/2023/7572495.pdf",
+          "nomeFornecedor": "O SERINGUAL COMUNICAÇÃO LTDA",
+          "cnpjCpfFornecedor": "46010202000115",
+          "valorLiquido": 2500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

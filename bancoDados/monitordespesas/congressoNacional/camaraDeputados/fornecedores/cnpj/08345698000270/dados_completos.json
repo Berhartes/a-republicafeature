@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "M. B. COM. E DERIVADOS DE PETROLEO EIRELI",
+      "cnpj": "08345698000270",
+      "total_recebido": 50.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:30.524464"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 50.0
+  },
+  "anos": {
+    "2025": {
+      "total": 50.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "213762": {
+      "deputado": {
+        "id": 213762,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/213762",
+        "nome": "Carla Dickson",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "RN",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/213762.jpg",
+        "email": "dep.carladickson@camara.leg.br"
+      },
+      "total": 50.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7993959,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-01T00:00:00",
+          "numDocumento": "90280",
+          "valorDocumento": 50.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7993959",
+          "nomeFornecedor": "M. B. COM. E DERIVADOS DE PETROLEO EIRELI",
+          "cnpjCpfFornecedor": "08345698000270",
+          "valorLiquido": 50.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

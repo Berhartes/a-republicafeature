@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO FORTE PEDRA LTDA",
+      "cnpj": "50974934000100",
+      "total_recebido": 1784.5100000000002,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:54.116884"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1784.5100000000002
+  },
+  "anos": {
+    "2025": {
+      "total": 1784.5100000000002,
+      "transacoes": 6,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204460": {
+      "deputado": {
+        "id": 204460,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204460",
+        "nome": "Carlos Jordy",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
+        "email": "dep.carlosjordy@camara.leg.br"
+      },
+      "total": 1784.5100000000002,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7999055,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-13T14:53:10",
+          "numDocumento": "118690",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7999055",
+          "nomeFornecedor": "POSTO FORTE PEDRA LTDA",
+          "cnpjCpfFornecedor": "50974934000100",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7976779,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-01T16:49:01",
+          "numDocumento": "108249",
+          "valorDocumento": 242.66,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7976779",
+          "nomeFornecedor": "POSTO FORTE PEDRA LTDA",
+          "cnpjCpfFornecedor": "50974934000100",
+          "valorLiquido": 242.66,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7990985,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-14T06:57:26",
+          "numDocumento": "111326",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7990985",
+          "nomeFornecedor": "POSTO FORTE PEDRA LTDA",
+          "cnpjCpfFornecedor": "50974934000100",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7990996,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-17T07:27:15",
+          "numDocumento": "111940",
+          "valorDocumento": 279.97,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7990996",
+          "nomeFornecedor": "POSTO FORTE PEDRA LTDA",
+          "cnpjCpfFornecedor": "50974934000100",
+          "valorLiquido": 279.97,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7945119,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-04T18:42:36",
+          "numDocumento": "86702",
+          "valorDocumento": 390.16,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7945119",
+          "nomeFornecedor": "POSTO FORTE PEDRA LTDA",
+          "cnpjCpfFornecedor": "50974934000100",
+          "valorLiquido": 390.16,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7941873,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-24T16:06:07",
+          "numDocumento": "91232",
+          "valorDocumento": 271.72,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7941873",
+          "nomeFornecedor": "POSTO FORTE PEDRA LTDA",
+          "cnpjCpfFornecedor": "50974934000100",
+          "valorLiquido": 271.72,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

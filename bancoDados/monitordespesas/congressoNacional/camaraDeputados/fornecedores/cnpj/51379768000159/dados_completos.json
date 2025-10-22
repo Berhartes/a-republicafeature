@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Auto Posto Nova geração de Ourinhos Ltda",
+      "cnpj": "51379768000159",
+      "total_recebido": 288.03999999999996,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:26.276258"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 288.03999999999996
+  },
+  "anos": {
+    "2023": {
+      "total": 258.01,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 30.03,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178829": {
+      "deputado": {
+        "id": 178829,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178829",
+        "nome": "Capitão Augusto",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
+        "email": "dep.capitaoaugusto@camara.leg.br"
+      },
+      "total": 288.03999999999996,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7668349,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-22T00:00:00",
+          "numDocumento": "001425",
+          "valorDocumento": 162.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2023/7668349.pdf",
+          "nomeFornecedor": "Auto Posto Nova geração de Ourinhos Ltda",
+          "cnpjCpfFornecedor": "51379768000159",
+          "valorLiquido": 162.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7668345,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-23T00:00:00",
+          "numDocumento": "001981",
+          "valorDocumento": 95.11,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2023/7668345.pdf",
+          "nomeFornecedor": "Auto Posto Nova geração de Ourinhos Ltda",
+          "cnpjCpfFornecedor": "51379768000159",
+          "valorLiquido": 95.11,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7791487,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-26T00:00:00",
+          "numDocumento": "031254",
+          "valorDocumento": 30.03,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2024/7791487.pdf",
+          "nomeFornecedor": "Auto Posto Nova geração de Ourinhos Ltda",
+          "cnpjCpfFornecedor": "51379768000159",
+          "valorLiquido": 30.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "TG COMERCIAL DE COMBUSTIVEIS PLANALTO LTDA",
+      "cnpj": "18779739000109",
+      "total_recebido": 990.7099999999999,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:30.558983"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 990.7099999999999
+  },
+  "anos": {
+    "2025": {
+      "total": 990.7099999999999,
+      "transacoes": 5,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "213762": {
+      "deputado": {
+        "id": 213762,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/213762",
+        "nome": "Carla Dickson",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "RN",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/213762.jpg",
+        "email": "dep.carladickson@camara.leg.br"
+      },
+      "total": 990.7099999999999,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7983546,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-16T11:23:56",
+          "numDocumento": "16658",
+          "valorDocumento": 145.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7983546",
+          "nomeFornecedor": "TG COMERCIAL DE COMBUSTIVEIS PLANALTO LTDA",
+          "cnpjCpfFornecedor": "18779739000109",
+          "valorLiquido": 145.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7992710,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-26T00:00:00",
+          "numDocumento": "19291",
+          "valorDocumento": 50.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7992710",
+          "nomeFornecedor": "TG COMERCIAL DE COMBUSTIVEIS PLANALTO LTDA",
+          "cnpjCpfFornecedor": "18779739000109",
+          "valorLiquido": 50.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7936122,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-13T21:37:20",
+          "numDocumento": "5849",
+          "valorDocumento": 290.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7936122",
+          "nomeFornecedor": "TG COMERCIAL DE COMBUSTIVEIS PLANALTO LTDA",
+          "cnpjCpfFornecedor": "18779739000109",
+          "valorLiquido": 290.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7915029,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-04T00:10:33",
+          "numDocumento": "656",
+          "valorDocumento": 282.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7915029",
+          "nomeFornecedor": "TG COMERCIAL DE COMBUSTIVEIS PLANALTO LTDA",
+          "cnpjCpfFornecedor": "18779739000109",
+          "valorLiquido": 282.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7908295,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-11T16:05:25",
+          "numDocumento": "25925",
+          "valorDocumento": 223.65,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7908295",
+          "nomeFornecedor": "TG COMERCIAL DE COMBUSTIVEIS PLANALTO LTDA",
+          "cnpjCpfFornecedor": "18779739000109",
+          "valorLiquido": 223.65,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

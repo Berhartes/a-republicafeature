@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIO DE COMBUSTIVEIS ZILIO LTDA",
+      "cnpj": "94961828000230",
+      "total_recebido": 230.1,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:45.760433"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 230.1
+  },
+  "anos": {
+    "2023": {
+      "total": 230.1,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178962": {
+      "deputado": {
+        "id": 178962,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178962",
+        "nome": "Carlos Gomes",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
+        "email": null
+      },
+      "total": 230.1,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7541162,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-06T00:00:00",
+          "numDocumento": "108433",
+          "valorDocumento": 230.1,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7541162",
+          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS ZILIO LTDA",
+          "cnpjCpfFornecedor": "94961828000230",
+          "valorLiquido": 230.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

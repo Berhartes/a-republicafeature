@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CENTRO AUTOMOTIVO CRUZADA DA BARRA LTDA",
+      "cnpj": "12308662000102",
+      "total_recebido": 444.89,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:56.619275"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 444.89
+  },
+  "anos": {
+    "2023": {
+      "total": 226.66,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 218.23,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220605": {
+      "deputado": {
+        "id": 220605,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220605",
+        "nome": "Bandeira de Mello",
+        "siglaPartido": "PSB",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220605.jpg",
+        "email": "dep.bandeirademello@camara.leg.br"
+      },
+      "total": 444.89,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7644536,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-18T00:00:00",
+          "numDocumento": "244949",
+          "valorDocumento": 226.66,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3656/2023/7644536.pdf",
+          "nomeFornecedor": "CENTRO AUTOMOTIVO CRUZADA DA BARRA LTDA",
+          "cnpjCpfFornecedor": "12308662000102",
+          "valorLiquido": 226.66,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7784347,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-09T00:00:00",
+          "numDocumento": "275227  OSW",
+          "valorDocumento": 218.23,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7784347",
+          "nomeFornecedor": "CENTRO AUTOMOTIVO CRUZADA DA BARRA LTDA",
+          "cnpjCpfFornecedor": "12308662000102",
+          "valorLiquido": 218.23,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

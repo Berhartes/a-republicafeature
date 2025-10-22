@@ -1,0 +1,203 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "R I COMERCIAL DE COMBUSTIVEIS PLANALTO EIRELI",
+      "cnpj": "28292249000137",
+      "total_recebido": 2010.2300000000002,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:10.451746"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 2010.2300000000002
+  },
+  "anos": {
+    "2023": {
+      "total": 341.68,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 1468.55,
+      "transacoes": 6,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 200.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "109429": {
+      "deputado": {
+        "id": 109429,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/109429",
+        "nome": "Benes Leocádio",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "RN",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/109429.jpg",
+        "email": "dep.benesleocadio@camara.leg.br"
+      },
+      "total": 2010.2300000000002,
+      "transacoes": 8,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7595540,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-20T00:00:00",
+          "numDocumento": "10792",
+          "valorDocumento": 341.68,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7595540",
+          "nomeFornecedor": "R I COMERCIAL DE COMBUSTIVEIS PLANALTO EIRELI",
+          "cnpjCpfFornecedor": "28292249000137",
+          "valorLiquido": 341.68,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7793630,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-18T00:00:00",
+          "numDocumento": "167845",
+          "valorDocumento": 260.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7793630",
+          "nomeFornecedor": "R I COMERCIAL DE COMBUSTIVEIS PLANALTO EIRELI",
+          "cnpjCpfFornecedor": "28292249000137",
+          "valorLiquido": 260.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7785337,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-10T23:28:50",
+          "numDocumento": "33114",
+          "valorDocumento": 285.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7785337",
+          "nomeFornecedor": "R I COMERCIAL DE COMBUSTIVEIS PLANALTO EIRELI",
+          "cnpjCpfFornecedor": "28292249000137",
+          "valorLiquido": 285.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7731297,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-05T14:56:12",
+          "numDocumento": "159486",
+          "valorDocumento": 255.17,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7731297",
+          "nomeFornecedor": "R I COMERCIAL DE COMBUSTIVEIS PLANALTO EIRELI",
+          "cnpjCpfFornecedor": "28292249000137",
+          "valorLiquido": 255.17,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7738964,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-18T00:00:00",
+          "numDocumento": "31722",
+          "valorDocumento": 203.39,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7738964",
+          "nomeFornecedor": "R I COMERCIAL DE COMBUSTIVEIS PLANALTO EIRELI",
+          "cnpjCpfFornecedor": "28292249000137",
+          "valorLiquido": 191.42,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7723586,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-21T00:00:00",
+          "numDocumento": "158479",
+          "valorDocumento": 311.84,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7723586",
+          "nomeFornecedor": "R I COMERCIAL DE COMBUSTIVEIS PLANALTO EIRELI",
+          "cnpjCpfFornecedor": "28292249000137",
+          "valorLiquido": 279.92,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7687431,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-05T00:00:00",
+          "numDocumento": "27429",
+          "valorDocumento": 197.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7687431",
+          "nomeFornecedor": "R I COMERCIAL DE COMBUSTIVEIS PLANALTO EIRELI",
+          "cnpjCpfFornecedor": "28292249000137",
+          "valorLiquido": 197.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7916384,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-17T00:00:00",
+          "numDocumento": "198945",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7916384",
+          "nomeFornecedor": "R I COMERCIAL DE COMBUSTIVEIS PLANALTO EIRELI",
+          "cnpjCpfFornecedor": "28292249000137",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

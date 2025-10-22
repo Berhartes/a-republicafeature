@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO DOM PEDRO",
+      "cnpj": "06341428000184",
+      "total_recebido": 360.23,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:04.229317"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 360.23
+  },
+  "anos": {
+    "2024": {
+      "total": 212.17,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 148.06,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220638": {
+      "deputado": {
+        "id": 220638,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220638",
+        "nome": "Antonio Carlos Rodrigues",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
+        "email": "dep.antoniocarlosrodrigues@camara.leg.br"
+      },
+      "total": 360.23,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7819465,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-26T00:00:00",
+          "numDocumento": "076032",
+          "valorDocumento": 212.17,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3654/2024/7819465.pdf",
+          "nomeFornecedor": "POSTO DOM PEDRO",
+          "cnpjCpfFornecedor": "06341428000184",
+          "valorLiquido": 212.17,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7993041,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-13T00:00:00",
+          "numDocumento": "123975",
+          "valorDocumento": 148.06,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3654/2025/7993041.pdf",
+          "nomeFornecedor": "POSTO DOM PEDRO",
+          "cnpjCpfFornecedor": "06341428000184",
+          "valorLiquido": 148.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ELMA FRANCA BARBOSA - ME",
+      "cnpj": "11005505000165",
+      "total_recebido": 65.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:46.356065"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 65.0
+  },
+  "anos": {
+    "2023": {
+      "total": 65.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "210989": {
+      "deputado": {
+        "id": 210989,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/210989",
+        "nome": "Bruno Farias",
+        "siglaPartido": "AVANTE",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/210989.jpg",
+        "email": "dep.brunofarias@camara.leg.br"
+      },
+      "total": 65.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7617828,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-16T00:00:00",
+          "numDocumento": "3129",
+          "valorDocumento": 65.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3624/2023/7617828.pdf",
+          "nomeFornecedor": "ELMA FRANCA BARBOSA - ME",
+          "cnpjCpfFornecedor": "11005505000165",
+          "valorLiquido": 65.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

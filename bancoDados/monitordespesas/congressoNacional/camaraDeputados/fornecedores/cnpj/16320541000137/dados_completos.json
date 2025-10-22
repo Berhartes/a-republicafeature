@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SAO RAFAEL POSTOS DE SERVICOS LTDA",
+      "cnpj": "16320541000137",
+      "total_recebido": 418.77,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:18.574754"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 418.77
+  },
+  "anos": {
+    "2023": {
+      "total": 50.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 368.77,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220690": {
+      "deputado": {
+        "id": 220690,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220690",
+        "nome": "Capitão Alden",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
+        "email": "dep.capitaoalden@camara.leg.br"
+      },
+      "total": 418.77,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7610746,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-16T00:00:00",
+          "numDocumento": "183298",
+          "valorDocumento": 50.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7610746",
+          "nomeFornecedor": "SAO RAFAEL POSTOS DE SERVICOS LTDA",
+          "cnpjCpfFornecedor": "16320541000137",
+          "valorLiquido": 50.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7749791,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-05T00:00:00",
+          "numDocumento": "301242",
+          "valorDocumento": 368.77,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7749791",
+          "nomeFornecedor": "SAO RAFAEL POSTOS DE SERVICOS LTDA",
+          "cnpjCpfFornecedor": "16320541000137",
+          "valorLiquido": 368.77,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

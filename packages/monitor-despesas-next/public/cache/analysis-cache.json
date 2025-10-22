@@ -1,0 +1,5557 @@
+{
+  "metadata": {
+    "generatedAt": "2025-10-10T01:51:13.452Z",
+    "source": "local-database",
+    "arquivoFonte": "estrutura-hierarquica",
+    "version": "2.0.0",
+    "totalFornecedores": 206,
+    "totalDeputados": 1,
+    "valorTotalGeral": 664597.03,
+    "periodoAnalise": {
+      "arquivo": "estrutura-hierarquica",
+      "geradoEm": "2025-10-10"
+    }
+  },
+  "data": {
+    "scores": [
+      {
+        "cnpj": "07319323000191",
+        "nome": "PANTANAL VEÍCULOS LTDA",
+        "score": 79.53524423623521
+      },
+      {
+        "cnpj": "04825223000572",
+        "nome": "RENASCENCA  - LOS ANGELES",
+        "score": 73.69857335184207
+      },
+      {
+        "cnpj": "00306597007614",
+        "nome": "076 - MELHOR 10 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "score": 68.28406919532918
+      },
+      {
+        "cnpj": "09001879000322",
+        "nome": "COMERCIAL AMAZONIA 02 DE PETROLEO EIRELI",
+        "score": 66.35492876428268
+      },
+      {
+        "cnpj": "00306597006308",
+        "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "score": 54.99025934392077
+      },
+      {
+        "cnpj": "18148531000191",
+        "nome": "COMERCIO DE COMBUSTIVEIS CARMELITANO LTDA",
+        "score": 54.90544381490629
+      },
+      {
+        "cnpj": "73468951000163",
+        "nome": "AUTO POSTO SAO CHARBEL LTDA",
+        "score": 54.85729470238897
+      },
+      {
+        "cnpj": "43019209000100",
+        "nome": "GIOVANNA LEONEL DA SILVA LTDA",
+        "score": 54.83815160289633
+      },
+      {
+        "cnpj": "01315645000186",
+        "nome": "PERIOLI AUTO POSTO LTDA",
+        "score": 54.795238207925614
+      },
+      {
+        "cnpj": "14995581000153",
+        "nome": "AGUAS CUIABA S.A",
+        "score": 54.79188390042193
+      },
+      {
+        "cnpj": "31396703000104",
+        "nome": "AUTO POSTO NA SERRA LTDA",
+        "score": 54.74293973288546
+      },
+      {
+        "cnpj": "11360311000188",
+        "nome": "HOTEL BELLA PAULISTA LTDA",
+        "score": 54.65203343217321
+      },
+      {
+        "cnpj": "02896716000144",
+        "nome": "D E CERUTTI & CIA LTDA",
+        "score": 54.645157231736206
+      },
+      {
+        "cnpj": "00306597002655",
+        "nome": "026 - P WAY - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "score": 54.639389257395756
+      },
+      {
+        "cnpj": "09001879001485",
+        "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+        "score": 54.610023621084395
+      },
+      {
+        "cnpj": "47134227000193",
+        "nome": "POSTO ANTONELLI NOTA 10 LTDA",
+        "score": 54.60151361281142
+      },
+      {
+        "cnpj": "25422642000100",
+        "nome": "Instituto Brasileiro de Assessoria Institucional - IBRASSI",
+        "score": 54.599880988546715
+      },
+      {
+        "cnpj": "33611070000135",
+        "nome": "POSTO SETE MILHAS LTDA",
+        "score": 54.59509497101253
+      },
+      {
+        "cnpj": "42424125000199",
+        "nome": "POSTO SANTA LUZIA IX LTDA",
+        "score": 54.48318952353866
+      },
+      {
+        "cnpj": "04050579000158",
+        "nome": "IBIS Hotels",
+        "score": 54.475576113788165
+      },
+      {
+        "cnpj": "05696453000118",
+        "nome": "EL ELION COMERCIO DE COMBUSTIVEIS LTDA",
+        "score": 54.47278352839386
+      },
+      {
+        "cnpj": "18631967000218",
+        "nome": "IBIS BUDGET COPACABANA",
+        "score": 54.364497158082415
+      },
+      {
+        "cnpj": "33488393000183",
+        "nome": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+        "score": 54.294958220192726
+      },
+      {
+        "cnpj": "08202116000115",
+        "nome": "AUTO POSTO AEROPORTO LTDA",
+        "score": 54.204142243253784
+      },
+      {
+        "cnpj": "19495968000164",
+        "nome": "REDE DE POSTOS CONTI COMIGO LTDA",
+        "score": 54.1850999543022
+      },
+      {
+        "cnpj": "03113522000350",
+        "nome": "AUTO POSTO SP 400",
+        "score": 54.096472333283195
+      },
+      {
+        "cnpj": "40519219000116",
+        "nome": "P. S. DE BARROS MORREIRA LTDA",
+        "score": 54.08341282882206
+      },
+      {
+        "cnpj": "08670169000160",
+        "nome": "HOTEL - J.D.F. LTDA",
+        "score": 53.960748241534844
+      },
+      {
+        "cnpj": "08399617000567",
+        "nome": "SUELMEI CAMPOS BARBOSA EIRELI  F1  ROSARIO",
+        "score": 53.90602742168599
+      },
+      {
+        "cnpj": "27427265000127",
+        "nome": "PRIME COMERCIO DE COMBUSTIVEIS EIRELI - ME",
+        "score": 53.879409837682616
+      },
+      {
+        "cnpj": "33486425000101",
+        "nome": "MAXIMUM COMERCIO VAREJISTA DE DERIVADOS DE PETROLEO LTDA",
+        "score": 53.82472444595554
+      },
+      {
+        "cnpj": "13572350000174",
+        "nome": "MATO GROSSO COMERCIO DE COMBUSTIVEIS LTDA",
+        "score": 53.80491661118825
+      },
+      {
+        "cnpj": "32958977000102",
+        "nome": "MEINKE&CIA",
+        "score": 53.784618866945586
+      },
+      {
+        "cnpj": "00692418000700",
+        "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+        "score": 53.77312568982054
+      },
+      {
+        "cnpj": "00687681000108",
+        "nome": "BRASILIA EMPREENDIMENTOS SERVICOS E PARTICIPACOES LTDA",
+        "score": 53.736816655537815
+      },
+      {
+        "cnpj": "20132196000185",
+        "nome": "ALE COMERCIO DE COMBUSTIVEL LTDA - EPP",
+        "score": 53.71214916390227
+      },
+      {
+        "cnpj": "01030685000939",
+        "nome": "LN COMERCIO DE ELETRONICOS LTDA",
+        "score": 53.70950158680086
+      },
+      {
+        "cnpj": "00661986000140",
+        "nome": "Auto Posto Zandonadi Ltda",
+        "score": 53.696413971889065
+      },
+      {
+        "cnpj": "08667423000252",
+        "nome": "G.J.G. DERIVADOS DE PETROLEO LTDA",
+        "score": 53.627011045157914
+      },
+      {
+        "cnpj": "27098262000197",
+        "nome": "Lbf - Comercio de Combustiveis Ltda",
+        "score": 53.592477161666025
+      },
+      {
+        "cnpj": "03247760000277",
+        "nome": "MAIA & TAVARES LTDA",
+        "score": 53.54677688610569
+      },
+      {
+        "cnpj": "47261348000104",
+        "nome": "AMIGAO COMERCIO DE COMBUSTIVEIS LTDA",
+        "score": 53.43166480087631
+      },
+      {
+        "cnpj": "23891404000118",
+        "nome": "REDE MAIS COMERCIO DE COMBUSTIVEIS LTDA",
+        "score": 53.412213357719125
+      },
+      {
+        "cnpj": "22611652000286",
+        "nome": "REDE AMERICA DE COMBUSTIVEIS JK LTDA",
+        "score": 53.188482292537245
+      },
+      {
+        "cnpj": "08864907000100",
+        "nome": "Moreira Alvares Ltda",
+        "score": 53.180890745073064
+      },
+      {
+        "cnpj": "01292739000349",
+        "nome": "DELCARO E CIA LTDA",
+        "score": 53.07024855491779
+      },
+      {
+        "cnpj": "44658468000143",
+        "nome": "POSTO DE COMBUSTIVEIS ALVORADA DE PRIMAVERA LTDA",
+        "score": 52.81659139098462
+      },
+      {
+        "cnpj": "05391756000122",
+        "nome": "COMERCIAL DE COMBUSTIVEIS PARAISO EIRELI",
+        "score": 52.79536920534852
+      },
+      {
+        "cnpj": "10827927000153",
+        "nome": "BURITI COM.DE DERIVADOS DE PET LTDA",
+        "score": 52.776075676569164
+      },
+      {
+        "cnpj": "09424309000183",
+        "nome": "AUTO POSTO BACABA LTDA",
+        "score": 52.76035068010313
+      },
+      {
+        "cnpj": "09001879001051",
+        "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+        "score": 52.740106452149114
+      },
+      {
+        "cnpj": "04219324000176",
+        "nome": "MAHLE RIO VERDE COMERCIO DE COMBUSTIVEIS LTDA",
+        "score": 52.70185187595538
+      },
+      {
+        "cnpj": "05202886000170",
+        "nome": "POSTO TERRA SANTA DE JUSSARA LTDA",
+        "score": 52.577267617981526
+      },
+      {
+        "cnpj": "37519949000102",
+        "nome": "MORADA AUTO POSTO LTDA",
+        "score": 52.48293130941347
+      },
+      {
+        "cnpj": "19967950000380",
+        "nome": "L. Lucia Kuhn & Cia Ltda - AUTO POSTO ARAGUAIA",
+        "score": 52.44481107239856
+      },
+      {
+        "cnpj": "02896671001937",
+        "nome": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
+        "score": 52.24426255751775
+      },
+      {
+        "cnpj": "00692418000611",
+        "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+        "score": 52.203424098832755
+      },
+      {
+        "cnpj": "49348385000171",
+        "nome": "COMANDANTE COSTA II STOCK COMBUSTIVEIS LTDA",
+        "score": 52.19334973609075
+      },
+      {
+        "cnpj": "37878956000109",
+        "nome": "POSTO CACIQUE LTDA",
+        "score": 52.131306824953626
+      },
+      {
+        "cnpj": "50697191000160",
+        "nome": "PINHEIRO ESTRATEGIA E COMUNICACAO LTDA CAPITAL POLITICA",
+        "score": 52.12923342354945
+      },
+      {
+        "cnpj": "16990682000167",
+        "nome": "J. CAVALHEIRO COMERCIO ME",
+        "score": 52.02909446942451
+      },
+      {
+        "cnpj": "00469171000164",
+        "nome": "HOTEL PHENICIA LTDA",
+        "score": 51.993289987650186
+      },
+      {
+        "cnpj": "97550180000117",
+        "nome": "POSTO LEBLON LTDA-EPP",
+        "score": 51.95616530822843
+      },
+      {
+        "cnpj": "42999796000188",
+        "nome": "3XIS COMERCIO VAREJISTA E ATACADISTA DE PAPELARIA LTDA",
+        "score": 51.85750374389689
+      },
+      {
+        "cnpj": "52603129000198",
+        "nome": "JF HOTEIS E EVENTOS LTDA",
+        "score": 51.80247935864766
+      },
+      {
+        "cnpj": "15501715000103",
+        "nome": "LESTE COMERCIO DE PETROLEO E DERIVADOS LTDA",
+        "score": 51.78695645994608
+      },
+      {
+        "cnpj": "36917948000153",
+        "nome": "HAMERSKI COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+        "score": 51.71862424119506
+      },
+      {
+        "cnpj": "48173150000123",
+        "nome": "VIACAO MOTTA LTDA",
+        "score": 51.616937365241746
+      },
+      {
+        "cnpj": "05454390000193",
+        "nome": "GOES COMBUSTIVEIS, LUBRIFICANTES E GLP LTDA",
+        "score": 51.558584497179154
+      },
+      {
+        "cnpj": "39007232000107",
+        "nome": "JET 7 POSTOS E SERVIÇOS LTDA",
+        "score": 51.487288730699284
+      },
+      {
+        "cnpj": "13151920000233",
+        "nome": "DEM & DEM COMERCIO DE COMBUSTIVEIS LTDA",
+        "score": 51.47193917682668
+      },
+      {
+        "cnpj": "35375167000111",
+        "nome": "BSB Comercialização de Carnes Nobres LTDA",
+        "score": 51.42760708627351
+      },
+      {
+        "cnpj": "18643226000176",
+        "nome": "PALMAS AUTO POSTO CUIABA LTDA",
+        "score": 51.411986225193324
+      },
+      {
+        "cnpj": "26557314000183",
+        "nome": "POESY AVIAMENTOS E PAPELARIA EIRELI - EPP",
+        "score": 51.40809752129427
+      },
+      {
+        "cnpj": "05310091000185",
+        "nome": "AUTO POSTO CONQUISTA DE ITAPIRAPUA LTDA",
+        "score": 51.38012407193358
+      },
+      {
+        "cnpj": "08399617000214",
+        "nome": "SUELMEI CAMPOS BARBOSA EIRELI  F2  IPIRANGA",
+        "score": 51.302012731068004
+      },
+      {
+        "cnpj": "43862738000170",
+        "nome": "PORTO AUTO POSTO CUIABA LTDA",
+        "score": 51.27273121416426
+      },
+      {
+        "cnpj": "01824173000197",
+        "nome": "GONCALVES E GONCALVES AUTO POSTO CUIABA LTDA",
+        "score": 51.2691416682099
+      },
+      {
+        "cnpj": "32949042000160",
+        "nome": "J Martins de Almeida",
+        "score": 51.20229638868933
+      },
+      {
+        "cnpj": "09001879000403",
+        "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+        "score": 51.170932492745976
+      },
+      {
+        "cnpj": "22515573000190",
+        "nome": "J C COMUNICAÇÃO LTDA ME",
+        "score": 51.15201360249395
+      },
+      {
+        "cnpj": "73824732000170",
+        "nome": "AUTO POSTO SAO LUIS LTDA",
+        "score": 51.13261565773655
+      },
+      {
+        "cnpj": "47215463000134",
+        "nome": "POSTO DE COMBUSTIVEIS ABASTECE TERESINA LTDA",
+        "score": 51.12470971475246
+      },
+      {
+        "cnpj": "19607718000179",
+        "nome": "LOS PAMPAS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "score": 51.102475117276875
+      },
+      {
+        "cnpj": "02823845000102",
+        "nome": "BOSQUE DA SAUDE COM COMB LTDA",
+        "score": 51.09531346060695
+      },
+      {
+        "cnpj": "30584450000130",
+        "nome": "DELCARO COMERCIO DE COMBUSTIVEIS LTDA",
+        "score": 51.04752750053305
+      },
+      {
+        "cnpj": "30986262000138",
+        "nome": "UNIVERSITARIA INFORMATICA, PAPELARIA E SERVICOS LTDA",
+        "score": 51.03439316386924
+      },
+      {
+        "cnpj": "11512642000196",
+        "nome": "AGUIA BRANCA COMERCIO DE COMBUSTIVEIS LTDA",
+        "score": 50.990823366493466
+      },
+      {
+        "cnpj": "31141819000283",
+        "nome": "RODOBRAS COMBUSTIVEIS LTDA",
+        "score": 50.93952087784665
+      },
+      {
+        "cnpj": "41341948000198",
+        "nome": "R13 CALDAS NOVAS II DERIVADOS DE PETROLEO LTDA",
+        "score": 50.74794811702326
+      },
+      {
+        "cnpj": "17329009000143",
+        "nome": "VIE HOTEL LTDA",
+        "score": 50.67379277612336
+      },
+      {
+        "cnpj": "09001879002295",
+        "nome": "COMERCIAL AMAZONIA 18 DE PETROLEO EIRELI",
+        "score": 50.56256237657666
+      },
+      {
+        "cnpj": "11141960000198",
+        "nome": "EL SHADDAY COM DE COMBUSTIVEIS, LUBRIFICANTES E TRANSP LTDA",
+        "score": 50.531308448984674
+      },
+      {
+        "cnpj": "31283659000126",
+        "nome": "TV GAZETA MATO GROSSO LTDA",
+        "score": 50.52053819480281
+      },
+      {
+        "cnpj": "32083466000194",
+        "nome": "CRUZ & CRUZ HOTEL E RESTAURANTE LTDA",
+        "score": 50.47395779282394
+      },
+      {
+        "cnpj": "11356195000123",
+        "nome": "RDK COMERCIO DE COMBUSTIVEIS LTDA EPP",
+        "score": 50.469039922022944
+      },
+      {
+        "cnpj": "08455945000100",
+        "nome": "Paulo Andreis e Cia Ltda",
+        "score": 50.42394611038682
+      },
+      {
+        "cnpj": "52009802000166",
+        "nome": "POSTO PIONEIRO",
+        "score": 50.40252248469479
+      },
+      {
+        "cnpj": "00746278000102",
+        "nome": "AUTO POSTO CHAVES LTDA",
+        "score": 50.40163505339237
+      },
+      {
+        "cnpj": "09233622000134",
+        "nome": "AUTO POSTO FLORAIS ME",
+        "score": 50.36642231122582
+      },
+      {
+        "cnpj": "36961837000144",
+        "nome": "COMBUSTIVEIS E LUBRIFICANTES BUSSOLARO LTDA",
+        "score": 50.34823538610617
+      },
+      {
+        "cnpj": "10466992000109",
+        "nome": "MR SERVICOS TURISTICOS LTDA",
+        "score": 50.17482720391922
+      },
+      {
+        "cnpj": "37421368000133",
+        "nome": "Palo Alto Combustiveis Ltda",
+        "score": 50.03553771556056
+      },
+      {
+        "cnpj": "03439239000150",
+        "nome": "ODARA BARRA DO GARÇAS SERVICOS EM HOTELARIA",
+        "score": 49.99499846080154
+      },
+      {
+        "cnpj": "00647440000135",
+        "nome": "AUTO SHOPPING QL 06 COMERCIO DE DERIV DE PETROLEO LTDA",
+        "score": 49.83464863897319
+      },
+      {
+        "cnpj": "80732928004782",
+        "nome": "atrio hoteis s. a.",
+        "score": 49.79825021581016
+      },
+      {
+        "cnpj": "07687669000142",
+        "nome": "TCD COMERCIO DE COMBUSTIVEIS LTDA",
+        "score": 49.796362185789285
+      },
+      {
+        "cnpj": "10473920000180",
+        "nome": "ALFA EMPREENDIMENTOS HOTELEIROS SA",
+        "score": 49.793225054637816
+      },
+      {
+        "cnpj": "31141819000100",
+        "nome": "Rodobrás Combustíveis",
+        "score": 49.788377822290514
+      },
+      {
+        "cnpj": "31125563000130",
+        "nome": "IDEAL COMERCIO DE COMBUSTIVEIS LTDA",
+        "score": 49.775659396996105
+      },
+      {
+        "cnpj": "00816009000256",
+        "nome": "AUTO POSTO DRACENA LTDA",
+        "score": 49.77001097926107
+      },
+      {
+        "cnpj": "30594269000104",
+        "nome": "ITALIAN PALACE HOTEL LTDA",
+        "score": 49.76429421218489
+      },
+      {
+        "cnpj": "15043920000164",
+        "nome": "JOSEPH YACOUB ABBOUDI E CIA LTDA",
+        "score": 49.70452325811763
+      },
+      {
+        "cnpj": "03189859000502",
+        "nome": "POSTO PEDRO NECA LTDA",
+        "score": 49.67506919887849
+      },
+      {
+        "cnpj": "04813224000173",
+        "nome": "D JUNIOR DE SOUSA",
+        "score": 49.65614734356357
+      },
+      {
+        "cnpj": "05324187000100",
+        "nome": "POSTO TABOCAO VI LTDA",
+        "score": 49.61793249405872
+      },
+      {
+        "cnpj": "11806721000100",
+        "nome": "URSO AUTO POSTO LTDA",
+        "score": 49.44510300801412
+      },
+      {
+        "cnpj": "04111378000113",
+        "nome": "REDE DE POSTOS 3R LTDA",
+        "score": 49.42216893928853
+      },
+      {
+        "cnpj": "12132854000100",
+        "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+        "score": 49.37048753593068
+      },
+      {
+        "cnpj": "15269710000199",
+        "nome": "HOTEIS LA SIESTA LTDA",
+        "score": 49.33580798907066
+      },
+      {
+        "cnpj": "49682953000176",
+        "nome": "49.682.953 THIAGO MARTINS DA SILVA",
+        "score": 49.32786039781878
+      },
+      {
+        "cnpj": "09001879003186",
+        "nome": "COMERCIAL AMAZONIA 26 DE PETROLEO LTDA",
+        "score": 49.29576521532877
+      },
+      {
+        "cnpj": "01869601000106",
+        "nome": "AVENIDA PALACE HOTEL LTDA",
+        "score": 49.1421168037226
+      },
+      {
+        "cnpj": "04268312000131",
+        "nome": "POSTO ALDO JATAI",
+        "score": 49.118348478631845
+      },
+      {
+        "cnpj": "08864565000129",
+        "nome": "MATRIX POSTOS DE COMBUSTIVEIS LTDA",
+        "score": 49.06651029953978
+      },
+      {
+        "cnpj": "32525790000115",
+        "nome": "JP STEAK HOUSE CUIABA BUFFET E RESTAURANTE LTDA",
+        "score": 49.01820815643527
+      },
+      {
+        "cnpj": "09813461000158",
+        "nome": "Sandro Rodrigues de Oliveira",
+        "score": 49.01288193862987
+      },
+      {
+        "cnpj": "49311629000141",
+        "nome": "BR Solucoes Tecnicas e Administrativas Ltda",
+        "score": 48.97959751734558
+      },
+      {
+        "cnpj": "41825513000119",
+        "nome": "TRANSAMERICA COMERCIAL E SERVIÇOS LTDA SCP",
+        "score": 48.94783646209278
+      },
+      {
+        "cnpj": "32962458000118",
+        "nome": "AUTO POSTO BUGRENSE LTDA",
+        "score": 48.942467318396695
+      },
+      {
+        "cnpj": "03207363000190",
+        "nome": "PARADISE AUTO POSTO CUIABA LTDA",
+        "score": 48.93555841292293
+      },
+      {
+        "cnpj": "12291615000101",
+        "nome": "VYP GESTÃO DE NEGÓCIOS IMOBILIARIOS LTDA",
+        "score": 48.8346373028338
+      },
+      {
+        "cnpj": "09001879002619",
+        "nome": "COMERCIAL AMAZONIA 24 DE PETROLEO EIRELI",
+        "score": 48.78446448624302
+      },
+      {
+        "cnpj": "06240490000180",
+        "nome": "POSTO ARCO IRIS",
+        "score": 48.76617664366412
+      },
+      {
+        "cnpj": "00480608000160",
+        "nome": "MARCO MARCHETTI S/A HOTEIS",
+        "score": 48.75276412046081
+      },
+      {
+        "cnpj": "36195839000170",
+        "nome": "AUTO POSTO TCHE EIRELI",
+        "score": 48.657166106166926
+      },
+      {
+        "cnpj": "06248123000122",
+        "nome": "DIAS BLANCO COMERCIO DE COMBUSTIVEIS LTDA",
+        "score": 48.52847582820539
+      },
+      {
+        "cnpj": "09001879000675",
+        "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+        "score": 48.47599513675006
+      },
+      {
+        "cnpj": "51871108000190",
+        "nome": "51.871.108 FABIO FELIPE DE ALMEIDA",
+        "score": 48.46387640668064
+      },
+      {
+        "cnpj": "13151920000152",
+        "nome": "DEM E DEM COMERCIO DE COMBUSTIVEIS LTDA",
+        "score": 48.41089297169993
+      },
+      {
+        "cnpj": "37457686000154",
+        "nome": "NC AUTO POSTO LTDA",
+        "score": 48.37345984127888
+      },
+      {
+        "cnpj": "36280645000172",
+        "nome": "POSTO JULIO CAMPOS LTDA",
+        "score": 48.25751131374616
+      },
+      {
+        "cnpj": "55340921001752",
+        "nome": "VIAÇÃO MOTTA LTDA",
+        "score": 48.2123543552211
+      },
+      {
+        "cnpj": "29032820000147",
+        "nome": "BELIZE COMPANY AUTO POSTO LTDA",
+        "score": 48.18607722400613
+      },
+      {
+        "cnpj": "08414945000161",
+        "nome": "MT360 CONSULTORIA E COMUNICACAO LTDA",
+        "score": 48.138821295673495
+      },
+      {
+        "cnpj": "32590257000137",
+        "nome": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+        "score": 48.09910631904186
+      },
+      {
+        "cnpj": "37841433000180",
+        "nome": "MAISON HOTEL LTDA",
+        "score": 48.03297741296411
+      },
+      {
+        "cnpj": "09397805000195",
+        "nome": "F G ZANIBONI HOTEL EIRELI-EPP",
+        "score": 48.020996031887336
+      },
+      {
+        "cnpj": "32195248000141",
+        "nome": "FORT COMBUSTIVEIS LTDA",
+        "score": 48.0209871701454
+      },
+      {
+        "cnpj": "28962281000182",
+        "nome": "BRUNO PINHEIRO DA SILVA 05197897171",
+        "score": 47.93356796878382
+      },
+      {
+        "cnpj": "02869615000184",
+        "nome": "BOM CLIMA COMERCIO DE COMBUSTIVEIS LTDA",
+        "score": 47.929943052102566
+      },
+      {
+        "cnpj": "07687116000190",
+        "nome": "PAPAI AUTO POSTO CUIABA LTDA",
+        "score": 47.88705161376066
+      },
+      {
+        "cnpj": "19374791000148",
+        "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
+        "score": 47.879127771925454
+      },
+      {
+        "cnpj": "10199055000126",
+        "nome": "HOTEL COLOMBO",
+        "score": 47.851078931969774
+      },
+      {
+        "cnpj": "00045617000123",
+        "nome": "VALDIVINO BARBOSA  SILVA - O GOIANO",
+        "score": 47.839625723506096
+      },
+      {
+        "cnpj": "02358595000187",
+        "nome": "Auto Posto N01 Ltda",
+        "score": 47.81024659308273
+      },
+      {
+        "cnpj": "37436110000100",
+        "nome": "AUTO POSTO VILLA LTDA",
+        "score": 47.73262612852575
+      },
+      {
+        "cnpj": "03023665000109",
+        "nome": "COMERCIAL DE PETROLEO F CORREA LTDA",
+        "score": 47.685486971262975
+      },
+      {
+        "cnpj": "48756962000100",
+        "nome": "ODARA BARRA DO GARÇAS SERVICOS EM HOTELARIA",
+        "score": 47.61981888143203
+      },
+      {
+        "cnpj": "00306597006995",
+        "nome": "069 - PENISULA - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "score": 47.588546063748765
+      },
+      {
+        "cnpj": "27573330000122",
+        "nome": "ARTitUR F. GARCIA E SILVA",
+        "score": 47.4961770023428
+      },
+      {
+        "cnpj": "01343305000169",
+        "nome": "Comercial de Derivados de Petroleo Souza Lima Ltda",
+        "score": 47.47487753935629
+      },
+      {
+        "cnpj": "03449173000180",
+        "nome": "COMERCIAL DE COMBUSTIVEIS SHOPING LTDA",
+        "score": 47.38119559142174
+      },
+      {
+        "cnpj": "09001879003267",
+        "nome": "COMERCIAL AMAZONIA 27 DE PETROLEO LTDA",
+        "score": 47.29242350772901
+      },
+      {
+        "cnpj": "01418827000263",
+        "nome": "REDE DE POSTOS SANTA MARIA LTDA (POSTO XV)",
+        "score": 47.28796318414316
+      },
+      {
+        "cnpj": "14402491000101",
+        "nome": "Posto Continental Inhumas Ltda",
+        "score": 47.16837987957447
+      },
+      {
+        "cnpj": "54268944000173",
+        "nome": "PETRO CHAPADAO COMERCIO DE COMBUSTIVEIS LTDA",
+        "score": 47.13562030551634
+      },
+      {
+        "cnpj": "24702153000149",
+        "nome": "SAIDA SUL POSTOS E SERVICOS LTDA",
+        "score": 46.96657754830954
+      },
+      {
+        "cnpj": "01877629000187",
+        "nome": "COM. DE COMB. STA EDWIGES LTDA",
+        "score": 46.95844566566538
+      },
+      {
+        "cnpj": "33434356000192",
+        "nome": "GRAN BARRA HOTELARIA LTDA",
+        "score": 46.92171797669201
+      },
+      {
+        "cnpj": "01267079000184",
+        "nome": "HOTEL HAVAÍ",
+        "score": 46.81889840160341
+      },
+      {
+        "cnpj": "03467321000199",
+        "nome": "ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A.",
+        "score": 46.80549045616636
+      },
+      {
+        "cnpj": "42738198000155",
+        "nome": "PAOLA DE ARRUDA FURTADO 03844866140",
+        "score": 46.79555127929396
+      },
+      {
+        "cnpj": "27165787000106",
+        "nome": "A C F SILVA GATTO & CIA LTDA",
+        "score": 46.7403641103669
+      },
+      {
+        "cnpj": "19046218002159",
+        "nome": "DECIO COM. E SERV. ROD. LTDA  RIO VERDE   POSTO",
+        "score": 46.72625980298916
+      },
+      {
+        "cnpj": "47377960000139",
+        "nome": "Pasadena Combustiveis Ltda",
+        "score": 46.71423080746443
+      },
+      {
+        "cnpj": "05961536000197",
+        "nome": "R C COMERCIO DE COMBUSTIVEIS LTDA",
+        "score": 46.69490699557793
+      },
+      {
+        "cnpj": "09001879001302",
+        "nome": "COMERCIAL AMAZONIA 04 DE PETROLEO EIRELI",
+        "score": 46.66971565617303
+      },
+      {
+        "cnpj": "09001879001213",
+        "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+        "score": 46.65780001168956
+      },
+      {
+        "cnpj": "39786983000179",
+        "nome": "VD COMERCIO DE VEICULOS LTDA",
+        "score": 46.63670728115038
+      },
+      {
+        "cnpj": "07976147003003",
+        "nome": "MOVIDA aluguel de carros",
+        "score": 46.48887660239853
+      },
+      {
+        "cnpj": "33971293000103",
+        "nome": "POSTO DE COMBUSTIVEL 406 NORTE LTDA",
+        "score": 46.36345442266475
+      },
+      {
+        "cnpj": "30435188000161",
+        "nome": "JTM COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "score": 46.30571627468274
+      },
+      {
+        "cnpj": "32255216000194",
+        "nome": "AMD COMERCIO VAREJO DE COMBUSTIVEIS LTDA",
+        "score": 46.10747617675448
+      },
+      {
+        "cnpj": "05000684000226",
+        "nome": "AUTO POSTO PETER PAN 01 LTDA",
+        "score": 46.074745231767565
+      },
+      {
+        "cnpj": "09967852005196",
+        "nome": "Hotelaria Accor Brasil S/A",
+        "score": 46.03227321048006
+      },
+      {
+        "cnpj": "00781054000131",
+        "nome": "LOCATELLI DERIVADOS DE PETROLEO LTDA",
+        "score": 45.98349579843804
+      },
+      {
+        "cnpj": "12855890000100",
+        "nome": "NILVO PAULO PEZZINI - EPP",
+        "score": 45.87936588419835
+      },
+      {
+        "cnpj": "10679515000113",
+        "nome": "V Rocha Bevilacqua",
+        "score": 45.82449927040958
+      },
+      {
+        "cnpj": "11773930000102",
+        "nome": "WJM COMERCIO DE COMB. E LUB. LTDA -EPP-LTD",
+        "score": 45.79403333605867
+      },
+      {
+        "cnpj": "41820336000188",
+        "nome": "transamerica primavera do leste -scp",
+        "score": 45.75798519330091
+      },
+      {
+        "cnpj": "33977940000194",
+        "nome": "POSTO DE COMBUSTIVEL CEASA LTDA",
+        "score": 45.64683469185235
+      },
+      {
+        "cnpj": "10841600000136",
+        "nome": "POSTO NOVA COQUEIRAL LTDA",
+        "score": 45.53810632871069
+      },
+      {
+        "cnpj": "31958062000134",
+        "nome": "POSTO PREMIUM PASSEIO DAS AGUAS LTDA",
+        "score": 45.47961750486042
+      },
+      {
+        "cnpj": "27744555000102",
+        "nome": "COMERCIAL 364 DE COMBUSTIVEIS LTDA",
+        "score": 45.42129717770327
+      },
+      {
+        "cnpj": "09001879001728",
+        "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+        "score": 45.38930277114485
+      },
+      {
+        "cnpj": "53690958000118",
+        "nome": "COMERCIO DE COMBUSTIVEIS ITALIA LTDA",
+        "score": 45.35280614924339
+      },
+      {
+        "cnpj": "09001879002708",
+        "nome": "COMERCIAL AMAZONIA 22 DE PETROLEO EIRELI",
+        "score": 45.25744394543068
+      },
+      {
+        "cnpj": "33469172000672",
+        "nome": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+        "score": 45.151074449081975
+      },
+      {
+        "cnpj": "24311808000158",
+        "nome": "CONDOMÍNIO EDÍFICIL COMERCIAL CONCORDE",
+        "score": 45.15079466661382
+      },
+      {
+        "cnpj": "30536603000173",
+        "nome": "DENICOLO COMERCIO DE COMBUSTIVEIS LTDA  REDE SAO PAULO F1",
+        "score": 45.12975328450924
+      },
+      {
+        "cnpj": "39786983001906",
+        "nome": "GODRIVE",
+        "score": 45.106665439892836
+      },
+      {
+        "cnpj": "48949641000113",
+        "nome": "BROAD BRASIL LTDA",
+        "score": 36.847590205941806
+      },
+      {
+        "cnpj": "25012398000107",
+        "nome": "Google Cloud Brasil Computação e Serviços de Dados Ltda",
+        "score": 36.67357476880687
+      },
+      {
+        "cnpj": "18804888000180",
+        "nome": "BRASIL ONE SERVICOS DE TECNOLOGIA DA INFORMACAO LTDA DEXATEC",
+        "score": 36.65703177122725
+      },
+      {
+        "cnpj": "02558157000162",
+        "nome": "Telefônica Brasil S.A. VIVO",
+        "score": 36.50160330821587
+      }
+    ],
+    "categorias": {
+      "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": {
+        "nome": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "fornecedores": [
+          {
+            "cnpj": "07319323000191",
+            "nome": "PANTANAL VEÍCULOS LTDA",
+            "totalTransacionado": 146600,
+            "scoreSuspeicao": 79.53524423623521,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "39786983001906",
+            "nome": "GODRIVE",
+            "totalTransacionado": 41690,
+            "scoreSuspeicao": 45.106665439892836,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "19374791000148",
+            "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
+            "totalTransacionado": 25600,
+            "scoreSuspeicao": 47.879127771925454,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "39786983000179",
+            "nome": "VD COMERCIO DE VEICULOS LTDA",
+            "totalTransacionado": 3790,
+            "scoreSuspeicao": 46.63670728115038,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "07976147003003",
+            "nome": "MOVIDA aluguel de carros",
+            "totalTransacionado": 1235.86,
+            "scoreSuspeicao": 46.48887660239853,
+            "numeroDeputados": 1
+          }
+        ],
+        "totalFornecedores": 5,
+        "valorTotal": 218915.86,
+        "mediaValorPorFornecedor": 43783.172,
+        "top10Fornecedores": [
+          {
+            "cnpj": "07319323000191",
+            "nome": "PANTANAL VEÍCULOS LTDA",
+            "totalTransacionado": 146600,
+            "scoreSuspeicao": 79.53524423623521,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "39786983001906",
+            "nome": "GODRIVE",
+            "totalTransacionado": 41690,
+            "scoreSuspeicao": 45.106665439892836,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "19374791000148",
+            "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
+            "totalTransacionado": 25600,
+            "scoreSuspeicao": 47.879127771925454,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "39786983000179",
+            "nome": "VD COMERCIO DE VEICULOS LTDA",
+            "totalTransacionado": 3790,
+            "scoreSuspeicao": 46.63670728115038,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "07976147003003",
+            "nome": "MOVIDA aluguel de carros",
+            "totalTransacionado": 1235.86,
+            "scoreSuspeicao": 46.48887660239853,
+            "numeroDeputados": 1
+          }
+        ],
+        "distribuicaoScore": {
+          "critico": 0,
+          "alto": 1,
+          "medio": 4,
+          "baixo": 0
+        },
+        "evolucaoTemporal": {},
+        "estatisticas": {},
+        "percentualDoTotal": 32.93963862583015
+      },
+      "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+        "nome": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "fornecedores": [
+          {
+            "cnpj": "12291615000101",
+            "nome": "VYP GESTÃO DE NEGÓCIOS IMOBILIARIOS LTDA",
+            "totalTransacionado": 99840,
+            "scoreSuspeicao": 48.8346373028338,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "03467321000199",
+            "nome": "ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A.",
+            "totalTransacionado": 20519.960000000003,
+            "scoreSuspeicao": 46.80549045616636,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "48949641000113",
+            "nome": "BROAD BRASIL LTDA",
+            "totalTransacionado": 19600,
+            "scoreSuspeicao": 36.847590205941806,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "24311808000158",
+            "nome": "CONDOMÍNIO EDÍFICIL COMERCIAL CONCORDE",
+            "totalTransacionado": 5551.92,
+            "scoreSuspeicao": 45.15079466661382,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "25012398000107",
+            "nome": "Google Cloud Brasil Computação e Serviços de Dados Ltda",
+            "totalTransacionado": 2016,
+            "scoreSuspeicao": 36.67357476880687,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "12132854000100",
+            "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+            "totalTransacionado": 1912.4,
+            "scoreSuspeicao": 49.37048753593068,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "33488393000183",
+            "nome": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+            "totalTransacionado": 1373.3500000000001,
+            "scoreSuspeicao": 54.294958220192726,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "14995581000153",
+            "nome": "AGUAS CUIABA S.A",
+            "totalTransacionado": 603.3499999999999,
+            "scoreSuspeicao": 54.79188390042193,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "30986262000138",
+            "nome": "UNIVERSITARIA INFORMATICA, PAPELARIA E SERVICOS LTDA",
+            "totalTransacionado": 503.5,
+            "scoreSuspeicao": 51.03439316386924,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "26557314000183",
+            "nome": "POESY AVIAMENTOS E PAPELARIA EIRELI - EPP",
+            "totalTransacionado": 415.5,
+            "scoreSuspeicao": 51.40809752129427,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "01030685000939",
+            "nome": "LN COMERCIO DE ELETRONICOS LTDA",
+            "totalTransacionado": 219.9,
+            "scoreSuspeicao": 53.70950158680086,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "42999796000188",
+            "nome": "3XIS COMERCIO VAREJISTA E ATACADISTA DE PAPELARIA LTDA",
+            "totalTransacionado": 52.98,
+            "scoreSuspeicao": 51.85750374389689,
+            "numeroDeputados": 1
+          }
+        ],
+        "totalFornecedores": 12,
+        "valorTotal": 152608.86000000004,
+        "mediaValorPorFornecedor": 12717.405000000004,
+        "top10Fornecedores": [
+          {
+            "cnpj": "12291615000101",
+            "nome": "VYP GESTÃO DE NEGÓCIOS IMOBILIARIOS LTDA",
+            "totalTransacionado": 99840,
+            "scoreSuspeicao": 48.8346373028338,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "03467321000199",
+            "nome": "ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A.",
+            "totalTransacionado": 20519.960000000003,
+            "scoreSuspeicao": 46.80549045616636,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "48949641000113",
+            "nome": "BROAD BRASIL LTDA",
+            "totalTransacionado": 19600,
+            "scoreSuspeicao": 36.847590205941806,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "24311808000158",
+            "nome": "CONDOMÍNIO EDÍFICIL COMERCIAL CONCORDE",
+            "totalTransacionado": 5551.92,
+            "scoreSuspeicao": 45.15079466661382,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "25012398000107",
+            "nome": "Google Cloud Brasil Computação e Serviços de Dados Ltda",
+            "totalTransacionado": 2016,
+            "scoreSuspeicao": 36.67357476880687,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "12132854000100",
+            "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+            "totalTransacionado": 1912.4,
+            "scoreSuspeicao": 49.37048753593068,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "33488393000183",
+            "nome": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+            "totalTransacionado": 1373.3500000000001,
+            "scoreSuspeicao": 54.294958220192726,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "14995581000153",
+            "nome": "AGUAS CUIABA S.A",
+            "totalTransacionado": 603.3499999999999,
+            "scoreSuspeicao": 54.79188390042193,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "30986262000138",
+            "nome": "UNIVERSITARIA INFORMATICA, PAPELARIA E SERVICOS LTDA",
+            "totalTransacionado": 503.5,
+            "scoreSuspeicao": 51.03439316386924,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "26557314000183",
+            "nome": "POESY AVIAMENTOS E PAPELARIA EIRELI - EPP",
+            "totalTransacionado": 415.5,
+            "scoreSuspeicao": 51.40809752129427,
+            "numeroDeputados": 1
+          }
+        ],
+        "distribuicaoScore": {
+          "critico": 0,
+          "alto": 0,
+          "medio": 10,
+          "baixo": 2
+        },
+        "evolucaoTemporal": {},
+        "estatisticas": {},
+        "percentualDoTotal": 22.962615406210894
+      },
+      "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+        "nome": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+        "fornecedores": [
+          {
+            "cnpj": "42738198000155",
+            "nome": "PAOLA DE ARRUDA FURTADO 03844866140",
+            "totalTransacionado": 37200,
+            "scoreSuspeicao": 46.79555127929396,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "50697191000160",
+            "nome": "PINHEIRO ESTRATEGIA E COMUNICACAO LTDA CAPITAL POLITICA",
+            "totalTransacionado": 37000,
+            "scoreSuspeicao": 52.12923342354945,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "22515573000190",
+            "nome": "J C COMUNICAÇÃO LTDA ME",
+            "totalTransacionado": 22000,
+            "scoreSuspeicao": 51.15201360249395,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "28962281000182",
+            "nome": "BRUNO PINHEIRO DA SILVA 05197897171",
+            "totalTransacionado": 10500,
+            "scoreSuspeicao": 47.93356796878382,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "27573330000122",
+            "nome": "ARTitUR F. GARCIA E SILVA",
+            "totalTransacionado": 10000,
+            "scoreSuspeicao": 47.4961770023428,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "49682953000176",
+            "nome": "49.682.953 THIAGO MARTINS DA SILVA",
+            "totalTransacionado": 8700,
+            "scoreSuspeicao": 49.32786039781878,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "18804888000180",
+            "nome": "BRASIL ONE SERVICOS DE TECNOLOGIA DA INFORMACAO LTDA DEXATEC",
+            "totalTransacionado": 8100,
+            "scoreSuspeicao": 36.65703177122725,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "25422642000100",
+            "nome": "Instituto Brasileiro de Assessoria Institucional - IBRASSI",
+            "totalTransacionado": 6000,
+            "scoreSuspeicao": 54.599880988546715,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "08414945000161",
+            "nome": "MT360 CONSULTORIA E COMUNICACAO LTDA",
+            "totalTransacionado": 3400,
+            "scoreSuspeicao": 48.138821295673495,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "49311629000141",
+            "nome": "BR Solucoes Tecnicas e Administrativas Ltda",
+            "totalTransacionado": 3350,
+            "scoreSuspeicao": 48.97959751734558,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "51871108000190",
+            "nome": "51.871.108 FABIO FELIPE DE ALMEIDA",
+            "totalTransacionado": 3000,
+            "scoreSuspeicao": 48.46387640668064,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "31283659000126",
+            "nome": "TV GAZETA MATO GROSSO LTDA",
+            "totalTransacionado": 3000,
+            "scoreSuspeicao": 50.52053819480281,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "40519219000116",
+            "nome": "P. S. DE BARROS MORREIRA LTDA",
+            "totalTransacionado": 420,
+            "scoreSuspeicao": 54.08341282882206,
+            "numeroDeputados": 1
+          }
+        ],
+        "totalFornecedores": 13,
+        "valorTotal": 152670,
+        "mediaValorPorFornecedor": 11743.846153846154,
+        "top10Fornecedores": [
+          {
+            "cnpj": "42738198000155",
+            "nome": "PAOLA DE ARRUDA FURTADO 03844866140",
+            "totalTransacionado": 37200,
+            "scoreSuspeicao": 46.79555127929396,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "50697191000160",
+            "nome": "PINHEIRO ESTRATEGIA E COMUNICACAO LTDA CAPITAL POLITICA",
+            "totalTransacionado": 37000,
+            "scoreSuspeicao": 52.12923342354945,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "22515573000190",
+            "nome": "J C COMUNICAÇÃO LTDA ME",
+            "totalTransacionado": 22000,
+            "scoreSuspeicao": 51.15201360249395,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "28962281000182",
+            "nome": "BRUNO PINHEIRO DA SILVA 05197897171",
+            "totalTransacionado": 10500,
+            "scoreSuspeicao": 47.93356796878382,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "27573330000122",
+            "nome": "ARTitUR F. GARCIA E SILVA",
+            "totalTransacionado": 10000,
+            "scoreSuspeicao": 47.4961770023428,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "49682953000176",
+            "nome": "49.682.953 THIAGO MARTINS DA SILVA",
+            "totalTransacionado": 8700,
+            "scoreSuspeicao": 49.32786039781878,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "18804888000180",
+            "nome": "BRASIL ONE SERVICOS DE TECNOLOGIA DA INFORMACAO LTDA DEXATEC",
+            "totalTransacionado": 8100,
+            "scoreSuspeicao": 36.65703177122725,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "25422642000100",
+            "nome": "Instituto Brasileiro de Assessoria Institucional - IBRASSI",
+            "totalTransacionado": 6000,
+            "scoreSuspeicao": 54.599880988546715,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "08414945000161",
+            "nome": "MT360 CONSULTORIA E COMUNICACAO LTDA",
+            "totalTransacionado": 3400,
+            "scoreSuspeicao": 48.138821295673495,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "49311629000141",
+            "nome": "BR Solucoes Tecnicas e Administrativas Ltda",
+            "totalTransacionado": 3350,
+            "scoreSuspeicao": 48.97959751734558,
+            "numeroDeputados": 1
+          }
+        ],
+        "distribuicaoScore": {
+          "critico": 0,
+          "alto": 0,
+          "medio": 12,
+          "baixo": 1
+        },
+        "evolucaoTemporal": {},
+        "estatisticas": {},
+        "percentualDoTotal": 22.971814965829743
+      },
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "nome": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "fornecedores": [
+          {
+            "cnpj": "09001879000322",
+            "nome": "COMERCIAL AMAZONIA 02 DE PETROLEO EIRELI",
+            "totalTransacionado": 15162.999999999996,
+            "scoreSuspeicao": 66.35492876428268,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00306597007614",
+            "nome": "076 - MELHOR 10 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+            "totalTransacionado": 14832.85,
+            "scoreSuspeicao": 68.28406919532918,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "04825223000572",
+            "nome": "RENASCENCA  - LOS ANGELES",
+            "totalTransacionado": 8976.650000000001,
+            "scoreSuspeicao": 73.69857335184207,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "10679515000113",
+            "nome": "V Rocha Bevilacqua",
+            "totalTransacionado": 5974.650000000001,
+            "scoreSuspeicao": 45.82449927040958,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00306597006308",
+            "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+            "totalTransacionado": 4910.670000000001,
+            "scoreSuspeicao": 54.99025934392077,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "29032820000147",
+            "nome": "BELIZE COMPANY AUTO POSTO LTDA",
+            "totalTransacionado": 4759.38,
+            "scoreSuspeicao": 48.18607722400613,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09001879002619",
+            "nome": "COMERCIAL AMAZONIA 24 DE PETROLEO EIRELI",
+            "totalTransacionado": 3437.77,
+            "scoreSuspeicao": 48.78446448624302,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "30584450000130",
+            "nome": "DELCARO COMERCIO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 2970.7999999999997,
+            "scoreSuspeicao": 51.04752750053305,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "07687116000190",
+            "nome": "PAPAI AUTO POSTO CUIABA LTDA",
+            "totalTransacionado": 2682.6699999999996,
+            "scoreSuspeicao": 47.88705161376066,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09001879000675",
+            "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+            "totalTransacionado": 2540.78,
+            "scoreSuspeicao": 48.47599513675006,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "02896716000144",
+            "nome": "D E CERUTTI & CIA LTDA",
+            "totalTransacionado": 1962.2299999999998,
+            "scoreSuspeicao": 54.645157231736206,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "73468951000163",
+            "nome": "AUTO POSTO SAO CHARBEL LTDA",
+            "totalTransacionado": 1942.33,
+            "scoreSuspeicao": 54.85729470238897,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "05961536000197",
+            "nome": "R C COMERCIO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 1676.6999999999998,
+            "scoreSuspeicao": 46.69490699557793,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09001879001728",
+            "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+            "totalTransacionado": 1533.1799999999998,
+            "scoreSuspeicao": 45.38930277114485,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "02869615000184",
+            "nome": "BOM CLIMA COMERCIO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 1434.07,
+            "scoreSuspeicao": 47.929943052102566,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "08455945000100",
+            "nome": "Paulo Andreis e Cia Ltda",
+            "totalTransacionado": 1270.72,
+            "scoreSuspeicao": 50.42394611038682,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "08864565000129",
+            "nome": "MATRIX POSTOS DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 1217.8799999999999,
+            "scoreSuspeicao": 49.06651029953978,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "01877629000187",
+            "nome": "COM. DE COMB. STA EDWIGES LTDA",
+            "totalTransacionado": 1200.8999999999999,
+            "scoreSuspeicao": 46.95844566566538,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "27098262000197",
+            "nome": "Lbf - Comercio de Combustiveis Ltda",
+            "totalTransacionado": 1165.58,
+            "scoreSuspeicao": 53.592477161666025,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "01418827000263",
+            "nome": "REDE DE POSTOS SANTA MARIA LTDA (POSTO XV)",
+            "totalTransacionado": 1164.37,
+            "scoreSuspeicao": 47.28796318414316,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "02823845000102",
+            "nome": "BOSQUE DA SAUDE COM COMB LTDA",
+            "totalTransacionado": 1034.6599999999999,
+            "scoreSuspeicao": 51.09531346060695,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "47377960000139",
+            "nome": "Pasadena Combustiveis Ltda",
+            "totalTransacionado": 1025.6200000000001,
+            "scoreSuspeicao": 46.71423080746443,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "19495968000164",
+            "nome": "REDE DE POSTOS CONTI COMIGO LTDA",
+            "totalTransacionado": 992.3299999999999,
+            "scoreSuspeicao": 54.1850999543022,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "32195248000141",
+            "nome": "FORT COMBUSTIVEIS LTDA",
+            "totalTransacionado": 959.1600000000001,
+            "scoreSuspeicao": 48.0209871701454,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "49348385000171",
+            "nome": "COMANDANTE COSTA II STOCK COMBUSTIVEIS LTDA",
+            "totalTransacionado": 881.44,
+            "scoreSuspeicao": 52.19334973609075,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00816009000256",
+            "nome": "AUTO POSTO DRACENA LTDA",
+            "totalTransacionado": 843.4200000000001,
+            "scoreSuspeicao": 49.77001097926107,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "24702153000149",
+            "nome": "SAIDA SUL POSTOS E SERVICOS LTDA",
+            "totalTransacionado": 806.01,
+            "scoreSuspeicao": 46.96657754830954,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09001879003186",
+            "nome": "COMERCIAL AMAZONIA 26 DE PETROLEO LTDA",
+            "totalTransacionado": 770.02,
+            "scoreSuspeicao": 49.29576521532877,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "05310091000185",
+            "nome": "AUTO POSTO CONQUISTA DE ITAPIRAPUA LTDA",
+            "totalTransacionado": 724.79,
+            "scoreSuspeicao": 51.38012407193358,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "22611652000286",
+            "nome": "REDE AMERICA DE COMBUSTIVEIS JK LTDA",
+            "totalTransacionado": 691.6200000000001,
+            "scoreSuspeicao": 53.188482292537245,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "04813224000173",
+            "nome": "D JUNIOR DE SOUSA",
+            "totalTransacionado": 656.48,
+            "scoreSuspeicao": 49.65614734356357,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "11512642000196",
+            "nome": "AGUIA BRANCA COMERCIO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 651.72,
+            "scoreSuspeicao": 50.990823366493466,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "03023665000109",
+            "nome": "COMERCIAL DE PETROLEO F CORREA LTDA",
+            "totalTransacionado": 614.74,
+            "scoreSuspeicao": 47.685486971262975,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "05696453000118",
+            "nome": "EL ELION COMERCIO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 602.4300000000001,
+            "scoreSuspeicao": 54.47278352839386,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "32962458000118",
+            "nome": "AUTO POSTO BUGRENSE LTDA",
+            "totalTransacionado": 588.04,
+            "scoreSuspeicao": 48.942467318396695,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "13151920000233",
+            "nome": "DEM & DEM COMERCIO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 584.81,
+            "scoreSuspeicao": 51.47193917682668,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "43862738000170",
+            "nome": "PORTO AUTO POSTO CUIABA LTDA",
+            "totalTransacionado": 553.71,
+            "scoreSuspeicao": 51.27273121416426,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "37457686000154",
+            "nome": "NC AUTO POSTO LTDA",
+            "totalTransacionado": 551.76,
+            "scoreSuspeicao": 48.37345984127888,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "44658468000143",
+            "nome": "POSTO DE COMBUSTIVEIS ALVORADA DE PRIMAVERA LTDA",
+            "totalTransacionado": 527.52,
+            "scoreSuspeicao": 52.81659139098462,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09233622000134",
+            "nome": "AUTO POSTO FLORAIS ME",
+            "totalTransacionado": 472.16,
+            "scoreSuspeicao": 50.36642231122582,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "37519949000102",
+            "nome": "MORADA AUTO POSTO LTDA",
+            "totalTransacionado": 466.25,
+            "scoreSuspeicao": 52.48293130941347,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09001879002708",
+            "nome": "COMERCIAL AMAZONIA 22 DE PETROLEO EIRELI",
+            "totalTransacionado": 450.46,
+            "scoreSuspeicao": 45.25744394543068,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "12855890000100",
+            "nome": "NILVO PAULO PEZZINI - EPP",
+            "totalTransacionado": 436.4,
+            "scoreSuspeicao": 45.87936588419835,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00692418000611",
+            "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+            "totalTransacionado": 430.36,
+            "scoreSuspeicao": 52.203424098832755,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "05324187000100",
+            "nome": "POSTO TABOCAO VI LTDA",
+            "totalTransacionado": 380.04,
+            "scoreSuspeicao": 49.61793249405872,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "04111378000113",
+            "nome": "REDE DE POSTOS 3R LTDA",
+            "totalTransacionado": 378.54,
+            "scoreSuspeicao": 49.42216893928853,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "02358595000187",
+            "nome": "Auto Posto N01 Ltda",
+            "totalTransacionado": 369.28,
+            "scoreSuspeicao": 47.81024659308273,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00746278000102",
+            "nome": "AUTO POSTO CHAVES LTDA",
+            "totalTransacionado": 364.56,
+            "scoreSuspeicao": 50.40163505339237,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "04219324000176",
+            "nome": "MAHLE RIO VERDE COMERCIO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 357.6,
+            "scoreSuspeicao": 52.70185187595538,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09001879001051",
+            "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+            "totalTransacionado": 346.90000000000003,
+            "scoreSuspeicao": 52.740106452149114,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "31958062000134",
+            "nome": "POSTO PREMIUM PASSEIO DAS AGUAS LTDA",
+            "totalTransacionado": 335.78,
+            "scoreSuspeicao": 45.47961750486042,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "30435188000161",
+            "nome": "JTM COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+            "totalTransacionado": 331.73,
+            "scoreSuspeicao": 46.30571627468274,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00306597002655",
+            "nome": "026 - P WAY - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+            "totalTransacionado": 327.5,
+            "scoreSuspeicao": 54.639389257395756,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "03449173000180",
+            "nome": "COMERCIAL DE COMBUSTIVEIS SHOPING LTDA",
+            "totalTransacionado": 324.05,
+            "scoreSuspeicao": 47.38119559142174,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "03207363000190",
+            "nome": "PARADISE AUTO POSTO CUIABA LTDA",
+            "totalTransacionado": 318.06,
+            "scoreSuspeicao": 48.93555841292293,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09001879003267",
+            "nome": "COMERCIAL AMAZONIA 27 DE PETROLEO LTDA",
+            "totalTransacionado": 311.96,
+            "scoreSuspeicao": 47.29242350772901,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "36917948000153",
+            "nome": "HAMERSKI COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+            "totalTransacionado": 309.26,
+            "scoreSuspeicao": 51.71862424119506,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09424309000183",
+            "nome": "AUTO POSTO BACABA LTDA",
+            "totalTransacionado": 309.09000000000003,
+            "scoreSuspeicao": 52.76035068010313,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "08202116000115",
+            "nome": "AUTO POSTO AEROPORTO LTDA",
+            "totalTransacionado": 305.57,
+            "scoreSuspeicao": 54.204142243253784,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "19046218002159",
+            "nome": "DECIO COM. E SERV. ROD. LTDA  RIO VERDE   POSTO",
+            "totalTransacionado": 298.15,
+            "scoreSuspeicao": 46.72625980298916,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "08399617000567",
+            "nome": "SUELMEI CAMPOS BARBOSA EIRELI  F1  ROSARIO",
+            "totalTransacionado": 296.35,
+            "scoreSuspeicao": 53.90602742168599,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "01315645000186",
+            "nome": "PERIOLI AUTO POSTO LTDA",
+            "totalTransacionado": 290.02,
+            "scoreSuspeicao": 54.795238207925614,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "13572350000174",
+            "nome": "MATO GROSSO COMERCIO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 282.96000000000004,
+            "scoreSuspeicao": 53.80491661118825,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "39007232000107",
+            "nome": "JET 7 POSTOS E SERVIÇOS LTDA",
+            "totalTransacionado": 279.96,
+            "scoreSuspeicao": 51.487288730699284,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00692418000700",
+            "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+            "totalTransacionado": 274.54999999999995,
+            "scoreSuspeicao": 53.77312568982054,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "11356195000123",
+            "nome": "RDK COMERCIO DE COMBUSTIVEIS LTDA EPP",
+            "totalTransacionado": 273.43,
+            "scoreSuspeicao": 50.469039922022944,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "36195839000170",
+            "nome": "AUTO POSTO TCHE EIRELI",
+            "totalTransacionado": 267.65,
+            "scoreSuspeicao": 48.657166106166926,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "01824173000197",
+            "nome": "GONCALVES E GONCALVES AUTO POSTO CUIABA LTDA",
+            "totalTransacionado": 264.49,
+            "scoreSuspeicao": 51.2691416682099,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "36961837000144",
+            "nome": "COMBUSTIVEIS E LUBRIFICANTES BUSSOLARO LTDA",
+            "totalTransacionado": 262.03,
+            "scoreSuspeicao": 50.34823538610617,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "47261348000104",
+            "nome": "AMIGAO COMERCIO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 257.03,
+            "scoreSuspeicao": 53.43166480087631,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "37436110000100",
+            "nome": "AUTO POSTO VILLA LTDA",
+            "totalTransacionado": 256.05,
+            "scoreSuspeicao": 47.73262612852575,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09001879000403",
+            "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+            "totalTransacionado": 250.5,
+            "scoreSuspeicao": 51.170932492745976,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00647440000135",
+            "nome": "AUTO SHOPPING QL 06 COMERCIO DE DERIV DE PETROLEO LTDA",
+            "totalTransacionado": 244.61,
+            "scoreSuspeicao": 49.83464863897319,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "01343305000169",
+            "nome": "Comercial de Derivados de Petroleo Souza Lima Ltda",
+            "totalTransacionado": 241.22,
+            "scoreSuspeicao": 47.47487753935629,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "19967950000380",
+            "nome": "L. Lucia Kuhn & Cia Ltda - AUTO POSTO ARAGUAIA",
+            "totalTransacionado": 239.97,
+            "scoreSuspeicao": 52.44481107239856,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "52009802000166",
+            "nome": "POSTO PIONEIRO",
+            "totalTransacionado": 237.26,
+            "scoreSuspeicao": 50.40252248469479,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "03189859000502",
+            "nome": "POSTO PEDRO NECA LTDA",
+            "totalTransacionado": 233.61,
+            "scoreSuspeicao": 49.67506919887849,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00306597006995",
+            "nome": "069 - PENISULA - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+            "totalTransacionado": 231.14,
+            "scoreSuspeicao": 47.588546063748765,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00781054000131",
+            "nome": "LOCATELLI DERIVADOS DE PETROLEO LTDA",
+            "totalTransacionado": 229.09,
+            "scoreSuspeicao": 45.98349579843804,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "05000684000226",
+            "nome": "AUTO POSTO PETER PAN 01 LTDA",
+            "totalTransacionado": 227.75,
+            "scoreSuspeicao": 46.074745231767565,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00661986000140",
+            "nome": "Auto Posto Zandonadi Ltda",
+            "totalTransacionado": 225.19,
+            "scoreSuspeicao": 53.696413971889065,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "54268944000173",
+            "nome": "PETRO CHAPADAO COMERCIO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 221.38,
+            "scoreSuspeicao": 47.13562030551634,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "11806721000100",
+            "nome": "URSO AUTO POSTO LTDA",
+            "totalTransacionado": 217.7,
+            "scoreSuspeicao": 49.44510300801412,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09001879001213",
+            "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+            "totalTransacionado": 217,
+            "scoreSuspeicao": 46.65780001168956,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "53690958000118",
+            "nome": "COMERCIO DE COMBUSTIVEIS ITALIA LTDA",
+            "totalTransacionado": 216.43,
+            "scoreSuspeicao": 45.35280614924339,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00045617000123",
+            "nome": "VALDIVINO BARBOSA  SILVA - O GOIANO",
+            "totalTransacionado": 212.99,
+            "scoreSuspeicao": 47.839625723506096,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09001879002295",
+            "nome": "COMERCIAL AMAZONIA 18 DE PETROLEO EIRELI",
+            "totalTransacionado": 204.96,
+            "scoreSuspeicao": 50.56256237657666,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "19607718000179",
+            "nome": "LOS PAMPAS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+            "totalTransacionado": 192.04,
+            "scoreSuspeicao": 51.102475117276875,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "10841600000136",
+            "nome": "POSTO NOVA COQUEIRAL LTDA",
+            "totalTransacionado": 191.02,
+            "scoreSuspeicao": 45.53810632871069,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "31125563000130",
+            "nome": "IDEAL COMERCIO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 190.91,
+            "scoreSuspeicao": 49.775659396996105,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "32255216000194",
+            "nome": "AMD COMERCIO VAREJO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 188.14,
+            "scoreSuspeicao": 46.10747617675448,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "33977940000194",
+            "nome": "POSTO DE COMBUSTIVEL CEASA LTDA",
+            "totalTransacionado": 186.09,
+            "scoreSuspeicao": 45.64683469185235,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "02896671001937",
+            "nome": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
+            "totalTransacionado": 183.85,
+            "scoreSuspeicao": 52.24426255751775,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "73824732000170",
+            "nome": "AUTO POSTO SAO LUIS LTDA",
+            "totalTransacionado": 180.03,
+            "scoreSuspeicao": 51.13261565773655,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "05202886000170",
+            "nome": "POSTO TERRA SANTA DE JUSSARA LTDA",
+            "totalTransacionado": 176.24,
+            "scoreSuspeicao": 52.577267617981526,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09001879001485",
+            "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+            "totalTransacionado": 168.1,
+            "scoreSuspeicao": 54.610023621084395,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "07687669000142",
+            "nome": "TCD COMERCIO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 168.04,
+            "scoreSuspeicao": 49.796362185789285,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "33611070000135",
+            "nome": "POSTO SETE MILHAS LTDA",
+            "totalTransacionado": 168.03,
+            "scoreSuspeicao": 54.59509497101253,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "31141819000100",
+            "nome": "Rodobrás Combustíveis",
+            "totalTransacionado": 166.32999999999998,
+            "scoreSuspeicao": 49.788377822290514,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "05454390000193",
+            "nome": "GOES COMBUSTIVEIS, LUBRIFICANTES E GLP LTDA",
+            "totalTransacionado": 159.47,
+            "scoreSuspeicao": 51.558584497179154,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "36280645000172",
+            "nome": "POSTO JULIO CAMPOS LTDA",
+            "totalTransacionado": 157.05,
+            "scoreSuspeicao": 48.25751131374616,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "03113522000350",
+            "nome": "AUTO POSTO SP 400",
+            "totalTransacionado": 152,
+            "scoreSuspeicao": 54.096472333283195,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "47215463000134",
+            "nome": "POSTO DE COMBUSTIVEIS ABASTECE TERESINA LTDA",
+            "totalTransacionado": 151.81,
+            "scoreSuspeicao": 51.12470971475246,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "06240490000180",
+            "nome": "POSTO ARCO IRIS",
+            "totalTransacionado": 148.62,
+            "scoreSuspeicao": 48.76617664366412,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "33486425000101",
+            "nome": "MAXIMUM COMERCIO VAREJISTA DE DERIVADOS DE PETROLEO LTDA",
+            "totalTransacionado": 146.44,
+            "scoreSuspeicao": 53.82472444595554,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "05391756000122",
+            "nome": "COMERCIAL DE COMBUSTIVEIS PARAISO EIRELI",
+            "totalTransacionado": 144.01,
+            "scoreSuspeicao": 52.79536920534852,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "31396703000104",
+            "nome": "AUTO POSTO NA SERRA LTDA",
+            "totalTransacionado": 141,
+            "scoreSuspeicao": 54.74293973288546,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "32590257000137",
+            "nome": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+            "totalTransacionado": 138.02,
+            "scoreSuspeicao": 48.09910631904186,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "32949042000160",
+            "nome": "J Martins de Almeida",
+            "totalTransacionado": 138,
+            "scoreSuspeicao": 51.20229638868933,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "23891404000118",
+            "nome": "REDE MAIS COMERCIO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 135.48,
+            "scoreSuspeicao": 53.412213357719125,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "32958977000102",
+            "nome": "MEINKE&CIA",
+            "totalTransacionado": 133.03,
+            "scoreSuspeicao": 53.784618866945586,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "33971293000103",
+            "nome": "POSTO DE COMBUSTIVEL 406 NORTE LTDA",
+            "totalTransacionado": 132.75,
+            "scoreSuspeicao": 46.36345442266475,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "13151920000152",
+            "nome": "DEM E DEM COMERCIO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 132.69,
+            "scoreSuspeicao": 48.41089297169993,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "42424125000199",
+            "nome": "POSTO SANTA LUZIA IX LTDA",
+            "totalTransacionado": 132.01,
+            "scoreSuspeicao": 54.48318952353866,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "18643226000176",
+            "nome": "PALMAS AUTO POSTO CUIABA LTDA",
+            "totalTransacionado": 130.29,
+            "scoreSuspeicao": 51.411986225193324,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "08667423000252",
+            "nome": "G.J.G. DERIVADOS DE PETROLEO LTDA",
+            "totalTransacionado": 128.05,
+            "scoreSuspeicao": 53.627011045157914,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "08864907000100",
+            "nome": "Moreira Alvares Ltda",
+            "totalTransacionado": 126.15,
+            "scoreSuspeicao": 53.180890745073064,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "08399617000214",
+            "nome": "SUELMEI CAMPOS BARBOSA EIRELI  F2  IPIRANGA",
+            "totalTransacionado": 125.07,
+            "scoreSuspeicao": 51.302012731068004,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "06248123000122",
+            "nome": "DIAS BLANCO COMERCIO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 124.4,
+            "scoreSuspeicao": 48.52847582820539,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "14402491000101",
+            "nome": "Posto Continental Inhumas Ltda",
+            "totalTransacionado": 120,
+            "scoreSuspeicao": 47.16837987957447,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "31141819000283",
+            "nome": "RODOBRAS COMBUSTIVEIS LTDA",
+            "totalTransacionado": 119.5,
+            "scoreSuspeicao": 50.93952087784665,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "11141960000198",
+            "nome": "EL SHADDAY COM DE COMBUSTIVEIS, LUBRIFICANTES E TRANSP LTDA",
+            "totalTransacionado": 115.77,
+            "scoreSuspeicao": 50.531308448984674,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "41341948000198",
+            "nome": "R13 CALDAS NOVAS II DERIVADOS DE PETROLEO LTDA",
+            "totalTransacionado": 110.51,
+            "scoreSuspeicao": 50.74794811702326,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "15501715000103",
+            "nome": "LESTE COMERCIO DE PETROLEO E DERIVADOS LTDA",
+            "totalTransacionado": 110.26,
+            "scoreSuspeicao": 51.78695645994608,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "20132196000185",
+            "nome": "ALE COMERCIO DE COMBUSTIVEL LTDA - EPP",
+            "totalTransacionado": 100,
+            "scoreSuspeicao": 53.71214916390227,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "37878956000109",
+            "nome": "POSTO CACIQUE LTDA",
+            "totalTransacionado": 100,
+            "scoreSuspeicao": 52.131306824953626,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "16990682000167",
+            "nome": "J. CAVALHEIRO COMERCIO ME",
+            "totalTransacionado": 100,
+            "scoreSuspeicao": 52.02909446942451,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "47134227000193",
+            "nome": "POSTO ANTONELLI NOTA 10 LTDA",
+            "totalTransacionado": 100,
+            "scoreSuspeicao": 54.60151361281142,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09001879001302",
+            "nome": "COMERCIAL AMAZONIA 04 DE PETROLEO EIRELI",
+            "totalTransacionado": 99.45,
+            "scoreSuspeicao": 46.66971565617303,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "30536603000173",
+            "nome": "DENICOLO COMERCIO DE COMBUSTIVEIS LTDA  REDE SAO PAULO F1",
+            "totalTransacionado": 99.42,
+            "scoreSuspeicao": 45.12975328450924,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "27165787000106",
+            "nome": "A C F SILVA GATTO & CIA LTDA",
+            "totalTransacionado": 90.63,
+            "scoreSuspeicao": 46.7403641103669,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "18148531000191",
+            "nome": "COMERCIO DE COMBUSTIVEIS CARMELITANO LTDA",
+            "totalTransacionado": 90,
+            "scoreSuspeicao": 54.90544381490629,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "27744555000102",
+            "nome": "COMERCIAL 364 DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 86.03,
+            "scoreSuspeicao": 45.42129717770327,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "04268312000131",
+            "nome": "POSTO ALDO JATAI",
+            "totalTransacionado": 82.87,
+            "scoreSuspeicao": 49.118348478631845,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "27427265000127",
+            "nome": "PRIME COMERCIO DE COMBUSTIVEIS EIRELI - ME",
+            "totalTransacionado": 76,
+            "scoreSuspeicao": 53.879409837682616,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "37421368000133",
+            "nome": "Palo Alto Combustiveis Ltda",
+            "totalTransacionado": 74.86,
+            "scoreSuspeicao": 50.03553771556056,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "97550180000117",
+            "nome": "POSTO LEBLON LTDA-EPP",
+            "totalTransacionado": 72.85,
+            "scoreSuspeicao": 51.95616530822843,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "11773930000102",
+            "nome": "WJM COMERCIO DE COMB. E LUB. LTDA -EPP-LTD",
+            "totalTransacionado": 50,
+            "scoreSuspeicao": 45.79403333605867,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "10827927000153",
+            "nome": "BURITI COM.DE DERIVADOS DE PET LTDA",
+            "totalTransacionado": 30.9,
+            "scoreSuspeicao": 52.776075676569164,
+            "numeroDeputados": 1
+          }
+        ],
+        "totalFornecedores": 139,
+        "valorTotal": 115920.68999999996,
+        "mediaValorPorFornecedor": 833.9617985611508,
+        "top10Fornecedores": [
+          {
+            "cnpj": "09001879000322",
+            "nome": "COMERCIAL AMAZONIA 02 DE PETROLEO EIRELI",
+            "totalTransacionado": 15162.999999999996,
+            "scoreSuspeicao": 66.35492876428268,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00306597007614",
+            "nome": "076 - MELHOR 10 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+            "totalTransacionado": 14832.85,
+            "scoreSuspeicao": 68.28406919532918,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "04825223000572",
+            "nome": "RENASCENCA  - LOS ANGELES",
+            "totalTransacionado": 8976.650000000001,
+            "scoreSuspeicao": 73.69857335184207,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "10679515000113",
+            "nome": "V Rocha Bevilacqua",
+            "totalTransacionado": 5974.650000000001,
+            "scoreSuspeicao": 45.82449927040958,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00306597006308",
+            "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+            "totalTransacionado": 4910.670000000001,
+            "scoreSuspeicao": 54.99025934392077,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "29032820000147",
+            "nome": "BELIZE COMPANY AUTO POSTO LTDA",
+            "totalTransacionado": 4759.38,
+            "scoreSuspeicao": 48.18607722400613,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09001879002619",
+            "nome": "COMERCIAL AMAZONIA 24 DE PETROLEO EIRELI",
+            "totalTransacionado": 3437.77,
+            "scoreSuspeicao": 48.78446448624302,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "30584450000130",
+            "nome": "DELCARO COMERCIO DE COMBUSTIVEIS LTDA",
+            "totalTransacionado": 2970.7999999999997,
+            "scoreSuspeicao": 51.04752750053305,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "07687116000190",
+            "nome": "PAPAI AUTO POSTO CUIABA LTDA",
+            "totalTransacionado": 2682.6699999999996,
+            "scoreSuspeicao": 47.88705161376066,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09001879000675",
+            "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+            "totalTransacionado": 2540.78,
+            "scoreSuspeicao": 48.47599513675006,
+            "numeroDeputados": 1
+          }
+        ],
+        "distribuicaoScore": {
+          "critico": 0,
+          "alto": 3,
+          "medio": 136,
+          "baixo": 0
+        },
+        "evolucaoTemporal": {},
+        "estatisticas": {},
+        "percentualDoTotal": 17.442252187013228
+      },
+      "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+        "nome": "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "fornecedores": [
+          {
+            "cnpj": "04050579000158",
+            "nome": "IBIS Hotels",
+            "totalTransacionado": 3867.7599999999998,
+            "scoreSuspeicao": 54.475576113788165,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "10473920000180",
+            "nome": "ALFA EMPREENDIMENTOS HOTELEIROS SA",
+            "totalTransacionado": 1831.9499999999998,
+            "scoreSuspeicao": 49.793225054637816,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "48756962000100",
+            "nome": "ODARA BARRA DO GARÇAS SERVICOS EM HOTELARIA",
+            "totalTransacionado": 1402,
+            "scoreSuspeicao": 47.61981888143203,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "10199055000126",
+            "nome": "HOTEL COLOMBO",
+            "totalTransacionado": 1245,
+            "scoreSuspeicao": 47.851078931969774,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "17329009000143",
+            "nome": "VIE HOTEL LTDA",
+            "totalTransacionado": 1129.75,
+            "scoreSuspeicao": 50.67379277612336,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "41825513000119",
+            "nome": "TRANSAMERICA COMERCIAL E SERVIÇOS LTDA SCP",
+            "totalTransacionado": 1084.6,
+            "scoreSuspeicao": 48.94783646209278,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09967852005196",
+            "nome": "Hotelaria Accor Brasil S/A",
+            "totalTransacionado": 1001.72,
+            "scoreSuspeicao": 46.03227321048006,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00469171000164",
+            "nome": "HOTEL PHENICIA LTDA",
+            "totalTransacionado": 957.2,
+            "scoreSuspeicao": 51.993289987650186,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "15269710000199",
+            "nome": "HOTEIS LA SIESTA LTDA",
+            "totalTransacionado": 913.5,
+            "scoreSuspeicao": 49.33580798907066,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00480608000160",
+            "nome": "MARCO MARCHETTI S/A HOTEIS",
+            "totalTransacionado": 867.14,
+            "scoreSuspeicao": 48.75276412046081,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "01267079000184",
+            "nome": "HOTEL HAVAÍ",
+            "totalTransacionado": 760,
+            "scoreSuspeicao": 46.81889840160341,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "80732928004782",
+            "nome": "atrio hoteis s. a.",
+            "totalTransacionado": 640.5,
+            "scoreSuspeicao": 49.79825021581016,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "08670169000160",
+            "nome": "HOTEL - J.D.F. LTDA",
+            "totalTransacionado": 607.5,
+            "scoreSuspeicao": 53.960748241534844,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "10466992000109",
+            "nome": "MR SERVICOS TURISTICOS LTDA",
+            "totalTransacionado": 600.3,
+            "scoreSuspeicao": 50.17482720391922,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "33434356000192",
+            "nome": "GRAN BARRA HOTELARIA LTDA",
+            "totalTransacionado": 566.5,
+            "scoreSuspeicao": 46.92171797669201,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "41820336000188",
+            "nome": "transamerica primavera do leste -scp",
+            "totalTransacionado": 506.1,
+            "scoreSuspeicao": 45.75798519330091,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "01869601000106",
+            "nome": "AVENIDA PALACE HOTEL LTDA",
+            "totalTransacionado": 497.68,
+            "scoreSuspeicao": 49.1421168037226,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "03439239000150",
+            "nome": "ODARA BARRA DO GARÇAS SERVICOS EM HOTELARIA",
+            "totalTransacionado": 480,
+            "scoreSuspeicao": 49.99499846080154,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "11360311000188",
+            "nome": "HOTEL BELLA PAULISTA LTDA",
+            "totalTransacionado": 460,
+            "scoreSuspeicao": 54.65203343217321,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09813461000158",
+            "nome": "Sandro Rodrigues de Oliveira",
+            "totalTransacionado": 440,
+            "scoreSuspeicao": 49.01288193862987,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "01292739000349",
+            "nome": "DELCARO E CIA LTDA",
+            "totalTransacionado": 360,
+            "scoreSuspeicao": 53.07024855491779,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "18631967000218",
+            "nome": "IBIS BUDGET COPACABANA",
+            "totalTransacionado": 329.99,
+            "scoreSuspeicao": 54.364497158082415,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "52603129000198",
+            "nome": "JF HOTEIS E EVENTOS LTDA",
+            "totalTransacionado": 304.5,
+            "scoreSuspeicao": 51.80247935864766,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "37841433000180",
+            "nome": "MAISON HOTEL LTDA",
+            "totalTransacionado": 297,
+            "scoreSuspeicao": 48.03297741296411,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "30594269000104",
+            "nome": "ITALIAN PALACE HOTEL LTDA",
+            "totalTransacionado": 290,
+            "scoreSuspeicao": 49.76429421218489,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09397805000195",
+            "nome": "F G ZANIBONI HOTEL EIRELI-EPP",
+            "totalTransacionado": 264.71,
+            "scoreSuspeicao": 48.020996031887336,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "43019209000100",
+            "nome": "GIOVANNA LEONEL DA SILVA LTDA",
+            "totalTransacionado": 250,
+            "scoreSuspeicao": 54.83815160289633,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "15043920000164",
+            "nome": "JOSEPH YACOUB ABBOUDI E CIA LTDA",
+            "totalTransacionado": 180,
+            "scoreSuspeicao": 49.70452325811763,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "32083466000194",
+            "nome": "CRUZ & CRUZ HOTEL E RESTAURANTE LTDA",
+            "totalTransacionado": 170,
+            "scoreSuspeicao": 50.47395779282394,
+            "numeroDeputados": 1
+          }
+        ],
+        "totalFornecedores": 29,
+        "valorTotal": 22305.399999999998,
+        "mediaValorPorFornecedor": 769.151724137931,
+        "top10Fornecedores": [
+          {
+            "cnpj": "04050579000158",
+            "nome": "IBIS Hotels",
+            "totalTransacionado": 3867.7599999999998,
+            "scoreSuspeicao": 54.475576113788165,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "10473920000180",
+            "nome": "ALFA EMPREENDIMENTOS HOTELEIROS SA",
+            "totalTransacionado": 1831.9499999999998,
+            "scoreSuspeicao": 49.793225054637816,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "48756962000100",
+            "nome": "ODARA BARRA DO GARÇAS SERVICOS EM HOTELARIA",
+            "totalTransacionado": 1402,
+            "scoreSuspeicao": 47.61981888143203,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "10199055000126",
+            "nome": "HOTEL COLOMBO",
+            "totalTransacionado": 1245,
+            "scoreSuspeicao": 47.851078931969774,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "17329009000143",
+            "nome": "VIE HOTEL LTDA",
+            "totalTransacionado": 1129.75,
+            "scoreSuspeicao": 50.67379277612336,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "41825513000119",
+            "nome": "TRANSAMERICA COMERCIAL E SERVIÇOS LTDA SCP",
+            "totalTransacionado": 1084.6,
+            "scoreSuspeicao": 48.94783646209278,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "09967852005196",
+            "nome": "Hotelaria Accor Brasil S/A",
+            "totalTransacionado": 1001.72,
+            "scoreSuspeicao": 46.03227321048006,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00469171000164",
+            "nome": "HOTEL PHENICIA LTDA",
+            "totalTransacionado": 957.2,
+            "scoreSuspeicao": 51.993289987650186,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "15269710000199",
+            "nome": "HOTEIS LA SIESTA LTDA",
+            "totalTransacionado": 913.5,
+            "scoreSuspeicao": 49.33580798907066,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "00480608000160",
+            "nome": "MARCO MARCHETTI S/A HOTEIS",
+            "totalTransacionado": 867.14,
+            "scoreSuspeicao": 48.75276412046081,
+            "numeroDeputados": 1
+          }
+        ],
+        "distribuicaoScore": {
+          "critico": 0,
+          "alto": 0,
+          "medio": 29,
+          "baixo": 0
+        },
+        "evolucaoTemporal": {},
+        "estatisticas": {},
+        "percentualDoTotal": 3.356229262715784
+      },
+      "TELEFONIA": {
+        "nome": "TELEFONIA",
+        "fornecedores": [
+          {
+            "cnpj": "02558157000162",
+            "nome": "Telefônica Brasil S.A. VIVO",
+            "totalTransacionado": 1224.6599999999999,
+            "scoreSuspeicao": 36.50160330821587,
+            "numeroDeputados": 1
+          }
+        ],
+        "totalFornecedores": 1,
+        "valorTotal": 1224.6599999999999,
+        "mediaValorPorFornecedor": 1224.6599999999999,
+        "top10Fornecedores": [
+          {
+            "cnpj": "02558157000162",
+            "nome": "Telefônica Brasil S.A. VIVO",
+            "totalTransacionado": 1224.6599999999999,
+            "scoreSuspeicao": 36.50160330821587,
+            "numeroDeputados": 1
+          }
+        ],
+        "distribuicaoScore": {
+          "critico": 0,
+          "alto": 0,
+          "medio": 0,
+          "baixo": 1
+        },
+        "evolucaoTemporal": {},
+        "estatisticas": {},
+        "percentualDoTotal": 0.18427106121735148
+      },
+      "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS": {
+        "nome": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+        "fornecedores": [
+          {
+            "cnpj": "48173150000123",
+            "nome": "VIACAO MOTTA LTDA",
+            "totalTransacionado": 249,
+            "scoreSuspeicao": 51.616937365241746,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "55340921001752",
+            "nome": "VIAÇÃO MOTTA LTDA",
+            "totalTransacionado": 249,
+            "scoreSuspeicao": 48.2123543552211,
+            "numeroDeputados": 1
+          }
+        ],
+        "totalFornecedores": 2,
+        "valorTotal": 498,
+        "mediaValorPorFornecedor": 249,
+        "top10Fornecedores": [
+          {
+            "cnpj": "48173150000123",
+            "nome": "VIACAO MOTTA LTDA",
+            "totalTransacionado": 249,
+            "scoreSuspeicao": 51.616937365241746,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "55340921001752",
+            "nome": "VIAÇÃO MOTTA LTDA",
+            "totalTransacionado": 249,
+            "scoreSuspeicao": 48.2123543552211,
+            "numeroDeputados": 1
+          }
+        ],
+        "distribuicaoScore": {
+          "critico": 0,
+          "alto": 0,
+          "medio": 2,
+          "baixo": 0
+        },
+        "evolucaoTemporal": {},
+        "estatisticas": {},
+        "percentualDoTotal": 0.0749326249622271
+      },
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": {
+        "nome": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+        "fornecedores": [
+          {
+            "cnpj": "35375167000111",
+            "nome": "BSB Comercialização de Carnes Nobres LTDA",
+            "totalTransacionado": 147.7,
+            "scoreSuspeicao": 51.42760708627351,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "32525790000115",
+            "nome": "JP STEAK HOUSE CUIABA BUFFET E RESTAURANTE LTDA",
+            "totalTransacionado": 99.7,
+            "scoreSuspeicao": 49.01820815643527,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "03247760000277",
+            "nome": "MAIA & TAVARES LTDA",
+            "totalTransacionado": 92.85,
+            "scoreSuspeicao": 53.54677688610569,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "33469172000672",
+            "nome": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+            "totalTransacionado": 83.31,
+            "scoreSuspeicao": 45.151074449081975,
+            "numeroDeputados": 1
+          }
+        ],
+        "totalFornecedores": 4,
+        "valorTotal": 423.56,
+        "mediaValorPorFornecedor": 105.89,
+        "top10Fornecedores": [
+          {
+            "cnpj": "35375167000111",
+            "nome": "BSB Comercialização de Carnes Nobres LTDA",
+            "totalTransacionado": 147.7,
+            "scoreSuspeicao": 51.42760708627351,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "32525790000115",
+            "nome": "JP STEAK HOUSE CUIABA BUFFET E RESTAURANTE LTDA",
+            "totalTransacionado": 99.7,
+            "scoreSuspeicao": 49.01820815643527,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "03247760000277",
+            "nome": "MAIA & TAVARES LTDA",
+            "totalTransacionado": 92.85,
+            "scoreSuspeicao": 53.54677688610569,
+            "numeroDeputados": 1
+          },
+          {
+            "cnpj": "33469172000672",
+            "nome": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+            "totalTransacionado": 83.31,
+            "scoreSuspeicao": 45.151074449081975,
+            "numeroDeputados": 1
+          }
+        ],
+        "distribuicaoScore": {
+          "critico": 0,
+          "alto": 0,
+          "medio": 4,
+          "baixo": 0
+        },
+        "evolucaoTemporal": {},
+        "estatisticas": {},
+        "percentualDoTotal": 0.06373185266867654
+      },
+      "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": {
+        "nome": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+        "fornecedores": [
+          {
+            "cnpj": "00687681000108",
+            "nome": "BRASILIA EMPREENDIMENTOS SERVICOS E PARTICIPACOES LTDA",
+            "totalTransacionado": 30,
+            "scoreSuspeicao": 53.736816655537815,
+            "numeroDeputados": 1
+          }
+        ],
+        "totalFornecedores": 1,
+        "valorTotal": 30,
+        "mediaValorPorFornecedor": 30,
+        "top10Fornecedores": [
+          {
+            "cnpj": "00687681000108",
+            "nome": "BRASILIA EMPREENDIMENTOS SERVICOS E PARTICIPACOES LTDA",
+            "totalTransacionado": 30,
+            "scoreSuspeicao": 53.736816655537815,
+            "numeroDeputados": 1
+          }
+        ],
+        "distribuicaoScore": {
+          "critico": 0,
+          "alto": 0,
+          "medio": 1,
+          "baixo": 0
+        },
+        "evolucaoTemporal": {},
+        "estatisticas": {},
+        "percentualDoTotal": 0.004514013551941392
+      }
+    },
+    "detalhes": {
+      "07319323000191": {
+        "dadosBasicos": {
+          "cnpj": "07319323000191",
+          "nome": "PANTANAL VEÍCULOS LTDA",
+          "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "categoriaOriginal": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "totalGeral": 146600,
+          "scoreSuspeicao": 79.53524423623521,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 73300,
+            "numeroTransacoes": 17,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 73300,
+            "numeroTransacoes": 17,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 73300,
+          "2024": 73300
+        },
+        "distribuicaoTipos": {
+          "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": {
+            "valor": 146600,
+            "quantidade": 34
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "crescimento",
+        "alertas": [
+          "Score alto de suspeição"
+        ],
+        "medalhas": []
+      },
+      "12291615000101": {
+        "dadosBasicos": {
+          "cnpj": "12291615000101",
+          "nome": "VYP GESTÃO DE NEGÓCIOS IMOBILIARIOS LTDA",
+          "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "totalGeral": 99840,
+          "scoreSuspeicao": 48.8346373028338,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 49920,
+            "numeroTransacoes": 6,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 49920,
+            "numeroTransacoes": 6,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 49920,
+          "2024": 49920
+        },
+        "distribuicaoTipos": {
+          "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+            "valor": 99840,
+            "quantidade": 12
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "39786983001906": {
+        "dadosBasicos": {
+          "cnpj": "39786983001906",
+          "nome": "GODRIVE",
+          "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "categoriaOriginal": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "totalGeral": 41690,
+          "scoreSuspeicao": 45.106665439892836,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 20845,
+            "numeroTransacoes": 5,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 20845,
+            "numeroTransacoes": 5,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 20845,
+          "2024": 20845
+        },
+        "distribuicaoTipos": {
+          "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": {
+            "valor": 41690,
+            "quantidade": 11
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "42738198000155": {
+        "dadosBasicos": {
+          "cnpj": "42738198000155",
+          "nome": "PAOLA DE ARRUDA FURTADO 03844866140",
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "totalGeral": 37200,
+          "scoreSuspeicao": 46.79555127929396,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 18600,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 18600,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 18600,
+          "2024": 18600
+        },
+        "distribuicaoTipos": {
+          "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+            "valor": 37200,
+            "quantidade": 6
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "50697191000160": {
+        "dadosBasicos": {
+          "cnpj": "50697191000160",
+          "nome": "PINHEIRO ESTRATEGIA E COMUNICACAO LTDA CAPITAL POLITICA",
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "totalGeral": 37000,
+          "scoreSuspeicao": 52.12923342354945,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 18500,
+            "numeroTransacoes": 4,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 18500,
+            "numeroTransacoes": 4,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 18500,
+          "2024": 18500
+        },
+        "distribuicaoTipos": {
+          "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+            "valor": 37000,
+            "quantidade": 8
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "19374791000148": {
+        "dadosBasicos": {
+          "cnpj": "19374791000148",
+          "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
+          "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "categoriaOriginal": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "totalGeral": 25600,
+          "scoreSuspeicao": 47.879127771925454,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 12800,
+            "numeroTransacoes": 2,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 12800,
+            "numeroTransacoes": 2,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 12800,
+          "2024": 12800
+        },
+        "distribuicaoTipos": {
+          "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": {
+            "valor": 25600,
+            "quantidade": 5
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "22515573000190": {
+        "dadosBasicos": {
+          "cnpj": "22515573000190",
+          "nome": "J C COMUNICAÇÃO LTDA ME",
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "totalGeral": 22000,
+          "scoreSuspeicao": 51.15201360249395,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 11000,
+            "numeroTransacoes": 2,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 11000,
+            "numeroTransacoes": 2,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 11000,
+          "2024": 11000
+        },
+        "distribuicaoTipos": {
+          "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+            "valor": 22000,
+            "quantidade": 4
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "03467321000199": {
+        "dadosBasicos": {
+          "cnpj": "03467321000199",
+          "nome": "ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A.",
+          "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "totalGeral": 20519.960000000003,
+          "scoreSuspeicao": 46.80549045616636,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 10259.980000000001,
+            "numeroTransacoes": 9,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 10259.980000000001,
+            "numeroTransacoes": 9,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 10259.980000000001,
+          "2024": 10259.980000000001
+        },
+        "distribuicaoTipos": {
+          "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+            "valor": 20519.960000000003,
+            "quantidade": 19
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "48949641000113": {
+        "dadosBasicos": {
+          "cnpj": "48949641000113",
+          "nome": "BROAD BRASIL LTDA",
+          "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "totalGeral": 19600,
+          "scoreSuspeicao": 36.847590205941806,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 9800,
+            "numeroTransacoes": 10,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 9800,
+            "numeroTransacoes": 10,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 9800,
+          "2024": 9800
+        },
+        "distribuicaoTipos": {
+          "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+            "valor": 17900,
+            "quantidade": 18
+          },
+          "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+            "valor": 1700,
+            "quantidade": 2
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "09001879000322": {
+        "dadosBasicos": {
+          "cnpj": "09001879000322",
+          "nome": "COMERCIAL AMAZONIA 02 DE PETROLEO EIRELI",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 15162.999999999996,
+          "scoreSuspeicao": 66.35492876428268,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 7581.499999999998,
+            "numeroTransacoes": 46,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 7581.499999999998,
+            "numeroTransacoes": 46,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 7581.499999999998,
+          "2024": 7581.499999999998
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 15162.999999999996,
+            "quantidade": 93
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "00306597007614": {
+        "dadosBasicos": {
+          "cnpj": "00306597007614",
+          "nome": "076 - MELHOR 10 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 14832.85,
+          "scoreSuspeicao": 68.28406919532918,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 7416.425,
+            "numeroTransacoes": 34,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 7416.425,
+            "numeroTransacoes": 34,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 7416.425,
+          "2024": 7416.425
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 14832.85,
+            "quantidade": 69
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "28962281000182": {
+        "dadosBasicos": {
+          "cnpj": "28962281000182",
+          "nome": "BRUNO PINHEIRO DA SILVA 05197897171",
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "totalGeral": 10500,
+          "scoreSuspeicao": 47.93356796878382,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 5250,
+            "numeroTransacoes": 1,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 5250,
+            "numeroTransacoes": 1,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 5250,
+          "2024": 5250
+        },
+        "distribuicaoTipos": {
+          "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+            "valor": 10500,
+            "quantidade": 3
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "27573330000122": {
+        "dadosBasicos": {
+          "cnpj": "27573330000122",
+          "nome": "ARTitUR F. GARCIA E SILVA",
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "totalGeral": 10000,
+          "scoreSuspeicao": 47.4961770023428,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 5000,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 5000,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 5000,
+          "2024": 5000
+        },
+        "distribuicaoTipos": {
+          "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+            "valor": 10000,
+            "quantidade": 1
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "04825223000572": {
+        "dadosBasicos": {
+          "cnpj": "04825223000572",
+          "nome": "RENASCENCA  - LOS ANGELES",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 8976.650000000001,
+          "scoreSuspeicao": 73.69857335184207,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 4488.325000000001,
+            "numeroTransacoes": 30,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 4488.325000000001,
+            "numeroTransacoes": 30,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 4488.325000000001,
+          "2024": 4488.325000000001
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 8976.650000000001,
+            "quantidade": 61
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [
+          "Score alto de suspeição"
+        ],
+        "medalhas": []
+      },
+      "49682953000176": {
+        "dadosBasicos": {
+          "cnpj": "49682953000176",
+          "nome": "49.682.953 THIAGO MARTINS DA SILVA",
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "totalGeral": 8700,
+          "scoreSuspeicao": 49.32786039781878,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 4350,
+            "numeroTransacoes": 2,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 4350,
+            "numeroTransacoes": 2,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 4350,
+          "2024": 4350
+        },
+        "distribuicaoTipos": {
+          "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+            "valor": 8700,
+            "quantidade": 4
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "18804888000180": {
+        "dadosBasicos": {
+          "cnpj": "18804888000180",
+          "nome": "BRASIL ONE SERVICOS DE TECNOLOGIA DA INFORMACAO LTDA DEXATEC",
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "totalGeral": 8100,
+          "scoreSuspeicao": 36.65703177122725,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 4050,
+            "numeroTransacoes": 2,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 4050,
+            "numeroTransacoes": 2,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 4050,
+          "2024": 4050
+        },
+        "distribuicaoTipos": {
+          "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+            "valor": 3100,
+            "quantidade": 2
+          },
+          "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+            "valor": 5000,
+            "quantidade": 2
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "25422642000100": {
+        "dadosBasicos": {
+          "cnpj": "25422642000100",
+          "nome": "Instituto Brasileiro de Assessoria Institucional - IBRASSI",
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "totalGeral": 6000,
+          "scoreSuspeicao": 54.599880988546715,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 3000,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 3000,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 3000,
+          "2024": 3000
+        },
+        "distribuicaoTipos": {
+          "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+            "valor": 6000,
+            "quantidade": 1
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "10679515000113": {
+        "dadosBasicos": {
+          "cnpj": "10679515000113",
+          "nome": "V Rocha Bevilacqua",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 5974.650000000001,
+          "scoreSuspeicao": 45.82449927040958,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 2987.3250000000003,
+            "numeroTransacoes": 16,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 2987.3250000000003,
+            "numeroTransacoes": 16,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 2987.3250000000003,
+          "2024": 2987.3250000000003
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 5974.650000000001,
+            "quantidade": 32
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "24311808000158": {
+        "dadosBasicos": {
+          "cnpj": "24311808000158",
+          "nome": "CONDOMÍNIO EDÍFICIL COMERCIAL CONCORDE",
+          "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "totalGeral": 5551.92,
+          "scoreSuspeicao": 45.15079466661382,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 2775.96,
+            "numeroTransacoes": 4,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 2775.96,
+            "numeroTransacoes": 4,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 2775.96,
+          "2024": 2775.96
+        },
+        "distribuicaoTipos": {
+          "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+            "valor": 5551.92,
+            "quantidade": 8
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "00306597006308": {
+        "dadosBasicos": {
+          "cnpj": "00306597006308",
+          "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 4910.670000000001,
+          "scoreSuspeicao": 54.99025934392077,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 2455.3350000000005,
+            "numeroTransacoes": 12,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 2455.3350000000005,
+            "numeroTransacoes": 12,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 2455.3350000000005,
+          "2024": 2455.3350000000005
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 4910.670000000001,
+            "quantidade": 25
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "29032820000147": {
+        "dadosBasicos": {
+          "cnpj": "29032820000147",
+          "nome": "BELIZE COMPANY AUTO POSTO LTDA",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 4759.38,
+          "scoreSuspeicao": 48.18607722400613,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 2379.69,
+            "numeroTransacoes": 11,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 2379.69,
+            "numeroTransacoes": 11,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 2379.69,
+          "2024": 2379.69
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 4759.38,
+            "quantidade": 23
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "04050579000158": {
+        "dadosBasicos": {
+          "cnpj": "04050579000158",
+          "nome": "IBIS Hotels",
+          "categoria": "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "categoriaOriginal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "totalGeral": 3867.7599999999998,
+          "scoreSuspeicao": 54.475576113788165,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 1933.8799999999999,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 1933.8799999999999,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 1933.8799999999999,
+          "2024": 1933.8799999999999
+        },
+        "distribuicaoTipos": {
+          "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+            "valor": 3867.7599999999998,
+            "quantidade": 6
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "39786983000179": {
+        "dadosBasicos": {
+          "cnpj": "39786983000179",
+          "nome": "VD COMERCIO DE VEICULOS LTDA",
+          "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "categoriaOriginal": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "totalGeral": 3790,
+          "scoreSuspeicao": 46.63670728115038,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 1895,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 1895,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 1895,
+          "2024": 1895
+        },
+        "distribuicaoTipos": {
+          "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": {
+            "valor": 3790,
+            "quantidade": 1
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "09001879002619": {
+        "dadosBasicos": {
+          "cnpj": "09001879002619",
+          "nome": "COMERCIAL AMAZONIA 24 DE PETROLEO EIRELI",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 3437.77,
+          "scoreSuspeicao": 48.78446448624302,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 1718.885,
+            "numeroTransacoes": 8,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 1718.885,
+            "numeroTransacoes": 8,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 1718.885,
+          "2024": 1718.885
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 3437.77,
+            "quantidade": 17
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "08414945000161": {
+        "dadosBasicos": {
+          "cnpj": "08414945000161",
+          "nome": "MT360 CONSULTORIA E COMUNICACAO LTDA",
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "totalGeral": 3400,
+          "scoreSuspeicao": 48.138821295673495,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 1700,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 1700,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 1700,
+          "2024": 1700
+        },
+        "distribuicaoTipos": {
+          "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+            "valor": 3400,
+            "quantidade": 1
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "49311629000141": {
+        "dadosBasicos": {
+          "cnpj": "49311629000141",
+          "nome": "BR Solucoes Tecnicas e Administrativas Ltda",
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "totalGeral": 3350,
+          "scoreSuspeicao": 48.97959751734558,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 1675,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 1675,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 1675,
+          "2024": 1675
+        },
+        "distribuicaoTipos": {
+          "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+            "valor": 3350,
+            "quantidade": 1
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "51871108000190": {
+        "dadosBasicos": {
+          "cnpj": "51871108000190",
+          "nome": "51.871.108 FABIO FELIPE DE ALMEIDA",
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "totalGeral": 3000,
+          "scoreSuspeicao": 48.46387640668064,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 1500,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 1500,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 1500,
+          "2024": 1500
+        },
+        "distribuicaoTipos": {
+          "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+            "valor": 3000,
+            "quantidade": 1
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "31283659000126": {
+        "dadosBasicos": {
+          "cnpj": "31283659000126",
+          "nome": "TV GAZETA MATO GROSSO LTDA",
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "totalGeral": 3000,
+          "scoreSuspeicao": 50.52053819480281,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 1500,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 1500,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 1500,
+          "2024": 1500
+        },
+        "distribuicaoTipos": {
+          "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+            "valor": 3000,
+            "quantidade": 1
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "30584450000130": {
+        "dadosBasicos": {
+          "cnpj": "30584450000130",
+          "nome": "DELCARO COMERCIO DE COMBUSTIVEIS LTDA",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 2970.7999999999997,
+          "scoreSuspeicao": 51.04752750053305,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 1485.3999999999999,
+            "numeroTransacoes": 8,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 1485.3999999999999,
+            "numeroTransacoes": 8,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 1485.3999999999999,
+          "2024": 1485.3999999999999
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 2970.7999999999997,
+            "quantidade": 17
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "07687116000190": {
+        "dadosBasicos": {
+          "cnpj": "07687116000190",
+          "nome": "PAPAI AUTO POSTO CUIABA LTDA",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 2682.6699999999996,
+          "scoreSuspeicao": 47.88705161376066,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 1341.3349999999998,
+            "numeroTransacoes": 8,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 1341.3349999999998,
+            "numeroTransacoes": 8,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 1341.3349999999998,
+          "2024": 1341.3349999999998
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 2682.6699999999996,
+            "quantidade": 16
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "09001879000675": {
+        "dadosBasicos": {
+          "cnpj": "09001879000675",
+          "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 2540.78,
+          "scoreSuspeicao": 48.47599513675006,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 1270.39,
+            "numeroTransacoes": 6,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 1270.39,
+            "numeroTransacoes": 6,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 1270.39,
+          "2024": 1270.39
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 2540.78,
+            "quantidade": 13
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "25012398000107": {
+        "dadosBasicos": {
+          "cnpj": "25012398000107",
+          "nome": "Google Cloud Brasil Computação e Serviços de Dados Ltda",
+          "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "totalGeral": 2016,
+          "scoreSuspeicao": 36.67357476880687,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 1008,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 1008,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 1008,
+          "2024": 1008
+        },
+        "distribuicaoTipos": {
+          "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+            "valor": 1344,
+            "quantidade": 4
+          },
+          "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+            "valor": 672,
+            "quantidade": 2
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "02896716000144": {
+        "dadosBasicos": {
+          "cnpj": "02896716000144",
+          "nome": "D E CERUTTI & CIA LTDA",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 1962.2299999999998,
+          "scoreSuspeicao": 54.645157231736206,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 981.1149999999999,
+            "numeroTransacoes": 5,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 981.1149999999999,
+            "numeroTransacoes": 5,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 981.1149999999999,
+          "2024": 981.1149999999999
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 1962.2299999999998,
+            "quantidade": 11
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "73468951000163": {
+        "dadosBasicos": {
+          "cnpj": "73468951000163",
+          "nome": "AUTO POSTO SAO CHARBEL LTDA",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 1942.33,
+          "scoreSuspeicao": 54.85729470238897,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 971.165,
+            "numeroTransacoes": 4,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 971.165,
+            "numeroTransacoes": 4,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 971.165,
+          "2024": 971.165
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 1942.33,
+            "quantidade": 9
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "12132854000100": {
+        "dadosBasicos": {
+          "cnpj": "12132854000100",
+          "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+          "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "totalGeral": 1912.4,
+          "scoreSuspeicao": 49.37048753593068,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 956.2,
+            "numeroTransacoes": 2,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 956.2,
+            "numeroTransacoes": 2,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 956.2,
+          "2024": 956.2
+        },
+        "distribuicaoTipos": {
+          "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+            "valor": 1912.4,
+            "quantidade": 4
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "10473920000180": {
+        "dadosBasicos": {
+          "cnpj": "10473920000180",
+          "nome": "ALFA EMPREENDIMENTOS HOTELEIROS SA",
+          "categoria": "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "categoriaOriginal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "totalGeral": 1831.9499999999998,
+          "scoreSuspeicao": 49.793225054637816,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 915.9749999999999,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 915.9749999999999,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 915.9749999999999,
+          "2024": 915.9749999999999
+        },
+        "distribuicaoTipos": {
+          "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+            "valor": 1831.9499999999998,
+            "quantidade": 6
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "05961536000197": {
+        "dadosBasicos": {
+          "cnpj": "05961536000197",
+          "nome": "R C COMERCIO DE COMBUSTIVEIS LTDA",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 1676.6999999999998,
+          "scoreSuspeicao": 46.69490699557793,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 838.3499999999999,
+            "numeroTransacoes": 4,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 838.3499999999999,
+            "numeroTransacoes": 4,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 838.3499999999999,
+          "2024": 838.3499999999999
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 1676.6999999999998,
+            "quantidade": 9
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "09001879001728": {
+        "dadosBasicos": {
+          "cnpj": "09001879001728",
+          "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 1533.1799999999998,
+          "scoreSuspeicao": 45.38930277114485,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 766.5899999999999,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 766.5899999999999,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 766.5899999999999,
+          "2024": 766.5899999999999
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 1533.1799999999998,
+            "quantidade": 7
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "02869615000184": {
+        "dadosBasicos": {
+          "cnpj": "02869615000184",
+          "nome": "BOM CLIMA COMERCIO DE COMBUSTIVEIS LTDA",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 1434.07,
+          "scoreSuspeicao": 47.929943052102566,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 717.035,
+            "numeroTransacoes": 4,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 717.035,
+            "numeroTransacoes": 4,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 717.035,
+          "2024": 717.035
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 1434.07,
+            "quantidade": 9
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "48756962000100": {
+        "dadosBasicos": {
+          "cnpj": "48756962000100",
+          "nome": "ODARA BARRA DO GARÇAS SERVICOS EM HOTELARIA",
+          "categoria": "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "categoriaOriginal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "totalGeral": 1402,
+          "scoreSuspeicao": 47.61981888143203,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 701,
+            "numeroTransacoes": 2,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 701,
+            "numeroTransacoes": 2,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 701,
+          "2024": 701
+        },
+        "distribuicaoTipos": {
+          "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+            "valor": 1402,
+            "quantidade": 4
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "33488393000183": {
+        "dadosBasicos": {
+          "cnpj": "33488393000183",
+          "nome": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+          "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "categoriaOriginal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "totalGeral": 1373.3500000000001,
+          "scoreSuspeicao": 54.294958220192726,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 686.6750000000001,
+            "numeroTransacoes": 4,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 686.6750000000001,
+            "numeroTransacoes": 4,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 686.6750000000001,
+          "2024": 686.6750000000001
+        },
+        "distribuicaoTipos": {
+          "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+            "valor": 1373.3500000000001,
+            "quantidade": 8
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "08455945000100": {
+        "dadosBasicos": {
+          "cnpj": "08455945000100",
+          "nome": "Paulo Andreis e Cia Ltda",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 1270.72,
+          "scoreSuspeicao": 50.42394611038682,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 635.36,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 635.36,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 635.36,
+          "2024": 635.36
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 1270.72,
+            "quantidade": 6
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "10199055000126": {
+        "dadosBasicos": {
+          "cnpj": "10199055000126",
+          "nome": "HOTEL COLOMBO",
+          "categoria": "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "categoriaOriginal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "totalGeral": 1245,
+          "scoreSuspeicao": 47.851078931969774,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 622.5,
+            "numeroTransacoes": 2,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 622.5,
+            "numeroTransacoes": 2,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 622.5,
+          "2024": 622.5
+        },
+        "distribuicaoTipos": {
+          "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+            "valor": 1245,
+            "quantidade": 5
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "07976147003003": {
+        "dadosBasicos": {
+          "cnpj": "07976147003003",
+          "nome": "MOVIDA aluguel de carros",
+          "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "categoriaOriginal": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "totalGeral": 1235.86,
+          "scoreSuspeicao": 46.48887660239853,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 617.93,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 617.93,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 617.93,
+          "2024": 617.93
+        },
+        "distribuicaoTipos": {
+          "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": {
+            "valor": 1235.86,
+            "quantidade": 1
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "02558157000162": {
+        "dadosBasicos": {
+          "cnpj": "02558157000162",
+          "nome": "Telefônica Brasil S.A. VIVO",
+          "categoria": "TELEFONIA",
+          "categoriaOriginal": "TELEFONIA",
+          "totalGeral": 1224.6599999999999,
+          "scoreSuspeicao": 36.50160330821587,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 612.3299999999999,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 612.3299999999999,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 612.3299999999999,
+          "2024": 612.3299999999999
+        },
+        "distribuicaoTipos": {
+          "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+            "valor": 399.96,
+            "quantidade": 4
+          },
+          "TELEFONIA": {
+            "valor": 824.6999999999999,
+            "quantidade": 3
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "08864565000129": {
+        "dadosBasicos": {
+          "cnpj": "08864565000129",
+          "nome": "MATRIX POSTOS DE COMBUSTIVEIS LTDA",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 1217.8799999999999,
+          "scoreSuspeicao": 49.06651029953978,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 608.9399999999999,
+            "numeroTransacoes": 2,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 608.9399999999999,
+            "numeroTransacoes": 2,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 608.9399999999999,
+          "2024": 608.9399999999999
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 1217.8799999999999,
+            "quantidade": 4
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "01877629000187": {
+        "dadosBasicos": {
+          "cnpj": "01877629000187",
+          "nome": "COM. DE COMB. STA EDWIGES LTDA",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 1200.8999999999999,
+          "scoreSuspeicao": 46.95844566566538,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 600.4499999999999,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 600.4499999999999,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 600.4499999999999,
+          "2024": 600.4499999999999
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 1200.8999999999999,
+            "quantidade": 6
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "27098262000197": {
+        "dadosBasicos": {
+          "cnpj": "27098262000197",
+          "nome": "Lbf - Comercio de Combustiveis Ltda",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 1165.58,
+          "scoreSuspeicao": 53.592477161666025,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 582.79,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 582.79,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 582.79,
+          "2024": 582.79
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 1165.58,
+            "quantidade": 6
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "01418827000263": {
+        "dadosBasicos": {
+          "cnpj": "01418827000263",
+          "nome": "REDE DE POSTOS SANTA MARIA LTDA (POSTO XV)",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "totalGeral": 1164.37,
+          "scoreSuspeicao": 47.28796318414316,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 582.185,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 582.185,
+            "numeroTransacoes": 3,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 582.185,
+          "2024": 582.185
+        },
+        "distribuicaoTipos": {
+          "COMBUSTÍVEIS E LUBRIFICANTES": {
+            "valor": 1164.37,
+            "quantidade": 6
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      },
+      "17329009000143": {
+        "dadosBasicos": {
+          "cnpj": "17329009000143",
+          "nome": "VIE HOTEL LTDA",
+          "categoria": "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "categoriaOriginal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "totalGeral": 1129.75,
+          "scoreSuspeicao": 50.67379277612336,
+          "numeroDeputadosAtendidos": 1
+        },
+        "transacoesPorAno": {
+          "2023": {
+            "totalValor": 564.875,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          },
+          "2024": {
+            "totalValor": 564.875,
+            "numeroTransacoes": 0,
+            "deputadosAtendidos": 1
+          }
+        },
+        "evolucaoTemporal": {
+          "2023": 564.875,
+          "2024": 564.875
+        },
+        "distribuicaoTipos": {
+          "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+            "valor": 1129.75,
+            "quantidade": 1
+          }
+        },
+        "deputadosAtendidos": [
+          {
+            "id": "220593",
+            "nomeEleitoral": "Abilio Brunini",
+            "nomeCivil": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+          }
+        ],
+        "anosAtivos": [
+          "2023",
+          "2024"
+        ],
+        "tendencia": "estavel",
+        "alertas": [],
+        "medalhas": []
+      }
+    }
+  }
+}

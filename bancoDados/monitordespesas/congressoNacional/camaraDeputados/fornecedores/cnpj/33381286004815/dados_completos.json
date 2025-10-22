@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SUPERMERCADO ZONASUL SA F1035",
+      "cnpj": "33381286004815",
+      "total_recebido": 155.55,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:53:18.278269"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 155.55
+  },
+  "anos": {
+    "2025": {
+      "total": 155.55,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "143942": {
+      "deputado": {
+        "id": 143942,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143942",
+        "nome": "Caio Vianna",
+        "siglaPartido": "PSD",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/143942.jpg",
+        "email": "dep.caiovianna@camara.leg.br"
+      },
+      "total": 155.55,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7970643,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-21T00:00:00",
+          "numDocumento": "155496",
+          "valorDocumento": 80.42,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7970643",
+          "nomeFornecedor": "SUPERMERCADO ZONASUL SA F1035",
+          "cnpjCpfFornecedor": "33381286004815",
+          "valorLiquido": 80.42,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7970635,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-21T00:00:00",
+          "numDocumento": "155497",
+          "valorDocumento": 31.41,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7970635",
+          "nomeFornecedor": "SUPERMERCADO ZONASUL SA F1035",
+          "cnpjCpfFornecedor": "33381286004815",
+          "valorLiquido": 31.41,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7970641,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-21T00:00:00",
+          "numDocumento": "155498",
+          "valorDocumento": 43.72,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7970641",
+          "nomeFornecedor": "SUPERMERCADO ZONASUL SA F1035",
+          "cnpjCpfFornecedor": "33381286004815",
+          "valorLiquido": 43.72,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GUANAMBI COMUNICAÇÃO E EVENTOS LTDA",
+      "cnpj": "54808906000166",
+      "total_recebido": 2600.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:28.021299"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 2600.0
+  },
+  "anos": {
+    "2025": {
+      "total": 2600.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160600": {
+      "deputado": {
+        "id": 160600,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160600",
+        "nome": "Arthur Oliveira Maia",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
+        "email": "dep.arthuroliveiramaia@camara.leg.br"
+      },
+      "total": 2600.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7967613,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-18T00:00:00",
+          "numDocumento": "202500000000286",
+          "valorDocumento": 1300.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2025/7967613.pdf",
+          "nomeFornecedor": "GUANAMBI COMUNICAÇÃO E EVENTOS LTDA",
+          "cnpjCpfFornecedor": "54808906000166",
+          "valorLiquido": 1300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7946893,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-13T00:00:00",
+          "numDocumento": "202500000000174",
+          "valorDocumento": 1300.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2025/7946893.pdf",
+          "nomeFornecedor": "GUANAMBI COMUNICAÇÃO E EVENTOS LTDA",
+          "cnpjCpfFornecedor": "54808906000166",
+          "valorLiquido": 1300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

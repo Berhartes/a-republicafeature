@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO LM - LTDA",
+      "cnpj": "15003120000110",
+      "total_recebido": 1089.23,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:09.580512"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1089.23
+  },
+  "anos": {
+    "2023": {
+      "total": 806.78,
+      "transacoes": 4,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 282.45,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204356": {
+      "deputado": {
+        "id": 204356,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204356",
+        "nome": "Amaro Neto",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "ES",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204356.jpg",
+        "email": "dep.amaroneto@camara.leg.br"
+      },
+      "total": 1089.23,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7648578,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-10T00:00:00",
+          "numDocumento": "14865",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7648578",
+          "nomeFornecedor": "POSTO LM - LTDA",
+          "cnpjCpfFornecedor": "15003120000110",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7631194,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-23T00:00:00",
+          "numDocumento": "12471",
+          "valorDocumento": 195.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7631194",
+          "nomeFornecedor": "POSTO LM - LTDA",
+          "cnpjCpfFornecedor": "15003120000110",
+          "valorLiquido": 195.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7567372,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-22T00:00:00",
+          "numDocumento": "376372",
+          "valorDocumento": 249.96,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7567372",
+          "nomeFornecedor": "POSTO LM LTDA",
+          "cnpjCpfFornecedor": "15003120000110",
+          "valorLiquido": 249.96,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7494523,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-03T00:00:00",
+          "numDocumento": "352408",
+          "valorDocumento": 161.81,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7494523",
+          "nomeFornecedor": "POSTO LM LTDA",
+          "cnpjCpfFornecedor": "15003120000110",
+          "valorLiquido": 161.81,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7866546,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-01-17T00:00:00",
+          "numDocumento": "72793",
+          "valorDocumento": 282.45,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7866546",
+          "nomeFornecedor": "POSTO LM - LTDA",
+          "cnpjCpfFornecedor": "15003120000110",
+          "valorLiquido": 282.45,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

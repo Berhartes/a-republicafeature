@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SAO CRISTOVAO COM E PRODUTOS DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "17654293000123",
+      "total_recebido": 727.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:55:10.661159"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 727.0
+  },
+  "anos": {
+    "2023": {
+      "total": 727.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204426": {
+      "deputado": {
+        "id": 204426,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204426",
+        "nome": "Carlos Veras",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
+        "email": "dep.carlosveras@camara.leg.br"
+      },
+      "total": 727.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7605251,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-07T00:00:00",
+          "numDocumento": "493781",
+          "valorDocumento": 270.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7605251",
+          "nomeFornecedor": "SAO CRISTOVAO COM E PRODUTOS DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "17654293000123",
+          "valorLiquido": 270.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7568690,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-01T00:00:00",
+          "numDocumento": "476907",
+          "valorDocumento": 246.85,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7568690",
+          "nomeFornecedor": "SAO CRISTOVAO COM E PRODUTOS DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "17654293000123",
+          "valorLiquido": 246.85,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7587141,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-28T00:00:00",
+          "numDocumento": "483640",
+          "valorDocumento": 210.15,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7587141",
+          "nomeFornecedor": "SAO CRISTOVAO COM E PRODUTOS DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "17654293000123",
+          "valorLiquido": 210.15,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

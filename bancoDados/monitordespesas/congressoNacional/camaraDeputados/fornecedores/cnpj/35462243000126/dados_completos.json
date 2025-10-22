@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MHC COMERCIO DE COMB.E DERIV. DE PETROLEO EIRELLI",
+      "cnpj": "35462243000126",
+      "total_recebido": 2513.94,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:50.342486"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 2513.94
+  },
+  "anos": {
+    "2023": {
+      "total": 1142.27,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 1371.67,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178993": {
+      "deputado": {
+        "id": 178993,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178993",
+        "nome": "Carlos Henrique Gaguim",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178993.jpg",
+        "email": "dep.carloshenriquegaguim@camara.leg.br"
+      },
+      "total": 2513.94,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7663548,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-11T00:00:00",
+          "numDocumento": "251625",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7663548",
+          "nomeFornecedor": "MHC COMERCIO DE COMB.E DERIV. DE PETROLEO EIRELLI",
+          "cnpjCpfFornecedor": "35462243000126",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7627432,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-12T00:00:00",
+          "numDocumento": "232896",
+          "valorDocumento": 411.97,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7627432",
+          "nomeFornecedor": "MHC COMERCIO DE COMB.E DERIV. DE PETROLEO EIRELLI",
+          "cnpjCpfFornecedor": "35462243000126",
+          "valorLiquido": 411.97,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7634713,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-28T00:00:00",
+          "numDocumento": "237777",
+          "valorDocumento": 430.3,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7634713",
+          "nomeFornecedor": "MHC COMERCIO DE COMB.E DERIV. DE PETROLEO EIRELLI",
+          "cnpjCpfFornecedor": "35462243000126",
+          "valorLiquido": 430.3,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7788960,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-15T14:48:21",
+          "numDocumento": "5995",
+          "valorDocumento": 399.65,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7788960",
+          "nomeFornecedor": "MHC COMERCIO DE COMB.E DERIV. DE PETROLEO EIRELLI",
+          "cnpjCpfFornecedor": "35462243000126",
+          "valorLiquido": 399.65,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7774854,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-18T10:04:02",
+          "numDocumento": "322077",
+          "valorDocumento": 272.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7774854",
+          "nomeFornecedor": "MHC COMERCIO DE COMB.E DERIV. DE PETROLEO EIRELLI",
+          "cnpjCpfFornecedor": "35462243000126",
+          "valorLiquido": 272.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7739957,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-08T14:51:42",
+          "numDocumento": "297797",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7739957",
+          "nomeFornecedor": "MHC COMERCIO DE COMB.E DERIV. DE PETROLEO EIRELLI",
+          "cnpjCpfFornecedor": "35462243000126",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7693869,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-27T16:45:29",
+          "numDocumento": "5223",
+          "valorDocumento": 400.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7693869",
+          "nomeFornecedor": "MHC COMERCIO DE COMB.E DERIV. DE PETROLEO EIRELLI",
+          "cnpjCpfFornecedor": "35462243000126",
+          "valorLiquido": 400.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

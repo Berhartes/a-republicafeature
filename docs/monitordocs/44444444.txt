@@ -1,0 +1,17 @@
+ I’m putting together clear steps for running the backend server with pnpm --filter a-republica-backend dev and will
+  mention the recent restructuring changes to help the user get started smoothly.
+
+> - Atualizei useFornecedoresData para detectar automaticamente o backend. Se nenhuma variável
+  (NEXT_PUBLIC_MONITOR_API_URL ou NEXT_PUBLIC_API_URL) estiver definida, ele pega o host atual; quando a página roda em
+  portas típicas do Next (3000–3004), redireciona sozinho para http://localhost:3333.
+  - Para a tela funcionar, garanta que as dependências estejam instaladas e que o backend esteja rodando. Faça assim no
+  terminal, dentro da pasta a-republica:
+      1. pnpm install – puxa @types/cors e demais libs.
+      2. pnpm --filter a-republica-backend dev – sobe a API em http://localhost:3333.
+      3. Em outro terminal, pnpm --filter @a-republica/monitor-despesas dev – entrega o frontend em http://
+  localhost:3004.
+
+  Com o backend ativo, a rota http://localhost:3004/gastos/fornecedores passa a usar automaticamente http://
+  localhost:3333/gastos/fornecedores, eliminando o erro “Failed to fetch”.
+
+▌ Implement {feature}                                                                   

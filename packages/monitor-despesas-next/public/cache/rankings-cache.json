@@ -1,0 +1,609 @@
+{
+  "metadata": {
+    "generatedAt": "2025-10-10T01:51:13.452Z",
+    "source": "local-database",
+    "arquivoFonte": "estrutura-hierarquica",
+    "version": "2.0.0",
+    "totalFornecedores": 206,
+    "totalDeputados": 1,
+    "valorTotalGeral": 664597.03,
+    "periodoAnalise": {
+      "arquivo": "estrutura-hierarquica",
+      "geradoEm": "2025-10-10"
+    }
+  },
+  "data": {
+    "metadata": {
+      "generatedAt": "2025-10-10T01:51:13.452Z",
+      "source": "local-database",
+      "arquivoFonte": "estrutura-hierarquica",
+      "version": "2.0.0",
+      "totalFornecedores": 206,
+      "totalDeputados": 1,
+      "valorTotalGeral": 664597.03,
+      "periodoAnalise": {
+        "arquivo": "estrutura-hierarquica",
+        "geradoEm": "2025-10-10"
+      }
+    },
+    "rankings": {
+      "geral": [
+        {
+          "id": 220593,
+          "nomeEleitoral": "Abilio Brunini",
+          "siglaPartido": "PL",
+          "siglaUf": "MT",
+          "valorTotal": 833021.1299999997,
+          "totalTransacoes": 1016,
+          "ranking": 1,
+          "percentualDoTotal": 125.34228899578434,
+          "premiacoes": [],
+          "tendencia": "estavel"
+        }
+      ],
+      "porCategoria": {
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": [
+          {
+            "id": 220593,
+            "nomeEleitoral": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "valorTotal": 216736.81999999995,
+            "totalTransacoes": 105,
+            "ranking": 1,
+            "percentualDoTotal": 100,
+            "premiacoes": [],
+            "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "tendencia": "estavel"
+          }
+        ],
+        "COMBUSTÍVEIS E LUBRIFICANTES": [
+          {
+            "id": 220593,
+            "nomeEleitoral": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "valorTotal": 115920.69000000015,
+            "totalTransacoes": 632,
+            "ranking": 1,
+            "percentualDoTotal": 100,
+            "premiacoes": [],
+            "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+            "tendencia": "estavel"
+          }
+        ],
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": [
+          {
+            "id": 220593,
+            "nomeEleitoral": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "valorTotal": 151942,
+            "totalTransacoes": 38,
+            "ranking": 1,
+            "percentualDoTotal": 100,
+            "premiacoes": [],
+            "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+            "tendencia": "estavel"
+          }
+        ],
+        "TELEFONIA": [
+          {
+            "id": 220593,
+            "nomeEleitoral": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "valorTotal": 824.6999999999999,
+            "totalTransacoes": 3,
+            "ranking": 1,
+            "percentualDoTotal": 100,
+            "premiacoes": [],
+            "categoria": "TELEFONIA",
+            "tendencia": "estavel"
+          }
+        ],
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": [
+          {
+            "id": 220593,
+            "nomeEleitoral": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "valorTotal": 423.55999999999995,
+            "totalTransacoes": 5,
+            "ranking": 1,
+            "percentualDoTotal": 100,
+            "premiacoes": [],
+            "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+            "tendencia": "estavel"
+          }
+        ],
+        "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": [
+          {
+            "id": 220593,
+            "nomeEleitoral": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "valorTotal": 22305.399999999994,
+            "totalTransacoes": 61,
+            "ranking": 1,
+            "percentualDoTotal": 100,
+            "premiacoes": [],
+            "categoria": "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+            "tendencia": "estavel"
+          }
+        ],
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": [
+          {
+            "id": 220593,
+            "nomeEleitoral": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "valorTotal": 218915.86,
+            "totalTransacoes": 52,
+            "ranking": 1,
+            "percentualDoTotal": 100,
+            "premiacoes": [],
+            "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+            "tendencia": "estavel"
+          }
+        ],
+        "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": [
+          {
+            "id": 220593,
+            "nomeEleitoral": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "valorTotal": 30,
+            "totalTransacoes": 1,
+            "ranking": 1,
+            "percentualDoTotal": 100,
+            "premiacoes": [],
+            "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+            "tendencia": "estavel"
+          }
+        ],
+        "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS": [
+          {
+            "id": 220593,
+            "nomeEleitoral": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "valorTotal": 498,
+            "totalTransacoes": 2,
+            "ranking": 1,
+            "percentualDoTotal": 100,
+            "premiacoes": [],
+            "categoria": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+            "tendencia": "estavel"
+          }
+        ],
+        "PASSAGEM AÉREA - SIGEPA": [
+          {
+            "id": 220593,
+            "nomeEleitoral": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "valorTotal": 105424.09999999998,
+            "totalTransacoes": 117,
+            "ranking": 1,
+            "percentualDoTotal": 100,
+            "premiacoes": [],
+            "categoria": "PASSAGEM AÉREA - SIGEPA",
+            "tendencia": "estavel"
+          }
+        ]
+      },
+      "porAno": {
+        "2025": [
+          {
+            "id": 220593,
+            "nomeEleitoral": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "valorTotal": 833021.1299999997,
+            "totalTransacoes": 1016,
+            "ranking": 1,
+            "percentualDoTotal": 125.34228899578434,
+            "premiacoes": [],
+            "tendencia": "estavel"
+          }
+        ]
+      },
+      "porPartido": {
+        "PL": [
+          {
+            "id": 220593,
+            "nomeEleitoral": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "valorTotal": 833021.1299999997,
+            "totalTransacoes": 1016,
+            "ranking": 1,
+            "percentualDoTotal": 125.34228899578434,
+            "premiacoes": [],
+            "tendencia": "estavel"
+          }
+        ]
+      },
+      "porUF": {
+        "MT": [
+          {
+            "id": 220593,
+            "nomeEleitoral": "Abilio Brunini",
+            "siglaPartido": "PL",
+            "siglaUf": "MT",
+            "valorTotal": 833021.1299999997,
+            "totalTransacoes": 1016,
+            "ranking": 1,
+            "percentualDoTotal": 125.34228899578434,
+            "premiacoes": [],
+            "tendencia": "estavel"
+          }
+        ]
+      }
+    },
+    "premiacoes": {
+      "coroas": [
+        {
+          "tipo": "coroa",
+          "deputadoId": 220593,
+          "deputadoNome": "Abilio Brunini",
+          "titulo": "Campeão dos Gastos",
+          "descricao": "Deputado com maior gasto total",
+          "categoria": "GERAL",
+          "valor": 833021.1299999997,
+          "ranking": 1
+        }
+      ],
+      "trofeus": [
+        {
+          "tipo": "trofeu",
+          "deputadoId": 220593,
+          "deputadoNome": "Abilio Brunini",
+          "titulo": "Campeão em MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "descricao": "Maior gasto na categoria MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "valor": 216736.81999999995,
+          "ranking": 1
+        },
+        {
+          "tipo": "trofeu",
+          "deputadoId": 220593,
+          "deputadoNome": "Abilio Brunini",
+          "titulo": "Campeão em COMBUSTÍVEIS E LUBRIFICANTES",
+          "descricao": "Maior gasto na categoria COMBUSTÍVEIS E LUBRIFICANTES",
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "valor": 115920.69000000015,
+          "ranking": 1
+        },
+        {
+          "tipo": "trofeu",
+          "deputadoId": 220593,
+          "deputadoNome": "Abilio Brunini",
+          "titulo": "Campeão em DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "descricao": "Maior gasto na categoria DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "valor": 151942,
+          "ranking": 1
+        },
+        {
+          "tipo": "trofeu",
+          "deputadoId": 220593,
+          "deputadoNome": "Abilio Brunini",
+          "titulo": "Campeão em TELEFONIA",
+          "descricao": "Maior gasto na categoria TELEFONIA",
+          "categoria": "TELEFONIA",
+          "valor": 824.6999999999999,
+          "ranking": 1
+        },
+        {
+          "tipo": "trofeu",
+          "deputadoId": 220593,
+          "deputadoNome": "Abilio Brunini",
+          "titulo": "Campeão em FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "descricao": "Maior gasto na categoria FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "valor": 423.55999999999995,
+          "ranking": 1
+        },
+        {
+          "tipo": "trofeu",
+          "deputadoId": 220593,
+          "deputadoNome": "Abilio Brunini",
+          "titulo": "Campeão em HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "descricao": "Maior gasto na categoria HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "categoria": "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "valor": 22305.399999999994,
+          "ranking": 1
+        },
+        {
+          "tipo": "trofeu",
+          "deputadoId": 220593,
+          "deputadoNome": "Abilio Brunini",
+          "titulo": "Campeão em LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "descricao": "Maior gasto na categoria LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "valor": 218915.86,
+          "ranking": 1
+        },
+        {
+          "tipo": "trofeu",
+          "deputadoId": 220593,
+          "deputadoNome": "Abilio Brunini",
+          "titulo": "Campeão em SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "descricao": "Maior gasto na categoria SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "valor": 30,
+          "ranking": 1
+        },
+        {
+          "tipo": "trofeu",
+          "deputadoId": 220593,
+          "deputadoNome": "Abilio Brunini",
+          "titulo": "Campeão em PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+          "descricao": "Maior gasto na categoria PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+          "categoria": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+          "valor": 498,
+          "ranking": 1
+        },
+        {
+          "tipo": "trofeu",
+          "deputadoId": 220593,
+          "deputadoNome": "Abilio Brunini",
+          "titulo": "Campeão em PASSAGEM AÉREA - SIGEPA",
+          "descricao": "Maior gasto na categoria PASSAGEM AÉREA - SIGEPA",
+          "categoria": "PASSAGEM AÉREA - SIGEPA",
+          "valor": 105424.09999999998,
+          "ranking": 1
+        }
+      ],
+      "medalhas": [
+        {
+          "tipo": "medalha",
+          "deputadoId": 220593,
+          "deputadoNome": "Abilio Brunini",
+          "titulo": "Maior Número de Transações",
+          "descricao": "Deputado com mais transações: 1016",
+          "categoria": "ATIVIDADE",
+          "valor": 1016
+        },
+        {
+          "tipo": "medalha",
+          "deputadoId": 220593,
+          "deputadoNome": "Abilio Brunini",
+          "titulo": "Maior Diversidade de Fornecedores",
+          "descricao": "Deputado que utilizou mais fornecedores: 206",
+          "categoria": "DIVERSIDADE",
+          "valor": 206
+        }
+      ],
+      "campeaoGeral": {
+        "id": 220593,
+        "nomeEleitoral": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "siglaUf": "MT",
+        "valorTotal": 833021.1299999997,
+        "totalTransacoes": 1016,
+        "ranking": 1,
+        "percentualDoTotal": 0,
+        "premiacoes": [
+          {
+            "tipo": "coroa",
+            "deputadoId": 220593,
+            "deputadoNome": "Abilio Brunini",
+            "titulo": "Campeão Geral dos Gastos",
+            "descricao": "Deputado com maior gasto total em cota parlamentar",
+            "categoria": "GERAL"
+          }
+        ]
+      },
+      "campeoesCategorias": {
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+          "id": 220593,
+          "nomeEleitoral": "Abilio Brunini",
+          "siglaPartido": "PL",
+          "siglaUf": "MT",
+          "valorTotal": 216736.81999999995,
+          "totalTransacoes": 105,
+          "ranking": 1,
+          "percentualDoTotal": 0,
+          "premiacoes": [],
+          "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+        },
+        "COMBUSTÍVEIS E LUBRIFICANTES": {
+          "id": 220593,
+          "nomeEleitoral": "Abilio Brunini",
+          "siglaPartido": "PL",
+          "siglaUf": "MT",
+          "valorTotal": 115920.69000000015,
+          "totalTransacoes": 632,
+          "ranking": 1,
+          "percentualDoTotal": 0,
+          "premiacoes": [],
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES"
+        },
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+          "id": 220593,
+          "nomeEleitoral": "Abilio Brunini",
+          "siglaPartido": "PL",
+          "siglaUf": "MT",
+          "valorTotal": 151942,
+          "totalTransacoes": 38,
+          "ranking": 1,
+          "percentualDoTotal": 0,
+          "premiacoes": [],
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+        },
+        "TELEFONIA": {
+          "id": 220593,
+          "nomeEleitoral": "Abilio Brunini",
+          "siglaPartido": "PL",
+          "siglaUf": "MT",
+          "valorTotal": 824.6999999999999,
+          "totalTransacoes": 3,
+          "ranking": 1,
+          "percentualDoTotal": 0,
+          "premiacoes": [],
+          "categoria": "TELEFONIA"
+        },
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": {
+          "id": 220593,
+          "nomeEleitoral": "Abilio Brunini",
+          "siglaPartido": "PL",
+          "siglaUf": "MT",
+          "valorTotal": 423.55999999999995,
+          "totalTransacoes": 5,
+          "ranking": 1,
+          "percentualDoTotal": 0,
+          "premiacoes": [],
+          "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+        },
+        "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+          "id": 220593,
+          "nomeEleitoral": "Abilio Brunini",
+          "siglaPartido": "PL",
+          "siglaUf": "MT",
+          "valorTotal": 22305.399999999994,
+          "totalTransacoes": 61,
+          "ranking": 1,
+          "percentualDoTotal": 0,
+          "premiacoes": [],
+          "categoria": "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+        },
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": {
+          "id": 220593,
+          "nomeEleitoral": "Abilio Brunini",
+          "siglaPartido": "PL",
+          "siglaUf": "MT",
+          "valorTotal": 218915.86,
+          "totalTransacoes": 52,
+          "ranking": 1,
+          "percentualDoTotal": 0,
+          "premiacoes": [],
+          "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+        },
+        "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": {
+          "id": 220593,
+          "nomeEleitoral": "Abilio Brunini",
+          "siglaPartido": "PL",
+          "siglaUf": "MT",
+          "valorTotal": 30,
+          "totalTransacoes": 1,
+          "ranking": 1,
+          "percentualDoTotal": 0,
+          "premiacoes": [],
+          "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO"
+        },
+        "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS": {
+          "id": 220593,
+          "nomeEleitoral": "Abilio Brunini",
+          "siglaPartido": "PL",
+          "siglaUf": "MT",
+          "valorTotal": 498,
+          "totalTransacoes": 2,
+          "ranking": 1,
+          "percentualDoTotal": 0,
+          "premiacoes": [],
+          "categoria": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS"
+        },
+        "PASSAGEM AÉREA - SIGEPA": {
+          "id": 220593,
+          "nomeEleitoral": "Abilio Brunini",
+          "siglaPartido": "PL",
+          "siglaUf": "MT",
+          "valorTotal": 105424.09999999998,
+          "totalTransacoes": 117,
+          "ranking": 1,
+          "percentualDoTotal": 0,
+          "premiacoes": [],
+          "categoria": "PASSAGEM AÉREA - SIGEPA"
+        }
+      },
+      "estatisticas": {
+        "totalCoroas": 1,
+        "totalTrofeus": 10,
+        "totalMedalhas": 2,
+        "totalPremiacoes": 13
+      }
+    },
+    "estatisticas": {
+      "totalDeputados": 1,
+      "totalCategorias": 10,
+      "valorTotalGeral": 664597.03,
+      "deputadoComMaisGastos": {
+        "nome": "Abilio Brunini",
+        "valor": 833021.1299999997
+      },
+      "categoriaComMaisGastos": {
+        "nome": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "valor": 218915.86
+      },
+      "partidoComMaisGastos": {
+        "nome": "PL",
+        "valor": 833021.1299999997
+      },
+      "ufComMaisGastos": {
+        "nome": "MT",
+        "valor": 833021.1299999997
+      },
+      "evolucaoAnual": {
+        "2025": {
+          "total": 664597.03,
+          "deputados": 1
+        }
+      }
+    },
+    "categorias": {
+      "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+        "nome": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "descricao": "Gastos relacionados a manutenção de escritório de apoio à atividade parlamentar",
+        "icone": "🏢"
+      },
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "nome": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "descricao": "Gastos relacionados a combustíveis e lubrificantes",
+        "icone": "📋"
+      },
+      "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+        "nome": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+        "descricao": "Gastos relacionados a divulgação da atividade parlamentar",
+        "icone": "📢"
+      },
+      "TELEFONIA": {
+        "nome": "TELEFONIA",
+        "descricao": "Gastos relacionados a telefonia",
+        "icone": "📞"
+      },
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": {
+        "nome": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+        "descricao": "Gastos relacionados a fornecimento de alimentação do parlamentar",
+        "icone": "🍽️"
+      },
+      "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+        "nome": "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "descricao": "Gastos relacionados a hospedagem, exceto do parlamentar no distrito federal",
+        "icone": "🏨"
+      },
+      "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": {
+        "nome": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "descricao": "Gastos relacionados a locação ou fretamento de veículos automotores",
+        "icone": "🚗"
+      },
+      "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": {
+        "nome": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+        "descricao": "Gastos relacionados a serviço de táxi, pedágio e estacionamento",
+        "icone": "📋"
+      },
+      "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS": {
+        "nome": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+        "descricao": "Gastos relacionados a passagens terrestres, marítimas ou fluviais",
+        "icone": "✈️"
+      },
+      "PASSAGEM AÉREA - SIGEPA": {
+        "nome": "PASSAGEM AÉREA - SIGEPA",
+        "descricao": "Gastos relacionados a passagem aérea - sigepa",
+        "icone": "📋"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BESSAPETRO COM DE P. D. DE PET LTDA",
+      "cnpj": "03271495000181",
+      "total_recebido": 222.29,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:55.573178"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 222.29
+  },
+  "anos": {
+    "2024": {
+      "total": 222.29,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220544": {
+      "deputado": {
+        "id": 220544,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220544",
+        "nome": "Antonio Andrade",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
+        "email": "dep.antonioandrade@camara.leg.br"
+      },
+      "total": 222.29,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7745908,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-23T13:03:06",
+          "numDocumento": "398830",
+          "valorDocumento": 222.29,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7745908",
+          "nomeFornecedor": "BESSAPETRO COM DE P. D. DE PET LTDA",
+          "cnpjCpfFornecedor": "03271495000181",
+          "valorLiquido": 222.29,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ALEXSANDRA SOARES - MA",
+      "cnpj": "08067840000183",
+      "total_recebido": 450.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:43.175168"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 450.0
+  },
+  "anos": {
+    "2023": {
+      "total": 300.0,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 150.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "133439": {
+      "deputado": {
+        "id": 133439,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/133439",
+        "nome": "André Figueiredo",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/133439.jpg",
+        "email": "dep.andrefigueiredo@camara.leg.br"
+      },
+      "total": 450.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7565001,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-23T00:00:00",
+          "numDocumento": "0000000159",
+          "valorDocumento": 150.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2023/7565001.pdf",
+          "nomeFornecedor": "ALEXSANDRA SOARES - MA",
+          "cnpjCpfFornecedor": "08067840000183",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7565011,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-23T00:00:00",
+          "numDocumento": "0000000160",
+          "valorDocumento": 150.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2023/7565011.pdf",
+          "nomeFornecedor": "ALEXSANDRA SOARES - MA",
+          "cnpjCpfFornecedor": "08067840000183",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7755388,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-17T00:00:00",
+          "numDocumento": "0000000207",
+          "valorDocumento": 150.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2024/7755388.pdf",
+          "nomeFornecedor": "ALEXSANDRA SOARES - MA",
+          "cnpjCpfFornecedor": "08067840000183",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

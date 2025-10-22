@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO ESTRELA GUIA DA TAQUARA LTDA",
+      "cnpj": "05192699000152",
+      "total_recebido": 1270.92,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:02.297579"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1270.92
+  },
+  "anos": {
+    "2023": {
+      "total": 170.92000000000002,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 1100.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220612": {
+      "deputado": {
+        "id": 220612,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220612",
+        "nome": "Bebeto",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220612.jpg",
+        "email": "dep.bebeto@camara.leg.br"
+      },
+      "total": 1270.92,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7528727,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-01T00:00:00",
+          "numDocumento": "9738",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7528727",
+          "nomeFornecedor": "POSTO ESTRELA GUIA DA TAQUARA LTDA",
+          "cnpjCpfFornecedor": "05192699000152",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7528731,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-01T00:00:00",
+          "numDocumento": "9740",
+          "valorDocumento": 70.92,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7528731",
+          "nomeFornecedor": "POSTO ESTRELA GUIA DA TAQUARA LTDA",
+          "cnpjCpfFornecedor": "05192699000152",
+          "valorLiquido": 70.92,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7750338,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-08T14:46:09",
+          "numDocumento": "15640",
+          "valorDocumento": 400.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7750338",
+          "nomeFornecedor": "POSTO ESTRELA GUIA TAQUARA LTDA.",
+          "cnpjCpfFornecedor": "05192699000152",
+          "valorLiquido": 400.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7696642,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-02T00:00:00",
+          "numDocumento": "7454",
+          "valorDocumento": 400.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7696642",
+          "nomeFornecedor": "POSTO ESTRELA GUIA TAQUARA LTDA.",
+          "cnpjCpfFornecedor": "05192699000152",
+          "valorLiquido": 400.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7707476,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-23T09:32:36",
+          "numDocumento": "9789",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7707476",
+          "nomeFornecedor": "POSTO ESTRELA GUIA TAQUARA LTDA.",
+          "cnpjCpfFornecedor": "05192699000152",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

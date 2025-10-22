@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BT PAULISTA HOTEIS LTDA",
+      "cnpj": "22415499000130",
+      "total_recebido": 703.15,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:13.294797"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 703.15
+  },
+  "anos": {
+    "2023": {
+      "total": 703.15,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204358": {
+      "deputado": {
+        "id": 204358,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204358",
+        "nome": "Beto Pereira",
+        "siglaPartido": "PSDB",
+        "uriPartido": "",
+        "siglaUf": "MS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204358.jpg",
+        "email": "dep.betopereira@camara.leg.br"
+      },
+      "total": 703.15,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7554098,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-01T00:00:00",
+          "numDocumento": "00261506",
+          "valorDocumento": 703.15,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3432/2023/7554098.pdf",
+          "nomeFornecedor": "BT PAULISTA HOTEIS LTDA",
+          "cnpjCpfFornecedor": "22415499000130",
+          "valorLiquido": 703.15,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

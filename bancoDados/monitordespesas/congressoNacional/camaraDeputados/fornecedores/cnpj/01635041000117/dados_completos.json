@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ITAPARICA PETROLEO E COMERCIO LTDA",
+      "cnpj": "01635041000117",
+      "total_recebido": 663.4100000000001,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:09.603059"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 663.4100000000001
+  },
+  "anos": {
+    "2023": {
+      "total": 256.17,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 407.24,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204356": {
+      "deputado": {
+        "id": 204356,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204356",
+        "nome": "Amaro Neto",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "ES",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204356.jpg",
+        "email": "dep.amaroneto@camara.leg.br"
+      },
+      "total": 663.4100000000001,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7618318,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-25T00:00:00",
+          "numDocumento": "65115",
+          "valorDocumento": 256.17,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7618318",
+          "nomeFornecedor": "ITAPARICA PETROLEO E COMERCIO LTDA",
+          "cnpjCpfFornecedor": "01635041000117",
+          "valorLiquido": 256.17,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7933640,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-23T00:00:00",
+          "numDocumento": "160274",
+          "valorDocumento": 422.24,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7933640",
+          "nomeFornecedor": "ITAPARICA PETROLEO E COMERCIO LTDA",
+          "cnpjCpfFornecedor": "01635041000117",
+          "valorLiquido": 407.24,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

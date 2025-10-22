@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "A.C. OLIVEIRA DA COSTA - ME",
+      "cnpj": "08840678000194",
+      "total_recebido": 191000.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:07.237218"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 191000.0
+  },
+  "anos": {
+    "2023": {
+      "total": 120000.0,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 71000.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220707": {
+      "deputado": {
+        "id": 220707,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220707",
+        "nome": "Amanda Gentil",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220707.jpg",
+        "email": "dep.amandagentil@camara.leg.br"
+      },
+      "total": 191000.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7671124,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-28T00:00:00",
+          "numDocumento": "81",
+          "valorDocumento": 95000.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7671124",
+          "nomeFornecedor": "A.C. OLIVEIRA DA COSTA - ME",
+          "cnpjCpfFornecedor": "08840678000194",
+          "valorLiquido": 95000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7671126,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-31T00:00:00",
+          "numDocumento": "84",
+          "valorDocumento": 25000.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7671126",
+          "nomeFornecedor": "A.C. OLIVEIRA DA COSTA - ME",
+          "cnpjCpfFornecedor": "08840678000194",
+          "valorLiquido": 25000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7853087,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-30T00:00:00",
+          "numDocumento": "90",
+          "valorDocumento": 71000.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7853087",
+          "nomeFornecedor": "A C OLIVEIRA DA COSTA",
+          "cnpjCpfFornecedor": "08840678000194",
+          "valorLiquido": 71000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

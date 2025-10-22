@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "TONIN & CIA LTDA L05",
+      "cnpj": "05549775000134",
+      "total_recebido": 303.1,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:15.045613"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 303.1
+  },
+  "anos": {
+    "2024": {
+      "total": 303.1,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220698": {
+      "deputado": {
+        "id": 220698,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220698",
+        "nome": "Beto Preto",
+        "siglaPartido": "PSD",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
+        "email": null
+      },
+      "total": 303.1,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7798654,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-04T14:26:43",
+          "numDocumento": "654975",
+          "valorDocumento": 103.1,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7798654",
+          "nomeFornecedor": "TONIN & CIA LTDA L05",
+          "cnpjCpfFornecedor": "05549775000134",
+          "valorLiquido": 103.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7796011,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-30T17:01:53",
+          "numDocumento": "651963",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7796011",
+          "nomeFornecedor": "TONIN & CIA LTDA L05",
+          "cnpjCpfFornecedor": "05549775000134",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7766220,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-05T18:48:26",
+          "numDocumento": "619844",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7766220",
+          "nomeFornecedor": "TONIN & CIA LTDA L05",
+          "cnpjCpfFornecedor": "05549775000134",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

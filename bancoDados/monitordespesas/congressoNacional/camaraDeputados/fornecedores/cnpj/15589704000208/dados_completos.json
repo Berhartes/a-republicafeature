@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO MACEDAO LTDA",
+      "cnpj": "15589704000208",
+      "total_recebido": 2191.76,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:50.914072"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 2191.76
+  },
+  "anos": {
+    "2024": {
+      "total": 2191.76,
+      "transacoes": 7,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220676": {
+      "deputado": {
+        "id": 220676,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220676",
+        "nome": "Andreia Siqueira",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "PA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220676.jpg",
+        "email": "dep.andreiasiqueira@camara.leg.br"
+      },
+      "total": 2191.76,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7841729,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-05T14:12:32",
+          "numDocumento": "319528",
+          "valorDocumento": 352.61,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7841729",
+          "nomeFornecedor": "POSTO MACEDAO LTDA",
+          "cnpjCpfFornecedor": "15589704000208",
+          "valorLiquido": 352.61,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7825709,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-29T16:24:15",
+          "numDocumento": "315280",
+          "valorDocumento": 262.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7825709",
+          "nomeFornecedor": "POSTO MACEDAO LTDA",
+          "cnpjCpfFornecedor": "15589704000208",
+          "valorLiquido": 262.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7809823,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-01T20:26:19",
+          "numDocumento": "311664",
+          "valorDocumento": 291.06,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7809823",
+          "nomeFornecedor": "POSTO MACEDAO LTDA",
+          "cnpjCpfFornecedor": "15589704000208",
+          "valorLiquido": 291.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7807455,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-25T00:00:00",
+          "numDocumento": "310611",
+          "valorDocumento": 480.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7807455",
+          "nomeFornecedor": "POSTO MACEDAO LTDA",
+          "cnpjCpfFornecedor": "15589704000208",
+          "valorLiquido": 480.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7790117,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-17T10:10:29",
+          "numDocumento": "304177",
+          "valorDocumento": 280.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7790117",
+          "nomeFornecedor": "POSTO MACEDAO LTDA",
+          "cnpjCpfFornecedor": "15589704000208",
+          "valorLiquido": 280.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7758974,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-18T16:04:15",
+          "numDocumento": "295551",
+          "valorDocumento": 200.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7758974",
+          "nomeFornecedor": "POSTO MACEDAO LTDA",
+          "cnpjCpfFornecedor": "15589704000208",
+          "valorLiquido": 200.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7736912,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-12T10:43:46",
+          "numDocumento": "290636",
+          "valorDocumento": 326.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7736912",
+          "nomeFornecedor": "POSTO MACEDAO LTDA",
+          "cnpjCpfFornecedor": "15589704000208",
+          "valorLiquido": 326.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

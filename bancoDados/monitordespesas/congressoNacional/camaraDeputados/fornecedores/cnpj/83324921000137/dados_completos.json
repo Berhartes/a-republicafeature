@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SUPER POSTO DOIS MIL LTDA",
+      "cnpj": "83324921000137",
+      "total_recebido": 1201.49,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:50.857286"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1201.49
+  },
+  "anos": {
+    "2023": {
+      "total": 735.09,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 466.40000000000003,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220676": {
+      "deputado": {
+        "id": 220676,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220676",
+        "nome": "Andreia Siqueira",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "PA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220676.jpg",
+        "email": "dep.andreiasiqueira@camara.leg.br"
+      },
+      "total": 1201.49,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7587556,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-07T00:00:00",
+          "numDocumento": "1120747",
+          "valorDocumento": 240.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7587556",
+          "nomeFornecedor": "SUPER POSTO DOIS MIL LTDA",
+          "cnpjCpfFornecedor": "83324921000137",
+          "valorLiquido": 240.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7597920,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-16T00:00:00",
+          "numDocumento": "1128661",
+          "valorDocumento": 265.06,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7597920",
+          "nomeFornecedor": "SUPER POSTO DOIS MIL LTDA",
+          "cnpjCpfFornecedor": "83324921000137",
+          "valorLiquido": 265.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7534211,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-26T00:00:00",
+          "numDocumento": "1032958",
+          "valorDocumento": 230.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7534211",
+          "nomeFornecedor": "SUPER POSTO 2000 LTDA",
+          "cnpjCpfFornecedor": "83324921000137",
+          "valorLiquido": 230.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7766391,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-03T16:21:49",
+          "numDocumento": "1394217",
+          "valorDocumento": 196.24,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7766391",
+          "nomeFornecedor": "SUPER POSTO DOIS MIL LTDA",
+          "cnpjCpfFornecedor": "83324921000137",
+          "valorLiquido": 196.24,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7744162,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-29T10:00:03",
+          "numDocumento": "1363619",
+          "valorDocumento": 270.16,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7744162",
+          "nomeFornecedor": "SUPER POSTO DOIS MIL LTDA",
+          "cnpjCpfFornecedor": "83324921000137",
+          "valorLiquido": 270.16,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

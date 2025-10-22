@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "DUQUE SANTANA AUTO POSTO LT",
+      "cnpj": "67448605000110",
+      "total_recebido": 1055.1,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:37.375942"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1055.1
+  },
+  "anos": {
+    "2023": {
+      "total": 795.0799999999999,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 260.02,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204507": {
+      "deputado": {
+        "id": 204507,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204507",
+        "nome": "Carla Zambelli",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204507.jpg",
+        "email": "dep.carlazambelli@camara.leg.br"
+      },
+      "total": 1055.1,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7622768,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-06T00:00:00",
+          "numDocumento": "112549",
+          "valorDocumento": 425.05,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2023/7622768.pdf",
+          "nomeFornecedor": "DUQUE SANTANA AUTO POSTO LT",
+          "cnpjCpfFornecedor": "67448605000110",
+          "valorLiquido": 425.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7535388,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-29T00:00:00",
+          "numDocumento": "378152",
+          "valorDocumento": 370.03,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2023/7535388.pdf",
+          "nomeFornecedor": "DUQUE SANTANA AUTO POSTO LT",
+          "cnpjCpfFornecedor": "67448605000110",
+          "valorLiquido": 370.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7837229,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-24T00:00:00",
+          "numDocumento": "386568",
+          "valorDocumento": 260.02,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2024/7837229.pdf",
+          "nomeFornecedor": "DUQUE SANTANA AUTO POSTO LT",
+          "cnpjCpfFornecedor": "67448605000110",
+          "valorLiquido": 260.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

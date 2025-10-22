@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CACULINHA COMBUSTIVEIS LTDA II",
+      "cnpj": "05467500000666",
+      "total_recebido": 1151.63,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:55:10.682795"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1151.63
+  },
+  "anos": {
+    "2023": {
+      "total": 1151.63,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204426": {
+      "deputado": {
+        "id": 204426,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204426",
+        "nome": "Carlos Veras",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
+        "email": "dep.carlosveras@camara.leg.br"
+      },
+      "total": 1151.63,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7582779,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-01T00:00:00",
+          "numDocumento": "662047",
+          "valorDocumento": 247.37,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7582779",
+          "nomeFornecedor": "CACULINHA COMBUSTIVEIS LTDA II",
+          "cnpjCpfFornecedor": "05467500000666",
+          "valorLiquido": 247.37,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7581053,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-31T00:00:00",
+          "numDocumento": "661185",
+          "valorDocumento": 277.37,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7581053",
+          "nomeFornecedor": "CACULINHA COMBUSTIVEIS LTDA II",
+          "cnpjCpfFornecedor": "05467500000666",
+          "valorLiquido": 277.37,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7556380,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-10T00:00:00",
+          "numDocumento": "633625",
+          "valorDocumento": 272.91,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7556380",
+          "nomeFornecedor": "CACULINHA COMBUSTIVEIS LTDA II",
+          "cnpjCpfFornecedor": "05467500000666",
+          "valorLiquido": 272.91,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7527803,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-15T00:00:00",
+          "numDocumento": "605278",
+          "valorDocumento": 353.98,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3234/2023/7527803.pdf",
+          "nomeFornecedor": "CACULINHA COMBUSTIVEIS LTDA II",
+          "cnpjCpfFornecedor": "05467500000666",
+          "valorLiquido": 353.98,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

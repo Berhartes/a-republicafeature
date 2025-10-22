@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIAL ITAPIPOQUENSE DE COMB. LTDA",
+      "cnpj": "23463268000165",
+      "total_recebido": 337.18,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:43.275155"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 337.18
+  },
+  "anos": {
+    "2025": {
+      "total": 337.18,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "133439": {
+      "deputado": {
+        "id": 133439,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/133439",
+        "nome": "André Figueiredo",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/133439.jpg",
+        "email": "dep.andrefigueiredo@camara.leg.br"
+      },
+      "total": 337.18,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7991379,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-12T00:00:00",
+          "numDocumento": "62220",
+          "valorDocumento": 337.18,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2025/7991379.pdf",
+          "nomeFornecedor": "COMERCIAL ITAPIPOQUENSE DE COMB. LTDA",
+          "cnpjCpfFornecedor": "23463268000165",
+          "valorLiquido": 337.18,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ACIPE COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "76013911000115",
+      "total_recebido": 852.25,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:21.578134"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 852.25
+  },
+  "anos": {
+    "2025": {
+      "total": 852.25,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220683": {
+      "deputado": {
+        "id": 220683,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220683",
+        "nome": "Beto Richa",
+        "siglaPartido": "PSDB",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220683.jpg",
+        "email": "dep.betoricha@camara.leg.br"
+      },
+      "total": 852.25,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7998252,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-06T00:00:00",
+          "numDocumento": "20881",
+          "valorDocumento": 284.51,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7998252",
+          "nomeFornecedor": "ACIPE COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "76013911000115",
+          "valorLiquido": 284.51,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7986875,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-16T00:00:00",
+          "numDocumento": "3504",
+          "valorDocumento": 261.63,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7986875",
+          "nomeFornecedor": "ACIPE COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "76013911000115",
+          "valorLiquido": 261.63,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7961416,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-08T11:05:00",
+          "numDocumento": "2331",
+          "valorDocumento": 306.11,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7961416",
+          "nomeFornecedor": "ACIPE COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "76013911000115",
+          "valorLiquido": 306.11,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

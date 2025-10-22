@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "VT ALIMENTACAO E EVENTOS LTDA",
+      "cnpj": "44323043000183",
+      "total_recebido": 288.5,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:17.043847"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 288.5
+  },
+  "anos": {
+    "2023": {
+      "total": 288.5,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "107970": {
+      "deputado": {
+        "id": 107970,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/107970",
+        "nome": "Ana Paula Leão",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/107970.jpg",
+        "email": "dep.anapaulaleao@camara.leg.br"
+      },
+      "total": 288.5,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7550570,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-24T00:00:00",
+          "numDocumento": "12159",
+          "valorDocumento": 129.8,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7550570",
+          "nomeFornecedor": "VT ALIMENTACAO E EVENTOS LTDA",
+          "cnpjCpfFornecedor": "44323043000183",
+          "valorLiquido": 129.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7532371,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-25T00:00:00",
+          "numDocumento": "11964",
+          "valorDocumento": 158.7,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7532371",
+          "nomeFornecedor": "VT ALIMENTACAO E EVENTOS LTDA",
+          "cnpjCpfFornecedor": "44323043000183",
+          "valorLiquido": 158.7,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

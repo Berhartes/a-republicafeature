@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SCALA HOTEL",
+      "cnpj": "44699757000190",
+      "total_recebido": 625.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:28.002386"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 625.0
+  },
+  "anos": {
+    "2025": {
+      "total": 625.0,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160600": {
+      "deputado": {
+        "id": 160600,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160600",
+        "nome": "Arthur Oliveira Maia",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
+        "email": "dep.arthuroliveiramaia@camara.leg.br"
+      },
+      "total": 625.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7980213,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-03T00:00:00",
+          "numDocumento": "000013184",
+          "valorDocumento": 166.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2025/7980213.pdf",
+          "nomeFornecedor": "SCALA HOTEL",
+          "cnpjCpfFornecedor": "44699757000190",
+          "valorLiquido": 166.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7973843,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-26T00:00:00",
+          "numDocumento": "00001354",
+          "valorDocumento": 153.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2025/7973843.pdf",
+          "nomeFornecedor": "SCALA HOTEL",
+          "cnpjCpfFornecedor": "44699757000190",
+          "valorLiquido": 153.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7973844,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-26T00:00:00",
+          "numDocumento": "00001356",
+          "valorDocumento": 153.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2025/7973844.pdf",
+          "nomeFornecedor": "SCALA HOTEL",
+          "cnpjCpfFornecedor": "44699757000190",
+          "valorLiquido": 153.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7973846,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-26T00:00:00",
+          "numDocumento": "00001357",
+          "valorDocumento": 153.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2025/7973846.pdf",
+          "nomeFornecedor": "SCALA HOTEL",
+          "cnpjCpfFornecedor": "44699757000190",
+          "valorLiquido": 153.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "RODOCAMP AUTO SERVICE LTDA",
+      "cnpj": "01109449000155",
+      "total_recebido": 166.57,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:45.610563"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 166.57
+  },
+  "anos": {
+    "2023": {
+      "total": 166.57,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178962": {
+      "deputado": {
+        "id": 178962,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178962",
+        "nome": "Carlos Gomes",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
+        "email": null
+      },
+      "total": 166.57,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7628407,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-13T00:00:00",
+          "numDocumento": "778521",
+          "valorDocumento": 64.09,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2900/2023/7628407.pdf",
+          "nomeFornecedor": "RODOCAMP AUTO SERVICE LTDA",
+          "cnpjCpfFornecedor": "01109449000155",
+          "valorLiquido": 64.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7514060,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-18T00:00:00",
+          "numDocumento": "678527",
+          "valorDocumento": 102.48,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2900/2023/7514060.pdf",
+          "nomeFornecedor": "RODOCAMP AUTO SERVICE LTDA",
+          "cnpjCpfFornecedor": "01109449000155",
+          "valorLiquido": 102.48,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

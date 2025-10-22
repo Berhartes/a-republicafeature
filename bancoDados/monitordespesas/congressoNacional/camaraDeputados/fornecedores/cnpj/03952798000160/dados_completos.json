@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PRESSING DISTRIBUIÇÃO LTDA",
+      "cnpj": "03952798000160",
+      "total_recebido": 600.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:21.358961"
+  },
+  "categorias": {
+    "ASSINATURA DE PUBLICAÇÕES": 600.0
+  },
+  "anos": {
+    "2023": {
+      "total": 300.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 300.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220683": {
+      "deputado": {
+        "id": 220683,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220683",
+        "nome": "Beto Richa",
+        "siglaPartido": "PSDB",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220683.jpg",
+        "email": "dep.betoricha@camara.leg.br"
+      },
+      "total": 600.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "ASSINATURA DE PUBLICAÇÕES",
+          "codDocumento": 7543176,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-04T00:00:00",
+          "numDocumento": "1433",
+          "valorDocumento": 300.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3694/2023/7543176.pdf",
+          "nomeFornecedor": "PRESSING DISTRIBUIÇÃO LTDA",
+          "cnpjCpfFornecedor": "03952798000160",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "ASSINATURA DE PUBLICAÇÕES",
+          "codDocumento": 7751301,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-11T00:00:00",
+          "numDocumento": "2251",
+          "valorDocumento": 300.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3694/2024/7751301.pdf",
+          "nomeFornecedor": "PRESSING DISTRIBUIÇÃO LTDA",
+          "cnpjCpfFornecedor": "03952798000160",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

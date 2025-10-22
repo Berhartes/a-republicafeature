@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO PETROGAS LTDA",
+      "cnpj": "03862967000170",
+      "total_recebido": 524.71,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:30.138031"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 524.71
+  },
+  "anos": {
+    "2023": {
+      "total": 213.19,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 311.52,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220632": {
+      "deputado": {
+        "id": 220632,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220632",
+        "nome": "Ana Pimentel",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220632.jpg",
+        "email": "dep.anapimentel@camara.leg.br"
+      },
+      "total": 524.71,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7573894,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-24T00:00:00",
+          "numDocumento": "548315",
+          "valorDocumento": 213.19,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3626/2023/7573894.pdf",
+          "nomeFornecedor": "AUTO POSTO PETROGAS LTDA",
+          "cnpjCpfFornecedor": "03862967000170",
+          "valorLiquido": 213.19,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7737152,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-15T00:00:00",
+          "numDocumento": "734144",
+          "valorDocumento": 311.52,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3626/2024/7737152.pdf",
+          "nomeFornecedor": "AUTO POSTO PETROGAS LTDA",
+          "cnpjCpfFornecedor": "03862967000170",
+          "valorLiquido": 311.52,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO EXCEDE LTDA",
+      "cnpj": "34147157000166",
+      "total_recebido": 772.67,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:05.609527"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 772.67
+  },
+  "anos": {
+    "2023": {
+      "total": 300.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 472.66999999999996,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "73701": {
+      "deputado": {
+        "id": 73701,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73701",
+        "nome": "Benedita da Silva",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73701.jpg",
+        "email": "dep.beneditadasilva@camara.leg.br"
+      },
+      "total": 772.67,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7651557,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-24T00:00:00",
+          "numDocumento": "136585",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7651557",
+          "nomeFornecedor": "AUTO POSTO EXCEDE LTDA",
+          "cnpjCpfFornecedor": "34147157000166",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7995391,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-26T00:00:00",
+          "numDocumento": "204332",
+          "valorDocumento": 260.78,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7995391",
+          "nomeFornecedor": "AUTO POSTO EXCEDE LTDA",
+          "cnpjCpfFornecedor": "34147157000166",
+          "valorLiquido": 260.78,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7961730,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-30T00:00:00",
+          "numDocumento": "197210",
+          "valorDocumento": 211.89,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7961730",
+          "nomeFornecedor": "AUTO POSTO EXCEDE LTDA",
+          "cnpjCpfFornecedor": "34147157000166",
+          "valorLiquido": 211.89,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

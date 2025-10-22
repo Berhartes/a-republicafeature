@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO",
+      "cnpj": "28176998000441",
+      "total_recebido": 153.8,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:44.526497"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 153.8
+  },
+  "anos": {
+    "2023": {
+      "total": 153.8,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160512": {
+      "deputado": {
+        "id": 160512,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160512",
+        "nome": "Aureo Ribeiro",
+        "siglaPartido": "SOLIDARIEDADE",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
+        "email": "dep.aureoribeiro@camara.leg.br"
+      },
+      "total": 153.8,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7519444,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-31T00:00:00",
+          "numDocumento": "35097651665",
+          "valorDocumento": 162.94,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2384/2023/7519444.pdf",
+          "nomeFornecedor": "CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO",
+          "cnpjCpfFornecedor": "28176998000441",
+          "valorLiquido": 153.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

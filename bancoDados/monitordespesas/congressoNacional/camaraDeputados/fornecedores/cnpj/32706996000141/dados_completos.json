@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "RÁDIO FM ITABAIANA LTDA.",
+      "cnpj": "32706996000141",
+      "total_recebido": 8833.34,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:41.311468"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 8833.34
+  },
+  "anos": {
+    "2024": {
+      "total": 8833.34,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74052": {
+      "deputado": {
+        "id": 74052,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74052",
+        "nome": "Bosco Costa",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74052.jpg",
+        "email": null
+      },
+      "total": 8833.34,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7818233,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-17T00:00:00",
+          "numDocumento": "000000713",
+          "valorDocumento": 5000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1549/2024/7818233.pdf",
+          "nomeFornecedor": "RÁDIO FM ITABAIANA LTDA.",
+          "cnpjCpfFornecedor": "32706996000141",
+          "valorLiquido": 5000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7783044,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-08T00:00:00",
+          "numDocumento": "000000628",
+          "valorDocumento": 5000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1549/2024/7783044.pdf",
+          "nomeFornecedor": "RÁDIO FM ITABAIANA LTDA.",
+          "cnpjCpfFornecedor": "32706996000141",
+          "valorLiquido": 3833.34,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

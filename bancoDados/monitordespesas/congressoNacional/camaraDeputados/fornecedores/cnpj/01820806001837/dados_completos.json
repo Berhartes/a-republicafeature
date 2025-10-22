@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "REDE LK DE POSTOS LTDA",
+      "cnpj": "01820806001837",
+      "total_recebido": 464.13,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:16.014394"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 464.13
+  },
+  "anos": {
+    "2025": {
+      "total": 464.13,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "73433": {
+      "deputado": {
+        "id": 73433,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73433",
+        "nome": "Arlindo Chinaglia",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73433.jpg",
+        "email": "dep.arlindochinaglia@camara.leg.br"
+      },
+      "total": 464.13,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7951983,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-18T00:00:00",
+          "numDocumento": "278770",
+          "valorDocumento": 183.29,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/974/2025/7951983.pdf",
+          "nomeFornecedor": "REDE LK DE POSTOS LTDA",
+          "cnpjCpfFornecedor": "01820806001837",
+          "valorLiquido": 183.29,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7901956,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-30T00:00:00",
+          "numDocumento": "225991",
+          "valorDocumento": 280.84,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/974/2025/7901956.pdf",
+          "nomeFornecedor": "REDE LK DE POSTOS LTDA",
+          "cnpjCpfFornecedor": "01820806001837",
+          "valorLiquido": 280.84,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

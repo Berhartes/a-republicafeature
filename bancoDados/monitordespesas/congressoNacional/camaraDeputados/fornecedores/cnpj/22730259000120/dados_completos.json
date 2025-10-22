@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Sam Thiago Comércio e Serviços de Buffet Ltda",
+      "cnpj": "22730259000120",
+      "total_recebido": 115.28,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:17.183791"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 115.28
+  },
+  "anos": {
+    "2024": {
+      "total": 115.28,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "107970": {
+      "deputado": {
+        "id": 107970,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/107970",
+        "nome": "Ana Paula Leão",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/107970.jpg",
+        "email": "dep.anapaulaleao@camara.leg.br"
+      },
+      "total": 115.28,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7826489,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-31T00:00:00",
+          "numDocumento": "13021",
+          "valorDocumento": 115.28,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3664/2024/7826489.pdf",
+          "nomeFornecedor": "Sam Thiago Comércio e Serviços de Buffet Ltda",
+          "cnpjCpfFornecedor": "22730259000120",
+          "valorLiquido": 115.28,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "VIP TAXI",
+      "cnpj": "57012667000121",
+      "total_recebido": 20.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:31.322267"
+  },
+  "categorias": {
+    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 20.0
+  },
+  "anos": {
+    "2025": {
+      "total": 20.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178831": {
+      "deputado": {
+        "id": 178831,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178831",
+        "nome": "ANDRÉ ABDON",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178831.jpg",
+        "email": "dep.andreabdon@camara.leg.br"
+      },
+      "total": 20.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7986317,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-23T00:00:00",
+          "numDocumento": "S/N",
+          "valorDocumento": 20.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3034/2025/7986317.pdf",
+          "nomeFornecedor": "VIP TAXI",
+          "cnpjCpfFornecedor": "57012667000121",
+          "valorLiquido": 20.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

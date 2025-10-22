@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AURELINO LEAL COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "40659395000153",
+      "total_recebido": 209.99,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:18.722196"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 209.99
+  },
+  "anos": {
+    "2025": {
+      "total": 209.99,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220690": {
+      "deputado": {
+        "id": 220690,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220690",
+        "nome": "Capitão Alden",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
+        "email": "dep.capitaoalden@camara.leg.br"
+      },
+      "total": 209.99,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7995579,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-21T13:01:22",
+          "numDocumento": "173020",
+          "valorDocumento": 209.99,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7995579",
+          "nomeFornecedor": "AURELINO LEAL COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "40659395000153",
+          "valorLiquido": 209.99,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEL MARAMBAIA CABEÇUDAS LTDA",
+      "cnpj": "84290790000187",
+      "total_recebido": 1590.0,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:42.978730"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 1590.0
+  },
+  "anos": {
+    "2024": {
+      "total": 1590.0,
+      "transacoes": 6,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204361": {
+      "deputado": {
+        "id": 204361,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
+        "nome": "Carlos Chiodini",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+        "email": null
+      },
+      "total": 1590.0,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7847501,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-04T00:00:00",
+          "numDocumento": "00000042908",
+          "valorDocumento": 305.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7847501.pdf",
+          "nomeFornecedor": "HOTEL MARAMBAIA CABEÇUDAS LTDA",
+          "cnpjCpfFornecedor": "84290790000187",
+          "valorLiquido": 295.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7847488,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-12T00:00:00",
+          "numDocumento": "00000043026",
+          "valorDocumento": 255.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7847488.pdf",
+          "nomeFornecedor": "HOTEL MARAMBAIA CABEÇUDAS LTDA",
+          "cnpjCpfFornecedor": "84290790000187",
+          "valorLiquido": 255.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7847485,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-13T00:00:00",
+          "numDocumento": "00000043045",
+          "valorDocumento": 265.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7847485.pdf",
+          "nomeFornecedor": "HOTEL MARAMBAIA CABEÇUDAS LTDA",
+          "cnpjCpfFornecedor": "84290790000187",
+          "valorLiquido": 265.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7841397,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-14T00:00:00",
+          "numDocumento": "00000042675/A1",
+          "valorDocumento": 225.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7841397.pdf",
+          "nomeFornecedor": "HOTEL MARAMBAIA CABEÇUDAS LTDA",
+          "cnpjCpfFornecedor": "84290790000187",
+          "valorLiquido": 225.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7841394,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-19T00:00:00",
+          "numDocumento": "00000042733/A1",
+          "valorDocumento": 235.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7841394.pdf",
+          "nomeFornecedor": "HOTEL MARAMBAIA CABEÇUDAS LTDA",
+          "cnpjCpfFornecedor": "84290790000187",
+          "valorLiquido": 235.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7841464,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-28T00:00:00",
+          "numDocumento": "00000042830",
+          "valorDocumento": 325.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7841464.pdf",
+          "nomeFornecedor": "HOTEL MARAMBAIA CABEÇUDAS LTDA",
+          "cnpjCpfFornecedor": "84290790000187",
+          "valorLiquido": 315.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

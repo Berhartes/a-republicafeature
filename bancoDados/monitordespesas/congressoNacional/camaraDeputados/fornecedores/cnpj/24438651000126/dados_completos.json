@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "F.S. CORREA NETO",
+      "cnpj": "24438651000126",
+      "total_recebido": 43500.0,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:07.326391"
+  },
+  "categorias": {
+    "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA.": 43500.0
+  },
+  "anos": {
+    "2024": {
+      "total": 26100.0,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 17400.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220707": {
+      "deputado": {
+        "id": 220707,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220707",
+        "nome": "Amanda Gentil",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220707.jpg",
+        "email": "dep.amandagentil@camara.leg.br"
+      },
+      "total": 43500.0,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA.",
+          "codDocumento": 7852004,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-27T00:00:00",
+          "numDocumento": "00000697",
+          "valorDocumento": 8700.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3644/2024/7852004.pdf",
+          "nomeFornecedor": "F.S. CORREA NETO",
+          "cnpjCpfFornecedor": "24438651000126",
+          "valorLiquido": 8700.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA.",
+          "codDocumento": 7843412,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-10T00:00:00",
+          "numDocumento": "00000696",
+          "valorDocumento": 8700.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3644/2024/7843412.pdf",
+          "nomeFornecedor": "F.S. CORREA NETO",
+          "cnpjCpfFornecedor": "24438651000126",
+          "valorLiquido": 8700.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA.",
+          "codDocumento": 7823221,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-28T00:00:00",
+          "numDocumento": "00000679",
+          "valorDocumento": 8700.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3644/2024/7823221.pdf",
+          "nomeFornecedor": "F.S. CORREA NETO",
+          "cnpjCpfFornecedor": "24438651000126",
+          "valorLiquido": 8700.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 2,
+          "tipoDespesa": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA.",
+          "codDocumento": 7889314,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-12T00:00:00",
+          "numDocumento": "00000724",
+          "valorDocumento": 8700.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3644/2025/7889314.pdf",
+          "nomeFornecedor": "F.S. CORREA NETO",
+          "cnpjCpfFornecedor": "24438651000126",
+          "valorLiquido": 8700.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 1,
+          "tipoDespesa": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA.",
+          "codDocumento": 7866197,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-02-10T00:00:00",
+          "numDocumento": "00000714",
+          "valorDocumento": 8700.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3644/2025/7866197.pdf",
+          "nomeFornecedor": "F.S. CORREA NETO",
+          "cnpjCpfFornecedor": "24438651000126",
+          "valorLiquido": 8700.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

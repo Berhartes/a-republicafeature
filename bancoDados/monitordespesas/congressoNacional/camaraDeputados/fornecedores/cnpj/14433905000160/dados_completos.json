@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO ITA DE DERIVADOS DE PETROLEO CONTERRANEO LTD",
+      "cnpj": "14433905000160",
+      "total_recebido": 610.98,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:27.829240"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 610.98
+  },
+  "anos": {
+    "2024": {
+      "total": 610.98,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160600": {
+      "deputado": {
+        "id": 160600,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160600",
+        "nome": "Arthur Oliveira Maia",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
+        "email": "dep.arthuroliveiramaia@camara.leg.br"
+      },
+      "total": 610.98,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7792010,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-15T10:55:14",
+          "numDocumento": "28768",
+          "valorDocumento": 232.49,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7792010",
+          "nomeFornecedor": "POSTO ITA DE DERIVADOS DE PETROLEO CONTERRANEO LTD",
+          "cnpjCpfFornecedor": "14433905000160",
+          "valorLiquido": 232.49,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7755702,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-13T09:21:16",
+          "numDocumento": "25441",
+          "valorDocumento": 378.49,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7755702",
+          "nomeFornecedor": "POSTO ITA DE DERIVADOS DE PETROLEO CONTERRANEO LTD",
+          "cnpjCpfFornecedor": "14433905000160",
+          "valorLiquido": 378.49,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

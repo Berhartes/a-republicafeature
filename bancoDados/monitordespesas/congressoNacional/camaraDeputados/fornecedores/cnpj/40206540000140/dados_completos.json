@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PEJU PRODUÇÕES EIRELI",
+      "cnpj": "40206540000140",
+      "total_recebido": 107438.0,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:07.248229"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 107438.0
+  },
+  "anos": {
+    "2023": {
+      "total": 67438.0,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 40000.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220675": {
+      "deputado": {
+        "id": 220675,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220675",
+        "nome": "Antônio Doido",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "PA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220675.jpg",
+        "email": "dep.antoniodoido@camara.leg.br"
+      },
+      "total": 107438.0,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7694819,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-01T00:00:00",
+          "numDocumento": "00000044",
+          "valorDocumento": 18000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3532/2024/7694819.pdf",
+          "nomeFornecedor": "PEJU PRODUÇÕES EIRELI",
+          "cnpjCpfFornecedor": "40206540000140",
+          "valorLiquido": 18000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7665928,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-19T00:00:00",
+          "numDocumento": "00000041",
+          "valorDocumento": 36438.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3532/2023/7665928.pdf",
+          "nomeFornecedor": "PEJU PRODUÇÕES EIRELI",
+          "cnpjCpfFornecedor": "40206540000140",
+          "valorLiquido": 36438.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7642532,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-12T00:00:00",
+          "numDocumento": "00000040",
+          "valorDocumento": 13000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3532/2023/7642532.pdf",
+          "nomeFornecedor": "PEJU PRODUÇÕES EIRELI",
+          "cnpjCpfFornecedor": "40206540000140",
+          "valorLiquido": 13000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7730534,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-06T00:00:00",
+          "numDocumento": "00000050",
+          "valorDocumento": 25000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3532/2024/7730534.pdf",
+          "nomeFornecedor": "PEJU PRODUÇÕES EIRELI",
+          "cnpjCpfFornecedor": "40206540000140",
+          "valorLiquido": 25000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7702183,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-13T00:00:00",
+          "numDocumento": "00000046",
+          "valorDocumento": 15000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3532/2024/7702183.pdf",
+          "nomeFornecedor": "PEJU PRODUÇÕES EIRELI",
+          "cnpjCpfFornecedor": "40206540000140",
+          "valorLiquido": 15000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

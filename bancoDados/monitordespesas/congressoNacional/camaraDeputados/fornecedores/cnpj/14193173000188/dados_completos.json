@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MARIA BONITA - COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+      "cnpj": "14193173000188",
+      "total_recebido": 1208.2799999999997,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:18.676424"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1208.2799999999997
+  },
+  "anos": {
+    "2024": {
+      "total": 1208.2799999999997,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220690": {
+      "deputado": {
+        "id": 220690,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220690",
+        "nome": "Capitão Alden",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
+        "email": "dep.capitaoalden@camara.leg.br"
+      },
+      "total": 1208.2799999999997,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7795525,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-31T11:54:31",
+          "numDocumento": "180158",
+          "valorDocumento": 171.18,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7795525",
+          "nomeFornecedor": "MARIA BONITA - COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+          "cnpjCpfFornecedor": "14193173000188",
+          "valorLiquido": 171.18,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7753762,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-15T10:54:01",
+          "numDocumento": "162089",
+          "valorDocumento": 385.15,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7753762",
+          "nomeFornecedor": "MARIA BONITA - COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+          "cnpjCpfFornecedor": "14193173000188",
+          "valorLiquido": 385.15,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7712459,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-02T17:16:25",
+          "numDocumento": "145003",
+          "valorDocumento": 313.06,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7712459",
+          "nomeFornecedor": "MARIA BONITA - COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+          "cnpjCpfFornecedor": "14193173000188",
+          "valorLiquido": 313.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7696159,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-01T11:26:27",
+          "numDocumento": "137146",
+          "valorDocumento": 338.89,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7696159",
+          "nomeFornecedor": "MARIA BONITA - COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+          "cnpjCpfFornecedor": "14193173000188",
+          "valorLiquido": 338.89,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

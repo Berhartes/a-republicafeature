@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO AGUA VIVA LTDA",
+      "cnpj": "06081417000102",
+      "total_recebido": 3108.0,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:22.597827"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 3108.0
+  },
+  "anos": {
+    "2023": {
+      "total": 593.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 1722.0,
+      "transacoes": 4,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 793.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160541": {
+      "deputado": {
+        "id": 160541,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160541",
+        "nome": "Arthur Lira",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "AL",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160541.jpg",
+        "email": "dep.arthurlira@camara.leg.br"
+      },
+      "total": 3108.0,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7610236,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-27T00:00:00",
+          "numDocumento": "144550",
+          "valorDocumento": 593.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7610236",
+          "nomeFornecedor": "AUTO POSTO AGUA VIVA LTDA",
+          "cnpjCpfFornecedor": "06081417000102",
+          "valorLiquido": 593.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7820509,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-05T09:53:39",
+          "numDocumento": "193043",
+          "valorDocumento": 622.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7820509",
+          "nomeFornecedor": "POSTO SALOME LTDA",
+          "cnpjCpfFornecedor": "06081417000102",
+          "valorLiquido": 622.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7793195,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-26T09:52:02",
+          "numDocumento": "182731",
+          "valorDocumento": 430.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7793195",
+          "nomeFornecedor": "POSTO SALOME LTDA",
+          "cnpjCpfFornecedor": "06081417000102",
+          "valorLiquido": 430.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7711739,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-24T13:30:37",
+          "numDocumento": "167062",
+          "valorDocumento": 570.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7711739",
+          "nomeFornecedor": "AUTO POSTO AGUA VIVA LTDA",
+          "cnpjCpfFornecedor": "06081417000102",
+          "valorLiquido": 570.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7693228,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-17T00:00:00",
+          "numDocumento": "163287",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7693228",
+          "nomeFornecedor": "AUTO POSTO AGUA VIVA LTDA",
+          "cnpjCpfFornecedor": "06081417000102",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7949416,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-22T00:00:00",
+          "numDocumento": "233971",
+          "valorDocumento": 500.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7949416",
+          "nomeFornecedor": "POSTO SALOME LTDA",
+          "cnpjCpfFornecedor": "06081417000102",
+          "valorLiquido": 500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7888474,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-02-20T14:55:45",
+          "numDocumento": "214861",
+          "valorDocumento": 293.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7888474",
+          "nomeFornecedor": "POSTO SALOME LTDA",
+          "cnpjCpfFornecedor": "06081417000102",
+          "valorLiquido": 293.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

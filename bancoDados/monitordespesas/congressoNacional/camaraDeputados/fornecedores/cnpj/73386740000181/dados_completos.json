@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GROTTI E LIBERA LTDA",
+      "cnpj": "73386740000181",
+      "total_recebido": 239.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:15.056992"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 239.0
+  },
+  "anos": {
+    "2024": {
+      "total": 239.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220698": {
+      "deputado": {
+        "id": 220698,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220698",
+        "nome": "Beto Preto",
+        "siglaPartido": "PSD",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
+        "email": null
+      },
+      "total": 239.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7803130,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-15T00:00:00",
+          "numDocumento": "36120",
+          "valorDocumento": 239.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7803130",
+          "nomeFornecedor": "GROTTI E LIBERA LTDA",
+          "cnpjCpfFornecedor": "73386740000181",
+          "valorLiquido": 239.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "DALETH VEICULOS LTDA EPP",
+      "cnpj": "04515963000189",
+      "total_recebido": 19600.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:41.298748"
+  },
+  "categorias": {
+    "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 19600.0
+  },
+  "anos": {
+    "2024": {
+      "total": 19600.0,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74052": {
+      "deputado": {
+        "id": 74052,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74052",
+        "nome": "Bosco Costa",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74052.jpg",
+        "email": null
+      },
+      "total": 19600.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7824583,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-01T00:00:00",
+          "numDocumento": "539",
+          "valorDocumento": 4900.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1549/2024/7824583.pdf",
+          "nomeFornecedor": "DALETH VEICULOS LTDA EPP",
+          "cnpjCpfFornecedor": "04515963000189",
+          "valorLiquido": 4900.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7808897,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-01T00:00:00",
+          "numDocumento": "514",
+          "valorDocumento": 4900.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1549/2024/7808897.pdf",
+          "nomeFornecedor": "DALETH VEICULOS LTDA EPP",
+          "cnpjCpfFornecedor": "04515963000189",
+          "valorLiquido": 4900.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7795710,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-02T00:00:00",
+          "numDocumento": "491",
+          "valorDocumento": 4900.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1549/2024/7795710.pdf",
+          "nomeFornecedor": "DALETH VEICULOS LTDA EPP",
+          "cnpjCpfFornecedor": "04515963000189",
+          "valorLiquido": 4900.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7782730,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-07T00:00:00",
+          "numDocumento": "469",
+          "valorDocumento": 4900.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1549/2024/7782730.pdf",
+          "nomeFornecedor": "DALETH VEICULOS LTDA EPP",
+          "cnpjCpfFornecedor": "04515963000189",
+          "valorLiquido": 4900.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

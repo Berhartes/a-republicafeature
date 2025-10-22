@@ -1,0 +1,203 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO GERANIUS CAFUBA EIRELLI",
+      "cnpj": "28571216000126",
+      "total_recebido": 1111.25,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:53.925548"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1111.25
+  },
+  "anos": {
+    "2023": {
+      "total": 708.25,
+      "transacoes": 5,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 303.0,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 100.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204460": {
+      "deputado": {
+        "id": 204460,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204460",
+        "nome": "Carlos Jordy",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
+        "email": "dep.carlosjordy@camara.leg.br"
+      },
+      "total": 1111.25,
+      "transacoes": 8,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7643154,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-09T00:00:00",
+          "numDocumento": "417642",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7643154",
+          "nomeFornecedor": "AUTO POSTO GERANIUS CAFUBA EIRELLI",
+          "cnpjCpfFornecedor": "28571216000126",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7647708,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-21T00:00:00",
+          "numDocumento": "422818",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7647708",
+          "nomeFornecedor": "AUTO POSTO GERANIUS CAFUBA EIRELLI",
+          "cnpjCpfFornecedor": "28571216000126",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7620343,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-02T00:00:00",
+          "numDocumento": "403824",
+          "valorDocumento": 176.11,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7620343",
+          "nomeFornecedor": "AUTO POSTO GERANIUS CAFUBA EIRELLI",
+          "cnpjCpfFornecedor": "28571216000126",
+          "valorLiquido": 176.11,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7631096,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-23T00:00:00",
+          "numDocumento": "411549",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7631096",
+          "nomeFornecedor": "AUTO POSTO GERANIUS CAFUBA EIRELLI",
+          "cnpjCpfFornecedor": "28571216000126",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7511835,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-16T00:00:00",
+          "numDocumento": "331930",
+          "valorDocumento": 232.14,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7511835",
+          "nomeFornecedor": "AUTO POSTO GERANIUS CAFUBA EIRELLI",
+          "cnpjCpfFornecedor": "28571216000126",
+          "valorLiquido": 232.14,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7723939,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-22T13:43:47",
+          "numDocumento": "478101",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7723939",
+          "nomeFornecedor": "AUTO POSTO GERANIUS CAFUBA EIRELLI",
+          "cnpjCpfFornecedor": "28571216000126",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7716292,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-10T10:48:56",
+          "numDocumento": "463380",
+          "valorDocumento": 203.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7716292",
+          "nomeFornecedor": "AUTO POSTO GERANIUS CAFUBA EIRELLI",
+          "cnpjCpfFornecedor": "28571216000126",
+          "valorLiquido": 203.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7898245,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-07T16:57:19",
+          "numDocumento": "5111894",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7898245",
+          "nomeFornecedor": "AUTO POSTO GERANIUS CAFUBA EIRELLI",
+          "cnpjCpfFornecedor": "28571216000126",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

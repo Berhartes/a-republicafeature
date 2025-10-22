@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SUBWAY CAMPO NOVO COM. ALIMENTOS LTDA",
+      "cnpj": "24674261000155",
+      "total_recebido": 137.5,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:05.355297"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 137.5
+  },
+  "anos": {
+    "2023": {
+      "total": 83.5,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 54.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220596": {
+      "deputado": {
+        "id": 220596,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220596",
+        "nome": "Amália Barros",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220596.jpg",
+        "email": null
+      },
+      "total": 137.5,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7625856,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-12T00:00:00",
+          "numDocumento": "30604",
+          "valorDocumento": 57.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7625856.pdf",
+          "nomeFornecedor": "SUBWAY CAMPO NOVO COM. ALIMENTOS LTDA",
+          "cnpjCpfFornecedor": "24674261000155",
+          "valorLiquido": 57.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7530267,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-24T00:00:00",
+          "numDocumento": "13666",
+          "valorDocumento": 26.5,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7530267.pdf",
+          "nomeFornecedor": "SUBWAY CAMPO NOVO COM. ALIMENTOS LTDA",
+          "cnpjCpfFornecedor": "24674261000155",
+          "valorLiquido": 26.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7687003,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-16T00:00:00",
+          "numDocumento": "40336",
+          "valorDocumento": 31.5,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2024/7687003.pdf",
+          "nomeFornecedor": "SUBWAY CAMPO NOVO COM. ALIMENTOS LTDA",
+          "cnpjCpfFornecedor": "24674261000155",
+          "valorLiquido": 31.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7702492,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-29T00:00:00",
+          "numDocumento": "41318",
+          "valorDocumento": 22.5,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2024/7702492.pdf",
+          "nomeFornecedor": "SUBWAY CAMPO NOVO COM. ALIMENTOS LTDA",
+          "cnpjCpfFornecedor": "24674261000155",
+          "valorLiquido": 22.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

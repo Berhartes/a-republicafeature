@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SOUZA &amp; MIRANDA LTDA",
+      "cnpj": "03623191000136",
+      "total_recebido": 1429.15,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:53:48.358724"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1429.15
+  },
+  "anos": {
+    "2024": {
+      "total": 689.05,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 740.1,
+      "transacoes": 5,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220548": {
+      "deputado": {
+        "id": 220548,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220548",
+        "nome": "Camila Jara",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "MS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
+        "email": "dep.camilajara@camara.leg.br"
+      },
+      "total": 1429.15,
+      "transacoes": 8,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7734192,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-10T00:00:00",
+          "numDocumento": "316857",
+          "valorDocumento": 245.01,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3637/2024/7734192.pdf",
+          "nomeFornecedor": "SOUZA &amp; MIRANDA LTDA",
+          "cnpjCpfFornecedor": "03623191000136",
+          "valorLiquido": 245.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7696428,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-01T21:50:47",
+          "numDocumento": "305393",
+          "valorDocumento": 205.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7696428",
+          "nomeFornecedor": "SOUZA &amp; MIRANDA LTDA",
+          "cnpjCpfFornecedor": "03623191000136",
+          "valorLiquido": 205.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7673492,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-12T19:57:33",
+          "numDocumento": "297642",
+          "valorDocumento": 239.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7673492",
+          "nomeFornecedor": "SOUZA &amp; MIRANDA LTDA",
+          "cnpjCpfFornecedor": "03623191000136",
+          "valorLiquido": 239.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7963142,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-08T16:32:02",
+          "numDocumento": "388328",
+          "valorDocumento": 260.1,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7963142",
+          "nomeFornecedor": "SOUZA &amp; MIRANDA LTDA",
+          "cnpjCpfFornecedor": "03623191000136",
+          "valorLiquido": 260.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7973553,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-28T00:00:00",
+          "numDocumento": "391691",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7973553",
+          "nomeFornecedor": "SOUZA &amp; MIRANDA LTDA",
+          "cnpjCpfFornecedor": "03623191000136",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7951807,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-17T19:12:39",
+          "numDocumento": "385039",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7951807",
+          "nomeFornecedor": "SOUZA &amp; MIRANDA LTDA",
+          "cnpjCpfFornecedor": "03623191000136",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7951809,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-18T16:26:31",
+          "numDocumento": "385200",
+          "valorDocumento": 230.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7951809",
+          "nomeFornecedor": "SOUZA &amp; MIRANDA LTDA",
+          "cnpjCpfFornecedor": "03623191000136",
+          "valorLiquido": 230.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7939429,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-25T00:00:00",
+          "numDocumento": "381691",
+          "valorDocumento": 50.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7939429",
+          "nomeFornecedor": "SOUZA &amp; MIRANDA LTDA",
+          "cnpjCpfFornecedor": "03623191000136",
+          "valorLiquido": 50.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

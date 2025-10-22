@@ -1,0 +1,40 @@
+Quero continuar a migração do projeto “Monitor de Despesas” para usar exclusivamente os caches ETC e remover os legados. Objetivo: eliminar GlobalDataContext , deputy.store e hooks antigos ( useDeputados , etc.), atualizar imports para os utilitários de migração e consolidar tudo nos hooks ETC ( useDeputadosETC , useFornecedoresETC ), garantindo que o app continue funcionando.
+
+Contexto atual:
+
+- Módulos legados ainda usados:
+  - deputy.store é importado e usado em useDeputados.ts e useListaDeputadosData.ts , e tenta carregar /cache/deputies-cache.json .
+  - GlobalDataContext.tsx define GlobalDataProvider e exporta useGlobalData , useDeputados , useDeputadoDetalhes ; é usado em vários componentes.
+  - App.tsx ainda envolve a árvore com <GlobalDataProvider> .
+- Substitutos e migração:
+  - hooks/migration/index.ts já exporta aliases: useGlobalData aponta para useMigratedGlobalData ; há useDeputiesDataMigration e utilidades de fase de migração.
+  - useDeputadosETC.ts carrega perfil e premiações com fallback de caminhos: '/cache/deputados/deputados-perfildespesas.json' e '/cache/deputados/deputados.json' ; '/cache/deputados/deputados-premiacoes.json' e '/cache/deputados/premiacoes.json' .
+- Dependência do cnpj-cache.json :
+  - src/utils/cnpj-receita-integration.ts carrega cnpj-cache.json via fetchFromCDN e popula um cache em memória; o arquivo aparece no public/cache/caches-manifest.json . Antes de deletar, precisamos migrar essa integração para fonte ETC (provavelmente fornecedores.json ) ou manter temporariamente.
+- Componentes que importam useGlobalData de @/contexts/GlobalDataContext e precisam trocar para @/hooks/migration :
+  - PredictiveMetrics.tsx , TemporalComparison.tsx , useAnaliseData.ts , DeputadosCategoriaPage.tsx , DebugPage.tsx , usePerfilFornecedorData.ts , useDeputadoData.ts , InteractiveCharts.tsx , useGlobalFornecedoresProcessor.ts .
+- Servidores locais já em execução (Windows, Vite dev), manter preview funcional após as alterações.
+O que preciso que você faça agora:
+
+1. 1.
+   Substituir imports de @/contexts/GlobalDataContext por @/hooks/migration onde usamos useGlobalData (os aliases já existem em hooks/migration/index.ts ). Garantir compatibilidade sem quebrar props/retornos.
+2. 2.
+   Remover o uso de <GlobalDataProvider> em App.tsx e ajustar a árvore de componentes para funcionar sem esse provider.
+3. 3.
+   Migrar usos diretos de useDeputados() legado para useDeputadosETC() onde aplicável (ex.: DebugPage.tsx ) e revisar useListaDeputadosData.ts para não depender de deputy.store .
+4. 4.
+   Avaliar e planejar a migração de cnpj-receita-integration.ts :
+   - Opção A: integrar leitura a partir de fornecedores.json ETC (preferível).
+   - Opção B: manter cnpj-cache.json temporariamente e sinalizar no manifest que é legado até concluir a migração.
+5. 5.
+   Após ajustes, validar no dev server que:
+   - Páginas com useGlobalData funcionam via wrapper de migração.
+   - Páginas de deputados e fornecedores leem apenas caches ETC.
+   - Não há fetch a deputies-cache.json , suppliers-cache.json , dashboard-cache.json , analysis-cache.json ou rankings-cache.json .
+Critérios de aceitação:
+
+- Nenhum import de @/contexts/GlobalDataContext permanece nos componentes listados; App.tsx não usa mais <GlobalDataProvider> .
+- DebugPage.tsx e quaisquer usos de useDeputados() passam a usar useDeputadosETC() .
+- A aplicação roda sem erros, carregando dados apenas dos caches ETC.
+- cnpj-cache.json não é removido até definirmos a fonte ETC; deixar nota técnica se mantido.
+Se surgir qualquer incompatibilidade com o UnifiedMicroContextProvider , usar o wrapper de migração já preparado em hooks/migration/useMigrationWrapper.ts (ele aceita contexto e store, com preferZustand desativado inicialmente). Aplique correções mínimas e documente onde necessário.

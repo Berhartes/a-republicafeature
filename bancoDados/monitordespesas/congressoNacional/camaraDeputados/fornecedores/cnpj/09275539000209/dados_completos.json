@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "E.A.R. PEREIRA COMBUSTIVEIS EIRELI",
+      "cnpj": "09275539000209",
+      "total_recebido": 477.72,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:55.542137"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 477.72
+  },
+  "anos": {
+    "2024": {
+      "total": 477.72,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220544": {
+      "deputado": {
+        "id": 220544,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220544",
+        "nome": "Antonio Andrade",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
+        "email": "dep.antonioandrade@camara.leg.br"
+      },
+      "total": 477.72,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7846711,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-12T00:00:00",
+          "numDocumento": "26476",
+          "valorDocumento": 477.72,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7846711",
+          "nomeFornecedor": "E.A.R. PEREIRA COMBUSTIVEIS EIRELI",
+          "cnpjCpfFornecedor": "09275539000209",
+          "valorLiquido": 477.72,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

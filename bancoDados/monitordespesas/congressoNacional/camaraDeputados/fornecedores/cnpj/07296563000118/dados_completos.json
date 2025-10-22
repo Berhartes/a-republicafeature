@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BIANCINI HOTEIS E ADMINISTRACAO DE BENS LTDA.",
+      "cnpj": "07296563000118",
+      "total_recebido": 771.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:33.033608"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 771.0
+  },
+  "anos": {
+    "2024": {
+      "total": 771.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204388": {
+      "deputado": {
+        "id": 204388,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388",
+        "nome": "Bibo Nunes",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
+        "email": "dep.bibonunes@camara.leg.br"
+      },
+      "total": 771.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7798556,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-06T00:00:00",
+          "numDocumento": "20246456",
+          "valorDocumento": 233.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2024/7798556.pdf",
+          "nomeFornecedor": "BIANCINI HOTEIS E ADMINISTRACAO DE BENS LTDA.",
+          "cnpjCpfFornecedor": "07296563000118",
+          "valorLiquido": 233.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7800659,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-06T00:00:00",
+          "numDocumento": "202446455",
+          "valorDocumento": 269.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2024/7800659.pdf",
+          "nomeFornecedor": "VILLA VERGUEIRO HOTEL",
+          "cnpjCpfFornecedor": "07296563000118",
+          "valorLiquido": 269.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7798187,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-06T00:00:00",
+          "numDocumento": "20246457",
+          "valorDocumento": 269.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3273/2024/7798187.pdf",
+          "nomeFornecedor": "VILLA VERGUEIRO HOTEL",
+          "cnpjCpfFornecedor": "07296563000118",
+          "valorLiquido": 269.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

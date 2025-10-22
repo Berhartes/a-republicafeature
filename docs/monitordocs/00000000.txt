@@ -1,0 +1,4 @@
+A pagina http://localhost:5173/gastos/premiacoes e http://localhost:5173/gastos/premiacoes2 tinham uma estrutura fantástica que tinha cards (banner de deputados, tinha premiacao. Tinha muitas variedades que se perderam do frontend. Voce pode procurar todos os elementos dessa página inativos no projeto atualmente ? http://localhost:5173/gastos/premiacoes2 (era um backup que também quebrou). Eu quero que o josso etc crie uma otimizacao semelhante na estrtura dessa pagina.
+
+
+Vamos relembrar uma informação importante. Absolutamente todos os dados que sao usados no package monitordespesas, deve vir do sistema ETC. Sem exceção, todos os dados devem ser oriundos do sistema ETL.   qualquer funcionalidade externa ou dados externos devem ser excluidos. Se a ideia for boa a funcionalidade deve ser migrada para o sistema ETC  

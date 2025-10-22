@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "NC DISTRIBUIDORA DE COMBUSTIVEIS PD LTDA",
+      "cnpj": "46785405000183",
+      "total_recebido": 300.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:07.347101"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 300.0
+  },
+  "anos": {
+    "2024": {
+      "total": 300.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220707": {
+      "deputado": {
+        "id": 220707,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220707",
+        "nome": "Amanda Gentil",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220707.jpg",
+        "email": "dep.amandagentil@camara.leg.br"
+      },
+      "total": 300.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7814631,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-28T22:47:57",
+          "numDocumento": "13840",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7814631",
+          "nomeFornecedor": "NC DISTRIBUIDORA DE COMBUSTIVEIS PD LTDA",
+          "cnpjCpfFornecedor": "46785405000183",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

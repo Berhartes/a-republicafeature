@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "JJS COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "03469182000485",
+      "total_recebido": 400.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:41.885976"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 400.0
+  },
+  "anos": {
+    "2024": {
+      "total": 400.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220577": {
+      "deputado": {
+        "id": 220577,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220577",
+        "nome": "Augusto Puppio",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220577.jpg",
+        "email": null
+      },
+      "total": 400.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7836658,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-14T13:07:08",
+          "numDocumento": "360761",
+          "valorDocumento": 400.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7836658",
+          "nomeFornecedor": "JJS COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "03469182000485",
+          "valorLiquido": 400.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

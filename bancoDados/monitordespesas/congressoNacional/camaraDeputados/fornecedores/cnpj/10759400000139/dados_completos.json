@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTOMOTIVO MOINHOS DE VENTO LTDA",
+      "cnpj": "10759400000139",
+      "total_recebido": 911.23,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:32.565115"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 911.23
+  },
+  "anos": {
+    "2023": {
+      "total": 620.76,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 290.47,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204388": {
+      "deputado": {
+        "id": 204388,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388",
+        "nome": "Bibo Nunes",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
+        "email": "dep.bibonunes@camara.leg.br"
+      },
+      "total": 911.23,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7584751,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-01T00:00:00",
+          "numDocumento": "1706110",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7584751",
+          "nomeFornecedor": "AUTOMOTIVO MOINHOS DE VENTO LTDA",
+          "cnpjCpfFornecedor": "10759400000139",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7555366,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-05T00:00:00",
+          "numDocumento": "1666664",
+          "valorDocumento": 265.77,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7555366",
+          "nomeFornecedor": "AUTOMOTIVO MOINHOS DE VENTO LTDA",
+          "cnpjCpfFornecedor": "10759400000139",
+          "valorLiquido": 265.77,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7501034,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-15T00:00:00",
+          "numDocumento": "1590205",
+          "valorDocumento": 254.99,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7501034",
+          "nomeFornecedor": "AUTOMOTIVO MOINHOS DE VENTO LTDA",
+          "cnpjCpfFornecedor": "10759400000139",
+          "valorLiquido": 254.99,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7846956,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-13T00:00:00",
+          "numDocumento": "8875",
+          "valorDocumento": 290.47,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7846956",
+          "nomeFornecedor": "CENTRO AUTOM MOINHOS DE VENTO COM DE VEIC LTDA",
+          "cnpjCpfFornecedor": "10759400000139",
+          "valorLiquido": 290.47,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "M.A.S COM. DE DERIV. DE PETROLEO LTDA",
+      "cnpj": "17980500000130",
+      "total_recebido": 197.68,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:18.730552"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 197.68
+  },
+  "anos": {
+    "2025": {
+      "total": 197.68,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220690": {
+      "deputado": {
+        "id": 220690,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220690",
+        "nome": "Capitão Alden",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
+        "email": "dep.capitaoalden@camara.leg.br"
+      },
+      "total": 197.68,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7995582,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-23T15:29:57",
+          "numDocumento": "2027009",
+          "valorDocumento": 197.68,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7995582",
+          "nomeFornecedor": "M.A.S COM. DE DERIV. DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "17980500000130",
+          "valorLiquido": 197.68,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

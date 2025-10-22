@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "A 4 DISTRIBUIDORA LTDA",
+      "cnpj": "20072937000180",
+      "total_recebido": 319.0,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:55.554434"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 319.0
+  },
+  "anos": {
+    "2024": {
+      "total": 199.0,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 120.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220544": {
+      "deputado": {
+        "id": 220544,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220544",
+        "nome": "Antonio Andrade",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
+        "email": "dep.antonioandrade@camara.leg.br"
+      },
+      "total": 319.0,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7821780,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-29T00:00:00",
+          "numDocumento": "4418",
+          "valorDocumento": 60.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7821780",
+          "nomeFornecedor": "A 4 DISTRIBUIDORA LTDA",
+          "cnpjCpfFornecedor": "20072937000180",
+          "valorLiquido": 60.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7794550,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-29T00:00:00",
+          "numDocumento": "4147",
+          "valorDocumento": 109.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7794550",
+          "nomeFornecedor": "A 4 DISTRIBUIDORA LTDA",
+          "cnpjCpfFornecedor": "20072937000180",
+          "valorLiquido": 109.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7752354,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-12T00:00:00",
+          "numDocumento": "3823",
+          "valorDocumento": 30.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7752354",
+          "nomeFornecedor": "A 4 DISTRIBUIDORA EIRELI",
+          "cnpjCpfFornecedor": "20072937000180",
+          "valorLiquido": 30.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7931249,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-12T00:00:00",
+          "numDocumento": "5357",
+          "valorDocumento": 60.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7931249",
+          "nomeFornecedor": "A 4 DISTRIBUIDORA LTDA",
+          "cnpjCpfFornecedor": "20072937000180",
+          "valorLiquido": 60.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 2,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7865926,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-02-10T00:00:00",
+          "numDocumento": "4797",
+          "valorDocumento": 60.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7865926",
+          "nomeFornecedor": "A 4 DISTRIBUIDORA LTDA",
+          "cnpjCpfFornecedor": "20072937000180",
+          "valorLiquido": 60.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

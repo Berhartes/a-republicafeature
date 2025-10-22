@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO CANELA LTDA",
+      "cnpj": "08603562000727",
+      "total_recebido": 862.9000000000001,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:05.237364"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 862.9000000000001
+  },
+  "anos": {
+    "2023": {
+      "total": 664.45,
+      "transacoes": 6,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 198.45,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220596": {
+      "deputado": {
+        "id": 220596,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220596",
+        "nome": "Amália Barros",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220596.jpg",
+        "email": null
+      },
+      "total": 862.9000000000001,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7651955,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-04T00:00:00",
+          "numDocumento": "864929",
+          "valorDocumento": 99.55,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7651955.pdf",
+          "nomeFornecedor": "AUTO POSTO CANELA LTDA",
+          "cnpjCpfFornecedor": "08603562000727",
+          "valorLiquido": 99.55,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7585138,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-04T00:00:00",
+          "numDocumento": "800720",
+          "valorDocumento": 107.57,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7585138.pdf",
+          "nomeFornecedor": "AUTO POSTO CANELA LTDA",
+          "cnpjCpfFornecedor": "08603562000727",
+          "valorLiquido": 107.57,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7548232,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-18T00:00:00",
+          "numDocumento": "746451",
+          "valorDocumento": 133.58,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7548232.pdf",
+          "nomeFornecedor": "AUTO POSTO CANELA LTDA",
+          "cnpjCpfFornecedor": "08603562000727",
+          "valorLiquido": 131.58,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7508385,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-10T00:00:00",
+          "numDocumento": "701870",
+          "valorDocumento": 121.15,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7508385.pdf",
+          "nomeFornecedor": "AUTO POSTO CANELA LTDA",
+          "cnpjCpfFornecedor": "08603562000727",
+          "valorLiquido": 100.15,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7515959,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-10T00:00:00",
+          "numDocumento": "702155",
+          "valorDocumento": 130.02,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7515959.pdf",
+          "nomeFornecedor": "AUTO POSTO CANELA LTDA",
+          "cnpjCpfFornecedor": "08603562000727",
+          "valorLiquido": 130.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7511772,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-16T00:00:00",
+          "numDocumento": "705929",
+          "valorDocumento": 95.58,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7511772.pdf",
+          "nomeFornecedor": "AUTO POSTO CANELA LTDA",
+          "cnpjCpfFornecedor": "08603562000727",
+          "valorLiquido": 95.58,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7727333,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-22T00:00:00",
+          "numDocumento": "81108",
+          "valorDocumento": 198.45,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2024/7727333.pdf",
+          "nomeFornecedor": "AUTO POSTO CANELA LTDA",
+          "cnpjCpfFornecedor": "08603562000727",
+          "valorLiquido": 198.45,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

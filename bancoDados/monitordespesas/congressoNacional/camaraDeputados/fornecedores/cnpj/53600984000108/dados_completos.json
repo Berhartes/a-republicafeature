@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO DE COMBUSTIVEIS SAO RAFAEL LTDA",
+      "cnpj": "53600984000108",
+      "total_recebido": 1410.25,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:55:19.184666"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1410.25
+  },
+  "anos": {
+    "2024": {
+      "total": 1410.25,
+      "transacoes": 5,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "164360": {
+      "deputado": {
+        "id": 164360,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164360",
+        "nome": "Carmen Zanotto",
+        "siglaPartido": "CIDADANIA",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/164360.jpg",
+        "email": null
+      },
+      "total": 1410.25,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7787912,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-13T01:45:50",
+          "numDocumento": "201646",
+          "valorDocumento": 282.72,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7787912",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS SAO RAFAEL LTDA",
+          "cnpjCpfFornecedor": "53600984000108",
+          "valorLiquido": 282.72,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7757456,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-20T08:17:38",
+          "numDocumento": "106482",
+          "valorDocumento": 282.19,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7757456",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS SAO RAFAEL LTDA",
+          "cnpjCpfFornecedor": "53600984000108",
+          "valorLiquido": 282.19,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7765696,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-25T23:34:28",
+          "numDocumento": "117217",
+          "valorDocumento": 276.79,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7765696",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS SAO RAFAEL LTDA",
+          "cnpjCpfFornecedor": "53600984000108",
+          "valorLiquido": 276.79,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7757463,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-06T08:35:29",
+          "numDocumento": "80971",
+          "valorDocumento": 284.99,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7757463",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS SAO RAFAEL LTDA",
+          "cnpjCpfFornecedor": "53600984000108",
+          "valorLiquido": 284.99,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7754354,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-13T13:20:19",
+          "numDocumento": "94663",
+          "valorDocumento": 283.56,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7754354",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS SAO RAFAEL LTDA",
+          "cnpjCpfFornecedor": "53600984000108",
+          "valorLiquido": 283.56,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

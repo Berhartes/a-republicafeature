@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO DISBRAVA LTDA",
+      "cnpj": "16988096000188",
+      "total_recebido": 766.45,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:50.563119"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 766.45
+  },
+  "anos": {
+    "2023": {
+      "total": 380.02,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 386.43,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178993": {
+      "deputado": {
+        "id": 178993,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178993",
+        "nome": "Carlos Henrique Gaguim",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178993.jpg",
+        "email": "dep.carloshenriquegaguim@camara.leg.br"
+      },
+      "total": 766.45,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7500020,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-18T00:00:00",
+          "numDocumento": "802183",
+          "valorDocumento": 380.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7500020",
+          "nomeFornecedor": "AUTO POSTO DISBRAVA LTDA",
+          "cnpjCpfFornecedor": "16988096000188",
+          "valorLiquido": 380.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7681969,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-01T00:00:00",
+          "numDocumento": "5509",
+          "valorDocumento": 386.43,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7681969",
+          "nomeFornecedor": "AUTO POSTO DISBRAVA LTDA",
+          "cnpjCpfFornecedor": "16988096000188",
+          "valorLiquido": 386.43,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

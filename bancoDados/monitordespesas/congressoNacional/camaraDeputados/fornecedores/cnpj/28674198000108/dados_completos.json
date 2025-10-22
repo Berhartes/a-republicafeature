@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "W. R. MACEDO POSTO DE COMBUSTIVEL LTDA",
+      "cnpj": "28674198000108",
+      "total_recebido": 813.51,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:50:50.761256"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 813.51
+  },
+  "anos": {
+    "2023": {
+      "total": 813.51,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220676": {
+      "deputado": {
+        "id": 220676,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220676",
+        "nome": "Andreia Siqueira",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "PA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220676.jpg",
+        "email": "dep.andreiasiqueira@camara.leg.br"
+      },
+      "total": 813.51,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7662987,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-02T00:00:00",
+          "numDocumento": "116128",
+          "valorDocumento": 280.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7662987",
+          "nomeFornecedor": "W. R. MACEDO POSTO DE COMBUSTIVEL LTDA",
+          "cnpjCpfFornecedor": "28674198000108",
+          "valorLiquido": 280.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7620460,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-30T00:00:00",
+          "numDocumento": "114053",
+          "valorDocumento": 299.69,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7620460",
+          "nomeFornecedor": "W. R. MACEDO POSTO DE COMBUSTIVEL LTDA",
+          "cnpjCpfFornecedor": "28674198000108",
+          "valorLiquido": 299.69,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7620497,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-30T00:00:00",
+          "numDocumento": "114057",
+          "valorDocumento": 233.82,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7620497",
+          "nomeFornecedor": "W. R. MACEDO POSTO DE COMBUSTIVEL LTDA",
+          "cnpjCpfFornecedor": "28674198000108",
+          "valorLiquido": 233.82,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

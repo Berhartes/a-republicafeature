@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "TRADE COMUNICACAO E MARKETING SS LTDA",
+      "cnpj": "81078289000163",
+      "total_recebido": 42300.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:14.890945"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 42300.0
+  },
+  "anos": {
+    "2023": {
+      "total": 30000.0,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 12300.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220698": {
+      "deputado": {
+        "id": 220698,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220698",
+        "nome": "Beto Preto",
+        "siglaPartido": "PSD",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
+        "email": null
+      },
+      "total": 42300.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7527529,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-17T00:00:00",
+          "numDocumento": "55409",
+          "valorDocumento": 10000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3550/2023/7527529.pdf",
+          "nomeFornecedor": "TRADE COMUNICACAO E MARKETING SS LTDA",
+          "cnpjCpfFornecedor": "81078289000163",
+          "valorLiquido": 10000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7527527,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-17T00:00:00",
+          "numDocumento": "55408",
+          "valorDocumento": 10000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3550/2023/7527527.pdf",
+          "nomeFornecedor": "TRADE COMUNICAÇAO E MARKETINGS LTDA",
+          "cnpjCpfFornecedor": "81078289000163",
+          "valorLiquido": 10000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7527526,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-17T00:00:00",
+          "numDocumento": "55407",
+          "valorDocumento": 10000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3550/2023/7527526.pdf",
+          "nomeFornecedor": "TRADE COMUNICAÇAO E MARKETINGS LTDA",
+          "cnpjCpfFornecedor": "81078289000163",
+          "valorLiquido": 10000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7814114,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-21T00:00:00",
+          "numDocumento": "69965",
+          "valorDocumento": 12300.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3550/2024/7814114.pdf",
+          "nomeFornecedor": "TRADE COMUNICAÇAO E MARKETINGS LTDA",
+          "cnpjCpfFornecedor": "81078289000163",
+          "valorLiquido": 12300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

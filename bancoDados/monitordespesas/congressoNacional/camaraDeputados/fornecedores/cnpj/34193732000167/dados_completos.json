@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO TREVO DO FRANCES LTDA",
+      "cnpj": "34193732000167",
+      "total_recebido": 640.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:22.629946"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 640.0
+  },
+  "anos": {
+    "2024": {
+      "total": 640.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160541": {
+      "deputado": {
+        "id": 160541,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160541",
+        "nome": "Arthur Lira",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "AL",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160541.jpg",
+        "email": "dep.arthurlira@camara.leg.br"
+      },
+      "total": 640.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7845260,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-06T00:00:00",
+          "numDocumento": "461267",
+          "valorDocumento": 640.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7845260",
+          "nomeFornecedor": "AUTO POSTO TREVO DO FRANCES LTDA",
+          "cnpjCpfFornecedor": "34193732000167",
+          "valorLiquido": 640.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

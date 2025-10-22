@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "REDE JG CALDEIRAO GRANDE COMERCIO DE COMBUSTIVEIS E LUBRIFIC",
+      "cnpj": "39431902000118",
+      "total_recebido": 180.02,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:18.782821"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 180.02
+  },
+  "anos": {
+    "2025": {
+      "total": 180.02,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220690": {
+      "deputado": {
+        "id": 220690,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220690",
+        "nome": "Capitão Alden",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
+        "email": "dep.capitaoalden@camara.leg.br"
+      },
+      "total": 180.02,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7900115,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-13T00:00:00",
+          "numDocumento": "268453",
+          "valorDocumento": 180.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7900115",
+          "nomeFornecedor": "REDE JG CALDEIRAO GRANDE COMERCIO DE COMBUSTIVEIS E LUBRIFIC",
+          "cnpjCpfFornecedor": "39431902000118",
+          "valorLiquido": 180.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

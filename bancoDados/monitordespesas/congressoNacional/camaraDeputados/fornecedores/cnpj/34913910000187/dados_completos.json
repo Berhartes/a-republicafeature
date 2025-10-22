@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "LEONARDO PETIZ SILVA MIRANDA",
+      "cnpj": "34913910000187",
+      "total_recebido": 88465.4,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:53:48.000366"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 88465.4
+  },
+  "anos": {
+    "2023": {
+      "total": 62765.4,
+      "transacoes": 6,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 25700.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220548": {
+      "deputado": {
+        "id": 220548,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220548",
+        "nome": "Camila Jara",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "MS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
+        "email": "dep.camilajara@camara.leg.br"
+      },
+      "total": 88465.4,
+      "transacoes": 8,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7661676,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-13T00:00:00",
+          "numDocumento": "00000395",
+          "valorDocumento": 12690.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3637/2023/7661676.pdf",
+          "nomeFornecedor": "LEONARDO PETIZ SILVA MIRANDA",
+          "cnpjCpfFornecedor": "34913910000187",
+          "valorLiquido": 12690.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7637562,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-06T00:00:00",
+          "numDocumento": "00000378",
+          "valorDocumento": 10820.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3637/2023/7637562.pdf",
+          "nomeFornecedor": "LEONARDO PETIZ SILVA MIRANDA",
+          "cnpjCpfFornecedor": "34913910000187",
+          "valorLiquido": 10820.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7637573,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-06T00:00:00",
+          "numDocumento": "00000380",
+          "valorDocumento": 4520.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3637/2023/7637573.pdf",
+          "nomeFornecedor": "LEONARDO PETIZ SILVA MIRANDA",
+          "cnpjCpfFornecedor": "34913910000187",
+          "valorLiquido": 4520.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7569571,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-04T00:00:00",
+          "numDocumento": "00000325",
+          "valorDocumento": 12970.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3637/2023/7569571.pdf",
+          "nomeFornecedor": "LEONARDO PETIZ SILVA MIRANDA",
+          "cnpjCpfFornecedor": "34913910000187",
+          "valorLiquido": 12970.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7554178,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-05T00:00:00",
+          "numDocumento": "00000316",
+          "valorDocumento": 13385.4,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3637/2023/7554178.pdf",
+          "nomeFornecedor": "LEONARDO PETIZ SILVA MIRANDA",
+          "cnpjCpfFornecedor": "34913910000187",
+          "valorLiquido": 13385.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7538312,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-05T00:00:00",
+          "numDocumento": "00000298",
+          "valorDocumento": 8380.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3637/2023/7538312.pdf",
+          "nomeFornecedor": "LEONARDO PETIZ SILVA MIRANDA",
+          "cnpjCpfFornecedor": "34913910000187",
+          "valorLiquido": 8380.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7699781,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-11T00:00:00",
+          "numDocumento": "00000414",
+          "valorDocumento": 12180.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3637/2024/7699781.pdf",
+          "nomeFornecedor": "LEONARDO PETIZ SILVA MIRANDA",
+          "cnpjCpfFornecedor": "34913910000187",
+          "valorLiquido": 12180.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7673476,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-16T00:00:00",
+          "numDocumento": "00000402",
+          "valorDocumento": 13520.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3637/2024/7673476.pdf",
+          "nomeFornecedor": "LEONARDO PETIZ SILVA MIRANDA",
+          "cnpjCpfFornecedor": "34913910000187",
+          "valorLiquido": 13520.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

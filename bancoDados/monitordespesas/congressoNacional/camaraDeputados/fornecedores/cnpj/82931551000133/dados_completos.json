@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO IRMÃO DA ESTRADA LTDA",
+      "cnpj": "82931551000133",
+      "total_recebido": 601.99,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:42.584718"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 601.99
+  },
+  "anos": {
+    "2023": {
+      "total": 309.97,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 292.02,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204361": {
+      "deputado": {
+        "id": 204361,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
+        "nome": "Carlos Chiodini",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+        "email": null
+      },
+      "total": 601.99,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7646573,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-06T00:00:00",
+          "numDocumento": "000480446",
+          "valorDocumento": 309.97,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2023/7646573.pdf",
+          "nomeFornecedor": "POSTO IRMÃO DA ESTRADA LTDA",
+          "cnpjCpfFornecedor": "82931551000133",
+          "valorLiquido": 309.97,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7725571,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-03T00:00:00",
+          "numDocumento": "000572898",
+          "valorDocumento": 292.02,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7725571.pdf",
+          "nomeFornecedor": "POSTO IRMÃO DA ESTRADA LTDA",
+          "cnpjCpfFornecedor": "82931551000133",
+          "valorLiquido": 292.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

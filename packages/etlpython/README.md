@@ -1,0 +1,139 @@
+# ETL Python - A República
+
+Python implementation of the ETL pipeline for Câmara dos Deputados expenses data.
+
+## 🐍 Features
+
+- **Fast & Efficient**: Python's data processing libraries (pandas, requests)
+- **Clean Code**: Modular architecture with extract/transform/load separation
+- **Type Safety**: Pydantic models for data validation
+- **CLI Interface**: Simple command-line interface matching the original TypeScript version
+
+## 🚀 Quick Start
+
+### Using pnpm (recommended)
+```bash
+cd packages/etlpython
+pnpm run etl:despesasdeputados:pc 57 10
+```
+
+### Using Python directly
+```bash
+cd packages/etlpython
+python3 -m etlpython.sources.congresso_nacional.camara_deputados.cli 57 10
+```
+
+## 📝 Usage
+
+```bash
+python3 -m etlpython.sources.congresso_nacional.camara_deputados.cli [legislatura] [limit] [--ano-inicio AAAA] [--ano-fim AAAA]
+```
+
+- **legislatura**: Legislature number (default: 57)
+- **limit**: Maximum number of deputados to process (optional)
+- **--ano-inicio / --ano-fim**: Restrict the extraction to a specific range of years
+
+### Examples
+
+```bash
+# Process all deputados from legislature 57
+python3 -m etlpython.sources.congresso_nacional.camara_deputados.cli 57
+
+# Process only first 10 deputados from legislature 57
+python3 -m etlpython.sources.congresso_nacional.camara_deputados.cli 57 10
+
+# Process first 5 deputados from legislature 56, anos 2022–2023
+python3 -m etlpython.sources.congresso_nacional.camara_deputados.cli 56 5 --ano-inicio 2022 --ano-fim 2023
+```
+
+## 🧱 Materializar fornecedores existentes
+
+Replicando o comando `materialize:unified` da versão TypeScript:
+
+```bash
+# Via pnpm
+pnpm run etl:materialize:unified -- --dataset bancoDados/monitordespesas/fornecedores/fornecedores.json --cache-output packages/monitor-despesas-next/public/cache
+
+# Via Python
+python3 -m etlpython.cli.materialize_unified --dataset bancoDados/monitordespesas/fornecedores/fornecedores.json --cache-output packages/monitor-despesas-next/public/cache
+```
+
+Opções disponíveis:
+
+- `--dataset <caminho>`: arquivo JSON de fornecedores (se não informado tenta descobrir automaticamente)
+- `--output <caminho>`: caminho do SQLite gerado (default `bancoDados/monitordespesas/monitordespesas.db`)
+- `--dry-run`: apenas valida o dataset e exibe o resumo, sem criar o arquivo
+- `--cache-output <dir>`: destino para os caches consumidos pelo frontend (default `packages/monitor-despesas-next/public/cache`)
+- `--legislatura <n>`: número da legislatura considerado nos metadados (default `57`)
+- `--cache-version <v>`: versão atribuída ao manifest/caches gerados (default `1.0.0`)
+- `--no-cache`: evita gerar arquivos de cache (útil para testes rápidos)
+
+## 📊 Output
+
+The ETL generates the following files in `bancoDados/monitordespesas/`:
+
+- `fornecedores/fornecedores.json` - Consolidated supplier data with rankings
+- `deputados/deputados.json` - Summary data for each deputado
+- `manifest.json` - Processing metadata and statistics
+
+## 🏗️ Architecture
+
+```
+src/etlpython/
+├── extract/          # Data extraction from Câmara API
+│   └── camara_api.py
+├── transform/        # Data processing and normalization
+│   └── processors.py
+├── load/            # Data persistence
+│   └── file_writer.py
+├── cli/             # Command-line interface
+│   └── despesas.py
+└── models.py        # Pydantic data models
+```
+
+## 🔧 Dependencies
+
+- **Python 3.9+**
+- **requests** - HTTP client for API calls
+- **pandas** - Data manipulation and analysis
+- **click** - CLI framework
+- **rich** - Terminal formatting
+- **pydantic** - Data validation and settings
+
+## 🆚 vs TypeScript Version
+
+| Feature | Python | TypeScript |
+|---------|--------|------------|
+| **Performance** | ⚡ Faster data processing | ✅ Good |
+| **Memory Usage** | 🟢 Efficient with pandas | 🟡 Higher with JS objects |
+| **Code Clarity** | 🎯 Cleaner transformations | 🔄 Verbose |
+| **Dependencies** | 📦 Standard ecosystem | 🔧 Node.js specific |
+| **Setup** | 🐍 Python venv | 📋 npm/pnpm |
+
+## ⚡ Performance
+
+Sample results with 10 deputados:
+- **Processing Time**: ~30 seconds
+- **Suppliers Found**: 854
+- **Total Expenses**: R$ 4,283,983.00
+- **API Calls**: ~50 requests (with rate limiting)
+
+## 🛠️ Development
+
+Install in development mode:
+```bash
+python3 -m pip install -e .
+```
+
+Run with full package structure:
+```bash
+python3 -m etlpython.cli.despesas 57 10
+```
+
+## 📈 Future Enhancements
+
+- [ ] Add support for multiple years
+- [ ] Implement async HTTP requests for better performance
+- [ ] Add data validation and error recovery
+- [ ] Create SQLite database output option
+- [ ] Add progress bars and better logging

@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIO DE COMBUSTIVEIS VHS LTDA",
+      "cnpj": "22882581000175",
+      "total_recebido": 1136.6999999999998,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:42.918317"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1136.6999999999998
+  },
+  "anos": {
+    "2023": {
+      "total": 344.06,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 792.64,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204361": {
+      "deputado": {
+        "id": 204361,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
+        "nome": "Carlos Chiodini",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+        "email": null
+      },
+      "total": 1136.6999999999998,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7510415,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-15T00:00:00",
+          "numDocumento": "000426863",
+          "valorDocumento": 194.06,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2023/7510415.pdf",
+          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS VHS LTDA",
+          "cnpjCpfFornecedor": "22882581000175",
+          "valorLiquido": 194.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7510416,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-23T00:00:00",
+          "numDocumento": "000428853",
+          "valorDocumento": 150.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2023/7510416.pdf",
+          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS VHS LTDA",
+          "cnpjCpfFornecedor": "22882581000175",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7847886,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-03T00:00:00",
+          "numDocumento": "000613182",
+          "valorDocumento": 236.25,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7847886.pdf",
+          "nomeFornecedor": "COMERCIO DE COMBUSTÍVEIS VHS LTDA",
+          "cnpjCpfFornecedor": "22882581000175",
+          "valorLiquido": 236.25,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7841362,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-22T00:00:00",
+          "numDocumento": "000609968",
+          "valorDocumento": 208.31,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7841362.pdf",
+          "nomeFornecedor": "COMERCIO DE COMBUSTÍVEIS VHS LTDA",
+          "cnpjCpfFornecedor": "22882581000175",
+          "valorLiquido": 208.31,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7848011,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-28T00:00:00",
+          "numDocumento": "000611900",
+          "valorDocumento": 248.08,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7848011.pdf",
+          "nomeFornecedor": "COMERCIO DE COMBUSTÍVEIS VHS LTDA",
+          "cnpjCpfFornecedor": "22882581000175",
+          "valorLiquido": 248.08,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7738778,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-19T00:00:00",
+          "numDocumento": "000537943",
+          "valorDocumento": 100.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7738778.pdf",
+          "nomeFornecedor": "COMERCIO DE COMBUSTÍVEIS VHS LTDA",
+          "cnpjCpfFornecedor": "22882581000175",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

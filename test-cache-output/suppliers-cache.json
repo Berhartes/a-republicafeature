@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "generatedAt": "2025-10-22T20:24:46Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "test-fornecedores.json",
+    "version": "0.1.0",
+    "legislatura": 57,
+    "totalFornecedores": 2,
+    "totalDeputados": 3,
+    "valorTotalGeral": 1500.0,
+    "periodoAnalise": {
+      "anos": [
+        2023,
+        2024
+      ],
+      "inicio": 2023,
+      "fim": 2024,
+      "geradoEm": "2025-10-22"
+    }
+  },
+  "data": [
+    {
+      "cnpj": "12345678000190",
+      "nome": "Fornecedor A",
+      "nomeFornecedor": "Fornecedor A",
+      "totalTransacionado": 1000.0,
+      "totalRecebido": 1000.0,
+      "totalRecebidoTodos": 1000.0,
+      "transacoes": 10,
+      "numeroTransacoes": 10,
+      "numeroDeputadosAtendidos": 2,
+      "deputadosAtendidos": 2,
+      "categoria": "Categoria X",
+      "categoriaOriginal": "Categoria X",
+      "categorias": [
+        "Categoria X",
+        "Categoria Y"
+      ],
+      "categoriasOriginais": [
+        "Categoria X",
+        "Categoria Y"
+      ],
+      "categoriasInfo": {
+        "principal": "Categoria X",
+        "normalizadas": [
+          "Categoria X",
+          "Categoria Y"
+        ],
+        "principalOriginal": "Categoria X",
+        "originais": [
+          "Categoria X",
+          "Categoria Y"
+        ]
+      },
+      "distribuicaoTipos": {
+        "Categoria X": {
+          "valor": 600.0,
+          "quantidade": 10
+        },
+        "Categoria Y": {
+          "valor": 400.0,
+          "quantidade": 10
+        }
+      },
+      "distribuicaoTiposOriginais": {
+        "Categoria X": {
+          "valor": 600.0,
+          "quantidade": 10
+        },
+        "Categoria Y": {
+          "valor": 400.0,
+          "quantidade": 10
+        }
+      },
+      "scoreSuspeicao": 75.5,
+      "evolucaoAnual": {
+        "2023": {
+          "valor": 700.0,
+          "transacoes": 6,
+          "deputados": 2
+        },
+        "2024": {
+          "valor": 300.0,
+          "transacoes": 4,
+          "deputados": 1
+        }
+      },
+      "alertas": [
+        "Score alto de suspeição"
+      ],
+      "medalhas": [],
+      "padroesSazonais": {},
+      "temDetalhes": true
+    },
+    {
+      "cnpj": "98765432000110",
+      "nome": "Fornecedor B",
+      "nomeFornecedor": "Fornecedor B",
+      "totalTransacionado": 500.0,
+      "totalRecebido": 500.0,
+      "totalRecebidoTodos": 500.0,
+      "transacoes": 5,
+      "numeroTransacoes": 5,
+      "numeroDeputadosAtendidos": 1,
+      "deputadosAtendidos": 1,
+      "categoria": "Categoria Z",
+      "categoriaOriginal": "Categoria Z",
+      "categorias": [
+        "Categoria Z"
+      ],
+      "categoriasOriginais": [
+        "Categoria Z"
+      ],
+      "categoriasInfo": {
+        "principal": "Categoria Z",
+        "normalizadas": [
+          "Categoria Z"
+        ],
+        "principalOriginal": "Categoria Z",
+        "originais": [
+          "Categoria Z"
+        ]
+      },
+      "distribuicaoTipos": {
+        "Categoria Z": {
+          "valor": 500.0,
+          "quantidade": 5
+        }
+      },
+      "distribuicaoTiposOriginais": {
+        "Categoria Z": {
+          "valor": 500.0,
+          "quantidade": 5
+        }
+      },
+      "scoreSuspeicao": 20.0,
+      "evolucaoAnual": {
+        "2024": {
+          "valor": 500.0,
+          "transacoes": 5,
+          "deputados": 1
+        }
+      },
+      "alertas": [],
+      "medalhas": [],
+      "padroesSazonais": {},
+      "temDetalhes": true
+    }
+  ]
+}

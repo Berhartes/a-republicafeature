@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO PIRABEIRA LTDA.",
+      "cnpj": "09536901000177",
+      "total_recebido": 890.0,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:42.730971"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 670.0,
+    "AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS": 220.0
+  },
+  "anos": {
+    "2023": {
+      "total": 690.0,
+      "transacoes": 4,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 200.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204361": {
+      "deputado": {
+        "id": 204361,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
+        "nome": "Carlos Chiodini",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+        "email": null
+      },
+      "total": 890.0,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7599555,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-01T00:00:00",
+          "numDocumento": "000919821",
+          "valorDocumento": 170.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2023/7599555.pdf",
+          "nomeFornecedor": "AUTO POSTO PIRABEIRA LTDA.",
+          "cnpjCpfFornecedor": "09536901000177",
+          "valorLiquido": 170.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7620896,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-30T00:00:00",
+          "numDocumento": "941386",
+          "valorDocumento": 160.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2023/7620896.pdf",
+          "nomeFornecedor": "AUTO POSTO PIRABEIRA LTDA.",
+          "cnpjCpfFornecedor": "09536901000177",
+          "valorLiquido": 160.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS",
+          "codDocumento": 7555944,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-23T00:00:00",
+          "numDocumento": "000860558",
+          "valorDocumento": 220.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2023/7555944.pdf",
+          "nomeFornecedor": "AUTO POSTO PIRABEIRA LTDA.",
+          "cnpjCpfFornecedor": "09536901000177",
+          "valorLiquido": 220.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7525007,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-07T00:00:00",
+          "numDocumento": "000798773",
+          "valorDocumento": 140.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2023/7525007.pdf",
+          "nomeFornecedor": "AUTO POSTO PIRABEIRA LTDA.",
+          "cnpjCpfFornecedor": "09536901000177",
+          "valorLiquido": 140.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7850323,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-11T18:50:00",
+          "numDocumento": "126710",
+          "valorDocumento": 120.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7850323",
+          "nomeFornecedor": "POSTO BAVARIA LTDA. SIMGE",
+          "cnpjCpfFornecedor": "09536901000177",
+          "valorLiquido": 120.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7850343,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-18T08:24:00",
+          "numDocumento": "135784",
+          "valorDocumento": 80.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7850343",
+          "nomeFornecedor": "POSTO BAVARIA LTDA. SIMGE",
+          "cnpjCpfFornecedor": "09536901000177",
+          "valorLiquido": 80.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

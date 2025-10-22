@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO MONTE BELO MACAIBA - DISTRITO INDUSTRIAL LTDA",
+      "cnpj": "04069473000104",
+      "total_recebido": 377.85,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:52:10.669037"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 377.85
+  },
+  "anos": {
+    "2025": {
+      "total": 377.85,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "109429": {
+      "deputado": {
+        "id": 109429,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/109429",
+        "nome": "Benes Leocádio",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "RN",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/109429.jpg",
+        "email": "dep.benesleocadio@camara.leg.br"
+      },
+      "total": 377.85,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7981918,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-14T14:28:27",
+          "numDocumento": "909613",
+          "valorDocumento": 262.81,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7981918",
+          "nomeFornecedor": "POSTO MONTE BELO MACAIBA - DISTRITO INDUSTRIAL LTDA",
+          "cnpjCpfFornecedor": "04069473000104",
+          "valorLiquido": 262.81,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7970648,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-22T00:00:00",
+          "numDocumento": "900175",
+          "valorDocumento": 115.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7970648",
+          "nomeFornecedor": "POSTO MONTE BELO MACAIBA - DISTRITO INDUSTRIAL LTDA",
+          "cnpjCpfFornecedor": "04069473000104",
+          "valorLiquido": 115.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

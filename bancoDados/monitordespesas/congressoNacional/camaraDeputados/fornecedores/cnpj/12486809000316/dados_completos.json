@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CDA EMPREENDIMENTOS LTDA",
+      "cnpj": "12486809000316",
+      "total_recebido": 1806.42,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:22.545883"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1806.42
+  },
+  "anos": {
+    "2023": {
+      "total": 885.03,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 921.39,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160541": {
+      "deputado": {
+        "id": 160541,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160541",
+        "nome": "Arthur Lira",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "AL",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160541.jpg",
+        "email": "dep.arthurlira@camara.leg.br"
+      },
+      "total": 1806.42,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7659455,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-02T00:00:00",
+          "numDocumento": "899404",
+          "valorDocumento": 600.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7659455",
+          "nomeFornecedor": "CDA EMPREENDIMENTOS LTDA",
+          "cnpjCpfFornecedor": "12486809000316",
+          "valorLiquido": 600.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7610196,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-05T00:00:00",
+          "numDocumento": "838254",
+          "valorDocumento": 285.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7610196",
+          "nomeFornecedor": "CDA EMPREENDIMENTOS LTDA",
+          "cnpjCpfFornecedor": "12486809000316",
+          "valorLiquido": 285.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7793168,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-24T10:30:54",
+          "numDocumento": "1054468",
+          "valorDocumento": 660.72,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7793168",
+          "nomeFornecedor": "CDA EMPREENDIMENTOS LTDA",
+          "cnpjCpfFornecedor": "12486809000316",
+          "valorLiquido": 660.72,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7759656,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-13T13:24:20",
+          "numDocumento": "973952",
+          "valorDocumento": 160.67,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7759656",
+          "nomeFornecedor": "CDA EMPREENDIMENTOS LTDA",
+          "cnpjCpfFornecedor": "12486809000316",
+          "valorLiquido": 160.67,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7759684,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-17T13:14:02",
+          "numDocumento": "976223",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7759684",
+          "nomeFornecedor": "CDA EMPREENDIMENTOS LTDA",
+          "cnpjCpfFornecedor": "12486809000316",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

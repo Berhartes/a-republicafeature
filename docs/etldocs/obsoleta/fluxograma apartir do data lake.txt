@@ -1,0 +1,169 @@
+🏗️ NOMENCLATURAS CORRETAS E FUNÇÕES ESPECÍFICAS
+
+  1️⃣ FONTE EXTERNA
+
+  APIs Governamentais Oficiais
+  - dadosabertos.camara.leg.br/api/v2/ (Câmara dos Deputados)
+  - legis.senado.leg.br/dadosabertos/ (Senado Federal)
+
+  ---
+  2️⃣ ETL EXTRACT (Extração)
+
+  Funções que fazem download das APIs para o Data Lake
+
+  Arquivo: etl-despesas-deputados.ts
+  Função principal: DespesasDeputadosProcessor.extract()
+
+  O que faz:
+  1. Chama API: GET /api/v2/deputados?legislatura=57
+  2. Para cada deputado: GET /api/v2/deputados/{id}/despesas
+  3. Salva dados brutos em: /bancodeDados/congressoNacional/deputados/{id}/despesas.json
+
+  Comando:
+  pnpm run etl:despesasDeputados:pc -- 57 100
+
+  ---
+  3️⃣ DATA LAKE (Armazenamento)
+
+  Arquivos JSON salvos pelo ETL Extract
+
+  Estrutura criada pelo Extract:
+  bancodeDados/
+  ├── congressoNacional/
+  │   └── deputados/
+  │       ├── 160553/
+  │       │   ├── despesas-2024.json    # ← Salvo pelo Extract
+  │       │   └── perfil.json           # ← Salvo pelo Extract
+  │       └── 178957/
+  │           └── despesas-2024.json
+  └── monitordespesas/                  # ← Criado pelo Transform
+      ├── deputados/
+      └── fornecedores/
+
+  Data Lake = repositório de arquivos criado pelo ETL!
+
+  ---
+  4️⃣ ETL TRANSFORM (Transformação)
+
+  Funções que processam arquivos do Data Lake
+
+  Arquivo: materialize-monitor-despesas.ts
+  Função principal: readDeputadosFromLake()
+
+  O que faz:
+  1. Lê arquivos JSON do Data Lake
+  2. Processa e limpa dados inconsistentes
+  3. Calcula métricas: scores, rankings, agregações
+  4. Gera dados processados em /monitordespesas/
+
+  Função específica:
+  async function readDeputadosFromLake(): Promise<DeputadoShard[]> {
+    const lakePath = path.join(DATA_LAKE_ROOT, 'congressoNacional/deputados');
+    const entries = await fs.readdir(lakePath, { withFileTypes: true });
+
+    for (const entry of entries) {
+      const despesasFile = path.join(lakePath, entry.name, 'despesas.json');
+      const rawData = await fs.readJSON(despesasFile); // ← Lê do Data Lake
+      const processedData = transformDespesas(rawData); // ← Processa
+      // ...
+    }
+  }
+
+  ---
+  5️⃣ ETL LOAD (Carregamento)
+
+  Funções que materializam dados processados
+
+  Arquivo: materialize-unified.ts
+  Função principal: materializeSQLite()
+
+  O que faz:
+  1. Pega dados processados do Transform
+  2. Cria SQLite otimizado: /monitordespesas/monitordespesas.db
+  3. Gera JSONs otimizados: /monitordespesas/despesas.json
+  4. Cria índices para performance
+
+  Função específica:
+  async function materializeSQLite(data: ConsolidatedData) {
+    const db = new SQL.Database();
+
+    // Cria schema
+    db.exec(`CREATE TABLE fornecedores (...)`);
+
+    // Insere dados processados
+    const stmt = db.prepare(`INSERT INTO fornecedores VALUES (...)`);
+    data.fornecedores.forEach(f => stmt.run(f));
+
+    // Salva arquivo SQLite
+    const buffer = db.export();
+    fs.writeFileSync('monitordespesas.db', buffer);
+  }
+
+  ---
+  6️⃣ ARMAZENAMENTO MATERIALIZADO
+
+  Dados otimizados gerados pelo ETL Load
+
+  Arquivos criados:
+  - monitordespesas.db (1.12 MB) - SQLite com índices
+  - despesas.json (30.941 registros) - JSON para APIs
+  - agregados.json (35 métricas) - Estatísticas pré-calculadas
+
+  ---
+  7️⃣ BACKEND API
+
+  Funções que servem dados materializados
+
+  Arquivo: fornecedores-unified.ts
+  Função principal: router.get("/")
+
+  O que faz:
+  1. Conecta ao SQLite materializado
+  2. Executa queries com filtros dinâmicos
+  3. Retorna dados via REST API
+
+  Função específica:
+  router.get("/", async (req: Request, res: Response) => {
+    const db = await getDatabaseWithFallback(); // ← Conecta SQLite materializado
+
+    const sql = `SELECT * FROM fornecedores WHERE score_suspeicao BETWEEN ? AND ?`;
+    const results = db.prepare(sql).all(scoreMin, scoreMax); // ← Query no SQLite
+
+    res.json({ fornecedores: results }); // ← Retorna via API
+  });
+
+  ---
+  8️⃣ FRONTEND REACT
+
+  Funções que consomem Backend API
+
+  Arquivo: useFornecedoresData.ts
+  Função principal: useQuery()
+
+  O que faz:
+  1. Faz requisições HTTP para o backend
+  2. Renderiza dados na interface
+  3. Gerencia cache no browser
+
+  ---
+  🔄 FLUXO CRONOLÓGICO CORRETO
+
+  1. APIs Externas (dadosabertos.camara.leg.br)
+     ↓ [ETL Extract - DespesasDeputadosProcessor.extract()]
+
+  2. Data Lake (/bancodeDados/congressoNacional/deputados/*.json)
+     ↓ [ETL Transform - readDeputadosFromLake()]
+
+  3. Dados Processados (/bancodeDados/monitordespesas/*.json)
+     ↓ [ETL Load - materializeSQLite()]
+
+  4. SQLite Materializado (monitordespesas.db)
+     ↓ [Backend API - fornecedores-unified.ts]
+
+  5. REST API (http://localhost:3333/gastos/fornecedores)
+     ↓ [Frontend React - useFornecedoresData()]
+
+  6. Interface do Usuário (localhost:3000)
+
+  A confusão estava na nomenclatura: o "Data Lake" não é a fonte, é o armazenamento intermediário criado pelo ETL
+  Extract!

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BT FARIA LIMA HOTEIS LTDA",
+      "cnpj": "22359283000103",
+      "total_recebido": 870.11,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:12.317391"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 870.11
+  },
+  "anos": {
+    "2023": {
+      "total": 870.11,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220549": {
+      "deputado": {
+        "id": 220549,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220549",
+        "nome": "Any Ortiz",
+        "siglaPartido": "CIDADANIA",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
+        "email": "dep.anyortiz@camara.leg.br"
+      },
+      "total": 870.11,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7561563,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-19T00:00:00",
+          "numDocumento": "00376385",
+          "valorDocumento": 870.11,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3702/2023/7561563.pdf",
+          "nomeFornecedor": "BT FARIA LIMA HOTEIS LTDA",
+          "cnpjCpfFornecedor": "22359283000103",
+          "valorLiquido": 870.11,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

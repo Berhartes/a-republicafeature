@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "FRANCISCO DE SALES DANTAS NOBRE",
+      "cnpj": "08534562000712",
+      "total_recebido": 200.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:54:30.515851"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 200.0
+  },
+  "anos": {
+    "2025": {
+      "total": 200.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "213762": {
+      "deputado": {
+        "id": 213762,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/213762",
+        "nome": "Carla Dickson",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "RN",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/213762.jpg",
+        "email": "dep.carladickson@camara.leg.br"
+      },
+      "total": 200.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7999526,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-08T18:47:08",
+          "numDocumento": "123138",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7999526",
+          "nomeFornecedor": "FRANCISCO DE SALES DANTAS NOBRE",
+          "cnpjCpfFornecedor": "08534562000712",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA",
+      "cnpj": "00645514000102",
+      "total_recebido": 819.01,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T16:51:47.067807"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 819.01
+  },
+  "anos": {
+    "2025": {
+      "total": 819.01,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "69871": {
+      "deputado": {
+        "id": 69871,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/69871",
+        "nome": "Bacelar",
+        "siglaPartido": "PV",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
+        "email": "dep.bacelar@camara.leg.br"
+      },
+      "total": 819.01,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7946238,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-08T09:05:16",
+          "numDocumento": "727360",
+          "valorDocumento": 413.17,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7946238",
+          "nomeFornecedor": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA",
+          "cnpjCpfFornecedor": "00645514000102",
+          "valorLiquido": 413.17,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7952993,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-27T00:00:00",
+          "numDocumento": "729450",
+          "valorDocumento": 405.84,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7952993",
+          "nomeFornecedor": "POSTO CHAME CHAME COMERCIO E SERV DE COMB LTDA",
+          "cnpjCpfFornecedor": "00645514000102",
+          "valorLiquido": 405.84,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}
