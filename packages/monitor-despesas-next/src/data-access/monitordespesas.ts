@@ -249,9 +249,13 @@ async function fetchCacheEntry<T>(filename: string, entry: ManifestEntry): Promi
   
   console.info(`[MonitordespesasService] Fetching from:`, cacheUrl);
   
-  const response = await fetchWithCompression(cacheUrl).catch(() =>
-    fetch(cacheUrl) // Fallback para versão não comprimida
-  );
+  let response;
+  try {
+    response = await fetchWithCompression(cacheUrl);
+  } catch (error) {
+    console.warn(`[MonitordespesasService] fetchWithCompression failed, trying regular fetch:`, error);
+    response = await fetch(cacheUrl);
+  }
 
   if (!response.ok) {
     console.warn(`[MonitordespesasService] Failed to fetch ${filename}: ${response.status}`)
