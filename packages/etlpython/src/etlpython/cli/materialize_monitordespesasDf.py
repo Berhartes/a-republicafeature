@@ -23,7 +23,10 @@ from .rankings_premiacoes import (
     gerar_rankings_deputados,
     gerar_premiacoes_deputados,
     gerar_rankings_fornecedores,
-    gerar_premiacoes_fornecedores
+    gerar_premiacoes_fornecedores,
+    load_detailed_deputados_data,
+    process_detailed_data,
+    gerar_premiacoes_completas
 )
 
 console = Console()
@@ -932,6 +935,8 @@ def generate_frontend_caches(
     *,
     legislatura: int,
     version: str,
+    dados_processados: Optional[Dict[str, Any]] = None,
+    deputados_index: Optional[Dict[int, Any]] = None,
 ) -> None:
     cache_dir = project_root / DEFAULT_CACHE_DIR
     cache_dir.mkdir(exist_ok=True, parents=True)
@@ -957,7 +962,18 @@ def generate_frontend_caches(
     
     # Generate rankings and awards
     rankings_deputados = gerar_rankings_deputados(normalized_deputados)
-    premiacoes_deputados = gerar_premiacoes_deputados(normalized_deputados, rankings_deputados)
+    
+    # Usar gerar_premiacoes_completas se dados processados estiverem disponíveis
+    if dados_processados and deputados_index:
+        console.log("✨ Usando dados detalhados para gerar premiações completas")
+        premiacoes_deputados = gerar_premiacoes_completas(
+            normalized_deputados,
+            dados_processados,
+            deputados_index
+        )
+    else:
+        console.log("⚠️  Usando premiações básicas (sem dados detalhados)")
+        premiacoes_deputados = gerar_premiacoes_deputados(normalized_deputados, rankings_deputados)
     
     rankings_fornecedores = gerar_rankings_fornecedores(normalized_fornecedores)
     premiacoes_fornecedores = gerar_premiacoes_fornecedores(normalized_fornecedores, rankings_fornecedores)
@@ -1058,6 +1074,26 @@ def main():
 
     normalized_fornecedores = normalize_fornecedores(raw_fornecedores)
     normalized_deputados = normalize_deputados(raw_deputados)
+    
+    # Carregar dados detalhados de todos os deputados
+    console.log("📂 Carregando dados detalhados dos deputados...")
+    deputados_dir = fornecedores_dataset_path.parent / "deputadosFederais" / "idDeputados"
+    deputados_ids = [int(d.id) for d in normalized_deputados]
+    
+    detailed_data = load_detailed_deputados_data(deputados_dir, deputados_ids)
+    dados_processados = process_detailed_data(detailed_data)
+    
+    # Criar índice de deputados para lookup rápido
+    deputados_index = {
+        int(d.id): {
+            'id': int(d.id),
+            'nome': d.nome,
+            'partido': d.partido,
+            'uf': d.uf,
+            'total_despesas': d.total_despesas
+        }
+        for d in normalized_deputados
+    }
 
     conn = sqlite3.connect(output_path)
     create_schema(conn)
@@ -1081,6 +1117,8 @@ def main():
         project_root,
         legislatura=args.legislatura,
         version=args.cache_version,
+        dados_processados=dados_processados,
+        deputados_index=deputados_index,
     )
 
     table = Table(title="Resumo da Materialização")

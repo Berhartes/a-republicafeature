@@ -10,7 +10,8 @@ src/etlpython/__init__.py
 src/etlpython/models.py
 src/etlpython/cli/__init__.py
 src/etlpython/cli/despesas.py
-src/etlpython/cli/materialize_unified.py
+src/etlpython/cli/materialize_monitordespesasDf.py
+src/etlpython/cli/rankings_premiacoes.py
 src/etlpython/core/__init__.py
 src/etlpython/core/base_client.py
 src/etlpython/core/base_models.py

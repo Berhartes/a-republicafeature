@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-10-23T18:30:47Z",
+    "source": "etlpython-materialize",
+    "version": "v2.0",
+    "legislatura": 57,
+    "totalPremiacoes": 2
+  },
+  "data": [
+    {
+      "id": "PREMIO-MAIOR-GASTO-220714",
+      "tipo": "MAIOR_GASTO",
+      "entidadeId": "220714",
+      "entidadeNome": "Adail Filho",
+      "valor": 1603834.5,
+      "unidade": "R$",
+      "dataReferencia": "2022-2025",
+      "descricao": "Deputado com o maior gasto total: R$ 1,603,834.50",
+      "createdAt": "2025-10-23T18:30:47.242382Z"
+    },
+    {
+      "id": "PREMIO-MENOR-GASTO-160508",
+      "tipo": "MENOR_GASTO",
+      "entidadeId": "160508",
+      "entidadeNome": "Afonso Florence",
+      "valor": 9203.57,
+      "unidade": "R$",
+      "dataReferencia": "2022-2025",
+      "descricao": "Deputado com o menor gasto total (acima de zero): R$ 9,203.57",
+      "createdAt": "2025-10-23T18:30:47.242382Z"
+    }
+  ]
+}

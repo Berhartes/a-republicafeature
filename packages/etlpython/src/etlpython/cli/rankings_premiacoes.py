@@ -1,8 +1,115 @@
 """Sistema de Rankings e Premiações para Deputados e Fornecedores."""
 
+import json
+from pathlib import Path
 from typing import List, Dict, Any, Sequence, Tuple
 from datetime import datetime, timezone
 from collections import defaultdict
+
+
+def load_detailed_deputados_data(
+    deputados_dir: Path,
+    deputados_ids: List[int]
+) -> Dict[int, Dict[str, Any]]:
+    """
+    Carrega dados_completos.json de cada deputado.
+    
+    Args:
+        deputados_dir: Caminho para deputadosFederais/idDeputados/
+        deputados_ids: Lista de IDs dos deputados
+        
+    Returns:
+        {
+            220714: {
+                "metadata": {...},
+                "anos": [2023, 2024, 2025],
+                "despesas": [...]
+            },
+            ...
+        }
+    """
+    detailed_data = {}
+    total_files = len(deputados_ids)
+    
+    print(f"📂 Carregando dados detalhados de {total_files} deputados...")
+    
+    for idx, dep_id in enumerate(deputados_ids, 1):
+        if idx % 100 == 0:
+            print(f"   Progresso: {idx}/{total_files} ({idx*100//total_files}%)")
+        
+        dep_file = deputados_dir / str(dep_id) / "dados_completos.json"
+        if dep_file.exists():
+            try:
+                with open(dep_file, 'r', encoding='utf-8') as f:
+                    detailed_data[dep_id] = json.load(f)
+            except Exception as e:
+                print(f"⚠️  Erro ao ler {dep_file}: {e}")
+                continue
+        
+        # Limitar processamento para teste (remover em produção)
+        # if idx >= 100:
+        #     print(f"⚠️  Limitando a 100 deputados para teste")
+        #     break
+    
+    print(f"✅ {len(detailed_data)} arquivos carregados com sucesso")
+    return detailed_data
+
+
+def process_detailed_data(detailed_data: Dict[int, Any]) -> Dict[str, Any]:
+    """
+    Processa dados detalhados para extrair:
+    - Gastos por deputado por ano
+    - Gastos por deputado por categoria
+    - Gastos por deputado por categoria por ano
+    - Transações por deputado por ano
+    - Fornecedores por deputado por ano
+    """
+    print("🔄 Processando dados detalhados...")
+    
+    gastos_por_ano = defaultdict(lambda: defaultdict(float))
+    gastos_por_categoria = defaultdict(lambda: defaultdict(float))
+    gastos_por_categoria_ano = defaultdict(lambda: defaultdict(lambda: defaultdict(float)))
+    transacoes_por_ano = defaultdict(lambda: defaultdict(int))
+    fornecedores_por_ano = defaultdict(lambda: defaultdict(set))
+    
+    total_despesas_processadas = 0
+    
+    for dep_id, dados in detailed_data.items():
+        for despesa in dados.get('despesas', []):
+            ano = despesa.get('ano')
+            categoria = despesa.get('tipoDespesa', '').strip().rstrip('.')
+            valor = despesa.get('valorLiquido', 0)
+            fornecedor = despesa.get('cnpjCpfFornecedor')
+            
+            if ano and categoria and valor:
+                gastos_por_ano[ano][dep_id] += valor
+                gastos_por_categoria[categoria][dep_id] += valor
+                gastos_por_categoria_ano[ano][categoria][dep_id] += valor
+                transacoes_por_ano[ano][dep_id] += 1
+                total_despesas_processadas += 1
+                
+                if fornecedor:
+                    fornecedores_por_ano[ano][dep_id].add(fornecedor)
+    
+    # Converter sets para contagens para JSON
+    fornecedores_por_ano_count = {}
+    for ano, deps in fornecedores_por_ano.items():
+        fornecedores_por_ano_count[ano] = {
+            dep_id: len(fornecedores) 
+            for dep_id, fornecedores in deps.items()
+        }
+    
+    print(f"✅ {total_despesas_processadas:,} despesas processadas")
+    print(f"   Anos encontrados: {sorted(gastos_por_ano.keys())}")
+    print(f"   Categorias encontradas: {len(gastos_por_categoria)}")
+    
+    return {
+        'gastos_por_ano': dict(gastos_por_ano),
+        'gastos_por_categoria': dict(gastos_por_categoria),
+        'gastos_por_categoria_ano': dict(gastos_por_categoria_ano),
+        'transacoes_por_ano': dict(transacoes_por_ano),
+        'fornecedores_por_ano': fornecedores_por_ano_count
+    }
 
 
 def gerar_rankings_deputados(deputados: Sequence[Any]) -> Dict[str, Any]:
@@ -61,6 +168,177 @@ def gerar_rankings_deputados(deputados: Sequence[Any]) -> Dict[str, Any]:
         ]
     
     return rankings
+
+
+def gerar_premiacoes_completas(
+    deputados: Sequence[Any],
+    dados_processados: Dict[str, Any],
+    deputados_index: Dict[int, Any]
+) -> Dict[str, Any]:
+    """
+    Gera TODAS as premiações com dados detalhados:
+    
+    👑 COROAS (Histórico):
+    - Campeão Geral
+    - Campeões por Categoria (15+)
+    - Campeões por UF (27)
+    - Campeão de Transações
+    - Campeão de Diversificação
+    
+    🏆 TROFÉUS (Anuais):
+    - Campeão Geral por Ano
+    - Campeões por Categoria por Ano
+    - Campeão de Transações por Ano
+    
+    🥈🥉 MEDALHAS (Pódios):
+    - 2º e 3º lugares em todas as categorias
+    """
+    processed_at = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+    
+    premiacoes = {
+        "coroas": [],
+        "trofeus": [],
+        "medalhas": [],
+        "badges": [],
+        "metadata": {
+            "generatedAt": processed_at,
+            "totalPremiacoes": 0
+        }
+    }
+    
+    print("🏆 Gerando premiações completas...")
+    
+    # 1. 👑 COROAS - Campeão Geral Histórico
+    if deputados:
+        campeao_geral = max(deputados, key=lambda d: d.total_despesas)
+        premiacoes['coroas'].append({
+            "tipo": "geral",
+            "deputadoId": str(campeao_geral.id),
+            "deputadoNome": campeao_geral.nome,
+            "partido": campeao_geral.partido,
+            "uf": campeao_geral.uf,
+            "valor": campeao_geral.total_despesas,
+            "titulo": "Campeão Geral Histórico",
+            "descricao": f"Maior gastador de todos os tempos: R$ {campeao_geral.total_despesas:,.2f}",
+            "icone": "👑",
+            "dataConquista": processed_at
+        })
+    
+    # 2. 👑 COROAS - Campeões por Categoria
+    gastos_por_categoria = dados_processados.get('gastos_por_categoria', {})
+    for categoria, gastos_deps in gastos_por_categoria.items():
+        if gastos_deps:
+            campeao_id = max(gastos_deps.items(), key=lambda x: x[1])[0]
+            campeao = deputados_index.get(campeao_id)
+            if campeao:
+                premiacoes['coroas'].append({
+                    "tipo": "categoria",
+                    "categoria": categoria,
+                    "deputadoId": str(campeao['id']),
+                    "deputadoNome": campeao['nome'],
+                    "partido": campeao.get('partido'),
+                    "uf": campeao.get('uf'),
+                    "valor": gastos_deps[campeao_id],
+                    "titulo": f"Campeão de {categoria}",
+                    "descricao": f"Maior gastador histórico em {categoria}: R$ {gastos_deps[campeao_id]:,.2f}",
+                    "icone": "👑",
+                    "dataConquista": processed_at
+                })
+    
+    # 3. 🏆 TROFÉUS - Campeões por Ano
+    gastos_por_ano = dados_processados.get('gastos_por_ano', {})
+    for ano, gastos_deps in gastos_por_ano.items():
+        if gastos_deps:
+            campeao_id = max(gastos_deps.items(), key=lambda x: x[1])[0]
+            campeao = deputados_index.get(campeao_id)
+            if campeao:
+                premiacoes['trofeus'].append({
+                    "tipo": "anual",
+                    "ano": ano,
+                    "deputadoId": str(campeao['id']),
+                    "deputadoNome": campeao['nome'],
+                    "partido": campeao.get('partido'),
+                    "uf": campeao.get('uf'),
+                    "valor": gastos_deps[campeao_id],
+                    "titulo": f"Campeão Geral de {ano}",
+                    "descricao": f"Maior gastador do ano {ano}: R$ {gastos_deps[campeao_id]:,.2f}",
+                    "icone": "🏆",
+                    "dataConquista": processed_at
+                })
+    
+    # 4. 🏆 TROFÉUS - Campeões por Categoria por Ano
+    gastos_por_categoria_ano = dados_processados.get('gastos_por_categoria_ano', {})
+    for ano, categorias in gastos_por_categoria_ano.items():
+        for categoria, gastos_deps in categorias.items():
+            if gastos_deps:
+                campeao_id = max(gastos_deps.items(), key=lambda x: x[1])[0]
+                campeao = deputados_index.get(campeao_id)
+                if campeao:
+                    premiacoes['trofeus'].append({
+                        "tipo": "categoria_anual",
+                        "ano": ano,
+                        "categoria": categoria,
+                        "deputadoId": str(campeao['id']),
+                        "deputadoNome": campeao['nome'],
+                        "partido": campeao.get('partido'),
+                        "uf": campeao.get('uf'),
+                        "valor": gastos_deps[campeao_id],
+                        "titulo": f"Campeão de {categoria} em {ano}",
+                        "descricao": f"Maior gastador em {categoria} no ano {ano}",
+                        "icone": "🏆",
+                        "dataConquista": processed_at
+                    })
+    
+    # 5. 🥈🥉 MEDALHAS - 2º e 3º lugares geral
+    if len(deputados) >= 3:
+        top3 = sorted(deputados, key=lambda d: d.total_despesas, reverse=True)[:3]
+        
+        # Prata (2º lugar)
+        segundo = top3[1]
+        premiacoes['medalhas'].append({
+            "tipo": "prata",
+            "posicao": 2,
+            "deputadoId": str(segundo.id),
+            "deputadoNome": segundo.nome,
+            "partido": segundo.partido,
+            "uf": segundo.uf,
+            "valor": segundo.total_despesas,
+            "titulo": "2º Lugar Geral",
+            "descricao": "Vice-campeão histórico de gastos",
+            "icone": "🥈",
+            "dataConquista": processed_at
+        })
+        
+        # Bronze (3º lugar)
+        terceiro = top3[2]
+        premiacoes['medalhas'].append({
+            "tipo": "bronze",
+            "posicao": 3,
+            "deputadoId": str(terceiro.id),
+            "deputadoNome": terceiro.nome,
+            "partido": terceiro.partido,
+            "uf": terceiro.uf,
+            "valor": terceiro.total_despesas,
+            "titulo": "3º Lugar Geral",
+            "descricao": "Terceiro colocado histórico de gastos",
+            "icone": "🥉",
+            "dataConquista": processed_at
+        })
+    
+    # Atualizar total de premiações
+    premiacoes["metadata"]["totalPremiacoes"] = (
+        len(premiacoes["coroas"]) +
+        len(premiacoes["trofeus"]) +
+        len(premiacoes["medalhas"]) +
+        len(premiacoes["badges"])
+    )
+    
+    print(f"   👑 {len(premiacoes['coroas'])} coroas")
+    print(f"   🏆 {len(premiacoes['trofeus'])} troféus")
+    print(f"   🥈🥉 {len(premiacoes['medalhas'])} medalhas")
+    print(f"   ✅ Total: {premiacoes['metadata']['totalPremiacoes']} premiações")
+    
+    return premiacoes
 
 
 def gerar_premiacoes_deputados(

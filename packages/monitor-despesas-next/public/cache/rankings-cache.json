@@ -1,608 +1,1135 @@
 {
   "metadata": {
-    "generatedAt": "2025-10-10T01:51:13.452Z",
-    "source": "local-database",
-    "arquivoFonte": "estrutura-hierarquica",
-    "version": "2.0.0",
-    "totalFornecedores": 206,
-    "totalDeputados": 1,
-    "valorTotalGeral": 664597.03,
-    "periodoAnalise": {
-      "arquivo": "estrutura-hierarquica",
-      "geradoEm": "2025-10-10"
-    }
+    "generatedAt": "2025-10-23T18:30:47Z",
+    "source": "etlpython-materialize",
+    "version": "v2.0",
+    "legislatura": 57
   },
   "data": {
-    "metadata": {
-      "generatedAt": "2025-10-10T01:51:13.452Z",
-      "source": "local-database",
-      "arquivoFonte": "estrutura-hierarquica",
-      "version": "2.0.0",
-      "totalFornecedores": 206,
-      "totalDeputados": 1,
-      "valorTotalGeral": 664597.03,
-      "periodoAnalise": {
-        "arquivo": "estrutura-hierarquica",
-        "geradoEm": "2025-10-10"
-      }
-    },
-    "rankings": {
-      "geral": [
-        {
-          "id": 220593,
-          "nomeEleitoral": "Abilio Brunini",
-          "siglaPartido": "PL",
-          "siglaUf": "MT",
-          "valorTotal": 833021.1299999997,
-          "totalTransacoes": 1016,
-          "ranking": 1,
-          "percentualDoTotal": 125.34228899578434,
-          "premiacoes": [],
-          "tendencia": "estavel"
-        }
-      ],
-      "porCategoria": {
-        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": [
+    "deputados": {
+      "rankings": {
+        "geral": [
           {
-            "id": 220593,
-            "nomeEleitoral": "Abilio Brunini",
-            "siglaPartido": "PL",
-            "siglaUf": "MT",
-            "valorTotal": 216736.81999999995,
-            "totalTransacoes": 105,
-            "ranking": 1,
-            "percentualDoTotal": 100,
-            "premiacoes": [],
-            "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-            "tendencia": "estavel"
+            "posicao": 1,
+            "id": "220714",
+            "nome": "Adail Filho",
+            "partido": "REPUBLICANOS",
+            "uf": "AM",
+            "totalDespesas": 1603834.5,
+            "numeroDespesas": 597,
+            "fornecedoresIdentificados": 110
+          },
+          {
+            "posicao": 2,
+            "id": "204379",
+            "nome": "Acácio Favacho",
+            "partido": "MDB",
+            "uf": "AP",
+            "totalDespesas": 1555584.79,
+            "numeroDespesas": 931,
+            "fornecedoresIdentificados": 87
+          },
+          {
+            "posicao": 3,
+            "id": "74646",
+            "nome": "Aécio Neves",
+            "partido": "PSDB",
+            "uf": "MG",
+            "totalDespesas": 1331320.76,
+            "numeroDespesas": 1021,
+            "fornecedoresIdentificados": 58
+          },
+          {
+            "posicao": 4,
+            "id": "204560",
+            "nome": "Adolfo Viana",
+            "partido": "PSDB",
+            "uf": "BA",
+            "totalDespesas": 1241577.49,
+            "numeroDespesas": 538,
+            "fornecedoresIdentificados": 37
+          },
+          {
+            "posicao": 5,
+            "id": "221328",
+            "nome": "Adilson Barroso",
+            "partido": "PL",
+            "uf": "SP",
+            "totalDespesas": 1147924.62,
+            "numeroDespesas": 1186,
+            "fornecedoresIdentificados": 267
+          },
+          {
+            "posicao": 6,
+            "id": "121948",
+            "nome": "Adriano do Baldy",
+            "partido": "PP",
+            "uf": "GO",
+            "totalDespesas": 1091989.78,
+            "numeroDespesas": 1200,
+            "fornecedoresIdentificados": 357
+          },
+          {
+            "posicao": 7,
+            "id": "220593",
+            "nome": "Abilio Brunini",
+            "partido": "PL",
+            "uf": "MT",
+            "totalDespesas": 885663.58,
+            "numeroDespesas": 1043,
+            "fornecedoresIdentificados": 210
+          },
+          {
+            "posicao": 8,
+            "id": "136811",
+            "nome": "Afonso Hamm",
+            "partido": "PP",
+            "uf": "RS",
+            "totalDespesas": 740853.81,
+            "numeroDespesas": 1184,
+            "fornecedoresIdentificados": 320
+          },
+          {
+            "posicao": 9,
+            "id": "204528",
+            "nome": "Adriana Ventura",
+            "partido": "NOVO",
+            "uf": "SP",
+            "totalDespesas": 228336.64,
+            "numeroDespesas": 812,
+            "fornecedoresIdentificados": 39
+          },
+          {
+            "posicao": 10,
+            "id": "160508",
+            "nome": "Afonso Florence",
+            "partido": "PT",
+            "uf": "BA",
+            "totalDespesas": 9203.57,
+            "numeroDespesas": 6,
+            "fornecedoresIdentificados": 3
           }
         ],
-        "COMBUSTÍVEIS E LUBRIFICANTES": [
+        "porAno": {},
+        "porCategoria": {},
+        "porUf": {
+          "AM": [
+            {
+              "posicao": 1,
+              "id": "220714",
+              "nome": "Adail Filho",
+              "partido": "REPUBLICANOS",
+              "totalDespesas": 1603834.5
+            }
+          ],
+          "AP": [
+            {
+              "posicao": 1,
+              "id": "204379",
+              "nome": "Acácio Favacho",
+              "partido": "MDB",
+              "totalDespesas": 1555584.79
+            }
+          ],
+          "MG": [
+            {
+              "posicao": 1,
+              "id": "74646",
+              "nome": "Aécio Neves",
+              "partido": "PSDB",
+              "totalDespesas": 1331320.76
+            }
+          ],
+          "BA": [
+            {
+              "posicao": 1,
+              "id": "204560",
+              "nome": "Adolfo Viana",
+              "partido": "PSDB",
+              "totalDespesas": 1241577.49
+            },
+            {
+              "posicao": 2,
+              "id": "160508",
+              "nome": "Afonso Florence",
+              "partido": "PT",
+              "totalDespesas": 9203.57
+            }
+          ],
+          "SP": [
+            {
+              "posicao": 1,
+              "id": "221328",
+              "nome": "Adilson Barroso",
+              "partido": "PL",
+              "totalDespesas": 1147924.62
+            },
+            {
+              "posicao": 2,
+              "id": "204528",
+              "nome": "Adriana Ventura",
+              "partido": "NOVO",
+              "totalDespesas": 228336.64
+            }
+          ],
+          "GO": [
+            {
+              "posicao": 1,
+              "id": "121948",
+              "nome": "Adriano do Baldy",
+              "partido": "PP",
+              "totalDespesas": 1091989.78
+            }
+          ],
+          "MT": [
+            {
+              "posicao": 1,
+              "id": "220593",
+              "nome": "Abilio Brunini",
+              "partido": "PL",
+              "totalDespesas": 885663.58
+            }
+          ],
+          "RS": [
+            {
+              "posicao": 1,
+              "id": "136811",
+              "nome": "Afonso Hamm",
+              "partido": "PP",
+              "totalDespesas": 740853.81
+            }
+          ]
+        }
+      },
+      "premiacoes": {
+        "coroas": [
           {
-            "id": 220593,
-            "nomeEleitoral": "Abilio Brunini",
-            "siglaPartido": "PL",
-            "siglaUf": "MT",
-            "valorTotal": 115920.69000000015,
-            "totalTransacoes": 632,
-            "ranking": 1,
-            "percentualDoTotal": 100,
-            "premiacoes": [],
+            "tipo": "geral",
+            "deputadoId": "220714",
+            "deputadoNome": "Adail Filho",
+            "partido": "REPUBLICANOS",
+            "uf": "AM",
+            "valor": 1603834.5,
+            "titulo": "Campeão Geral Histórico",
+            "descricao": "Maior gastador de todos os tempos: R$ 1,603,834.50",
+            "icone": "👑",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria",
             "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
-            "tendencia": "estavel"
-          }
-        ],
-        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": [
+            "deputadoId": "121948",
+            "deputadoNome": "Adriano do Baldy",
+            "partido": "PP",
+            "uf": "GO",
+            "valor": 215973.04999999993,
+            "titulo": "Campeão de COMBUSTÍVEIS E LUBRIFICANTES",
+            "descricao": "Maior gastador histórico em COMBUSTÍVEIS E LUBRIFICANTES: R$ 215,973.05",
+            "icone": "👑",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
           {
-            "id": 220593,
-            "nomeEleitoral": "Abilio Brunini",
-            "siglaPartido": "PL",
-            "siglaUf": "MT",
-            "valorTotal": 151942,
-            "totalTransacoes": 38,
-            "ranking": 1,
-            "percentualDoTotal": 100,
-            "premiacoes": [],
+            "tipo": "categoria",
             "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
-            "tendencia": "estavel"
-          }
-        ],
-        "TELEFONIA": [
+            "deputadoId": "220714",
+            "deputadoNome": "Adail Filho",
+            "partido": "REPUBLICANOS",
+            "uf": "AM",
+            "valor": 1115950.0,
+            "titulo": "Campeão de DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+            "descricao": "Maior gastador histórico em DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR: R$ 1,115,950.00",
+            "icone": "👑",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
           {
-            "id": 220593,
-            "nomeEleitoral": "Abilio Brunini",
-            "siglaPartido": "PL",
-            "siglaUf": "MT",
-            "valorTotal": 824.6999999999999,
-            "totalTransacoes": 3,
-            "ranking": 1,
-            "percentualDoTotal": 100,
-            "premiacoes": [],
+            "tipo": "categoria",
             "categoria": "TELEFONIA",
-            "tendencia": "estavel"
-          }
-        ],
-        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": [
+            "deputadoId": "204560",
+            "deputadoNome": "Adolfo Viana",
+            "partido": "PSDB",
+            "uf": "BA",
+            "valor": 23208.04999999999,
+            "titulo": "Campeão de TELEFONIA",
+            "descricao": "Maior gastador histórico em TELEFONIA: R$ 23,208.05",
+            "icone": "👑",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
           {
-            "id": 220593,
-            "nomeEleitoral": "Abilio Brunini",
-            "siglaPartido": "PL",
-            "siglaUf": "MT",
-            "valorTotal": 423.55999999999995,
-            "totalTransacoes": 5,
-            "ranking": 1,
-            "percentualDoTotal": 100,
-            "premiacoes": [],
-            "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-            "tendencia": "estavel"
-          }
-        ],
-        "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": [
-          {
-            "id": 220593,
-            "nomeEleitoral": "Abilio Brunini",
-            "siglaPartido": "PL",
-            "siglaUf": "MT",
-            "valorTotal": 22305.399999999994,
-            "totalTransacoes": 61,
-            "ranking": 1,
-            "percentualDoTotal": 100,
-            "premiacoes": [],
-            "categoria": "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
-            "tendencia": "estavel"
-          }
-        ],
-        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": [
-          {
-            "id": 220593,
-            "nomeEleitoral": "Abilio Brunini",
-            "siglaPartido": "PL",
-            "siglaUf": "MT",
-            "valorTotal": 218915.86,
-            "totalTransacoes": 52,
-            "ranking": 1,
-            "percentualDoTotal": 100,
-            "premiacoes": [],
+            "tipo": "categoria",
             "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
-            "tendencia": "estavel"
-          }
-        ],
-        "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": [
+            "deputadoId": "204560",
+            "deputadoNome": "Adolfo Viana",
+            "partido": "PSDB",
+            "uf": "BA",
+            "valor": 375213.0,
+            "titulo": "Campeão de LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+            "descricao": "Maior gastador histórico em LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES: R$ 375,213.00",
+            "icone": "👑",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
           {
-            "id": 220593,
-            "nomeEleitoral": "Abilio Brunini",
-            "siglaPartido": "PL",
-            "siglaUf": "MT",
-            "valorTotal": 30,
-            "totalTransacoes": 1,
-            "ranking": 1,
-            "percentualDoTotal": 100,
-            "premiacoes": [],
-            "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
-            "tendencia": "estavel"
-          }
-        ],
-        "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS": [
-          {
-            "id": 220593,
-            "nomeEleitoral": "Abilio Brunini",
-            "siglaPartido": "PL",
-            "siglaUf": "MT",
-            "valorTotal": 498,
-            "totalTransacoes": 2,
-            "ranking": 1,
-            "percentualDoTotal": 100,
-            "premiacoes": [],
-            "categoria": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
-            "tendencia": "estavel"
-          }
-        ],
-        "PASSAGEM AÉREA - SIGEPA": [
-          {
-            "id": 220593,
-            "nomeEleitoral": "Abilio Brunini",
-            "siglaPartido": "PL",
-            "siglaUf": "MT",
-            "valorTotal": 105424.09999999998,
-            "totalTransacoes": 117,
-            "ranking": 1,
-            "percentualDoTotal": 100,
-            "premiacoes": [],
+            "tipo": "categoria",
             "categoria": "PASSAGEM AÉREA - SIGEPA",
-            "tendencia": "estavel"
-          }
-        ]
-      },
-      "porAno": {
-        "2025": [
+            "deputadoId": "74646",
+            "deputadoNome": "Aécio Neves",
+            "partido": "PSDB",
+            "uf": "MG",
+            "valor": 395187.24000000034,
+            "titulo": "Campeão de PASSAGEM AÉREA - SIGEPA",
+            "descricao": "Maior gastador histórico em PASSAGEM AÉREA - SIGEPA: R$ 395,187.24",
+            "icone": "👑",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
           {
-            "id": 220593,
-            "nomeEleitoral": "Abilio Brunini",
-            "siglaPartido": "PL",
-            "siglaUf": "MT",
-            "valorTotal": 833021.1299999997,
-            "totalTransacoes": 1016,
-            "ranking": 1,
-            "percentualDoTotal": 125.34228899578434,
-            "premiacoes": [],
-            "tendencia": "estavel"
-          }
-        ]
-      },
-      "porPartido": {
-        "PL": [
+            "tipo": "categoria",
+            "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "deputadoId": "74646",
+            "deputadoNome": "Aécio Neves",
+            "partido": "PSDB",
+            "uf": "MG",
+            "valor": 446892.7299999989,
+            "titulo": "Campeão de MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "descricao": "Maior gastador histórico em MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR: R$ 446,892.73",
+            "icone": "👑",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
           {
-            "id": 220593,
-            "nomeEleitoral": "Abilio Brunini",
-            "siglaPartido": "PL",
-            "siglaUf": "MT",
-            "valorTotal": 833021.1299999997,
-            "totalTransacoes": 1016,
-            "ranking": 1,
-            "percentualDoTotal": 125.34228899578434,
-            "premiacoes": [],
-            "tendencia": "estavel"
-          }
-        ]
-      },
-      "porUF": {
-        "MT": [
+            "tipo": "categoria",
+            "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+            "deputadoId": "204560",
+            "deputadoNome": "Adolfo Viana",
+            "partido": "PSDB",
+            "uf": "BA",
+            "valor": 165832.8,
+            "titulo": "Campeão de LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+            "descricao": "Maior gastador histórico em LOCAÇÃO OU FRETAMENTO DE AERONAVES: R$ 165,832.80",
+            "icone": "👑",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
           {
-            "id": 220593,
-            "nomeEleitoral": "Abilio Brunini",
-            "siglaPartido": "PL",
-            "siglaUf": "MT",
-            "valorTotal": 833021.1299999997,
-            "totalTransacoes": 1016,
-            "ranking": 1,
-            "percentualDoTotal": 125.34228899578434,
-            "premiacoes": [],
-            "tendencia": "estavel"
-          }
-        ]
-      }
-    },
-    "premiacoes": {
-      "coroas": [
-        {
-          "tipo": "coroa",
-          "deputadoId": 220593,
-          "deputadoNome": "Abilio Brunini",
-          "titulo": "Campeão dos Gastos",
-          "descricao": "Deputado com maior gasto total",
-          "categoria": "GERAL",
-          "valor": 833021.1299999997,
-          "ranking": 1
-        }
-      ],
-      "trofeus": [
-        {
-          "tipo": "trofeu",
-          "deputadoId": 220593,
-          "deputadoNome": "Abilio Brunini",
-          "titulo": "Campeão em MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-          "descricao": "Maior gasto na categoria MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-          "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-          "valor": 216736.81999999995,
-          "ranking": 1
-        },
-        {
-          "tipo": "trofeu",
-          "deputadoId": 220593,
-          "deputadoNome": "Abilio Brunini",
-          "titulo": "Campeão em COMBUSTÍVEIS E LUBRIFICANTES",
-          "descricao": "Maior gasto na categoria COMBUSTÍVEIS E LUBRIFICANTES",
-          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
-          "valor": 115920.69000000015,
-          "ranking": 1
-        },
-        {
-          "tipo": "trofeu",
-          "deputadoId": 220593,
-          "deputadoNome": "Abilio Brunini",
-          "titulo": "Campeão em DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
-          "descricao": "Maior gasto na categoria DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
-          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
-          "valor": 151942,
-          "ranking": 1
-        },
-        {
-          "tipo": "trofeu",
-          "deputadoId": 220593,
-          "deputadoNome": "Abilio Brunini",
-          "titulo": "Campeão em TELEFONIA",
-          "descricao": "Maior gasto na categoria TELEFONIA",
-          "categoria": "TELEFONIA",
-          "valor": 824.6999999999999,
-          "ranking": 1
-        },
-        {
-          "tipo": "trofeu",
-          "deputadoId": 220593,
-          "deputadoNome": "Abilio Brunini",
-          "titulo": "Campeão em FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "descricao": "Maior gasto na categoria FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "valor": 423.55999999999995,
-          "ranking": 1
-        },
-        {
-          "tipo": "trofeu",
-          "deputadoId": 220593,
-          "deputadoNome": "Abilio Brunini",
-          "titulo": "Campeão em HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
-          "descricao": "Maior gasto na categoria HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
-          "categoria": "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
-          "valor": 22305.399999999994,
-          "ranking": 1
-        },
-        {
-          "tipo": "trofeu",
-          "deputadoId": 220593,
-          "deputadoNome": "Abilio Brunini",
-          "titulo": "Campeão em LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
-          "descricao": "Maior gasto na categoria LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
-          "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
-          "valor": 218915.86,
-          "ranking": 1
-        },
-        {
-          "tipo": "trofeu",
-          "deputadoId": 220593,
-          "deputadoNome": "Abilio Brunini",
-          "titulo": "Campeão em SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
-          "descricao": "Maior gasto na categoria SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
-          "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
-          "valor": 30,
-          "ranking": 1
-        },
-        {
-          "tipo": "trofeu",
-          "deputadoId": 220593,
-          "deputadoNome": "Abilio Brunini",
-          "titulo": "Campeão em PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
-          "descricao": "Maior gasto na categoria PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
-          "categoria": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
-          "valor": 498,
-          "ranking": 1
-        },
-        {
-          "tipo": "trofeu",
-          "deputadoId": 220593,
-          "deputadoNome": "Abilio Brunini",
-          "titulo": "Campeão em PASSAGEM AÉREA - SIGEPA",
-          "descricao": "Maior gasto na categoria PASSAGEM AÉREA - SIGEPA",
-          "categoria": "PASSAGEM AÉREA - SIGEPA",
-          "valor": 105424.09999999998,
-          "ranking": 1
-        }
-      ],
-      "medalhas": [
-        {
-          "tipo": "medalha",
-          "deputadoId": 220593,
-          "deputadoNome": "Abilio Brunini",
-          "titulo": "Maior Número de Transações",
-          "descricao": "Deputado com mais transações: 1016",
-          "categoria": "ATIVIDADE",
-          "valor": 1016
-        },
-        {
-          "tipo": "medalha",
-          "deputadoId": 220593,
-          "deputadoNome": "Abilio Brunini",
-          "titulo": "Maior Diversidade de Fornecedores",
-          "descricao": "Deputado que utilizou mais fornecedores: 206",
-          "categoria": "DIVERSIDADE",
-          "valor": 206
-        }
-      ],
-      "campeaoGeral": {
-        "id": 220593,
-        "nomeEleitoral": "Abilio Brunini",
-        "siglaPartido": "PL",
-        "siglaUf": "MT",
-        "valorTotal": 833021.1299999997,
-        "totalTransacoes": 1016,
-        "ranking": 1,
-        "percentualDoTotal": 0,
-        "premiacoes": [
+            "tipo": "categoria",
+            "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+            "deputadoId": "204379",
+            "deputadoNome": "Acácio Favacho",
+            "partido": "MDB",
+            "uf": "AP",
+            "valor": 24170.96,
+            "titulo": "Campeão de PASSAGEM AÉREA - REEMBOLSO",
+            "descricao": "Maior gastador histórico em PASSAGEM AÉREA - REEMBOLSO: R$ 24,170.96",
+            "icone": "👑",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
           {
-            "tipo": "coroa",
-            "deputadoId": 220593,
+            "tipo": "categoria",
+            "categoria": "PASSAGEM AÉREA - RPA",
+            "deputadoId": "221328",
+            "deputadoNome": "Adilson Barroso",
+            "partido": "PL",
+            "uf": "SP",
+            "valor": 29274.720000000005,
+            "titulo": "Campeão de PASSAGEM AÉREA - RPA",
+            "descricao": "Maior gastador histórico em PASSAGEM AÉREA - RPA: R$ 29,274.72",
+            "icone": "👑",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria",
+            "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+            "deputadoId": "221328",
+            "deputadoNome": "Adilson Barroso",
+            "partido": "PL",
+            "uf": "SP",
+            "valor": 22923.199999999993,
+            "titulo": "Campeão de SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+            "descricao": "Maior gastador histórico em SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO: R$ 22,923.20",
+            "icone": "👑",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria",
+            "categoria": "ASSINATURA DE PUBLICAÇÕES",
+            "deputadoId": "204528",
+            "deputadoNome": "Adriana Ventura",
+            "partido": "NOVO",
+            "uf": "SP",
+            "valor": 3950.1600000000008,
+            "titulo": "Campeão de ASSINATURA DE PUBLICAÇÕES",
+            "descricao": "Maior gastador histórico em ASSINATURA DE PUBLICAÇÕES: R$ 3,950.16",
+            "icone": "👑",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria",
+            "categoria": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+            "deputadoId": "74646",
+            "deputadoNome": "Aécio Neves",
+            "partido": "PSDB",
+            "uf": "MG",
+            "valor": 1331.0,
+            "titulo": "Campeão de PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+            "descricao": "Maior gastador histórico em PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS: R$ 1,331.00",
+            "icone": "👑",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria",
+            "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+            "deputadoId": "221328",
+            "deputadoNome": "Adilson Barroso",
+            "partido": "PL",
+            "uf": "SP",
+            "valor": 13442.619999999995,
+            "titulo": "Campeão de FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+            "descricao": "Maior gastador histórico em FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR: R$ 13,442.62",
+            "icone": "👑",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria",
+            "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+            "deputadoId": "136811",
+            "deputadoNome": "Afonso Hamm",
+            "partido": "PP",
+            "uf": "RS",
+            "valor": 24744.480000000003,
+            "titulo": "Campeão de HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+            "descricao": "Maior gastador histórico em HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL: R$ 24,744.48",
+            "icone": "👑",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria",
+            "categoria": "AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS",
+            "deputadoId": "204528",
+            "deputadoNome": "Adriana Ventura",
+            "partido": "NOVO",
+            "uf": "SP",
+            "valor": 275.0,
+            "titulo": "Campeão de AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS",
+            "descricao": "Maior gastador histórico em AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS: R$ 275.00",
+            "icone": "👑",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          }
+        ],
+        "trofeus": [
+          {
+            "tipo": "anual",
+            "ano": 2023,
+            "deputadoId": "204379",
+            "deputadoNome": "Acácio Favacho",
+            "partido": "MDB",
+            "uf": "AP",
+            "valor": 585411.6299999998,
+            "titulo": "Campeão Geral de 2023",
+            "descricao": "Maior gastador do ano 2023: R$ 585,411.63",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "anual",
+            "ano": 2024,
+            "deputadoId": "220714",
+            "deputadoNome": "Adail Filho",
+            "partido": "REPUBLICANOS",
+            "uf": "AM",
+            "valor": 595324.5000000003,
+            "titulo": "Campeão Geral de 2024",
+            "descricao": "Maior gastador do ano 2024: R$ 595,324.50",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "anual",
+            "ano": 2025,
+            "deputadoId": "220714",
+            "deputadoNome": "Adail Filho",
+            "partido": "REPUBLICANOS",
+            "uf": "AM",
+            "valor": 441684.93999999994,
+            "titulo": "Campeão Geral de 2025",
+            "descricao": "Maior gastador do ano 2025: R$ 441,684.94",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "anual",
+            "ano": 2022,
+            "deputadoId": "136811",
+            "deputadoNome": "Afonso Hamm",
+            "partido": "PP",
+            "uf": "RS",
+            "valor": 8700.0,
+            "titulo": "Campeão Geral de 2022",
+            "descricao": "Maior gastador do ano 2022: R$ 8,700.00",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2023,
+            "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+            "deputadoId": "121948",
+            "deputadoNome": "Adriano do Baldy",
+            "partido": "PP",
+            "uf": "GO",
+            "valor": 96831.26999999997,
+            "titulo": "Campeão de COMBUSTÍVEIS E LUBRIFICANTES em 2023",
+            "descricao": "Maior gastador em COMBUSTÍVEIS E LUBRIFICANTES no ano 2023",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2023,
+            "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+            "deputadoId": "220714",
+            "deputadoNome": "Adail Filho",
+            "partido": "REPUBLICANOS",
+            "uf": "AM",
+            "valor": 421850.0,
+            "titulo": "Campeão de DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR em 2023",
+            "descricao": "Maior gastador em DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR no ano 2023",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2023,
+            "categoria": "TELEFONIA",
+            "deputadoId": "121948",
+            "deputadoNome": "Adriano do Baldy",
+            "partido": "PP",
+            "uf": "GO",
+            "valor": 10607.900000000001,
+            "titulo": "Campeão de TELEFONIA em 2023",
+            "descricao": "Maior gastador em TELEFONIA no ano 2023",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2023,
+            "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+            "deputadoId": "136811",
+            "deputadoNome": "Afonso Hamm",
+            "partido": "PP",
+            "uf": "RS",
+            "valor": 131872.0,
+            "titulo": "Campeão de LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES em 2023",
+            "descricao": "Maior gastador em LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES no ano 2023",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2023,
+            "categoria": "PASSAGEM AÉREA - SIGEPA",
+            "deputadoId": "74646",
+            "deputadoNome": "Aécio Neves",
+            "partido": "PSDB",
+            "uf": "MG",
+            "valor": 145709.03000000006,
+            "titulo": "Campeão de PASSAGEM AÉREA - SIGEPA em 2023",
+            "descricao": "Maior gastador em PASSAGEM AÉREA - SIGEPA no ano 2023",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2023,
+            "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "deputadoId": "74646",
+            "deputadoNome": "Aécio Neves",
+            "partido": "PSDB",
+            "uf": "MG",
+            "valor": 145495.0299999999,
+            "titulo": "Campeão de MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR em 2023",
+            "descricao": "Maior gastador em MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR no ano 2023",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2023,
+            "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+            "deputadoId": "204379",
+            "deputadoNome": "Acácio Favacho",
+            "partido": "MDB",
+            "uf": "AP",
+            "valor": 4373.950000000001,
+            "titulo": "Campeão de PASSAGEM AÉREA - REEMBOLSO em 2023",
+            "descricao": "Maior gastador em PASSAGEM AÉREA - REEMBOLSO no ano 2023",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2023,
+            "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+            "deputadoId": "221328",
+            "deputadoNome": "Adilson Barroso",
+            "partido": "PL",
+            "uf": "SP",
+            "valor": 4893.949999999998,
+            "titulo": "Campeão de SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO em 2023",
+            "descricao": "Maior gastador em SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO no ano 2023",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2023,
+            "categoria": "ASSINATURA DE PUBLICAÇÕES",
+            "deputadoId": "74646",
+            "deputadoNome": "Aécio Neves",
+            "partido": "PSDB",
+            "uf": "MG",
+            "valor": 1219.14,
+            "titulo": "Campeão de ASSINATURA DE PUBLICAÇÕES em 2023",
+            "descricao": "Maior gastador em ASSINATURA DE PUBLICAÇÕES no ano 2023",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2023,
+            "categoria": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+            "deputadoId": "74646",
+            "deputadoNome": "Aécio Neves",
+            "partido": "PSDB",
+            "uf": "MG",
+            "valor": 703.6600000000001,
+            "titulo": "Campeão de PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS em 2023",
+            "descricao": "Maior gastador em PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS no ano 2023",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2023,
+            "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+            "deputadoId": "204560",
+            "deputadoNome": "Adolfo Viana",
+            "partido": "PSDB",
+            "uf": "BA",
+            "valor": 62512.8,
+            "titulo": "Campeão de LOCAÇÃO OU FRETAMENTO DE AERONAVES em 2023",
+            "descricao": "Maior gastador em LOCAÇÃO OU FRETAMENTO DE AERONAVES no ano 2023",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2023,
+            "categoria": "PASSAGEM AÉREA - RPA",
+            "deputadoId": "221328",
+            "deputadoNome": "Adilson Barroso",
+            "partido": "PL",
+            "uf": "SP",
+            "valor": 14771.440000000002,
+            "titulo": "Campeão de PASSAGEM AÉREA - RPA em 2023",
+            "descricao": "Maior gastador em PASSAGEM AÉREA - RPA no ano 2023",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2023,
+            "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+            "deputadoId": "221328",
+            "deputadoNome": "Adilson Barroso",
+            "partido": "PL",
+            "uf": "SP",
+            "valor": 5593.340000000001,
+            "titulo": "Campeão de FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR em 2023",
+            "descricao": "Maior gastador em FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR no ano 2023",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2023,
+            "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+            "deputadoId": "220593",
             "deputadoNome": "Abilio Brunini",
-            "titulo": "Campeão Geral dos Gastos",
-            "descricao": "Deputado com maior gasto total em cota parlamentar",
-            "categoria": "GERAL"
+            "partido": "PL",
+            "uf": "MT",
+            "valor": 14906.359999999999,
+            "titulo": "Campeão de HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL em 2023",
+            "descricao": "Maior gastador em HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL no ano 2023",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2024,
+            "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+            "deputadoId": "121948",
+            "deputadoNome": "Adriano do Baldy",
+            "partido": "PP",
+            "uf": "GO",
+            "valor": 101076.57,
+            "titulo": "Campeão de COMBUSTÍVEIS E LUBRIFICANTES em 2024",
+            "descricao": "Maior gastador em COMBUSTÍVEIS E LUBRIFICANTES no ano 2024",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2024,
+            "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+            "deputadoId": "220714",
+            "deputadoNome": "Adail Filho",
+            "partido": "REPUBLICANOS",
+            "uf": "AM",
+            "valor": 369100.0,
+            "titulo": "Campeão de DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR em 2024",
+            "descricao": "Maior gastador em DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR no ano 2024",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2024,
+            "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+            "deputadoId": "204560",
+            "deputadoNome": "Adolfo Viana",
+            "partido": "PSDB",
+            "uf": "BA",
+            "valor": 82320.0,
+            "titulo": "Campeão de LOCAÇÃO OU FRETAMENTO DE AERONAVES em 2024",
+            "descricao": "Maior gastador em LOCAÇÃO OU FRETAMENTO DE AERONAVES no ano 2024",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2024,
+            "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+            "deputadoId": "221328",
+            "deputadoNome": "Adilson Barroso",
+            "partido": "PL",
+            "uf": "SP",
+            "valor": 150692.34,
+            "titulo": "Campeão de LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES em 2024",
+            "descricao": "Maior gastador em LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES no ano 2024",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2024,
+            "categoria": "PASSAGEM AÉREA - SIGEPA",
+            "deputadoId": "74646",
+            "deputadoNome": "Aécio Neves",
+            "partido": "PSDB",
+            "uf": "MG",
+            "valor": 157387.38999999987,
+            "titulo": "Campeão de PASSAGEM AÉREA - SIGEPA em 2024",
+            "descricao": "Maior gastador em PASSAGEM AÉREA - SIGEPA no ano 2024",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2024,
+            "categoria": "TELEFONIA",
+            "deputadoId": "121948",
+            "deputadoNome": "Adriano do Baldy",
+            "partido": "PP",
+            "uf": "GO",
+            "valor": 9842.79,
+            "titulo": "Campeão de TELEFONIA em 2024",
+            "descricao": "Maior gastador em TELEFONIA no ano 2024",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2024,
+            "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "deputadoId": "74646",
+            "deputadoNome": "Aécio Neves",
+            "partido": "PSDB",
+            "uf": "MG",
+            "valor": 161131.1799999999,
+            "titulo": "Campeão de MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR em 2024",
+            "descricao": "Maior gastador em MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR no ano 2024",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2024,
+            "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+            "deputadoId": "204379",
+            "deputadoNome": "Acácio Favacho",
+            "partido": "MDB",
+            "uf": "AP",
+            "valor": 19797.01,
+            "titulo": "Campeão de PASSAGEM AÉREA - REEMBOLSO em 2024",
+            "descricao": "Maior gastador em PASSAGEM AÉREA - REEMBOLSO no ano 2024",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2024,
+            "categoria": "ASSINATURA DE PUBLICAÇÕES",
+            "deputadoId": "74646",
+            "deputadoNome": "Aécio Neves",
+            "partido": "PSDB",
+            "uf": "MG",
+            "valor": 1717.12,
+            "titulo": "Campeão de ASSINATURA DE PUBLICAÇÕES em 2024",
+            "descricao": "Maior gastador em ASSINATURA DE PUBLICAÇÕES no ano 2024",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2024,
+            "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+            "deputadoId": "221328",
+            "deputadoNome": "Adilson Barroso",
+            "partido": "PL",
+            "uf": "SP",
+            "valor": 9474.15,
+            "titulo": "Campeão de SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO em 2024",
+            "descricao": "Maior gastador em SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO no ano 2024",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2024,
+            "categoria": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+            "deputadoId": "74646",
+            "deputadoNome": "Aécio Neves",
+            "partido": "PSDB",
+            "uf": "MG",
+            "valor": 627.34,
+            "titulo": "Campeão de PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS em 2024",
+            "descricao": "Maior gastador em PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS no ano 2024",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2024,
+            "categoria": "PASSAGEM AÉREA - RPA",
+            "deputadoId": "221328",
+            "deputadoNome": "Adilson Barroso",
+            "partido": "PL",
+            "uf": "SP",
+            "valor": 14503.28,
+            "titulo": "Campeão de PASSAGEM AÉREA - RPA em 2024",
+            "descricao": "Maior gastador em PASSAGEM AÉREA - RPA no ano 2024",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2024,
+            "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+            "deputadoId": "221328",
+            "deputadoNome": "Adilson Barroso",
+            "partido": "PL",
+            "uf": "SP",
+            "valor": 4748.82,
+            "titulo": "Campeão de FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR em 2024",
+            "descricao": "Maior gastador em FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR no ano 2024",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2024,
+            "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+            "deputadoId": "121948",
+            "deputadoNome": "Adriano do Baldy",
+            "partido": "PP",
+            "uf": "GO",
+            "valor": 14078.9,
+            "titulo": "Campeão de HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL em 2024",
+            "descricao": "Maior gastador em HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL no ano 2024",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2024,
+            "categoria": "AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS",
+            "deputadoId": "221328",
+            "deputadoNome": "Adilson Barroso",
+            "partido": "PL",
+            "uf": "SP",
+            "valor": 120.0,
+            "titulo": "Campeão de AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS em 2024",
+            "descricao": "Maior gastador em AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS no ano 2024",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2025,
+            "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+            "deputadoId": "204379",
+            "deputadoNome": "Acácio Favacho",
+            "partido": "MDB",
+            "uf": "AP",
+            "valor": 51904.22000000001,
+            "titulo": "Campeão de COMBUSTÍVEIS E LUBRIFICANTES em 2025",
+            "descricao": "Maior gastador em COMBUSTÍVEIS E LUBRIFICANTES no ano 2025",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2025,
+            "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+            "deputadoId": "220714",
+            "deputadoNome": "Adail Filho",
+            "partido": "REPUBLICANOS",
+            "uf": "AM",
+            "valor": 325000.0,
+            "titulo": "Campeão de DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR em 2025",
+            "descricao": "Maior gastador em DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR no ano 2025",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2025,
+            "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+            "deputadoId": "204560",
+            "deputadoNome": "Adolfo Viana",
+            "partido": "PSDB",
+            "uf": "BA",
+            "valor": 109500.0,
+            "titulo": "Campeão de LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES em 2025",
+            "descricao": "Maior gastador em LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES no ano 2025",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2025,
+            "categoria": "PASSAGEM AÉREA - SIGEPA",
+            "deputadoId": "204379",
+            "deputadoNome": "Acácio Favacho",
+            "partido": "MDB",
+            "uf": "AP",
+            "valor": 98457.60999999993,
+            "titulo": "Campeão de PASSAGEM AÉREA - SIGEPA em 2025",
+            "descricao": "Maior gastador em PASSAGEM AÉREA - SIGEPA no ano 2025",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2025,
+            "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "deputadoId": "74646",
+            "deputadoNome": "Aécio Neves",
+            "partido": "PSDB",
+            "uf": "MG",
+            "valor": 140266.52000000005,
+            "titulo": "Campeão de MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR em 2025",
+            "descricao": "Maior gastador em MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR no ano 2025",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2025,
+            "categoria": "PASSAGEM AÉREA - RPA",
+            "deputadoId": "204379",
+            "deputadoNome": "Acácio Favacho",
+            "partido": "MDB",
+            "uf": "AP",
+            "valor": 3780.92,
+            "titulo": "Campeão de PASSAGEM AÉREA - RPA em 2025",
+            "descricao": "Maior gastador em PASSAGEM AÉREA - RPA no ano 2025",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2025,
+            "categoria": "TELEFONIA",
+            "deputadoId": "204560",
+            "deputadoNome": "Adolfo Viana",
+            "partido": "PSDB",
+            "uf": "BA",
+            "valor": 4901.71,
+            "titulo": "Campeão de TELEFONIA em 2025",
+            "descricao": "Maior gastador em TELEFONIA no ano 2025",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2025,
+            "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+            "deputadoId": "221328",
+            "deputadoNome": "Adilson Barroso",
+            "partido": "PL",
+            "uf": "SP",
+            "valor": 8555.1,
+            "titulo": "Campeão de SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO em 2025",
+            "descricao": "Maior gastador em SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO no ano 2025",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2025,
+            "categoria": "ASSINATURA DE PUBLICAÇÕES",
+            "deputadoId": "204528",
+            "deputadoNome": "Adriana Ventura",
+            "partido": "NOVO",
+            "uf": "SP",
+            "valor": 1585.56,
+            "titulo": "Campeão de ASSINATURA DE PUBLICAÇÕES em 2025",
+            "descricao": "Maior gastador em ASSINATURA DE PUBLICAÇÕES no ano 2025",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2025,
+            "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+            "deputadoId": "221328",
+            "deputadoNome": "Adilson Barroso",
+            "partido": "PL",
+            "uf": "SP",
+            "valor": 3100.46,
+            "titulo": "Campeão de FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR em 2025",
+            "descricao": "Maior gastador em FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR no ano 2025",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2025,
+            "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+            "deputadoId": "204528",
+            "deputadoNome": "Adriana Ventura",
+            "partido": "NOVO",
+            "uf": "SP",
+            "valor": 5233.779999999999,
+            "titulo": "Campeão de HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL em 2025",
+            "descricao": "Maior gastador em HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL no ano 2025",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2025,
+            "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+            "deputadoId": "204560",
+            "deputadoNome": "Adolfo Viana",
+            "partido": "PSDB",
+            "uf": "BA",
+            "valor": 21000.0,
+            "titulo": "Campeão de LOCAÇÃO OU FRETAMENTO DE AERONAVES em 2025",
+            "descricao": "Maior gastador em LOCAÇÃO OU FRETAMENTO DE AERONAVES no ano 2025",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2025,
+            "categoria": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+            "deputadoId": "204528",
+            "deputadoNome": "Adriana Ventura",
+            "partido": "NOVO",
+            "uf": "SP",
+            "valor": 341.08,
+            "titulo": "Campeão de PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS em 2025",
+            "descricao": "Maior gastador em PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS no ano 2025",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2025,
+            "categoria": "AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS",
+            "deputadoId": "204528",
+            "deputadoNome": "Adriana Ventura",
+            "partido": "NOVO",
+            "uf": "SP",
+            "valor": 275.0,
+            "titulo": "Campeão de AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS em 2025",
+            "descricao": "Maior gastador em AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS no ano 2025",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "categoria_anual",
+            "ano": 2022,
+            "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+            "deputadoId": "136811",
+            "deputadoNome": "Afonso Hamm",
+            "partido": "PP",
+            "uf": "RS",
+            "valor": 8700.0,
+            "titulo": "Campeão de LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES em 2022",
+            "descricao": "Maior gastador em LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES no ano 2022",
+            "icone": "🏆",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
           }
-        ]
-      },
-      "campeoesCategorias": {
-        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
-          "id": 220593,
-          "nomeEleitoral": "Abilio Brunini",
-          "siglaPartido": "PL",
-          "siglaUf": "MT",
-          "valorTotal": 216736.81999999995,
-          "totalTransacoes": 105,
-          "ranking": 1,
-          "percentualDoTotal": 0,
-          "premiacoes": [],
-          "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
-        },
-        "COMBUSTÍVEIS E LUBRIFICANTES": {
-          "id": 220593,
-          "nomeEleitoral": "Abilio Brunini",
-          "siglaPartido": "PL",
-          "siglaUf": "MT",
-          "valorTotal": 115920.69000000015,
-          "totalTransacoes": 632,
-          "ranking": 1,
-          "percentualDoTotal": 0,
-          "premiacoes": [],
-          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES"
-        },
-        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
-          "id": 220593,
-          "nomeEleitoral": "Abilio Brunini",
-          "siglaPartido": "PL",
-          "siglaUf": "MT",
-          "valorTotal": 151942,
-          "totalTransacoes": 38,
-          "ranking": 1,
-          "percentualDoTotal": 0,
-          "premiacoes": [],
-          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
-        },
-        "TELEFONIA": {
-          "id": 220593,
-          "nomeEleitoral": "Abilio Brunini",
-          "siglaPartido": "PL",
-          "siglaUf": "MT",
-          "valorTotal": 824.6999999999999,
-          "totalTransacoes": 3,
-          "ranking": 1,
-          "percentualDoTotal": 0,
-          "premiacoes": [],
-          "categoria": "TELEFONIA"
-        },
-        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": {
-          "id": 220593,
-          "nomeEleitoral": "Abilio Brunini",
-          "siglaPartido": "PL",
-          "siglaUf": "MT",
-          "valorTotal": 423.55999999999995,
-          "totalTransacoes": 5,
-          "ranking": 1,
-          "percentualDoTotal": 0,
-          "premiacoes": [],
-          "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
-        },
-        "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
-          "id": 220593,
-          "nomeEleitoral": "Abilio Brunini",
-          "siglaPartido": "PL",
-          "siglaUf": "MT",
-          "valorTotal": 22305.399999999994,
-          "totalTransacoes": 61,
-          "ranking": 1,
-          "percentualDoTotal": 0,
-          "premiacoes": [],
-          "categoria": "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
-        },
-        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": {
-          "id": 220593,
-          "nomeEleitoral": "Abilio Brunini",
-          "siglaPartido": "PL",
-          "siglaUf": "MT",
-          "valorTotal": 218915.86,
-          "totalTransacoes": 52,
-          "ranking": 1,
-          "percentualDoTotal": 0,
-          "premiacoes": [],
-          "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
-        },
-        "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": {
-          "id": 220593,
-          "nomeEleitoral": "Abilio Brunini",
-          "siglaPartido": "PL",
-          "siglaUf": "MT",
-          "valorTotal": 30,
-          "totalTransacoes": 1,
-          "ranking": 1,
-          "percentualDoTotal": 0,
-          "premiacoes": [],
-          "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO"
-        },
-        "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS": {
-          "id": 220593,
-          "nomeEleitoral": "Abilio Brunini",
-          "siglaPartido": "PL",
-          "siglaUf": "MT",
-          "valorTotal": 498,
-          "totalTransacoes": 2,
-          "ranking": 1,
-          "percentualDoTotal": 0,
-          "premiacoes": [],
-          "categoria": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS"
-        },
-        "PASSAGEM AÉREA - SIGEPA": {
-          "id": 220593,
-          "nomeEleitoral": "Abilio Brunini",
-          "siglaPartido": "PL",
-          "siglaUf": "MT",
-          "valorTotal": 105424.09999999998,
-          "totalTransacoes": 117,
-          "ranking": 1,
-          "percentualDoTotal": 0,
-          "premiacoes": [],
-          "categoria": "PASSAGEM AÉREA - SIGEPA"
-        }
-      },
-      "estatisticas": {
-        "totalCoroas": 1,
-        "totalTrofeus": 10,
-        "totalMedalhas": 2,
-        "totalPremiacoes": 13
-      }
-    },
-    "estatisticas": {
-      "totalDeputados": 1,
-      "totalCategorias": 10,
-      "valorTotalGeral": 664597.03,
-      "deputadoComMaisGastos": {
-        "nome": "Abilio Brunini",
-        "valor": 833021.1299999997
-      },
-      "categoriaComMaisGastos": {
-        "nome": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
-        "valor": 218915.86
-      },
-      "partidoComMaisGastos": {
-        "nome": "PL",
-        "valor": 833021.1299999997
-      },
-      "ufComMaisGastos": {
-        "nome": "MT",
-        "valor": 833021.1299999997
-      },
-      "evolucaoAnual": {
-        "2025": {
-          "total": 664597.03,
-          "deputados": 1
+        ],
+        "medalhas": [
+          {
+            "tipo": "prata",
+            "posicao": 2,
+            "deputadoId": "204379",
+            "deputadoNome": "Acácio Favacho",
+            "partido": "MDB",
+            "uf": "AP",
+            "valor": 1555584.79,
+            "titulo": "2º Lugar Geral",
+            "descricao": "Vice-campeão histórico de gastos",
+            "icone": "🥈",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          },
+          {
+            "tipo": "bronze",
+            "posicao": 3,
+            "deputadoId": "74646",
+            "deputadoNome": "Aécio Neves",
+            "partido": "PSDB",
+            "uf": "MG",
+            "valor": 1331320.76,
+            "titulo": "3º Lugar Geral",
+            "descricao": "Terceiro colocado histórico de gastos",
+            "icone": "🥉",
+            "dataConquista": "2025-10-23T18:30:47.243604Z"
+          }
+        ],
+        "badges": [],
+        "metadata": {
+          "generatedAt": "2025-10-23T18:30:47.243604Z",
+          "totalPremiacoes": 66
         }
       }
     },
-    "categorias": {
-      "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
-        "nome": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-        "descricao": "Gastos relacionados a manutenção de escritório de apoio à atividade parlamentar",
-        "icone": "🏢"
+    "fornecedores": {
+      "rankings": {
+        "geral": [],
+        "porCategoria": {},
+        "porConexoes": []
       },
-      "COMBUSTÍVEIS E LUBRIFICANTES": {
-        "nome": "COMBUSTÍVEIS E LUBRIFICANTES",
-        "descricao": "Gastos relacionados a combustíveis e lubrificantes",
-        "icone": "📋"
-      },
-      "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
-        "nome": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
-        "descricao": "Gastos relacionados a divulgação da atividade parlamentar",
-        "icone": "📢"
-      },
-      "TELEFONIA": {
-        "nome": "TELEFONIA",
-        "descricao": "Gastos relacionados a telefonia",
-        "icone": "📞"
-      },
-      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": {
-        "nome": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-        "descricao": "Gastos relacionados a fornecimento de alimentação do parlamentar",
-        "icone": "🍽️"
-      },
-      "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
-        "nome": "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
-        "descricao": "Gastos relacionados a hospedagem, exceto do parlamentar no distrito federal",
-        "icone": "🏨"
-      },
-      "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": {
-        "nome": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
-        "descricao": "Gastos relacionados a locação ou fretamento de veículos automotores",
-        "icone": "🚗"
-      },
-      "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": {
-        "nome": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
-        "descricao": "Gastos relacionados a serviço de táxi, pedágio e estacionamento",
-        "icone": "📋"
-      },
-      "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS": {
-        "nome": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
-        "descricao": "Gastos relacionados a passagens terrestres, marítimas ou fluviais",
-        "icone": "✈️"
-      },
-      "PASSAGEM AÉREA - SIGEPA": {
-        "nome": "PASSAGEM AÉREA - SIGEPA",
-        "descricao": "Gastos relacionados a passagem aérea - sigepa",
-        "icone": "📋"
+      "premiacoes": {
+        "coroas": [],
+        "trofeus": [],
+        "medalhas": [],
+        "metadata": {
+          "generatedAt": "2025-10-23T18:30:47.243848Z",
+          "totalPremiacoes": 0
+        }
       }
     }
   }

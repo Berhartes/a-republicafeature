@@ -330,6 +330,6 @@ export class EtlCacheService {  private cache: Map<string, any> = new Map()
     this.lastUpdate = null
     console.log('🗑️ [ETL-Cache] Cache limpo')
   }
-}}
+}
 
 export const etlCacheService = new EtlCacheService()
