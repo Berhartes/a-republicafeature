@@ -67,36 +67,52 @@ export default function DashboardComponentsPage() {
         <title>Showcase de Componentes - Monitor de Gastos</title>
       </Head>
       
-      <div className="min-h-screen bg-background">
-        <div className="container mx-auto px-4 py-8">
-          {/* Header */}
-          <div className="mb-8">
-            <h1 className="text-4xl font-bold mb-2">Showcase de Componentes</h1>
-            <p className="text-muted-foreground">
-              Visualize todos os componentes visuais disponíveis no projeto
-            </p>
-            <div className="flex gap-2 mt-4">
-              <Badge>130+ Componentes</Badge>
-              <Badge variant="secondary">shadcn/ui</Badge>
-              <Badge variant="outline">Tailwind CSS</Badge>
+      <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-blue-50/30">
+        {/* Hero Section */}
+        <div className="relative overflow-hidden bg-gradient-to-br from-blue-600 via-purple-600 to-pink-600 text-white">
+          <div className="absolute inset-0 bg-[url('/grid.svg')] opacity-10" />
+          <div className="relative container mx-auto px-4 py-16">
+            <div className="max-w-3xl space-y-4 animate-fade-in">
+              <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 text-sm font-medium">
+                <span>✨</span>
+                <span>Design System</span>
+              </div>
+              <h1 className="text-5xl md:text-6xl font-bold tracking-tight">
+                Showcase de Componentes
+              </h1>
+              <p className="text-xl text-blue-100">
+                Explore todos os componentes visuais disponíveis no projeto com design inspirado na Apple
+              </p>
+              <div className="flex flex-wrap gap-3 pt-4">
+                <Badge className="bg-white/20 backdrop-blur-sm border-white/30 text-white px-4 py-2 text-sm">130+ Componentes</Badge>
+                <Badge className="bg-white/20 backdrop-blur-sm border-white/30 text-white px-4 py-2 text-sm">shadcn/ui</Badge>
+                <Badge className="bg-white/20 backdrop-blur-sm border-white/30 text-white px-4 py-2 text-sm">Tailwind CSS</Badge>
+                <Badge className="bg-white/20 backdrop-blur-sm border-white/30 text-white px-4 py-2 text-sm">Apple Design</Badge>
+              </div>
             </div>
           </div>
+        </div>
+        
+        <div className="container mx-auto px-4 py-12">
 
-          <Tabs defaultValue="ui" className="space-y-8">
-            <TabsList className="grid w-full grid-cols-5">
-              <TabsTrigger value="ui">UI Base</TabsTrigger>
-              <TabsTrigger value="cards">Cards & Stats</TabsTrigger>
-              <TabsTrigger value="forms">Formulários</TabsTrigger>
-              <TabsTrigger value="data">Dados & Tabelas</TabsTrigger>
-              <TabsTrigger value="icons">Ícones</TabsTrigger>
+          <Tabs defaultValue="ui" className="space-y-12">
+            <TabsList className="grid w-full grid-cols-5 h-auto p-2 bg-white/80 backdrop-blur-sm shadow-apple-md rounded-2xl border-0">
+              <TabsTrigger value="ui" className="data-[state=active]:bg-gradient-to-r data-[state=active]:from-blue-500 data-[state=active]:to-purple-500 data-[state=active]:text-white rounded-xl py-3 font-medium transition-all">UI Base</TabsTrigger>
+              <TabsTrigger value="cards" className="data-[state=active]:bg-gradient-to-r data-[state=active]:from-green-500 data-[state=active]:to-emerald-500 data-[state=active]:text-white rounded-xl py-3 font-medium transition-all">Cards & Stats</TabsTrigger>
+              <TabsTrigger value="forms" className="data-[state=active]:bg-gradient-to-r data-[state=active]:from-indigo-500 data-[state=active]:to-purple-500 data-[state=active]:text-white rounded-xl py-3 font-medium transition-all">Formulários</TabsTrigger>
+              <TabsTrigger value="data" className="data-[state=active]:bg-gradient-to-r data-[state=active]:from-orange-500 data-[state=active]:to-amber-500 data-[state=active]:text-white rounded-xl py-3 font-medium transition-all">Dados & Tabelas</TabsTrigger>
+              <TabsTrigger value="icons" className="data-[state=active]:bg-gradient-to-r data-[state=active]:from-purple-500 data-[state=active]:to-pink-500 data-[state=active]:text-white rounded-xl py-3 font-medium transition-all">Ícones</TabsTrigger>
             </TabsList>
 
             {/* UI Base Components */}
             <TabsContent value="ui" className="space-y-8">
               {/* Buttons */}
-              <section>
-                <h2 className="text-2xl font-bold mb-4">Buttons</h2>
-                <Card>
+              <section className="space-y-6 animate-slide-up">
+                <div className="flex items-center gap-4">
+                  <div className="h-1 w-12 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full" />
+                  <h2 className="text-3xl font-bold text-gray-900">Buttons</h2>
+                </div>
+                <Card className="border-0 shadow-apple-lg bg-white/80 backdrop-blur-sm">
                   <CardHeader>
                     <CardTitle>Variações de Botões</CardTitle>
                     <CardDescription>Diferentes estilos e tamanhos de botões</CardDescription>
@@ -128,9 +144,12 @@ export default function DashboardComponentsPage() {
               </section>
 
               {/* Badges */}
-              <section>
-                <h2 className="text-2xl font-bold mb-4">Badges</h2>
-                <Card>
+              <section className="space-y-6 animate-slide-up" style={{ animationDelay: '100ms' }}>
+                <div className="flex items-center gap-4">
+                  <div className="h-1 w-12 bg-gradient-to-r from-green-600 to-emerald-600 rounded-full" />
+                  <h2 className="text-3xl font-bold text-gray-900">Badges</h2>
+                </div>
+                <Card className="border-0 shadow-apple-lg bg-white/80 backdrop-blur-sm">
                   <CardHeader>
                     <CardTitle>Badges e Tags</CardTitle>
                     <CardDescription>Indicadores visuais e etiquetas</CardDescription>
