@@ -3,52 +3,52 @@
     "fornecedor": {
       "nome": "POSTO DE COMBUSTIVEL 406 NORTE LTDA",
       "cnpj": "33971293000103",
-      "total_recebido": 278.57,
+      "total_recebido": 233.55,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:55:10.997353"
+    "generatedAt": "2025-10-22T20:35:50.266203"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 278.57
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 233.55
   },
   "anos": {
     "2024": {
-      "total": 278.57,
+      "total": 233.55,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204426": {
+    "204379": {
       "deputado": {
-        "id": 204426,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204426",
-        "nome": "Carlos Veras",
-        "siglaPartido": "PT",
+        "id": 204379,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204379",
+        "nome": "Acácio Favacho",
+        "siglaPartido": "MDB",
         "uriPartido": "",
-        "siglaUf": "PE",
+        "siglaUf": "AP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
-        "email": "dep.carlosveras@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204379.jpg",
+        "email": "dep.acaciofavacho@camara.leg.br"
       },
-      "total": 278.57,
+      "total": 233.55,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2024,
-          "mes": 11,
+          "mes": 4,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7828727,
+          "codDocumento": 7720712,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-05T17:23:20",
-          "numDocumento": "17063",
-          "valorDocumento": 278.57,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7828727",
+          "dataDocumento": "2024-04-04T06:30:27",
+          "numDocumento": "13380",
+          "valorDocumento": 233.55,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7720712",
           "nomeFornecedor": "POSTO DE COMBUSTIVEL 406 NORTE LTDA",
           "cnpjCpfFornecedor": "33971293000103",
-          "valorLiquido": 278.57,
+          "valorLiquido": 233.55,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

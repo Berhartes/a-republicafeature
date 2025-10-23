@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POUSADA MANSÃO DOS NOBRES LTDA.",
+      "cnpj": "00590146000134",
+      "total_recebido": 690.8,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T20:36:03.582395"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 690.8
+  },
+  "anos": {
+    "2025": {
+      "total": 690.8,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204528": {
+      "deputado": {
+        "id": 204528,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204528",
+        "nome": "Adriana Ventura",
+        "siglaPartido": "NOVO",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
+        "email": "dep.adrianaventura@camara.leg.br"
+      },
+      "total": 690.8,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7972214,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-16T00:00:00",
+          "numDocumento": "4881",
+          "valorDocumento": 345.4,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2025/7972214.pdf",
+          "nomeFornecedor": "POUSADA MANSÃO DOS NOBRES LTDA.",
+          "cnpjCpfFornecedor": "00590146000134",
+          "valorLiquido": 345.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7939095,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-16T00:00:00",
+          "numDocumento": "4882",
+          "valorDocumento": 345.4,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2025/7939095.pdf",
+          "nomeFornecedor": "POUSADA MANSÃO DOS NOBRES LTDA.",
+          "cnpjCpfFornecedor": "00590146000134",
+          "valorLiquido": 345.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

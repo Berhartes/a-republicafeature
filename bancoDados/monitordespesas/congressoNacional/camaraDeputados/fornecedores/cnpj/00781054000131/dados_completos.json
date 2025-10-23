@@ -3,52 +3,52 @@
     "fornecedor": {
       "nome": "LOCATELLI DERIVADOS DE PETROLEO LTDA",
       "cnpj": "00781054000131",
-      "total_recebido": 180.01,
+      "total_recebido": 229.09,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:53:48.257537"
+    "generatedAt": "2025-10-22T20:35:46.705929"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 180.01
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 229.09
   },
   "anos": {
-    "2024": {
-      "total": 180.01,
+    "2023": {
+      "total": 229.09,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220548": {
+    "220593": {
       "deputado": {
-        "id": 220548,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220548",
-        "nome": "Camila Jara",
-        "siglaPartido": "PT",
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
         "uriPartido": "",
-        "siglaUf": "MS",
+        "siglaUf": "MT",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
-        "email": "dep.camilajara@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
       },
-      "total": 180.01,
+      "total": 229.09,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 8,
+          "ano": 2023,
+          "mes": 4,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7789976,
+          "codDocumento": 7553234,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-08-10T10:05:05",
-          "numDocumento": "979576",
-          "valorDocumento": 180.01,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7789976",
+          "dataDocumento": "2023-04-16T00:00:00",
+          "numDocumento": "781029",
+          "valorDocumento": 229.09,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7553234",
           "nomeFornecedor": "LOCATELLI DERIVADOS DE PETROLEO LTDA",
           "cnpjCpfFornecedor": "00781054000131",
-          "valorLiquido": 180.01,
+          "valorLiquido": 229.09,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

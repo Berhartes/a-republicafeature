@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BOTCONVERSA LTDA",
+      "cnpj": "39994996000133",
+      "total_recebido": 4195.0,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T20:36:03.577085"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 4195.0
+  },
+  "anos": {
+    "2023": {
+      "total": 599.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 1798.0,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 1798.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204528": {
+      "deputado": {
+        "id": 204528,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204528",
+        "nome": "Adriana Ventura",
+        "siglaPartido": "NOVO",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
+        "email": "dep.adrianaventura@camara.leg.br"
+      },
+      "total": 4195.0,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7536741,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-13T00:00:00",
+          "numDocumento": "015198",
+          "valorDocumento": 599.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2023/7536741.pdf",
+          "nomeFornecedor": "BOTCONVERSA LTDA",
+          "cnpjCpfFornecedor": "39994996000133",
+          "valorLiquido": 599.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7742067,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-01T00:00:00",
+          "numDocumento": "110430",
+          "valorDocumento": 899.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2024/7742067.pdf",
+          "nomeFornecedor": "BOTCONVERSA LTDA",
+          "cnpjCpfFornecedor": "39994996000133",
+          "valorLiquido": 899.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7701860,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-27T00:00:00",
+          "numDocumento": "091880",
+          "valorDocumento": 899.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2024/7701860.pdf",
+          "nomeFornecedor": "BOTCONVERSA LTDA",
+          "cnpjCpfFornecedor": "39994996000133",
+          "valorLiquido": 899.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7912864,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-25T00:00:00",
+          "numDocumento": "216912",
+          "valorDocumento": 899.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2025/7912864.pdf",
+          "nomeFornecedor": "BOTCONVERSA LTDA",
+          "cnpjCpfFornecedor": "39994996000133",
+          "valorLiquido": 899.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7886096,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-15T00:00:00",
+          "numDocumento": "203822",
+          "valorDocumento": 899.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2025/7886096.pdf",
+          "nomeFornecedor": "BOTCONVERSA LTDA",
+          "cnpjCpfFornecedor": "39994996000133",
+          "valorLiquido": 899.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

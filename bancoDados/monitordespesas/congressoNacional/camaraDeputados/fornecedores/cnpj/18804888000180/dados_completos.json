@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BRASIL ONE SERVICOS DE TECNOLOGIA DA INFORMACAO LTDA DEXATEC",
+      "cnpj": "18804888000180",
+      "total_recebido": 8100.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T20:35:46.661312"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 5000.0,
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 3100.0
+  },
+  "anos": {
+    "2023": {
+      "total": 8100.0,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 8100.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7646795,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-22T00:00:00",
+          "numDocumento": "66",
+          "valorDocumento": 2500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7646795.pdf",
+          "nomeFornecedor": "BRASIL ONE SERVICOS DE TECNOLOGIA DA INFORMACAO LTDA DEXATEC",
+          "cnpjCpfFornecedor": "18804888000180",
+          "valorLiquido": 2500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7630508,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-24T00:00:00",
+          "numDocumento": "60",
+          "valorDocumento": 2500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7630508.pdf",
+          "nomeFornecedor": "BRASIL ONE SERVICOS DE TECNOLOGIA DA INFORMACAO LTDA DEXATEC",
+          "cnpjCpfFornecedor": "18804888000180",
+          "valorLiquido": 2500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7617233,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-04T00:00:00",
+          "numDocumento": "49",
+          "valorDocumento": 1600.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7617233.pdf",
+          "nomeFornecedor": "BRASIL ONE SERVICOS DE TECNOLOGIA DA INFORMACAO LTDA DEXATEC",
+          "cnpjCpfFornecedor": "18804888000180",
+          "valorLiquido": 1600.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7553466,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-02T00:00:00",
+          "numDocumento": "32",
+          "valorDocumento": 1500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7553466.pdf",
+          "nomeFornecedor": "BRASIL ONE SERVICOS DE TECNOLOGIA DA INFORMACAO LTDA DEXATEC",
+          "cnpjCpfFornecedor": "18804888000180",
+          "valorLiquido": 1500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

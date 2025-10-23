@@ -3,52 +3,90 @@
     "fornecedor": {
       "nome": "POSTO DA TORRE EIRELI EPP",
       "cnpj": "04473193000159",
-      "total_recebido": 372.07,
-      "numero_transacoes": 1,
+      "total_recebido": 413.28999999999996,
+      "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:55:10.955912"
+    "generatedAt": "2025-10-22T20:36:20.303448"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 372.07
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 413.28999999999996
   },
   "anos": {
     "2023": {
-      "total": 372.07,
-      "transacoes": 1,
+      "total": 413.28999999999996,
+      "transacoes": 3,
       "deputados": 1
     }
   },
   "deputados": {
-    "204426": {
+    "136811": {
       "deputado": {
-        "id": 204426,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204426",
-        "nome": "Carlos Veras",
-        "siglaPartido": "PT",
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "PE",
+        "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
-        "email": "dep.carlosveras@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
       },
-      "total": 372.07,
-      "transacoes": 1,
+      "total": 413.28999999999996,
+      "transacoes": 3,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 2,
+          "mes": 10,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7497440,
+          "codDocumento": 7626883,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-02-01T00:00:00",
-          "numDocumento": "190392",
-          "valorDocumento": 372.07,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7497440",
+          "dataDocumento": "2023-10-04T00:00:00",
+          "numDocumento": "559402",
+          "valorDocumento": 156.53,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7626883",
           "nomeFornecedor": "POSTO DA TORRE EIRELI EPP",
           "cnpjCpfFornecedor": "04473193000159",
-          "valorLiquido": 372.07,
+          "valorLiquido": 156.53,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7627178,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-10T00:00:00",
+          "numDocumento": "568392",
+          "valorDocumento": 114.22,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7627178",
+          "nomeFornecedor": "POSTO DA TORRE EIRELI EPP",
+          "cnpjCpfFornecedor": "04473193000159",
+          "valorLiquido": 114.22,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7638547,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-18T00:00:00",
+          "numDocumento": "579427",
+          "valorDocumento": 142.54,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7638547",
+          "nomeFornecedor": "POSTO DA TORRE EIRELI EPP",
+          "cnpjCpfFornecedor": "04473193000159",
+          "valorLiquido": 142.54,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

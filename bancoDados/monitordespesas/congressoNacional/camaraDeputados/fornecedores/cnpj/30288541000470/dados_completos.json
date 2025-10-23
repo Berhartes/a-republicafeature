@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "H SACCHI COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "30288541000470",
+      "total_recebido": 1525.72,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:55:30.382567"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1525.72
+  },
+  "anos": {
+    "2023": {
+      "total": 1177.4299999999998,
+      "transacoes": 5,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 222.88,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 125.41,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178927": {
+      "deputado": {
+        "id": 178927,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
+        "nome": "Aliel Machado",
+        "siglaPartido": "PV",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+        "email": "dep.alielmachado@camara.leg.br"
+      },
+      "total": 1525.72,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7634621,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-21T00:00:00",
+          "numDocumento": "645730",
+          "valorDocumento": 300.34,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7634621",
+          "nomeFornecedor": "H SACCHI COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "30288541000470",
+          "valorLiquido": 300.34,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7613773,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-15T00:00:00",
+          "numDocumento": "628492",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7613773",
+          "nomeFornecedor": "H SACCHI COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "30288541000470",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7534091,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-23T00:00:00",
+          "numDocumento": "561094",
+          "valorDocumento": 265.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7534091",
+          "nomeFornecedor": "H SACCHI COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "30288541000470",
+          "valorLiquido": 265.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7539087,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-25T00:00:00",
+          "numDocumento": "561796",
+          "valorDocumento": 212.05,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7539087",
+          "nomeFornecedor": "H SACCHI COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "30288541000470",
+          "valorLiquido": 212.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7502039,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-06T00:00:00",
+          "numDocumento": "524413",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7502039",
+          "nomeFornecedor": "H SACCHI COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "30288541000470",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7842417,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-06T10:18:41",
+          "numDocumento": "825006",
+          "valorDocumento": 222.88,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7842417",
+          "nomeFornecedor": "H SACCHI COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "30288541000470",
+          "valorLiquido": 222.88,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7974292,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-30T06:49:15",
+          "numDocumento": "938198",
+          "valorDocumento": 125.41,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7974292",
+          "nomeFornecedor": "H SACCHI COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "30288541000470",
+          "valorLiquido": 125.41,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

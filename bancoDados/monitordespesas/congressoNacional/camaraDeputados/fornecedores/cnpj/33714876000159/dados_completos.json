@@ -3,52 +3,119 @@
     "fornecedor": {
       "nome": "AUTO POSTO QNO LTDA",
       "cnpj": "33714876000159",
-      "total_recebido": 220.32,
-      "numero_transacoes": 1,
+      "total_recebido": 1224.89,
+      "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:54:18.777413"
+    "generatedAt": "2025-10-22T20:36:00.064531"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 220.32
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1224.89
   },
   "anos": {
+    "2023": {
+      "total": 265.98,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 605.64,
+      "transacoes": 2,
+      "deputados": 1
+    },
     "2025": {
-      "total": 220.32,
+      "total": 353.27,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220690": {
+    "204560": {
       "deputado": {
-        "id": 220690,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220690",
-        "nome": "Capitão Alden",
-        "siglaPartido": "PL",
+        "id": 204560,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204560",
+        "nome": "Adolfo Viana",
+        "siglaPartido": "PSDB",
         "uriPartido": "",
         "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-        "email": "dep.capitaoalden@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
+        "email": "dep.adolfoviana@camara.leg.br"
       },
-      "total": 220.32,
-      "transacoes": 1,
+      "total": 1224.89,
+      "transacoes": 4,
       "despesas": [
         {
-          "ano": 2025,
-          "mes": 4,
+          "ano": 2023,
+          "mes": 7,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7930106,
+          "codDocumento": 7587234,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-04-25T18:54:01",
-          "numDocumento": "31953",
-          "valorDocumento": 220.32,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7930106",
+          "dataDocumento": "2023-07-06T00:00:00",
+          "numDocumento": "233404",
+          "valorDocumento": 265.98,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7587234",
           "nomeFornecedor": "AUTO POSTO QNO LTDA",
           "cnpjCpfFornecedor": "33714876000159",
-          "valorLiquido": 220.32,
+          "valorLiquido": 265.98,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7843464,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-12T01:05:06",
+          "numDocumento": "8575",
+          "valorDocumento": 349.91,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7843464",
+          "nomeFornecedor": "AUTO POSTO QNO LTDA",
+          "cnpjCpfFornecedor": "33714876000159",
+          "valorLiquido": 349.91,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7717388,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-14T00:00:00",
+          "numDocumento": "282939",
+          "valorDocumento": 255.73,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7717388",
+          "nomeFornecedor": "AUTO POSTO QNO LTDA",
+          "cnpjCpfFornecedor": "33714876000159",
+          "valorLiquido": 255.73,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7881523,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-10T09:27:41",
+          "numDocumento": "23932",
+          "valorDocumento": 353.27,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7881523",
+          "nomeFornecedor": "AUTO POSTO QNO LTDA",
+          "cnpjCpfFornecedor": "33714876000159",
+          "valorLiquido": 353.27,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

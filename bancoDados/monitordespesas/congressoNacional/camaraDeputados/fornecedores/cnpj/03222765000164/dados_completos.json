@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PANDA AUTO POSTO LTDA",
+      "cnpj": "03222765000164",
+      "total_recebido": 461.01,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:55:30.413854"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 461.01
+  },
+  "anos": {
+    "2023": {
+      "total": 263.68,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 197.33,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178927": {
+      "deputado": {
+        "id": 178927,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
+        "nome": "Aliel Machado",
+        "siglaPartido": "PV",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+        "email": "dep.alielmachado@camara.leg.br"
+      },
+      "total": 461.01,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7567848,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-30T00:00:00",
+          "numDocumento": "227649",
+          "valorDocumento": 263.68,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7567848",
+          "nomeFornecedor": "PANDA AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "03222765000164",
+          "valorLiquido": 263.68,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7743411,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-16T19:14:04",
+          "numDocumento": "326184",
+          "valorDocumento": 197.33,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7743411",
+          "nomeFornecedor": "PANDA AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "03222765000164",
+          "valorLiquido": 197.33,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

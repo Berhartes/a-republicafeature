@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HIPER POSTO LTDA",
+      "cnpj": "50685753000156",
+      "total_recebido": 2650.33,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:54:38.170543"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 2650.33
+  },
+  "anos": {
+    "2023": {
+      "total": 1170.08,
+      "transacoes": 4,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 746.16,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 734.0899999999999,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220538": {
+      "deputado": {
+        "id": 220538,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220538",
+        "nome": "Albuquerque",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "RR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220538.jpg",
+        "email": "dep.albuquerque@camara.leg.br"
+      },
+      "total": 2650.33,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7650070,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-22T00:00:00",
+          "numDocumento": "72732",
+          "valorDocumento": 450.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7650070",
+          "nomeFornecedor": "HIPER POSTO LTDA",
+          "cnpjCpfFornecedor": "50685753000156",
+          "valorLiquido": 450.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7650065,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-26T00:00:00",
+          "numDocumento": "74612",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7650065",
+          "nomeFornecedor": "HIPER POSTO LTDA",
+          "cnpjCpfFornecedor": "50685753000156",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7578760,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-08T00:00:00",
+          "numDocumento": "2515",
+          "valorDocumento": 270.05,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7578760",
+          "nomeFornecedor": "HIPER POSTO LTDA",
+          "cnpjCpfFornecedor": "50685753000156",
+          "valorLiquido": 270.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7579883,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-20T00:00:00",
+          "numDocumento": "8317",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7579883",
+          "nomeFornecedor": "HIPER POSTO LTDA",
+          "cnpjCpfFornecedor": "50685753000156",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7694119,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-13T11:21:36",
+          "numDocumento": "101629",
+          "valorDocumento": 746.16,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7694119",
+          "nomeFornecedor": "HIPER POSTO LTDA",
+          "cnpjCpfFornecedor": "50685753000156",
+          "valorLiquido": 746.16,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7911287,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-04T00:00:00",
+          "numDocumento": "372931",
+          "valorDocumento": 434.09,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7911287",
+          "nomeFornecedor": "HIPER POSTO LTDA",
+          "cnpjCpfFornecedor": "50685753000156",
+          "valorLiquido": 434.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7884587,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-02-17T15:46:23",
+          "numDocumento": "327088",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7884587",
+          "nomeFornecedor": "HIPER POSTO LTDA",
+          "cnpjCpfFornecedor": "50685753000156",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SIM REDE DE POSTOS LTDA - RIO GRANDE POVO NOVO",
+      "cnpj": "07473735010578",
+      "total_recebido": 983.42,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:54:21.063124"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 983.42
+  },
+  "anos": {
+    "2023": {
+      "total": 646.06,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 337.36,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178835": {
+      "deputado": {
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
+      },
+      "total": 983.42,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7650309,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-23T00:00:00",
+          "numDocumento": "1188571",
+          "valorDocumento": 336.96,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7650309",
+          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - RIO GRANDE POVO NOVO",
+          "cnpjCpfFornecedor": "07473735010578",
+          "valorLiquido": 336.96,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7607792,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-06T00:00:00",
+          "numDocumento": "1147448",
+          "valorDocumento": 309.1,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7607792",
+          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - RIO GRANDE POVO NOVO",
+          "cnpjCpfFornecedor": "07473735010578",
+          "valorLiquido": 309.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7855479,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-21T12:01:25",
+          "numDocumento": "1389072",
+          "valorDocumento": 337.36,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7855479",
+          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - RIO GRANDE POVO NOVO",
+          "cnpjCpfFornecedor": "07473735010578",
+          "valorLiquido": 337.36,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

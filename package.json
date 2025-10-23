@@ -9,7 +9,7 @@
   "packageManager": "pnpm@8.15.8",
   "scripts": {
     "dev:backend": "pnpm --filter @a-republica/backend dev",
-    "dev:monitor": "pnpm --filter @a-republica/monitor-despesas dev",
+    "dev:monitor": "pnpm --filter @a-republica/monitor-despesas-next dev",
     "materialize:unified": "pnpm --filter @a-republica/etl materialize:unified",
     "lint": "pnpm -r lint",
     "build": "pnpm -r build"

@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "JRM LOCADORA DE VEICULOS LTDA",
+      "cnpj": "44262415000109",
+      "total_recebido": 34000.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:54:48.573377"
+  },
+  "categorias": {
+    "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 34000.0
+  },
+  "anos": {
+    "2025": {
+      "total": 34000.0,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204501": {
+      "deputado": {
+        "id": 204501,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204501",
+        "nome": "Alencar Santana",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204501.jpg",
+        "email": "dep.alencarsantana@camara.leg.br"
+      },
+      "total": 34000.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7993339,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-02T00:00:00",
+          "numDocumento": "142",
+          "valorDocumento": 8500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3431/2025/7993339.pdf",
+          "nomeFornecedor": "JRM LOCADORA DE VEICULOS LTDA",
+          "cnpjCpfFornecedor": "44262415000109",
+          "valorLiquido": 8500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7980956,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-01T00:00:00",
+          "numDocumento": "137",
+          "valorDocumento": 8500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3431/2025/7980956.pdf",
+          "nomeFornecedor": "JRM LOCADORA DE VEICULOS LTDA",
+          "cnpjCpfFornecedor": "44262415000109",
+          "valorLiquido": 8500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7958847,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-01T00:00:00",
+          "numDocumento": "129",
+          "valorDocumento": 8500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3431/2025/7958847.pdf",
+          "nomeFornecedor": "JRM LOCADORA DE VEICULOS LTDA",
+          "cnpjCpfFornecedor": "44262415000109",
+          "valorLiquido": 8500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7945797,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-01T00:00:00",
+          "numDocumento": "120",
+          "valorDocumento": 8500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3431/2025/7945797.pdf",
+          "nomeFornecedor": "JRM LOCADORA DE VEICULOS LTDA",
+          "cnpjCpfFornecedor": "44262415000109",
+          "valorLiquido": 8500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Auto Posto N01 Ltda",
+      "cnpj": "02358595000187",
+      "total_recebido": 369.28,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T20:35:46.677164"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 369.28
+  },
+  "anos": {
+    "2023": {
+      "total": 77.9,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 291.38,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 369.28,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7621395,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-27T00:00:00",
+          "numDocumento": "140510",
+          "valorDocumento": 77.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7621395.pdf",
+          "nomeFornecedor": "Auto Posto N01 Ltda",
+          "cnpjCpfFornecedor": "02358595000187",
+          "valorLiquido": 77.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7814902,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-04T00:00:00",
+          "numDocumento": "1526856",
+          "valorDocumento": 291.38,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7814902.pdf",
+          "nomeFornecedor": "Auto Posto N 1 Ltda",
+          "cnpjCpfFornecedor": "02358595000187",
+          "valorLiquido": 291.38,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

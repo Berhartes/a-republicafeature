@@ -3,52 +3,71 @@
     "fornecedor": {
       "nome": "MARCO MARCHETTI S/A HOTEIS",
       "cnpj": "00480608000160",
-      "total_recebido": 4898.54,
-      "numero_transacoes": 1,
+      "total_recebido": 867.14,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:50:55.533579"
+    "generatedAt": "2025-10-22T20:35:46.718432"
   },
   "categorias": {
-    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 4898.54
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 867.14
   },
   "anos": {
     "2023": {
-      "total": 4898.54,
-      "transacoes": 1,
+      "total": 867.14,
+      "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "220544": {
+    "220593": {
       "deputado": {
-        "id": 220544,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220544",
-        "nome": "Antonio Andrade",
-        "siglaPartido": "REPUBLICANOS",
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
         "uriPartido": "",
-        "siglaUf": "TO",
+        "siglaUf": "MT",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
-        "email": "dep.antonioandrade@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
       },
-      "total": 4898.54,
-      "transacoes": 1,
+      "total": 867.14,
+      "transacoes": 2,
       "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7516378,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-17T00:00:00",
+          "numDocumento": "2826",
+          "valorDocumento": 374.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7516378.pdf",
+          "nomeFornecedor": "MARCO MARCHETTI S/A HOTEIS",
+          "cnpjCpfFornecedor": "00480608000160",
+          "valorLiquido": 374.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
         {
           "ano": 2023,
           "mes": 2,
           "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7505204,
+          "codDocumento": 7499019,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-02-02T00:00:00",
-          "numDocumento": "968",
-          "valorDocumento": 6531.38,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3709/2023/7505204.pdf",
+          "dataDocumento": "2023-02-04T00:00:00",
+          "numDocumento": "1072",
+          "valorDocumento": 493.14,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7499019.pdf",
           "nomeFornecedor": "MARCO MARCHETTI S/A HOTEIS",
           "cnpjCpfFornecedor": "00480608000160",
-          "valorLiquido": 4898.54,
+          "valorLiquido": 493.14,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

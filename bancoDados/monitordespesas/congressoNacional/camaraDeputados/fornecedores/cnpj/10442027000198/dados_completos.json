@@ -3,114 +3,52 @@
     "fornecedor": {
       "nome": "POSTO ANTONIO MARTINEZ JUNIOR LTDA",
       "cnpj": "10442027000198",
-      "total_recebido": 625.1500000000001,
-      "numero_transacoes": 4,
+      "total_recebido": 177.38,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:51:20.826063"
+    "generatedAt": "2025-10-22T20:35:57.573019"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 625.1500000000001
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 177.38
   },
   "anos": {
-    "2023": {
-      "total": 231.34,
-      "transacoes": 2,
-      "deputados": 1
-    },
-    "2024": {
-      "total": 393.81,
-      "transacoes": 2,
+    "2025": {
+      "total": 177.38,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "141391": {
+    "221328": {
       "deputado": {
-        "id": 141391,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141391",
-        "nome": "Arnaldo Jardim",
-        "siglaPartido": "CIDADANIA",
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141391.jpg",
-        "email": "dep.arnaldojardim@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": "dep.adilsonbarroso@camara.leg.br"
       },
-      "total": 625.1500000000001,
-      "transacoes": 4,
+      "total": 177.38,
+      "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 9,
+          "ano": 2025,
+          "mes": 10,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7617402,
+          "codDocumento": 7998421,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-09-23T00:00:00",
-          "numDocumento": "016594",
-          "valorDocumento": 107.29,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2023/7617402.pdf",
+          "dataDocumento": "2025-10-13T00:00:00",
+          "numDocumento": "773729",
+          "valorDocumento": 177.38,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7998421.pdf",
           "nomeFornecedor": "POSTO ANTONIO MARTINEZ JUNIOR LTDA",
           "cnpjCpfFornecedor": "10442027000198",
-          "valorLiquido": 107.29,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 2,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7507100,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-02-28T00:00:00",
-          "numDocumento": "092632",
-          "valorDocumento": 124.05,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2023/7507100.pdf",
-          "nomeFornecedor": "POSTO ANTONIO MARTINEZ JUNIOR LTDA",
-          "cnpjCpfFornecedor": "10442027000198",
-          "valorLiquido": 124.05,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 8,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7797698,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-08-29T00:00:00",
-          "numDocumento": "330779",
-          "valorDocumento": 107.52,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2024/7797698.pdf",
-          "nomeFornecedor": "POSTO ANTONIO MARTINEZ JUNIOR LTDA",
-          "cnpjCpfFornecedor": "10442027000198",
-          "valorLiquido": 107.52,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 7,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7785234,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-07-24T00:00:00",
-          "numDocumento": "135664",
-          "valorDocumento": 286.29,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2024/7785234.pdf",
-          "nomeFornecedor": "POSTO ANTONIO MARTINEZ JUNIOR LTDA",
-          "cnpjCpfFornecedor": "10442027000198",
-          "valorLiquido": 286.29,
+          "valorLiquido": 177.38,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

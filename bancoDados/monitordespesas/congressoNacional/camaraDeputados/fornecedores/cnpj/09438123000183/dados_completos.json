@@ -3,52 +3,52 @@
     "fornecedor": {
       "nome": "RODOSNACK TURMALINA LANCHONETE E RESTAURANTE LTDA",
       "cnpj": "09438123000183",
-      "total_recebido": 35.6,
+      "total_recebido": 22.4,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:51:16.085035"
+    "generatedAt": "2025-10-22T20:35:57.558397"
   },
   "categorias": {
-    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 35.6
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 22.4
   },
   "anos": {
-    "2025": {
-      "total": 35.6,
+    "2024": {
+      "total": 22.4,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "73433": {
+    "221328": {
       "deputado": {
-        "id": 73433,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73433",
-        "nome": "Arlindo Chinaglia",
-        "siglaPartido": "PT",
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73433.jpg",
-        "email": "dep.arlindochinaglia@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": "dep.adilsonbarroso@camara.leg.br"
       },
-      "total": 35.6,
+      "total": 22.4,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2025,
-          "mes": 5,
+          "ano": 2024,
+          "mes": 6,
           "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7936835,
+          "codDocumento": 7767326,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-05-17T00:00:00",
-          "numDocumento": "327061",
-          "valorDocumento": 35.6,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/974/2025/7936835.pdf",
+          "dataDocumento": "2024-06-28T00:00:00",
+          "numDocumento": "650188",
+          "valorDocumento": 22.4,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7767326.pdf",
           "nomeFornecedor": "RODOSNACK TURMALINA LANCHONETE E RESTAURANTE LTDA",
           "cnpjCpfFornecedor": "09438123000183",
-          "valorLiquido": 35.6,
+          "valorLiquido": 22.4,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

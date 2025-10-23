@@ -3,90 +3,52 @@
     "fornecedor": {
       "nome": "MARCIA REGINA GONÇALVES MATERESIO - ME",
       "cnpj": "29242126000154",
-      "total_recebido": 322.0,
-      "numero_transacoes": 3,
+      "total_recebido": 230.0,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:51:04.179403"
+    "generatedAt": "2025-10-22T20:35:57.590111"
   },
   "categorias": {
-    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 322.0
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 230.0
   },
   "anos": {
-    "2023": {
-      "total": 322.0,
-      "transacoes": 3,
+    "2025": {
+      "total": 230.0,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220638": {
+    "221328": {
       "deputado": {
-        "id": 220638,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220638",
-        "nome": "Antonio Carlos Rodrigues",
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
-        "email": "dep.antoniocarlosrodrigues@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": "dep.adilsonbarroso@camara.leg.br"
       },
-      "total": 322.0,
-      "transacoes": 3,
+      "total": 230.0,
+      "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 11,
+          "ano": 2025,
+          "mes": 7,
           "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7649526,
+          "codDocumento": 7961836,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-11-18T00:00:00",
-          "numDocumento": "2028",
-          "valorDocumento": 122.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3654/2023/7649526.pdf",
+          "dataDocumento": "2025-07-30T00:00:00",
+          "numDocumento": "2990",
+          "valorDocumento": 230.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7961836.pdf",
           "nomeFornecedor": "MARCIA REGINA GONÇALVES MATERESIO - ME",
           "cnpjCpfFornecedor": "29242126000154",
-          "valorLiquido": 122.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 11,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7649447,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-11-18T00:00:00",
-          "numDocumento": "2029",
-          "valorDocumento": 100.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3654/2023/7649447.pdf",
-          "nomeFornecedor": "MARCIA REGINA GONÇALVES MATERESIO - ME",
-          "cnpjCpfFornecedor": "29242126000154",
-          "valorLiquido": 100.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 11,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7649437,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-11-18T00:00:00",
-          "numDocumento": "2030",
-          "valorDocumento": 100.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3654/2023/7649437.pdf",
-          "nomeFornecedor": "MARCIA REGINA GONÇALVES MATERESIO - ME",
-          "cnpjCpfFornecedor": "29242126000154",
-          "valorLiquido": 100.0,
+          "valorLiquido": 230.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

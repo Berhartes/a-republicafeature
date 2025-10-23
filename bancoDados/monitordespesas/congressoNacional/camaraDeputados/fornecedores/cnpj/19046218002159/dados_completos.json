@@ -1,54 +1,59 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "DECIO RIO VERDE",
+      "nome": "DECIO COM. E SERV. ROD. LTDA  RIO VERDE   POSTO",
       "cnpj": "19046218002159",
-      "total_recebido": 253.82,
+      "total_recebido": 478.37,
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:53:48.214313"
+    "generatedAt": "2025-10-22T20:36:09.280967"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 253.82
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 478.37
   },
   "anos": {
+    "2023": {
+      "total": 328.37,
+      "transacoes": 1,
+      "deputados": 1
+    },
     "2024": {
-      "total": 253.82,
-      "transacoes": 2,
+      "total": 150.0,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220548": {
+    "121948": {
       "deputado": {
-        "id": 220548,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220548",
-        "nome": "Camila Jara",
-        "siglaPartido": "PT",
+        "id": 121948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "nome": "Adriano do Baldy",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "MS",
+        "siglaUf": "GO",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
-        "email": "dep.camilajara@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br"
       },
-      "total": 253.82,
+      "total": 478.37,
       "transacoes": 2,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 11,
+          "ano": 2023,
+          "mes": 10,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7828909,
+          "codDocumento": 7623162,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-05T15:10:33",
-          "numDocumento": "11250",
-          "valorDocumento": 100.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7828909",
-          "nomeFornecedor": "DECIO RIO VERDE",
+          "dataDocumento": "2023-10-06T00:00:00",
+          "numDocumento": "1236588",
+          "valorDocumento": 328.37,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7623162",
+          "nomeFornecedor": "DECIO COM. E SERV. ROD. LTDA  RIO VERDE   POSTO",
           "cnpjCpfFornecedor": "19046218002159",
-          "valorLiquido": 100.0,
+          "valorLiquido": 328.37,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -56,18 +61,18 @@
         },
         {
           "ano": 2024,
-          "mes": 8,
+          "mes": 4,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7780372,
+          "codDocumento": 7721740,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-08-04T15:34:54",
-          "numDocumento": "1530143",
-          "valorDocumento": 153.82,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7780372",
+          "dataDocumento": "2024-04-15T13:11:52",
+          "numDocumento": "1418791",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7721740",
           "nomeFornecedor": "DECIO COM. E SERV. ROD. LTDA  RIO VERDE   POSTO",
           "cnpjCpfFornecedor": "19046218002159",
-          "valorLiquido": 153.82,
+          "valorLiquido": 150.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

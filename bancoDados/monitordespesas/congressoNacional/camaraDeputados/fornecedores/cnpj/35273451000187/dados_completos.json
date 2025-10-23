@@ -3,52 +3,52 @@
     "fornecedor": {
       "nome": "POSTO SAO ROQUE ALVORADA LTDA",
       "cnpj": "35273451000187",
-      "total_recebido": 330.73,
+      "total_recebido": 232.03,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:55:10.957642"
+    "generatedAt": "2025-10-22T20:36:09.353419"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 330.73
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 232.03
   },
   "anos": {
-    "2023": {
-      "total": 330.73,
+    "2024": {
+      "total": 232.03,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204426": {
+    "121948": {
       "deputado": {
-        "id": 204426,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204426",
-        "nome": "Carlos Veras",
-        "siglaPartido": "PT",
+        "id": 121948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "nome": "Adriano do Baldy",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "PE",
+        "siglaUf": "GO",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
-        "email": "dep.carlosveras@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br"
       },
-      "total": 330.73,
+      "total": 232.03,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 2,
+          "ano": 2024,
+          "mes": 5,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7497432,
+          "codDocumento": 7733726,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-02-03T00:00:00",
-          "numDocumento": "208907",
-          "valorDocumento": 330.73,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7497432",
+          "dataDocumento": "2024-05-02T07:09:12",
+          "numDocumento": "346930",
+          "valorDocumento": 232.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7733726",
           "nomeFornecedor": "POSTO SAO ROQUE ALVORADA LTDA",
           "cnpjCpfFornecedor": "35273451000187",
-          "valorLiquido": 330.73,
+          "valorLiquido": 232.03,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

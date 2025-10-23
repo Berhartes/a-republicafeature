@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "José Antônio dos Santos Leandro",
+      "cnpj": "92510833553",
+      "total_recebido": 4431.95,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T20:36:13.757033"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 4431.95
+  },
+  "anos": {
+    "2023": {
+      "total": 4431.95,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160508": {
+      "deputado": {
+        "id": 160508,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160508",
+        "nome": "Afonso Florence",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160508.jpg",
+        "email": null
+      },
+      "total": 4431.95,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 1,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7494105,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-02T00:00:00",
+          "numDocumento": "s/n",
+          "valorDocumento": 4431.95,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2406/2023/7494105.pdf",
+          "nomeFornecedor": "José Antônio dos Santos Leandro",
+          "cnpjCpfFornecedor": "92510833553",
+          "valorLiquido": 4431.95,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

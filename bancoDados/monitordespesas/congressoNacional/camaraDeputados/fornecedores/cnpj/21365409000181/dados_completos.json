@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "P LIMA COMBUSTIVEIS LTDA",
+      "cnpj": "21365409000181",
+      "total_recebido": 721.68,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:55:34.198458"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 721.68
+  },
+  "anos": {
+    "2024": {
+      "total": 317.03,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 404.65,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "226708": {
+      "deputado": {
+        "id": 226708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
+        "nome": "Allan Garcês",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226708.jpg",
+        "email": "dep.allangarces@camara.leg.br"
+      },
+      "total": 721.68,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7671075,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-05T00:00:00",
+          "numDocumento": "450056",
+          "valorDocumento": 317.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7671075",
+          "nomeFornecedor": "P LIMA COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "21365409000181",
+          "valorLiquido": 317.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7906075,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-16T00:00:00",
+          "numDocumento": "24890",
+          "valorDocumento": 404.65,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7906075",
+          "nomeFornecedor": "P LIMA COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "21365409000181",
+          "valorLiquido": 404.65,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

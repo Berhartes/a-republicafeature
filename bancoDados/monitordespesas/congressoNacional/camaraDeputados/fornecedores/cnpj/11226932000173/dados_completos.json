@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BURITIZINHO AUTO POSTO II LTDA",
+      "cnpj": "11226932000173",
+      "total_recebido": 395.08,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T20:35:57.591822"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 395.08
+  },
+  "anos": {
+    "2025": {
+      "total": 395.08,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": "dep.adilsonbarroso@camara.leg.br"
+      },
+      "total": 395.08,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7940535,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-23T00:00:00",
+          "numDocumento": "081533",
+          "valorDocumento": 264.96,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7940535.pdf",
+          "nomeFornecedor": "BURITIZINHO AUTO POSTO II LTDA",
+          "cnpjCpfFornecedor": "11226932000173",
+          "valorLiquido": 264.96,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7940384,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-26T00:00:00",
+          "numDocumento": "082197",
+          "valorDocumento": 130.12,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7940384.pdf",
+          "nomeFornecedor": "BURITIZINHO AUTO POSTO II LTDA",
+          "cnpjCpfFornecedor": "11226932000173",
+          "valorLiquido": 130.12,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

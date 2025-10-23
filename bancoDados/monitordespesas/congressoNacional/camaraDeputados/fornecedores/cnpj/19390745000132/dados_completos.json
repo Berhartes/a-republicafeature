@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "NOVO FLECHA POSTO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "19390745000132",
+      "total_recebido": 838.76,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:54:54.612777"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 838.76
+  },
+  "anos": {
+    "2024": {
+      "total": 838.76,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204571": {
+      "deputado": {
+        "id": 204571,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
+        "nome": "Alex Santana",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204571.jpg",
+        "email": "dep.alexsantana@camara.leg.br"
+      },
+      "total": 838.76,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7822803,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-01T13:42:21",
+          "numDocumento": "220923",
+          "valorDocumento": 335.88,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7822803",
+          "nomeFornecedor": "NOVO FLECHA POSTO DE DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "19390745000132",
+          "valorLiquido": 335.88,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7822810,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-02T17:50:48",
+          "numDocumento": "221103",
+          "valorDocumento": 380.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7822810",
+          "nomeFornecedor": "NOVO FLECHA POSTO DE DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "19390745000132",
+          "valorLiquido": 380.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7724605,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-31T00:04:25",
+          "numDocumento": "193358",
+          "valorDocumento": 122.88,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7724605",
+          "nomeFornecedor": "NOVO FLECHA POSTO DE DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "19390745000132",
+          "valorLiquido": 122.88,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

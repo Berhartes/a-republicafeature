@@ -1,2 +1,3 @@
 [console_scripts]
 etl-despesas = etlpython.cli.despesas:main
+etl-materialize = etlpython.cli.materialize_unified:main

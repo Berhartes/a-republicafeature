@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "marcos r silva",
+      "cnpj": "18156891000135",
+      "total_recebido": 12000.0,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:55:30.403640"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 12000.0
+  },
+  "anos": {
+    "2023": {
+      "total": 3600.0,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 5600.0,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 2800.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178927": {
+      "deputado": {
+        "id": 178927,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
+        "nome": "Aliel Machado",
+        "siglaPartido": "PV",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+        "email": "dep.alielmachado@camara.leg.br"
+      },
+      "total": 12000.0,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7576640,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-18T00:00:00",
+          "numDocumento": "990",
+          "valorDocumento": 1800.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2023/7576640.pdf",
+          "nomeFornecedor": "marcos r silva",
+          "cnpjCpfFornecedor": "18156891000135",
+          "valorLiquido": 1800.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7522722,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-06T00:00:00",
+          "numDocumento": "919",
+          "valorDocumento": 1800.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2023/7522722.pdf",
+          "nomeFornecedor": "marcos r silva",
+          "cnpjCpfFornecedor": "18156891000135",
+          "valorLiquido": 1800.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7839127,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-27T00:00:00",
+          "numDocumento": "1380",
+          "valorDocumento": 2000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2024/7839127.pdf",
+          "nomeFornecedor": "PORTAL BNT ONLINE LTDA",
+          "cnpjCpfFornecedor": "18156891000135",
+          "valorLiquido": 2000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7734242,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-13T00:00:00",
+          "numDocumento": "1212",
+          "valorDocumento": 1800.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2024/7734242.pdf",
+          "nomeFornecedor": "marcos r silva",
+          "cnpjCpfFornecedor": "18156891000135",
+          "valorLiquido": 1800.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7671388,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-05T00:00:00",
+          "numDocumento": "1105",
+          "valorDocumento": 1800.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2024/7671388.pdf",
+          "nomeFornecedor": "marcos r silva",
+          "cnpjCpfFornecedor": "18156891000135",
+          "valorLiquido": 1800.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7983941,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-18T00:00:00",
+          "numDocumento": "1653",
+          "valorDocumento": 1000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2025/7983941.pdf",
+          "nomeFornecedor": "marcos r silva",
+          "cnpjCpfFornecedor": "18156891000135",
+          "valorLiquido": 1000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7962526,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-07T00:00:00",
+          "numDocumento": "1602",
+          "valorDocumento": 1800.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2025/7962526.pdf",
+          "nomeFornecedor": "marcos r silva",
+          "cnpjCpfFornecedor": "18156891000135",
+          "valorLiquido": 1800.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

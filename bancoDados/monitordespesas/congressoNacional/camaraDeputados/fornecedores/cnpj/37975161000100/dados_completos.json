@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "THRUST MARKETING LTDA",
+      "cnpj": "37975161000100",
+      "total_recebido": 10500.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:55:24.439143"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 10500.0
+  },
+  "anos": {
+    "2025": {
+      "total": 10500.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74057": {
+      "deputado": {
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "siglaPartido": "PCdoB",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
+      },
+      "total": 10500.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7974552,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-25T00:00:00",
+          "numDocumento": "33",
+          "valorDocumento": 3500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1531/2025/7974552.pdf",
+          "nomeFornecedor": "THRUST MARKETING LTDA",
+          "cnpjCpfFornecedor": "37975161000100",
+          "valorLiquido": 3500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7980089,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-24T00:00:00",
+          "numDocumento": "31",
+          "valorDocumento": 3500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1531/2025/7980089.pdf",
+          "nomeFornecedor": "THRUST MARKETING LTDA",
+          "cnpjCpfFornecedor": "37975161000100",
+          "valorLiquido": 3500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7911564,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-16T00:00:00",
+          "numDocumento": "27",
+          "valorDocumento": 3500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1531/2025/7911564.pdf",
+          "nomeFornecedor": "THRUST MARKETING LTDA",
+          "cnpjCpfFornecedor": "37975161000100",
+          "valorLiquido": 3500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

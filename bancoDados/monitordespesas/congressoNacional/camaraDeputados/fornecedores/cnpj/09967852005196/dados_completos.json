@@ -3,52 +3,52 @@
     "fornecedor": {
       "nome": "Hotelaria Accor Brasil S/A",
       "cnpj": "09967852005196",
-      "total_recebido": 598.5,
+      "total_recebido": 1001.72,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:54:45.751589"
+    "generatedAt": "2025-10-22T20:35:46.685264"
   },
   "categorias": {
-    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 598.5
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 1001.72
   },
   "anos": {
     "2023": {
-      "total": 598.5,
+      "total": 1001.72,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "178962": {
+    "220593": {
       "deputado": {
-        "id": 178962,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178962",
-        "nome": "Carlos Gomes",
-        "siglaPartido": "REPUBLICANOS",
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
         "uriPartido": "",
-        "siglaUf": "RS",
+        "siglaUf": "MT",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
         "email": null
       },
-      "total": 598.5,
+      "total": 1001.72,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 6,
+          "mes": 9,
           "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7562534,
+          "codDocumento": 7617381,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-06-03T00:00:00",
-          "numDocumento": "202311637",
-          "valorDocumento": 598.5,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2900/2023/7562534.pdf",
+          "dataDocumento": "2023-09-24T00:00:00",
+          "numDocumento": "202321554",
+          "valorDocumento": 1001.72,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7617381.pdf",
           "nomeFornecedor": "Hotelaria Accor Brasil S/A",
           "cnpjCpfFornecedor": "09967852005196",
-          "valorLiquido": 598.5,
+          "valorLiquido": 1001.72,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
+      "cnpj": "43283811012590",
+      "total_recebido": 1809.2,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:54:48.561970"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 1809.2
+  },
+  "anos": {
+    "2023": {
+      "total": 125.8,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 1683.4,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204501": {
+      "deputado": {
+        "id": 204501,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204501",
+        "nome": "Alencar Santana",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204501.jpg",
+        "email": "dep.alencarsantana@camara.leg.br"
+      },
+      "total": 1809.2,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7600338,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-29T00:00:00",
+          "numDocumento": "506037",
+          "valorDocumento": 125.8,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3431/2023/7600338.pdf",
+          "nomeFornecedor": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
+          "cnpjCpfFornecedor": "43283811012590",
+          "valorLiquido": 125.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7780488,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-31T00:00:00",
+          "numDocumento": "822946",
+          "valorDocumento": 1688.8,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3431/2024/7780488.pdf",
+          "nomeFornecedor": "KALUNGA COMERCIO E INDUSTRIA GRAFICA LTDA",
+          "cnpjCpfFornecedor": "43283811012590",
+          "valorLiquido": 1683.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

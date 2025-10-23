@@ -1,54 +1,54 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "AB COMBUSTIVEIS",
+      "nome": "AB-COMERCIO DE COMBUSTIVEIS LTDA",
       "cnpj": "10395273000136",
-      "total_recebido": 233.25,
+      "total_recebido": 202.89,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:50:55.605060"
+    "generatedAt": "2025-10-22T20:36:09.317855"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 233.25
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 202.89
   },
   "anos": {
-    "2025": {
-      "total": 233.25,
+    "2023": {
+      "total": 202.89,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220544": {
+    "121948": {
       "deputado": {
-        "id": 220544,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220544",
-        "nome": "Antonio Andrade",
-        "siglaPartido": "REPUBLICANOS",
+        "id": 121948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "nome": "Adriano do Baldy",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "TO",
+        "siglaUf": "GO",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
-        "email": "dep.antonioandrade@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br"
       },
-      "total": 233.25,
+      "total": 202.89,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2025,
-          "mes": 8,
+          "ano": 2023,
+          "mes": 3,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7973963,
+          "codDocumento": 7516837,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-08-29T00:00:00",
-          "numDocumento": "455687",
-          "valorDocumento": 233.25,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7973963",
-          "nomeFornecedor": "AB COMBUSTIVEIS",
+          "dataDocumento": "2023-03-25T00:00:00",
+          "numDocumento": "489382",
+          "valorDocumento": 202.89,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7516837",
+          "nomeFornecedor": "AB-COMERCIO DE COMBUSTIVEIS LTDA",
           "cnpjCpfFornecedor": "10395273000136",
-          "valorLiquido": 233.25,
+          "valorLiquido": 202.89,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

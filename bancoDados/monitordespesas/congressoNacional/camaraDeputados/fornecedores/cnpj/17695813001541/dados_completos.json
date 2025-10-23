@@ -1,54 +1,54 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS LTDA",
+      "nome": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS-P15",
       "cnpj": "17695813001541",
-      "total_recebido": 292.2,
+      "total_recebido": 128.36,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:52:40.361735"
+    "generatedAt": "2025-10-22T20:36:20.361501"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 292.2
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 128.36
   },
   "anos": {
     "2023": {
-      "total": 292.2,
+      "total": 128.36,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "160538": {
+    "136811": {
       "deputado": {
-        "id": 160538,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160538",
-        "nome": "Bohn Gass",
-        "siglaPartido": "PT",
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160538.jpg",
-        "email": "dep.bohngass@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
       },
-      "total": 292.2,
+      "total": 128.36,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 8,
+          "mes": 3,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7597989,
+          "codDocumento": 7517208,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-08-24T00:00:00",
-          "numDocumento": "717126",
-          "valorDocumento": 292.2,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7597989",
-          "nomeFornecedor": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS LTDA",
+          "dataDocumento": "2023-03-10T00:00:00",
+          "numDocumento": "563384",
+          "valorDocumento": 128.36,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7517208",
+          "nomeFornecedor": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS-P15",
           "cnpjCpfFornecedor": "17695813001541",
-          "valorLiquido": 292.2,
+          "valorLiquido": 128.36,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

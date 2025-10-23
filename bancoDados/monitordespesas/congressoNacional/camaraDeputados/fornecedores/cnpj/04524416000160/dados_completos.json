@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "JMF COMERCIO DE COMBUSTIVEIS LTDA - COQUEIRO",
+      "cnpj": "04524416000160",
+      "total_recebido": 542.5699999999999,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:54:54.587115"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 542.5699999999999
+  },
+  "anos": {
+    "2023": {
+      "total": 375.02,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 167.55,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204571": {
+      "deputado": {
+        "id": 204571,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
+        "nome": "Alex Santana",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204571.jpg",
+        "email": "dep.alexsantana@camara.leg.br"
+      },
+      "total": 542.5699999999999,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7664874,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-26T00:00:00",
+          "numDocumento": "932190",
+          "valorDocumento": 375.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7664874",
+          "nomeFornecedor": "JMF COMERCIO DE COMBUSTIVEIS LTDA - COQUEIRO",
+          "cnpjCpfFornecedor": "04524416000160",
+          "valorLiquido": 375.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7724597,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-30T10:48:56",
+          "numDocumento": "974543",
+          "valorDocumento": 167.55,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7724597",
+          "nomeFornecedor": "JMF COMERCIO DE COMBUSTIVEIS LTDA - COQUEIRO",
+          "cnpjCpfFornecedor": "04524416000160",
+          "valorLiquido": 167.55,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

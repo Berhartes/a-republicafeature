@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS",
+      "cnpj": "17695813000570",
+      "total_recebido": 572.23,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:55:14.741214"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 572.23
+  },
+  "anos": {
+    "2023": {
+      "total": 572.23,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220554": {
+      "deputado": {
+        "id": 220554,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+        "nome": "Alexandre Lindenmeyer",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
+        "email": "dep.alexandrelindenmeyer@camara.leg.br"
+      },
+      "total": 572.23,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7640323,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-08T00:00:00",
+          "numDocumento": "934855",
+          "valorDocumento": 191.83,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7640323",
+          "nomeFornecedor": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS",
+          "cnpjCpfFornecedor": "17695813000570",
+          "valorLiquido": 191.83,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7640321,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-08T00:00:00",
+          "numDocumento": "934856",
+          "valorDocumento": 380.4,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7640321",
+          "nomeFornecedor": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS",
+          "cnpjCpfFornecedor": "17695813000570",
+          "valorLiquido": 380.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

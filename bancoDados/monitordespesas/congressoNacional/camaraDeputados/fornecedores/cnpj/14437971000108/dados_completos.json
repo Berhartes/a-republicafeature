@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIO DE COMBUSTIVEIS UIRAPURU LTDA",
+      "cnpj": "14437971000108",
+      "total_recebido": 414.19,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:55:24.425976"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 414.19
+  },
+  "anos": {
+    "2024": {
+      "total": 193.42,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 220.77,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74057": {
+      "deputado": {
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "siglaPartido": "PCdoB",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
+      },
+      "total": 414.19,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7810786,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-18T17:07:08",
+          "numDocumento": "27632",
+          "valorDocumento": 193.42,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7810786",
+          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS UIRAPURU LTDA",
+          "cnpjCpfFornecedor": "14437971000108",
+          "valorLiquido": 193.42,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7960376,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-08T00:00:00",
+          "numDocumento": "61471",
+          "valorDocumento": 220.77,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7960376",
+          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS UIRAPURU LTDA",
+          "cnpjCpfFornecedor": "14437971000108",
+          "valorLiquido": 220.77,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

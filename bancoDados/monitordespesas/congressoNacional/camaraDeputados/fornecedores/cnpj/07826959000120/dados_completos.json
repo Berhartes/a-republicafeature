@@ -1,54 +1,54 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "AUTO POSTO CERRADO LTDA",
+      "nome": "CERRADO COMERCIO LTDA",
       "cnpj": "07826959000120",
-      "total_recebido": 169.85,
+      "total_recebido": 221.07,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:51:41.848076"
+    "generatedAt": "2025-10-22T20:36:09.349452"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 169.85
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 221.07
   },
   "anos": {
-    "2023": {
-      "total": 169.85,
+    "2024": {
+      "total": 221.07,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220577": {
+    "121948": {
       "deputado": {
-        "id": 220577,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220577",
-        "nome": "Augusto Puppio",
-        "siglaPartido": "MDB",
+        "id": 121948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "nome": "Adriano do Baldy",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "AP",
+        "siglaUf": "GO",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220577.jpg",
-        "email": null
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br"
       },
-      "total": 169.85,
+      "total": 221.07,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
+          "ano": 2024,
           "mes": 6,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7559742,
+          "codDocumento": 7749087,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-06-14T00:00:00",
-          "numDocumento": "312126",
-          "valorDocumento": 169.85,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7559742",
-          "nomeFornecedor": "AUTO POSTO CERRADO LTDA",
+          "dataDocumento": "2024-06-04T12:13:31",
+          "numDocumento": "554778",
+          "valorDocumento": 221.07,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7749087",
+          "nomeFornecedor": "CERRADO COMERCIO LTDA",
           "cnpjCpfFornecedor": "07826959000120",
-          "valorLiquido": 169.85,
+          "valorLiquido": 221.07,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

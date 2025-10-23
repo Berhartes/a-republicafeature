@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AGUIA ABASTECEDORA DE COMBUSTIVEIS LTDA.",
+      "cnpj": "10401915000162",
+      "total_recebido": 569.54,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T20:36:20.314628"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 569.54
+  },
+  "anos": {
+    "2023": {
+      "total": 423.1,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 146.44,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "136811": {
+      "deputado": {
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
+      },
+      "total": 569.54,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7606449,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-10T00:00:00",
+          "numDocumento": "21693",
+          "valorDocumento": 190.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7606449",
+          "nomeFornecedor": "AGUIA ABASTECEDORA DE COMBUSTIVEIS LTDA.",
+          "cnpjCpfFornecedor": "10401915000162",
+          "valorLiquido": 190.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7524751,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-11T00:00:00",
+          "numDocumento": "8367",
+          "valorDocumento": 233.1,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7524751",
+          "nomeFornecedor": "AGUIA ABASTECEDORA DE COMBUSTIVEIS LTDA.",
+          "cnpjCpfFornecedor": "10401915000162",
+          "valorLiquido": 233.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7837038,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-15T15:23:18",
+          "numDocumento": "1681",
+          "valorDocumento": 146.44,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7837038",
+          "nomeFornecedor": "AGUIA ABAST DE COMB LTDA",
+          "cnpjCpfFornecedor": "10401915000162",
+          "valorLiquido": 146.44,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

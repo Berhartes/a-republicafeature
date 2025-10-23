@@ -1,0 +1,203 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CAMPINA COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "21331468000139",
+      "total_recebido": 1876.16,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:55:30.367171"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1876.16
+  },
+  "anos": {
+    "2023": {
+      "total": 689.39,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 905.5799999999999,
+      "transacoes": 4,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 281.19,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178927": {
+      "deputado": {
+        "id": 178927,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
+        "nome": "Aliel Machado",
+        "siglaPartido": "PV",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+        "email": "dep.alielmachado@camara.leg.br"
+      },
+      "total": 1876.16,
+      "transacoes": 8,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7638799,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-06T00:00:00",
+          "numDocumento": "489200",
+          "valorDocumento": 246.69,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7638799",
+          "nomeFornecedor": "CAMPINA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "21331468000139",
+          "valorLiquido": 246.69,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7620164,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-02T00:00:00",
+          "numDocumento": "477951",
+          "valorDocumento": 252.14,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7620164",
+          "nomeFornecedor": "CAMPINA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "21331468000139",
+          "valorLiquido": 252.14,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7626752,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-03T00:00:00",
+          "numDocumento": "478162",
+          "valorDocumento": 190.56,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7626752",
+          "nomeFornecedor": "CAMPINA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "21331468000139",
+          "valorLiquido": 190.56,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7842423,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-09T00:00:00",
+          "numDocumento": "631576",
+          "valorDocumento": 180.89,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7842423",
+          "nomeFornecedor": "CAMPINA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "21331468000139",
+          "valorLiquido": 180.89,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7800686,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-10T10:26:22",
+          "numDocumento": "598243",
+          "valorDocumento": 242.76,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7800686",
+          "nomeFornecedor": "CAMPINA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "21331468000139",
+          "valorLiquido": 242.76,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7723219,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-22T16:09:47",
+          "numDocumento": "548428",
+          "valorDocumento": 223.11,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7723219",
+          "nomeFornecedor": "CAMPINA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "21331468000139",
+          "valorLiquido": 223.11,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7738659,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-29T16:20:26",
+          "numDocumento": "551151",
+          "valorDocumento": 258.82,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7738659",
+          "nomeFornecedor": "CAMPINA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "21331468000139",
+          "valorLiquido": 258.82,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7993965,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-06T00:00:00",
+          "numDocumento": "28879",
+          "valorDocumento": 281.19,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7993965",
+          "nomeFornecedor": "CAMPINA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "21331468000139",
+          "valorLiquido": 281.19,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -3,71 +3,52 @@
     "fornecedor": {
       "nome": "AUTO POSTO AEROPORTO LTDA",
       "cnpj": "08202116000115",
-      "total_recebido": 621.19,
-      "numero_transacoes": 2,
+      "total_recebido": 92.64,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:55:19.166511"
+    "generatedAt": "2025-10-22T20:36:20.322547"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 621.19
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 92.64
   },
   "anos": {
-    "2024": {
-      "total": 621.19,
-      "transacoes": 2,
+    "2023": {
+      "total": 92.64,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "164360": {
+    "136811": {
       "deputado": {
-        "id": 164360,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164360",
-        "nome": "Carmen Zanotto",
-        "siglaPartido": "CIDADANIA",
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "SC",
+        "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/164360.jpg",
-        "email": null
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
       },
-      "total": 621.19,
-      "transacoes": 2,
+      "total": 92.64,
+      "transacoes": 1,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 11,
+          "ano": 2023,
+          "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7833032,
+          "codDocumento": 7595943,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-12T07:30:49",
-          "numDocumento": "638952",
-          "valorDocumento": 323.63,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7833032",
+          "dataDocumento": "2023-08-23T00:00:00",
+          "numDocumento": "537881",
+          "valorDocumento": 92.64,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7595943",
           "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
           "cnpjCpfFornecedor": "08202116000115",
-          "valorLiquido": 323.63,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 11,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7837476,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-18T12:18:40",
-          "numDocumento": "640177",
-          "valorDocumento": 297.56,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7837476",
-          "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
-          "cnpjCpfFornecedor": "08202116000115",
-          "valorLiquido": 297.56,
+          "valorLiquido": 92.64,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -3,52 +3,71 @@
     "fornecedor": {
       "nome": "HOTEL - J.D.F. LTDA",
       "cnpj": "08670169000160",
-      "total_recebido": 310.0,
-      "numero_transacoes": 1,
+      "total_recebido": 607.5,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:50:05.315847"
+    "generatedAt": "2025-10-22T20:35:46.716916"
   },
   "categorias": {
-    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 310.0
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 607.5
   },
   "anos": {
     "2023": {
-      "total": 310.0,
-      "transacoes": 1,
+      "total": 607.5,
+      "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "220596": {
+    "220593": {
       "deputado": {
-        "id": 220596,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220596",
-        "nome": "Amália Barros",
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "MT",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220596.jpg",
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
         "email": null
       },
-      "total": 310.0,
-      "transacoes": 1,
+      "total": 607.5,
+      "transacoes": 2,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 11,
+          "mes": 3,
           "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7656345,
+          "codDocumento": 7516303,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-11-16T00:00:00",
-          "numDocumento": "58112",
-          "valorDocumento": 310.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7656345.pdf",
+          "dataDocumento": "2023-05-23T00:00:00",
+          "numDocumento": "40947",
+          "valorDocumento": 303.75,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7516303.pdf",
           "nomeFornecedor": "HOTEL - J.D.F. LTDA",
           "cnpjCpfFornecedor": "08670169000160",
-          "valorLiquido": 310.0,
+          "valorLiquido": 303.75,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7516312,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-04T00:00:00",
+          "numDocumento": "49223",
+          "valorDocumento": 303.75,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7516312.pdf",
+          "nomeFornecedor": "HOTEL - J.D.F. LTDA",
+          "cnpjCpfFornecedor": "08670169000160",
+          "valorLiquido": 303.75,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SW Praia Hotel",
+      "cnpj": "14149875000164",
+      "total_recebido": 3000.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:54:35.897789"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 3000.0
+  },
+  "anos": {
+    "2023": {
+      "total": 3000.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74696": {
+      "deputado": {
+        "id": 74696,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74696",
+        "nome": "Alberto Mourão",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74696.jpg",
+        "email": null
+      },
+      "total": 3000.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7627393,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-12T00:00:00",
+          "numDocumento": "7106",
+          "valorDocumento": 1000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1390/2023/7627393.pdf",
+          "nomeFornecedor": "SW Praia Hotel",
+          "cnpjCpfFornecedor": "14149875000164",
+          "valorLiquido": 1000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7627391,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-12T00:00:00",
+          "numDocumento": "7107",
+          "valorDocumento": 1000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1390/2023/7627391.pdf",
+          "nomeFornecedor": "SW Praia Hotel",
+          "cnpjCpfFornecedor": "14149875000164",
+          "valorLiquido": 1000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7627386,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-12T00:00:00",
+          "numDocumento": "7108",
+          "valorDocumento": 1000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1390/2023/7627386.pdf",
+          "nomeFornecedor": "SW Praia Hotel",
+          "cnpjCpfFornecedor": "14149875000164",
+          "valorLiquido": 1000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

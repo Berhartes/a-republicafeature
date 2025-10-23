@@ -3,52 +3,52 @@
     "fornecedor": {
       "nome": "SERVICENTRO NOSSA SENHORA APARECIDA LTDA",
       "cnpj": "50921147000192",
-      "total_recebido": 85.01,
+      "total_recebido": 272.0,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:51:04.191056"
+    "generatedAt": "2025-10-22T20:35:57.576843"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 85.01
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 272.0
   },
   "anos": {
-    "2023": {
-      "total": 85.01,
+    "2025": {
+      "total": 272.0,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220638": {
+    "221328": {
       "deputado": {
-        "id": 220638,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220638",
-        "nome": "Antonio Carlos Rodrigues",
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
-        "email": "dep.antoniocarlosrodrigues@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": "dep.adilsonbarroso@camara.leg.br"
       },
-      "total": 85.01,
+      "total": 272.0,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 8,
+          "ano": 2025,
+          "mes": 9,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7600792,
+          "codDocumento": 7991229,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-08-25T00:00:00",
-          "numDocumento": "340299",
-          "valorDocumento": 85.01,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3654/2023/7600792.pdf",
+          "dataDocumento": "2025-09-26T00:00:00",
+          "numDocumento": "640019",
+          "valorDocumento": 272.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7991229.pdf",
           "nomeFornecedor": "SERVICENTRO NOSSA SENHORA APARECIDA LTDA",
           "cnpjCpfFornecedor": "50921147000192",
-          "valorLiquido": 85.01,
+          "valorLiquido": 272.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

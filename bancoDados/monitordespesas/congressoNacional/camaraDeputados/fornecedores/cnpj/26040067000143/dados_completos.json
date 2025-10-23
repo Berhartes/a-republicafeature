@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO PITSTOP EIRELI",
+      "cnpj": "26040067000143",
+      "total_recebido": 100.06,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:54:26.566039"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 100.06
+  },
+  "anos": {
+    "2023": {
+      "total": 100.06,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160527": {
+      "deputado": {
+        "id": 160527,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
+        "nome": "Aguinaldo Ribeiro",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "PB",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160527.jpg",
+        "email": "dep.aguinaldoribeiro@camara.leg.br"
+      },
+      "total": 100.06,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7559155,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-02T00:00:00",
+          "numDocumento": "95866",
+          "valorDocumento": 100.06,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7559155",
+          "nomeFornecedor": "POSTO PITSTOP EIRELI",
+          "cnpjCpfFornecedor": "26040067000143",
+          "valorLiquido": 100.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

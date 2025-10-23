@@ -3,71 +3,52 @@
     "fornecedor": {
       "nome": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
       "cnpj": "04621225000116",
-      "total_recebido": 570.09,
-      "numero_transacoes": 2,
+      "total_recebido": 300.68,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:54:54.098454"
+    "generatedAt": "2025-10-22T20:36:00.066168"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 570.09
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 300.68
   },
   "anos": {
-    "2024": {
-      "total": 570.09,
-      "transacoes": 2,
+    "2023": {
+      "total": 300.68,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204460": {
+    "204560": {
       "deputado": {
-        "id": 204460,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204460",
-        "nome": "Carlos Jordy",
-        "siglaPartido": "PL",
+        "id": 204560,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204560",
+        "nome": "Adolfo Viana",
+        "siglaPartido": "PSDB",
         "uriPartido": "",
-        "siglaUf": "RJ",
+        "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
-        "email": "dep.carlosjordy@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
+        "email": "dep.adolfoviana@camara.leg.br"
       },
-      "total": 570.09,
-      "transacoes": 2,
+      "total": 300.68,
+      "transacoes": 1,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 2,
+          "ano": 2023,
+          "mes": 4,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7689696,
+          "codDocumento": 7551864,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-02-09T22:13:28",
-          "numDocumento": "413945",
-          "valorDocumento": 300.04,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7689696",
+          "dataDocumento": "2023-04-22T00:00:00",
+          "numDocumento": "331171",
+          "valorDocumento": 300.68,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7551864",
           "nomeFornecedor": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
           "cnpjCpfFornecedor": "04621225000116",
-          "valorLiquido": 300.04,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 1,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7673271,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-01-11T22:19:47",
-          "numDocumento": "405146",
-          "valorDocumento": 270.05,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7673271",
-          "nomeFornecedor": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
-          "cnpjCpfFornecedor": "04621225000116",
-          "valorLiquido": 270.05,
+          "valorLiquido": 300.68,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

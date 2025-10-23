@@ -3,52 +3,119 @@
     "fornecedor": {
       "nome": "RODOPOSTO BANDEIRANTES SUL LTDA",
       "cnpj": "05289870000146",
-      "total_recebido": 201.1,
-      "numero_transacoes": 1,
+      "total_recebido": 939.04,
+      "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:54:37.601349"
+    "generatedAt": "2025-10-22T20:35:57.511606"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 201.1
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 939.04
   },
   "anos": {
+    "2023": {
+      "total": 253.23,
+      "transacoes": 1,
+      "deputados": 1
+    },
     "2024": {
-      "total": 201.1,
+      "total": 432.55,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 253.26,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204507": {
+    "221328": {
       "deputado": {
-        "id": 204507,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204507",
-        "nome": "Carla Zambelli",
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204507.jpg",
-        "email": "dep.carlazambelli@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": "dep.adilsonbarroso@camara.leg.br"
       },
-      "total": 201.1,
-      "transacoes": 1,
+      "total": 939.04,
+      "transacoes": 4,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 11,
+          "ano": 2023,
+          "mes": 3,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7833283,
+          "codDocumento": 7519795,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-17T00:00:00",
-          "numDocumento": "201,10",
-          "valorDocumento": 201.1,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2024/7833283.pdf",
+          "dataDocumento": "2023-03-24T00:00:00",
+          "numDocumento": "256132",
+          "valorDocumento": 253.23,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7519795.pdf",
           "nomeFornecedor": "RODOPOSTO BANDEIRANTES SUL LTDA",
           "cnpjCpfFornecedor": "05289870000146",
-          "valorLiquido": 201.1,
+          "valorLiquido": 253.23,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7767271,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-27T00:00:00",
+          "numDocumento": "481952",
+          "valorDocumento": 247.12,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7767271.pdf",
+          "nomeFornecedor": "RODOPOSTO BANDEIRANTES SUL LTDA",
+          "cnpjCpfFornecedor": "05289870000146",
+          "valorLiquido": 247.12,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7678699,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-29T00:00:00",
+          "numDocumento": "027585",
+          "valorDocumento": 185.43,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7678699.pdf",
+          "nomeFornecedor": "RODOPOSTO BANDEIRANTES SUL LTDA",
+          "cnpjCpfFornecedor": "05289870000146",
+          "valorLiquido": 185.43,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7970286,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-21T00:00:00",
+          "numDocumento": "34002",
+          "valorDocumento": 253.26,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7970286.pdf",
+          "nomeFornecedor": "RODOPOSTO BANDEIRANTES SUL LTDA",
+          "cnpjCpfFornecedor": "05289870000146",
+          "valorLiquido": 253.26,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

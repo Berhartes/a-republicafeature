@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "NENENS CHOPP POSTO DE COMBUSTIVEIS LTDA",
+      "cnpj": "32434124000171",
+      "total_recebido": 1934.95,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T20:36:00.070010"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1934.95
+  },
+  "anos": {
+    "2024": {
+      "total": 466.09000000000003,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 1468.86,
+      "transacoes": 6,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204560": {
+      "deputado": {
+        "id": 204560,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204560",
+        "nome": "Adolfo Viana",
+        "siglaPartido": "PSDB",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
+        "email": "dep.adolfoviana@camara.leg.br"
+      },
+      "total": 1934.95,
+      "transacoes": 8,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7836300,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-04T10:34:23",
+          "numDocumento": "51764",
+          "valorDocumento": 247.62,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7836300",
+          "nomeFornecedor": "NENENS CHOPP POSTO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "32434124000171",
+          "valorLiquido": 247.62,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7717397,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-22T00:00:00",
+          "numDocumento": "208409",
+          "valorDocumento": 218.47,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7717397",
+          "nomeFornecedor": "NENENS CHOPP POSTO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "32434124000171",
+          "valorLiquido": 218.47,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7982677,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-12T00:00:00",
+          "numDocumento": "247753",
+          "valorDocumento": 252.87,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7982677",
+          "nomeFornecedor": "NENENS CHOPP POSTO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "32434124000171",
+          "valorLiquido": 252.87,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7916903,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-08T00:00:00",
+          "numDocumento": "214518",
+          "valorDocumento": 255.25,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7916903",
+          "nomeFornecedor": "NENENS CHOPP POSTO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "32434124000171",
+          "valorLiquido": 255.25,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7916834,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-23T00:00:00",
+          "numDocumento": "505608",
+          "valorDocumento": 258.53,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7916834",
+          "nomeFornecedor": "NENENS CHOPP POSTO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "32434124000171",
+          "valorLiquido": 258.53,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7893199,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-24T15:19:11",
+          "numDocumento": "202940",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7893199",
+          "nomeFornecedor": "NENENS CHOPP POSTO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "32434124000171",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7875506,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-02-14T00:00:00",
+          "numDocumento": "428846",
+          "valorDocumento": 256.14,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7875506",
+          "nomeFornecedor": "NENENS CHOPP POSTO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "32434124000171",
+          "valorLiquido": 256.14,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7854377,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-01-07T15:02:43",
+          "numDocumento": "180075",
+          "valorDocumento": 246.07,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7854377",
+          "nomeFornecedor": "NENENS CHOPP POSTO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "32434124000171",
+          "valorLiquido": 246.07,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

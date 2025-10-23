@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SIM REDE DE POSTOS LTDA - SANTIAGO",
+      "cnpj": "07473735018552",
+      "total_recebido": 472.69000000000005,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:54:21.063506"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 472.69000000000005
+  },
+  "anos": {
+    "2023": {
+      "total": 157.63,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 315.06,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178835": {
+      "deputado": {
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
+      },
+      "total": 472.69000000000005,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7645118,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-16T00:00:00",
+          "numDocumento": "187458",
+          "valorDocumento": 157.63,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7645118",
+          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - SANTIAGO",
+          "cnpjCpfFornecedor": "07473735018552",
+          "valorLiquido": 157.63,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7804967,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-20T17:19:07",
+          "numDocumento": "428189",
+          "valorDocumento": 123.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7804967",
+          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - SANTIAGO",
+          "cnpjCpfFornecedor": "07473735018552",
+          "valorLiquido": 123.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7807626,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-24T23:54:46",
+          "numDocumento": "431394",
+          "valorDocumento": 192.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7807626",
+          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - SANTIAGO",
+          "cnpjCpfFornecedor": "07473735018552",
+          "valorLiquido": 192.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

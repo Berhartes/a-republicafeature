@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AMD COMERCIO VAREJO DE COMBUSTIVEIS LTDA",
+      "cnpj": "32255216000194",
+      "total_recebido": 188.14,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T20:35:46.695190"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 188.14
+  },
+  "anos": {
+    "2023": {
+      "total": 188.14,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 188.14,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7553196,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-01T00:00:00",
+          "numDocumento": "9379",
+          "valorDocumento": 188.14,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7553196",
+          "nomeFornecedor": "AMD COMERCIO VAREJO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "32255216000194",
+          "valorLiquido": 188.14,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

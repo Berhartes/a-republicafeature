@@ -1,54 +1,78 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+      "nome": "COMERCIAL AMAZONIA 22 DE PETROLEO EIRELI",
       "cnpj": "09001879002708",
-      "total_recebido": 222.19,
-      "numero_transacoes": 1,
+      "total_recebido": 450.46,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:50:05.892579"
+    "generatedAt": "2025-10-22T20:35:46.711395"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 222.19
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 450.46
   },
   "anos": {
+    "2023": {
+      "total": 147.88,
+      "transacoes": 1,
+      "deputados": 1
+    },
     "2024": {
-      "total": 222.19,
+      "total": 302.58,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220596": {
+    "220593": {
       "deputado": {
-        "id": 220596,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220596",
-        "nome": "Amália Barros",
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "MT",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220596.jpg",
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
         "email": null
       },
-      "total": 222.19,
-      "transacoes": 1,
+      "total": 450.46,
+      "transacoes": 2,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 2,
+          "ano": 2023,
+          "mes": 3,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7703972,
+          "codDocumento": 7521097,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-02-08T00:00:00",
-          "numDocumento": "937260",
-          "valorDocumento": 222.19,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2024/7703972.pdf",
+          "dataDocumento": "2023-03-31T00:00:00",
+          "numDocumento": "13569",
+          "valorDocumento": 147.88,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7521097",
+          "nomeFornecedor": "COMERCIAL AMAZONIA 22 DE PETROLEO EIRELI",
+          "cnpjCpfFornecedor": "09001879002708",
+          "valorLiquido": 147.88,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7774064,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-20T06:34:18",
+          "numDocumento": "19410",
+          "valorDocumento": 302.58,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7774064",
           "nomeFornecedor": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
           "cnpjCpfFornecedor": "09001879002708",
-          "valorLiquido": 222.19,
+          "valorLiquido": 302.58,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

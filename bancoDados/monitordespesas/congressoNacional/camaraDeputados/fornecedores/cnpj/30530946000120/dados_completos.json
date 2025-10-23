@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "FATIMA SANTA PICCINI EIRELI",
+      "cnpj": "30530946000120",
+      "total_recebido": 306.06,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:55:30.418007"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 306.06
+  },
+  "anos": {
+    "2023": {
+      "total": 141.75,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 164.31,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178927": {
+      "deputado": {
+        "id": 178927,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
+        "nome": "Aliel Machado",
+        "siglaPartido": "PV",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+        "email": "dep.alielmachado@camara.leg.br"
+      },
+      "total": 306.06,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7539041,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-07T00:00:00",
+          "numDocumento": "656775",
+          "valorDocumento": 141.75,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7539041",
+          "nomeFornecedor": "FATIMA SANTA PICCINI EIRELI",
+          "cnpjCpfFornecedor": "30530946000120",
+          "valorLiquido": 141.75,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7972751,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-23T00:00:00",
+          "numDocumento": "1123033",
+          "valorDocumento": 164.31,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7972751",
+          "nomeFornecedor": "FATIMA SANTA PICCINI EIRELI",
+          "cnpjCpfFornecedor": "30530946000120",
+          "valorLiquido": 164.31,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

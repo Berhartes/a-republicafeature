@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "TECSERV COMERCIO E SERVIÇO LTDA",
+      "cnpj": "01832386000160",
+      "total_recebido": 7190.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:55:21.156893"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 7190.0
+  },
+  "anos": {
+    "2023": {
+      "total": 560.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 6630.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220576": {
+      "deputado": {
+        "id": 220576,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220576",
+        "nome": "Alfredo Gaspar",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "AL",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220576.jpg",
+        "email": "dep.alfredogaspar@camara.leg.br"
+      },
+      "total": 7190.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7614961,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-22T00:00:00",
+          "numDocumento": "5632",
+          "valorDocumento": 560.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3538/2023/7614961.pdf",
+          "nomeFornecedor": "TECSERV COMERCIO E SERVIÇO LTDA",
+          "cnpjCpfFornecedor": "01832386000160",
+          "valorLiquido": 560.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7786814,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-17T00:00:00",
+          "numDocumento": "5974",
+          "valorDocumento": 1190.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3538/2024/7786814.pdf",
+          "nomeFornecedor": "TECSERV COMERCIO E SERVIÇO LTDA",
+          "cnpjCpfFornecedor": "01832386000160",
+          "valorLiquido": 1190.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7735359,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-13T00:00:00",
+          "numDocumento": "5894",
+          "valorDocumento": 5440.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3538/2024/7735359.pdf",
+          "nomeFornecedor": "TECSERV COMERCIO E SERVIÇO LTDA",
+          "cnpjCpfFornecedor": "01832386000160",
+          "valorLiquido": 5440.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

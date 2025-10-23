@@ -3,52 +3,114 @@
     "fornecedor": {
       "nome": "GBI COMBUSTIVEIS LTDA - FILIAL 001",
       "cnpj": "90589698000204",
-      "total_recebido": 263.13,
-      "numero_transacoes": 1,
+      "total_recebido": 941.5699999999999,
+      "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:52:40.453932"
+    "generatedAt": "2025-10-22T20:36:20.317361"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 263.13
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 941.5699999999999
   },
   "anos": {
     "2023": {
-      "total": 263.13,
+      "total": 810.65,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 130.92,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "160538": {
+    "136811": {
       "deputado": {
-        "id": 160538,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160538",
-        "nome": "Bohn Gass",
-        "siglaPartido": "PT",
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160538.jpg",
-        "email": "dep.bohngass@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
       },
-      "total": 263.13,
-      "transacoes": 1,
+      "total": 941.5699999999999,
+      "transacoes": 4,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 6,
+          "mes": 9,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7561386,
+          "codDocumento": 7604733,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-06-16T00:00:00",
-          "numDocumento": "39308",
-          "valorDocumento": 263.13,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7561386",
+          "dataDocumento": "2023-09-03T00:00:00",
+          "numDocumento": "71006",
+          "valorDocumento": 447.05,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7604733",
           "nomeFornecedor": "GBI COMBUSTIVEIS LTDA - FILIAL 001",
           "cnpjCpfFornecedor": "90589698000204",
-          "valorLiquido": 263.13,
+          "valorLiquido": 447.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7599081,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-22T00:00:00",
+          "numDocumento": "66360",
+          "valorDocumento": 202.45,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7599081",
+          "nomeFornecedor": "GBI COMBUSTIVEIS LTDA - FILIAL 001",
+          "cnpjCpfFornecedor": "90589698000204",
+          "valorLiquido": 202.45,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7604756,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-26T00:00:00",
+          "numDocumento": "68061",
+          "valorDocumento": 161.15,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7604756",
+          "nomeFornecedor": "GBI COMBUSTIVEIS LTDA - FILIAL 001",
+          "cnpjCpfFornecedor": "90589698000204",
+          "valorLiquido": 161.15,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7810599,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-02T19:48:18",
+          "numDocumento": "230716",
+          "valorDocumento": 130.92,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7810599",
+          "nomeFornecedor": "GBI COMBUSTIVEIS LTDA - FILIAL 001",
+          "cnpjCpfFornecedor": "90589698000204",
+          "valorLiquido": 130.92,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

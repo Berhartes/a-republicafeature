@@ -3,52 +3,52 @@
     "fornecedor": {
       "nome": "AUTO POSTO BR 060 LTDA",
       "cnpj": "07736181000168",
-      "total_recebido": 148.64,
+      "total_recebido": 200.0,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:50:48.306783"
+    "generatedAt": "2025-10-22T20:36:09.366294"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 148.64
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 200.0
   },
   "anos": {
-    "2023": {
-      "total": 148.64,
+    "2024": {
+      "total": 200.0,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204515": {
+    "121948": {
       "deputado": {
-        "id": 204515,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204515",
-        "nome": "André Janones",
-        "siglaPartido": "AVANTE",
+        "id": 121948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "nome": "Adriano do Baldy",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "MG",
+        "siglaUf": "GO",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
-        "email": "dep.andrejanones@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br"
       },
-      "total": 148.64,
+      "total": 200.0,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 11,
+          "ano": 2024,
+          "mes": 1,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7647693,
+          "codDocumento": 7672904,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-11-02T00:00:00",
-          "numDocumento": "235716",
-          "valorDocumento": 148.64,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7647693",
+          "dataDocumento": "2024-01-08T11:23:35",
+          "numDocumento": "241489",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7672904",
           "nomeFornecedor": "AUTO POSTO BR 060 LTDA",
           "cnpjCpfFornecedor": "07736181000168",
-          "valorLiquido": 148.64,
+          "valorLiquido": 200.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

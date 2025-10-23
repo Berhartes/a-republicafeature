@@ -1,54 +1,73 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "COML BUFFON COMB E TRANSP LTDA - POSTO 06",
+      "nome": "COML BUFFON COMB E TRANSP  LTDA - POSTO 06",
       "cnpj": "93489243000620",
-      "total_recebido": 188.0,
-      "numero_transacoes": 1,
+      "total_recebido": 436.40999999999997,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:51:12.590986"
+    "generatedAt": "2025-10-22T20:36:20.374574"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 188.0
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 436.40999999999997
   },
   "anos": {
-    "2025": {
-      "total": 188.0,
-      "transacoes": 1,
+    "2024": {
+      "total": 436.40999999999997,
+      "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "220549": {
+    "136811": {
       "deputado": {
-        "id": 220549,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220549",
-        "nome": "Any Ortiz",
-        "siglaPartido": "CIDADANIA",
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
-        "email": "dep.anyortiz@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
       },
-      "total": 188.0,
-      "transacoes": 1,
+      "total": 436.40999999999997,
+      "transacoes": 2,
       "despesas": [
         {
-          "ano": 2025,
-          "mes": 7,
+          "ano": 2024,
+          "mes": 11,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7954091,
+          "codDocumento": 7829940,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-07-28T07:14:54",
-          "numDocumento": "1643604",
-          "valorDocumento": 188.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7954091",
-          "nomeFornecedor": "COML BUFFON COMB E TRANSP LTDA - POSTO 06",
+          "dataDocumento": "2024-11-11T19:36:10",
+          "numDocumento": "1392484",
+          "valorDocumento": 225.72,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7829940",
+          "nomeFornecedor": "COML BUFFON COMB E TRANSP  LTDA - POSTO 06",
           "cnpjCpfFornecedor": "93489243000620",
-          "valorLiquido": 188.0,
+          "valorLiquido": 225.72,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7823110,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-26T01:00:58",
+          "numDocumento": "1377562",
+          "valorDocumento": 210.69,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7823110",
+          "nomeFornecedor": "COML BUFFON COMB E TRANSP  LTDA - POSTO 06",
+          "cnpjCpfFornecedor": "93489243000620",
+          "valorLiquido": 210.69,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

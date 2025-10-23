@@ -3,71 +3,71 @@
     "fornecedor": {
       "nome": "AUTO POSTO CONCORDE LTDA",
       "cnpj": "28868264000180",
-      "total_recebido": 588.71,
+      "total_recebido": 523.92,
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:54:53.923756"
+    "generatedAt": "2025-10-22T20:36:12.995970"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 588.71
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 523.92
   },
   "anos": {
-    "2023": {
-      "total": 588.71,
+    "2025": {
+      "total": 523.92,
       "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "204460": {
+    "74646": {
       "deputado": {
-        "id": 204460,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204460",
-        "nome": "Carlos Jordy",
-        "siglaPartido": "PL",
+        "id": 74646,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74646",
+        "nome": "Aécio Neves",
+        "siglaPartido": "PSDB",
         "uriPartido": "",
-        "siglaUf": "RJ",
+        "siglaUf": "MG",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
-        "email": "dep.carlosjordy@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74646.jpg",
+        "email": "dep.aecioneves@camara.leg.br"
       },
-      "total": 588.71,
+      "total": 523.92,
       "transacoes": 2,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 11,
+          "ano": 2025,
+          "mes": 6,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7638452,
+          "codDocumento": 7930990,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-11-07T00:00:00",
-          "numDocumento": "174789",
-          "valorDocumento": 288.65,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7638452",
+          "dataDocumento": "2025-06-10T00:00:00",
+          "numDocumento": "14521",
+          "valorDocumento": 266.77,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7930990",
           "nomeFornecedor": "AUTO POSTO CONCORDE LTDA",
           "cnpjCpfFornecedor": "28868264000180",
-          "valorLiquido": 288.65,
+          "valorLiquido": 266.77,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
           "parcela": 0
         },
         {
-          "ano": 2023,
+          "ano": 2025,
           "mes": 5,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7550232,
+          "codDocumento": 7919886,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-05-29T00:00:00",
-          "numDocumento": "149830",
-          "valorDocumento": 300.06,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7550232",
+          "dataDocumento": "2025-05-26T00:00:00",
+          "numDocumento": "13522",
+          "valorDocumento": 257.15,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7919886",
           "nomeFornecedor": "AUTO POSTO CONCORDE LTDA",
           "cnpjCpfFornecedor": "28868264000180",
-          "valorLiquido": 300.06,
+          "valorLiquido": 257.15,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

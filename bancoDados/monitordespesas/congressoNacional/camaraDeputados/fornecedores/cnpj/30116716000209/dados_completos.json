@@ -1,54 +1,54 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "Posto Romaria Ltda",
+      "nome": "Posto Romaria Eireli",
       "cnpj": "30116716000209",
-      "total_recebido": 140.34,
+      "total_recebido": 70.0,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:53:48.226801"
+    "generatedAt": "2025-10-22T20:36:09.272489"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 140.34
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 70.0
   },
   "anos": {
-    "2024": {
-      "total": 140.34,
+    "2023": {
+      "total": 70.0,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220548": {
+    "121948": {
       "deputado": {
-        "id": 220548,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220548",
-        "nome": "Camila Jara",
-        "siglaPartido": "PT",
+        "id": 121948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "nome": "Adriano do Baldy",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "MS",
+        "siglaUf": "GO",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
-        "email": "dep.camilajara@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br"
       },
-      "total": 140.34,
+      "total": 70.0,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2024,
+          "ano": 2023,
           "mes": 11,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7828922,
+          "codDocumento": 7643318,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-05T00:00:00",
-          "numDocumento": "138231",
-          "valorDocumento": 140.34,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7828922",
-          "nomeFornecedor": "Posto Romaria Ltda",
+          "dataDocumento": "2023-11-13T00:00:00",
+          "numDocumento": "75165",
+          "valorDocumento": 70.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7643318",
+          "nomeFornecedor": "Posto Romaria Eireli",
           "cnpjCpfFornecedor": "30116716000209",
-          "valorLiquido": 140.34,
+          "valorLiquido": 70.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

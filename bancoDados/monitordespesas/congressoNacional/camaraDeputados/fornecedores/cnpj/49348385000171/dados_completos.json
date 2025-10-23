@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMANDANTE COSTA II STOCK COMBUSTIVEIS LTDA",
+      "cnpj": "49348385000171",
+      "total_recebido": 881.44,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T20:35:46.735337"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 881.44
+  },
+  "anos": {
+    "2024": {
+      "total": 881.44,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 881.44,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7766544,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-04T16:33:19",
+          "numDocumento": "62",
+          "valorDocumento": 230.74,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7766544",
+          "nomeFornecedor": "COMANDANTE COSTA II STOCK COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "49348385000171",
+          "valorLiquido": 230.74,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7756495,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-18T00:00:00",
+          "numDocumento": "54",
+          "valorDocumento": 226.77,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7756495",
+          "nomeFornecedor": "COMANDANTE COSTA II STOCK COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "49348385000171",
+          "valorLiquido": 226.77,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7761979,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-28T00:00:00",
+          "numDocumento": "57",
+          "valorDocumento": 268.86,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7761979.pdf",
+          "nomeFornecedor": "COMANDANTE COSTA II STOCK COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "49348385000171",
+          "valorLiquido": 268.86,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7733320,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-02T00:00:00",
+          "numDocumento": "47",
+          "valorDocumento": 155.07,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7733320.pdf",
+          "nomeFornecedor": "COMANDANTE COSTA II STOCK COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "49348385000171",
+          "valorLiquido": 155.07,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

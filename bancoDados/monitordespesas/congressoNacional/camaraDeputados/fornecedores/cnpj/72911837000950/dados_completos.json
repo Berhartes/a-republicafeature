@@ -3,76 +3,76 @@
     "fornecedor": {
       "nome": "ORGANIZACAO COMERCIAL LAGO AZUL LTDA",
       "cnpj": "72911837000950",
-      "total_recebido": 298.05,
+      "total_recebido": 311.14,
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:51:20.785513"
+    "generatedAt": "2025-10-22T20:35:57.556232"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 298.05
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 311.14
   },
   "anos": {
-    "2023": {
-      "total": 120.0,
+    "2024": {
+      "total": 125.12,
       "transacoes": 1,
       "deputados": 1
     },
-    "2024": {
-      "total": 178.05,
+    "2025": {
+      "total": 186.02,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "141391": {
+    "221328": {
       "deputado": {
-        "id": 141391,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141391",
-        "nome": "Arnaldo Jardim",
-        "siglaPartido": "CIDADANIA",
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141391.jpg",
-        "email": "dep.arnaldojardim@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": "dep.adilsonbarroso@camara.leg.br"
       },
-      "total": 298.05,
+      "total": 311.14,
       "transacoes": 2,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 10,
+          "ano": 2024,
+          "mes": 6,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7626184,
+          "codDocumento": 7753791,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-10-13T00:00:00",
-          "numDocumento": "006482",
-          "valorDocumento": 120.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2023/7626184.pdf",
+          "dataDocumento": "2024-06-12T00:00:00",
+          "numDocumento": "069637",
+          "valorDocumento": 125.12,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7753791.pdf",
           "nomeFornecedor": "ORGANIZACAO COMERCIAL LAGO AZUL LTDA",
           "cnpjCpfFornecedor": "72911837000950",
-          "valorLiquido": 120.0,
+          "valorLiquido": 125.12,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
           "parcela": 0
         },
         {
-          "ano": 2024,
-          "mes": 2,
+          "ano": 2025,
+          "mes": 6,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7696977,
+          "codDocumento": 7934017,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-02-17T00:00:00",
-          "numDocumento": "038430",
-          "valorDocumento": 178.05,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2024/7696977.pdf",
+          "dataDocumento": "2025-06-10T00:00:00",
+          "numDocumento": "154075",
+          "valorDocumento": 186.02,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7934017.pdf",
           "nomeFornecedor": "ORGANIZACAO COMERCIAL LAGO AZUL LTDA",
           "cnpjCpfFornecedor": "72911837000950",
-          "valorLiquido": 178.05,
+          "valorLiquido": 186.02,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

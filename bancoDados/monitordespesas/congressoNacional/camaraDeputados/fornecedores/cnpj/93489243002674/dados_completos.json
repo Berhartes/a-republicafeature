@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COML BUFFON COMB E TRANSP LTDA - POSTO 26",
+      "cnpj": "93489243002674",
+      "total_recebido": 321.07,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T20:36:20.323542"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 321.07
+  },
+  "anos": {
+    "2023": {
+      "total": 159.04,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 162.03,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "136811": {
+      "deputado": {
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
+      },
+      "total": 321.07,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7587225,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-07T00:00:00",
+          "numDocumento": "2616289",
+          "valorDocumento": 159.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7587225",
+          "nomeFornecedor": "COML BUFFON COMB E TRANSP LTDA - POSTO 26",
+          "cnpjCpfFornecedor": "93489243002674",
+          "valorLiquido": 159.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7795213,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-24T12:07:49",
+          "numDocumento": "3142859",
+          "valorDocumento": 162.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7795213",
+          "nomeFornecedor": "COML BUFFON COMB E TRANSP LTDA - POSTO 26",
+          "cnpjCpfFornecedor": "93489243002674",
+          "valorLiquido": 162.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

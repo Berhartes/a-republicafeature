@@ -3,52 +3,52 @@
     "fornecedor": {
       "nome": "ESPLANADA EVENTOS RESTAURANTE E DELIVERY EIRELI",
       "cnpj": "43367434000137",
-      "total_recebido": 64.9,
+      "total_recebido": 124.25,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:52:14.927669"
+    "generatedAt": "2025-10-22T20:35:57.506807"
   },
   "categorias": {
-    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 64.9
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 124.25
   },
   "anos": {
     "2023": {
-      "total": 64.9,
+      "total": 124.25,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220698": {
+    "221328": {
       "deputado": {
-        "id": 220698,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220698",
-        "nome": "Beto Preto",
-        "siglaPartido": "PSD",
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
         "uriPartido": "",
-        "siglaUf": "PR",
+        "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
-        "email": null
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": "dep.adilsonbarroso@camara.leg.br"
       },
-      "total": 64.9,
+      "total": 124.25,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 3,
+          "mes": 4,
           "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7511811,
+          "codDocumento": 7528088,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-03-16T00:00:00",
-          "numDocumento": "2018",
-          "valorDocumento": 72.69,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7511811",
+          "dataDocumento": "2023-04-19T00:00:00",
+          "numDocumento": "3476",
+          "valorDocumento": 139.16,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7528088",
           "nomeFornecedor": "ESPLANADA EVENTOS RESTAURANTE E DELIVERY EIRELI",
           "cnpjCpfFornecedor": "43367434000137",
-          "valorLiquido": 64.9,
+          "valorLiquido": 124.25,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

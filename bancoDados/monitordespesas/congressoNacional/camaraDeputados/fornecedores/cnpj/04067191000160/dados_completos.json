@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "EDITORA GLOBO S/A",
+      "cnpj": "04067191000160",
+      "total_recebido": 299.88,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T20:36:12.993258"
+  },
+  "categorias": {
+    "ASSINATURA DE PUBLICAÇÕES": 299.88
+  },
+  "anos": {
+    "2024": {
+      "total": 299.88,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74646": {
+      "deputado": {
+        "id": 74646,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74646",
+        "nome": "Aécio Neves",
+        "siglaPartido": "PSDB",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74646.jpg",
+        "email": "dep.aecioneves@camara.leg.br"
+      },
+      "total": 299.88,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "ASSINATURA DE PUBLICAÇÕES",
+          "codDocumento": 7833510,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-12T00:00:00",
+          "numDocumento": "2255303",
+          "valorDocumento": 299.88,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/233/2024/7833510.pdf",
+          "nomeFornecedor": "EDITORA GLOBO S/A",
+          "cnpjCpfFornecedor": "04067191000160",
+          "valorLiquido": 299.88,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

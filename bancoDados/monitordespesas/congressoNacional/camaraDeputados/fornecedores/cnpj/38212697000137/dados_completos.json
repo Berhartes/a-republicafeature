@@ -3,52 +3,52 @@
     "fornecedor": {
       "nome": "POSTO DE COMBUSTIVEIS CAMPEAO FIESTA LTDA",
       "cnpj": "38212697000137",
-      "total_recebido": 100.0,
+      "total_recebido": 360.1,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:54:45.785695"
+    "generatedAt": "2025-10-22T20:36:00.070586"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 100.0
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 360.1
   },
   "anos": {
-    "2023": {
-      "total": 100.0,
+    "2024": {
+      "total": 360.1,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "178962": {
+    "204560": {
       "deputado": {
-        "id": 178962,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178962",
-        "nome": "Carlos Gomes",
-        "siglaPartido": "REPUBLICANOS",
+        "id": 204560,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204560",
+        "nome": "Adolfo Viana",
+        "siglaPartido": "PSDB",
         "uriPartido": "",
-        "siglaUf": "RS",
+        "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
-        "email": null
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
+        "email": "dep.adolfoviana@camara.leg.br"
       },
-      "total": 100.0,
+      "total": 360.1,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 4,
+          "ano": 2024,
+          "mes": 11,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7536056,
+          "codDocumento": 7843497,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-04-29T00:00:00",
-          "numDocumento": "3682",
-          "valorDocumento": 100.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7536056",
+          "dataDocumento": "2024-11-28T20:32:21",
+          "numDocumento": "14715",
+          "valorDocumento": 360.1,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7843497",
           "nomeFornecedor": "POSTO DE COMBUSTIVEIS CAMPEAO FIESTA LTDA",
           "cnpjCpfFornecedor": "38212697000137",
-          "valorLiquido": 100.0,
+          "valorLiquido": 360.1,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

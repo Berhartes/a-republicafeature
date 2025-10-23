@@ -3,52 +3,52 @@
     "fornecedor": {
       "nome": "POSTO PRESIDENTE RIBEIRÃO LTDA",
       "cnpj": "03100271000107",
-      "total_recebido": 64.67,
+      "total_recebido": 152.67,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:51:20.923444"
+    "generatedAt": "2025-10-22T20:35:57.570254"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 64.67
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 152.67
   },
   "anos": {
-    "2023": {
-      "total": 64.67,
+    "2024": {
+      "total": 152.67,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "141391": {
+    "221328": {
       "deputado": {
-        "id": 141391,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141391",
-        "nome": "Arnaldo Jardim",
-        "siglaPartido": "CIDADANIA",
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141391.jpg",
-        "email": "dep.arnaldojardim@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": "dep.adilsonbarroso@camara.leg.br"
       },
-      "total": 64.67,
+      "total": 152.67,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 5,
+          "ano": 2024,
+          "mes": 2,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7539607,
+          "codDocumento": 7700124,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-05-01T00:00:00",
-          "numDocumento": "240016",
-          "valorDocumento": 64.67,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2023/7539607.pdf",
+          "dataDocumento": "2024-02-29T00:00:00",
+          "numDocumento": "425895",
+          "valorDocumento": 152.67,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7700124.pdf",
           "nomeFornecedor": "POSTO PRESIDENTE RIBEIRÃO LTDA",
           "cnpjCpfFornecedor": "03100271000107",
-          "valorLiquido": 64.67,
+          "valorLiquido": 152.67,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

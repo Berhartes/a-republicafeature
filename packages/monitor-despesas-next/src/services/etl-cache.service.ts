@@ -149,35 +149,33 @@ export class EtlCacheService {  private cache: Map<string, any> = new Map()
       }
 
       const response = await fetchDeputiesCache(manifest);
-      if (response && response.data && response.data.deputados) {
-        const deputadosRaw = response.data.deputados;
+      if (response && response.data) {
+        // O cache pode ter a estrutura { data: [...] } ou { metadata: {...}, data: [...] }
+        const deputadosRaw = response.data.data || response.data;
 
         console.log(`🔍 [ETL-Cache] Estrutura do cache encontrada:`, {
           totalDeputados: deputadosRaw.length,
-          primeiroDeputado: deputadosRaw[0]?.nomeEleitoral
+          primeiroDeputado: deputadosRaw[0]?.nome,
+          estrutura: Object.keys(deputadosRaw[0] || {})
         });
 
         // Mapear dados do cache para o formato esperado pelo frontend
         const deputados = deputadosRaw.map((dep: any) => ({
-          id: dep.id.toString(),
-          nomeEleitoral: dep.nomeEleitoral || 'Nome não disponível',
-          nomeCivil: dep.nomeCivil || dep.nomeEleitoral || '',
-          siglaPartido: dep.siglaPartido || 'SEM PARTIDO',
-          siglaUf: dep.siglaUf || 'BR',
+          id: dep.id?.toString() || '',
+          nomeEleitoral: dep.nome || 'Nome não disponível',
+          nomeCivil: dep.nome || '',
+          siglaPartido: dep.partido || 'SEM PARTIDO',
+          siglaUf: dep.uf || 'BR',
           foto: dep.urlFoto || '',
 
-          totalGastos: dep.totalGasto || 0,
-          totalTransacoes: dep.transacoes || 0,
-          mediaTransacao: dep.mediaTransacao || (dep.transacoes ? (dep.totalGasto / dep.transacoes) : 0),
+          totalGastos: dep.totalDespesas || 0,
+          totalTransacoes: dep.numeroDespesas || 0,
+          mediaTransacao: dep.numeroDespesas ? ((dep.totalDespesas || 0) / dep.numeroDespesas) : 0,
 
           gastosPorAno: dep.gastosPorAno || {},
           transacoesPorAno: dep.transacoesPorAno || {},
 
-          topCategorias: dep.distribuicaoTipos ? Object.entries(dep.distribuicaoTipos).map(([tipo, dados]: [string, any]) => ({
-            categoria: tipo,
-            valor: dados.valor || 0,
-            percentual: dados.quantidade ? ((dados.valor / dep.totalGasto) * 100) : 0
-          })).slice(0, 5) : [],
+          topCategorias: [],
 
           topFornecedores: [], // Campo não disponível na estrutura atual
 

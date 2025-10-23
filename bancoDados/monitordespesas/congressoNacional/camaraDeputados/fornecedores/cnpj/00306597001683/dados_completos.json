@@ -3,52 +3,52 @@
     "fornecedor": {
       "nome": "16 - QI 23 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
       "cnpj": "00306597001683",
-      "total_recebido": 182.58,
+      "total_recebido": 100.0,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:54:18.643346"
+    "generatedAt": "2025-10-22T20:36:20.354790"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 182.58
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 100.0
   },
   "anos": {
     "2023": {
-      "total": 182.58,
+      "total": 100.0,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220690": {
+    "136811": {
       "deputado": {
-        "id": 220690,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220690",
-        "nome": "Capitão Alden",
-        "siglaPartido": "PL",
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "BA",
+        "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-        "email": "dep.capitaoalden@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
       },
-      "total": 182.58,
+      "total": 100.0,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 2,
+          "mes": 4,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7495843,
+          "codDocumento": 7524523,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-02-07T00:00:00",
-          "numDocumento": "166511",
-          "valorDocumento": 182.58,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7495843",
+          "dataDocumento": "2023-04-12T00:00:00",
+          "numDocumento": "181864",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7524523",
           "nomeFornecedor": "16 - QI 23 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
           "cnpjCpfFornecedor": "00306597001683",
-          "valorLiquido": 182.58,
+          "valorLiquido": 100.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

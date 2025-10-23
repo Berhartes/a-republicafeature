@@ -3,52 +3,90 @@
     "fornecedor": {
       "nome": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
       "cnpj": "20645413000130",
-      "total_recebido": 335.17,
-      "numero_transacoes": 1,
+      "total_recebido": 529.21,
+      "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:54:37.432708"
+    "generatedAt": "2025-10-22T20:36:20.322883"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 335.17
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 529.21
   },
   "anos": {
     "2023": {
-      "total": 335.17,
-      "transacoes": 1,
+      "total": 529.21,
+      "transacoes": 3,
       "deputados": 1
     }
   },
   "deputados": {
-    "204507": {
+    "136811": {
       "deputado": {
-        "id": 204507,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204507",
-        "nome": "Carla Zambelli",
-        "siglaPartido": "PL",
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "SP",
+        "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204507.jpg",
-        "email": "dep.carlazambelli@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
       },
-      "total": 335.17,
-      "transacoes": 1,
+      "total": 529.21,
+      "transacoes": 3,
       "despesas": [
         {
           "ano": 2023,
           "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7604973,
+          "codDocumento": 7599072,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-08-23T00:00:00",
-          "numDocumento": "21408",
-          "valorDocumento": 335.17,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7604973",
+          "dataDocumento": "2023-08-28T00:00:00",
+          "numDocumento": "644075",
+          "valorDocumento": 217.59,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7599072",
           "nomeFornecedor": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
           "cnpjCpfFornecedor": "20645413000130",
-          "valorLiquido": 335.17,
+          "valorLiquido": 217.59,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7563250,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-22T00:00:00",
+          "numDocumento": "621913",
+          "valorDocumento": 211.62,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7563250",
+          "nomeFornecedor": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "20645413000130",
+          "valorLiquido": 211.62,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7547691,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-22T00:00:00",
+          "numDocumento": "6365",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7547691",
+          "nomeFornecedor": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "20645413000130",
+          "valorLiquido": 100.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

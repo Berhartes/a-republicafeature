@@ -1,73 +1,54 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "Gol Linhas Aereas S.A.",
+      "nome": "Cia Aérea - GOL",
       "cnpj": "07575651000159",
-      "total_recebido": 5748.87,
-      "numero_transacoes": 2,
+      "total_recebido": 2128.16,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:55:19.121218"
+    "generatedAt": "2025-10-22T20:36:20.301374"
   },
   "categorias": {
-    "PASSAGEM AÉREA - REEMBOLSO": 5748.87
+    "PASSAGEM AÉREA - RPA": 2128.16
   },
   "anos": {
     "2023": {
-      "total": 5748.87,
-      "transacoes": 2,
+      "total": 2128.16,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "164360": {
+    "136811": {
       "deputado": {
-        "id": 164360,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164360",
-        "nome": "Carmen Zanotto",
-        "siglaPartido": "CIDADANIA",
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "SC",
+        "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/164360.jpg",
-        "email": null
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
       },
-      "total": 5748.87,
-      "transacoes": 2,
+      "total": 2128.16,
+      "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
           "mes": 11,
-          "tipoDespesa": "PASSAGEM AÉREA - REEMBOLSO",
-          "codDocumento": 7646941,
+          "tipoDespesa": "PASSAGEM AÉREA - RPA",
+          "codDocumento": 1776741,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-11-20T00:00:00",
-          "numDocumento": "1272106764065",
-          "valorDocumento": 3136.4,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2433/2023/7646941.pdf",
-          "nomeFornecedor": "Gol Linhas Aereas S.A.",
+          "dataDocumento": "2023-11-22T00:00:00",
+          "numDocumento": "Bilhete: 1272106841139",
+          "valorDocumento": 2128.16,
+          "urlDocumento": null,
+          "nomeFornecedor": "Cia Aérea - GOL",
           "cnpjCpfFornecedor": "07575651000159",
-          "valorLiquido": 3136.4,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 1,
-          "tipoDespesa": "PASSAGEM AÉREA - REEMBOLSO",
-          "codDocumento": 7492498,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-02-01T00:00:00",
-          "numDocumento": "1272188928836",
-          "valorDocumento": 2612.47,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2433/2023/7492498.pdf",
-          "nomeFornecedor": "Gol Linhas Aereas S.A.",
-          "cnpjCpfFornecedor": "07575651000159",
-          "valorLiquido": 2612.47,
+          "valorLiquido": 2128.16,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

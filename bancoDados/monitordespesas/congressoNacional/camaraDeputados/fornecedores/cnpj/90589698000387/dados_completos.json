@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GBI COMBUSTIVEIS LTDA - FILIAL 002",
+      "cnpj": "90589698000387",
+      "total_recebido": 772.33,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T20:36:20.294682"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 772.33
+  },
+  "anos": {
+    "2023": {
+      "total": 565.11,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 207.22,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "136811": {
+      "deputado": {
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
+      },
+      "total": 772.33,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7651465,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-26T00:00:00",
+          "numDocumento": "652302",
+          "valorDocumento": 187.82,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7651465",
+          "nomeFornecedor": "GBI COMBUSTIVEIS LTDA - FILIAL 002",
+          "cnpjCpfFornecedor": "90589698000387",
+          "valorLiquido": 187.82,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7638346,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-27T00:00:00",
+          "numDocumento": "641905",
+          "valorDocumento": 100.98,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7638346",
+          "nomeFornecedor": "GBI COMBUSTIVEIS LTDA - FILIAL 002",
+          "cnpjCpfFornecedor": "90589698000387",
+          "valorLiquido": 100.98,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7604725,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-30T00:00:00",
+          "numDocumento": "623987",
+          "valorDocumento": 276.31,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7604725",
+          "nomeFornecedor": "GBI COMBUSTIVEIS LTDA - FILIAL 002",
+          "cnpjCpfFornecedor": "90589698000387",
+          "valorLiquido": 276.31,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7798624,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-31T07:24:02",
+          "numDocumento": "752046",
+          "valorDocumento": 207.22,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7798624",
+          "nomeFornecedor": "GBI COMBUSTIVEIS LTDA - FILIAL 002",
+          "cnpjCpfFornecedor": "90589698000387",
+          "valorLiquido": 207.22,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

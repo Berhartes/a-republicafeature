@@ -3,71 +3,52 @@
     "fornecedor": {
       "nome": "POSTO PEDRO NECA LTDA",
       "cnpj": "03189859000502",
-      "total_recebido": 244.93,
-      "numero_transacoes": 2,
+      "total_recebido": 233.61,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:50:05.798128"
+    "generatedAt": "2025-10-22T20:35:46.747148"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 244.93
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 233.61
   },
   "anos": {
-    "2023": {
-      "total": 244.93,
-      "transacoes": 2,
+    "2024": {
+      "total": 233.61,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220596": {
+    "220593": {
       "deputado": {
-        "id": 220596,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220596",
-        "nome": "Amália Barros",
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "MT",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220596.jpg",
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
         "email": null
       },
-      "total": 244.93,
-      "transacoes": 2,
+      "total": 233.61,
+      "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
+          "ano": 2024,
           "mes": 2,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7498972,
+          "codDocumento": 7686168,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-02-10T00:00:00",
-          "numDocumento": "452439",
-          "valorDocumento": 152.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7498972.pdf",
+          "dataDocumento": "2024-02-14T00:00:00",
+          "numDocumento": "110676",
+          "valorDocumento": 233.61,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7686168",
           "nomeFornecedor": "POSTO PEDRO NECA LTDA",
           "cnpjCpfFornecedor": "03189859000502",
-          "valorLiquido": 152.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 2,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7498989,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-02-10T00:00:00",
-          "numDocumento": "458440",
-          "valorDocumento": 92.93,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7498989.pdf",
-          "nomeFornecedor": "POSTO PEDRO NECA LTDA",
-          "cnpjCpfFornecedor": "03189859000502",
-          "valorLiquido": 92.93,
+          "valorLiquido": 233.61,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -3,57 +3,57 @@
     "fornecedor": {
       "nome": "AUTO POSTO PAU SECO LT",
       "cnpj": "43950492000199",
-      "total_recebido": 273.63,
-      "numero_transacoes": 2,
+      "total_recebido": 920.6999999999999,
+      "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:51:20.884617"
+    "generatedAt": "2025-10-22T20:35:57.537518"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 273.63
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 920.6999999999999
   },
   "anos": {
-    "2023": {
-      "total": 86.37,
-      "transacoes": 1,
+    "2024": {
+      "total": 609.0999999999999,
+      "transacoes": 2,
       "deputados": 1
     },
-    "2024": {
-      "total": 187.26,
+    "2025": {
+      "total": 311.6,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "141391": {
+    "221328": {
       "deputado": {
-        "id": 141391,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141391",
-        "nome": "Arnaldo Jardim",
-        "siglaPartido": "CIDADANIA",
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141391.jpg",
-        "email": "dep.arnaldojardim@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": "dep.adilsonbarroso@camara.leg.br"
       },
-      "total": 273.63,
-      "transacoes": 2,
+      "total": 920.6999999999999,
+      "transacoes": 3,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 6,
+          "ano": 2024,
+          "mes": 11,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7566271,
+          "codDocumento": 7839332,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-06-23T00:00:00",
-          "numDocumento": "214849",
-          "valorDocumento": 86.37,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2023/7566271.pdf",
+          "dataDocumento": "2024-11-29T00:00:00",
+          "numDocumento": "358273",
+          "valorDocumento": 308.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7839332.pdf",
           "nomeFornecedor": "AUTO POSTO PAU SECO LT",
           "cnpjCpfFornecedor": "43950492000199",
-          "valorLiquido": 86.37,
+          "valorLiquido": 308.9,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -61,18 +61,37 @@
         },
         {
           "ano": 2024,
-          "mes": 7,
+          "mes": 10,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7776517,
+          "codDocumento": 7814540,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-07-25T00:00:00",
-          "numDocumento": "320424",
-          "valorDocumento": 187.26,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1786/2024/7776517.pdf",
+          "dataDocumento": "2024-10-01T00:00:00",
+          "numDocumento": "157427",
+          "valorDocumento": 300.2,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7814540.pdf",
           "nomeFornecedor": "AUTO POSTO PAU SECO LT",
           "cnpjCpfFornecedor": "43950492000199",
-          "valorLiquido": 187.26,
+          "valorLiquido": 300.2,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7962778,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-07T00:00:00",
+          "numDocumento": "223234",
+          "valorDocumento": 311.6,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7962778.pdf",
+          "nomeFornecedor": "AUTO POSTO PAU SECO LT",
+          "cnpjCpfFornecedor": "43950492000199",
+          "valorLiquido": 311.6,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "EMPRESA BAIANA DE ÁGUAS E SANEAMENTO S.A.",
+      "cnpj": "13504675000110",
+      "total_recebido": 454.4,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:55:24.417018"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 454.4
+  },
+  "anos": {
+    "2023": {
+      "total": 454.4,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74057": {
+      "deputado": {
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "siglaPartido": "PCdoB",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
+      },
+      "total": 454.4,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7524926,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-03T00:00:00",
+          "numDocumento": "025769731/042023",
+          "valorDocumento": 261.39,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1531/2023/7524926.pdf",
+          "nomeFornecedor": "EMPRESA BAIANA DE ÁGUAS E SANEAMENTO S.A.",
+          "cnpjCpfFornecedor": "13504675000110",
+          "valorLiquido": 261.39,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7510572,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-02T00:00:00",
+          "numDocumento": "025769731/032023",
+          "valorDocumento": 193.01,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1531/2023/7510572.pdf",
+          "nomeFornecedor": "EMPRESA BAIANA DE ÁGUAS E SANEAMENTO S.A.",
+          "cnpjCpfFornecedor": "13504675000110",
+          "valorLiquido": 193.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

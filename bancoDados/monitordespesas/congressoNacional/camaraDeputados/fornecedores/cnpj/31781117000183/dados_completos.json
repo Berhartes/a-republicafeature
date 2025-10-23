@@ -3,52 +3,52 @@
     "fornecedor": {
       "nome": "AUTO POSTO CARAVELE LTDA",
       "cnpj": "31781117000183",
-      "total_recebido": 315.51,
+      "total_recebido": 230.37,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:54:53.860052"
+    "generatedAt": "2025-10-22T20:35:50.265939"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 315.51
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 230.37
   },
   "anos": {
-    "2023": {
-      "total": 315.51,
+    "2024": {
+      "total": 230.37,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204460": {
+    "204379": {
       "deputado": {
-        "id": 204460,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204460",
-        "nome": "Carlos Jordy",
-        "siglaPartido": "PL",
+        "id": 204379,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204379",
+        "nome": "Acácio Favacho",
+        "siglaPartido": "MDB",
         "uriPartido": "",
-        "siglaUf": "RJ",
+        "siglaUf": "AP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
-        "email": "dep.carlosjordy@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204379.jpg",
+        "email": "dep.acaciofavacho@camara.leg.br"
       },
-      "total": 315.51,
+      "total": 230.37,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 12,
+          "ano": 2024,
+          "mes": 4,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7666291,
+          "codDocumento": 7720702,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-12-20T00:00:00",
-          "numDocumento": "68143",
-          "valorDocumento": 315.51,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7666291",
+          "dataDocumento": "2024-04-08T00:00:00",
+          "numDocumento": "77710",
+          "valorDocumento": 230.37,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7720702.pdf",
           "nomeFornecedor": "AUTO POSTO CARAVELE LTDA",
           "cnpjCpfFornecedor": "31781117000183",
-          "valorLiquido": 315.51,
+          "valorLiquido": 230.37,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

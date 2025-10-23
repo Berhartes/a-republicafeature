@@ -3,52 +3,52 @@
     "fornecedor": {
       "nome": "AUTO POSTO CASTELINHO FAST FOOD LTDA",
       "cnpj": "08847260000109",
-      "total_recebido": 237.88,
+      "total_recebido": 244.88,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:51:16.036370"
+    "generatedAt": "2025-10-22T20:35:57.578303"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 237.88
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 244.88
   },
   "anos": {
     "2025": {
-      "total": 237.88,
+      "total": 244.88,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "73433": {
+    "221328": {
       "deputado": {
-        "id": 73433,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73433",
-        "nome": "Arlindo Chinaglia",
-        "siglaPartido": "PT",
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73433.jpg",
-        "email": "dep.arlindochinaglia@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": "dep.adilsonbarroso@camara.leg.br"
       },
-      "total": 237.88,
+      "total": 244.88,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2025,
-          "mes": 6,
+          "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7939173,
+          "codDocumento": 7980092,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-06-14T00:00:00",
-          "numDocumento": "386837",
-          "valorDocumento": 237.88,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/974/2025/7939173.pdf",
+          "dataDocumento": "2025-08-13T00:00:00",
+          "numDocumento": "409759",
+          "valorDocumento": 244.88,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7980092.pdf",
           "nomeFornecedor": "AUTO POSTO CASTELINHO FAST FOOD LTDA",
           "cnpjCpfFornecedor": "08847260000109",
-          "valorLiquido": 237.88,
+          "valorLiquido": 244.88,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

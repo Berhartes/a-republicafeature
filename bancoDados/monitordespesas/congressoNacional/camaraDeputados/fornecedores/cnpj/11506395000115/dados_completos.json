@@ -3,52 +3,52 @@
     "fornecedor": {
       "nome": "AUTO POSTO PORTAL DA CHAPADA LTDA",
       "cnpj": "11506395000115",
-      "total_recebido": 100.0,
+      "total_recebido": 60.05,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:50:55.607873"
+    "generatedAt": "2025-10-22T20:36:09.319068"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 100.0
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 60.05
   },
   "anos": {
-    "2025": {
-      "total": 100.0,
+    "2023": {
+      "total": 60.05,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220544": {
+    "121948": {
       "deputado": {
-        "id": 220544,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220544",
-        "nome": "Antonio Andrade",
-        "siglaPartido": "REPUBLICANOS",
+        "id": 121948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "nome": "Adriano do Baldy",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "TO",
+        "siglaUf": "GO",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
-        "email": "dep.antonioandrade@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br"
       },
-      "total": 100.0,
+      "total": 60.05,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2025,
-          "mes": 8,
+          "ano": 2023,
+          "mes": 3,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7973968,
+          "codDocumento": 7516851,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-08-29T00:00:00",
-          "numDocumento": "75940",
-          "valorDocumento": 100.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7973968",
+          "dataDocumento": "2023-03-26T00:00:00",
+          "numDocumento": "49577",
+          "valorDocumento": 60.05,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7516851",
           "nomeFornecedor": "AUTO POSTO PORTAL DA CHAPADA LTDA",
           "cnpjCpfFornecedor": "11506395000115",
-          "valorLiquido": 100.0,
+          "valorLiquido": 60.05,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -1,54 +1,54 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "MAISON HOTEL",
+      "nome": "MAISON HOTEL LTDA",
       "cnpj": "37841433000180",
-      "total_recebido": 270.0,
+      "total_recebido": 297.0,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:50:05.323050"
+    "generatedAt": "2025-10-22T20:35:46.741108"
   },
   "categorias": {
-    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 270.0
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 297.0
   },
   "anos": {
-    "2023": {
-      "total": 270.0,
+    "2024": {
+      "total": 297.0,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220596": {
+    "220593": {
       "deputado": {
-        "id": 220596,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220596",
-        "nome": "Amália Barros",
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "MT",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220596.jpg",
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
         "email": null
       },
-      "total": 270.0,
+      "total": 297.0,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 11,
+          "ano": 2024,
+          "mes": 6,
           "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7640291,
+          "codDocumento": 7747347,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-11-02T00:00:00",
-          "numDocumento": "00000011976",
-          "valorDocumento": 270.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3569/2023/7640291.pdf",
-          "nomeFornecedor": "MAISON HOTEL",
+          "dataDocumento": "2024-06-03T00:00:00",
+          "numDocumento": "00000014575",
+          "valorDocumento": 297.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7747347.pdf",
+          "nomeFornecedor": "MAISON HOTEL LTDA",
           "cnpjCpfFornecedor": "37841433000180",
-          "valorLiquido": 270.0,
+          "valorLiquido": 297.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ABASTECEDORA DE COMBUSTIVEIS CAPILHA LTDA",
+      "cnpj": "17953463000170",
+      "total_recebido": 638.27,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:54:21.105581"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 638.27
+  },
+  "anos": {
+    "2023": {
+      "total": 250.02,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 388.25,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178835": {
+      "deputado": {
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
+      },
+      "total": 638.27,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7501537,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-16T00:00:00",
+          "numDocumento": "13481",
+          "valorDocumento": 250.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7501537",
+          "nomeFornecedor": "ABASTECEDORA DE COMBUSTIVEIS CAPILHA LTDA",
+          "cnpjCpfFornecedor": "17953463000170",
+          "valorLiquido": 250.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7830717,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-14T16:15:57",
+          "numDocumento": "19509",
+          "valorDocumento": 388.25,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7830717",
+          "nomeFornecedor": "ABASTECEDORA DE COMBUSTIVEIS CAPILHA LTDA",
+          "cnpjCpfFornecedor": "17953463000170",
+          "valorLiquido": 388.25,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

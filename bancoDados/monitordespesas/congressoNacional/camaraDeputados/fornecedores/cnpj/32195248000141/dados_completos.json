@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "FORT COMBUSTIVEIS LTDA",
+      "cnpj": "32195248000141",
+      "total_recebido": 959.16,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T20:35:46.726175"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 959.16
+  },
+  "anos": {
+    "2024": {
+      "total": 959.16,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 959.16,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7852256,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-28T20:06:33",
+          "numDocumento": "4535",
+          "valorDocumento": 211.33,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7852256",
+          "nomeFornecedor": "FORT COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "32195248000141",
+          "valorLiquido": 211.33,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7837851,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-28T00:00:00",
+          "numDocumento": "46287",
+          "valorDocumento": 230.85,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7837851.pdf",
+          "nomeFornecedor": "FORT COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "32195248000141",
+          "valorLiquido": 230.85,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7729826,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-03T00:00:00",
+          "numDocumento": "22648",
+          "valorDocumento": 203.46,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7729826.pdf",
+          "nomeFornecedor": "FORT COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "32195248000141",
+          "valorLiquido": 203.46,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7707826,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-21T00:00:00",
+          "numDocumento": "2906",
+          "valorDocumento": 313.52,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7707826",
+          "nomeFornecedor": "FORT COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "32195248000141",
+          "valorLiquido": 313.52,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "UNIDOS COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "87001582000109",
+      "total_recebido": 533.3,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:55:14.761148"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 533.3
+  },
+  "anos": {
+    "2023": {
+      "total": 533.3,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220554": {
+      "deputado": {
+        "id": 220554,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+        "nome": "Alexandre Lindenmeyer",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
+        "email": "dep.alexandrelindenmeyer@camara.leg.br"
+      },
+      "total": 533.3,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7629982,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-18T00:00:00",
+          "numDocumento": "114203",
+          "valorDocumento": 219.39,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7629982",
+          "nomeFornecedor": "UNIDOS COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "87001582000109",
+          "valorLiquido": 219.39,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7575891,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-14T00:00:00",
+          "numDocumento": "34635",
+          "valorDocumento": 313.91,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7575891",
+          "nomeFornecedor": "UNIDOS COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "87001582000109",
+          "valorLiquido": 313.91,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

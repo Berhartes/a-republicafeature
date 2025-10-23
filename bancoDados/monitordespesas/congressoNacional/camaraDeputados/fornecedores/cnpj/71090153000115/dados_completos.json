@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO DI MONACO LTDA",
+      "cnpj": "71090153000115",
+      "total_recebido": 9800.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:54:35.891320"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 9800.0
+  },
+  "anos": {
+    "2023": {
+      "total": 7350.0,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 2450.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74696": {
+      "deputado": {
+        "id": 74696,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74696",
+        "nome": "Alberto Mourão",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74696.jpg",
+        "email": null
+      },
+      "total": 9800.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7674554,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-28T00:00:00",
+          "numDocumento": "10695",
+          "valorDocumento": 2450.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1390/2024/7674554.pdf",
+          "nomeFornecedor": "AUTO POSTO DI MONACO LTDA",
+          "cnpjCpfFornecedor": "71090153000115",
+          "valorLiquido": 2450.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7612510,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-20T00:00:00",
+          "numDocumento": "10368",
+          "valorDocumento": 2450.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1390/2023/7612510.pdf",
+          "nomeFornecedor": "AUTO POSTO DI MONACO LTDA",
+          "cnpjCpfFornecedor": "71090153000115",
+          "valorLiquido": 2450.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7576611,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-13T00:00:00",
+          "numDocumento": "010128",
+          "valorDocumento": 2450.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1390/2023/7576611.pdf",
+          "nomeFornecedor": "AUTO POSTO DI MONACO LTDA",
+          "cnpjCpfFornecedor": "71090153000115",
+          "valorLiquido": 2450.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7705371,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-15T00:00:00",
+          "numDocumento": "10965",
+          "valorDocumento": 2450.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1390/2024/7705371.pdf",
+          "nomeFornecedor": "AUTO POSTO DI MONACO LTDA",
+          "cnpjCpfFornecedor": "71090153000115",
+          "valorLiquido": 2450.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

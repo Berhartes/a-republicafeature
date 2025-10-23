@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "H LANG FILHO COMERCIO REPRESENTACOES E TRANSPORTES LTDA",
+      "cnpj": "91010082000453",
+      "total_recebido": 979.19,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T20:36:20.302974"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 979.19
+  },
+  "anos": {
+    "2023": {
+      "total": 209.63,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 769.56,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "136811": {
+      "deputado": {
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
+      },
+      "total": 979.19,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7626614,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-15T00:00:00",
+          "numDocumento": "253831",
+          "valorDocumento": 209.63,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7626614",
+          "nomeFornecedor": "H LANG FILHO COMERCIO REPRESENTACOES E TRANSPORTES LTDA",
+          "cnpjCpfFornecedor": "91010082000453",
+          "valorLiquido": 209.63,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7829986,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-11T23:49:12",
+          "numDocumento": "769265",
+          "valorDocumento": 206.68,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7829986",
+          "nomeFornecedor": "H LANG FILHO COMERCIO REPRESENTACOES E TRANSPORTES LTDA",
+          "cnpjCpfFornecedor": "91010082000453",
+          "valorLiquido": 206.68,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7816380,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-09T16:07:51",
+          "numDocumento": "722175",
+          "valorDocumento": 203.53,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7816380",
+          "nomeFornecedor": "H LANG FILHO COMERCIO REPRESENTACOES E TRANSPORTES LTDA",
+          "cnpjCpfFornecedor": "91010082000453",
+          "valorLiquido": 203.53,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7815559,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-09T19:59:17",
+          "numDocumento": "722561",
+          "valorDocumento": 172.91,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7815559",
+          "nomeFornecedor": "H LANG FILHO COMERCIO REPRESENTACOES E TRANSPORTES LTDA",
+          "cnpjCpfFornecedor": "91010082000453",
+          "valorLiquido": 172.91,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7784808,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-08T22:52:52",
+          "numDocumento": "637899",
+          "valorDocumento": 186.44,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7784808",
+          "nomeFornecedor": "H LANG FILHO COMERCIO REPRESENTACOES E TRANSPORTES LTDA",
+          "cnpjCpfFornecedor": "91010082000453",
+          "valorLiquido": 186.44,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

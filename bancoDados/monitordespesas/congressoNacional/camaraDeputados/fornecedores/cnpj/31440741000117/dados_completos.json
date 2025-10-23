@@ -3,109 +3,52 @@
     "fornecedor": {
       "nome": "AUTO POSTO INDAIA III LTDA",
       "cnpj": "31440741000117",
-      "total_recebido": 1417.81,
-      "numero_transacoes": 4,
+      "total_recebido": 131.07,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:54:50.633579"
+    "generatedAt": "2025-10-22T20:36:09.352586"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 1417.81
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 131.07
   },
   "anos": {
-    "2025": {
-      "total": 1417.81,
-      "transacoes": 4,
+    "2024": {
+      "total": 131.07,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "178993": {
+    "121948": {
       "deputado": {
-        "id": 178993,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178993",
-        "nome": "Carlos Henrique Gaguim",
-        "siglaPartido": "UNIÃO",
+        "id": 121948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "nome": "Adriano do Baldy",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "TO",
+        "siglaUf": "GO",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178993.jpg",
-        "email": "dep.carloshenriquegaguim@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br"
       },
-      "total": 1417.81,
-      "transacoes": 4,
+      "total": 131.07,
+      "transacoes": 1,
       "despesas": [
         {
-          "ano": 2025,
-          "mes": 10,
+          "ano": 2024,
+          "mes": 5,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7993084,
+          "codDocumento": 7750687,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-10-02T00:00:00",
-          "numDocumento": "563480",
-          "valorDocumento": 407.81,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7993084",
+          "dataDocumento": "2024-05-31T15:36:46",
+          "numDocumento": "309021",
+          "valorDocumento": 131.07,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7750687",
           "nomeFornecedor": "AUTO POSTO INDAIA III LTDA",
           "cnpjCpfFornecedor": "31440741000117",
-          "valorLiquido": 407.81,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
-          "mes": 7,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7946529,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-07-10T11:10:38",
-          "numDocumento": "522606",
-          "valorDocumento": 289.99,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7946529",
-          "nomeFornecedor": "AUTO POSTO INDAIA III LTDA",
-          "cnpjCpfFornecedor": "31440741000117",
-          "valorLiquido": 289.99,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
-          "mes": 7,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7947188,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-07-11T00:00:00",
-          "numDocumento": "523280",
-          "valorDocumento": 439.99,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7947188",
-          "nomeFornecedor": "AUTO POSTO INDAIA III LTDA",
-          "cnpjCpfFornecedor": "31440741000117",
-          "valorLiquido": 439.99,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
-          "mes": 4,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7896732,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-04-09T08:23:11",
-          "numDocumento": "23501",
-          "valorDocumento": 280.02,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7896732",
-          "nomeFornecedor": "AUTO POSTO INDAIA III LTDA",
-          "cnpjCpfFornecedor": "31440741000117",
-          "valorLiquido": 280.02,
+          "valorLiquido": 131.07,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

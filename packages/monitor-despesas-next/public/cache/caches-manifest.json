@@ -1,12 +1,17 @@
 {
-  "generatedAt": "2025-10-10T01:51:13.452Z",
+  "generatedAt": "2025-10-23T00:06:56Z",
   "legislatura": 57,
-  "version": "2.0.0",
+  "version": "1.0.0",
   "entries": [
     {
-      "filename": "suppliers-cache.json",
-      "hash": "dc0c03e2adbfd163a0cbe8d272f0fd75f082370b84d38be0945141f0b91d6341",
-      "size": 349753
+      "filename": "analysis-cache.json",
+      "hash": "ba0b07a35a7964f566f16b6213c7558293ffddf8aa5eed033d7a9687c50bf4f2",
+      "size": 173326
+    },
+    {
+      "filename": "cnpj-cache.json",
+      "hash": "6f5f731fcb9f491673cb1384abb62d09ac8d1556027e558983a03694200a30d9",
+      "size": 138067
     },
     {
       "filename": "dashboard-cache.json",
@@ -14,14 +19,9 @@
       "size": 21487
     },
     {
-      "filename": "analysis-cache.json",
-      "hash": "ba0b07a35a7964f566f16b6213c7558293ffddf8aa5eed033d7a9687c50bf4f2",
-      "size": 173326
-    },
-    {
       "filename": "deputies-cache.json",
-      "hash": "7003cc6380d8fe07c3fa82169d99aa536fad3c13fa1a4c9e4c974be856679ee8",
-      "size": 5518
+      "hash": "7d9a9dad420de585b41eca10fd1caef1dfe3871a02676e6a904c81cac147e8d9",
+      "size": 20163
     },
     {
       "filename": "rankings-cache.json",
@@ -29,9 +29,9 @@
       "size": 20644
     },
     {
-      "filename": "cnpj-cache.json",
-      "hash": "6f5f731fcb9f491673cb1384abb62d09ac8d1556027e558983a03694200a30d9",
-      "size": 138067
+      "filename": "suppliers-cache.json",
+      "hash": "c17968f1b1ae53a2efa53bdf1f568838fd58802679164ddec9f097f334418b6e",
+      "size": 13556395
     }
   ]
 }

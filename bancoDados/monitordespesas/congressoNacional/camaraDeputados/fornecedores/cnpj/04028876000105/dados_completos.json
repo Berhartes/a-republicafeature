@@ -3,52 +3,52 @@
     "fornecedor": {
       "nome": "AUTO POSTO MADAGASCAR LTDA",
       "cnpj": "04028876000105",
-      "total_recebido": 250.01,
+      "total_recebido": 50.0,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T16:54:50.510031"
+    "generatedAt": "2025-10-22T20:36:09.300829"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 250.01
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 50.0
   },
   "anos": {
     "2023": {
-      "total": 250.01,
+      "total": 50.0,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "178993": {
+    "121948": {
       "deputado": {
-        "id": 178993,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178993",
-        "nome": "Carlos Henrique Gaguim",
-        "siglaPartido": "UNIÃO",
+        "id": 121948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "nome": "Adriano do Baldy",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "TO",
+        "siglaUf": "GO",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178993.jpg",
-        "email": "dep.carloshenriquegaguim@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br"
       },
-      "total": 250.01,
+      "total": 50.0,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
           "mes": 7,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7571906,
+          "codDocumento": 7574861,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
           "dataDocumento": "2023-07-07T00:00:00",
-          "numDocumento": "195695",
-          "valorDocumento": 250.01,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7571906",
+          "numDocumento": "195718",
+          "valorDocumento": 50.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7574861",
           "nomeFornecedor": "AUTO POSTO MADAGASCAR LTDA",
           "cnpjCpfFornecedor": "04028876000105",
-          "valorLiquido": 250.01,
+          "valorLiquido": 50.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

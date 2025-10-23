@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
+      "cnpj": "92780600000138",
+      "total_recebido": 3019.0900000000006,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T19:55:14.684107"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 3019.0900000000006
+  },
+  "anos": {
+    "2023": {
+      "total": 3019.0900000000006,
+      "transacoes": 6,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220554": {
+      "deputado": {
+        "id": 220554,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+        "nome": "Alexandre Lindenmeyer",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
+        "email": "dep.alexandrelindenmeyer@camara.leg.br"
+      },
+      "total": 3019.0900000000006,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7655262,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-17T00:00:00",
+          "numDocumento": "08269",
+          "valorDocumento": 581.53,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2023/7655262.pdf",
+          "nomeFornecedor": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
+          "cnpjCpfFornecedor": "92780600000138",
+          "valorLiquido": 575.7,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7640341,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-17T00:00:00",
+          "numDocumento": "08269",
+          "valorDocumento": 573.22,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2023/7640341.pdf",
+          "nomeFornecedor": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
+          "cnpjCpfFornecedor": "92780600000138",
+          "valorLiquido": 567.39,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7622034,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-19T00:00:00",
+          "numDocumento": "08269",
+          "valorDocumento": 474.62,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2023/7622034.pdf",
+          "nomeFornecedor": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
+          "cnpjCpfFornecedor": "92780600000138",
+          "valorLiquido": 468.79,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7586687,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-19T00:00:00",
+          "numDocumento": "08269",
+          "valorDocumento": 474.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2023/7586687.pdf",
+          "nomeFornecedor": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
+          "cnpjCpfFornecedor": "92780600000138",
+          "valorLiquido": 469.07,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7598215,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-19T00:00:00",
+          "numDocumento": "53009348",
+          "valorDocumento": 474.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2023/7598215.pdf",
+          "nomeFornecedor": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
+          "cnpjCpfFornecedor": "92780600000138",
+          "valorLiquido": 469.07,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7570241,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-15T00:00:00",
+          "numDocumento": "8269",
+          "valorDocumento": 474.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2023/7570241.pdf",
+          "nomeFornecedor": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
+          "cnpjCpfFornecedor": "92780600000138",
+          "valorLiquido": 469.07,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

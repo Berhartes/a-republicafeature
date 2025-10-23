@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "VIAÇÃO MOTTA LTDA",
+      "cnpj": "55340921001752",
+      "total_recebido": 249.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-10-22T20:35:46.694928"
+  },
+  "categorias": {
+    "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS": 249.0
+  },
+  "anos": {
+    "2023": {
+      "total": 249.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 249.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+          "codDocumento": 7571976,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-25T00:00:00",
+          "numDocumento": "55070",
+          "valorDocumento": 249.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7571976.pdf",
+          "nomeFornecedor": "VIAÇÃO MOTTA LTDA",
+          "cnpjCpfFornecedor": "55340921001752",
+          "valorLiquido": 249.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}
