@@ -211,24 +211,125 @@ export class EtlCacheService {  private cache: Map<string, any> = new Map()
     }
   }
 
+  async gerarRankings(): Promise<any> {
+    try {
+      console.log('🔄 [ETL-Cache] Buscando rankings do cache...')
+      
+      const manifest = await fetchManifest()
+      if (!manifest) {
+        throw new Error('Manifest não encontrado')
+      }
+
+      const response = await fetchRankingsCache(manifest)
+      if (response && response.data) {
+        console.log('✅ [ETL-Cache] Rankings carregados do cache')
+        return response.data
+      }
+
+      // Se não houver rankings-cache, gerar a partir dos deputados
+      console.log('⚠️ [ETL-Cache] rankings-cache não encontrado, gerando a partir dos deputados...')
+      const deputadosResult = await this.buscarTodosDeputados()
+      const deputados = deputadosResult.deputados
+
+      // Ranking geral (ordenado por total de gastos)
+      const rankingGeral = [...deputados].sort((a, b) => (b.totalGastos || 0) - (a.totalGastos || 0))
+
+      // Rankings por ano
+      const rankingsPorAno: Record<number, any[]> = {}
+      const anos = [2023, 2024, 2025]
+      anos.forEach(ano => {
+        rankingsPorAno[ano] = [...deputados]
+          .map(dep => ({
+            ...dep,
+            totalGastos: dep.gastosPorAno?.[ano] || 0,
+            totalTransacoes: dep.transacoesPorAno?.[ano] || 0
+          }))
+          .filter(dep => dep.totalGastos > 0)
+          .sort((a, b) => b.totalGastos - a.totalGastos)
+      })
+
+      // Rankings por categoria (simplificado)
+      const rankingsPorCategoria: Record<string, any[]> = {}
+      
+      return {
+        geral: rankingGeral,
+        porAno: rankingsPorAno,
+        porCategoria: rankingsPorCategoria
+      }
+    } catch (error) {
+      console.error('❌ [ETL-Cache] Erro ao gerar rankings:', error)
+      throw error
+    }
+  }
+
+  async gerarPremiacoes(): Promise<any> {
+    try {
+      console.log('🔄 [ETL-Cache] Buscando premiações do cache...')
+      
+      const premiacoesData = await this.fetchPremiacoesCache()
+      if (premiacoesData) {
+        console.log('✅ [ETL-Cache] Premiações carregadas do cache')
+        
+        // Organizar premiações por tipo
+        const coroas: any[] = []
+        const trofeus: any[] = []
+        const medalhas: any[] = []
+        let campeaoGeral: any = null
+
+        premiacoesData.forEach((premiacao: any) => {
+          const item = {
+            tipo: premiacao.tipo,
+            deputado: premiacao.entidadeNome,
+            deputadoId: premiacao.entidadeId,
+            valor: premiacao.valor,
+            unidade: premiacao.unidade,
+            descricao: premiacao.descricao,
+            dataReferencia: premiacao.dataReferencia
+          }
+
+          if (premiacao.tipo === 'MAIOR_GASTO') {
+            coroas.push(item)
+            if (!campeaoGeral) {
+              campeaoGeral = {
+                nomeEleitoral: premiacao.entidadeNome,
+                siglaPartido: 'N/A',
+                siglaUf: 'N/A',
+                valorTotal: premiacao.valor
+              }
+            }
+          } else if (premiacao.tipo === 'MENOR_GASTO') {
+            medalhas.push(item)
+          } else {
+            trofeus.push(item)
+          }
+        })
+
+        return {
+          coroas,
+          trofeus,
+          medalhas,
+          campeaoGeral
+        }
+      }
+
+      console.log('⚠️ [ETL-Cache] Nenhuma premiação encontrada no cache')
+      return {
+        coroas: [],
+        trofeus: [],
+        medalhas: [],
+        campeaoGeral: null
+      }
+    } catch (error) {
+      console.error('❌ [ETL-Cache] Erro ao gerar premiações:', error)
+      throw error
+    }
+  }
+
   limparCache(): void {
     this.cache.clear()
     this.lastUpdate = null
     console.log('🗑️ [ETL-Cache] Cache limpo')
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
+}}
 
 export const etlCacheService = new EtlCacheService()

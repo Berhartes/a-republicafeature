@@ -285,10 +285,6 @@ function FornecedoresPage() {
     carregarDados()
   }, [])
 
-  const irParaProcessador = () => {
-    window.location.href = '/gastos/processador-fornecedores'
-  }
-
   const recarregarDados = async () => {
     setLoading(true)
     console.log('🔄 [FornecedoresPage] Recarregando dados do cache ETL...')
@@ -402,15 +398,9 @@ function FornecedoresPage() {
             <RefreshCw className="h-4 w-4 mr-2" />
             Atualizar
           </Button>
-          {!hasProcessedData && (
-            <Button onClick={irParaProcessador} variant="default" size="sm">
-              <Database className="h-4 w-4 mr-2" />
-              Verificar Cache ETL
-            </Button>
-          )}
-          <Button onClick={irParaProcessador} variant="outline" size="sm">
-            <Eye className="h-4 w-4 mr-2" />
-            Status do Cache
+          <Button onClick={recarregarDados} variant="outline" size="sm">
+            <RefreshCw className="h-4 w-4 mr-2" />
+            Recarregar Dados
           </Button>
         </div>
       </div>
@@ -493,23 +483,11 @@ function FornecedoresPage() {
                   Última atualização do cache: {new Date(lastProcessed).toLocaleString('pt-BR')}
                 </span>
               )}
-              <button
-                onClick={irParaProcessador}
-                className="text-green-700 hover:underline font-medium ml-1"
-              >
-                Verificar status do cache →
-              </button>
             </div>
           ) : (
             <div>
               <span className="font-medium text-red-800">❌ CACHE ETL NÃO ENCONTRADO:</span>{' '}
               Esta página carrega dados do cache gerado pelo Sistema ETL. Nenhum cache foi encontrado.
-              <button
-                onClick={irParaProcessador}
-                className="text-red-700 hover:underline font-medium ml-1"
-              >
-                Verificar cache ETL →
-              </button>
             </div>
           )}
         </AlertDescription>

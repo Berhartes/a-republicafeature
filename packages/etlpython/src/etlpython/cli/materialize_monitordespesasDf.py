@@ -19,6 +19,13 @@ from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple, Union
 from rich.console import Console
 from rich.table import Table
 
+from .rankings_premiacoes import (
+    gerar_rankings_deputados,
+    gerar_premiacoes_deputados,
+    gerar_rankings_fornecedores,
+    gerar_premiacoes_fornecedores
+)
+
 console = Console()
 
 # Search order closely follows the TypeScript implementation
@@ -947,6 +954,34 @@ def generate_frontend_caches(
     categories_cache = build_categories_cache(
         normalized_fornecedores, legislatura=legislatura, version=version
     )
+    
+    # Generate rankings and awards
+    rankings_deputados = gerar_rankings_deputados(normalized_deputados)
+    premiacoes_deputados = gerar_premiacoes_deputados(normalized_deputados, rankings_deputados)
+    
+    rankings_fornecedores = gerar_rankings_fornecedores(normalized_fornecedores)
+    premiacoes_fornecedores = gerar_premiacoes_fornecedores(normalized_fornecedores, rankings_fornecedores)
+    
+    # Build rankings cache
+    processed_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    rankings_cache = {
+        "metadata": {
+            "generatedAt": processed_at,
+            "source": "etlpython-materialize",
+            "version": version,
+            "legislatura": legislatura
+        },
+        "data": {
+            "deputados": {
+                "rankings": rankings_deputados,
+                "premiacoes": premiacoes_deputados
+            },
+            "fornecedores": {
+                "rankings": rankings_fornecedores,
+                "premiacoes": premiacoes_fornecedores
+            }
+        }
+    }
 
     # Generate detail caches
     for supplier in normalized_fornecedores:
@@ -971,6 +1006,7 @@ def generate_frontend_caches(
         "deputies-cache.json": deputies_cache,
         "alerts-cache.json": alerts_cache,
         "premiacoes-cache.json": premiacoes_cache,
+        "rankings-cache.json": rankings_cache,
         "analysis-cache.json": analysis_cache,
         "categories-cache.json": categories_cache,
     }

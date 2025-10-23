@@ -7,7 +7,7 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from '@/components/ui/dropdown-menu'
-import { LayoutDashboard, AlertTriangle, FileText, Users, User, GitCompare, Settings, Building2, Brain, Trophy, Cpu, ChevronDown, Database, Award } from 'lucide-react'
+import { LayoutDashboard, AlertTriangle, FileText, Users, User, GitCompare, Settings, Building2, Brain, Trophy } from 'lucide-react'
 import { Link, useRouterState } from '@tanstack/react-router'
 
 interface NavigationProps {
@@ -21,16 +21,9 @@ export function Navigation({ deputadoSelecionado }: NavigationProps) {
     { id: 'deputados', label: 'Deputados', icon: Users, path: '/gastos/deputados' },
     { id: 'fornecedores', label: 'Fornecedores', icon: Building2, path: '/gastos/fornecedores' },
     { id: 'premiacoes', label: 'Premiações', icon: Trophy, path: '/gastos/premiacoes' },
-    { id: 'premiacoes2', label: 'Premiações 2', icon: Trophy, path: '/gastos/premiacoes2' },
     { id: 'comparar', label: 'Comparar', icon: GitCompare, path: '/gastos/comparar' },
     { id: 'alertas', label: 'Alertas', icon: AlertTriangle, path: '/gastos/alertas' },
     { id: 'relatorios', label: 'Relatórios', icon: FileText, path: '/gastos/relatorios' },
-  ] as const
-
-  const processadorItems = [
-    { id: 'processador-transacoes', label: 'Transações', icon: Cpu, path: '/gastos/processador-transacoes' },
-    { id: 'processador-fornecedores', label: 'Fornecedores', icon: Building2, path: '/gastos/processador-fornecedores' },
-    { id: 'processador-premiacoes', label: 'Premiações', icon: Award, path: '/gastos/processador-premiacoes' },
   ] as const
 
   const routerState = useRouterState()
@@ -38,9 +31,6 @@ export function Navigation({ deputadoSelecionado }: NavigationProps) {
 
   const perfilPathBase = '/gastos/perfil'
   const isPerfilActive = pathname.startsWith(perfilPathBase)
-
-  const isProcessadorActive = pathname.startsWith('/gastos/processador')
-  const activeProcessador = processadorItems.find(item => pathname === item.path)
 
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
@@ -67,29 +57,6 @@ export function Navigation({ deputadoSelecionado }: NavigationProps) {
               )
             })}
 
-            {/* Dropdown para Processadores */}
-            <DropdownMenu>
-              <DropdownMenuTrigger asChild>
-                <Button size="sm" variant={isProcessadorActive ? "default" : "ghost"} className="flex items-center gap-2">
-                  <Database className="h-4 w-4" />
-                  {activeProcessador ? `Processador • ${activeProcessador.label}` : 'Processador'}
-                  <ChevronDown className="h-3 w-3" />
-                </Button>
-              </DropdownMenuTrigger>
-              <DropdownMenuContent align="start">
-                {processadorItems.map((item) => {
-                  const Icon = item.icon
-                  return (
-                    <DropdownMenuItem key={item.id} asChild>
-                      <Link to={item.path} className="flex items-center gap-2 w-full">
-                        <Icon className="h-4 w-4" />
-                        {item.label}
-                      </Link>
-                    </DropdownMenuItem>
-                  )
-                })}
-              </DropdownMenuContent>
-            </DropdownMenu>
             {(deputadoSelecionado || isPerfilActive) && (
               <Button size="sm" asChild variant={isPerfilActive ? "default" : "ghost"}>
                 <Link

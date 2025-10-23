@@ -6,11 +6,12 @@ import { Button } from '@/components/ui/button'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { TooltipProvider } from '@/components/ui/tooltip'
 import { Alert, AlertDescription } from '@/components/ui/alert'
-import { TrendingUp, Trophy, Filter, Settings, AlertTriangle, Crown, Award, Medal, Star, RefreshCw, Database } from 'lucide-react'
+import { TrendingUp, Trophy, Filter, Settings, AlertTriangle, Crown, Award, Medal, Star, RefreshCw, Database, Rocket } from 'lucide-react'
 import { getCategoriaIconJSX } from '@/components/premiacoes/utils/categoria-icons'
 
 import { useEtlDeputadosData } from '@/hooks/useEtlDeputadosData'
 import { DeputadoProcessado, PremiacoesProcessadas, RankingDeputados } from '@/types/etl-deputados.types'
+import SystemV4Demo from './SystemV4Demo'
 
 interface EstatisticasGlobais {
   totalGeral: number
@@ -364,7 +365,7 @@ export default function PremiacoesPageModular() {
         
         {/* Tabs Principais */}
         <Tabs defaultValue="rankings" className="w-full">
-          <TabsList className="grid w-full grid-cols-2">
+          <TabsList className="grid w-full grid-cols-3">
             <TabsTrigger value="rankings" className="flex items-center gap-2">
               <TrendingUp className="w-4 h-4" />
               Rankings
@@ -372,6 +373,10 @@ export default function PremiacoesPageModular() {
             <TabsTrigger value="premiacoes" className="flex items-center gap-2">
               <Trophy className="w-4 h-4" />
               Premiações {totalPremiacoes > 0 ? `(${totalPremiacoes})` : ''}
+            </TabsTrigger>
+            <TabsTrigger value="sistemav4" className="flex items-center gap-2">
+              <Rocket className="w-4 h-4" />
+              Sistema V4
             </TabsTrigger>
           </TabsList>
           
@@ -673,18 +678,17 @@ export default function PremiacoesPageModular() {
                   Sistema de premiações carregando...
                   {errorDeputados && (
                     <div className="mt-2">
-                      <Button
-                        size="sm"
-                        variant="outline"
-                        onClick={() => window.location.href = '/gastos/processador-premiacoes'}
-                      >
-                        Processar Premiações
-                      </Button>
+
                     </div>
                   )}
                 </CardContent>
               </Card>
             )}
+          </TabsContent>
+          
+          {/* Tab Sistema V4 */}
+          <TabsContent value="sistemav4" className="space-y-4">
+            <SystemV4Demo />
           </TabsContent>
         </Tabs>
         
