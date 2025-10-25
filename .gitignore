@@ -17,7 +17,8 @@ bancodeDados/monitordespesas/*.sqlite3
 *.sqlite3
 
 # Cache files
-packages/monitor-despesas-next/public/cache/
+packages/monitor-despesas-next/public/cache/*
+!packages/monitor-despesas-next/public/cache/.gitkeep
 *.cache
 .cache/
 pnpm-lock.yaml
