@@ -8,7 +8,18 @@ build/
 .env.local
 .env.*.local
 coverage/
-bancodeDados/monitordespesas/monitordespesas.db
+# Arquivos de banco de dados
+bancodeDados/monitordespesas/*.db
+bancodeDados/monitordespesas/*.sqlite
+bancodeDados/monitordespesas/*.sqlite3
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache files
+packages/monitor-despesas-next/public/cache/
+*.cache
+.cache/
 pnpm-lock.yaml
 venv/
 .venv/
