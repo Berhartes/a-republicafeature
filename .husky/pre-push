@@ -1,0 +1,12 @@
+#!/bin/sh
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT" || exit 1
+
+# Run type checking before push
+echo "🔍 Running type checks..."
+pnpm type-check
+
+# Run tests before push
+echo "🧪 Running tests..."
+pnpm test

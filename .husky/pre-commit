@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# Ensure the repository root is the working directory so lint-staged sees the correct manifests
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT" || exit 1
+
+# Use pnpm exec so workspace tooling resolves relative to the root package.json
+pnpm exec lint-staged --config=.lintstagedrc.json
