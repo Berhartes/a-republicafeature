@@ -1,6 +1,7 @@
-module.exports = {
-  root: true,
-  extends: ['next/core-web-vitals'],
+import nextCoreWebVitals from 'eslint-config-next/core-web-vitals'
+
+const projectOverrides = {
+  name: 'project-overrides',
   rules: {
     'react/no-unescaped-entities': 'off',
     'react-hooks/exhaustive-deps': 'off',
@@ -18,3 +19,5 @@ module.exports = {
     'eslint/no-unused-disable': 'off'
   }
 }
+
+export default [...nextCoreWebVitals, projectOverrides]
