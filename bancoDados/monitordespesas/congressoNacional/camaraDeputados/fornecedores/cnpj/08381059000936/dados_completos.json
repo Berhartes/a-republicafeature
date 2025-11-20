@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:30.482413"
+    "generatedAt": "2025-11-11T05:22:22.560393"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 454.19
@@ -25,6 +25,7 @@
         "id": 204495,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204495",
         "nome": "Airton Faleiro",
+        "nomeEleitoral": "Airton Faleiro",
         "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "PA",
@@ -39,25 +40,6 @@
           "ano": 2025,
           "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7970549,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-08-14T00:00:00",
-          "numDocumento": "404836",
-          "valorDocumento": 238.01,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7970549",
-          "nomeFornecedor": "FERREIRA COMERCIO DE DERIVADOS DE PETROL",
-          "cnpjCpfFornecedor": "08381059000936",
-          "valorLiquido": 238.01,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
-          "mes": 8,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7970539,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "FERREIRA COMERCIO DE DERIVADOS DE PETROL",
           "cnpjCpfFornecedor": "08381059000936",
           "valorLiquido": 216.18,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7970549,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-14T00:00:00",
+          "numDocumento": "404836",
+          "valorDocumento": 238.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7970549",
+          "nomeFornecedor": "FERREIRA COMERCIO DE DERIVADOS DE PETROL",
+          "cnpjCpfFornecedor": "08381059000936",
+          "valorLiquido": 238.01,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

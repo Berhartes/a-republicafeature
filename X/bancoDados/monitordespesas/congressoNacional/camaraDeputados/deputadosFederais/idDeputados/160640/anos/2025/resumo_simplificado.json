@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 160640,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160640",
+    "nome": "Eros Biondini",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160640.jpg",
+    "email": "dep.erosbiondini@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 314719.07,
+  "quantidade_transacoes": 289,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 78917.76,
+      "quantidade_transacoes": 34,
+      "porcentagem_do_total": 25.08
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 62067.81,
+      "quantidade_transacoes": 80,
+      "porcentagem_do_total": 19.72
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 56340.65,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 17.9
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 53872.99,
+      "quantidade_transacoes": 91,
+      "porcentagem_do_total": 17.12
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 42490.42,
+      "quantidade_transacoes": 52,
+      "porcentagem_do_total": 13.5
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Condomínio Edifício Lagoa Trade Center",
+      "cnpj": "65151920000156",
+      "total": 67676.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 21.5
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 62067.81,
+      "quantidade_transacoes": 80,
+      "porcentagem_do_total": 19.72
+    },
+    {
+      "nome": "VALOR LOCAÇÕES EIRELI - ME",
+      "cnpj": "07475524000188",
+      "total": 46360.65,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 14.73
+    },
+    {
+      "nome": "JR COMERCIO E PRESTACAO DE SERVICOS LTDA",
+      "cnpj": "17968553000135",
+      "total": 35462.51,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 11.27
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+      "cnpj": "08355825000130",
+      "total": 14050.57,
+      "quantidade_transacoes": 52,
+      "porcentagem_do_total": 4.46
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 12243.6,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.89
+    },
+    {
+      "nome": "ESTRELA LOCAÇÕES LTDA",
+      "cnpj": "14293669000123",
+      "total": 9980.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.17
+    },
+    {
+      "nome": "Residenza Piranesi",
+      "cnpj": "00000000000010",
+      "total": 8357.59,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.66
+    },
+    {
+      "nome": "DANIELA DE CARVALHO VAZ JACOB-ME HOTEL AGUA VIVA",
+      "cnpj": "10314341000195",
+      "total": 7231.5,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 2.3
+    },
+    {
+      "nome": "PARLANET WEB E TECNOLOGIA EIRELI",
+      "cnpj": "31602730000196",
+      "total": 4900.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 1.56
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 19537.94,
+      "porcentagem_do_total": 6.21
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 37257.4,
+      "porcentagem_do_total": 11.84
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 38856.54,
+      "porcentagem_do_total": 12.35
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 39353.99,
+      "porcentagem_do_total": 12.5
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 38273.0,
+      "porcentagem_do_total": 12.16
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 55593.46,
+      "porcentagem_do_total": 17.66
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 32853.72,
+      "porcentagem_do_total": 10.44
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 22881.0,
+      "porcentagem_do_total": 7.27
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 18822.87,
+      "porcentagem_do_total": 5.98
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 11289.15,
+      "porcentagem_do_total": 3.59
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "RESTAURANTE E LANCHONETE DELICIA BRASIL LTDA",
+    "cnpj": "49613712000175",
+    "total_recebido": 369.0,
+    "numero_transacoes": 3,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 271.0,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 271.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 271.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 119.0,
+      "porcentagem_do_total": 43.91
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 152.0,
+      "porcentagem_do_total": 56.09
+    }
+  ]
+}

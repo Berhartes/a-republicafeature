@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "T. DE JESUS PEDROSO",
+      "cnpj": "41097878000174",
+      "total_recebido": 31250.0,
+      "numero_transacoes": 20,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 14500.0,
+    "quantidade_transacoes": 9,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-04-17T00:00:00",
+    "periodo_fim": "2023-12-01T00:00:00",
+    "generatedAt": "2025-11-11T21:37:58.267011"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 14500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 14500.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 2500.0,
+      "porcentagem_do_total": 17.24
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 1500.0,
+      "porcentagem_do_total": 10.34
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 1500.0,
+      "porcentagem_do_total": 10.34
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 1500.0,
+      "porcentagem_do_total": 10.34
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 1500.0,
+      "porcentagem_do_total": 10.34
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 1500.0,
+      "porcentagem_do_total": 10.34
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 1500.0,
+      "porcentagem_do_total": 10.34
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 1500.0,
+      "porcentagem_do_total": 10.34
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 1500.0,
+      "porcentagem_do_total": 10.34
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 3,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7527103,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-04-17T00:00:00",
+      "numDocumento": "112",
+      "valorDocumento": 2500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7527103.pdf",
+      "nomeFornecedor": "T. DE JESUS PEDROSO",
+      "cnpjCpfFornecedor": "41097878000174",
+      "valorLiquido": 2500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1924565,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7564577,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-06-14T00:00:00",
+      "numDocumento": "124",
+      "valorDocumento": 1500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7564577.pdf",
+      "nomeFornecedor": "T. DE JESUS PEDROSO",
+      "cnpjCpfFornecedor": "41097878000174",
+      "valorLiquido": 1500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1945159,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 4,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7550314,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-05-24T00:00:00",
+      "numDocumento": "119",
+      "valorDocumento": 1500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7550314.pdf",
+      "nomeFornecedor": "TEREZINHA DE JESUS PEDROSO",
+      "cnpjCpfFornecedor": "41097878000174",
+      "valorLiquido": 1500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1937385,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7578995,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-07-10T00:00:00",
+      "numDocumento": "128",
+      "valorDocumento": 1500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7578995.pdf",
+      "nomeFornecedor": "TEREZINHA DE JESUS PEDROSO",
+      "cnpjCpfFornecedor": "41097878000174",
+      "valorLiquido": 1500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1953067,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 7,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7603893,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-08-10T00:00:00",
+      "numDocumento": "131",
+      "valorDocumento": 1500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7603893.pdf",
+      "nomeFornecedor": "TEREZINHA DE JESUS PEDROSO",
+      "cnpjCpfFornecedor": "41097878000174",
+      "valorLiquido": 1500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1965873,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 8,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7618528,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-09-14T00:00:00",
+      "numDocumento": "138",
+      "valorDocumento": 1500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7618528.pdf",
+      "nomeFornecedor": "TEREZINHA DE JESUS PEDROSO",
+      "cnpjCpfFornecedor": "41097878000174",
+      "valorLiquido": 1500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1974106,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7628418,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-10-16T00:00:00",
+      "numDocumento": "143",
+      "valorDocumento": 1500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7628418.pdf",
+      "nomeFornecedor": "TEREZINHA DE JESUS PEDROSO",
+      "cnpjCpfFornecedor": "41097878000174",
+      "valorLiquido": 1500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1979632,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 10,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7639882,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-11-07T00:00:00",
+      "numDocumento": "146",
+      "valorDocumento": 1500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7639882.pdf",
+      "nomeFornecedor": "TEREZINHA DE JESUS PEDROSO",
+      "cnpjCpfFornecedor": "41097878000174",
+      "valorLiquido": 1500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1985786,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7659747,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-12-01T00:00:00",
+      "numDocumento": "150",
+      "valorDocumento": 1500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7659747.pdf",
+      "nomeFornecedor": "TEREZINHA DE JESUS PEDROSO",
+      "cnpjCpfFornecedor": "41097878000174",
+      "valorLiquido": 1500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1997372,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

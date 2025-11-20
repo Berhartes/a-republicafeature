@@ -1,0 +1,164 @@
+{
+  "deputado": {
+    "id": 222142,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/222142",
+    "nome": "Coronel Telhada",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/222142.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 293679.24,
+  "quantidade_transacoes": 216,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 184871.7,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 62.95
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 37666.67,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 12.83
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 23920.97,
+      "quantidade_transacoes": 97,
+      "porcentagem_do_total": 8.15
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 20343.37,
+      "quantidade_transacoes": 34,
+      "porcentagem_do_total": 6.93
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 18183.12,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 6.19
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Wmh Arte Visual Ltda.",
+      "cnpj": "32854151000101",
+      "total": 88500.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 30.13
+    },
+    {
+      "nome": "BR Solucoes Tecnicas e Administrativas Ltda",
+      "cnpj": "49311629000141",
+      "total": 86871.7,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 29.58
+    },
+    {
+      "nome": "Nacional Rent a Car Locação de Veiculos LTDA",
+      "cnpj": "49000815000160",
+      "total": 37666.67,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 12.83
+    },
+    {
+      "nome": "JKS IMOBILIARIA LTDA",
+      "cnpj": "15721714000166",
+      "total": 17302.21,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 5.89
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 12866.85,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 4.38
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 7476.52,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 2.55
+    },
+    {
+      "nome": "PILOTO AUTO POSTO LTDA ME",
+      "cnpj": "62021316000117",
+      "total": 7111.5,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 2.42
+    },
+    {
+      "nome": "I9 SOLUCOES EM MARKETING E MIDIAS DIGITAIS LTDA",
+      "cnpj": "34930569000178",
+      "total": 7000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.38
+    },
+    {
+      "nome": "AUTO POSTO SIRACUSA LTDA",
+      "cnpj": "10386932000178",
+      "total": 3363.95,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 1.15
+    },
+    {
+      "nome": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA.",
+      "cnpj": "37063328001058",
+      "total": 1715.14,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 0.58
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 34846.9,
+      "porcentagem_do_total": 11.87
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 38029.48,
+      "porcentagem_do_total": 12.95
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 44991.51,
+      "porcentagem_do_total": 15.32
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 41330.95,
+      "porcentagem_do_total": 14.07
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 47249.87,
+      "porcentagem_do_total": 16.09
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 48583.39,
+      "porcentagem_do_total": 16.54
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 38647.14,
+      "porcentagem_do_total": 13.16
+    }
+  ]
+}

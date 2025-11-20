@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "SAVEGNAGO SUPERMERCADOS LTDA",
+    "cnpj": "71322150002375",
+    "total_recebido": 277.69,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 277.69,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 277.69,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 277.69,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 277.69,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

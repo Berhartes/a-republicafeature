@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:12.985759"
+    "generatedAt": "2025-11-11T05:22:14.800189"
   },
   "categorias": {
     "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 125.57999999999998
@@ -25,6 +25,7 @@
         "id": 74646,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74646",
         "nome": "Aécio Neves",
+        "nomeEleitoral": "Aécio Neves",
         "siglaPartido": "PSDB",
         "uriPartido": "",
         "siglaUf": "MG",
@@ -35,25 +36,6 @@
       "total": 125.57999999999998,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 9,
-          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-          "codDocumento": 7602693,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-09-05T00:00:00",
-          "numDocumento": "11568",
-          "valorDocumento": 65.6,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7602693",
-          "nomeFornecedor": "TOUR DE FORCE PAPELARIA E INFORMATIC LTDA",
-          "cnpjCpfFornecedor": "34524094000110",
-          "valorLiquido": 65.6,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 6,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "TOUR DE FORCE PAPELARIA E INFORMATIC LTDA",
           "cnpjCpfFornecedor": "34524094000110",
           "valorLiquido": 59.98,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7602693,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-05T00:00:00",
+          "numDocumento": "11568",
+          "valorDocumento": 65.6,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7602693",
+          "nomeFornecedor": "TOUR DE FORCE PAPELARIA E INFORMATIC LTDA",
+          "cnpjCpfFornecedor": "34524094000110",
+          "valorLiquido": 65.6,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

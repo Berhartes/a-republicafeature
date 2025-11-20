@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BRASILIA EMPREENDIMENTOS SERVICOS E PARTICIPACOES LTDA",
+      "cnpj": "00687681000108",
+      "total_recebido": 30.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 30.0,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-05-10T00:00:00",
+    "periodo_fim": "2023-05-10T00:00:00",
+    "generatedAt": "2025-11-11T21:37:55.571485"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 30.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 30.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 30.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "codDocumento": 7541910,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-05-10T00:00:00",
+      "numDocumento": "11974",
+      "valorDocumento": 30.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7541910.pdf",
+      "nomeFornecedor": "BRASILIA EMPREENDIMENTOS SERVICOS E PARTICIPACOES LTDA",
+      "cnpjCpfFornecedor": "00687681000108",
+      "valorLiquido": 30.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1933063,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

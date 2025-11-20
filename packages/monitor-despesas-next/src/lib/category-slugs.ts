@@ -155,8 +155,51 @@ export function getCategoryFromUrl(url: string): string {
   return slugToCategory(slug)
 }
 
-export function mapearCategoriaCompleta(categoria: string): string {
-  if (!categoria) return 'DESPESA NÃO ESPECIFICADA'
+const extrairCategoriaTexto = (entrada: unknown): string => {
+  if (typeof entrada === 'string') {
+    return entrada
+  }
+
+  if (entrada === null || entrada === undefined) {
+    return ''
+  }
+
+  if (typeof entrada === 'number' || typeof entrada === 'bigint') {
+    return String(entrada)
+  }
+
+  if (Array.isArray(entrada)) {
+    for (const item of entrada) {
+      const texto = extrairCategoriaTexto(item)
+      if (texto) {
+        return texto
+      }
+    }
+    return ''
+  }
+
+  if (typeof entrada === 'object') {
+    const objeto = entrada as Record<string, unknown>
+    const candidatos = ['categoria', 'categoriaOriginal', 'nome', 'label', 'descricao']
+    for (const chave of candidatos) {
+      if (objeto[chave] !== undefined) {
+        const texto = extrairCategoriaTexto(objeto[chave])
+        if (texto) {
+          return texto
+        }
+      }
+    }
+    return String(entrada)
+  }
+
+  return String(entrada)
+}
+
+export function mapearCategoriaCompleta(categoriaEntrada: unknown): string {
+  const categoria = extrairCategoriaTexto(categoriaEntrada)
+  if (!categoria || typeof categoria !== 'string') {
+    return 'DESPESA NÃO ESPECIFICADA'
+  }
 
   const categoriaNormalizada = normalizeCategoryName(categoria)
 

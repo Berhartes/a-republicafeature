@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "legislador": {
+      "id": 123,
+      "nome": "Deputado Teste",
+      "nomeEleitoral": "Dep Teste",
+      "siglaPartido": "ABC",
+      "siglaUf": "SP"
+    }
+  },
+  "despesas": [
+    {
+      "dataDocumento": "2024-06-20",
+      "nomeFornecedor": "Fornecedor Demo A",
+      "tipoDespesa": "ALIMENTAÇÃO",
+      "valorLiquido": 350.75
+    },
+    {
+      "dataDocumento": "2023-11-05",
+      "nomeFornecedor": "Fornecedor Demo B",
+      "tipoDespesa": "COMBUSTÍVEIS",
+      "valorLiquido": 1200.00
+    }
+  ]
+}

@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:14.750755"
+    "generatedAt": "2025-11-11T05:22:36.115086"
   },
   "categorias": {
     "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 1607.52
@@ -25,6 +25,7 @@
         "id": 220554,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
         "nome": "Alexandre Lindenmeyer",
+        "nomeEleitoral": "Alexandre Lindenmeyer",
         "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -35,25 +36,6 @@
       "total": 1607.52,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 11,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7652068,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-11-27T00:00:00",
-          "numDocumento": "20237930",
-          "valorDocumento": 1213.81,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2023/7652068.pdf",
-          "nomeFornecedor": "PIAZZA NAVONA FLAT",
-          "cnpjCpfFornecedor": "02584924001007",
-          "valorLiquido": 1213.8,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 7,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "PIAZZA NAVONA FLAT",
           "cnpjCpfFornecedor": "02584924001007",
           "valorLiquido": 393.72,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7652068,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-27T00:00:00",
+          "numDocumento": "20237930",
+          "valorDocumento": 1213.81,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2023/7652068.pdf",
+          "nomeFornecedor": "PIAZZA NAVONA FLAT",
+          "cnpjCpfFornecedor": "02584924001007",
+          "valorLiquido": 1213.8,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

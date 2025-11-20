@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:12:10Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00175819000190"
+  },
+  "data": {
+    "cnpj": "00175819000190",
+    "nome": "AM DERIVADOS DE PETROLEO E COMERCIO LTDA",
+    "nomeFornecedor": "AM DERIVADOS DE PETROLEO E COMERCIO LTDA",
+    "totalTransacionado": 205.73,
+    "totalRecebido": 205.73,
+    "totalRecebidoTodos": 205.73,
+    "transacoes": 1,
+    "numeroTransacoes": 1,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [
+      {
+        "id": "220690",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 205.73,
+        "transacoes": 1
+      }
+    ],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 205.73,
+        "quantidade": 1
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 205.73,
+        "quantidade": 1
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2025": {
+        "valor": 205.73,
+        "transacoes": 1,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 205.73,
+        "ano": 2025,
+        "mes": 9,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "285424",
+        "dataDocumento": "2025-09-20T13:21:09",
+        "deputadoId": "220690",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 205.73,
+        "valorLiquido": 205.73,
+        "valorDocumento": 205.73,
+        "ano": 2025,
+        "mes": 9,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2025-09-20T13:21:09",
+        "data": "2025-09-20T13:21:09",
+        "numDocumento": "285424",
+        "codDocumento": 7995576,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7995576",
+        "deputadoId": "220690",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "AM DERIVADOS DE PETROLEO E COMERCIO LTDA",
+        "cnpj": "00175819000190",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7995576"
+      }
+    ],
+    "totalTransacoesDetalhadas": 1,
+    "aliases": [
+      "00175819000190"
+    ],
+    "temDetalhes": true
+  }
+}

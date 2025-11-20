@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220540,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220540",
+    "nome": "Duda Ramos",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "RR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
+    "email": "dep.dudaramos@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 403391.66,
+  "quantidade_transacoes": 176,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 113033.65,
+      "quantidade_transacoes": 94,
+      "porcentagem_do_total": 28.02
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 112026.76,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 27.77
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 84289.0,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 20.9
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 71393.88,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 17.7
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 14375.28,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 3.56
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 95319.18,
+      "quantidade_transacoes": 81,
+      "porcentagem_do_total": 23.63
+    },
+    {
+      "nome": "NOVITTA RENT A CAR TRANSPORTE LTDA ME",
+      "cnpj": "02214932000162",
+      "total": 84289.0,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 20.9
+    },
+    {
+      "nome": "LP MARKETING POLTICIO E MARKETING ELEITORAL LTDA",
+      "cnpj": "44134086000110",
+      "total": 48000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 11.9
+    },
+    {
+      "nome": "AUTO POSTO ABEL  GALINHA LTDA MATRIZ",
+      "cnpj": "00376437000124",
+      "total": 45530.54,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 11.29
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS 206 LTDA",
+      "cnpj": "40084269000118",
+      "total": 25863.34,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 6.41
+    },
+    {
+      "nome": "E R P PASSOS LTDA",
+      "cnpj": "27833742000154",
+      "total": 24760.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 6.14
+    },
+    {
+      "nome": "Facebook Serviços Online do Brasil Ltda.",
+      "cnpj": "13347016000117",
+      "total": 23674.05,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 5.87
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 12579.51,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 3.12
+    },
+    {
+      "nome": "Instituto Brasileiro de Assessoria Institucional - IBRASSI",
+      "cnpj": "25422642000100",
+      "total": 10632.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.64
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 7675.68,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.9
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 30421.57,
+      "porcentagem_do_total": 7.54
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 49765.95,
+      "porcentagem_do_total": 12.34
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 37127.9,
+      "porcentagem_do_total": 9.2
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 43223.55,
+      "porcentagem_do_total": 10.72
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 53961.25,
+      "porcentagem_do_total": 13.38
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 65722.89,
+      "porcentagem_do_total": 16.29
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 47217.34,
+      "porcentagem_do_total": 11.71
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 44019.44,
+      "porcentagem_do_total": 10.91
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 27074.77,
+      "porcentagem_do_total": 6.71
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 4857.0,
+      "porcentagem_do_total": 1.2
+    }
+  ]
+}

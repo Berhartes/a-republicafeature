@@ -19,14 +19,14 @@ export const CategoryDistributionChart: React.FC<CategoryDistributionChartProps>
   maxHeight,
   referenceData,
   onCategoryClick,
-  categoryUrlResolver,
   countLabel,
   showAverage,
   showCount,
   showComparison,
   legendLabels,
   emptyMessage,
-  loadingMessage
+  loadingMessage,
+  useSimpleLayout
 }) => {
   const contextConfig = DEFAULT_CONTEXTS[context]
   
@@ -48,36 +48,66 @@ export const CategoryDistributionChart: React.FC<CategoryDistributionChartProps>
   const calculatedMaxHeight = maxHeight
 
   if (loading) {
+    const content = (
+      <div className={className}>
+        <div className="flex items-center justify-center h-[300px]">
+          <RefreshCw className="h-6 w-6 animate-spin mr-2" />
+          <span>{loadingMessage || 'Carregando categorias...'}</span>
+        </div>
+      </div>
+    )
+    if (useSimpleLayout) return content
     return (
       <Card className={className}>
         <CardHeader>
           <CardTitle>{defaultTitle}</CardTitle>
           <CardDescription>{defaultDescription}</CardDescription>
         </CardHeader>
-        <CardContent>
-          <div className="flex items-center justify-center h-[300px]">
-            <RefreshCw className="h-6 w-6 animate-spin mr-2" />
-            <span>{loadingMessage || 'Carregando categorias...'}</span>
-          </div>
-        </CardContent>
+        <CardContent>{content}</CardContent>
       </Card>
     )
   }
 
   if (!data || data.length === 0) {
+    const empty = (
+      <p className="text-center text-muted-foreground h-[300px] flex items-center justify-center">
+        {emptyMessage || 'Não há dados de categorias para o período selecionado.'}
+      </p>
+    )
+    if (useSimpleLayout) return <div className={className}>{empty}</div>
     return (
       <Card className={className}>
         <CardHeader>
           <CardTitle>{defaultTitle}</CardTitle>
           <CardDescription>{defaultDescription}</CardDescription>
         </CardHeader>
-        <CardContent>
-          <p className="text-center text-muted-foreground h-[300px] flex items-center justify-center">
-            {emptyMessage || 'Não há dados de categorias para o período selecionado.'}
-          </p>
-        </CardContent>
+        <CardContent>{empty}</CardContent>
       </Card>
     )
+  }
+
+  const chartBody = (
+    <div className="flex-1 flex flex-col min-h-0 space-y-4">
+      {showPieChart && (
+        <CategoryPieChart data={data} height={300} />
+      )}
+      <div className="flex-1 min-h-0">
+        <CategoryBarChart
+          data={data}
+          context={context}
+          referenceData={referenceData}
+          showPieChart={showPieChart}
+          onCategoryClick={onCategoryClick}
+          countLabel={config.countLabel}
+          showComparison={config.showComparison}
+          maxHeight={calculatedMaxHeight}
+        />
+      </div>
+    </div>
+  )
+
+  if (useSimpleLayout) {
+    return <div className={className}>{chartBody}</div>
   }
 
   return (
@@ -88,8 +118,6 @@ export const CategoryDistributionChart: React.FC<CategoryDistributionChartProps>
             <CardTitle>{defaultTitle}</CardTitle>
             <CardDescription>{defaultDescription}</CardDescription>
           </div>
-          
-          {/* Botão para alternar visualização */}
           {onTogglePieChart && (
             <div className="flex items-center gap-2">
               {!showPieChart ? (
@@ -115,38 +143,13 @@ export const CategoryDistributionChart: React.FC<CategoryDistributionChartProps>
             </div>
           )}
         </div>
-        
-        {/* Legenda */}
         <CategoryLegend
           context={context}
           labels={config.legendLabels}
           showPieChart={showPieChart}
         />
       </CardHeader>
-      
-      <CardContent className="flex-1 flex flex-col min-h-0">
-        <div className="flex-1 flex flex-col min-h-0 space-y-4">
-          {/* Gráfico Pizza - Condicional */}
-          {showPieChart && (
-            <CategoryPieChart data={data} height={300} />
-          )}
-          
-          {/* Barras Detalhadas */}
-          <div className="flex-1 min-h-0">
-            <CategoryBarChart
-              data={data}
-              context={context}
-              referenceData={referenceData}
-              showPieChart={showPieChart}
-              onCategoryClick={onCategoryClick}
-              categoryUrlResolver={categoryUrlResolver}
-              countLabel={config.countLabel}
-              showComparison={config.showComparison}
-              maxHeight={calculatedMaxHeight}
-            />
-          </div>
-        </div>
-      </CardContent>
+      <CardContent className="flex-1 flex flex-col min-h-0">{chartBody}</CardContent>
     </Card>
   )
 }

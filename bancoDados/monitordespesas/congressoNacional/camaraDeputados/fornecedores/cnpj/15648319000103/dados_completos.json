@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.304205"
+    "generatedAt": "2025-11-11T05:22:16.145701"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 543.89
@@ -25,6 +25,7 @@
         "id": 136811,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
         "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -35,25 +36,6 @@
       "total": 543.89,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 10,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7638222,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-10-31T00:00:00",
-          "numDocumento": "346363",
-          "valorDocumento": 143.86,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7638222",
-          "nomeFornecedor": "POSTO DE COMB. JARDIM DO LAGO",
-          "cnpjCpfFornecedor": "15648319000103",
-          "valorLiquido": 143.86,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 3,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "POSTO DE COMB. JARDIM DO LAGO",
           "cnpjCpfFornecedor": "15648319000103",
           "valorLiquido": 400.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7638222,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-31T00:00:00",
+          "numDocumento": "346363",
+          "valorDocumento": 143.86,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7638222",
+          "nomeFornecedor": "POSTO DE COMB. JARDIM DO LAGO",
+          "cnpjCpfFornecedor": "15648319000103",
+          "valorLiquido": 143.86,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

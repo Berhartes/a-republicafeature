@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO AEROPORTO LTDA",
+      "cnpj": "08202116000115",
+      "total_recebido": 4183.88,
+      "numero_transacoes": 18,
+      "numero_deputados": 4
+    },
+    "ano": 2025,
+    "total_recebido": 1657.21,
+    "quantidade_transacoes": 5,
+    "quantidade_deputados": 2,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-02-13T00:00:00",
+    "periodo_fim": "2025-10-20T00:00:00",
+    "generatedAt": "2025-11-11T21:37:53.012482"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 1368.17,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 82.56
+    },
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 289.04,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 17.44
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1657.21,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 331.72,
+      "porcentagem_do_total": 20.02
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 289.04,
+      "porcentagem_do_total": 17.44
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 679.97,
+      "porcentagem_do_total": 41.03
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 356.48,
+      "porcentagem_do_total": 21.51
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7993022,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-09-07T00:00:00",
+      "numDocumento": "20076",
+      "valorDocumento": 339.97,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7993022",
+      "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
+      "cnpjCpfFornecedor": "08202116000115",
+      "valorLiquido": 339.97,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2177789,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2025,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7993034,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-09-18T00:00:00",
+      "numDocumento": "27564",
+      "valorDocumento": 340.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7993034",
+      "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
+      "cnpjCpfFornecedor": "08202116000115",
+      "valorLiquido": 340.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2177789,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2025,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 8010500,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-10-20T00:00:00",
+      "numDocumento": "32481",
+      "valorDocumento": 356.48,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8010500",
+      "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
+      "cnpjCpfFornecedor": "08202116000115",
+      "valorLiquido": 356.48,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2187158,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7869518,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-02-13T00:00:00",
+      "numDocumento": "993",
+      "valorDocumento": 331.72,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7869518",
+      "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
+      "cnpjCpfFornecedor": "08202116000115",
+      "valorLiquido": 331.72,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2110818,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2025,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7892556,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-03-25T00:00:00",
+      "numDocumento": "6417",
+      "valorDocumento": 289.04,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7892556",
+      "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
+      "cnpjCpfFornecedor": "08202116000115",
+      "valorLiquido": 289.04,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2123688,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

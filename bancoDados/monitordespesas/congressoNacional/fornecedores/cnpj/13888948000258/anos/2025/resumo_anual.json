@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ARENA PETROLEO REVENDA DE COMBUSTIVEIS LTDA",
+      "cnpj": "13888948000258",
+      "total_recebido": 393.95,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 194.28,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-01-19T11:59:23",
+    "periodo_fim": "2025-01-19T11:59:23",
+    "generatedAt": "2025-11-11T21:38:01.508007"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 194.28,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 194.28,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 194.28,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7860772,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-01-19T11:59:23",
+      "numDocumento": "14078",
+      "valorDocumento": 194.28,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7860772",
+      "nomeFornecedor": "ARENA PETROLEO REVENDA DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "13888948000258",
+      "valorLiquido": 194.28,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2105765,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

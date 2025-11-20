@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
+      "cnpj": "26991067000129",
+      "total_recebido": 800.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:25.154733"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 800.0
+  },
+  "anos": {
+    "2023": {
+      "total": 400.0,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 400.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220576": {
+      "deputado": {
+        "id": 220576,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220576",
+        "nome": "Alfredo Gaspar",
+        "nomeEleitoral": "Alfredo Gaspar",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "AL",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220576.jpg",
+        "email": "dep.alfredogaspar@camara.leg.br"
+      },
+      "total": 800.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7631139,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-23T00:00:00",
+          "numDocumento": "341550",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7631139",
+          "nomeFornecedor": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
+          "cnpjCpfFornecedor": "26991067000129",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7662803,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-15T00:00:00",
+          "numDocumento": "351284",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7662803",
+          "nomeFornecedor": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
+          "cnpjCpfFornecedor": "26991067000129",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7717644,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-09T00:00:00",
+          "numDocumento": "365778",
+          "valorDocumento": 200.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3538/2024/7717644.pdf",
+          "nomeFornecedor": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
+          "cnpjCpfFornecedor": "26991067000129",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7740714,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-16T00:00:00",
+          "numDocumento": "366712",
+          "valorDocumento": 200.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3538/2024/7740714.pdf",
+          "nomeFornecedor": "CRUZEIRO COMBUSTIVEIS E SERVICOS S/A",
+          "cnpjCpfFornecedor": "26991067000129",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

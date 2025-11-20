@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.382453"
+    "generatedAt": "2025-11-11T05:22:17.091538"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 329.5
@@ -25,6 +25,7 @@
         "id": 136811,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
         "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -35,25 +36,6 @@
       "total": 329.5,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7807275,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-09-19T18:02:16",
-          "numDocumento": "103670",
-          "valorDocumento": 242.5,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7807275",
-          "nomeFornecedor": "ANDREIA GOMES DOS SANTOS ME",
-          "cnpjCpfFornecedor": "04375916000187",
-          "valorLiquido": 242.5,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 8,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "ANDREIA GOMES DOS SANTOS ME",
           "cnpjCpfFornecedor": "04375916000187",
           "valorLiquido": 87.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7807275,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-19T18:02:16",
+          "numDocumento": "103670",
+          "valorDocumento": 242.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7807275",
+          "nomeFornecedor": "ANDREIA GOMES DOS SANTOS ME",
+          "cnpjCpfFornecedor": "04375916000187",
+          "valorLiquido": 242.5,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

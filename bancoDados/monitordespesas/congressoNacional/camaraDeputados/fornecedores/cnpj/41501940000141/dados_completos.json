@@ -3,114 +3,53 @@
     "fornecedor": {
       "nome": "ANTONELLI & VITORINO COMERCIO DE COMBUSTIVEIS LTDA",
       "cnpj": "41501940000141",
-      "total_recebido": 592.0699999999999,
-      "numero_transacoes": 4,
+      "total_recebido": 268.68,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.316157"
+    "generatedAt": "2025-11-11T05:22:34.172518"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 592.0699999999999
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 268.68
   },
   "anos": {
     "2023": {
-      "total": 306.78,
-      "transacoes": 2,
-      "deputados": 1
-    },
-    "2024": {
-      "total": 285.28999999999996,
-      "transacoes": 2,
+      "total": 268.68,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "121948": {
+    "220542": {
       "deputado": {
-        "id": 121948,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
-        "nome": "Adriano do Baldy",
-        "siglaPartido": "PP",
+        "id": 220542,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
+        "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
+        "siglaPartido": "MDB",
         "uriPartido": "",
-        "siglaUf": "GO",
+        "siglaUf": "TO",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
-        "email": "dep.adrianodobaldy@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
+        "email": "dep.alexandreguimaraes@camara.leg.br"
       },
-      "total": 592.0699999999999,
-      "transacoes": 4,
+      "total": 268.68,
+      "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 4,
+          "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7528165,
+          "codDocumento": 7604069,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-04-18T00:00:00",
-          "numDocumento": "293314",
-          "valorDocumento": 200.69,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7528165",
+          "dataDocumento": "2023-08-22T00:00:00",
+          "numDocumento": "369653",
+          "valorDocumento": 268.68,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7604069",
           "nomeFornecedor": "ANTONELLI & VITORINO COMERCIO DE COMBUSTIVEIS LTDA",
           "cnpjCpfFornecedor": "41501940000141",
-          "valorLiquido": 200.69,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 3,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7516057,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-03-06T00:00:00",
-          "numDocumento": "266533",
-          "valorDocumento": 106.09,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7516057",
-          "nomeFornecedor": "ANTONELLI & VITORINO COMERCIO DE COMBUSTIVEIS LTDA",
-          "cnpjCpfFornecedor": "41501940000141",
-          "valorLiquido": 106.09,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 3,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7698653,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-03-05T12:07:08",
-          "numDocumento": "502521",
-          "valorDocumento": 209.64,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7698653",
-          "nomeFornecedor": "ANTONELLI & VITORINO COMERCIO DE COMBUSTIVEIS LTDA",
-          "cnpjCpfFornecedor": "41501940000141",
-          "valorLiquido": 209.64,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 1,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7675842,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-01-22T12:11:47",
-          "numDocumento": "473410",
-          "valorDocumento": 75.65,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7675842",
-          "nomeFornecedor": "ANTONELLI & VITORINO COMERCIO DE COMBUSTIVEIS LTDA",
-          "cnpjCpfFornecedor": "41501940000141",
-          "valorLiquido": 75.65,
+          "valorLiquido": 268.68,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

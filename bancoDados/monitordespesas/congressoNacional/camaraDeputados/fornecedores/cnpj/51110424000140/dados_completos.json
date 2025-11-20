@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:21.143770"
+    "generatedAt": "2025-11-11T05:22:38.681346"
   },
   "categorias": {
     "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 12000.0
@@ -25,6 +25,7 @@
         "id": 220576,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220576",
         "nome": "Alfredo Gaspar",
+        "nomeEleitoral": "Alfredo Gaspar",
         "siglaPartido": "UNIÃO",
         "uriPartido": "",
         "siglaUf": "AL",
@@ -37,15 +38,15 @@
       "despesas": [
         {
           "ano": 2023,
-          "mes": 12,
+          "mes": 10,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7661558,
+          "codDocumento": 7630652,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-12-13T00:00:00",
-          "numDocumento": "19",
+          "dataDocumento": "2023-10-24T00:00:00",
+          "numDocumento": "10",
           "valorDocumento": 4000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3538/2023/7661558.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3538/2023/7630652.pdf",
           "nomeFornecedor": "OVERCOME PUBLICIDADE E MARKETING LTDA",
           "cnpjCpfFornecedor": "51110424000140",
           "valorLiquido": 4000.0,
@@ -75,15 +76,15 @@
         },
         {
           "ano": 2023,
-          "mes": 10,
+          "mes": 12,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7630652,
+          "codDocumento": 7661558,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-10-24T00:00:00",
-          "numDocumento": "10",
+          "dataDocumento": "2023-12-13T00:00:00",
+          "numDocumento": "19",
           "valorDocumento": 4000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3538/2023/7630652.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3538/2023/7661558.pdf",
           "nomeFornecedor": "OVERCOME PUBLICIDADE E MARKETING LTDA",
           "cnpjCpfFornecedor": "51110424000140",
           "valorLiquido": 4000.0,

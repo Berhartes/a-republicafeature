@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "REDE DE POSTOS TOCA DA ONCA XAMBIOA LTDA",
+      "cnpj": "22206336000148",
+      "total_recebido": 1232.04,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:22.181977"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1232.04
+  },
+  "anos": {
+    "2023": {
+      "total": 218.19,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 731.36,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 282.49,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220542": {
+      "deputado": {
+        "id": 220542,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
+        "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
+        "email": "dep.alexandreguimaraes@camara.leg.br"
+      },
+      "total": 1232.04,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7591889,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-17T00:00:00",
+          "numDocumento": "243390",
+          "valorDocumento": 218.19,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7591889",
+          "nomeFornecedor": "REDE DE POSTOS TOCA DA ONCA XAMBIOA LTDA",
+          "cnpjCpfFornecedor": "22206336000148",
+          "valorLiquido": 218.19,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7695123,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-16T20:42:00",
+          "numDocumento": "318051",
+          "valorDocumento": 289.64,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7695123",
+          "nomeFornecedor": "REDE DE POSTOS TOCA DA ONCA XAMBIOA LTDA",
+          "cnpjCpfFornecedor": "22206336000148",
+          "valorLiquido": 289.64,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7745181,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-13T00:00:00",
+          "numDocumento": "348500",
+          "valorDocumento": 441.72,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3584/2024/7745181.pdf",
+          "nomeFornecedor": "REDE DE POSTOS TOCA DA ONCA XAMBIOA LTDA",
+          "cnpjCpfFornecedor": "22206336000148",
+          "valorLiquido": 441.72,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 8005182,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-12T00:00:00",
+          "numDocumento": "621046",
+          "valorDocumento": 282.49,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8005182",
+          "nomeFornecedor": "A. W. RIBEIRO COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "22206336000148",
+          "valorLiquido": 282.49,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

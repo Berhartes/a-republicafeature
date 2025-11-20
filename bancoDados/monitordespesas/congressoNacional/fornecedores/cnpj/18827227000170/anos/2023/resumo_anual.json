@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "S NAFES M DA SILVA JUNIOR",
+      "cnpj": "18827227000170",
+      "total_recebido": 18500.0,
+      "numero_transacoes": 9,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 16500.0,
+    "quantidade_transacoes": 8,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-03-29T00:00:00",
+    "periodo_fim": "2023-11-07T00:00:00",
+    "generatedAt": "2025-11-11T21:37:58.248008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 16500.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 16500.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 2500.0,
+      "porcentagem_do_total": 15.15
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 2000.0,
+      "porcentagem_do_total": 12.12
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 2000.0,
+      "porcentagem_do_total": 12.12
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 2000.0,
+      "porcentagem_do_total": 12.12
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 2000.0,
+      "porcentagem_do_total": 12.12
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 2000.0,
+      "porcentagem_do_total": 12.12
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 2000.0,
+      "porcentagem_do_total": 12.12
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 2000.0,
+      "porcentagem_do_total": 12.12
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 3,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7520839,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-03-29T00:00:00",
+      "numDocumento": "366",
+      "valorDocumento": 2500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7520839.pdf",
+      "nomeFornecedor": "S NAFES M DA SILVA JUNIOR",
+      "cnpjCpfFornecedor": "18827227000170",
+      "valorLiquido": 2500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1921021,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 4,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7542878,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-05-09T00:00:00",
+      "numDocumento": "390",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7542878.pdf",
+      "nomeFornecedor": "S NAFES M DA SILVA JUNIOR",
+      "cnpjCpfFornecedor": "18827227000170",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1933548,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7571625,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-06-07T00:00:00",
+      "numDocumento": "399",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7571625.pdf",
+      "nomeFornecedor": "S NAFES M DA SILVA JUNIOR",
+      "cnpjCpfFornecedor": "18827227000170",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1949096,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7571632,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-07-07T00:00:00",
+      "numDocumento": "413",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7571632.pdf",
+      "nomeFornecedor": "S NAFES M DA SILVA JUNIOR",
+      "cnpjCpfFornecedor": "18827227000170",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1949098,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 7,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7591606,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-08-10T00:00:00",
+      "numDocumento": "422",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7591606.pdf",
+      "nomeFornecedor": "S NAFES M DA SILVA JUNIOR",
+      "cnpjCpfFornecedor": "18827227000170",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1959359,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 8,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7606739,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-09-05T00:00:00",
+      "numDocumento": "438",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7606739.pdf",
+      "nomeFornecedor": "S NAFES M DA SILVA JUNIOR",
+      "cnpjCpfFornecedor": "18827227000170",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1967440,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7620144,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-10-03T00:00:00",
+      "numDocumento": "451",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7620144.pdf",
+      "nomeFornecedor": "S NAFES M DA SILVA JUNIOR",
+      "cnpjCpfFornecedor": "18827227000170",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1975048,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 10,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7639876,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-11-07T00:00:00",
+      "numDocumento": "458",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7639876.pdf",
+      "nomeFornecedor": "S NAFES M DA SILVA JUNIOR",
+      "cnpjCpfFornecedor": "18827227000170",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1985786,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

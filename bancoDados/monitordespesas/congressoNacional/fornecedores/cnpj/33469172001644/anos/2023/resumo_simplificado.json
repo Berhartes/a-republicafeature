@@ -1,0 +1,54 @@
+{
+  "fornecedor": {
+    "nome": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+    "cnpj": "33469172001644",
+    "total_recebido": 663.8700000000001,
+    "numero_transacoes": 9,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 311.74,
+  "quantidade_transacoes": 5,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 311.74,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 311.74,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 176.05,
+      "porcentagem_do_total": 56.47
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 84.27,
+      "porcentagem_do_total": 27.03
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 39.33,
+      "porcentagem_do_total": 12.62
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 12.09,
+      "porcentagem_do_total": 3.88
+    }
+  ]
+}

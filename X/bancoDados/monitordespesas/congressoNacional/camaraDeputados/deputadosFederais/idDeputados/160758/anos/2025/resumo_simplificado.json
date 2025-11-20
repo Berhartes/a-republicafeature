@@ -1,0 +1,96 @@
+{
+  "deputado": {
+    "id": 160758,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160758",
+    "nome": "Domingos Sávio",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160758.jpg",
+    "email": "dep.domingossavio@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 8381.07,
+  "quantidade_transacoes": 34,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 8381.07,
+      "quantidade_transacoes": 34,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CEMIG DISTRIBUIÇÃO S.A.",
+      "cnpj": "06981180000116",
+      "total": 4781.07,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 57.05
+    },
+    {
+      "nome": "APA  INFORMÁTICA E TELECOMUNICAÇÕES LTDA-PRODATEL",
+      "cnpj": "18268318000113",
+      "total": 3600.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 42.95
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 836.68,
+      "porcentagem_do_total": 9.98
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 1098.51,
+      "porcentagem_do_total": 13.11
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 1124.46,
+      "porcentagem_do_total": 13.42
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 1148.36,
+      "porcentagem_do_total": 13.7
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 723.33,
+      "porcentagem_do_total": 8.63
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 869.31,
+      "porcentagem_do_total": 10.37
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 712.23,
+      "porcentagem_do_total": 8.5
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 824.85,
+      "porcentagem_do_total": 9.84
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 1043.34,
+      "porcentagem_do_total": 12.45
+    }
+  ]
+}

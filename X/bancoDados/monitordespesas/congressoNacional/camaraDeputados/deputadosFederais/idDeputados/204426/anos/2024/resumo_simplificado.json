@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 204426,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204426",
+    "nome": "Carlos Veras",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "PE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
+    "email": "dep.carlosveras@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 160344.75,
+  "quantidade_transacoes": 298,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 115235.98,
+      "quantidade_transacoes": 125,
+      "porcentagem_do_total": 71.87
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 45108.77,
+      "quantidade_transacoes": 173,
+      "porcentagem_do_total": 28.13
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "IMOBILIÁRIA PROLAR LTDA",
+      "cnpj": "08894693000115",
+      "total": 46280.34,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 28.86
+    },
+    {
+      "nome": "E ELIAS G DA SILVA",
+      "cnpj": "16607018000196",
+      "total": 18000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 11.23
+    },
+    {
+      "nome": "Google LLC",
+      "cnpj": "00000000000010",
+      "total": 15313.13,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 9.55
+    },
+    {
+      "nome": "CONDOMÍNIO EMPRESARIAL ENGENHEIRO JOSÉ CAMILO BRITO",
+      "cnpj": "26379565000115",
+      "total": 10831.44,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 6.76
+    },
+    {
+      "nome": "PREFEITURA DA CIDADE DO RECIFE",
+      "cnpj": "10565000000192",
+      "total": 7015.16,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 4.38
+    },
+    {
+      "nome": "JAD ARAUJO CIA LTDA - POSTO CRUZEIRO IV",
+      "cnpj": "08072308000316",
+      "total": 6137.92,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 3.83
+    },
+    {
+      "nome": "Companhia Energética de Pernambuco",
+      "cnpj": "10835932000108",
+      "total": 5929.63,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 3.7
+    },
+    {
+      "nome": "EDSON J SILVA MUNIZ",
+      "cnpj": "24254140000154",
+      "total": 4330.08,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 2.7
+    },
+    {
+      "nome": "M. A. SANTOS DA SILVA ME",
+      "cnpj": "14133290000237",
+      "total": 3850.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 2.4
+    },
+    {
+      "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597006308",
+      "total": 3749.22,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 2.34
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 11304.87,
+      "porcentagem_do_total": 7.05
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 13377.33,
+      "porcentagem_do_total": 8.34
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 14007.4,
+      "porcentagem_do_total": 8.74
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 13344.56,
+      "porcentagem_do_total": 8.32
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 13794.1,
+      "porcentagem_do_total": 8.6
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 16779.56,
+      "porcentagem_do_total": 10.46
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 13069.38,
+      "porcentagem_do_total": 8.15
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 14859.8,
+      "porcentagem_do_total": 9.27
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 12827.24,
+      "porcentagem_do_total": 8.0
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 10412.21,
+      "porcentagem_do_total": 6.49
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 12156.41,
+      "porcentagem_do_total": 7.58
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 14411.89,
+      "porcentagem_do_total": 8.99
+    }
+  ]
+}

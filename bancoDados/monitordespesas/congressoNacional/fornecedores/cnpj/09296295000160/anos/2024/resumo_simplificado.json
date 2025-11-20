@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "Cia Aérea - AZUL",
+    "cnpj": "09296295000160",
+    "total_recebido": 9188.150000000001,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 4459.77,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 4459.77,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - RPA",
+      "total": 4459.77,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 4459.77,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO DE COMBUSTIVEIS SAO PAULO LTDA",
+      "cnpj": "28811152000193",
+      "total_recebido": 400.02,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:19.793332"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 400.02
+  },
+  "anos": {
+    "2024": {
+      "total": 400.02,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204571": {
+      "deputado": {
+        "id": 204571,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
+        "nome": "Alex Santana",
+        "nomeEleitoral": "Alex Santana",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204571.jpg",
+        "email": "dep.alexsantana@camara.leg.br"
+      },
+      "total": 400.02,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7693722,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-28T00:00:00",
+          "numDocumento": "192138",
+          "valorDocumento": 400.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7693722",
+          "nomeFornecedor": "AUTO POSTO DE COMBUSTIVEIS SAO PAULO LTDA",
+          "cnpjCpfFornecedor": "28811152000193",
+          "valorLiquido": 400.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

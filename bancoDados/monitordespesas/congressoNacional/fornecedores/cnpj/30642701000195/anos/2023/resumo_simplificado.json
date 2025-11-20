@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO 302 SUL LTDA",
+    "cnpj": "30642701000195",
+    "total_recebido": 1420.2,
+    "numero_transacoes": 5,
+    "numero_deputados": 2
+  },
+  "ano": 2023,
+  "total_recebido": 275.86,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 275.86,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 275.86,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 275.86,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

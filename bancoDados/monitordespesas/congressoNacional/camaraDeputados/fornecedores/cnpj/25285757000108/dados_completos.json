@@ -3,76 +3,91 @@
     "fornecedor": {
       "nome": "POSTO BEQUIMAO LTDA",
       "cnpj": "25285757000108",
-      "total_recebido": 658.54,
-      "numero_transacoes": 2,
+      "total_recebido": 698.46,
+      "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:45.228350"
+    "generatedAt": "2025-11-11T05:22:43.469442"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 658.54
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 698.46
   },
   "anos": {
     "2024": {
-      "total": 393.52,
-      "transacoes": 1,
-      "deputados": 1
-    },
-    "2025": {
-      "total": 265.02,
-      "transacoes": 1,
+      "total": 698.46,
+      "transacoes": 3,
       "deputados": 1
     }
   },
   "deputados": {
-    "178881": {
+    "226708": {
       "deputado": {
-        "id": 178881,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178881",
-        "nome": "Aluisio Mendes",
-        "siglaPartido": "REPUBLICANOS",
+        "id": 226708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
+        "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
+        "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "MA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
-        "email": "dep.aluisiomendes@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226708.jpg",
+        "email": "dep.allangarces@camara.leg.br"
       },
-      "total": 658.54,
-      "transacoes": 2,
+      "total": 698.46,
+      "transacoes": 3,
       "despesas": [
         {
           "ano": 2024,
-          "mes": 7,
+          "mes": 1,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7784153,
+          "codDocumento": 7671059,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-07-25T20:41:10",
-          "numDocumento": "48622",
-          "valorDocumento": 393.52,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7784153",
+          "dataDocumento": "2024-01-06T00:00:00",
+          "numDocumento": "476",
+          "valorDocumento": 199.39,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7671059",
           "nomeFornecedor": "POSTO BEQUIMAO LTDA",
           "cnpjCpfFornecedor": "25285757000108",
-          "valorLiquido": 393.52,
+          "valorLiquido": 199.39,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
           "parcela": 0
         },
         {
-          "ano": 2025,
-          "mes": 9,
+          "ano": 2024,
+          "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7985759,
+          "codDocumento": 7778904,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-09-03T11:31:47",
-          "numDocumento": "59310",
-          "valorDocumento": 265.02,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7985759",
+          "dataDocumento": "2024-08-02T12:37:10",
+          "numDocumento": "21131",
+          "valorDocumento": 406.89,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7778904",
           "nomeFornecedor": "POSTO BEQUIMAO LTDA",
           "cnpjCpfFornecedor": "25285757000108",
-          "valorLiquido": 265.02,
+          "valorLiquido": 406.89,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7790955,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-23T13:12:08",
+          "numDocumento": "23372",
+          "valorDocumento": 92.18,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7790955",
+          "nomeFornecedor": "POSTO BEQUIMAO LTDA",
+          "cnpjCpfFornecedor": "25285757000108",
+          "valorLiquido": 92.18,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

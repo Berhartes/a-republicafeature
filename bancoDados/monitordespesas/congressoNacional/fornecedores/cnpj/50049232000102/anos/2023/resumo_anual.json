@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "E C MENEZES",
+      "cnpj": "50049232000102",
+      "total_recebido": 41000.0,
+      "numero_transacoes": 17,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 3000.0,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-12-01T00:00:00",
+    "periodo_fim": "2023-12-01T00:00:00",
+    "generatedAt": "2025-11-11T21:37:58.162008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 3000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 3000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 3000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7659776,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-12-01T00:00:00",
+      "numDocumento": "1",
+      "valorDocumento": 3000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7659776.pdf",
+      "nomeFornecedor": "E C MENEZES",
+      "cnpjCpfFornecedor": "50049232000102",
+      "valorLiquido": 3000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1997390,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-12T00:38:36Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "1.0.0",
+    "legislatura": 57,
+    "cnpj": "09060964010839"
+  },
+  "data": {
+    "cnpj": "09060964010839",
+    "nome": "PIMENTA VERDE ALIMENTOS LTDA",
+    "nomeFornecedor": "PIMENTA VERDE ALIMENTOS LTDA",
+    "totalTransacionado": 63.31,
+    "totalRecebido": 63.31,
+    "totalRecebidoTodos": 63.31,
+    "transacoes": 1,
+    "numeroTransacoes": 1,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [],
+    "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+    "categoriaOriginal": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+    "categorias": [
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+    ],
+    "categoriasOriginais": [
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+    ],
+    "categoriasInfo": {
+      "principal": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "normalizadas": [
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+      ],
+      "principalOriginal": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "originais": [
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+      ]
+    },
+    "distribuicaoTipos": {
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": {
+        "valor": 63.31,
+        "quantidade": 1
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": {
+        "valor": 63.31,
+        "quantidade": 1
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 63.31,
+        "transacoes": 1,
+        "deputados": 1
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

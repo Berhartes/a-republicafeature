@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "AMAZON COMBUSTIVEIS PARA VEICULOS E CONSTRUCOES LTDA",
+    "cnpj": "10988014001433",
+    "total_recebido": 2224.7,
+    "numero_transacoes": 10,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 464.1,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 464.1,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 464.1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 200.0,
+      "porcentagem_do_total": 43.09
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 264.1,
+      "porcentagem_do_total": 56.91
+    }
+  ]
+}

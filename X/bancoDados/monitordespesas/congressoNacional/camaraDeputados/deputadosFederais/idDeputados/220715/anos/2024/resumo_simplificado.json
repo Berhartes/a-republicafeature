@@ -1,0 +1,108 @@
+{
+  "deputado": {
+    "id": 220715,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220715",
+    "nome": "Amom Mandel",
+    "siglaPartido": "CIDADANIA",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+    "siglaUf": "AM",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
+    "email": "dep.amommandel@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 24844.83,
+  "quantidade_transacoes": 67,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 24844.83,
+      "quantidade_transacoes": 67,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 16921.97,
+      "quantidade_transacoes": 46,
+      "porcentagem_do_total": 68.11
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 7922.86,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 31.89
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 1981.06,
+      "porcentagem_do_total": 7.97
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 5948.71,
+      "porcentagem_do_total": 23.94
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 3928.9,
+      "porcentagem_do_total": 15.81
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 1957.21,
+      "porcentagem_do_total": 7.88
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": -11233.68,
+      "porcentagem_do_total": -45.22
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 1600.07,
+      "porcentagem_do_total": 6.44
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 6897.82,
+      "porcentagem_do_total": 27.76
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 1565.07,
+      "porcentagem_do_total": 6.3
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 3889.9,
+      "porcentagem_do_total": 15.66
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 1490.07,
+      "porcentagem_do_total": 6.0
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 6819.7,
+      "porcentagem_do_total": 27.45
+    }
+  ]
+}

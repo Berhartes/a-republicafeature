@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T17:45:22Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "deputados.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "deputadoId": "204426"
+  },
+  "data": {
+    "id": "204426",
+    "nome": "Carlos Veras",
+    "nomeEleitoral": "Carlos Veras",
+    "nomeCivil": null,
+    "partido": "PT",
+    "siglaPartido": "PT",
+    "uf": "PE",
+    "siglaUf": "PE",
+    "urlFoto": null,
+    "totalDespesas": 775538.48,
+    "numeroDespesas": 1200,
+    "fornecedoresIdentificados": 176,
+    "createdAt": "2025-11-01T17:45:19Z",
+    "gastosPorAno": {},
+    "transacoesPorAno": {},
+    "topCategorias": [],
+    "topFornecedores": [],
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "temDetalhes": false
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "fornecedor": {
+    "nome": "BRASIL ONE SERVICOS DE TECNOLOGIA DA INFORMACAO LTDA DEXATEC",
+    "cnpj": "18804888000180",
+    "total_recebido": 8100.0,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 8100.0,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 8100.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 5000.0,
+      "porcentagem_do_total": 61.73
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 3100.0,
+      "porcentagem_do_total": 38.27
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 1500.0,
+      "porcentagem_do_total": 18.52
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 1600.0,
+      "porcentagem_do_total": 19.75
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 2500.0,
+      "porcentagem_do_total": 30.86
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 2500.0,
+      "porcentagem_do_total": 30.86
+    }
+  ]
+}

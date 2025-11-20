@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 160665,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160665",
+    "nome": "Augusto Coutinho",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "PE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
+    "email": "dep.augustocoutinho@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 545789.76,
+  "quantidade_transacoes": 547,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 226211.09,
+      "quantidade_transacoes": 178,
+      "porcentagem_do_total": 41.45
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 142654.0,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 26.14
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 81629.91,
+      "quantidade_transacoes": 85,
+      "porcentagem_do_total": 14.96
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 38168.64,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 6.99
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 35221.88,
+      "quantidade_transacoes": 173,
+      "porcentagem_do_total": 6.45
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "DEIVY JAROSLAVSKY RUSHANSKY",
+      "cnpj": "52115470478",
+      "total": 84087.36,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 15.41
+    },
+    {
+      "nome": "BCC LOCAÇÕES DE VEÍCULOS LTDA",
+      "cnpj": "48998662000129",
+      "total": 74340.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 13.62
+    },
+    {
+      "nome": "Nunes Serviços LTDA",
+      "cnpj": "30248426000120",
+      "total": 53100.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 9.73
+    },
+    {
+      "nome": "RUPLAST INDUSTRIA E COMERCIO LTDA",
+      "cnpj": "05559838000133",
+      "total": 49062.6,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 8.99
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 41016.97,
+      "quantidade_transacoes": 37,
+      "porcentagem_do_total": 7.52
+    },
+    {
+      "nome": "KTEDRAL PRODUTORA AUDIOVISUAL E EVENTOS LTDA",
+      "cnpj": "12490240000109",
+      "total": 24800.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.54
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 24688.34,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 4.52
+    },
+    {
+      "nome": "Companhia Energética de Pernambuco",
+      "cnpj": "10835932000108",
+      "total": 24191.16,
+      "quantidade_transacoes": 36,
+      "porcentagem_do_total": 4.43
+    },
+    {
+      "nome": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE",
+      "cnpj": "20755190000164",
+      "total": 23808.08,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 4.36
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 15924.6,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 2.92
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 38696.87,
+      "porcentagem_do_total": 7.09
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 38003.76,
+      "porcentagem_do_total": 6.96
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 50071.43,
+      "porcentagem_do_total": 9.17
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 48554.35,
+      "porcentagem_do_total": 8.9
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 43315.51,
+      "porcentagem_do_total": 7.94
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 42241.68,
+      "porcentagem_do_total": 7.74
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 42394.07,
+      "porcentagem_do_total": 7.77
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 36943.5,
+      "porcentagem_do_total": 6.77
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 44555.3,
+      "porcentagem_do_total": 8.16
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 52842.77,
+      "porcentagem_do_total": 9.68
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 48136.29,
+      "porcentagem_do_total": 8.82
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 60034.23,
+      "porcentagem_do_total": 11.0
+    }
+  ]
+}

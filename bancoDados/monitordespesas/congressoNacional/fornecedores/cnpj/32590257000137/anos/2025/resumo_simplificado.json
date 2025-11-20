@@ -1,0 +1,61 @@
+{
+  "fornecedor": {
+    "nome": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+    "cnpj": "32590257000137",
+    "total_recebido": 1705.2600000000002,
+    "numero_transacoes": 12,
+    "numero_deputados": 4
+  },
+  "ano": 2025,
+  "total_recebido": 671.4,
+  "quantidade_transacoes": 5,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 400.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 59.58
+    },
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 271.4,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 40.42
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 671.4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 371.4,
+      "porcentagem_do_total": 55.32
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 100.0,
+      "porcentagem_do_total": 14.89
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 100.0,
+      "porcentagem_do_total": 14.89
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 100.0,
+      "porcentagem_do_total": 14.89
+    }
+  ]
+}

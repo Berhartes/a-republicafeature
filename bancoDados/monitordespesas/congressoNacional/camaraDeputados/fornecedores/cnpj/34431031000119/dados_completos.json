@@ -3,14 +3,14 @@
     "fornecedor": {
       "nome": "J MARTINS DERIVADOS DE PETROLEO LTDA",
       "cnpj": "34431031000119",
-      "total_recebido": 1334.6699999999998,
+      "total_recebido": 1334.67,
       "numero_transacoes": 5,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:54.576228"
+    "generatedAt": "2025-11-11T05:22:30.086763"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 1334.6699999999998
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1334.67
   },
   "anos": {
     "2023": {
@@ -35,6 +35,7 @@
         "id": 204571,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
         "nome": "Alex Santana",
+        "nomeEleitoral": "Alex Santana",
         "siglaPartido": "REPUBLICANOS",
         "uriPartido": "",
         "siglaUf": "BA",
@@ -42,7 +43,7 @@
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204571.jpg",
         "email": "dep.alexsantana@camara.leg.br"
       },
-      "total": 1334.6699999999998,
+      "total": 1334.67,
       "transacoes": 5,
       "despesas": [
         {
@@ -85,18 +86,18 @@
         },
         {
           "ano": 2025,
-          "mes": 9,
+          "mes": 6,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7991330,
+          "codDocumento": 7949052,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-09-20T00:00:00",
-          "numDocumento": "2018780",
-          "valorDocumento": 310.84,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7991330",
+          "dataDocumento": "2025-06-20T00:00:00",
+          "numDocumento": "1969225",
+          "valorDocumento": 187.08,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7949052",
           "nomeFornecedor": "J MARTINS DERIVADOS DE PETROLEO LTDA",
           "cnpjCpfFornecedor": "34431031000119",
-          "valorLiquido": 310.84,
+          "valorLiquido": 187.08,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -123,18 +124,18 @@
         },
         {
           "ano": 2025,
-          "mes": 6,
+          "mes": 9,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7949052,
+          "codDocumento": 7991330,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-06-20T00:00:00",
-          "numDocumento": "1969225",
-          "valorDocumento": 187.08,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7949052",
+          "dataDocumento": "2025-09-20T00:00:00",
+          "numDocumento": "2018780",
+          "valorDocumento": 310.84,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7991330",
           "nomeFornecedor": "J MARTINS DERIVADOS DE PETROLEO LTDA",
           "cnpjCpfFornecedor": "34431031000119",
-          "valorLiquido": 187.08,
+          "valorLiquido": 310.84,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

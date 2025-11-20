@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220657,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220657",
+    "nome": "André Fernandes",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "CE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220657.jpg",
+    "email": "dep.andrefernandes@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 126198.69,
+  "quantidade_transacoes": 153,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 106626.86,
+      "quantidade_transacoes": 127,
+      "porcentagem_do_total": 84.49
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 10059.64,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 7.97
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 4722.19,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 3.74
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 2700.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.14
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 2090.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.66
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 101334.73,
+      "quantidade_transacoes": 123,
+      "porcentagem_do_total": 80.3
+    },
+    {
+      "nome": "BROAD BRASIL LTDA",
+      "cnpj": "48949641000113",
+      "total": 8400.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 6.66
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 5292.13,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 4.19
+    },
+    {
+      "nome": "BR Soluções Técnicas e Administrativas Ltda",
+      "cnpj": "49311629000141",
+      "total": 2700.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.14
+    },
+    {
+      "nome": "DALETH VEICULOS LTDA EPP",
+      "cnpj": "04515963000189",
+      "total": 2090.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.66
+    },
+    {
+      "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597006308",
+      "total": 1119.99,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0.89
+    },
+    {
+      "nome": "AUTO POSTO AEROPORTO LTDA",
+      "cnpj": "08202116000115",
+      "total": 1117.08,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.89
+    },
+    {
+      "nome": "BROAD BRASIL LTDA.",
+      "cnpj": "48949641000113",
+      "total": 1050.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.83
+    },
+    {
+      "nome": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "37063328001309",
+      "total": 639.98,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.51
+    },
+    {
+      "nome": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP",
+      "cnpj": "00914456000167",
+      "total": 609.64,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.48
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 5292.13,
+      "porcentagem_do_total": 4.19
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 40415.31,
+      "porcentagem_do_total": 32.03
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 30241.76,
+      "porcentagem_do_total": 23.96
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 886.61,
+      "porcentagem_do_total": 0.7
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 15728.52,
+      "porcentagem_do_total": 12.46
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 4606.58,
+      "porcentagem_do_total": 3.65
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 21935.6,
+      "porcentagem_do_total": 17.38
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 1458.15,
+      "porcentagem_do_total": 1.16
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 3840.0,
+      "porcentagem_do_total": 3.04
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 1794.03,
+      "porcentagem_do_total": 1.42
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "PAPAI AUTO POSTO CUIABA LTDA",
+    "cnpj": "07687116000190",
+    "total_recebido": 2682.6699999999996,
+    "numero_transacoes": 16,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 335.32,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 335.32,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 335.32,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 148.72,
+      "porcentagem_do_total": 44.35
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 186.6,
+      "porcentagem_do_total": 55.65
+    }
+  ]
+}

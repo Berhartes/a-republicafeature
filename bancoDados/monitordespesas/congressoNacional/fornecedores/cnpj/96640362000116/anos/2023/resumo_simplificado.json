@@ -1,0 +1,96 @@
+{
+  "fornecedor": {
+    "nome": "auto posto bombonato ltda",
+    "cnpj": "96640362000116",
+    "total_recebido": 74340.12000000007,
+    "numero_transacoes": 360,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 20775.87,
+  "quantidade_transacoes": 101,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 20775.87,
+      "quantidade_transacoes": 101,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 20775.87,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 777.64,
+      "porcentagem_do_total": 3.74
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 857.32,
+      "porcentagem_do_total": 4.13
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 1212.11,
+      "porcentagem_do_total": 5.83
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 1488.03,
+      "porcentagem_do_total": 7.16
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 1278.03,
+      "porcentagem_do_total": 6.15
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 1580.35,
+      "porcentagem_do_total": 7.61
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 2075.35,
+      "porcentagem_do_total": 9.99
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 1747.44,
+      "porcentagem_do_total": 8.41
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 3442.8,
+      "porcentagem_do_total": 16.57
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 2780.96,
+      "porcentagem_do_total": 13.39
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 3535.84,
+      "porcentagem_do_total": 17.02
+    }
+  ]
+}

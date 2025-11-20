@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "050 - QI 28 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597005085",
+      "total_recebido": 455.24,
+      "numero_transacoes": 2,
+      "numero_deputados": 2
+    },
+    "ano": 2025,
+    "total_recebido": 355.24,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-07-02T13:13:21",
+    "periodo_fim": "2025-07-02T13:13:21",
+    "generatedAt": "2025-11-11T21:37:59.539009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 355.24,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 355.24,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 355.24,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7946825,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-07-02T13:13:21",
+      "numDocumento": "1858602",
+      "valorDocumento": 355.24,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7946825",
+      "nomeFornecedor": "050 - QI 28 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpjCpfFornecedor": "00306597005085",
+      "valorLiquido": 355.24,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2153395,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

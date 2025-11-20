@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PORTELA AUTO POSTO LTDA",
+      "cnpj": "26588399000167",
+      "total_recebido": 3906.23,
+      "numero_transacoes": 10,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 3306.23,
+    "quantidade_transacoes": 6,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-01-27T00:00:00",
+    "periodo_fim": "2024-11-22T00:00:00",
+    "generatedAt": "2025-11-11T21:38:01.017008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 3306.23,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 3306.23,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 1700.0,
+      "porcentagem_do_total": 51.42
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 200.0,
+      "porcentagem_do_total": 6.05
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 178.52,
+      "porcentagem_do_total": 5.4
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 208.45,
+      "porcentagem_do_total": 6.3
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 319.26,
+      "porcentagem_do_total": 9.66
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 700.0,
+      "porcentagem_do_total": 21.17
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7726711,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-04-24T17:25:34",
+      "numDocumento": "14876",
+      "valorDocumento": 200.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7726711",
+      "nomeFornecedor": "PORTELA AUTO POSTO LTDA",
+      "cnpjCpfFornecedor": "26588399000167",
+      "valorLiquido": 200.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2034346,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2024,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7801129,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-09-10T13:07:05",
+      "numDocumento": "16981",
+      "valorDocumento": 319.26,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7801129",
+      "nomeFornecedor": "PORTELA AUTO POSTO LTDA",
+      "cnpjCpfFornecedor": "26588399000167",
+      "valorLiquido": 319.26,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2073022,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7762269,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-06-25T11:32:25",
+      "numDocumento": "2115",
+      "valorDocumento": 178.52,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7762269",
+      "nomeFornecedor": "PORTELA AUTO POSTO LTDA",
+      "cnpjCpfFornecedor": "26588399000167",
+      "valorLiquido": 178.52,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2053468,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7833807,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-11-22T00:00:00",
+      "numDocumento": "31055",
+      "valorDocumento": 700.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7833807",
+      "nomeFornecedor": "PORTELA AUTO POSTO LTDA",
+      "cnpjCpfFornecedor": "26588399000167",
+      "valorLiquido": 700.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2090906,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2024,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7780373,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-08-05T20:12:53",
+      "numDocumento": "9388",
+      "valorDocumento": 208.45,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7780373",
+      "nomeFornecedor": "PORTELA AUTO POSTO LTDA",
+      "cnpjCpfFornecedor": "26588399000167",
+      "valorLiquido": 208.45,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2062582,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2024,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7676596,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-01-27T00:00:00",
+      "numDocumento": "1457",
+      "valorDocumento": 1700.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7676596",
+      "nomeFornecedor": "PORTELA AUTO POSTO LTDA",
+      "cnpjCpfFornecedor": "26588399000167",
+      "valorLiquido": 1700.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2006811,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

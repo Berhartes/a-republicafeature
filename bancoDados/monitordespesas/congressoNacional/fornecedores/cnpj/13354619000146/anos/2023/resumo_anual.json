@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AGROLANA - AGRONEGOCIOS LTDA",
+      "cnpj": "13354619000146",
+      "total_recebido": 154433.34,
+      "numero_transacoes": 29,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 38500.0,
+    "quantidade_transacoes": 7,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-07-05T00:00:00",
+    "periodo_fim": "2024-01-01T00:00:00",
+    "generatedAt": "2025-11-11T21:38:02.192007"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 38500.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 38500.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 5500.0,
+      "porcentagem_do_total": 14.29
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 5500.0,
+      "porcentagem_do_total": 14.29
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 5500.0,
+      "porcentagem_do_total": 14.29
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 5500.0,
+      "porcentagem_do_total": 14.29
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 5500.0,
+      "porcentagem_do_total": 14.29
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 5500.0,
+      "porcentagem_do_total": 14.29
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 5500.0,
+      "porcentagem_do_total": 14.29
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7574427,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-07-05T00:00:00",
+      "numDocumento": "01",
+      "valorDocumento": 5500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7574427.pdf",
+      "nomeFornecedor": "AGROLANA - AGRONEGOCIOS LTDA",
+      "cnpjCpfFornecedor": "13354619000146",
+      "valorLiquido": 5500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1950659,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 7,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7582095,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-08-01T00:00:00",
+      "numDocumento": "02",
+      "valorDocumento": 5500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7582095.pdf",
+      "nomeFornecedor": "AGROLANA AGRONEGÓCIOS",
+      "cnpjCpfFornecedor": "13354619000146",
+      "valorLiquido": 5500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1954722,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 8,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7600721,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-09-01T00:00:00",
+      "numDocumento": "03",
+      "valorDocumento": 5500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7600721.pdf",
+      "nomeFornecedor": "AGROLANA AGRONEGÓCIOS",
+      "cnpjCpfFornecedor": "13354619000146",
+      "valorLiquido": 5500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1964134,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7619155,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-10-02T00:00:00",
+      "numDocumento": "04",
+      "valorDocumento": 5500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7619155.pdf",
+      "nomeFornecedor": "AGROLANA AGRONEGÓCIOS",
+      "cnpjCpfFornecedor": "13354619000146",
+      "valorLiquido": 5500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1974557,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 10,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7636255,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-11-01T00:00:00",
+      "numDocumento": "05",
+      "valorDocumento": 5500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7636255.pdf",
+      "nomeFornecedor": "AGROLANA AGRONEGÓCIOS",
+      "cnpjCpfFornecedor": "13354619000146",
+      "valorLiquido": 5500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1983695,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7652628,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-12-01T00:00:00",
+      "numDocumento": "06",
+      "valorDocumento": 5500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7652628.pdf",
+      "nomeFornecedor": "AGROLANA AGRONEGÓCIOS",
+      "cnpjCpfFornecedor": "13354619000146",
+      "valorLiquido": 5500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1992937,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7670214,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2024-01-01T00:00:00",
+      "numDocumento": "07",
+      "valorDocumento": 5500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7670214.pdf",
+      "nomeFornecedor": "AGROLANA AGRONEGÓCIOS",
+      "cnpjCpfFornecedor": "13354619000146",
+      "valorLiquido": 5500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2003085,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO BUGRENSE LTDA",
+    "cnpj": "32962458000118",
+    "total_recebido": 588.04,
+    "numero_transacoes": 3,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 376.02,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 376.02,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 376.02,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 277.84,
+      "porcentagem_do_total": 73.89
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 98.18,
+      "porcentagem_do_total": 26.11
+    }
+  ]
+}

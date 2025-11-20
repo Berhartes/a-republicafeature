@@ -1,0 +1,129 @@
+{
+  "deputado": {
+    "id": 224117,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/224117",
+    "nome": "Gabriel Mota",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "RR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/224117.jpg",
+    "email": "dep.gabrielmota@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 482892.76,
+  "quantidade_transacoes": 45,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 265500.0,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 54.98
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 198000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 41.0
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 19392.76,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 4.02
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CK INFO DESIGN E MIDIA SOCIAIS",
+      "cnpj": "36899824000192",
+      "total": 337500.0,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 69.89
+    },
+    {
+      "nome": "JESSYANE MATOS DE FREITAS",
+      "cnpj": "58676441000198",
+      "total": 84000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 17.4
+    },
+    {
+      "nome": "EZEQUIEL BEZERRA DA SILVA",
+      "cnpj": "41453072000171",
+      "total": 42000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 8.7
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 17213.87,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 3.56
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 2178.89,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.45
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 53086.56,
+      "porcentagem_do_total": 10.99
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 55265.45,
+      "porcentagem_do_total": 11.44
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 51610.0,
+      "porcentagem_do_total": 10.69
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 57142.57,
+      "porcentagem_do_total": 11.83
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 51500.0,
+      "porcentagem_do_total": 10.66
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 53616.65,
+      "porcentagem_do_total": 11.1
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 57671.53,
+      "porcentagem_do_total": 11.94
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 51500.0,
+      "porcentagem_do_total": 10.66
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 51500.0,
+      "porcentagem_do_total": 10.66
+    }
+  ]
+}

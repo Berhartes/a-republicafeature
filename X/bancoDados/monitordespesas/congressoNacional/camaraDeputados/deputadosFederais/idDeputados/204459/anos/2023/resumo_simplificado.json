@@ -1,0 +1,158 @@
+{
+  "deputado": {
+    "id": 204459,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204459",
+    "nome": "Daniela do Waguinho",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204459.jpg",
+    "email": "dep.danieladowaguinho@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 119250.73,
+  "quantidade_transacoes": 88,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 63539.96,
+      "quantidade_transacoes": 57,
+      "porcentagem_do_total": 53.28
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 28320.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 23.75
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 22386.1,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 18.77
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 3056.48,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 2.56
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - RPA",
+      "total": 1948.19,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.63
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 52479.01,
+      "quantidade_transacoes": 47,
+      "porcentagem_do_total": 44.01
+    },
+    {
+      "nome": "DALETH VEICULOS LTDA EPP",
+      "cnpj": "04515963000189",
+      "total": 28320.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 23.75
+    },
+    {
+      "nome": "CENIR AFONSO DE FARIA",
+      "cnpj": "56724721768",
+      "total": 21935.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 18.39
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 9554.94,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 8.01
+    },
+    {
+      "nome": "Cia Aérea - TAM",
+      "cnpj": "02012862000160",
+      "total": 1948.19,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.63
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 1506.01,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.26
+    },
+    {
+      "nome": "POSTO DA TORRE EIRELI EPP",
+      "cnpj": "04473193000159",
+      "total": 1174.9,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 0.99
+    },
+    {
+      "nome": "AUTO POSTO 302 SUL LTDA",
+      "cnpj": "30642701000195",
+      "total": 485.11,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.41
+    },
+    {
+      "nome": "PORT PAPELARIA INFORMATICA E UTILIDADES LTDA",
+      "cnpj": "23957236000540",
+      "total": 451.1,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.38
+    },
+    {
+      "nome": "AUTO POSTO CONCORDE LTDA",
+      "cnpj": "28868264000180",
+      "total": 361.79,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.3
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 1935.0,
+      "porcentagem_do_total": 1.62
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 8820.0,
+      "porcentagem_do_total": 7.4
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 28383.38,
+      "porcentagem_do_total": 23.8
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 29536.02,
+      "porcentagem_do_total": 24.77
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 26735.9,
+      "porcentagem_do_total": 22.42
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 23840.43,
+      "porcentagem_do_total": 19.99
+    }
+  ]
+}

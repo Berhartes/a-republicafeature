@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO ALVORADA LTDA",
+      "cnpj": "34967303000108",
+      "total_recebido": 530.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:04.753729"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 530.0
+  },
+  "anos": {
+    "2024": {
+      "total": 300.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 230.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220714": {
+      "deputado": {
+        "id": 220714,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220714",
+        "nome": "Adail Filho",
+        "nomeEleitoral": "Adail Filho",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "AM",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
+        "email": "dep.adailfilho@camara.leg.br"
+      },
+      "total": 530.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7786036,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-28T13:20:50",
+          "numDocumento": "307",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7786036",
+          "nomeFornecedor": "AUTO POSTO ALVORADA LTDA",
+          "cnpjCpfFornecedor": "34967303000108",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7887628,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-11T00:00:00",
+          "numDocumento": "30650",
+          "valorDocumento": 110.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7887628",
+          "nomeFornecedor": "AUTO POSTO ALVORADA LTDA",
+          "cnpjCpfFornecedor": "34967303000108",
+          "valorLiquido": 110.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7887634,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-09T00:00:00",
+          "numDocumento": "244205",
+          "valorDocumento": 120.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7887634",
+          "nomeFornecedor": "AUTO POSTO ALVORADA LTDA",
+          "cnpjCpfFornecedor": "34967303000108",
+          "valorLiquido": 120.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

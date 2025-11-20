@@ -7,7 +7,7 @@
       "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:46.692366"
+    "generatedAt": "2025-11-11T05:22:05.268139"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 992.3299999999999
@@ -30,6 +30,7 @@
         "id": 220593,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
         "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "MT",
@@ -40,6 +41,25 @@
       "total": 992.3299999999999,
       "transacoes": 4,
       "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7538402,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-20T00:00:00",
+          "numDocumento": "13182",
+          "valorDocumento": 226.28,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7538402",
+          "nomeFornecedor": "REDE DE POSTOS CONTI COMIGO LTDA",
+          "cnpjCpfFornecedor": "19495968000164",
+          "valorLiquido": 226.28,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
         {
           "ano": 2023,
           "mes": 6,
@@ -73,25 +93,6 @@
           "nomeFornecedor": "REDE DE POSTOS CONTI COMIGO LTDA",
           "cnpjCpfFornecedor": "19495968000164",
           "valorLiquido": 247.64,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 4,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7538402,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-04-20T00:00:00",
-          "numDocumento": "13182",
-          "valorDocumento": 226.28,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7538402",
-          "nomeFornecedor": "REDE DE POSTOS CONTI COMIGO LTDA",
-          "cnpjCpfFornecedor": "19495968000164",
-          "valorLiquido": 226.28,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -1,0 +1,93 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO AEROPORTO LTDA",
+    "cnpj": "08202116000115",
+    "total_recebido": 4183.88,
+    "numero_transacoes": 18,
+    "numero_deputados": 4
+  },
+  "ano": 2023,
+  "total_recebido": 1730.88,
+  "quantidade_transacoes": 8,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 560.04,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 32.36
+    },
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 515.27,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 29.77
+    },
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 350.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 20.22
+    },
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 305.57,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 17.65
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1730.88,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 305.57,
+      "porcentagem_do_total": 17.65
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 200.0,
+      "porcentagem_do_total": 11.55
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 260.04,
+      "porcentagem_do_total": 15.02
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 300.0,
+      "porcentagem_do_total": 17.33
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 262.54,
+      "porcentagem_do_total": 15.17
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 252.73,
+      "porcentagem_do_total": 14.6
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 150.0,
+      "porcentagem_do_total": 8.67
+    }
+  ]
+}

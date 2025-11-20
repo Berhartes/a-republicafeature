@@ -1,0 +1,41 @@
+{
+  "deputado": {
+    "id": 178884,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178884",
+    "nome": "Hildo Rocha",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178884.jpg",
+    "email": "dep.hildorocha@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 376.45,
+  "quantidade_transacoes": 1,
+  "principais_categorias": [
+    {
+      "categoria": "TELEFONIA",
+      "total": 376.45,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CELULAR FUNCIONAL",
+      "cnpj": "00000000000001",
+      "total": 376.45,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 376.45,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

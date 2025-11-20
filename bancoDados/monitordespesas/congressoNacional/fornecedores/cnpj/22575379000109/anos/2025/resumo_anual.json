@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GONTIJO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "22575379000109",
+      "total_recebido": 1210.58,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 450.0,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-03-15T16:28:38",
+    "periodo_fim": "2025-05-29T00:00:00",
+    "generatedAt": "2025-11-11T21:38:00.601009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 450.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 450.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 150.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 300.0,
+      "porcentagem_do_total": 66.67
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7883764,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-03-15T16:28:38",
+      "numDocumento": "2185",
+      "valorDocumento": 150.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7883764",
+      "nomeFornecedor": "GONTIJO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "22575379000109",
+      "valorLiquido": 150.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2119085,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7922199,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-05-29T00:00:00",
+      "numDocumento": "39852",
+      "valorDocumento": 300.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7922199",
+      "nomeFornecedor": "GONTIJO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "22575379000109",
+      "valorLiquido": 300.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2139349,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

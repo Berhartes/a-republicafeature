@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "LF BENEDITO LTDA",
+      "cnpj": "52130483000142",
+      "total_recebido": 11000.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:19.232412"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 11000.0
+  },
+  "anos": {
+    "2025": {
+      "total": 11000.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178972": {
+      "deputado": {
+        "id": 178972,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+        "nome": "Alex Manente",
+        "nomeEleitoral": "Alex Manente",
+        "siglaPartido": "CIDADANIA",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+        "email": "dep.alexmanente@camara.leg.br"
+      },
+      "total": 11000.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7889647,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-24T00:00:00",
+          "numDocumento": "00000006",
+          "valorDocumento": 5000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3011/2025/7889647.pdf",
+          "nomeFornecedor": "LF BENEDITO LTDA",
+          "cnpjCpfFornecedor": "52130483000142",
+          "valorLiquido": 5000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7907180,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-22T00:00:00",
+          "numDocumento": "00000007",
+          "valorDocumento": 6000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3011/2025/7907180.pdf",
+          "nomeFornecedor": "LF BENEDITO LTDA",
+          "cnpjCpfFornecedor": "52130483000142",
+          "valorLiquido": 6000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

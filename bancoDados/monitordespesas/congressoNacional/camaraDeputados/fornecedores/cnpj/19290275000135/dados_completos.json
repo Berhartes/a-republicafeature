@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:02.347792"
+    "generatedAt": "2025-11-11T05:22:34.167678"
   },
   "categorias": {
     "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 450.0
@@ -25,6 +25,7 @@
         "id": 220542,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
         "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
         "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "TO",
@@ -35,25 +36,6 @@
       "total": 450.0,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 11,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7645721,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-11-20T00:00:00",
-          "numDocumento": "05276",
-          "valorDocumento": 230.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3584/2023/7645721.pdf",
-          "nomeFornecedor": "Matsuse Empreendimentos Hoteleiros LTDA",
-          "cnpjCpfFornecedor": "19290275000135",
-          "valorLiquido": 230.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 8,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "Matsuse Empreendimentos Hoteleiros LTDA",
           "cnpjCpfFornecedor": "19290275000135",
           "valorLiquido": 220.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7645721,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-20T00:00:00",
+          "numDocumento": "05276",
+          "valorDocumento": 230.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3584/2023/7645721.pdf",
+          "nomeFornecedor": "Matsuse Empreendimentos Hoteleiros LTDA",
+          "cnpjCpfFornecedor": "19290275000135",
+          "valorLiquido": 230.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

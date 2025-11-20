@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO AEROPORTO DE RIBEIRAO PRETO LTDA",
+      "cnpj": "26751155000153",
+      "total_recebido": 769.9200000000001,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:05.748516"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 769.9200000000001
+  },
+  "anos": {
+    "2023": {
+      "total": 395.37,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 374.55,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 769.9200000000001,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7627834,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-11T00:00:00",
+          "numDocumento": "288468",
+          "valorDocumento": 97.33,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7627834.pdf",
+          "nomeFornecedor": "POSTO AEROPORTO DE RIBEIRAO PRETO LTDA",
+          "cnpjCpfFornecedor": "26751155000153",
+          "valorLiquido": 97.33,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7651155,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-23T00:00:00",
+          "numDocumento": "342622",
+          "valorDocumento": 298.04,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7651155.pdf",
+          "nomeFornecedor": "POSTO AEROPORTO DE RIBEIRAO PRETO LTDA",
+          "cnpjCpfFornecedor": "26751155000153",
+          "valorLiquido": 298.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7746179,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-28T00:00:00",
+          "numDocumento": "529032",
+          "valorDocumento": 246.55,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7746179.pdf",
+          "nomeFornecedor": "POSTO AEROPORTO DE RIBEIRAO PRETO LTDA",
+          "cnpjCpfFornecedor": "26751155000153",
+          "valorLiquido": 246.55,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7832294,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-13T00:00:00",
+          "numDocumento": "729857",
+          "valorDocumento": 128.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7832294.pdf",
+          "nomeFornecedor": "POSTO AEROPORTO DE RIBEIRAO PRETO LTDA",
+          "cnpjCpfFornecedor": "26751155000153",
+          "valorLiquido": 128.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

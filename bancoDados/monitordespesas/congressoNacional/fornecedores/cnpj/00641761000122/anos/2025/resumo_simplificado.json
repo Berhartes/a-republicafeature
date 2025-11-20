@@ -1,0 +1,78 @@
+{
+  "fornecedor": {
+    "nome": "POSTO SAO ROQUE LTDA",
+    "cnpj": "00641761000122",
+    "total_recebido": 7554.520000000001,
+    "numero_transacoes": 27,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 4834.79,
+  "quantidade_transacoes": 16,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 4834.79,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 4834.79,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 910.18,
+      "porcentagem_do_total": 18.83
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 645.1,
+      "porcentagem_do_total": 13.34
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 965.14,
+      "porcentagem_do_total": 19.96
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 490.01,
+      "porcentagem_do_total": 10.14
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 320.04,
+      "porcentagem_do_total": 6.62
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 664.25,
+      "porcentagem_do_total": 13.74
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 530.03,
+      "porcentagem_do_total": 10.96
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 310.04,
+      "porcentagem_do_total": 6.41
+    }
+  ]
+}

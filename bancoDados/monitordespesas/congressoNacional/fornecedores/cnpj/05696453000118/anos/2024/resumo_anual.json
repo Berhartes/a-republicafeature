@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "EL ELION COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "05696453000118",
+      "total_recebido": 602.4300000000001,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 602.43,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-10-04T11:45:06",
+    "periodo_fim": "2024-12-18T22:11:19",
+    "generatedAt": "2025-11-11T21:37:56.372480"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 602.43,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 602.43,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 185.25,
+      "porcentagem_do_total": 30.75
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 195.09,
+      "porcentagem_do_total": 32.38
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 222.09,
+      "porcentagem_do_total": 36.87
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7812006,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-10-04T11:45:06",
+      "numDocumento": "21930",
+      "valorDocumento": 185.25,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7812006",
+      "nomeFornecedor": "EL ELION COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "05696453000118",
+      "valorLiquido": 185.25,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2079300,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7835258,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-11-26T00:00:00",
+      "numDocumento": "22474",
+      "valorDocumento": 195.09,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7835258",
+      "nomeFornecedor": "EL ELION COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "05696453000118",
+      "valorLiquido": 195.09,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2091605,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7849591,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-12-18T22:11:19",
+      "numDocumento": "22702",
+      "valorDocumento": 222.09,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7849591",
+      "nomeFornecedor": "EL ELION COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "05696453000118",
+      "valorLiquido": 222.09,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2099370,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

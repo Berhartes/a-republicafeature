@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "COMERCIO DE COMBUSTIVEIS ITALIA LTDA",
+    "cnpj": "53690958000118",
+    "total_recebido": 216.43,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 216.43,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 216.43,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 216.43,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 216.43,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

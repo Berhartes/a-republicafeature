@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 178882,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178882",
+      "nome": "André Fufuca",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+      "siglaUf": "MA",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178882.jpg",
+      "email": null
+    },
+    "ano": 2024,
+    "total_despesas": -6056.39,
+    "quantidade_transacoes": 6,
+    "quantidade_categorias": 2,
+    "quantidade_fornecedores": 2,
+    "periodo_inicio": "2024-07-11T12:00:00",
+    "periodo_fim": "2024-12-03T00:00:00",
+    "generatedAt": "2025-11-10T22:19:37.449981"
+  },
+  "resumo_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 3043.97,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": -9100.36,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "resumo_fornecedores": [
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 3043.97,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": -9100.36,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": -9100.36,
+      "porcentagem_do_total": 0
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 3043.97,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "PASSAGEM AÉREA - REEMBOLSO",
+      "codDocumento": 7841105,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-12-03T00:00:00",
+      "numDocumento": "9572210373877",
+      "valorDocumento": 3043.97,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3079/2024/7841105.pdf",
+      "nomeFornecedor": "Latam Linhas Aéreas S.A",
+      "cnpjCpfFornecedor": "02012862000160",
+      "valorLiquido": 3043.97,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2094886,
+      "parcela": 0
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": 181978,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-07-15T12:00:00",
+      "numDocumento": "1272101593665",
+      "valorDocumento": -1582.81,
+      "urlDocumento": null,
+      "nomeFornecedor": "GOL",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -1582.81,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": 183213,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-07-11T12:00:00",
+      "numDocumento": "1272101913963",
+      "valorDocumento": -1898.49,
+      "urlDocumento": null,
+      "nomeFornecedor": "GOL",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -1898.49,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": 185709,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-07-16T12:00:00",
+      "numDocumento": "1272102326254",
+      "valorDocumento": -1808.25,
+      "urlDocumento": null,
+      "nomeFornecedor": "GOL",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -1808.25,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": 185822,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-07-16T12:00:00",
+      "numDocumento": "1272102340351",
+      "valorDocumento": -1898.54,
+      "urlDocumento": null,
+      "nomeFornecedor": "GOL",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -1898.54,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": 186671,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-07-18T12:00:00",
+      "numDocumento": "1272102621697",
+      "valorDocumento": -1912.27,
+      "urlDocumento": null,
+      "nomeFornecedor": "GOL",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -1912.27,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ]
+}

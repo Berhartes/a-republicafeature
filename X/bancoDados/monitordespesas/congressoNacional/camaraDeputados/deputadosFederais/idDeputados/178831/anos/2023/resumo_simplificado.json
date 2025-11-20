@@ -1,0 +1,41 @@
+{
+  "deputado": {
+    "id": 178831,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178831",
+    "nome": "ANDRÉ ABDON",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "AP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178831.jpg",
+    "email": "dep.andreabdon@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 44.09,
+  "quantidade_transacoes": 1,
+  "principais_categorias": [
+    {
+      "categoria": "TELEFONIA",
+      "total": 44.09,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CELULAR FUNCIONAL",
+      "cnpj": "00000000000001",
+      "total": 44.09,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 44.09,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

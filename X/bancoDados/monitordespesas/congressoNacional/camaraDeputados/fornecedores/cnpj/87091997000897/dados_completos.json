@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ABAST FARROUPILHA LTDA",
+      "cnpj": "87091997000897",
+      "total_recebido": 711.02,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:17.465261"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 711.02
+  },
+  "anos": {
+    "2023": {
+      "total": 711.02,
+      "transacoes": 5,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160559": {
+      "deputado": {
+        "id": 160559,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
+        "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
+        "email": "dep.alceumoreira@camara.leg.br"
+      },
+      "total": 711.02,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7496552,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-04T00:00:00",
+          "numDocumento": "12863",
+          "valorDocumento": 145.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7496552",
+          "nomeFornecedor": "ABAST FARROUPILHA LTDA",
+          "cnpjCpfFornecedor": "87091997000897",
+          "valorLiquido": 145.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7520512,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-13T00:00:00",
+          "numDocumento": "35177",
+          "valorDocumento": 165.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7520512",
+          "nomeFornecedor": "ABAST FARROUPILHA LTDA",
+          "cnpjCpfFornecedor": "87091997000897",
+          "valorLiquido": 165.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7520521,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-27T00:00:00",
+          "numDocumento": "45494",
+          "valorDocumento": 162.94,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7520521",
+          "nomeFornecedor": "ABAST FARROUPILHA LTDA",
+          "cnpjCpfFornecedor": "87091997000897",
+          "valorLiquido": 162.94,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7534167,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-05T00:00:00",
+          "numDocumento": "51302",
+          "valorDocumento": 108.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7534167",
+          "nomeFornecedor": "ABAST FARROUPILHA LTDA",
+          "cnpjCpfFornecedor": "87091997000897",
+          "valorLiquido": 108.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7560042,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-15T00:00:00",
+          "numDocumento": "57454",
+          "valorDocumento": 130.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7560042",
+          "nomeFornecedor": "ABAST FARROUPILHA LTDA",
+          "cnpjCpfFornecedor": "87091997000897",
+          "valorLiquido": 130.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

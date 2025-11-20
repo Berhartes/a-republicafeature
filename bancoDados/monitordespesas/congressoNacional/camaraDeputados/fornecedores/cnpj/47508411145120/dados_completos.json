@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:21.160942"
+    "generatedAt": "2025-11-11T05:22:38.609471"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 601.92
@@ -30,6 +30,7 @@
         "id": 220576,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220576",
         "nome": "Alfredo Gaspar",
+        "nomeEleitoral": "Alfredo Gaspar",
         "siglaPartido": "UNIÃO",
         "uriPartido": "",
         "siglaUf": "AL",
@@ -61,25 +62,6 @@
         },
         {
           "ano": 2024,
-          "mes": 8,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7791075,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-07-25T00:00:00",
-          "numDocumento": "414412",
-          "valorDocumento": 200.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7791075",
-          "nomeFornecedor": "CIA BRASILEIRA DE DISTRIBUICAO",
-          "cnpjCpfFornecedor": "47508411145120",
-          "valorLiquido": 200.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
           "mes": 6,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7768762,
@@ -92,6 +74,25 @@
           "nomeFornecedor": "CIA BRASILEIRA DE DISTRIBUICAO",
           "cnpjCpfFornecedor": "47508411145120",
           "valorLiquido": 241.92,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7791075,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-25T00:00:00",
+          "numDocumento": "414412",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7791075",
+          "nomeFornecedor": "CIA BRASILEIRA DE DISTRIBUICAO",
+          "cnpjCpfFornecedor": "47508411145120",
+          "valorLiquido": 200.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

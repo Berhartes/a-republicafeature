@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "runs": [
+    {
+      "run_id": "20251111T082020Z:13472",
+      "pipeline": "camara_deputados",
+      "started_at": "2025-11-11T08:20:20.917879Z",
+      "ended_at": "2025-11-11T08:22:46.997757Z",
+      "duration_seconds": 147.4245930000002,
+      "status": "success",
+      "parameters": {
+        "legislatura": 57,
+        "limit": 35,
+        "anos": [
+          2022,
+          2023,
+          2024,
+          2025
+        ],
+        "workers": 1,
+        "wait_ms": 150,
+        "incremental": false,
+        "force_year": null,
+        "pc": false,
+        "skip_contract_validation": false
+      },
+      "command": [
+        "C:\\Users\\Kast Berhartes\\projetos-web-berhartes\\a-republica\\packages\\etlpython\\.venv\\Scripts\\python.exe",
+        "C:\\Users\\Kast Berhartes\\projetos-web-berhartes\\a-republica\\packages\\etlpython\\src\\etlpython\\sources\\congresso_nacional\\camara_deputados\\cli.py",
+        "57",
+        "35",
+        "--ano-inicio",
+        "2022",
+        "--ano-fim",
+        "2025"
+      ],
+      "git": {
+        "commit": "c9bcf852c3d7bddbc0dba21c010897b4d53339be",
+        "branch": "frontend-page-cleanup",
+        "dirty": true
+      },
+      "stats": {
+        "total_legisladores": 31,
+        "total_fornecedores": 3148,
+        "total_despesas": 34065181.29,
+        "deputados_processados": 33,
+        "deputados_solicitados": 35,
+        "duration_seconds": 147.4245930000002
+      },
+      "artifacts": [
+        {
+          "path": "bancoDados\\monitordespesas\\manifest.json",
+          "size_bytes": 300,
+          "sha256": "c6541d239aa5296bdb9e1510b242915cac5c4417c9343df1441cc5390a26d005"
+        },
+        {
+          "path": "bancoDados\\monitordespesas\\congressoNacional\\camaraDeputados\\fornecedores.json",
+          "size_bytes": 2381672,
+          "sha256": "d2019dfcf1e6e17c6cbc088ab2eb1e87592487e934c71317e7df119629b65f3a"
+        },
+        {
+          "path": "bancoDados\\monitordespesas\\congressoNacional\\camaraDeputados\\deputados.json",
+          "size_bytes": 15172,
+          "sha256": "c40866596b751cb71c8ddb06acc1d549c0871a2a6e8d3f6f3b5d72108ee6c472"
+        },
+        {
+          "path": "bancoDados\\monitordespesas\\monitordespesas.db",
+          "size_bytes": 8155136,
+          "sha256": "5812880db40fd36e17995b93dccf0f7d2d78a278a52f21a1ed44771ae219acd1"
+        },
+        {
+          "path": "bancoDados\\monitordespesas\\congressoNacional\\camaraDeputados\\deputadosFederais\\deputados.json",
+          "size_bytes": 15172,
+          "sha256": "c40866596b751cb71c8ddb06acc1d549c0871a2a6e8d3f6f3b5d72108ee6c472"
+        },
+        {
+          "path": "bancoDados\\monitordespesas\\congressoNacional\\premiacoes-cache.json",
+          "size_bytes": 52667,
+          "sha256": "db5c124f09aff2f96e672cb2d66b1b3186996d275b6a0f5f2ee213f645d25c8f"
+        }
+      ],
+      "error": null
+    }
+  ]
+}

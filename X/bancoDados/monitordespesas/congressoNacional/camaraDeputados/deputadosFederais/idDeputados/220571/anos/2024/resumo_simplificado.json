@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 220571,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220571",
+    "nome": "Daniel Agrobom",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "GO",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220571.jpg",
+    "email": "dep.danielagrobom@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 200438.69,
+  "quantidade_transacoes": 182,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 90646.14,
+      "quantidade_transacoes": 36,
+      "porcentagem_do_total": 45.22
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 72312.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 36.08
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 36589.83,
+      "quantidade_transacoes": 133,
+      "porcentagem_do_total": 18.25
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 773.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.39
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 117.72,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.06
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Andrade Canguçu- Negócios Imobiliários ltda",
+      "cnpj": "26602795000100",
+      "total": 72000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 35.92
+    },
+    {
+      "nome": "ROBSON HENRIQUE FERREIRA DE MORAIS",
+      "cnpj": "54676123000176",
+      "total": 70000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 34.92
+    },
+    {
+      "nome": "A.R. DA SILVA & CIA LTDA",
+      "cnpj": "30720686000156",
+      "total": 14785.83,
+      "quantidade_transacoes": 57,
+      "porcentagem_do_total": 7.38
+    },
+    {
+      "nome": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+      "cnpj": "01543032000104",
+      "total": 7866.09,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 3.92
+    },
+    {
+      "nome": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpj": "08532429000131",
+      "total": 7360.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.67
+    },
+    {
+      "nome": "076 - MELHOR 10 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597007614",
+      "total": 4816.4,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 2.4
+    },
+    {
+      "nome": "MARCO ALEXANDRE PAIM",
+      "cnpj": "54199866000100",
+      "total": 2312.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.15
+    },
+    {
+      "nome": "AUTO POSTO JAMEL CECILIO LTDA",
+      "cnpj": "08420071000155",
+      "total": 1716.4,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 0.86
+    },
+    {
+      "nome": "SANEAGO",
+      "cnpj": "01616929000102",
+      "total": 1420.05,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.71
+    },
+    {
+      "nome": "071 - LAGO NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597007100",
+      "total": 1318.47,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0.66
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 6271.0,
+      "porcentagem_do_total": 3.13
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 10630.75,
+      "porcentagem_do_total": 5.3
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 12895.07,
+      "porcentagem_do_total": 6.43
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 19970.44,
+      "porcentagem_do_total": 9.96
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 20786.67,
+      "porcentagem_do_total": 10.37
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 22699.13,
+      "porcentagem_do_total": 11.32
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 11554.55,
+      "porcentagem_do_total": 5.76
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 20252.09,
+      "porcentagem_do_total": 10.1
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 22848.37,
+      "porcentagem_do_total": 11.4
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 22077.69,
+      "porcentagem_do_total": 11.01
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 15468.51,
+      "porcentagem_do_total": 7.72
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 14984.42,
+      "porcentagem_do_total": 7.48
+    }
+  ]
+}

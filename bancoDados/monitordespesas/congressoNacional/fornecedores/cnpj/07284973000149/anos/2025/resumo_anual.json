@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO TUCANO DE CORDEIROPOLIS LTDA",
+      "cnpj": "07284973000149",
+      "total_recebido": 206.69,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 206.69,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-02-14T00:00:00",
+    "periodo_fim": "2025-02-14T00:00:00",
+    "generatedAt": "2025-11-11T21:38:05.992011"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 206.69,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 206.69,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 206.69,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7873165,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-02-14T00:00:00",
+      "numDocumento": "145483",
+      "valorDocumento": 206.69,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7873165.pdf",
+      "nomeFornecedor": "AUTO POSTO TUCANO DE CORDEIROPOLIS LTDA",
+      "cnpjCpfFornecedor": "07284973000149",
+      "valorLiquido": 206.69,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2112672,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

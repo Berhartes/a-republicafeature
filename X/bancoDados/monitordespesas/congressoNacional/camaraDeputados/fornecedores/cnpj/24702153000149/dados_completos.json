@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SAIDA SUL POSTOS E SERVICOS LTDA",
+      "cnpj": "24702153000149",
+      "total_recebido": 806.01,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:02.797397"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 806.01
+  },
+  "anos": {
+    "2023": {
+      "total": 572.93,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 233.08,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 806.01,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7516009,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-14T00:00:00",
+          "numDocumento": "1297",
+          "valorDocumento": 430.95,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7516009",
+          "nomeFornecedor": "SAIDA SUL POSTOS E SERVICOS LTDA",
+          "cnpjCpfFornecedor": "24702153000149",
+          "valorLiquido": 430.95,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7516408,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-22T00:00:00",
+          "numDocumento": "1302",
+          "valorDocumento": 141.98,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7516408",
+          "nomeFornecedor": "SAIDA SUL POSTOS E SERVICOS LTDA",
+          "cnpjCpfFornecedor": "24702153000149",
+          "valorLiquido": 141.98,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7767003,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-08T00:00:00",
+          "numDocumento": "6558",
+          "valorDocumento": 233.08,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7767003",
+          "nomeFornecedor": "SAIDA SUL POSTOS E SERVICOS LTDA",
+          "cnpjCpfFornecedor": "24702153000149",
+          "valorLiquido": 233.08,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

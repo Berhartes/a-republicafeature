@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Roda Bem Combustiveis Posto Goyaz Ltda",
+      "cnpj": "37072411000100",
+      "total_recebido": 764.25,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:08.879747"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 764.25
+  },
+  "anos": {
+    "2024": {
+      "total": 309.19,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 455.06,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "121948": {
+      "deputado": {
+        "id": 121948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "GO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br"
+      },
+      "total": 764.25,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7747328,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-01T00:00:00",
+          "numDocumento": "1311",
+          "valorDocumento": 309.19,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7747328",
+          "nomeFornecedor": "Roda Bem Combustiveis Posto Goyaz Ltda",
+          "cnpjCpfFornecedor": "37072411000100",
+          "valorLiquido": 309.19,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7970296,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-22T00:00:00",
+          "numDocumento": "2288",
+          "valorDocumento": 255.06,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7970296",
+          "nomeFornecedor": "Roda Bem Combustiveis Posto Goyaz Ltda",
+          "cnpjCpfFornecedor": "37072411000100",
+          "valorLiquido": 255.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 8004392,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-23T00:00:00",
+          "numDocumento": "2372",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8004392",
+          "nomeFornecedor": "Roda Bem Combustiveis Posto Goyaz Ltda",
+          "cnpjCpfFornecedor": "37072411000100",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

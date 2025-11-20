@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 220689,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220689",
+    "nome": "Detinha",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220689.jpg",
+    "email": "dep.detinha@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 397182.5,
+  "quantidade_transacoes": 209,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 215000.0,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 54.13
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 102000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 25.68
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 57392.81,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 14.45
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 18319.69,
+      "quantidade_transacoes": 155,
+      "porcentagem_do_total": 4.61
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 4470.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.13
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "EVERSON CARLOS DO NASCIMENTO MOREIRA",
+      "cnpj": "37210133000100",
+      "total": 120000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 30.21
+    },
+    {
+      "nome": "ML LOCAÇÕES EIRELI",
+      "cnpj": "26055997000170",
+      "total": 102000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 25.68
+    },
+    {
+      "nome": "CCA COELHO DE SOUZA EIRELI",
+      "cnpj": "19088859000122",
+      "total": 95000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 23.92
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 23148.82,
+      "quantidade_transacoes": 143,
+      "porcentagem_do_total": 5.83
+    },
+    {
+      "nome": "POSTO JB COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+      "cnpj": "36486642000190",
+      "total": 17432.48,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 4.39
+    },
+    {
+      "nome": "I DAMASCENO DOS SANTOS LTDA",
+      "cnpj": "12612426000185",
+      "total": 14681.54,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 3.7
+    },
+    {
+      "nome": "A V TEIXEIRA LTDA",
+      "cnpj": "42927435000126",
+      "total": 14201.89,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.58
+    },
+    {
+      "nome": "POSTO BRASIL 1",
+      "cnpj": "22105176000140",
+      "total": 10676.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 2.69
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 4732.23,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.19
+    },
+    {
+      "nome": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpj": "08532429000131",
+      "total": 4470.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.13
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 42171.51,
+      "porcentagem_do_total": 10.62
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 44897.69,
+      "porcentagem_do_total": 11.3
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 30085.12,
+      "porcentagem_do_total": 7.57
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 39670.28,
+      "porcentagem_do_total": 9.99
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 41753.5,
+      "porcentagem_do_total": 10.51
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 46575.85,
+      "porcentagem_do_total": 11.73
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 47489.56,
+      "porcentagem_do_total": 11.96
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 53046.88,
+      "porcentagem_do_total": 13.36
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 51492.11,
+      "porcentagem_do_total": 12.96
+    }
+  ]
+}

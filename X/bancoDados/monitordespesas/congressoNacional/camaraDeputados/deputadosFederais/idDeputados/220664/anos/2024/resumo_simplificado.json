@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 220664,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220664",
+    "nome": "Guilherme Uchoa",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "PE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220664.jpg",
+    "email": "dep.guilhermeuchoa@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 557772.73,
+  "quantidade_transacoes": 305,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 370842.86,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 66.49
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 88391.16,
+      "quantidade_transacoes": 158,
+      "porcentagem_do_total": 15.85
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 69572.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 12.47
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 25006.14,
+      "quantidade_transacoes": 99,
+      "porcentagem_do_total": 4.48
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 3239.57,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 0.58
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "PEDRO HENRIQUE MENEZES BEZERRA - PMZ CREATIVE STUDIO DE MARKETING LTDA",
+      "cnpj": "34367537000106",
+      "total": 162000.0,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 29.04
+    },
+    {
+      "nome": "STAMPA DIGITAL & MIDIA EXTERIOR LTDA",
+      "cnpj": "19840709000204",
+      "total": 148500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 26.62
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 61829.67,
+      "quantidade_transacoes": 122,
+      "porcentagem_do_total": 11.09
+    },
+    {
+      "nome": "HPE AUTOMOTORES DO BRASIL LTDA",
+      "cnpj": "46054009000186",
+      "total": 55680.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 9.98
+    },
+    {
+      "nome": "IMPACTO COMUNICAÇÃO E MARKETING LTDA ME",
+      "cnpj": "41246950000188",
+      "total": 51000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 9.14
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 28858.04,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 5.17
+    },
+    {
+      "nome": "ANDRADE ENGENHARIA LOCAÇÕES E SERVIÇOS LTDA",
+      "cnpj": "24753698000184",
+      "total": 12600.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.26
+    },
+    {
+      "nome": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597003112",
+      "total": 8603.07,
+      "quantidade_transacoes": 35,
+      "porcentagem_do_total": 1.54
+    },
+    {
+      "nome": "PMZ CREATIVE STUDIO DE MARKETING LTDA",
+      "cnpj": "34367537000106",
+      "total": 6000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.08
+    },
+    {
+      "nome": "POSTO ENSEADA DO NORTE LTDA",
+      "cnpj": "00338804000103",
+      "total": 2538.21,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 0.46
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 33635.68,
+      "porcentagem_do_total": 6.03
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 26875.35,
+      "porcentagem_do_total": 4.82
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 24961.61,
+      "porcentagem_do_total": 4.48
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 23459.75,
+      "porcentagem_do_total": 4.21
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 25306.09,
+      "porcentagem_do_total": 4.54
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 26829.22,
+      "porcentagem_do_total": 4.81
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 27914.29,
+      "porcentagem_do_total": 5.0
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 23071.19,
+      "porcentagem_do_total": 4.14
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 29117.3,
+      "porcentagem_do_total": 5.22
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 42829.04,
+      "porcentagem_do_total": 7.68
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 31610.25,
+      "porcentagem_do_total": 5.67
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 242162.96,
+      "porcentagem_do_total": 43.42
+    }
+  ]
+}

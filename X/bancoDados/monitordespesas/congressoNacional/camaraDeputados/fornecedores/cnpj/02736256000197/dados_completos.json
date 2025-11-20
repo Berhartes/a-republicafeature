@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO GAVIAO DA ANHANGUERA LTDA",
+      "cnpj": "02736256000197",
+      "total_recebido": 127.78,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:24.648585"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 127.78
+  },
+  "anos": {
+    "2025": {
+      "total": 127.78,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221148": {
+      "deputado": {
+        "id": 221148,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221148",
+        "nome": "Alfredinho",
+        "nomeEleitoral": "Alfredinho",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221148.jpg",
+        "email": "dep.alfredinho@camara.leg.br"
+      },
+      "total": 127.78,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 8005841,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-29T00:00:00",
+          "numDocumento": "15768",
+          "valorDocumento": 127.78,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3505/2025/8005841.pdf",
+          "nomeFornecedor": "POSTO GAVIAO DA ANHANGUERA LTDA",
+          "cnpjCpfFornecedor": "02736256000197",
+          "valorLiquido": 127.78,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

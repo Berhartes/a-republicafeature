@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "TRIANGULO DO SOL AUTO-ESTRADAS S/A",
+    "cnpj": "02509186000134",
+    "total_recebido": 186.99999999999997,
+    "numero_transacoes": 13,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 187.0,
+  "quantidade_transacoes": 13,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 187.0,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 187.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 73.8,
+      "porcentagem_do_total": 39.47
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 113.2,
+      "porcentagem_do_total": 60.53
+    }
+  ]
+}

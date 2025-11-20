@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 191923,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/191923",
+    "nome": "Flávio Nogueira",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "PI",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/191923.jpg",
+    "email": "dep.flavionogueira@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 565472.86,
+  "quantidade_transacoes": 273,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 195246.8,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 34.53
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 139700.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 24.7
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 95700.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 16.92
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 68653.61,
+      "quantidade_transacoes": 45,
+      "porcentagem_do_total": 12.14
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 35822.27,
+      "quantidade_transacoes": 70,
+      "porcentagem_do_total": 6.33
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "BLITZ PRODUÇOES DE EVENTOS LTDA",
+      "cnpj": "15536222000109",
+      "total": 195246.8,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 34.53
+    },
+    {
+      "nome": "R/A GESTÃO EMPRESARIAL",
+      "cnpj": "08346201000157",
+      "total": 139700.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 24.7
+    },
+    {
+      "nome": "BRASAO VIGILANCIA E SEGURANCA LTDA",
+      "cnpj": "19923146000137",
+      "total": 95700.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 16.92
+    },
+    {
+      "nome": "REGINA LUCIA VALE RIBEIRO",
+      "cnpj": "20007612320",
+      "total": 55000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 9.73
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 24124.16,
+      "quantidade_transacoes": 56,
+      "porcentagem_do_total": 4.27
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 11698.11,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 2.07
+    },
+    {
+      "nome": "Companhia Energética do Piauí",
+      "cnpj": "06840748000189",
+      "total": 10783.55,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 1.91
+    },
+    {
+      "nome": "IGUATEMI DISTRIBUIDORA LTDA",
+      "cnpj": "03072068000255",
+      "total": 4655.29,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 0.82
+    },
+    {
+      "nome": "CLARO S.A.",
+      "cnpj": "40432544014288",
+      "total": 2952.29,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 0.52
+    },
+    {
+      "nome": "VIVO TELEFONIA BRASIL S/A",
+      "cnpj": "02558157000162",
+      "total": 1950.88,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0.34
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 50564.36,
+      "porcentagem_do_total": 8.94
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 55044.25,
+      "porcentagem_do_total": 9.73
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 52528.63,
+      "porcentagem_do_total": 9.29
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 57287.18,
+      "porcentagem_do_total": 10.13
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 52620.55,
+      "porcentagem_do_total": 9.31
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 48595.81,
+      "porcentagem_do_total": 8.59
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 50650.19,
+      "porcentagem_do_total": 8.96
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 49820.1,
+      "porcentagem_do_total": 8.81
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 48451.3,
+      "porcentagem_do_total": 8.57
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 51610.8,
+      "porcentagem_do_total": 9.13
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 47845.96,
+      "porcentagem_do_total": 8.46
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 453.73,
+      "porcentagem_do_total": 0.08
+    }
+  ]
+}

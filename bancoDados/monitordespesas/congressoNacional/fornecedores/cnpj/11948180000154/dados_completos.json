@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO NM 16 LTDA",
+      "cnpj": "11948180000154",
+      "total_recebido": 2568.47,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:06.126017"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 2568.47
+  },
+  "anos": {
+    "2023": {
+      "total": 688.86,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 1879.61,
+      "transacoes": 5,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204560": {
+      "deputado": {
+        "id": 204560,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204560",
+        "nome": "Adolfo Viana",
+        "siglaPartido": "PSDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
+        "email": "dep.adolfoviana@camara.leg.br"
+      },
+      "total": 2568.47,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7528446,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-04-06T00:00:00",
+          "numDocumento": "348176",
+          "valorDocumento": 339.99,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7528446",
+          "nomeFornecedor": "AUTO POSTO NM 16 LTDA",
+          "cnpjCpfFornecedor": "11948180000154",
+          "valorLiquido": 339.99,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1925248,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7668497,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-10-22T00:00:00",
+          "numDocumento": "358272",
+          "valorDocumento": 348.87,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7668497",
+          "nomeFornecedor": "AUTO POSTO NM 16 LTDA",
+          "cnpjCpfFornecedor": "11948180000154",
+          "valorLiquido": 348.87,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2002534,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7916965,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-04-21T00:00:00",
+          "numDocumento": "401180",
+          "valorDocumento": 415.49,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7916965",
+          "nomeFornecedor": "AUTO POSTO NM 16 LTDA",
+          "cnpjCpfFornecedor": "11948180000154",
+          "valorLiquido": 415.49,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2136754,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7950190,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-05-02T00:00:00",
+          "numDocumento": "403766",
+          "valorDocumento": 369.61,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7950190",
+          "nomeFornecedor": "AUTO POSTO NM 16 LTDA",
+          "cnpjCpfFornecedor": "11948180000154",
+          "valorLiquido": 369.61,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2155187,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7950176,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-05-19T00:00:00",
+          "numDocumento": "407947",
+          "valorDocumento": 385.7,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7950176",
+          "nomeFornecedor": "AUTO POSTO NM 16 LTDA",
+          "cnpjCpfFornecedor": "11948180000154",
+          "valorLiquido": 385.7,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2155187,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7939090,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-06-08T00:00:00",
+          "numDocumento": "412364",
+          "valorDocumento": 367.79,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7939090",
+          "nomeFornecedor": "AUTO POSTO NM 16 LTDA",
+          "cnpjCpfFornecedor": "11948180000154",
+          "valorLiquido": 367.79,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2149212,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7982751,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-08-09T11:32:58",
+          "numDocumento": "424463",
+          "valorDocumento": 341.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7982751",
+          "nomeFornecedor": "AUTO POSTO NM 16 LTDA",
+          "cnpjCpfFornecedor": "11948180000154",
+          "valorLiquido": 341.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2172694,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

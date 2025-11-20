@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 204518,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204518",
+    "nome": "Dr. Frederico",
+    "siglaPartido": "PRD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204518.jpg",
+    "email": "dep.dr.frederico@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 402418.16,
+  "quantidade_transacoes": 219,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 215470.0,
+      "quantidade_transacoes": 73,
+      "porcentagem_do_total": 53.54
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 94672.67,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 23.53
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 41758.46,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 10.38
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 21359.01,
+      "quantidade_transacoes": 40,
+      "porcentagem_do_total": 5.31
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 19811.19,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 4.92
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "A.M.Silva Comunicação",
+      "cnpj": "09414617000128",
+      "total": 100000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 24.85
+    },
+    {
+      "nome": "TARGET RENT A CAR LTDA",
+      "cnpj": "21652672000151",
+      "total": 65212.67,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 16.21
+    },
+    {
+      "nome": "AUTO POSTO CANADA LTDA EPP",
+      "cnpj": "02644577000161",
+      "total": 34413.82,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 8.55
+    },
+    {
+      "nome": "MATHEUS NEVES DE MEDEIROS",
+      "cnpj": "52531193000100",
+      "total": 33000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 8.2
+    },
+    {
+      "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
+      "cnpj": "19374791000148",
+      "total": 18600.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 4.62
+    },
+    {
+      "nome": "Antônio Pedro da Silva Melo",
+      "cnpj": "11978716672",
+      "total": 16824.96,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 4.18
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 15278.41,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 3.8
+    },
+    {
+      "nome": "Antônio Elber de Carvalho Silva -ME",
+      "cnpj": "07277331000112",
+      "total": 15000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 3.73
+    },
+    {
+      "nome": "Maria Clara Silva Ribeiro",
+      "cnpj": "54439413000104",
+      "total": 15000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 3.73
+    },
+    {
+      "nome": "Jornal Panorama Ltda - ME",
+      "cnpj": "08560398000122",
+      "total": 13500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 3.35
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 35692.89,
+      "porcentagem_do_total": 8.87
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 38203.74,
+      "porcentagem_do_total": 9.49
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 39393.47,
+      "porcentagem_do_total": 9.79
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 49312.13,
+      "porcentagem_do_total": 12.25
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 38960.02,
+      "porcentagem_do_total": 9.68
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 37054.13,
+      "porcentagem_do_total": 9.21
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 42897.57,
+      "porcentagem_do_total": 10.66
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 40522.73,
+      "porcentagem_do_total": 10.07
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 46827.99,
+      "porcentagem_do_total": 11.64
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 32750.03,
+      "porcentagem_do_total": 8.14
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 803.46,
+      "porcentagem_do_total": 0.2
+    }
+  ]
+}

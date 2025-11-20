@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "SUELMEI CAMPOS BARBOSA EIRELI  F2  IPIRANGA",
+    "cnpj": "08399617000214",
+    "total_recebido": 125.07,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 125.07,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 125.07,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 125.07,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 125.07,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO 303 NORTE LTDA",
+    "cnpj": "38194212000120",
+    "total_recebido": 73140.10999999996,
+    "numero_transacoes": 251,
+    "numero_deputados": 2
+  },
+  "ano": 2023,
+  "total_recebido": 14890.22,
+  "quantidade_transacoes": 53,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 10086.77,
+      "quantidade_transacoes": 36,
+      "porcentagem_do_total": 67.74
+    },
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 4803.45,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 32.26
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 14890.22,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 1119.74,
+      "porcentagem_do_total": 7.52
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 823.03,
+      "porcentagem_do_total": 5.53
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 588.43,
+      "porcentagem_do_total": 3.95
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 499.55,
+      "porcentagem_do_total": 3.35
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 530.05,
+      "porcentagem_do_total": 3.56
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 3229.15,
+      "porcentagem_do_total": 21.69
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 4293.34,
+      "porcentagem_do_total": 28.83
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 2581.62,
+      "porcentagem_do_total": 17.34
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 1225.31,
+      "porcentagem_do_total": 8.23
+    }
+  ]
+}

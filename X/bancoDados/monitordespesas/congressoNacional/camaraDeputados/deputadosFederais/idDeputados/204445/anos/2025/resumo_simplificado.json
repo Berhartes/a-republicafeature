@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 204445,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204445",
+    "nome": "Fernando Mineiro",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "RN",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204445.jpg",
+    "email": "dep.fernandomineiro@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 421101.14,
+  "quantidade_transacoes": 350,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 220542.07,
+      "quantidade_transacoes": 39,
+      "porcentagem_do_total": 52.37
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 60605.94,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 14.39
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 50469.11,
+      "quantidade_transacoes": 41,
+      "porcentagem_do_total": 11.99
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 42206.92,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 10.02
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 31417.97,
+      "quantidade_transacoes": 143,
+      "porcentagem_do_total": 7.46
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CENTER FILMES AUDIOVISUAL LTDA",
+      "cnpj": "08714391000118",
+      "total": 100000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 23.75
+    },
+    {
+      "nome": "LOCALIZA RENT A CAR S/A",
+      "cnpj": "16670085000317",
+      "total": 42206.92,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 10.02
+    },
+    {
+      "nome": "YASMIN ALVES FARIAS MAIA DE MEDEIROS",
+      "cnpj": "55176437000172",
+      "total": 39596.29,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 9.4
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 34436.71,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 8.18
+    },
+    {
+      "nome": "MANUELA NASCIMENTO FERNANDES DE QUEIROZ",
+      "cnpj": "91563437449",
+      "total": 32160.84,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 7.64
+    },
+    {
+      "nome": "THIAGO HENRIQUE CAMARA DE MEDEIROS",
+      "cnpj": "59522187000136",
+      "total": 28000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 6.65
+    },
+    {
+      "nome": "KAMILA TUENIA DE OLIVEIRA COSTA",
+      "cnpj": "46014469000180",
+      "total": 22800.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 5.41
+    },
+    {
+      "nome": "LOCAINFO",
+      "cnpj": "04999366000177",
+      "total": 16542.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 3.93
+    },
+    {
+      "nome": "RCE INTELIGENCIA IMOBILIARIA EIRELI",
+      "cnpj": "29935357000143",
+      "total": 11387.5,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 2.7
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 10606.82,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 2.52
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 30237.57,
+      "porcentagem_do_total": 7.18
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 47400.01,
+      "porcentagem_do_total": 11.26
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 48909.12,
+      "porcentagem_do_total": 11.61
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 60625.05,
+      "porcentagem_do_total": 14.4
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 44796.05,
+      "porcentagem_do_total": 10.64
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 50842.77,
+      "porcentagem_do_total": 12.07
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 45331.47,
+      "porcentagem_do_total": 10.76
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 39765.16,
+      "porcentagem_do_total": 9.44
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 23996.8,
+      "porcentagem_do_total": 5.7
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 29197.14,
+      "porcentagem_do_total": 6.93
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "deputado": {
+    "id": 121948,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+    "nome": "Adriano do Baldy",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "GO",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+    "email": "dep.adrianodobaldy@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 137183.39,
+  "quantidade_transacoes": 85,
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 69164.26,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 50.42
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 68019.13,
+      "quantidade_transacoes": 60,
+      "porcentagem_do_total": 49.58
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AUTO POSTO ASTRO DA MUTIRAO LTDA",
+      "cnpj": "04081151000172",
+      "total": 65923.4,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 48.05
+    },
+    {
+      "nome": "VâNIA MARIA LOBO FAVORETTO",
+      "cnpj": "26899787172",
+      "total": 50000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 36.45
+    },
+    {
+      "nome": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+      "cnpj": "01543032000104",
+      "total": 4787.68,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.49
+    },
+    {
+      "nome": "PREFEITURA DE GOIÂNIA",
+      "cnpj": "01612092000123",
+      "total": 4055.41,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 2.96
+    },
+    {
+      "nome": "PORTO VAZ RECICLAGEM DE CARTUCHOS LTDA;",
+      "cnpj": "07716577000143",
+      "total": 2241.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.63
+    },
+    {
+      "nome": "SANEAGO",
+      "cnpj": "01616929000102",
+      "total": 1678.4,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.22
+    },
+    {
+      "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597006308",
+      "total": 1288.37,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 0.94
+    },
+    {
+      "nome": "LJF WORKS FOTOGRAFIA E IMAGEM LTDA",
+      "cnpj": "41078865000158",
+      "total": 1119.7,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.82
+    },
+    {
+      "nome": "EMBALE LIMPE EMBALAGENS, LIMPEZA E MERCEARIA LTDA",
+      "cnpj": "32702785000211",
+      "total": 892.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0.65
+    },
+    {
+      "nome": "EQUATORIAL GOIáS DISTRIBUIDORA DE ENERGIA S.A",
+      "cnpj": "01543032000104",
+      "total": 693.81,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.51
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 12882.73,
+      "porcentagem_do_total": 9.39
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 14821.96,
+      "porcentagem_do_total": 10.8
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 15076.41,
+      "porcentagem_do_total": 10.99
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 14719.13,
+      "porcentagem_do_total": 10.73
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 13517.59,
+      "porcentagem_do_total": 9.85
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 13038.5,
+      "porcentagem_do_total": 9.5
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 13379.42,
+      "porcentagem_do_total": 9.75
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 13863.38,
+      "porcentagem_do_total": 10.11
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 13389.26,
+      "porcentagem_do_total": 9.76
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 12495.01,
+      "porcentagem_do_total": 9.11
+    }
+  ]
+}

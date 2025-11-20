@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 204444,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204444",
+    "nome": "Helio Lopes",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204444.jpg",
+    "email": "dep.heliolopes@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 393376.93,
+  "quantidade_transacoes": 412,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 153322.5,
+      "quantidade_transacoes": 180,
+      "porcentagem_do_total": 38.98
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 147672.68,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 37.54
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 45400.0,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 11.54
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 18146.06,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 4.61
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 9903.22,
+      "quantidade_transacoes": 45,
+      "porcentagem_do_total": 2.52
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 76565.97,
+      "quantidade_transacoes": 62,
+      "porcentagem_do_total": 19.46
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 72770.03,
+      "quantidade_transacoes": 116,
+      "porcentagem_do_total": 18.5
+    },
+    {
+      "nome": "SERV RIO TERCEIRIZAÇÃO E SERVIÇOS",
+      "cnpj": "10479861000158",
+      "total": 55213.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 14.04
+    },
+    {
+      "nome": "Novacar Locadora de Veículos Ltda",
+      "cnpj": "19374791000148",
+      "total": 48000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 12.2
+    },
+    {
+      "nome": "AMAZON SERVIÇOS E CONSTRUÇÕES LTDA",
+      "cnpj": "24980538000178",
+      "total": 36204.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 9.2
+    },
+    {
+      "nome": "JR TECNOLOGIA LTDA",
+      "cnpj": "52318738000103",
+      "total": 36000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 9.15
+    },
+    {
+      "nome": "Keila Cristina dos Santos",
+      "cnpj": "49985915000192",
+      "total": 7200.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 1.83
+    },
+    {
+      "nome": "ACOMODAÇÕES SP LTDA",
+      "cnpj": "20827659000204",
+      "total": 6272.28,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.59
+    },
+    {
+      "nome": "P2 Administração em Complexos Imobiliários Ltda",
+      "cnpj": "06098102000178",
+      "total": 5191.5,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.32
+    },
+    {
+      "nome": "MAGMA SERVIÇOS ESPECIALIZADOS LTDA",
+      "cnpj": "72082423000109",
+      "total": 4213.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.07
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 23644.79,
+      "porcentagem_do_total": 6.01
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 24475.28,
+      "porcentagem_do_total": 6.22
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 25328.89,
+      "porcentagem_do_total": 6.44
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 32596.3,
+      "porcentagem_do_total": 8.29
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 43323.33,
+      "porcentagem_do_total": 11.01
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 31497.49,
+      "porcentagem_do_total": 8.01
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 48469.91,
+      "porcentagem_do_total": 12.32
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 50202.99,
+      "porcentagem_do_total": 12.76
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 16988.42,
+      "porcentagem_do_total": 4.32
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 21974.97,
+      "porcentagem_do_total": 5.59
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 28846.41,
+      "porcentagem_do_total": 7.33
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 46028.15,
+      "porcentagem_do_total": 11.7
+    }
+  ]
+}

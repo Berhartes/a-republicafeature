@@ -3,14 +3,14 @@
     "fornecedor": {
       "nome": "AUTO POSTO SAO MATHEUS LTDA",
       "cnpj": "32013975000140",
-      "total_recebido": 725.67,
+      "total_recebido": 725.6700000000001,
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.311225"
+    "generatedAt": "2025-11-11T05:22:12.329832"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 725.67
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 725.6700000000001
   },
   "anos": {
     "2023": {
@@ -30,6 +30,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -37,7 +38,7 @@
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
         "email": "dep.adrianodobaldy@camara.leg.br"
       },
-      "total": 725.67,
+      "total": 725.6700000000001,
       "transacoes": 3,
       "despesas": [
         {
@@ -61,25 +62,6 @@
         },
         {
           "ano": 2024,
-          "mes": 7,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7762411,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-07-01T00:00:00",
-          "numDocumento": "292885",
-          "valorDocumento": 333.62,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2024/7762411.pdf",
-          "nomeFornecedor": "AUTO POSTO SAO MATHEUS LTDA",
-          "cnpjCpfFornecedor": "32013975000140",
-          "valorLiquido": 333.62,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
           "mes": 2,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7687017,
@@ -92,6 +74,25 @@
           "nomeFornecedor": "AUTO POSTO SAO MATHEUS LTDA",
           "cnpjCpfFornecedor": "32013975000140",
           "valorLiquido": 199.52,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7762411,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-01T00:00:00",
+          "numDocumento": "292885",
+          "valorDocumento": 333.62,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2024/7762411.pdf",
+          "nomeFornecedor": "AUTO POSTO SAO MATHEUS LTDA",
+          "cnpjCpfFornecedor": "32013975000140",
+          "valorLiquido": 333.62,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

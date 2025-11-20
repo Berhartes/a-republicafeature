@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:12:11Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00101040000120"
+  },
+  "data": {
+    "cnpj": "00101040000120",
+    "nome": "HOTEL PALACE FREDERICO LTDA",
+    "nomeFornecedor": "HOTEL PALACE FREDERICO LTDA",
+    "totalTransacionado": 155.0,
+    "totalRecebido": 155.0,
+    "totalRecebidoTodos": 155.0,
+    "transacoes": 1,
+    "numeroTransacoes": 1,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [
+      {
+        "id": "160538",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 155.0,
+        "transacoes": 1
+      }
+    ],
+    "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+    "categoriaOriginal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+    "categorias": [
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+    ],
+    "categoriasOriginais": [
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+    ],
+    "categoriasInfo": {
+      "principal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "normalizadas": [
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+      ],
+      "principalOriginal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "originais": [
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+      ]
+    },
+    "distribuicaoTipos": {
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+        "valor": 155.0,
+        "quantidade": 1
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+        "valor": 155.0,
+        "quantidade": 1
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2024": {
+        "valor": 155.0,
+        "transacoes": 1,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 155.0,
+        "ano": 2024,
+        "mes": 11,
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "documento": "202400000050354",
+        "dataDocumento": "2024-11-27T00:00:00",
+        "deputadoId": "160538",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 155.0,
+        "valorLiquido": 155.0,
+        "valorDocumento": 155.0,
+        "ano": 2024,
+        "mes": 11,
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "dataDocumento": "2024-11-27T00:00:00",
+        "data": "2024-11-27T00:00:00",
+        "numDocumento": "202400000050354",
+        "codDocumento": 7843341,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2405/2024/7843341.pdf",
+        "deputadoId": "160538",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "HOTEL PALACE FREDERICO LTDA",
+        "cnpj": "00101040000120",
+        "urlDocumentoPdf": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2405/2024/7843341.pdf"
+      }
+    ],
+    "totalTransacoesDetalhadas": 1,
+    "aliases": [
+      "00101040000120"
+    ],
+    "temDetalhes": true
+  }
+}

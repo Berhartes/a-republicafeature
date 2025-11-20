@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BRASAL COMBUSTIVEIS LTDA",
+      "cnpj": "00097626000400",
+      "total_recebido": 60.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:31.051594"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 60.0
+  },
+  "anos": {
+    "2024": {
+      "total": 60.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178881": {
+      "deputado": {
+        "id": 178881,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178881",
+        "nome": "Aluisio Mendes",
+        "nomeEleitoral": "Aluisio Mendes",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
+        "email": "dep.aluisiomendes@camara.leg.br"
+      },
+      "total": 60.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7752080,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-06T12:27:19",
+          "numDocumento": "789201",
+          "valorDocumento": 60.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7752080",
+          "nomeFornecedor": "BRASAL COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "00097626000400",
+          "valorLiquido": 60.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

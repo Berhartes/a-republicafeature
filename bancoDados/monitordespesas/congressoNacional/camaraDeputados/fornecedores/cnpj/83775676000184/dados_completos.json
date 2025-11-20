@@ -7,7 +7,7 @@
       "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:30.463698"
+    "generatedAt": "2025-11-11T05:22:22.303615"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 1176.98
@@ -35,6 +35,7 @@
         "id": 204495,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204495",
         "nome": "Airton Faleiro",
+        "nomeEleitoral": "Airton Faleiro",
         "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "PA",
@@ -66,25 +67,6 @@
         },
         {
           "ano": 2024,
-          "mes": 11,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7835927,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-18T00:00:00",
-          "numDocumento": "1326515",
-          "valorDocumento": 242.08,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7835927",
-          "nomeFornecedor": "AUTO POSTO COMAXIN LTDA",
-          "cnpjCpfFornecedor": "83775676000184",
-          "valorLiquido": 242.08,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
           "mes": 9,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7823343,
@@ -97,6 +79,25 @@
           "nomeFornecedor": "AUTO POSTO COMAXIN LTDA",
           "cnpjCpfFornecedor": "83775676000184",
           "valorLiquido": 331.95,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7835927,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-18T00:00:00",
+          "numDocumento": "1326515",
+          "valorDocumento": 242.08,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7835927",
+          "nomeFornecedor": "AUTO POSTO COMAXIN LTDA",
+          "cnpjCpfFornecedor": "83775676000184",
+          "valorLiquido": 242.08,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

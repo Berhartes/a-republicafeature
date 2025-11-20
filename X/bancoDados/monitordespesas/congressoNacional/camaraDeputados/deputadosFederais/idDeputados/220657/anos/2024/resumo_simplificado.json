@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 220657,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220657",
+    "nome": "André Fernandes",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "CE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220657.jpg",
+    "email": "dep.andrefernandes@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 206494.53,
+  "quantidade_transacoes": 138,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 90600.0,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 43.88
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 52941.19,
+      "quantidade_transacoes": 76,
+      "porcentagem_do_total": 25.64
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 52528.61,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 25.44
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 6700.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.24
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1941.93,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 0.94
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "KERIGMA COMERCIO E LOCAÇÃO DE VEÍCULOS LTDA",
+      "cnpj": "51951778000117",
+      "total": 64000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 30.99
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 47492.39,
+      "quantidade_transacoes": 66,
+      "porcentagem_do_total": 23.0
+    },
+    {
+      "nome": "LEOMAR LACERDA VIEIRA",
+      "cnpj": "13536133304",
+      "total": 42120.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 20.4
+    },
+    {
+      "nome": "DALETH VEICULOS LTDA EPP",
+      "cnpj": "04515963000189",
+      "total": 26600.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 12.88
+    },
+    {
+      "nome": "BROAD BRASIL LTDA",
+      "cnpj": "48949641000113",
+      "total": 6300.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 3.05
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 4412.81,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.14
+    },
+    {
+      "nome": "FIVE AGÊNCIA DE MARKETING",
+      "cnpj": "48540797000146",
+      "total": 4200.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.03
+    },
+    {
+      "nome": "LAECIO DE MENEZES BORGES SOUZA",
+      "cnpj": "33118783000161",
+      "total": 2500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.21
+    },
+    {
+      "nome": "COMPANHIA ENERGÉTICA DO CEARÁ",
+      "cnpj": "07047251000170",
+      "total": 2428.85,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.18
+    },
+    {
+      "nome": "CAGECE",
+      "cnpj": "07040108000157",
+      "total": 1079.76,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0.52
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 24671.7,
+      "porcentagem_do_total": 11.95
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 44012.39,
+      "porcentagem_do_total": 21.31
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 24212.72,
+      "porcentagem_do_total": 11.73
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 27257.29,
+      "porcentagem_do_total": 13.2
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 32156.86,
+      "porcentagem_do_total": 15.57
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 17678.54,
+      "porcentagem_do_total": 8.56
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 28681.91,
+      "porcentagem_do_total": 13.89
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 7823.12,
+      "porcentagem_do_total": 3.79
+    }
+  ]
+}

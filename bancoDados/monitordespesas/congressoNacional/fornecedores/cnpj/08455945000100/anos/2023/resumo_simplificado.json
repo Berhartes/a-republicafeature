@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "Paulo Andreis e Cia Ltda",
+    "cnpj": "08455945000100",
+    "total_recebido": 1270.72,
+    "numero_transacoes": 6,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 781.47,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 781.47,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 781.47,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 172.33,
+      "porcentagem_do_total": 22.05
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 416.95,
+      "porcentagem_do_total": 53.35
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 192.19,
+      "porcentagem_do_total": 24.59
+    }
+  ]
+}

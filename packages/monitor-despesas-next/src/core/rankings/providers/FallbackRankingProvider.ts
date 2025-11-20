@@ -1,6 +1,6 @@
 
-import { DataProvider, DeputyData, RankingEntry, RankingQuery, RankingResult } from '../RankingEngine.js'
-import { categoryRegistry } from '../../categories/CategoryRegistry.js'
+import { DataProvider, DeputyData, RankingEntry, RankingQuery, RankingResult } from '../RankingEngine'
+import { categoryRegistry } from '../../categories/CategoryRegistry'
 
 export class FallbackRankingProvider implements DataProvider {
   name = 'FallbackRankingProvider'
@@ -25,7 +25,7 @@ export class FallbackRankingProvider implements DataProvider {
         return temporalData
       }
       
-      const syntheticData = this.generateSyntheticData(query)
+      const syntheticData = await this.generateSyntheticData(query)
       
       const result: RankingResult = {
         entries: syntheticData,
@@ -56,95 +56,76 @@ export class FallbackRankingProvider implements DataProvider {
   }
   
   private async tryTemporalFallback(query: RankingQuery): Promise<RankingResult | null> {
-    if (!query.year || query.year <= 2020) {
-      return null // Não tentar fallback temporal para anos muito antigos
-    }
-    
-    console.log('🕐 [FallbackProvider] Trying temporal fallback')
-    
-    const fallbackYears = [query.year - 1, query.year - 2, query.year - 3]
-    
-    for (const fallbackYear of fallbackYears) {
-      try {
-    const rankingsOtimizadosService = await import('../../../services/rankings-otimizados-service')
-        const service = new rankingsOtimizadosService.RankingsOtimizadosService()
-        
-        const category = query.categoryId ? categoryRegistry.getById(query.categoryId) : undefined
-        
-        let rankingData: any = null
-        
-        if (category) {
-          rankingData = await service.buscarRankingCategoriaPorAno(category.displayName, fallbackYear)
-        } else {
-          rankingData = await service.buscarRankingGeralPorAno(fallbackYear)
-        }
-        
-        if (rankingData && rankingData.ranking && rankingData.ranking.length > 0) {
-          console.log(`✅ [FallbackProvider] Found temporal fallback data for year ${fallbackYear}`)
-          
-          const deputies = this.convertLegacyData(rankingData.ranking)
-          const entries = this.convertToRankingEntries(deputies, query, fallbackYear)
-          
-          return {
-            entries,
-            metadata: {
-              categoryId: query.categoryId,
-              categoryName: category?.displayName,
-              year: query.year, // Manter ano original na resposta
-              period: `${query.year} (fallback from ${fallbackYear})`,
-              totalDeputies: deputies.length,
-              totalAmount: deputies.reduce((sum, d) => sum + d.totalAmount, 0),
-              totalTransactions: deputies.reduce((sum, d) => sum + d.transactionCount, 0),
-              dataQuality: 'medium', // Dados temporais são de qualidade média
-              confidence: 0.7,
-              lastUpdate: new Date(),
-              source: 'fallback',
-              processingTime: Date.now() - Date.now()
-            }
-          }
-        }
-      } catch (error) {
-        console.warn(`⚠️ [FallbackProvider] Failed to get temporal fallback for year ${fallbackYear}:`, error)
-      }
-    }
-    
+    // DESABILITADO: Serviço rankings-otimizados-service não existe mais
+    // TODO: Reimplementar usando data-actions.ts
     return null
   }
   
-  private generateSyntheticData(query: RankingQuery): RankingEntry[] {
-    console.log('🎭 [FallbackProvider] Generating synthetic data for development')
+  private async generateSyntheticData(query: RankingQuery): Promise<RankingEntry[]> {
+    console.log('🔄 [FallbackProvider] ETL cache service não disponível, gerando dados sintéticos')
     
+    // DESABILITADO: etl-cache.service não existe mais
+    // TODO: Reimplementar usando data-actions.ts
+    
+    console.log('🎭 [FallbackProvider] Falling back to deterministic synthetic data')
+    return this.generateDeterministicData(query)
+  }
+
+  private generateDeterministicData(query: RankingQuery): RankingEntry[] {
     const category = query.categoryId ? categoryRegistry.getById(query.categoryId) : undefined
-      const limit = Math.min(query.limit || 20, 50) // Máximo 50 entradas sintéticas
-      const partidos = ['PT', 'PSDB', 'MDB', 'PL', 'PDT'] as const
-      const estados = ['SP', 'RJ', 'MG', 'BA', 'PR', 'RS'] as const
-    
+    const limit = Math.min(query.limit || 20, 50)
+    const partidos = ['PT', 'PSDB', 'MDB', 'PL', 'PDT'] as const
+    const estados = ['SP', 'RJ', 'MG', 'BA', 'PR', 'RS'] as const
+
     const syntheticDeputies: DeputyData[] = []
-    
+
     for (let i = 0; i < limit; i++) {
       const party = partidos[i % partidos.length] ?? 'SEM PARTIDO'
       const state = estados[i % estados.length] ?? 'BR'
 
+      const seedValue = `${query.categoryId || 'geral'}_${query.year || 2024}_${i}`.split('').reduce((a, b) => {
+        a = ((a << 5) - a) + b.charCodeAt(0)
+        return a & a
+      }, 0)
+
+      const normalizedSeed = Math.abs(seedValue) / 2147483647
+
       const deputy: DeputyData = {
-        id: `synthetic_${i + 1}`,
-          name: category ? `${category.displayName} - Deputado ${i + 1}` : `Deputado Exemplo ${i + 1}`,
+        id: `fallback_${query.categoryId || 'geral'}_${i + 1}`,
+        name: category ? `${category.displayName} - Deputado ${i + 1}` : `Deputado Exemplo ${i + 1}`,
         civilName: `Nome Civil ${i + 1}`,
         party,
         state,
-        photoUrl: `https://www.camara.leg.br/internet/deputado/bandep/synthetic_${i + 1}.jpg`,
-        totalAmount: Math.random() * 100000 + 10000, // Entre R$ 10k e R$ 110k
-        transactionCount: Math.floor(Math.random() * 50) + 5, // Entre 5 e 55 transações
-        supplierCount: Math.floor(Math.random() * 20) + 1, // Entre 1 e 21 fornecedores
+        photoUrl: `https://www.camara.leg.br/internet/deputado/bandep/fallback_${i + 1}.jpg`,
+        totalAmount: 10000 + (normalizedSeed * 100000),
+        transactionCount: 5 + Math.floor(normalizedSeed * 50),
+        supplierCount: 1 + Math.floor(normalizedSeed * 20),
         lastUpdate: new Date(),
         dataQuality: 'low'
       }
-      
+
       syntheticDeputies.push(deputy)
     }
-    
+
     syntheticDeputies.sort((a, b) => b.totalAmount - a.totalAmount)
-    
+
     return this.convertToRankingEntries(syntheticDeputies, query)
+  }
+
+  private convertEtlDataToDeputyData(etlData: any[]): DeputyData[] {
+    return etlData.map(entry => ({
+      id: entry.id || entry.deputadoId || '',
+      name: entry.nome || entry.deputadoNome || 'Deputado Não Identificado',
+      civilName: entry.nomeCivil || entry.deputadoNomeCivil || '',
+      party: entry.siglaPartido || entry.partido || entry.deputadoPartido || '',
+      state: entry.siglaUf || entry.uf || entry.deputadoUF || '',
+      photoUrl: entry.urlFoto || entry.foto,
+      totalAmount: entry.totalDespesas || entry.totalGastos || entry.totalValor || 0,
+      transactionCount: entry.numeroDespesas || entry.quantidadeTransacoes || entry.totalTransacoes || 0,
+      supplierCount: entry.fornecedoresIdentificados || entry.totalFornecedores || 0,
+      lastUpdate: new Date(),
+      dataQuality: 'medium' as const
+    }))
   }
   
   private convertLegacyData(legacyRanking: any[]): DeputyData[] {

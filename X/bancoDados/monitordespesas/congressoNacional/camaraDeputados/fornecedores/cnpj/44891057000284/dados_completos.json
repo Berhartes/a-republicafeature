@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "5S PAPELARIA E LIVRARIA LTDA",
+      "cnpj": "44891057000284",
+      "total_recebido": 117.6,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:09.934708"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 117.6
+  },
+  "anos": {
+    "2023": {
+      "total": 117.6,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74646": {
+      "deputado": {
+        "id": 74646,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74646",
+        "nome": "Aécio Neves",
+        "nomeEleitoral": "Aécio Neves",
+        "siglaPartido": "PSDB",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74646.jpg",
+        "email": "dep.aecioneves@camara.leg.br"
+      },
+      "total": 117.6,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7644099,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-16T00:00:00",
+          "numDocumento": "1100",
+          "valorDocumento": 117.6,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7644099",
+          "nomeFornecedor": "5S PAPELARIA E LIVRARIA LTDA",
+          "cnpjCpfFornecedor": "44891057000284",
+          "valorLiquido": 117.6,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "deputado": {
+    "id": 107970,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/107970",
+    "nome": "Ana Paula Leão",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/107970.jpg",
+    "email": "dep.anapaulaleao@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 2682.26,
+  "quantidade_transacoes": 13,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 2682.26,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "400INOVA SOLUÇÕES PRESTADORA DE SERVIÇOS LMTD",
+      "cnpj": "33058350000168",
+      "total": 1398.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 52.12
+    },
+    {
+      "nome": "Agua Esgoto",
+      "cnpj": "25769548000121",
+      "total": 798.25,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 29.76
+    },
+    {
+      "nome": "ALGAR MULTIMIDIA S/A",
+      "cnpj": "71208516000174",
+      "total": 486.01,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 18.12
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 86.3,
+      "porcentagem_do_total": 3.22
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 65.59,
+      "porcentagem_do_total": 2.45
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 339.05,
+      "porcentagem_do_total": 12.64
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 298.85,
+      "porcentagem_do_total": 11.14
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 65.59,
+      "porcentagem_do_total": 2.45
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 188.0,
+      "porcentagem_do_total": 7.01
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 785.3,
+      "porcentagem_do_total": 29.28
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 787.99,
+      "porcentagem_do_total": 29.38
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 65.59,
+      "porcentagem_do_total": 2.45
+    }
+  ]
+}

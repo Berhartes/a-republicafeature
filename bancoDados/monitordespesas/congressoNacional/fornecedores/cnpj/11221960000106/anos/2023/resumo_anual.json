@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO DE COMBUSTIVEL ESTRADA PARQUE LTDA",
+      "cnpj": "11221960000106",
+      "total_recebido": 679.94,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 679.94,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-02-27T00:00:00",
+    "periodo_fim": "2023-06-05T00:00:00",
+    "generatedAt": "2025-11-11T21:38:01.176010"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 679.94,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 679.94,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 205.25,
+      "porcentagem_do_total": 30.19
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 224.69,
+      "porcentagem_do_total": 33.05
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 100.0,
+      "porcentagem_do_total": 14.71
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 150.0,
+      "porcentagem_do_total": 22.06
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7501159,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-02-27T00:00:00",
+      "numDocumento": "1024",
+      "valorDocumento": 205.25,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7501159",
+      "nomeFornecedor": "POSTO DE COMBUSTIVEL ESTRADA PARQUE LTDA",
+      "cnpjCpfFornecedor": "11221960000106",
+      "valorLiquido": 205.25,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1910459,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2023,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7508756,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-03-13T00:00:00",
+      "numDocumento": "1110",
+      "valorDocumento": 224.69,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7508756",
+      "nomeFornecedor": "POSTO DE COMBUSTIVEL ESTRADA PARQUE LTDA",
+      "cnpjCpfFornecedor": "11221960000106",
+      "valorLiquido": 224.69,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1914243,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7550359,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-05-30T00:00:00",
+      "numDocumento": "1639",
+      "valorDocumento": 100.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7550359",
+      "nomeFornecedor": "POSTO DE COMBUSTIVEL ESTRADA PARQUE LTDA",
+      "cnpjCpfFornecedor": "11221960000106",
+      "valorLiquido": 100.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1937408,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7555155,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-06-05T00:00:00",
+      "numDocumento": "1719",
+      "valorDocumento": 150.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7555155",
+      "nomeFornecedor": "POSTO DE COMBUSTIVEL ESTRADA PARQUE LTDA",
+      "cnpjCpfFornecedor": "11221960000106",
+      "valorLiquido": 150.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1940074,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

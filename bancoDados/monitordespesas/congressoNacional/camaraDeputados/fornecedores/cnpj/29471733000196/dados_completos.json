@@ -3,19 +3,19 @@
     "fornecedor": {
       "nome": "LANCHONETE E RESTAURANTE 7 BARAO LTDA",
       "cnpj": "29471733000196",
-      "total_recebido": 39.0,
-      "numero_transacoes": 2,
+      "total_recebido": 14.5,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:57.580930"
+    "generatedAt": "2025-11-11T05:22:09.644507"
   },
   "categorias": {
-    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 39.0
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 14.5
   },
   "anos": {
     "2025": {
-      "total": 39.0,
-      "transacoes": 2,
+      "total": 14.5,
+      "transacoes": 1,
       "deputados": 1
     }
   },
@@ -25,15 +25,16 @@
         "id": 221328,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
         "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
-        "email": "dep.adilsonbarroso@camara.leg.br"
+        "email": null
       },
-      "total": 39.0,
-      "transacoes": 2,
+      "total": 14.5,
+      "transacoes": 1,
       "despesas": [
         {
           "ano": 2025,
@@ -49,25 +50,6 @@
           "nomeFornecedor": "LANCHONETE E RESTAURANTE 7 BARAO LTDA",
           "cnpjCpfFornecedor": "29471733000196",
           "valorLiquido": 14.5,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
-          "mes": 6,
-          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7940401,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-06-29T00:00:00",
-          "numDocumento": "008932",
-          "valorDocumento": 24.5,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7940401.pdf",
-          "nomeFornecedor": "LANCHONETE E RESTAURANTE 7 BARAO LTDA",
-          "cnpjCpfFornecedor": "29471733000196",
-          "valorLiquido": 24.5,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

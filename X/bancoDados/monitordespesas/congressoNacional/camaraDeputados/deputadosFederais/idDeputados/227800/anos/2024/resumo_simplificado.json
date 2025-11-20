@@ -1,0 +1,158 @@
+{
+  "deputado": {
+    "id": 227800,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227800",
+    "nome": "Duarte Gonçalves Jr",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/227800.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 81894.98,
+  "quantidade_transacoes": 181,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 48091.64,
+      "quantidade_transacoes": 60,
+      "porcentagem_do_total": 58.72
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 13500.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 16.48
+    },
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 7504.56,
+      "quantidade_transacoes": 45,
+      "porcentagem_do_total": 9.16
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 6687.81,
+      "quantidade_transacoes": 36,
+      "porcentagem_do_total": 8.17
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 3875.95,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 4.73
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 22898.46,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 27.96
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 13855.97,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 16.92
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 11337.21,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 13.84
+    },
+    {
+      "nome": "BRASIL TRANSPORTES E TURISMO",
+      "cnpj": "08728059000102",
+      "total": 6263.3,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 7.65
+    },
+    {
+      "nome": "JORNAL PANFLETU\"\"S",
+      "cnpj": "21544370000160",
+      "total": 5000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 6.11
+    },
+    {
+      "nome": "JK Cunha Lima",
+      "cnpj": "18088055000160",
+      "total": 4500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 5.49
+    },
+    {
+      "nome": "Diario de Ouro Preto Empresa Jornalistica LTDA - ME",
+      "cnpj": "06882238000174",
+      "total": 4000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.88
+    },
+    {
+      "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpj": "17895646000187",
+      "total": 1241.26,
+      "quantidade_transacoes": 35,
+      "porcentagem_do_total": 1.52
+    },
+    {
+      "nome": "ANTULIO HELDER RAMOS RIBEIRO",
+      "cnpj": "34209032000113",
+      "total": 1163.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.42
+    },
+    {
+      "nome": "PETROCAR LTDA",
+      "cnpj": "18953356000105",
+      "total": 1089.18,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 1.33
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 5479.28,
+      "porcentagem_do_total": 6.69
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 29381.82,
+      "porcentagem_do_total": 35.88
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 22111.76,
+      "porcentagem_do_total": 27.0
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 22540.18,
+      "porcentagem_do_total": 27.52
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 3924.1,
+      "porcentagem_do_total": 4.79
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": -1542.16,
+      "porcentagem_do_total": -1.88
+    }
+  ]
+}

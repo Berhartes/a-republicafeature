@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "POSTO CAMAPUA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+    "cnpj": "13815813000343",
+    "total_recebido": 650.0,
+    "numero_transacoes": 3,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 450.0,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 450.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 450.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 250.0,
+      "porcentagem_do_total": 55.56
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 200.0,
+      "porcentagem_do_total": 44.44
+    }
+  ]
+}

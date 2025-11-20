@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Amoretto cafes expresso ltda",
+      "cnpj": "08532429000131",
+      "total_recebido": 11400.0,
+      "numero_transacoes": 15,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 4500.0,
+    "quantidade_transacoes": 6,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-07-03T00:00:00",
+    "periodo_fim": "2024-12-03T00:00:00",
+    "generatedAt": "2025-11-11T21:37:58.369010"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 4500.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 4500.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 750.0,
+      "porcentagem_do_total": 16.67
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 750.0,
+      "porcentagem_do_total": 16.67
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 750.0,
+      "porcentagem_do_total": 16.67
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 750.0,
+      "porcentagem_do_total": 16.67
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 750.0,
+      "porcentagem_do_total": 16.67
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 750.0,
+      "porcentagem_do_total": 16.67
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7764631,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-07-03T00:00:00",
+      "numDocumento": "1407",
+      "valorDocumento": 750.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7764631.pdf",
+      "nomeFornecedor": "Amoretto cafes expresso ltda",
+      "cnpjCpfFornecedor": "08532429000131",
+      "valorLiquido": 750.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2054562,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 8,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7784532,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-08-06T00:00:00",
+      "numDocumento": "1498",
+      "valorDocumento": 750.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7784532.pdf",
+      "nomeFornecedor": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpjCpfFornecedor": "08532429000131",
+      "valorLiquido": 750.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2064616,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 9,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7798148,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-09-04T00:00:00",
+      "numDocumento": "1575",
+      "valorDocumento": 750.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7798148.pdf",
+      "nomeFornecedor": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpjCpfFornecedor": "08532429000131",
+      "valorLiquido": 750.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2071550,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7821161,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-10-03T00:00:00",
+      "numDocumento": "1644",
+      "valorDocumento": 750.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7821161.pdf",
+      "nomeFornecedor": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpjCpfFornecedor": "08532429000131",
+      "valorLiquido": 750.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2084003,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7837655,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-11-06T00:00:00",
+      "numDocumento": "1735",
+      "valorDocumento": 750.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7837655.pdf",
+      "nomeFornecedor": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpjCpfFornecedor": "08532429000131",
+      "valorLiquido": 750.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2092841,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7838902,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-12-03T00:00:00",
+      "numDocumento": "1806",
+      "valorDocumento": 750.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7838902.pdf",
+      "nomeFornecedor": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpjCpfFornecedor": "08532429000131",
+      "valorLiquido": 750.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2093592,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

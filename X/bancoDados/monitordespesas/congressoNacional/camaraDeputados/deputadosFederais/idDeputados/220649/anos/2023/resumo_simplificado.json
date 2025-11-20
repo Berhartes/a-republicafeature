@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220649,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220649",
+    "nome": "Delegado da Cunha",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220649.jpg",
+    "email": "dep.delegadodacunha@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 481059.13,
+  "quantidade_transacoes": 216,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 324395.0,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 67.43
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 76253.96,
+      "quantidade_transacoes": 146,
+      "porcentagem_do_total": 15.85
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 42030.0,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 8.74
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 26234.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 5.45
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 7630.67,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 1.59
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "EDUARDO KALLEL DE FREITAS BRANDAO",
+      "cnpj": "35624672000152",
+      "total": 229800.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 47.77
+    },
+    {
+      "nome": "MR Gráfica Rapida Eireli",
+      "cnpj": "23776182000192",
+      "total": 54625.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 11.36
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 47664.85,
+      "quantidade_transacoes": 112,
+      "porcentagem_do_total": 9.91
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 36030.0,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 7.49
+    },
+    {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+      "cnpj": "12132854000100",
+      "total": 25134.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 5.22
+    },
+    {
+      "nome": "EDUARDO KALLEL DE FREITAS BRANDAO 37779814866",
+      "cnpj": "35624672000152",
+      "total": 24600.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.11
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 18779.86,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 3.9
+    },
+    {
+      "nome": "RFN AUDIOVISUAL SEM LIMITES LTDA",
+      "cnpj": "50927891000102",
+      "total": 12870.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.68
+    },
+    {
+      "nome": "AUTO POSTO 305 SUL LTDA",
+      "cnpj": "32085527000152",
+      "total": 7630.67,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 1.59
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 7454.16,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 1.55
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 38483.97,
+      "porcentagem_do_total": 8.0
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 40409.59,
+      "porcentagem_do_total": 8.4
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 37945.06,
+      "porcentagem_do_total": 7.89
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 46302.8,
+      "porcentagem_do_total": 9.63
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 49544.29,
+      "porcentagem_do_total": 10.3
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 48504.72,
+      "porcentagem_do_total": 10.08
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 59110.24,
+      "porcentagem_do_total": 12.29
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 42774.82,
+      "porcentagem_do_total": 8.89
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 47277.53,
+      "porcentagem_do_total": 9.83
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 32908.3,
+      "porcentagem_do_total": 6.84
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 37797.81,
+      "porcentagem_do_total": 7.86
+    }
+  ]
+}

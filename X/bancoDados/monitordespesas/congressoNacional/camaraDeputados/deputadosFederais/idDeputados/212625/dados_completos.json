@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 212625,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/212625",
+      "nome": "Dr. Gonçalo",
+      "siglaPartido": "PODE",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+      "siglaUf": "MA",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/212625.jpg",
+      "email": null
+    },
+    "legislatura": 57,
+    "generatedAt": "2025-11-10T22:31:49.871379",
+    "totalDespesas": 1959.07,
+    "quantidadeDespesas": 2
+  },
+  "despesas": [
+    {
+      "ano": 2024,
+      "mes": 8,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": 272252,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-08-11T12:00:00",
+      "numDocumento": "9572169399655",
+      "valorDocumento": 1959.07,
+      "urlDocumento": null,
+      "nomeFornecedor": "TAM",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": 1959.07,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": 284678,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-10-25T12:00:00",
+      "numDocumento": "9572204429295",
+      "valorDocumento": -821.9,
+      "urlDocumento": null,
+      "nomeFornecedor": "TAM",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -821.9,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ],
+  "fornecedores": {
+    "tam": {
+      "nome": "TAM",
+      "cnpj": null,
+      "total": 1137.17,
+      "transacoes": 2
+    }
+  },
+  "categorias": {
+    "PASSAGEM AÉREA - SIGEPA": 1137.17
+  },
+  "anosSumario": {
+    "2024": {
+      "total": 1137.17,
+      "transacoes": 2
+    }
+  }
+}

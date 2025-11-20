@@ -3,52 +3,91 @@
     "fornecedor": {
       "nome": "BIER FASS RESTAURANTE MUSEU LTDA",
       "cnpj": "05033214000188",
-      "total_recebido": 66.45,
-      "numero_transacoes": 1,
+      "total_recebido": 284.75,
+      "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:58:03.286738"
+    "generatedAt": "2025-11-11T05:22:19.048108"
   },
   "categorias": {
-    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 66.45
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 284.75
   },
   "anos": {
     "2023": {
-      "total": 66.45,
-      "transacoes": 1,
+      "total": 284.75,
+      "transacoes": 3,
       "deputados": 1
     }
   },
   "deputados": {
-    "220683": {
+    "178835": {
       "deputado": {
-        "id": 220683,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220683",
-        "nome": "Beto Richa",
-        "siglaPartido": "PSDB",
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
+        "siglaPartido": "PDT",
         "uriPartido": "",
-        "siglaUf": "PR",
+        "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220683.jpg",
-        "email": "dep.betoricha@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
       },
-      "total": 66.45,
-      "transacoes": 1,
+      "total": 284.75,
+      "transacoes": 3,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 8,
+          "mes": 4,
           "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7599679,
+          "codDocumento": 7533446,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-08-29T00:00:00",
-          "numDocumento": "468837",
-          "valorDocumento": 74.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7599679",
+          "dataDocumento": "2023-04-26T00:00:00",
+          "numDocumento": "443357",
+          "valorDocumento": 92.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7533446",
           "nomeFornecedor": "BIER FASS RESTAURANTE MUSEU LTDA",
           "cnpjCpfFornecedor": "05033214000188",
-          "valorLiquido": 66.45,
+          "valorLiquido": 92.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7546348,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-16T00:00:00",
+          "numDocumento": "447557",
+          "valorDocumento": 101.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7546348",
+          "nomeFornecedor": "BIER FASS RESTAURANTE MUSEU LTDA",
+          "cnpjCpfFornecedor": "05033214000188",
+          "valorLiquido": 101.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7630912,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-24T00:00:00",
+          "numDocumento": "476205",
+          "valorDocumento": 91.25,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7630912",
+          "nomeFornecedor": "BIER FASS RESTAURANTE MUSEU LTDA",
+          "cnpjCpfFornecedor": "05033214000188",
+          "valorLiquido": 91.25,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

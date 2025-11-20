@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PORTO AUTO POSTO CUIABA LTDA",
+      "cnpj": "43862738000170",
+      "total_recebido": 553.71,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:03.143687"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 553.71
+  },
+  "anos": {
+    "2024": {
+      "total": 553.71,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 553.71,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7684854,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-08T16:59:17",
+          "numDocumento": "1377",
+          "valorDocumento": 115.8,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7684854",
+          "nomeFornecedor": "PORTO AUTO POSTO CUIABA LTDA",
+          "cnpjCpfFornecedor": "43862738000170",
+          "valorLiquido": 115.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7684857,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-08T19:40:22",
+          "numDocumento": "1379",
+          "valorDocumento": 211.54,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7684857",
+          "nomeFornecedor": "PORTO AUTO POSTO CUIABA LTDA",
+          "cnpjCpfFornecedor": "43862738000170",
+          "valorLiquido": 211.54,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7830785,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-15T10:03:54",
+          "numDocumento": "4589",
+          "valorDocumento": 226.37,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7830785",
+          "nomeFornecedor": "PORTO AUTO POSTO CUIABA LTDA",
+          "cnpjCpfFornecedor": "43862738000170",
+          "valorLiquido": 226.37,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -7,7 +7,7 @@
       "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:34.191624"
+    "generatedAt": "2025-11-11T05:22:43.626508"
   },
   "categorias": {
     "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 2470.0
@@ -30,6 +30,7 @@
         "id": 226708,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
         "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "MA",
@@ -80,25 +81,6 @@
         },
         {
           "ano": 2025,
-          "mes": 9,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7975303,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-09-02T00:00:00",
-          "numDocumento": "250007084",
-          "valorDocumento": 460.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2025/7975303.pdf",
-          "nomeFornecedor": "NBR HOTELARIA",
-          "cnpjCpfFornecedor": "12380818000166",
-          "valorLiquido": 460.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
           "mes": 8,
           "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
           "codDocumento": 7975298,
@@ -111,6 +93,25 @@
           "nomeFornecedor": "NBR HOTELARIA",
           "cnpjCpfFornecedor": "12380818000166",
           "valorLiquido": 760.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7975303,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-02T00:00:00",
+          "numDocumento": "250007084",
+          "valorDocumento": 460.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2025/7975303.pdf",
+          "nomeFornecedor": "NBR HOTELARIA",
+          "cnpjCpfFornecedor": "12380818000166",
+          "valorLiquido": 460.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

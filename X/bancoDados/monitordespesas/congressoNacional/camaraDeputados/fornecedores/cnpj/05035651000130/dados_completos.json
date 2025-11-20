@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO TREVO SERTAOZINHO LTDA",
+      "cnpj": "05035651000130",
+      "total_recebido": 628.59,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:05.886232"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 628.59
+  },
+  "anos": {
+    "2024": {
+      "total": 490.57000000000005,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 138.02,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 628.59,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7735419,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-08T00:00:00",
+          "numDocumento": "209592",
+          "valorDocumento": 160.46,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7735419.pdf",
+          "nomeFornecedor": "POSTO TREVO SERTAOZINHO LTDA",
+          "cnpjCpfFornecedor": "05035651000130",
+          "valorLiquido": 160.46,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7792575,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-23T00:00:00",
+          "numDocumento": "243386",
+          "valorDocumento": 330.11,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7792575.pdf",
+          "nomeFornecedor": "POSTO TREVO SERTAOZINHO LTDA",
+          "cnpjCpfFornecedor": "05035651000130",
+          "valorLiquido": 330.11,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 8005527,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-27T00:00:00",
+          "numDocumento": "362744",
+          "valorDocumento": 138.02,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/8005527.pdf",
+          "nomeFornecedor": "POSTO TREVO SERTAOZINHO LTDA",
+          "cnpjCpfFornecedor": "05035651000130",
+          "valorLiquido": 138.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

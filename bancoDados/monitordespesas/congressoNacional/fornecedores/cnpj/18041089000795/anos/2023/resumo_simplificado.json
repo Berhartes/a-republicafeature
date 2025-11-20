@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "Sudeste Foods Produtos Alimenticios",
+    "cnpj": "18041089000795",
+    "total_recebido": 95.0,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 95.0,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 95.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 95.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 69.0,
+      "porcentagem_do_total": 72.63
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 26.0,
+      "porcentagem_do_total": 27.37
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 74060,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74060",
+    "nome": "Daniel Almeida",
+    "siglaPartido": "PCdoB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74060.jpg",
+    "email": "dep.danielalmeida@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 470718.14,
+  "quantidade_transacoes": 215,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 302295.0,
+      "quantidade_transacoes": 33,
+      "porcentagem_do_total": 64.22
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 59268.6,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 12.59
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 48664.79,
+      "quantidade_transacoes": 47,
+      "porcentagem_do_total": 10.34
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 35885.88,
+      "quantidade_transacoes": 104,
+      "porcentagem_do_total": 7.62
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 22259.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 4.73
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Rafael Lucas Costa Lima Oliveira",
+      "cnpj": "55698388000138",
+      "total": 60630.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 12.88
+    },
+    {
+      "nome": "CARLOS HENRIQUE SANTOS CORDEIRO",
+      "cnpj": "55678715000190",
+      "total": 60000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 12.75
+    },
+    {
+      "nome": "RANGEL DOS SANTOS SOUZA",
+      "cnpj": "25449486000170",
+      "total": 60000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 12.75
+    },
+    {
+      "nome": "J A SOBRAL &amp; CIA LTDA - POSTO SETE",
+      "cnpj": "13799101000892",
+      "total": 58286.22,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 12.38
+    },
+    {
+      "nome": "Crusi Comunicação LTDA",
+      "cnpj": "54327775000103",
+      "total": 48165.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 10.23
+    },
+    {
+      "nome": "Luan Almeida Guimarães",
+      "cnpj": "58871870000116",
+      "total": 40000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 8.5
+    },
+    {
+      "nome": "PIATA - PATRIMONIAL LTDA",
+      "cnpj": "04314284000141",
+      "total": 26500.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 5.63
+    },
+    {
+      "nome": "55.678.715 CARLOS HENRIQUE SANTOS CORDEIRO",
+      "cnpj": "55678715000190",
+      "total": 20000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.25
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 15459.88,
+      "quantidade_transacoes": 38,
+      "porcentagem_do_total": 3.28
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 14537.52,
+      "quantidade_transacoes": 60,
+      "porcentagem_do_total": 3.09
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 37924.01,
+      "porcentagem_do_total": 8.06
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 59710.23,
+      "porcentagem_do_total": 12.68
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 56236.98,
+      "porcentagem_do_total": 11.95
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 52328.47,
+      "porcentagem_do_total": 11.12
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 47375.11,
+      "porcentagem_do_total": 10.06
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 50280.89,
+      "porcentagem_do_total": 10.68
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 49407.31,
+      "porcentagem_do_total": 10.5
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 41634.1,
+      "porcentagem_do_total": 8.84
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 42246.69,
+      "porcentagem_do_total": 8.97
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 33574.35,
+      "porcentagem_do_total": 7.13
+    }
+  ]
+}

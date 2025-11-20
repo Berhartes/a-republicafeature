@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO FENIX ODJ EIRELI",
+    "cnpj": "25004046000100",
+    "total_recebido": 502.2,
+    "numero_transacoes": 2,
+    "numero_deputados": 2
+  },
+  "ano": 2025,
+  "total_recebido": 302.2,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 302.2,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 302.2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 302.2,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

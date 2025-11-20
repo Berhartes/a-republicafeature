@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220549,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220549",
+    "nome": "Any Ortiz",
+    "siglaPartido": "CIDADANIA",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+    "siglaUf": "RS",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
+    "email": "dep.anyortiz@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 268037.29,
+  "quantidade_transacoes": 376,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 95616.84,
+      "quantidade_transacoes": 124,
+      "porcentagem_do_total": 35.67
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 83720.35,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 31.23
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 70545.07,
+      "quantidade_transacoes": 60,
+      "porcentagem_do_total": 26.32
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 10169.17,
+      "quantidade_transacoes": 56,
+      "porcentagem_do_total": 3.79
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 3154.65,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.18
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 78612.73,
+      "quantidade_transacoes": 101,
+      "porcentagem_do_total": 29.33
+    },
+    {
+      "nome": "N P IMOVEIS LTDA",
+      "cnpj": "89176887000187",
+      "total": 53768.93,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 20.06
+    },
+    {
+      "nome": "CITYCAR ALUGUEL DE VEÍCULOS S.A.",
+      "cnpj": "68765049001140",
+      "total": 49971.7,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 18.64
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 28375.0,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 10.59
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 14696.44,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 5.48
+    },
+    {
+      "nome": "UNIDAS LOCADORA S.A",
+      "cnpj": "45736131002628",
+      "total": 5373.65,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.0
+    },
+    {
+      "nome": "NP IMOVEIS LTDA",
+      "cnpj": "89176887000187",
+      "total": 5280.89,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.97
+    },
+    {
+      "nome": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
+      "cnpj": "08467115000100",
+      "total": 3333.34,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 1.24
+    },
+    {
+      "nome": "BROAD BRASIL LTDA",
+      "cnpj": "48949641000113",
+      "total": 2550.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.95
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 2307.67,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 0.86
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 19666.69,
+      "porcentagem_do_total": 7.34
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 19177.82,
+      "porcentagem_do_total": 7.15
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 16540.3,
+      "porcentagem_do_total": 6.17
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 20021.18,
+      "porcentagem_do_total": 7.47
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 19060.18,
+      "porcentagem_do_total": 7.11
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 19832.93,
+      "porcentagem_do_total": 7.4
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 28563.53,
+      "porcentagem_do_total": 10.66
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 29315.83,
+      "porcentagem_do_total": 10.94
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 34097.06,
+      "porcentagem_do_total": 12.72
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 27919.11,
+      "porcentagem_do_total": 10.42
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 33842.66,
+      "porcentagem_do_total": 12.63
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fornecedor": {
+    "nome": "R C COMERCIO DE COMBUSTIVEIS LTDA",
+    "cnpj": "05961536000197",
+    "total_recebido": 1676.6999999999998,
+    "numero_transacoes": 9,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 736.58,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 736.58,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 736.58,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 151.04,
+      "porcentagem_do_total": 20.51
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 162.38,
+      "porcentagem_do_total": 22.05
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 210.61,
+      "porcentagem_do_total": 28.59
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 212.55,
+      "porcentagem_do_total": 28.86
+    }
+  ]
+}

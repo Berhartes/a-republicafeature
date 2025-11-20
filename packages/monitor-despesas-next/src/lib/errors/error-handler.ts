@@ -10,7 +10,7 @@ import {
   ErrorPredicates,
   BaseError,
   ErrorReportingConfig
-} from './error-types.js'
+} from './error-types'
 
 interface ErrorHandlerConfig {
   enableReporting: boolean
@@ -151,9 +151,8 @@ export class ErrorHandler {
         ErrorCode.UNKNOWN_ERROR,
         error.message,
         {
-          stack: error.stack,
-          context,
-          technicalDetails: error.name
+          technicalDetails: error.stack ? `${error.name}: ${error.stack}` : error.name,
+          context
         }
       )
     }
@@ -261,7 +260,7 @@ export class ErrorHandler {
   private static logError(error: ParliamentaryError): void {
     const logData = {
       code: error.code,
-      message: error.message,
+      message: (error as any).message,
       severity: error.severity,
       category: error.category,
       context: error.context,

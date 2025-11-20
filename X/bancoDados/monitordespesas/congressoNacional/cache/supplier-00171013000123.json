@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:12:03Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00171013000123"
+  },
+  "data": {
+    "cnpj": "00171013000123",
+    "nome": "PORTAL DA PRAIA AUTO POSTO LTDA",
+    "nomeFornecedor": "PORTAL DA PRAIA AUTO POSTO LTDA",
+    "totalTransacionado": 601.57,
+    "totalRecebido": 601.57,
+    "totalRecebidoTodos": 601.57,
+    "transacoes": 3,
+    "numeroTransacoes": 3,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [
+      {
+        "id": "220605",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 601.57,
+        "transacoes": 3
+      }
+    ],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 601.57,
+        "quantidade": 3
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 601.57,
+        "quantidade": 3
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 183.58,
+        "transacoes": 1,
+        "deputados": 0
+      },
+      "2024": {
+        "valor": 417.99,
+        "transacoes": 2,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 217.47,
+        "ano": 2024,
+        "mes": 7,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "19864",
+        "dataDocumento": "2024-07-04T18:09:02",
+        "deputadoId": "220605",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 200.52,
+        "ano": 2024,
+        "mes": 6,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "18568",
+        "dataDocumento": "2024-06-07T00:00:00",
+        "deputadoId": "220605",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 183.58,
+        "ano": 2023,
+        "mes": 12,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "7246",
+        "dataDocumento": "2023-12-06T00:00:00",
+        "deputadoId": "220605",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 217.47,
+        "valorLiquido": 217.47,
+        "valorDocumento": 217.47,
+        "ano": 2024,
+        "mes": 7,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2024-07-04T18:09:02",
+        "data": "2024-07-04T18:09:02",
+        "numDocumento": "19864",
+        "codDocumento": 7766532,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7766532",
+        "deputadoId": "220605",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "PORTAL DA PRAIA AUTO POSTO LTDA",
+        "cnpj": "00171013000123",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7766532"
+      },
+      {
+        "valor": 200.52,
+        "valorLiquido": 200.52,
+        "valorDocumento": 200.52,
+        "ano": 2024,
+        "mes": 6,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2024-06-07T00:00:00",
+        "data": "2024-06-07T00:00:00",
+        "numDocumento": "18568",
+        "codDocumento": 7750390,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3656/2024/7750390.pdf",
+        "deputadoId": "220605",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "PORTAL DA PRAIA AUTO POSTO LTDA",
+        "cnpj": "00171013000123",
+        "urlDocumentoPdf": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3656/2024/7750390.pdf"
+      },
+      {
+        "valor": 183.58,
+        "valorLiquido": 183.58,
+        "valorDocumento": 183.58,
+        "ano": 2023,
+        "mes": 12,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2023-12-06T00:00:00",
+        "data": "2023-12-06T00:00:00",
+        "numDocumento": "7246",
+        "codDocumento": 7656264,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3656/2023/7656264.pdf",
+        "deputadoId": "220605",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "PORTAL DA PRAIA AUTO POSTO LTDA",
+        "cnpj": "00171013000123",
+        "urlDocumentoPdf": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3656/2023/7656264.pdf"
+      }
+    ],
+    "totalTransacoesDetalhadas": 3,
+    "aliases": [
+      "00171013000123"
+    ],
+    "temDetalhes": true
+  }
+}

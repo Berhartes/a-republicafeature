@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 74171,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74171",
+    "nome": "Chico Alencar",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74171.jpg",
+    "email": "dep.chicoalencar@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 85826.63,
+  "quantidade_transacoes": 117,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 77043.33,
+      "quantidade_transacoes": 63,
+      "porcentagem_do_total": 89.77
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 8783.3,
+      "quantidade_transacoes": 54,
+      "porcentagem_do_total": 10.23
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "LICEU LITERARIO PORTUGUES",
+      "cnpj": "33623885000134",
+      "total": 38931.38,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 45.36
+    },
+    {
+      "nome": "TOTAL SISTEMAS DO BRASIL LTDA",
+      "cnpj": "22652061000176",
+      "total": 20420.16,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 23.79
+    },
+    {
+      "nome": "COLORTEL",
+      "cnpj": "42183442000160",
+      "total": 6245.4,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 7.28
+    },
+    {
+      "nome": "BROAD BRASIL LTDA",
+      "cnpj": "48949641000113",
+      "total": 5950.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 6.93
+    },
+    {
+      "nome": "BROAD BRASIL LTDA.",
+      "cnpj": "48949641000113",
+      "total": 2550.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.97
+    },
+    {
+      "nome": "MSI-Master Sync Informatica Ltda.",
+      "cnpj": "05542193000126",
+      "total": 2500.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 2.91
+    },
+    {
+      "nome": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "37063328001058",
+      "total": 1912.64,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 2.23
+    },
+    {
+      "nome": "AUTO POSTO AEROPORTO LTDA",
+      "cnpj": "08202116000115",
+      "total": 1310.24,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 1.53
+    },
+    {
+      "nome": "076 - MELHOR 10 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597007614",
+      "total": 1183.09,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 1.38
+    },
+    {
+      "nome": "POSTO CATEDRAL LTDA",
+      "cnpj": "27838044000141",
+      "total": 823.08,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 0.96
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 8224.37,
+      "porcentagem_do_total": 9.58
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 8661.53,
+      "porcentagem_do_total": 10.09
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 9443.15,
+      "porcentagem_do_total": 11.0
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 9308.49,
+      "porcentagem_do_total": 10.85
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 9123.69,
+      "porcentagem_do_total": 10.63
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 8963.71,
+      "porcentagem_do_total": 10.44
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 9075.37,
+      "porcentagem_do_total": 10.57
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 8656.53,
+      "porcentagem_do_total": 10.09
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 9002.19,
+      "porcentagem_do_total": 10.49
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 5265.2,
+      "porcentagem_do_total": 6.13
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 102.4,
+      "porcentagem_do_total": 0.12
+    }
+  ]
+}

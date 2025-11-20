@@ -1,0 +1,164 @@
+{
+  "deputado": {
+    "id": 204496,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204496",
+    "nome": "Celso Sabino",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "PA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204496.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 250353.65,
+  "quantidade_transacoes": 116,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 168350.0,
+      "quantidade_transacoes": 39,
+      "porcentagem_do_total": 67.24
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 41792.06,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 16.69
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 32761.0,
+      "quantidade_transacoes": 33,
+      "porcentagem_do_total": 13.09
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 6193.39,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 2.47
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 1116.6,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.45
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "DALETH VEICULOS LTDA EPP",
+      "cnpj": "04515963000189",
+      "total": 35283.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 14.09
+    },
+    {
+      "nome": "INOP - INSTITUTO NACIONAL DE ORCAMENTO PUBLICO LTDA",
+      "cnpj": "32692708000147",
+      "total": 35000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 13.98
+    },
+    {
+      "nome": "WORKING ASSOCIAÇÃO DE INTEGRAÇÃO PROFISSIONAL",
+      "cnpj": "08865615000192",
+      "total": 25000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 9.99
+    },
+    {
+      "nome": "WTP MARTINS COMERCIO E SERVICOS LTDA",
+      "cnpj": "40821516000111",
+      "total": 25000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 9.99
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 24682.16,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 9.86
+    },
+    {
+      "nome": "JOAO HENRIQUE ALMEIDA FERREIRA 02162200414",
+      "cnpj": "34625159000113",
+      "total": 15000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 5.99
+    },
+    {
+      "nome": "SMART SERVIÇOS, CONSULTORIA E ASSESSORIA SS LTDA",
+      "cnpj": "38661409000121",
+      "total": 15000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 5.99
+    },
+    {
+      "nome": "VER-O-FATO NOTICIAS LTDA",
+      "cnpj": "10572344000129",
+      "total": 14000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 5.59
+    },
+    {
+      "nome": "MM COMUNICAÇÃO E EVENTOS EIRELI",
+      "cnpj": "26410405000191",
+      "total": 14000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 5.59
+    },
+    {
+      "nome": "M.M COMUNICACAO E EVENTOS LTDA",
+      "cnpj": "26410405000191",
+      "total": 10500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 4.19
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 20910.0,
+      "porcentagem_do_total": 8.35
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 23732.92,
+      "porcentagem_do_total": 9.48
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 30332.55,
+      "porcentagem_do_total": 12.12
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 33637.52,
+      "porcentagem_do_total": 13.44
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 55937.27,
+      "porcentagem_do_total": 22.34
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 43680.86,
+      "porcentagem_do_total": 17.45
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 42122.53,
+      "porcentagem_do_total": 16.83
+    }
+  ]
+}

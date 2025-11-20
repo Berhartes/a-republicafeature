@@ -1,0 +1,41 @@
+{
+  "deputado": {
+    "id": 143632,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143632",
+    "nome": "Domingos Neto",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "CE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/143632.jpg",
+    "email": "dep.domingosneto@camara.leg.br"
+  },
+  "ano": 2022,
+  "total_gasto": 6168.24,
+  "quantidade_transacoes": 1,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 6168.24,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "HPE AUTOMOTORES DO BRASIL LTDA",
+      "cnpj": "46054009000186",
+      "total": 6168.24,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 6168.24,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

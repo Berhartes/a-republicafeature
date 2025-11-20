@@ -1,0 +1,73 @@
+{
+  "deputado": {
+    "id": 230764,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/230764",
+    "nome": "Ivan Junior",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/230764.jpg",
+    "email": null
+  },
+  "ano": 2025,
+  "total_gasto": 126962.68,
+  "quantidade_transacoes": 9,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 115600.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 91.05
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 11362.68,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 8.95
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ALICE MARKETING E COMUNICACAO EIRELI",
+      "cnpj": "29481275000176",
+      "total": 115600.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 91.05
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 7185.09,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 5.66
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 4177.59,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.29
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 43272.57,
+      "porcentagem_do_total": 34.08
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 40600.0,
+      "porcentagem_do_total": 31.98
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 43090.11,
+      "porcentagem_do_total": 33.94
+    }
+  ]
+}

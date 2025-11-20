@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "POSTO DE COMBUSTIVEL QI 09 LAGO SUL LTDA",
       "cnpj": "32965877000103",
-      "total_recebido": 341.53,
+      "total_recebido": 299.02,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:00.071339"
+    "generatedAt": "2025-11-11T05:22:35.149008"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 341.53
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 299.02
   },
   "anos": {
     "2024": {
-      "total": 341.53,
+      "total": 299.02,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204560": {
+    "160545": {
       "deputado": {
-        "id": 204560,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204560",
-        "nome": "Adolfo Viana",
-        "siglaPartido": "PSDB",
+        "id": 160545,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160545",
+        "nome": "Alexandre Leite",
+        "nomeEleitoral": "Alexandre Leite",
+        "siglaPartido": "UNIÃO",
         "uriPartido": "",
-        "siglaUf": "BA",
+        "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
-        "email": "dep.adolfoviana@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160545.jpg",
+        "email": null
       },
-      "total": 341.53,
+      "total": 299.02,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2024,
-          "mes": 10,
+          "mes": 2,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7830045,
+          "codDocumento": 7694177,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-10-15T00:00:00",
-          "numDocumento": "26913",
-          "valorDocumento": 341.53,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7830045",
+          "dataDocumento": "2024-02-26T18:34:51",
+          "numDocumento": "83917",
+          "valorDocumento": 299.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7694177",
           "nomeFornecedor": "POSTO DE COMBUSTIVEL QI 09 LAGO SUL LTDA",
           "cnpjCpfFornecedor": "32965877000103",
-          "valorLiquido": 341.53,
+          "valorLiquido": 299.02,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

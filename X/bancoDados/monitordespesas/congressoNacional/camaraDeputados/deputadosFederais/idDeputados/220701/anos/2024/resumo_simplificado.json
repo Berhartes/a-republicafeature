@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 220701,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220701",
+    "nome": "Delegado Matheus Laiola",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220701.jpg",
+    "email": "dep.delegadomatheuslaiola@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 538696.34,
+  "quantidade_transacoes": 290,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 179393.7,
+      "quantidade_transacoes": 42,
+      "porcentagem_do_total": 33.3
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 111000.0,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 20.61
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 94500.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 17.54
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 89768.64,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 16.66
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 36045.41,
+      "quantidade_transacoes": 160,
+      "porcentagem_do_total": 6.69
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Novacar Locadora de Veículos Ltda",
+      "cnpj": "19374791000148",
+      "total": 111000.0,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 20.61
+    },
+    {
+      "nome": "Saturno limpeza e conservação a edifícios -LTDA",
+      "cnpj": "34999344000178",
+      "total": 94500.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 17.54
+    },
+    {
+      "nome": "PRYSCILA EVELYSE MARAN VIEIRA",
+      "cnpj": "06962008000115",
+      "total": 90840.0,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 16.86
+    },
+    {
+      "nome": "Confianza Imóveis",
+      "cnpj": "24551899000107",
+      "total": 85337.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 15.84
+    },
+    {
+      "nome": "Joao Guilherme Bonatto Francischini",
+      "cnpj": "44604729000142",
+      "total": 57500.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 10.67
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 15397.02,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 2.86
+    },
+    {
+      "nome": "EMELIN KELEN RIBEIRO LESZCZYNSKI",
+      "cnpj": "34335626000170",
+      "total": 12000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.23
+    },
+    {
+      "nome": "Facebook Serviços Online do Brasil ltda",
+      "cnpj": "13347016000117",
+      "total": 9652.92,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 1.79
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 8527.18,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.58
+    },
+    {
+      "nome": "AUTO POSTO HUGO SIMAS COMBUSTIVEIS E CONVENIENCIA LTDA",
+      "cnpj": "36697963000133",
+      "total": 4897.66,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 0.91
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 44214.87,
+      "porcentagem_do_total": 8.21
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 43902.2,
+      "porcentagem_do_total": 8.15
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 45291.96,
+      "porcentagem_do_total": 8.41
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 40853.44,
+      "porcentagem_do_total": 7.58
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 40049.58,
+      "porcentagem_do_total": 7.43
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 53843.52,
+      "porcentagem_do_total": 10.0
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 38837.22,
+      "porcentagem_do_total": 7.21
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 43176.82,
+      "porcentagem_do_total": 8.02
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 37459.89,
+      "porcentagem_do_total": 6.95
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 47327.31,
+      "porcentagem_do_total": 8.79
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 51200.35,
+      "porcentagem_do_total": 9.5
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 52539.18,
+      "porcentagem_do_total": 9.75
+    }
+  ]
+}

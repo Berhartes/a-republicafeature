@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T17:45:22Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "deputados.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "deputadoId": "220548"
+  },
+  "data": {
+    "id": "220548",
+    "nome": "Camila Jara",
+    "nomeEleitoral": "Camila Jara",
+    "nomeCivil": null,
+    "partido": "PT",
+    "siglaPartido": "PT",
+    "uf": "MS",
+    "siglaUf": "MS",
+    "urlFoto": null,
+    "totalDespesas": 1214304.000000001,
+    "numeroDespesas": 1200,
+    "fornecedoresIdentificados": 160,
+    "createdAt": "2025-11-01T17:45:19Z",
+    "gastosPorAno": {},
+    "transacoesPorAno": {},
+    "topCategorias": [],
+    "topFornecedores": [],
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "temDetalhes": false
+  }
+}

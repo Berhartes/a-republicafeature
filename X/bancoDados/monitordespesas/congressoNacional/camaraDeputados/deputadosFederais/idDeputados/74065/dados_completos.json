@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 74065,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74065",
+      "nome": "Fatima Pelaes",
+      "siglaPartido": "REPUBLICANOS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+      "siglaUf": "AP",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74065.jpg",
+      "email": "dep.fatimapelaes@camara.leg.br"
+    },
+    "legislatura": 57,
+    "generatedAt": "2025-11-10T22:34:52.824204",
+    "totalDespesas": 32784.69,
+    "quantidadeDespesas": 3
+  },
+  "despesas": [
+    {
+      "ano": 2025,
+      "mes": 10,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 8007696,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-10-28T00:00:00",
+      "numDocumento": "126",
+      "valorDocumento": 26000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/565/2025/8007696.pdf",
+      "nomeFornecedor": "CP3 LTDA-ME",
+      "cnpjCpfFornecedor": "09489958000162",
+      "valorLiquido": 26000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2185587,
+      "parcela": 0
+    },
+    {
+      "ano": 2025,
+      "mes": 10,
+      "tipoDespesa": "PASSAGEM AÉREA - REEMBOLSO",
+      "codDocumento": 7997863,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-10-09T00:00:00",
+      "numDocumento": "9572254279659",
+      "valorDocumento": 3581.87,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/565/2025/7997863.pdf",
+      "nomeFornecedor": "Latam Linhas Aéreas S.A",
+      "cnpjCpfFornecedor": "02012862000160",
+      "valorLiquido": 3581.87,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2180388,
+      "parcela": 0
+    },
+    {
+      "ano": 2025,
+      "mes": 10,
+      "tipoDespesa": "PASSAGEM AÉREA - REEMBOLSO",
+      "codDocumento": 8000903,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-10-12T00:00:00",
+      "numDocumento": "9572254634993",
+      "valorDocumento": 3202.82,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/565/2025/8000903.pdf",
+      "nomeFornecedor": "Latam Linhas Aéreas S.A",
+      "cnpjCpfFornecedor": "02012862000160",
+      "valorLiquido": 3202.82,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2182019,
+      "parcela": 0
+    }
+  ],
+  "fornecedores": {
+    "09489958000162": {
+      "nome": "CP3 LTDA-ME",
+      "cnpj": "09489958000162",
+      "total": 26000.0,
+      "transacoes": 1
+    },
+    "02012862000160": {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 6784.6900000000005,
+      "transacoes": 2
+    }
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": 26000.0,
+    "PASSAGEM AÉREA - REEMBOLSO": 6784.6900000000005
+  },
+  "anosSumario": {
+    "2025": {
+      "total": 32784.69,
+      "transacoes": 3
+    }
+  }
+}

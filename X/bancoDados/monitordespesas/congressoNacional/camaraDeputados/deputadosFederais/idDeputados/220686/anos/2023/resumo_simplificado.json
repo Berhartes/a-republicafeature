@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220686,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220686",
+    "nome": "Duarte Jr.",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220686.jpg",
+    "email": "dep.duartejr@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 377533.15,
+  "quantidade_transacoes": 530,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 132000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 34.96
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 79329.0,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 21.01
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 72076.65,
+      "quantidade_transacoes": 93,
+      "porcentagem_do_total": 19.09
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 69615.83,
+      "quantidade_transacoes": 44,
+      "porcentagem_do_total": 18.44
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 11202.72,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 2.97
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "LOCADORA SÃO LUÍS LTDA - EPP",
+      "cnpj": "01870297000109",
+      "total": 120000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 31.79
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 44020.24,
+      "quantidade_transacoes": 50,
+      "porcentagem_do_total": 11.66
+    },
+    {
+      "nome": "Equipe Negocios Imobiliarios - Luis E P Barbosa",
+      "cnpj": "28798837000147",
+      "total": 33000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 8.74
+    },
+    {
+      "nome": "CARAVELAS CONSULTORIA E COMUNICACAO LTDA - EPP",
+      "cnpj": "20390376000167",
+      "total": 24000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.36
+    },
+    {
+      "nome": "SONIA MARIA ASSAD MARTINS",
+      "cnpj": "41501537000112",
+      "total": 20000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 5.3
+    },
+    {
+      "nome": "COMUNIQUE ASSESSORIA DE COMUNICAÇÃO LTDA.",
+      "cnpj": "04269852000130",
+      "total": 19600.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 5.19
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 14401.83,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 3.81
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 13654.58,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 3.62
+    },
+    {
+      "nome": "Companhia de Saneamento Ambiental do Maranhão - CAEMA",
+      "cnpj": "06274757000150",
+      "total": 12360.65,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 3.27
+    },
+    {
+      "nome": "LOCADORA SAO LUIS LTDA",
+      "cnpj": "01870297000109",
+      "total": 12000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.18
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 29227.16,
+      "porcentagem_do_total": 7.74
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 44303.98,
+      "porcentagem_do_total": 11.74
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 36030.83,
+      "porcentagem_do_total": 9.54
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 44583.95,
+      "porcentagem_do_total": 11.81
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 55790.96,
+      "porcentagem_do_total": 14.78
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 32249.47,
+      "porcentagem_do_total": 8.54
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 32145.34,
+      "porcentagem_do_total": 8.51
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 27083.99,
+      "porcentagem_do_total": 7.17
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 37028.34,
+      "porcentagem_do_total": 9.81
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 11636.31,
+      "porcentagem_do_total": 3.08
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 27452.82,
+      "porcentagem_do_total": 7.27
+    }
+  ]
+}

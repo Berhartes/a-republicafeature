@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "RODOVIA COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA",
+      "cnpj": "17361190000175",
+      "total_recebido": 185.21,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 185.21,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-07-02T13:16:10",
+    "periodo_fim": "2024-07-02T13:16:10",
+    "generatedAt": "2025-11-11T21:38:05.043009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 185.21,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 185.21,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 185.21,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7767849,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-07-02T13:16:10",
+      "numDocumento": "2061447",
+      "valorDocumento": 185.21,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7767849",
+      "nomeFornecedor": "RODOVIA COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA",
+      "cnpjCpfFornecedor": "17361190000175",
+      "valorLiquido": 185.21,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2056345,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total_recebido": 151240.0,
+      "numero_transacoes": 36,
+      "numero_deputados": 2
+    },
+    "ano": 2025,
+    "total_recebido": 4640.0,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-03-06T00:00:00",
+    "periodo_fim": "2025-04-03T00:00:00",
+    "generatedAt": "2025-11-11T21:37:55.543483"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 4640.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 4640.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 2900.0,
+      "porcentagem_do_total": 62.5
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 1740.0,
+      "porcentagem_do_total": 37.5
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7878957,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2025-03-06T00:00:00",
+      "numDocumento": "27027",
+      "valorDocumento": 2900.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2025/7878957.pdf",
+      "nomeFornecedor": "PANTANAL VEÍCULOS LTDA",
+      "cnpjCpfFornecedor": "07319323000191",
+      "valorLiquido": 2900.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2116321,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2025,
+      "mes": 3,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7894612,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2025-04-03T00:00:00",
+      "numDocumento": "27198",
+      "valorDocumento": 1740.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2025/7894612.pdf",
+      "nomeFornecedor": "PANTANAL VEÍCULOS LTDA",
+      "cnpjCpfFornecedor": "07319323000191",
+      "valorLiquido": 1740.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2124802,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

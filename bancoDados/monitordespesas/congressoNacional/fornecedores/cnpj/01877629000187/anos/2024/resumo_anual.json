@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COM. DE COMB. STA EDWIGES LTDA",
+      "cnpj": "01877629000187",
+      "total_recebido": 1200.8999999999999,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 954.93,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-03-15T10:14:38",
+    "periodo_fim": "2024-12-08T21:27:04",
+    "generatedAt": "2025-11-11T21:37:53.330480"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 954.93,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 954.93,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 244.04,
+      "porcentagem_do_total": 25.56
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 269.33,
+      "porcentagem_do_total": 28.2
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 207.06,
+      "porcentagem_do_total": 21.68
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 234.5,
+      "porcentagem_do_total": 24.56
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7703500,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-03-15T10:14:38",
+      "numDocumento": "16936",
+      "valorDocumento": 244.04,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7703500",
+      "nomeFornecedor": "COM. DE COMB. STA EDWIGES LTDA",
+      "cnpjCpfFornecedor": "01877629000187",
+      "valorLiquido": 244.04,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2022216,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7780062,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-07-29T20:53:36",
+      "numDocumento": "17563",
+      "valorDocumento": 269.33,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7780062",
+      "nomeFornecedor": "COM. DE COMB. STA EDWIGES LTDA",
+      "cnpjCpfFornecedor": "01877629000187",
+      "valorLiquido": 269.33,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2062423,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7845558,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-11-25T21:46:50",
+      "numDocumento": "18066",
+      "valorDocumento": 207.06,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7845558",
+      "nomeFornecedor": "COM. DE COMB. STA EDWIGES LTDA",
+      "cnpjCpfFornecedor": "01877629000187",
+      "valorLiquido": 207.06,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2097296,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7841799,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-12-08T21:27:04",
+      "numDocumento": "18116",
+      "valorDocumento": 234.5,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7841799",
+      "nomeFornecedor": "COM. DE COMB. STA EDWIGES LTDA",
+      "cnpjCpfFornecedor": "01877629000187",
+      "valorLiquido": 234.5,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2095288,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

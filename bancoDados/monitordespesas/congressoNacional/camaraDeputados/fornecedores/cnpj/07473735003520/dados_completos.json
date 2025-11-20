@@ -3,54 +3,50 @@
     "fornecedor": {
       "nome": "SIM REDE DE POSTOS LTDA - ELDORADO VIADUTO",
       "cnpj": "07473735003520",
-      "total_recebido": 336.6,
+      "total_recebido": 402.58000000000004,
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:56:50.569151"
+    "generatedAt": "2025-11-11T05:22:36.130078"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 336.6
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 402.58000000000004
   },
   "anos": {
-    "2024": {
-      "total": 200.0,
-      "transacoes": 1,
-      "deputados": 1
-    },
-    "2025": {
-      "total": 136.6,
-      "transacoes": 1,
+    "2023": {
+      "total": 402.58000000000004,
+      "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "220549": {
+    "220554": {
       "deputado": {
-        "id": 220549,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220549",
-        "nome": "Any Ortiz",
-        "siglaPartido": "CIDADANIA",
+        "id": 220554,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+        "nome": "Alexandre Lindenmeyer",
+        "nomeEleitoral": "Alexandre Lindenmeyer",
+        "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
-        "email": "dep.anyortiz@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
+        "email": "dep.alexandrelindenmeyer@camara.leg.br"
       },
-      "total": 336.6,
+      "total": 402.58000000000004,
       "transacoes": 2,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 6,
+          "ano": 2023,
+          "mes": 7,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7748047,
+          "codDocumento": 7590071,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-06-04T17:59:40",
-          "numDocumento": "3403664",
+          "dataDocumento": "2023-07-28T00:00:00",
+          "numDocumento": "2902611",
           "valorDocumento": 200.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7748047",
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7590071",
           "nomeFornecedor": "SIM REDE DE POSTOS LTDA - ELDORADO VIADUTO",
           "cnpjCpfFornecedor": "07473735003520",
           "valorLiquido": 200.0,
@@ -60,19 +56,19 @@
           "parcela": 0
         },
         {
-          "ano": 2025,
-          "mes": 6,
+          "ano": 2023,
+          "mes": 12,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7942558,
+          "codDocumento": 7670142,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-06-26T00:00:00",
-          "numDocumento": "4020372",
-          "valorDocumento": 136.6,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7942558",
-          "nomeFornecedor": "ELDORADO VIADUTO",
+          "dataDocumento": "2023-12-29T00:00:00",
+          "numDocumento": "3161481",
+          "valorDocumento": 202.58,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7670142",
+          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - ELDORADO VIADUTO",
           "cnpjCpfFornecedor": "07473735003520",
-          "valorLiquido": 136.6,
+          "valorLiquido": 202.58,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

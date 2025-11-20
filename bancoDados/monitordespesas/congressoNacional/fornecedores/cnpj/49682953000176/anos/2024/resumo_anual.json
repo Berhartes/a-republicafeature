@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "49.682.953 THIAGO MARTINS DA SILVA",
+      "cnpj": "49682953000176",
+      "total_recebido": 8700.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 7500.0,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-03-25T00:00:00",
+    "periodo_fim": "2024-05-29T00:00:00",
+    "generatedAt": "2025-11-11T21:37:54.828484"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 7500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 7500.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 2500.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 2500.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 2500.0,
+      "porcentagem_do_total": 33.33
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 3,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7709768,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-03-25T00:00:00",
+      "numDocumento": "27",
+      "valorDocumento": 2500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7709768.pdf",
+      "nomeFornecedor": "THIAGO MARTINS DA SILVA - AGORA NOTICIAS COMUNICAÇÃO",
+      "cnpjCpfFornecedor": "49682953000176",
+      "valorLiquido": 2500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2025368,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 4,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7728196,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-04-29T00:00:00",
+      "numDocumento": "34",
+      "valorDocumento": 2500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7728196.pdf",
+      "nomeFornecedor": "THIAGO MARTINS DA SILVA - AGORA NOTICIAS COMUNICAÇÃO",
+      "cnpjCpfFornecedor": "49682953000176",
+      "valorLiquido": 2500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2035111,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7760123,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-05-29T00:00:00",
+      "numDocumento": "42",
+      "valorDocumento": 2500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7760123.pdf",
+      "nomeFornecedor": "THIAGO MARTINS DA SILVA - AGORA NOTICIAS COMUNICAÇÃO",
+      "cnpjCpfFornecedor": "49682953000176",
+      "valorLiquido": 2500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2052280,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO 305 SUL LTDA.",
+    "cnpj": "32085527000152",
+    "total_recebido": 284.99,
+    "numero_transacoes": 2,
+    "numero_deputados": 2
+  },
+  "ano": 2025,
+  "total_recebido": 50.0,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 50.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 50.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 50.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

@@ -181,6 +181,7 @@ function calculateDelay(attempt: number, errorType: ErrorType, retryAfter?: numb
       break;
   }
 
+  // Add random jitter to prevent thundering herd problem in distributed systems
   const jitter = Math.random() * RETRY_CONFIG.jitterMax;
   delay += jitter;
 
@@ -252,7 +253,7 @@ export async function withRetry<T>(
         throw error;
       }
 
-      const retryAfter = error?.response?.headers?.['retry-after'];
+      const retryAfter = (error as any)?.response?.headers?.['retry-after'];
       const delay = calculateDelay(attempt, errorType, retryAfter);
 
       if (onRetry) {
@@ -265,7 +266,7 @@ export async function withRetry<T>(
         maxRetries,
         delay: `${delay}ms`,
         errorType,
-        errorMessage: error?.message || String(error)
+        errorMessage: (error as any)?.message || String(error)
       });
 
       await sleep(delay);

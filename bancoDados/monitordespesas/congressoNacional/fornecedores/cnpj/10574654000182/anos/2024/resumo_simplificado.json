@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "P V BANDEIRANTES COMERCIO DE COMBUSTIVEIS LTDA",
+    "cnpj": "10574654000182",
+    "total_recebido": 558.38,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 558.38,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 558.38,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 558.38,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 296.12,
+      "porcentagem_do_total": 53.03
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 262.26,
+      "porcentagem_do_total": 46.97
+    }
+  ]
+}

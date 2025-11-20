@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "REDE HG COMBUSTIVEIS LTDA",
       "cnpj": "13569064003175",
-      "total_recebido": 286.26,
+      "total_recebido": 297.02,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:56:39.532341"
+    "generatedAt": "2025-11-11T05:22:39.937689"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 286.26
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 297.02
   },
   "anos": {
-    "2023": {
-      "total": 286.26,
+    "2024": {
+      "total": 297.02,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "160553": {
+    "74057": {
       "deputado": {
-        "id": 160553,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
-        "nome": "Antonio Brito",
-        "siglaPartido": "PSD",
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
         "uriPartido": "",
         "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
-        "email": "dep.antoniobrito@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
       },
-      "total": 286.26,
+      "total": 297.02,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 6,
+          "ano": 2024,
+          "mes": 2,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7561708,
+          "codDocumento": 7695838,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-06-08T00:00:00",
-          "numDocumento": "480386",
-          "valorDocumento": 286.26,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7561708",
+          "dataDocumento": "2024-02-29T16:07:49",
+          "numDocumento": "519245",
+          "valorDocumento": 297.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7695838",
           "nomeFornecedor": "REDE HG COMBUSTIVEIS LTDA",
           "cnpjCpfFornecedor": "13569064003175",
-          "valorLiquido": 286.26,
+          "valorLiquido": 297.02,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

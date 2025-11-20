@@ -1,0 +1,66 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO PONTA NEGRA LTDA",
+    "cnpj": "35008891000107",
+    "total_recebido": 2480.0299999999997,
+    "numero_transacoes": 11,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 2480.03,
+  "quantidade_transacoes": 11,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 2480.03,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 2480.03,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 600.0,
+      "porcentagem_do_total": 24.19
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 300.0,
+      "porcentagem_do_total": 12.1
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 200.0,
+      "porcentagem_do_total": 8.06
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 700.0,
+      "porcentagem_do_total": 28.23
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 200.0,
+      "porcentagem_do_total": 8.06
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 480.03,
+      "porcentagem_do_total": 19.36
+    }
+  ]
+}

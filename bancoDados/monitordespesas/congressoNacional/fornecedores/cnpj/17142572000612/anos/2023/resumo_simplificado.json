@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO GASPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+    "cnpj": "17142572000612",
+    "total_recebido": 1529.0,
+    "numero_transacoes": 7,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 150.0,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 150.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 150.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 150.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BATARA COMERCIO DE PETROLEO LTDA",
+      "cnpj": "11220341000199",
+      "total_recebido": 1852.2199999999998,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 1302.22,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-07-15T10:36:18",
+    "periodo_fim": "2025-07-23T10:32:37",
+    "generatedAt": "2025-11-11T21:38:00.160011"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 1302.22,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1302.22,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 1302.22,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7948299,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-07-15T10:36:18",
+      "numDocumento": "6807",
+      "valorDocumento": 724.41,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7948299",
+      "nomeFornecedor": "AUTO POSTO ELDORADO LTDA",
+      "cnpjCpfFornecedor": "11220341000199",
+      "valorLiquido": 724.41,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2154264,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7955172,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-07-23T10:32:37",
+      "numDocumento": "73529",
+      "valorDocumento": 577.81,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7955172",
+      "nomeFornecedor": "AUTO POSTO ELDORADO LTDA",
+      "cnpjCpfFornecedor": "11220341000199",
+      "valorLiquido": 577.81,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2157776,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

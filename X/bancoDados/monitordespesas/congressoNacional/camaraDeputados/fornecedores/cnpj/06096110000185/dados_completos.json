@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEL 44 IJUI LTDA",
+      "cnpj": "06096110000185",
+      "total_recebido": 298.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:12.813340"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 298.0
+  },
+  "anos": {
+    "2023": {
+      "total": 298.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178835": {
+      "deputado": {
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
+      },
+      "total": 298.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7495261,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-06T00:00:00",
+          "numDocumento": "202300000067909",
+          "valorDocumento": 149.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2880/2023/7495261.pdf",
+          "nomeFornecedor": "HOTEL 44 IJUI LTDA",
+          "cnpjCpfFornecedor": "06096110000185",
+          "valorLiquido": 149.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7495263,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-06T00:00:00",
+          "numDocumento": "202300000067908",
+          "valorDocumento": 149.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2880/2023/7495263.pdf",
+          "nomeFornecedor": "HOTEL 44 IJUI LTDA",
+          "cnpjCpfFornecedor": "06096110000185",
+          "valorLiquido": 149.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

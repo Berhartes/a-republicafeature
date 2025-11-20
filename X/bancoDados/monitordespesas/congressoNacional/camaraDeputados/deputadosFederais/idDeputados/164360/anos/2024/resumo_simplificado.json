@@ -1,0 +1,164 @@
+{
+  "deputado": {
+    "id": 164360,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164360",
+    "nome": "Carmen Zanotto",
+    "siglaPartido": "CIDADANIA",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+    "siglaUf": "SC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/164360.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 112034.74,
+  "quantidade_transacoes": 102,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 38500.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 34.36
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 32627.8,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 29.12
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 18281.27,
+      "quantidade_transacoes": 55,
+      "porcentagem_do_total": 16.32
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 15893.61,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 14.19
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 4581.52,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 4.09
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "BRASIL LEASING LOCADORA DE VEICULOS LTDA",
+      "cnpj": "17153227000170",
+      "total": 38500.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 34.36
+    },
+    {
+      "nome": "R MORAES AGENCIA DE TURISMO EIRELI",
+      "cnpj": "00000000000010",
+      "total": 30820.5,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 27.51
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 13866.35,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 12.38
+    },
+    {
+      "nome": "AUTO POSTO DUQUE LTDA",
+      "cnpj": "05598939000113",
+      "total": 5866.81,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 5.24
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 2027.26,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.81
+    },
+    {
+      "nome": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "37063328001058",
+      "total": 1815.8,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 1.62
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 1807.3,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.61
+    },
+    {
+      "nome": "LIZARA HOTEL E RESTAURANTE EIRELI - EPP",
+      "cnpj": "17025236000185",
+      "total": 1453.52,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.3
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS SAO RAFAEL LTDA",
+      "cnpj": "53600984000108",
+      "total": 1410.25,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.26
+    },
+    {
+      "nome": "HOTEIS RITZ",
+      "cnpj": "35632819000156",
+      "total": 1380.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.23
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 16685.62,
+      "porcentagem_do_total": 14.89
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 43571.3,
+      "porcentagem_do_total": 38.89
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 6601.17,
+      "porcentagem_do_total": 5.89
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 583.67,
+      "porcentagem_do_total": 0.52
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 10485.32,
+      "porcentagem_do_total": 9.36
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 15019.46,
+      "porcentagem_do_total": 13.41
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 19088.2,
+      "porcentagem_do_total": 17.04
+    }
+  ]
+}

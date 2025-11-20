@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220699,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220699",
+    "nome": "Castro Neto",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "PI",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220699.jpg",
+    "email": "dep.castroneto@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 450606.63,
+  "quantidade_transacoes": 470,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 111600.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 24.77
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 107891.67,
+      "quantidade_transacoes": 160,
+      "porcentagem_do_total": 23.94
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 64029.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 14.21
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "total": 62700.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 13.91
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 47829.17,
+      "quantidade_transacoes": 205,
+      "porcentagem_do_total": 10.61
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "R. L EMPREENDIMENTOS E SERVIÇOS LTDA",
+      "cnpj": "15183027000134",
+      "total": 108900.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 24.17
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 97451.91,
+      "quantidade_transacoes": 149,
+      "porcentagem_do_total": 21.63
+    },
+    {
+      "nome": "JGF PRODUCAO DE TEXTOS E EVENTOS LTDA",
+      "cnpj": "22024005000197",
+      "total": 64029.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 14.21
+    },
+    {
+      "nome": "CEARA TAXI AEREO LTDA",
+      "cnpj": "03003930000197",
+      "total": 62700.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 13.91
+    },
+    {
+      "nome": "KEYLANE RIOS SPODE",
+      "cnpj": "64183378320",
+      "total": 23712.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 5.26
+    },
+    {
+      "nome": "CACIQUE PETROLEO LTDA",
+      "cnpj": "06656656001387",
+      "total": 18014.41,
+      "quantidade_transacoes": 72,
+      "porcentagem_do_total": 4.0
+    },
+    {
+      "nome": "NEVES E FERREIRA TECNOLOGIA LTDA",
+      "cnpj": "35748629000107",
+      "total": 13090.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 2.9
+    },
+    {
+      "nome": "SIQUEIRA SOARES LTDA - EPP",
+      "cnpj": "06773030000117",
+      "total": 9876.53,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 2.19
+    },
+    {
+      "nome": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpj": "08532429000131",
+      "total": 9200.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 2.04
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 7753.78,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 1.72
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 10155.91,
+      "porcentagem_do_total": 2.25
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 31794.94,
+      "porcentagem_do_total": 7.06
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 31554.14,
+      "porcentagem_do_total": 7.0
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 79876.86,
+      "porcentagem_do_total": 17.73
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 69419.65,
+      "porcentagem_do_total": 15.41
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 35623.14,
+      "porcentagem_do_total": 7.91
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 48273.94,
+      "porcentagem_do_total": 10.71
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 37632.96,
+      "porcentagem_do_total": 8.35
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 43701.83,
+      "porcentagem_do_total": 9.7
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 29991.59,
+      "porcentagem_do_total": 6.66
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 32581.67,
+      "porcentagem_do_total": 7.23
+    }
+  ]
+}

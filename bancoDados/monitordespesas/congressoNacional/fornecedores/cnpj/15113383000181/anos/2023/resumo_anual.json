@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "M.M. COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "15113383000181",
+      "total_recebido": 7906.96,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 2620.0,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-06-17T00:00:00",
+    "periodo_fim": "2023-07-16T00:00:00",
+    "generatedAt": "2025-11-11T21:38:00.697012"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 2620.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 2620.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 1620.0,
+      "porcentagem_do_total": 61.83
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 1000.0,
+      "porcentagem_do_total": 38.17
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7577546,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-07-16T00:00:00",
+      "numDocumento": "392058",
+      "valorDocumento": 1000.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7577546",
+      "nomeFornecedor": "M.M. COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "15113383000181",
+      "valorLiquido": 1000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1952345,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7560496,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-06-17T00:00:00",
+      "numDocumento": "387172",
+      "valorDocumento": 1620.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7560496",
+      "nomeFornecedor": "M.M. COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "15113383000181",
+      "valorLiquido": 1620.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1942976,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

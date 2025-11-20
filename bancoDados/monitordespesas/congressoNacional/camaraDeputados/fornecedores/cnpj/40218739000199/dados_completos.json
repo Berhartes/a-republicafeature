@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:34.168025"
+    "generatedAt": "2025-11-11T05:22:43.256556"
   },
   "categorias": {
     "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 24000.0
@@ -25,6 +25,7 @@
         "id": 226708,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
         "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "MA",
@@ -37,15 +38,15 @@
       "despesas": [
         {
           "ano": 2023,
-          "mes": 10,
+          "mes": 9,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7642099,
+          "codDocumento": 7638697,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-11-06T00:00:00",
-          "numDocumento": "00000058",
+          "dataDocumento": "2023-10-02T00:00:00",
+          "numDocumento": "00000057",
           "valorDocumento": 12000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2023/7642099.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2023/7638697.pdf",
           "nomeFornecedor": "4K COMUNICACAO E MARKETING LTDA",
           "cnpjCpfFornecedor": "40218739000199",
           "valorLiquido": 12000.0,
@@ -56,15 +57,15 @@
         },
         {
           "ano": 2023,
-          "mes": 9,
+          "mes": 10,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7638697,
+          "codDocumento": 7642099,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-10-02T00:00:00",
-          "numDocumento": "00000057",
+          "dataDocumento": "2023-11-06T00:00:00",
+          "numDocumento": "00000058",
           "valorDocumento": 12000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2023/7638697.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2023/7642099.pdf",
           "nomeFornecedor": "4K COMUNICACAO E MARKETING LTDA",
           "cnpjCpfFornecedor": "40218739000199",
           "valorLiquido": 12000.0,

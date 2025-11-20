@@ -61,7 +61,7 @@ export enum ErrorCategory {
   USER_INPUT = 'user_input'
 }
 
-export class ParliamentaryError extends Error {
+export class ParliamentaryError extends globalThis.Error {
   public readonly code: ErrorCode
   public readonly severity: ErrorSeverity
   public readonly category: ErrorCategory
@@ -137,7 +137,7 @@ export class ValidationError extends ParliamentaryError {
   }
 }
 
-export class Error extends ParliamentaryError {
+export class DataError extends ParliamentaryError {
   public readonly collection?: string
   public readonly document?: string
   public readonly operation?: 'read' | 'write' | 'delete' | 'query'
@@ -145,10 +145,10 @@ export class Error extends ParliamentaryError {
   constructor(
     code: ErrorCode,
     message: string,
-    options: Partial<Error> = {}
+    options: Partial<DataError> = {}
   ) {
     super(code, message, options)
-    this.name = 'Error'
+    this.name = 'DataError'
     this.collection = options.collection
     this.document = options.document
     this.operation = options.operation
@@ -205,12 +205,12 @@ export class ErrorFactory {
     )
   }
 
-  static createError(
-    operation: Error['operation'],
+  static createDataError(
+    operation: DataError['operation'],
     message: string,
-    options: Partial<Error> = {}
-  ): Error {
-    return new Error(
+    options: Partial<DataError> = {}
+  ): DataError {
+    return new DataError(
       ErrorCode._CONNECTION_ERROR,
       message,
       { operation, collection: options.collection, document: options.document, ...options }
@@ -317,6 +317,10 @@ export interface ErrorContext {
   userAgent?: string
   timestamp?: number
   buildVersion?: string
+  searchTerm?: string
+  year?: string | number
+  deputyId?: string | number
+  [key: string]: unknown
 }
 
 export interface ErrorReportingConfig {
@@ -346,7 +350,7 @@ export const ErrorPredicates = {
   isValidationError: (error: ParliamentaryError): error is ValidationError =>
     error.category === ErrorCategory.VALIDATION,
   
-  isError: (error: ParliamentaryError): error is Error =>
+  isDataError: (error: ParliamentaryError): error is DataError =>
     error.code === ErrorCode._CONNECTION_ERROR,
   
   isChamberAPIError: (error: ParliamentaryError): error is ChamberAPIError =>

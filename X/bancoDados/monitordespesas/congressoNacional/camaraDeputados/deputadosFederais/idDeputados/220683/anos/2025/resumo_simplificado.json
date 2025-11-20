@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 220683,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220683",
+    "nome": "Beto Richa",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220683.jpg",
+    "email": "dep.betoricha@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 37447.01,
+  "quantidade_transacoes": 97,
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 19132.56,
+      "quantidade_transacoes": 75,
+      "porcentagem_do_total": 51.09
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 18314.45,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 48.91
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "RP TECNOLOGIA LTDA",
+      "cnpj": "51660085000175",
+      "total": 12141.12,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 32.42
+    },
+    {
+      "nome": "AUTO POSTO 302 SUL LTDA",
+      "cnpj": "30642701000195",
+      "total": 7356.43,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 19.64
+    },
+    {
+      "nome": "YELLOW DATA - SOLUÇÕESINTELIGENTES EM TI LTDA",
+      "cnpj": "15480228000101",
+      "total": 2939.53,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 7.85
+    },
+    {
+      "nome": "WISETECHTI",
+      "cnpj": "05650088000100",
+      "total": 2200.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.87
+    },
+    {
+      "nome": "ACIPE COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "76013911000115",
+      "total": 1971.73,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 5.27
+    },
+    {
+      "nome": "AUTO POSTO MUSEU LTDA",
+      "cnpj": "34755905000193",
+      "total": 1767.79,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 4.72
+    },
+    {
+      "nome": "045 - QL 02 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597004518",
+      "total": 1302.18,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 3.48
+    },
+    {
+      "nome": "AUTO POSTO BLUE 32 LTDA",
+      "cnpj": "30568110000115",
+      "total": 677.66,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.81
+    },
+    {
+      "nome": "AUTO POSTO ANILA EIRELI",
+      "cnpj": "08112780000173",
+      "total": 592.41,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.58
+    },
+    {
+      "nome": "EMIDIO SOUTO PEREIRA",
+      "cnpj": "13345728000105",
+      "total": 584.9,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.56
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 4113.09,
+      "porcentagem_do_total": 10.98
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 3938.68,
+      "porcentagem_do_total": 10.52
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 6105.77,
+      "porcentagem_do_total": 16.31
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 3714.35,
+      "porcentagem_do_total": 9.92
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 4018.17,
+      "porcentagem_do_total": 10.73
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 4121.48,
+      "porcentagem_do_total": 11.01
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 2349.18,
+      "porcentagem_do_total": 6.27
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 3434.66,
+      "porcentagem_do_total": 9.17
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 3249.91,
+      "porcentagem_do_total": 8.68
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 2092.59,
+      "porcentagem_do_total": 5.59
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 309.13,
+      "porcentagem_do_total": 0.83
+    }
+  ]
+}

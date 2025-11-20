@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "rootDir": "./",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "declaration": false,
+    "sourceMap": false,
+    "types": ["node"],
+    "typeRoots": ["./types", "../node_modules/@types", "../../node_modules/@types"],
+    "skipLibCheck": true
+  },
+  "include": [
+    "publish_cache.ts",
+    "refresh_cache_manifests.ts"
+  ],
+  "exclude": ["dist"]
+}

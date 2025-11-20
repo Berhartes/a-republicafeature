@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "transamerica primavera do leste -scp",
+      "cnpj": "41820336000188",
+      "total_recebido": 506.1,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 506.1,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-11-25T00:00:00",
+    "periodo_fim": "2023-11-25T00:00:00",
+    "generatedAt": "2025-11-11T21:37:55.451481"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 506.1,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 506.1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 506.1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "codDocumento": 7665675,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-11-25T00:00:00",
+      "numDocumento": "15711",
+      "valorDocumento": 253.05,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7665675.pdf",
+      "nomeFornecedor": "transamerica primavera do leste -scp",
+      "cnpjCpfFornecedor": "41820336000188",
+      "valorLiquido": 253.05,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2000622,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "codDocumento": 7665679,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-11-25T00:00:00",
+      "numDocumento": "15713",
+      "valorDocumento": 253.05,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7665679.pdf",
+      "nomeFornecedor": "transamerica primavera do leste -scp",
+      "cnpjCpfFornecedor": "41820336000188",
+      "valorLiquido": 253.05,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2000622,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

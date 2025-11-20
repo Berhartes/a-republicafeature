@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 160600,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160600",
+    "nome": "Arthur Oliveira Maia",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
+    "email": "dep.arthuroliveiramaia@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 515091.63,
+  "quantidade_transacoes": 362,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 152400.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 29.59
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 100035.06,
+      "quantidade_transacoes": 100,
+      "porcentagem_do_total": 19.42
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 81040.53,
+      "quantidade_transacoes": 35,
+      "porcentagem_do_total": 15.73
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 78900.0,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 15.32
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 58719.43,
+      "quantidade_transacoes": 73,
+      "porcentagem_do_total": 11.4
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ATLÂNTICO TRANSPORTES LTDA.",
+      "cnpj": "08380889000191",
+      "total": 127000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 24.66
+    },
+    {
+      "nome": "J. CERQUEIRA E COMPANHIA",
+      "cnpj": "12607218000198",
+      "total": 61278.2,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 11.9
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 40847.13,
+      "quantidade_transacoes": 40,
+      "porcentagem_do_total": 7.93
+    },
+    {
+      "nome": "CARLOS EDUARDO CASAGRANDE",
+      "cnpj": "12233356000154",
+      "total": 40377.8,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 7.84
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 33717.17,
+      "quantidade_transacoes": 37,
+      "porcentagem_do_total": 6.55
+    },
+    {
+      "nome": "ATLANTICO TRANSPORTES LTDA",
+      "cnpj": "08380889000191",
+      "total": 25400.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.93
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 19662.71,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 3.82
+    },
+    {
+      "nome": "CKLS EVENTOS LTDA",
+      "cnpj": "49835474000142",
+      "total": 15000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.91
+    },
+    {
+      "nome": "GRASB GRAFICA SANTA BARBARA LTDA",
+      "cnpj": "15719743000193",
+      "total": 15000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.91
+    },
+    {
+      "nome": "NeoCom - Serv. Comunicação e Marketing Ltda",
+      "cnpj": "20139257000136",
+      "total": 15000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.91
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 18125.14,
+      "porcentagem_do_total": 3.52
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 29037.75,
+      "porcentagem_do_total": 5.64
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 39105.01,
+      "porcentagem_do_total": 7.59
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 37626.34,
+      "porcentagem_do_total": 7.3
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 68384.72,
+      "porcentagem_do_total": 13.28
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 42792.66,
+      "porcentagem_do_total": 8.31
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 45430.55,
+      "porcentagem_do_total": 8.82
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 36103.08,
+      "porcentagem_do_total": 7.01
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 52008.22,
+      "porcentagem_do_total": 10.1
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 59744.61,
+      "porcentagem_do_total": 11.6
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 30763.77,
+      "porcentagem_do_total": 5.97
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 55969.78,
+      "porcentagem_do_total": 10.87
+    }
+  ]
+}

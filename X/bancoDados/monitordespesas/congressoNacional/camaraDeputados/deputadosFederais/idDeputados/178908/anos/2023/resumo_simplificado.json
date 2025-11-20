@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 178908,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178908",
+    "nome": "Delegado Éder Mauro",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "PA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178908.jpg",
+    "email": "dep.delegadoedermauro@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 547334.43,
+  "quantidade_transacoes": 116,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 174400.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 31.86
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE EMBARCAÇÕES",
+      "total": 144000.0,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 26.31
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 105527.23,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 19.28
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 50688.82,
+      "quantidade_transacoes": 45,
+      "porcentagem_do_total": 9.26
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 42981.15,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 7.85
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "JUNIO CESAR CARDOSO",
+      "cnpj": "63336464153",
+      "total": 144000.0,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 26.31
+    },
+    {
+      "nome": "TRANSBELCAR TRANSPORTE DE VEICULOS EIRELI",
+      "cnpj": "27327288000160",
+      "total": 95527.23,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 17.45
+    },
+    {
+      "nome": "A. C. OLIVEIRA DA COSTA - ME",
+      "cnpj": "08840678000194",
+      "total": 86800.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 15.86
+    },
+    {
+      "nome": "LEAO & MARINHO LTDA",
+      "cnpj": "09308316000110",
+      "total": 57600.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 10.52
+    },
+    {
+      "nome": "POSTO VITORIA EIRELI",
+      "cnpj": "28010059000180",
+      "total": 42981.15,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 7.85
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 35686.08,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 6.52
+    },
+    {
+      "nome": "J R LISBOA RODRIGUES",
+      "cnpj": "45462282000187",
+      "total": 30000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.48
+    },
+    {
+      "nome": "Cia Aérea - GOL",
+      "cnpj": "07575651000159",
+      "total": 26634.23,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 4.87
+    },
+    {
+      "nome": "TRANSBELCAR TRANSPORTE DE VEICULOS LTDA",
+      "cnpj": "27327288000160",
+      "total": 10000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.83
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 9916.66,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 1.81
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 55326.47,
+      "porcentagem_do_total": 10.11
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 44088.1,
+      "porcentagem_do_total": 8.06
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 37080.47,
+      "porcentagem_do_total": 6.77
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 92423.82,
+      "porcentagem_do_total": 16.89
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 36406.46,
+      "porcentagem_do_total": 6.65
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 55445.81,
+      "porcentagem_do_total": 10.13
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 38994.9,
+      "porcentagem_do_total": 7.12
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 43515.37,
+      "porcentagem_do_total": 7.95
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 42003.94,
+      "porcentagem_do_total": 7.67
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 51712.57,
+      "porcentagem_do_total": 9.45
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 50336.52,
+      "porcentagem_do_total": 9.2
+    }
+  ]
+}

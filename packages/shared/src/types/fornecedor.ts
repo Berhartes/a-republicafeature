@@ -1,3 +1,5 @@
+import type { DeputadoResumo } from './deputado';
+
 export type FornecedorOrder = 'volume' | 'transacoes' | 'nome' | 'score' | 'ranking';
 
 export interface FornecedoresQueryParams {
@@ -14,14 +16,14 @@ export interface FornecedoresQueryParams {
 export interface FornecedorCategoria {
   categoria: string;
   total: number;
-  percentual?: number;
+  percentual?: number | undefined;
 }
 
 export interface FornecedorAnoResumo {
   ano: number;
   total: number;
-  numeroTransacoes?: number;
-  numeroDeputados?: number;
+  numeroTransacoes?: number | undefined;
+  numeroDeputados?: number | undefined;
 }
 
 export interface FornecedorResumo {
@@ -38,6 +40,7 @@ export interface FornecedorResumo {
   categorias: FornecedorCategoria[];
   anos: FornecedorAnoResumo[];
   createdAt?: string | null;
+  deputadosAtendidos?: Array<Pick<DeputadoResumo, 'id' | 'nomeEleitoral' | 'nome' | 'siglaPartido' | 'siglaUf'>>;
 }
 
 export interface TopFornecedorResumo {

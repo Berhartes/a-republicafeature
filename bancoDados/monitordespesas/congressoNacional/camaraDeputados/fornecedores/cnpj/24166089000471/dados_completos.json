@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:57.525912"
+    "generatedAt": "2025-11-11T05:22:08.780568"
   },
   "categorias": {
     "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 170.0
@@ -25,35 +25,17 @@
         "id": 221328,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
         "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
-        "email": "dep.adilsonbarroso@camara.leg.br"
+        "email": null
       },
       "total": 170.0,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 3,
-          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
-          "codDocumento": 7530421,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-03-02T00:00:00",
-          "numDocumento": "413",
-          "valorDocumento": 93.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7530421.pdf",
-          "nomeFornecedor": "Smartpark Ribeirão Preto",
-          "cnpjCpfFornecedor": "24166089000471",
-          "valorLiquido": 93.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 2,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "Smartpark Ribeirão Preto",
           "cnpjCpfFornecedor": "24166089000471",
           "valorLiquido": 77.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7530421,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-02T00:00:00",
+          "numDocumento": "413",
+          "valorDocumento": 93.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7530421.pdf",
+          "nomeFornecedor": "Smartpark Ribeirão Preto",
+          "cnpjCpfFornecedor": "24166089000471",
+          "valorLiquido": 93.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "POSTO DE COMBUSTIVEIS CAMPEAO FIESTA LTDA",
+    "cnpj": "38212697000137",
+    "total_recebido": 360.1,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 360.1,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 360.1,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 360.1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 360.1,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

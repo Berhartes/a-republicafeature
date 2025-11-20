@@ -1,0 +1,41 @@
+{
+  "deputado": {
+    "id": 109429,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/109429",
+    "nome": "Benes Leocádio",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "RN",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/109429.jpg",
+    "email": "dep.benesleocadio@camara.leg.br"
+  },
+  "ano": 2022,
+  "total_gasto": 1500.0,
+  "quantidade_transacoes": 1,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 1500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ELDORADO COMUNICACAO E JORNALISMO LTDA",
+      "cnpj": "37894749000130",
+      "total": 1500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 1500.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

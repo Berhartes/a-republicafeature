@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "legislador": {
+      "id": 136811,
+      "nome": "Afonso Hamm",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+      "email": "dep.afonsohamm@camara.leg.br",
+      "nomeEleitoral": "Afonso Hamm",
+      "siglaPartido": "PP",
+      "siglaUf": "RS",
+      "totalDespesas": 8700.0,
+      "numeroDespesas": 2,
+      "legislatura": 57,
+      "ano": 2022
+    },
+    "generatedAt": "2025-11-11T05:22:15.853094",
+    "legisladorDetalhes": {
+      "dados": {
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nomeCivil": "JOSÉ ALFONSO EBERT HAMM",
+        "ultimoStatus": {
+          "id": 136811,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+          "nome": "Afonso Hamm",
+          "siglaPartido": "PP",
+          "uriPartido": null,
+          "siglaUf": "RS",
+          "idLegislatura": 57,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+          "email": null,
+          "data": "2023-02-01",
+          "nomeEleitoral": "Afonso Hamm",
+          "gabinete": {
+            "nome": "604",
+            "predio": "4",
+            "sala": "604",
+            "andar": "6",
+            "telefone": "3215-5604",
+            "email": "dep.afonsohamm@camara.leg.br"
+          },
+          "situacao": "Exercício",
+          "condicaoEleitoral": "Titular",
+          "descricaoStatus": null
+        },
+        "cpf": "37040642034",
+        "sexo": "M",
+        "urlWebsite": null,
+        "redeSocial": [
+          "https://www.facebook.com/depafonsohamm",
+          "https://www.instagram.com/afonsohamm"
+        ],
+        "dataNascimento": "1962-04-25",
+        "dataFalecimento": null,
+        "ufNascimento": "RS",
+        "municipioNascimento": "Hulha Negra",
+        "escolaridade": "Superior"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811"
+        }
+      ]
+    }
+  },
+  "ano": 2022,
+  "despesas": [
+    {
+      "ano": 2022,
+      "mes": 12,
+      "valorDocumento": 5610.0,
+      "valorLiquido": 5610.0,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "nomeFornecedor": "LIZIANE QUEVEDO",
+      "codDocumento": 7499776,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-17T00:00:00",
+      "numDocumento": "636",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2023/7499776.pdf",
+      "cnpjCpfFornecedor": "07086926000190",
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1909470,
+      "parcela": 0
+    },
+    {
+      "ano": 2022,
+      "mes": 12,
+      "valorDocumento": 3090.0,
+      "valorLiquido": 3090.0,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "nomeFornecedor": "LIZIANE QUEVEDO",
+      "codDocumento": 7499778,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-17T00:00:00",
+      "numDocumento": "635",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2023/7499778.pdf",
+      "cnpjCpfFornecedor": "07086926000190",
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1909470,
+      "parcela": 0
+    }
+  ]
+}

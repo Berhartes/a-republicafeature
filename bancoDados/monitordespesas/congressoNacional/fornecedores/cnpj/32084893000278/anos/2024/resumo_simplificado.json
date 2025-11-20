@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "ROTA COMBUSTIVEIS LTDA",
+    "cnpj": "32084893000278",
+    "total_recebido": 500.07,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 500.07,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 500.07,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 500.07,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 320.07,
+      "porcentagem_do_total": 64.01
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 180.0,
+      "porcentagem_do_total": 35.99
+    }
+  ]
+}

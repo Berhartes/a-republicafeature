@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "POSTO DO TREVO LTDA",
+    "cnpj": "55973291000196",
+    "total_recebido": 1578.3300000000002,
+    "numero_transacoes": 6,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 656.31,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 656.31,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 656.31,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 324.2,
+      "porcentagem_do_total": 49.4
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 332.11,
+      "porcentagem_do_total": 50.6
+    }
+  ]
+}

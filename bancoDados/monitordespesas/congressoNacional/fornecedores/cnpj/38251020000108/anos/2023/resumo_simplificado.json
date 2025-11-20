@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "SONHO VERDE COMBUSTIVEIS LTDA",
+    "cnpj": "38251020000108",
+    "total_recebido": 406.81,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 115.93,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 115.93,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 115.93,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 115.93,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

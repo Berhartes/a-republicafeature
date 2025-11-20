@@ -1,0 +1,140 @@
+{
+  "deputado": {
+    "id": 100689,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/100689",
+    "nome": "Hildo do Candango",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "GO",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/100689.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 137655.99,
+  "quantidade_transacoes": 20,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 113134.9,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 82.19
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 19500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 14.17
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 3294.3,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 2.39
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1726.79,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 1.25
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "PRODUTORA DE VIDEOS METROPOLES -KSULO FILMES",
+      "cnpj": "42966281000181",
+      "total": 57000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 41.41
+    },
+    {
+      "nome": "FICXAR COMUNICACAO EIRELI",
+      "cnpj": "07713424000142",
+      "total": 56134.9,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 40.78
+    },
+    {
+      "nome": "SUPREMA MOBILIDADE LTDA",
+      "cnpj": "24894397000170",
+      "total": 19500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 14.17
+    },
+    {
+      "nome": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpj": "08532429000131",
+      "total": 2100.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.53
+    },
+    {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+      "cnpj": "12132854000100",
+      "total": 1194.3,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.87
+    },
+    {
+      "nome": "AUTO POSTO J.J JUNIOR LTDA",
+      "cnpj": "10515562000121",
+      "total": 351.58,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.26
+    },
+    {
+      "nome": "POSTO PREMIUM DE AGUAS LINDAS LTDA",
+      "cnpj": "29753244000127",
+      "total": 313.24,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.23
+    },
+    {
+      "nome": "MALUMAR COMBUSTIVEIS E PECAS LTDA",
+      "cnpj": "04283686000126",
+      "total": 298.64,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.22
+    },
+    {
+      "nome": "POSTO SANTO ANTONIO DO DESCOBERTO LTDA",
+      "cnpj": "29835123000124",
+      "total": 263.11,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.19
+    },
+    {
+      "nome": "AUTO POSTO VIP COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "20789719000160",
+      "total": 200.23,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.15
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 23376.35,
+      "porcentagem_do_total": 16.98
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 24232.21,
+      "porcentagem_do_total": 17.6
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 23412.53,
+      "porcentagem_do_total": 17.01
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 66634.9,
+      "porcentagem_do_total": 48.41
+    }
+  ]
+}

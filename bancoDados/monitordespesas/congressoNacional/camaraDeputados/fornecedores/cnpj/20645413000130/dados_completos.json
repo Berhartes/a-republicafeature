@@ -3,90 +3,72 @@
     "fornecedor": {
       "nome": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
       "cnpj": "20645413000130",
-      "total_recebido": 529.21,
-      "numero_transacoes": 3,
+      "total_recebido": 220.0,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.322883"
+    "generatedAt": "2025-11-11T05:22:21.548974"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 529.21
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 220.0
   },
   "anos": {
-    "2023": {
-      "total": 529.21,
-      "transacoes": 3,
+    "2024": {
+      "total": 220.0,
+      "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "136811": {
+    "160527": {
       "deputado": {
-        "id": 136811,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
-        "nome": "Afonso Hamm",
+        "id": 160527,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
+        "nome": "Aguinaldo Ribeiro",
+        "nomeEleitoral": "Aguinaldo Ribeiro",
         "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "RS",
+        "siglaUf": "PB",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
-        "email": "dep.afonsohamm@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160527.jpg",
+        "email": "dep.aguinaldoribeiro@camara.leg.br"
       },
-      "total": 529.21,
-      "transacoes": 3,
+      "total": 220.0,
+      "transacoes": 2,
       "despesas": [
         {
-          "ano": 2023,
+          "ano": 2024,
           "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7599072,
+          "codDocumento": 7785667,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-08-28T00:00:00",
-          "numDocumento": "644075",
-          "valorDocumento": 217.59,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7599072",
-          "nomeFornecedor": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
-          "cnpjCpfFornecedor": "20645413000130",
-          "valorLiquido": 217.59,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 6,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7563250,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-06-22T00:00:00",
-          "numDocumento": "621913",
-          "valorDocumento": 211.62,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7563250",
-          "nomeFornecedor": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
-          "cnpjCpfFornecedor": "20645413000130",
-          "valorLiquido": 211.62,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 5,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7547691,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-05-22T00:00:00",
-          "numDocumento": "6365",
+          "dataDocumento": "2024-08-08T08:29:09",
+          "numDocumento": "761665",
           "valorDocumento": 100.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7547691",
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7785667",
           "nomeFornecedor": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
           "cnpjCpfFornecedor": "20645413000130",
           "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7809321,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-20T00:00:00",
+          "numDocumento": "776246",
+          "valorDocumento": 120.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7809321",
+          "nomeFornecedor": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "20645413000130",
+          "valorLiquido": 120.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

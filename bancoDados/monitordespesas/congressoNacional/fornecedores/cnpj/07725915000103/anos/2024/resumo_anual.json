@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "S M COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "07725915000103",
+      "total_recebido": 15616.92,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 8445.6,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-12-18T00:00:00",
+    "periodo_fim": "2024-12-18T15:17:55",
+    "generatedAt": "2025-11-11T21:38:01.309013"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 8445.6,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 8445.6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 8445.6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7848990,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-12-18T00:00:00",
+      "numDocumento": "64241",
+      "valorDocumento": 6000.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7848990",
+      "nomeFornecedor": "S M COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "07725915000103",
+      "valorLiquido": 6000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2099027,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7849042,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-12-18T15:17:55",
+      "numDocumento": "64244",
+      "valorDocumento": 5763.66,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7849042",
+      "nomeFornecedor": "S M COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "07725915000103",
+      "valorLiquido": 2445.6,
+      "valorGlosa": 3318.06,
+      "numRessarcimento": "",
+      "codLote": 2099064,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220686,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220686",
+    "nome": "Duarte Jr.",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220686.jpg",
+    "email": "dep.duartejr@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 415974.78,
+  "quantidade_transacoes": 153,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 162435.2,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 39.05
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 120000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 28.85
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 76935.24,
+      "quantidade_transacoes": 74,
+      "porcentagem_do_total": 18.5
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 47501.87,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 11.42
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 8340.03,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 2.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "LOCADORA SÃO LUÍS LTDA - EPP",
+      "cnpj": "01870297000109",
+      "total": 120000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 28.85
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 48901.34,
+      "quantidade_transacoes": 53,
+      "porcentagem_do_total": 11.76
+    },
+    {
+      "nome": "L&S comunicação",
+      "cnpj": "50048559000160",
+      "total": 48000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 11.54
+    },
+    {
+      "nome": "NILSON R. DA SILVA EIRELI",
+      "cnpj": "12928398000100",
+      "total": 42513.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 10.22
+    },
+    {
+      "nome": "Alan Fialho Gandra Filho",
+      "cnpj": "63962888349",
+      "total": 39200.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 9.42
+    },
+    {
+      "nome": "A.C SOUSA GALENO - ME",
+      "cnpj": "20530627000161",
+      "total": 38000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 9.14
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 18532.58,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 4.46
+    },
+    {
+      "nome": "WORKING ASSOCIAÇÃO DE INTEGRAÇÃO PROFISSIONAL",
+      "cnpj": "08865615000192",
+      "total": 14500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.49
+    },
+    {
+      "nome": "FAGULHA PROMO LTDA",
+      "cnpj": "39781291000138",
+      "total": 13222.2,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.18
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 9501.32,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 2.28
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 64359.98,
+      "porcentagem_do_total": 15.47
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 48663.17,
+      "porcentagem_do_total": 11.7
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 37241.1,
+      "porcentagem_do_total": 8.95
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 42030.44,
+      "porcentagem_do_total": 10.1
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 42219.16,
+      "porcentagem_do_total": 10.15
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 38106.95,
+      "porcentagem_do_total": 9.16
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 52814.84,
+      "porcentagem_do_total": 12.7
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 27250.14,
+      "porcentagem_do_total": 6.55
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 42689.0,
+      "porcentagem_do_total": 10.26
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 20600.0,
+      "porcentagem_do_total": 4.95
+    }
+  ]
+}

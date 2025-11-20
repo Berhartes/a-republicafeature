@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:30.466146"
+    "generatedAt": "2025-11-11T05:22:22.272607"
   },
   "categorias": {
     "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 20000.0
@@ -25,6 +25,7 @@
         "id": 204495,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204495",
         "nome": "Airton Faleiro",
+        "nomeEleitoral": "Airton Faleiro",
         "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "PA",
@@ -37,15 +38,15 @@
       "despesas": [
         {
           "ano": 2023,
-          "mes": 3,
+          "mes": 2,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7520260,
+          "codDocumento": 7503643,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-03-31T00:00:00",
-          "numDocumento": "2199",
+          "dataDocumento": "2023-02-28T00:00:00",
+          "numDocumento": "2176",
           "valorDocumento": 10000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3406/2023/7520260.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3406/2023/7503643.pdf",
           "nomeFornecedor": "RADIO E TELEVISAO GUARANY DE SANTAREM LTDA",
           "cnpjCpfFornecedor": "04103289000125",
           "valorLiquido": 10000.0,
@@ -56,15 +57,15 @@
         },
         {
           "ano": 2023,
-          "mes": 2,
+          "mes": 3,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7503643,
+          "codDocumento": 7520260,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-02-28T00:00:00",
-          "numDocumento": "2176",
+          "dataDocumento": "2023-03-31T00:00:00",
+          "numDocumento": "2199",
           "valorDocumento": 10000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3406/2023/7503643.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3406/2023/7520260.pdf",
           "nomeFornecedor": "RADIO E TELEVISAO GUARANY DE SANTAREM LTDA",
           "cnpjCpfFornecedor": "04103289000125",
           "valorLiquido": 10000.0,

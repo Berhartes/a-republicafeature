@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "TAIOBA SELF-SERVICE LTDA EPP",
+      "cnpj": "03346671001330",
+      "total_recebido": 143.92000000000002,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:24.554949"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 143.92000000000002
+  },
+  "anos": {
+    "2024": {
+      "total": 143.92000000000002,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221148": {
+      "deputado": {
+        "id": 221148,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221148",
+        "nome": "Alfredinho",
+        "nomeEleitoral": "Alfredinho",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221148.jpg",
+        "email": "dep.alfredinho@camara.leg.br"
+      },
+      "total": 143.92000000000002,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7697175,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-05T00:00:00",
+          "numDocumento": "15715",
+          "valorDocumento": 32.36,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7697175",
+          "nomeFornecedor": "TAIOBA SELF-SERVICE LTDA EPP",
+          "cnpjCpfFornecedor": "03346671001330",
+          "valorLiquido": 32.36,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7726485,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-17T00:00:00",
+          "numDocumento": "63552",
+          "valorDocumento": 35.58,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3505/2024/7726485.pdf",
+          "nomeFornecedor": "TAIOBA SELF-SERVICE LTDA EPP",
+          "cnpjCpfFornecedor": "03346671001330",
+          "valorLiquido": 35.58,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7736658,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-15T00:00:00",
+          "numDocumento": "91175",
+          "valorDocumento": 42.67,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7736658",
+          "nomeFornecedor": "TAIOBA SELF-SERVICE LTDA EPP",
+          "cnpjCpfFornecedor": "03346671001330",
+          "valorLiquido": 42.67,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7822220,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-29T00:00:00",
+          "numDocumento": "206778",
+          "valorDocumento": 33.31,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7822220",
+          "nomeFornecedor": "TAIOBA SELF-SERVICE LTDA EPP",
+          "cnpjCpfFornecedor": "03346671001330",
+          "valorLiquido": 33.31,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

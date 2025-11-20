@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO 305 SUL LTDA.",
+      "cnpj": "32085527000152",
+      "total_recebido": 284.99,
+      "numero_transacoes": 2,
+      "numero_deputados": 2
+    },
+    "ano": 2024,
+    "total_recebido": 234.99,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-09-20T00:00:00",
+    "periodo_fim": "2024-09-20T00:00:00",
+    "generatedAt": "2025-11-11T21:37:58.422008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 234.99,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 234.99,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 234.99,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7806684,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-09-20T00:00:00",
+      "numDocumento": "92331",
+      "valorDocumento": 234.99,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7806684",
+      "nomeFornecedor": "AUTO POSTO 305 SUL LTDA.",
+      "cnpjCpfFornecedor": "32085527000152",
+      "valorLiquido": 234.99,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2075948,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

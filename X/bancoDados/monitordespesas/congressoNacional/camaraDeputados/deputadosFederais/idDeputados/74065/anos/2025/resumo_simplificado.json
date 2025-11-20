@@ -1,0 +1,54 @@
+{
+  "deputado": {
+    "id": 74065,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74065",
+    "nome": "Fatima Pelaes",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "AP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74065.jpg",
+    "email": "dep.fatimapelaes@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 32784.69,
+  "quantidade_transacoes": 3,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 26000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 79.31
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 6784.69,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 20.69
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CP3 LTDA-ME",
+      "cnpj": "09489958000162",
+      "total": 26000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 79.31
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 6784.69,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 20.69
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 32784.69,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

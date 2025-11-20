@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:34.200614"
+    "generatedAt": "2025-11-11T05:22:43.498267"
   },
   "categorias": {
     "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 210.0
@@ -25,6 +25,7 @@
         "id": 226708,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
         "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "MA",
@@ -39,25 +40,6 @@
           "ano": 2024,
           "mes": 1,
           "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7674325,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-01-20T00:00:00",
-          "numDocumento": "16",
-          "valorDocumento": 130.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2024/7674325.pdf",
-          "nomeFornecedor": "TATIANA SANTOS DA SILVA 75455030310",
-          "cnpjCpfFornecedor": "48717525000179",
-          "valorLiquido": 130.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 1,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
           "codDocumento": 7674324,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "TATIANA SANTOS DA SILVA 75455030310",
           "cnpjCpfFornecedor": "48717525000179",
           "valorLiquido": 80.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7674325,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-20T00:00:00",
+          "numDocumento": "16",
+          "valorDocumento": 130.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2024/7674325.pdf",
+          "nomeFornecedor": "TATIANA SANTOS DA SILVA 75455030310",
+          "cnpjCpfFornecedor": "48717525000179",
+          "valorLiquido": 130.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

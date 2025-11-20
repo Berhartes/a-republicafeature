@@ -1,0 +1,41 @@
+{
+  "deputado": {
+    "id": 160508,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160508",
+    "nome": "Afonso Florence",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160508.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 1469.95,
+  "quantidade_transacoes": 1,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 1469.95,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 1469.95,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 1469.95,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO RECIFE LTDA",
+      "cnpj": "30273903000107",
+      "total_recebido": 700.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 600.0,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-06-05T09:38:47",
+    "periodo_fim": "2025-08-28T00:00:00",
+    "generatedAt": "2025-11-11T21:38:01.557010"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 600.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 600.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 200.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 400.0,
+      "porcentagem_do_total": 66.67
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7924678,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-06-05T09:38:47",
+      "numDocumento": "3688",
+      "valorDocumento": 200.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7924678",
+      "nomeFornecedor": "AUTO POSTO RECIFE LTDA",
+      "cnpjCpfFornecedor": "30273903000107",
+      "valorLiquido": 200.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2140697,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7972901,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-08-28T00:00:00",
+      "numDocumento": "7737",
+      "valorDocumento": 400.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7972901",
+      "nomeFornecedor": "AUTO POSTO RECIFE LTDA",
+      "cnpjCpfFornecedor": "30273903000107",
+      "valorLiquido": 400.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2167349,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

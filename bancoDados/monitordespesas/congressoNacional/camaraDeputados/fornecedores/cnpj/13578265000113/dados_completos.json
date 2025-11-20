@@ -3,52 +3,58 @@
     "fornecedor": {
       "nome": "POSTOS MATARIPE ABASTECIMENTOS E SERVICOS LTDA",
       "cnpj": "13578265000113",
-      "total_recebido": 707.1,
-      "numero_transacoes": 2,
+      "total_recebido": 733.1600000000001,
+      "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:57:28.040447"
+    "generatedAt": "2025-11-11T05:22:39.736425"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 707.1
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 733.1600000000001
   },
   "anos": {
     "2023": {
-      "total": 707.1,
+      "total": 317.8,
       "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 415.36,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "69871": {
+    "74057": {
       "deputado": {
-        "id": 69871,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/69871",
-        "nome": "Bacelar",
-        "siglaPartido": "PV",
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
         "uriPartido": "",
         "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
-        "email": "dep.bacelar@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
       },
-      "total": 707.1,
-      "transacoes": 2,
+      "total": 733.1600000000001,
+      "transacoes": 3,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 6,
+          "mes": 3,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7565987,
+          "codDocumento": 7518466,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-06-23T00:00:00",
-          "numDocumento": "10226",
-          "valorDocumento": 300.11,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7565987",
+          "dataDocumento": "2023-03-18T00:00:00",
+          "numDocumento": "441",
+          "valorDocumento": 117.8,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7518466",
           "nomeFornecedor": "POSTOS MATARIPE ABASTECIMENTOS E SERVICOS LTDA",
           "cnpjCpfFornecedor": "13578265000113",
-          "valorLiquido": 300.11,
+          "valorLiquido": 117.8,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -56,18 +62,37 @@
         },
         {
           "ano": 2023,
-          "mes": 3,
+          "mes": 6,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7513109,
+          "codDocumento": 7567758,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-03-15T00:00:00",
-          "numDocumento": "4976",
-          "valorDocumento": 406.99,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7513109",
+          "dataDocumento": "2023-06-26T00:00:00",
+          "numDocumento": "10786",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7567758",
           "nomeFornecedor": "POSTOS MATARIPE ABASTECIMENTOS E SERVICOS LTDA",
           "cnpjCpfFornecedor": "13578265000113",
-          "valorLiquido": 406.99,
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7844629,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-03T12:20:31",
+          "numDocumento": "41167",
+          "valorDocumento": 415.36,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7844629",
+          "nomeFornecedor": "POSTOS MATARIPE ABASTECIMENTOS E SERVICOS LTDA",
+          "cnpjCpfFornecedor": "13578265000113",
+          "valorLiquido": 415.36,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

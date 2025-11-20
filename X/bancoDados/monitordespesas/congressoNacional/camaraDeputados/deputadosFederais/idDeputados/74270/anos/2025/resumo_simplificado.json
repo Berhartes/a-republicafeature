@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 74270,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74270",
+    "nome": "Gilberto Nascimento",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74270.jpg",
+    "email": "dep.gilbertonascimento@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 446429.09,
+  "quantidade_transacoes": 131,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 158561.61,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 35.52
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 104060.0,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 23.31
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 90000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 20.16
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 54344.44,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 12.17
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 36099.48,
+      "quantidade_transacoes": 42,
+      "porcentagem_do_total": 8.09
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "MINUSSI FILMES PRESTACOES DE SERVICOS PRODUCOES CINEMATOGRAF",
+      "cnpj": "37306485000156",
+      "total": 143100.0,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 32.05
+    },
+    {
+      "nome": "SUELY ELIAS",
+      "cnpj": "32377445810",
+      "total": 100630.23,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 22.54
+    },
+    {
+      "nome": "360 LOCAÇÕES EIRELI - ME",
+      "cnpj": "26117872000128",
+      "total": 58500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 13.1
+    },
+    {
+      "nome": "POSTO DE SERVICOS CHICAJULIA LT",
+      "cnpj": "43911106000150",
+      "total": 37844.44,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 8.48
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 32302.91,
+      "quantidade_transacoes": 40,
+      "porcentagem_do_total": 7.24
+    },
+    {
+      "nome": "J.A. SERVICE E TRANSPORTE LTDA",
+      "cnpj": "47121800000124",
+      "total": 26000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 5.82
+    },
+    {
+      "nome": "VIA LOCADORA DE AUTOMOVEIS LTDA",
+      "cnpj": "45414964000114",
+      "total": 19560.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 4.38
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS SAO RAFAEL LTDA",
+      "cnpj": "53600984000108",
+      "total": 16500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 3.7
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 3796.57,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.85
+    },
+    {
+      "nome": "PREFEITURA DE SÃO PAULO",
+      "cnpj": "46392130000380",
+      "total": 3781.38,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 0.85
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 43754.86,
+      "porcentagem_do_total": 9.8
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 52031.77,
+      "porcentagem_do_total": 11.66
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 53857.11,
+      "porcentagem_do_total": 12.06
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 50605.8,
+      "porcentagem_do_total": 11.34
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 42398.05,
+      "porcentagem_do_total": 9.5
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 49483.41,
+      "porcentagem_do_total": 11.08
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 44986.03,
+      "porcentagem_do_total": 10.08
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 45048.81,
+      "porcentagem_do_total": 10.09
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 43907.6,
+      "porcentagem_do_total": 9.84
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 20355.65,
+      "porcentagem_do_total": 4.56
+    }
+  ]
+}

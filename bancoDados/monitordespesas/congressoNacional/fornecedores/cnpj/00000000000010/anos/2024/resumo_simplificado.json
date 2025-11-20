@@ -1,0 +1,71 @@
+{
+  "fornecedor": {
+    "nome": "TAP",
+    "cnpj": "00000000000010",
+    "total_recebido": 28798.909999999996,
+    "numero_transacoes": 23,
+    "numero_deputados": 2
+  },
+  "ano": 2024,
+  "total_recebido": 23047.25,
+  "quantidade_transacoes": 13,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 17184.8,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 74.56
+    },
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 5862.45,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 25.44
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 17184.8,
+      "porcentagem_do_total": 74.56
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 4615.31,
+      "porcentagem_do_total": 20.03
+    },
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 1247.14,
+      "porcentagem_do_total": 5.41
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 1560.25,
+      "porcentagem_do_total": 6.77
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 17184.8,
+      "porcentagem_do_total": 74.56
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 1989.68,
+      "porcentagem_do_total": 8.63
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 2312.52,
+      "porcentagem_do_total": 10.03
+    }
+  ]
+}

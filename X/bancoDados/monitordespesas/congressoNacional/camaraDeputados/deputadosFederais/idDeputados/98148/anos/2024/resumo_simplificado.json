@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 98148,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/98148",
+    "nome": "Cobalchini",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "SC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/98148.jpg",
+    "email": "dep.cobalchini@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 88447.45,
+  "quantidade_transacoes": 327,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 46065.0,
+      "quantidade_transacoes": 76,
+      "porcentagem_do_total": 52.08
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 42382.45,
+      "quantidade_transacoes": 251,
+      "porcentagem_do_total": 47.92
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "PATRICIA BEAL DE CORDOVA CRUZ",
+      "cnpj": "00022171983",
+      "total": 18160.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 20.53
+    },
+    {
+      "nome": "PEROSA COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "00285069000109",
+      "total": 14617.95,
+      "quantidade_transacoes": 106,
+      "porcentagem_do_total": 16.53
+    },
+    {
+      "nome": "CONDORMINIO DESEMB. ANTERO FRANCISCO",
+      "cnpj": "78639929000152",
+      "total": 6170.23,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 6.98
+    },
+    {
+      "nome": "ELIZANDRA BAROZZI",
+      "cnpj": "00421336960",
+      "total": 6000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 6.78
+    },
+    {
+      "nome": "JK ADMINISTRAÇÃO IMOBILIARIA LTDA",
+      "cnpj": "21951068000126",
+      "total": 5340.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 6.04
+    },
+    {
+      "nome": "BORTOLI ARGENTA & CIA LTDA",
+      "cnpj": "73650988000108",
+      "total": 5211.51,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 5.89
+    },
+    {
+      "nome": "PARLANET WEB E TECNOLOGIA EIRELI",
+      "cnpj": "31602730000196",
+      "total": 4200.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 4.75
+    },
+    {
+      "nome": "CELESC DISTRIBUICAO S.A",
+      "cnpj": "08336783000190",
+      "total": 2092.41,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 2.37
+    },
+    {
+      "nome": "AUTO POSTO VERENKA 02 LTDA",
+      "cnpj": "45861194000158",
+      "total": 1706.31,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.93
+    },
+    {
+      "nome": "NET Claro NXT",
+      "cnpj": "66970229003930",
+      "total": 1488.85,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.68
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 7225.62,
+      "porcentagem_do_total": 8.17
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 7662.14,
+      "porcentagem_do_total": 8.66
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 9293.84,
+      "porcentagem_do_total": 10.51
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 8837.58,
+      "porcentagem_do_total": 9.99
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 8919.07,
+      "porcentagem_do_total": 10.08
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 9887.39,
+      "porcentagem_do_total": 11.18
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 10099.19,
+      "porcentagem_do_total": 11.42
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 3764.5,
+      "porcentagem_do_total": 4.26
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 3258.77,
+      "porcentagem_do_total": 3.68
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 6798.01,
+      "porcentagem_do_total": 7.69
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 6153.83,
+      "porcentagem_do_total": 6.96
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 6547.51,
+      "porcentagem_do_total": 7.4
+    }
+  ]
+}

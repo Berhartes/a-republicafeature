@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 160599,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160599",
+    "nome": "Dimas Fabiano",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160599.jpg",
+    "email": "dep.dimasfabiano@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 34966.32,
+  "quantidade_transacoes": 117,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 21605.8,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 61.79
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 13360.52,
+      "quantidade_transacoes": 88,
+      "porcentagem_do_total": 38.21
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "PARLANET WEB E TECNOLOGIA EIRELI",
+      "cnpj": "31602730000196",
+      "total": 9600.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 27.45
+    },
+    {
+      "nome": "CAFES DA TERRA TORREFACAO LTDA",
+      "cnpj": "45621295000151",
+      "total": 6900.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 19.73
+    },
+    {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+      "cnpj": "12132854000100",
+      "total": 3890.8,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 11.13
+    },
+    {
+      "nome": "14 - QL 14 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597001411",
+      "total": 2504.63,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 7.16
+    },
+    {
+      "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+      "cnpj": "00692418000107",
+      "total": 1547.26,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 4.43
+    },
+    {
+      "nome": "076 - MELHOR 10 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597007614",
+      "total": 865.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 2.47
+    },
+    {
+      "nome": "APM AUTO POSTO LTDA",
+      "cnpj": "40328546000190",
+      "total": 785.15,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 2.25
+    },
+    {
+      "nome": "AUTO POSTO AEROPORTO LTDA",
+      "cnpj": "08202116000115",
+      "total": 762.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 2.18
+    },
+    {
+      "nome": "CAFÉS DA TERRA TORREFAÇÃO LTDA",
+      "cnpj": "45621295000151",
+      "total": 690.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.97
+    },
+    {
+      "nome": "AUTO POSTO 302 SUL LTDA",
+      "cnpj": "30642701000195",
+      "total": 680.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.94
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 1915.0,
+      "porcentagem_do_total": 5.48
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 2497.77,
+      "porcentagem_do_total": 7.14
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 3488.49,
+      "porcentagem_do_total": 9.98
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 1705.02,
+      "porcentagem_do_total": 4.88
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 2246.34,
+      "porcentagem_do_total": 6.42
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 3579.67,
+      "porcentagem_do_total": 10.24
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 2646.08,
+      "porcentagem_do_total": 7.57
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 4038.89,
+      "porcentagem_do_total": 11.55
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 3176.16,
+      "porcentagem_do_total": 9.08
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 1640.0,
+      "porcentagem_do_total": 4.69
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 2160.0,
+      "porcentagem_do_total": 6.18
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 5872.9,
+      "porcentagem_do_total": 16.8
+    }
+  ]
+}

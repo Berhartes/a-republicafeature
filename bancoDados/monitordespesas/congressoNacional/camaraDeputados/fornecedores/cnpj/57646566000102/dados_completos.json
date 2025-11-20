@@ -3,19 +3,19 @@
     "fornecedor": {
       "nome": "ONIX IMOB LTDA",
       "cnpj": "57646566000102",
-      "total_recebido": 8036.0,
-      "numero_transacoes": 1,
+      "total_recebido": 16072.0,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:00.073486"
+    "generatedAt": "2025-11-11T05:22:10.633629"
   },
   "categorias": {
-    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 8036.0
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 16072.0
   },
   "anos": {
     "2025": {
-      "total": 8036.0,
-      "transacoes": 1,
+      "total": 16072.0,
+      "transacoes": 2,
       "deputados": 1
     }
   },
@@ -25,6 +25,7 @@
         "id": 204560,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204560",
         "nome": "Adolfo Viana",
+        "nomeEleitoral": "Adolfo Viana",
         "siglaPartido": "PSDB",
         "uriPartido": "",
         "siglaUf": "BA",
@@ -32,8 +33,8 @@
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
         "email": "dep.adolfoviana@camara.leg.br"
       },
-      "total": 8036.0,
-      "transacoes": 1,
+      "total": 16072.0,
+      "transacoes": 2,
       "despesas": [
         {
           "ano": 2025,
@@ -46,6 +47,25 @@
           "numDocumento": "03",
           "valorDocumento": 8036.0,
           "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3326/2025/7979183.pdf",
+          "nomeFornecedor": "ONIX IMOB LTDA",
+          "cnpjCpfFornecedor": "57646566000102",
+          "valorLiquido": 8036.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7998633,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-02T00:00:00",
+          "numDocumento": "04",
+          "valorDocumento": 8036.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3326/2025/7998633.pdf",
           "nomeFornecedor": "ONIX IMOB LTDA",
           "cnpjCpfFornecedor": "57646566000102",
           "valorLiquido": 8036.0,

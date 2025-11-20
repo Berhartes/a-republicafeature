@@ -7,7 +7,7 @@
       "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:45.403012"
+    "generatedAt": "2025-11-11T05:22:27.018697"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 930.0
@@ -30,6 +30,7 @@
         "id": 160559,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
         "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
         "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -54,25 +55,6 @@
           "nomeFornecedor": "FABRIS COMBUSTIVEIS LTDA",
           "cnpjCpfFornecedor": "48389926000147",
           "valorLiquido": 170.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 11,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7841423,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-29T08:53:47",
-          "numDocumento": "2836",
-          "valorDocumento": 250.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7841423",
-          "nomeFornecedor": "FABRIS COMBUSTIVEIS LTDA",
-          "cnpjCpfFornecedor": "48389926000147",
-          "valorLiquido": 250.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -111,6 +93,25 @@
           "nomeFornecedor": "FABRIS COMBUSTIVEIS LTDA",
           "cnpjCpfFornecedor": "48389926000147",
           "valorLiquido": 270.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7841423,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-29T08:53:47",
+          "numDocumento": "2836",
+          "valorDocumento": 250.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7841423",
+          "nomeFornecedor": "FABRIS COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "48389926000147",
+          "valorLiquido": 250.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

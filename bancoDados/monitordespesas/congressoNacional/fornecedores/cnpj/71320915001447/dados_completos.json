@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COOPERATIVA DOS PLANTADORES DE CANA DO OESTE DO ESTADO DE SA",
+      "cnpj": "71320915001447",
+      "total_recebido": 287.78,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:02.860011"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 287.78
+  },
+  "anos": {
+    "2023": {
+      "total": 287.78,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 287.78,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7513990,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-20T00:00:00",
+          "numDocumento": "009419",
+          "valorDocumento": 287.78,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7513990.pdf",
+          "nomeFornecedor": "COOPERATIVA DOS PLANTADORES DE CANA DO OESTE DO ESTADO DE SA",
+          "cnpjCpfFornecedor": "71320915001447",
+          "valorLiquido": 287.78,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1916958,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

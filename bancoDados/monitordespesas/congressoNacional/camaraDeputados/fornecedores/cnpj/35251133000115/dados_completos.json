@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:18.207486"
+    "generatedAt": "2025-11-11T05:22:37.891289"
   },
   "categorias": {
     "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 175.0
@@ -25,6 +25,7 @@
         "id": 221148,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221148",
         "nome": "Alfredinho",
+        "nomeEleitoral": "Alfredinho",
         "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "SP",
@@ -35,25 +36,6 @@
       "total": 175.0,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 5,
-          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7743025,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-05-14T00:00:00",
-          "numDocumento": "23273",
-          "valorDocumento": 53.9,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7743025",
-          "nomeFornecedor": "POIVRE VERD RESTAURANTE LTDA",
-          "cnpjCpfFornecedor": "35251133000115",
-          "valorLiquido": 49.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 3,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "POIVRE VERD RESTAURANTE LTDA",
           "cnpjCpfFornecedor": "35251133000115",
           "valorLiquido": 126.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7743025,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-14T00:00:00",
+          "numDocumento": "23273",
+          "valorDocumento": 53.9,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7743025",
+          "nomeFornecedor": "POIVRE VERD RESTAURANTE LTDA",
+          "cnpjCpfFornecedor": "35251133000115",
+          "valorLiquido": 49.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

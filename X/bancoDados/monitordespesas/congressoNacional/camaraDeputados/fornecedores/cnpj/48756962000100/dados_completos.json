@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ODARA BARRA DO GARÇAS SERVICOS EM HOTELARIA",
+      "cnpj": "48756962000100",
+      "total_recebido": 1402.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:02.817118"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 1402.0
+  },
+  "anos": {
+    "2023": {
+      "total": 1402.0,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 1402.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7516393,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-19T00:00:00",
+          "numDocumento": "1380",
+          "valorDocumento": 509.5,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7516393.pdf",
+          "nomeFornecedor": "ODARA BARRA DO GARÇAS SERVICOS EM HOTELARIA",
+          "cnpjCpfFornecedor": "48756962000100",
+          "valorLiquido": 509.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7516399,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-19T00:00:00",
+          "numDocumento": "1377",
+          "valorDocumento": 304.5,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7516399.pdf",
+          "nomeFornecedor": "ODARA BARRA DO GARÇAS SERVICOS EM HOTELARIA",
+          "cnpjCpfFornecedor": "48756962000100",
+          "valorLiquido": 304.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7516403,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-19T00:00:00",
+          "numDocumento": "1376",
+          "valorDocumento": 304.5,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7516403.pdf",
+          "nomeFornecedor": "ODARA BARRA DO GARÇAS SERVICOS EM HOTELARIA",
+          "cnpjCpfFornecedor": "48756962000100",
+          "valorLiquido": 304.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7526195,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-01T00:00:00",
+          "numDocumento": "1711",
+          "valorDocumento": 283.5,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7526195.pdf",
+          "nomeFornecedor": "ODARA BARRA DO GARÇAS SERVICOS EM HOTELARIA",
+          "cnpjCpfFornecedor": "48756962000100",
+          "valorLiquido": 283.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

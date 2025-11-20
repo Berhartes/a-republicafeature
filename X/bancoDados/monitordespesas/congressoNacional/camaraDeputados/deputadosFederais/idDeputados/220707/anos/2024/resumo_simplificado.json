@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220707,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220707",
+    "nome": "Amanda Gentil",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220707.jpg",
+    "email": "dep.amandagentil@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 376062.88,
+  "quantidade_transacoes": 133,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 184141.6,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 48.97
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 79752.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 21.21
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 42411.5,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 11.28
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 33602.36,
+      "quantidade_transacoes": 58,
+      "porcentagem_do_total": 8.94
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 26100.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.94
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "DISCOVER SERVICOS LTDA",
+      "cnpj": "48551631000125",
+      "total": 99620.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 26.49
+    },
+    {
+      "nome": "A C OLIVEIRA DA COSTA",
+      "cnpj": "08840678000194",
+      "total": 71000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 18.88
+    },
+    {
+      "nome": "SAGA DE ITACOLOMI COM. E PECUARIA LTDA",
+      "cnpj": "00627686000145",
+      "total": 55566.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 14.78
+    },
+    {
+      "nome": "FERNANDO JOSÉ OLIVEIRA DUAILIBE MENDONÇA",
+      "cnpj": "00406224790",
+      "total": 42000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 11.17
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 28608.19,
+      "quantidade_transacoes": 46,
+      "porcentagem_do_total": 7.61
+    },
+    {
+      "nome": "F.S. CORREA NETO",
+      "cnpj": "24438651000126",
+      "total": 26100.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.94
+    },
+    {
+      "nome": "Iza Carla Silva Santa Brigida - ME",
+      "cnpj": "21891589000135",
+      "total": 14513.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.86
+    },
+    {
+      "nome": "TELEVISAO MIRANTE LTDA",
+      "cnpj": "07306616000134",
+      "total": 12457.6,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.31
+    },
+    {
+      "nome": "SMART VEÍCULOS LTDA-ME",
+      "cnpj": "29139111000165",
+      "total": 4960.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.32
+    },
+    {
+      "nome": "IZA CARLA SILVA SANTA BRIGIDA",
+      "cnpj": "21891589000135",
+      "total": 4713.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.25
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 27586.77,
+      "porcentagem_do_total": 7.34
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 32617.59,
+      "porcentagem_do_total": 8.67
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 41774.35,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 22750.58,
+      "porcentagem_do_total": 6.05
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 0.0,
+      "porcentagem_do_total": 0.0
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": -5382.84,
+      "porcentagem_do_total": -1.43
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 29691.08,
+      "porcentagem_do_total": 7.9
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 49453.74,
+      "porcentagem_do_total": 13.15
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 46426.09,
+      "porcentagem_do_total": 12.35
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 131145.52,
+      "porcentagem_do_total": 34.87
+    }
+  ]
+}

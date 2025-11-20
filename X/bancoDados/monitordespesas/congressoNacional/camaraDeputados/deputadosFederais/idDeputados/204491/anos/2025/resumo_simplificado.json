@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 204491,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204491",
+    "nome": "Gilberto Abramo",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204491.jpg",
+    "email": "dep.gilbertoabramo@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 333902.81,
+  "quantidade_transacoes": 228,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 262287.06,
+      "quantidade_transacoes": 40,
+      "porcentagem_do_total": 78.55
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 35286.4,
+      "quantidade_transacoes": 66,
+      "porcentagem_do_total": 10.57
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 23266.4,
+      "quantidade_transacoes": 100,
+      "porcentagem_do_total": 6.97
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 5268.6,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 1.58
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 5192.35,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.56
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "INFORGRAF EIRELI",
+      "cnpj": "22056515000146",
+      "total": 110000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 32.94
+    },
+    {
+      "nome": "MIND COMUNICACAO LTDA",
+      "cnpj": "40691948000155",
+      "total": 60000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 17.97
+    },
+    {
+      "nome": "CV CONSULTORIA E GESTAO",
+      "cnpj": "41799541000109",
+      "total": 45000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 13.48
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 29794.14,
+      "quantidade_transacoes": 60,
+      "porcentagem_do_total": 8.92
+    },
+    {
+      "nome": "DIAVONETO CONSULTORIA E GESTÃO LTDA",
+      "cnpj": "59904487000180",
+      "total": 18000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 5.39
+    },
+    {
+      "nome": "SYSCOIN TECNOLOGIA E SERVICO LTDA - ME",
+      "cnpj": "21867903000144",
+      "total": 12952.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.88
+    },
+    {
+      "nome": "SAMSOLVE COMUNICAÇÃO",
+      "cnpj": "56103747000120",
+      "total": 7200.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.16
+    },
+    {
+      "nome": "BELIZE COMPANY AUTO POSTO LTDA",
+      "cnpj": "29032820000147",
+      "total": 6029.43,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 1.81
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 5492.26,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 1.64
+    },
+    {
+      "nome": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpj": "08532429000131",
+      "total": 4620.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.38
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 18602.4,
+      "porcentagem_do_total": 5.57
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 38990.08,
+      "porcentagem_do_total": 11.68
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 45606.77,
+      "porcentagem_do_total": 13.66
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 41873.85,
+      "porcentagem_do_total": 12.54
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 13793.97,
+      "porcentagem_do_total": 4.13
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 40327.64,
+      "porcentagem_do_total": 12.08
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 74953.26,
+      "porcentagem_do_total": 22.45
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 29091.05,
+      "porcentagem_do_total": 8.71
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 27995.29,
+      "porcentagem_do_total": 8.38
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 2668.5,
+      "porcentagem_do_total": 0.8
+    }
+  ]
+}

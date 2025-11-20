@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "VALPARAISO REPRESENTACAO COMERCIAL DE COMBUSTIVEIS LTDA",
+      "cnpj": "12113200000130",
+      "total_recebido": 354.37,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:12.944042"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 354.37
+  },
+  "anos": {
+    "2023": {
+      "total": 354.37,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178835": {
+      "deputado": {
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
+      },
+      "total": 354.37,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7506506,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-07T00:00:00",
+          "numDocumento": "9707",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7506506",
+          "nomeFornecedor": "VALPARAISO REPRESENTACAO COMERCIAL DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "12113200000130",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7539957,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-05T00:00:00",
+          "numDocumento": "122381",
+          "valorDocumento": 50.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7539957",
+          "nomeFornecedor": "VALPARAISO REPRESENTACAO COMERCIAL DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "12113200000130",
+          "valorLiquido": 50.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7580700,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-31T00:00:00",
+          "numDocumento": "17340",
+          "valorDocumento": 204.37,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7580700",
+          "nomeFornecedor": "VALPARAISO REPRESENTACAO COMERCIAL DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "12113200000130",
+          "valorLiquido": 204.37,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

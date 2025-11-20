@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "DIAS BLANCO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "06248123000122",
+      "total_recebido": 124.4,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:53.809485"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 124.4
+  },
+  "anos": {
+    "2023": {
+      "total": 124.4,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 124.4,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7651408,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-11-27T00:00:00",
+          "numDocumento": "100923",
+          "valorDocumento": 124.4,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7651408",
+          "nomeFornecedor": "DIAS BLANCO COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "06248123000122",
+          "valorLiquido": 124.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1992287,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

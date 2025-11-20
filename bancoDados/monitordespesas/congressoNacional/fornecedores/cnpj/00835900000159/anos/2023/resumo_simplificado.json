@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "RESTAURANTE ESQUINA MINEIRA EIRELI",
+    "cnpj": "00835900000159",
+    "total_recebido": 863.5100000000001,
+    "numero_transacoes": 9,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 294.24,
+  "quantidade_transacoes": 3,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 294.24,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 294.24,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 133.86,
+      "porcentagem_do_total": 45.49
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 70.41,
+      "porcentagem_do_total": 23.93
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 89.97,
+      "porcentagem_do_total": 30.58
+    }
+  ]
+}

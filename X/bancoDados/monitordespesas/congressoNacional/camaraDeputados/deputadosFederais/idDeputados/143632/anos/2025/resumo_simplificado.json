@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 143632,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143632",
+    "nome": "Domingos Neto",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "CE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/143632.jpg",
+    "email": "dep.domingosneto@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 446220.27,
+  "quantidade_transacoes": 115,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 254000.0,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 56.92
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 71015.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 15.91
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 62283.16,
+      "quantidade_transacoes": 68,
+      "porcentagem_do_total": 13.96
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 29846.73,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 6.69
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "total": 19500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.37
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "FRAME COMUNICACAO DIGITAL LTDA",
+      "cnpj": "42006710000179",
+      "total": 236500.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 53.0
+    },
+    {
+      "nome": "HPE AUTOMOTORES DO BRASIL LTDA",
+      "cnpj": "46054009000186",
+      "total": 71015.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 15.91
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 51514.33,
+      "quantidade_transacoes": 58,
+      "porcentagem_do_total": 11.54
+    },
+    {
+      "nome": "VIVA NEGOCIOS IMOBILIARIOS & CONSULTORIA EM MARKETING LTDA",
+      "cnpj": "05739344000130",
+      "total": 27872.31,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 6.25
+    },
+    {
+      "nome": "UIRAPURU TAXI AEREO LTDA",
+      "cnpj": "07382021000168",
+      "total": 19500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.37
+    },
+    {
+      "nome": "GRASIELLE CASTRO DE OLIVEIRA",
+      "cnpj": "60237752000100",
+      "total": 10000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.24
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 6423.08,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.44
+    },
+    {
+      "nome": "LIMA E SILVA AGENCIA DE NOTICIAS",
+      "cnpj": "18172206000164",
+      "total": 5000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.12
+    },
+    {
+      "nome": "Cia Aérea - TAM",
+      "cnpj": "02012862000160",
+      "total": 4914.37,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.1
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 4345.75,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 0.97
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 45572.37,
+      "porcentagem_do_total": 10.21
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 41843.57,
+      "porcentagem_do_total": 9.38
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 48932.1,
+      "porcentagem_do_total": 10.97
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 40314.56,
+      "porcentagem_do_total": 9.03
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 58505.58,
+      "porcentagem_do_total": 13.11
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 48777.27,
+      "porcentagem_do_total": 10.93
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 54169.48,
+      "porcentagem_do_total": 12.14
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 37290.17,
+      "porcentagem_do_total": 8.36
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 37290.17,
+      "porcentagem_do_total": 8.36
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 33525.0,
+      "porcentagem_do_total": 7.51
+    }
+  ]
+}

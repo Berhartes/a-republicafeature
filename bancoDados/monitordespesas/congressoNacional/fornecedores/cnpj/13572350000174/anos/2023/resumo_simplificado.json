@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "MATO GROSSO COMERCIO DE COMBUSTIVEIS LTDA",
+    "cnpj": "13572350000174",
+    "total_recebido": 282.96000000000004,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 282.96,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 282.96,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 282.96,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 130.68,
+      "porcentagem_do_total": 46.18
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 152.28,
+      "porcentagem_do_total": 53.82
+    }
+  ]
+}

@@ -82,6 +82,7 @@ export function useParliamentaryObservability(
   const performanceObserverRef = useRef<PerformanceObserver | null>(null)
   const startTimesRef = useRef<Map<string, number>>(new Map())
 
+  // Statistical sampling for observability metrics to reduce overhead
   const shouldSample = useCallback(() => {
     return Math.random() < sampleRate
   }, [sampleRate])

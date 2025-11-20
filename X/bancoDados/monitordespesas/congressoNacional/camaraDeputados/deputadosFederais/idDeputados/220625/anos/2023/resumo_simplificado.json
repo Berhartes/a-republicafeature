@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220625,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220625",
+    "nome": "Delegada Ione",
+    "siglaPartido": "AVANTE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36898",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220625.jpg",
+    "email": "dep.delegadaione@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 434992.62,
+  "quantidade_transacoes": 636,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 121048.21,
+      "quantidade_transacoes": 35,
+      "porcentagem_do_total": 27.83
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 113400.0,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 26.07
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 85451.63,
+      "quantidade_transacoes": 96,
+      "porcentagem_do_total": 19.64
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 53001.09,
+      "quantidade_transacoes": 68,
+      "porcentagem_do_total": 12.18
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 48067.23,
+      "quantidade_transacoes": 237,
+      "porcentagem_do_total": 11.05
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 113400.0,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 26.07
+    },
+    {
+      "nome": "Anga Exploração Rural LTDA",
+      "cnpj": "20853695000161",
+      "total": 41000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 9.43
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 29027.4,
+      "quantidade_transacoes": 40,
+      "porcentagem_do_total": 6.67
+    },
+    {
+      "nome": "FDR COMUNICARE E DESENVOLVIMENTO EIRELI",
+      "cnpj": "33952234000198",
+      "total": 26100.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.0
+    },
+    {
+      "nome": "POSTO SÃO JOSÉ LTDA",
+      "cnpj": "21579255000120",
+      "total": 24198.18,
+      "quantidade_transacoes": 118,
+      "porcentagem_do_total": 5.56
+    },
+    {
+      "nome": "SOLAR COMUNICACOES SA",
+      "cnpj": "21561725000129",
+      "total": 24000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 5.52
+    },
+    {
+      "nome": "Industrias Graficas Santa Rita Ltda",
+      "cnpj": "17688029000100",
+      "total": 22824.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 5.25
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 22714.67,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 5.22
+    },
+    {
+      "nome": "Facebook Serviços Online do Brasil",
+      "cnpj": "13347016000117",
+      "total": 16744.21,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 3.85
+    },
+    {
+      "nome": "EDT INFORMÁTICA LTDA",
+      "cnpj": "01483224000164",
+      "total": 15930.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 3.66
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 9709.05,
+      "porcentagem_do_total": 2.23
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 17196.11,
+      "porcentagem_do_total": 3.95
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 23045.89,
+      "porcentagem_do_total": 5.3
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 40303.05,
+      "porcentagem_do_total": 9.27
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 35256.47,
+      "porcentagem_do_total": 8.11
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 36587.2,
+      "porcentagem_do_total": 8.41
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 40746.26,
+      "porcentagem_do_total": 9.37
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 32686.22,
+      "porcentagem_do_total": 7.51
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 40687.36,
+      "porcentagem_do_total": 9.35
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 78537.41,
+      "porcentagem_do_total": 18.05
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 80237.6,
+      "porcentagem_do_total": 18.45
+    }
+  ]
+}

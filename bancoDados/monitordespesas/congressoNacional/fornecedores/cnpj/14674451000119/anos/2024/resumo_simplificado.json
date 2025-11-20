@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "ATA AEROTAXI ABAETE LTDA",
+    "cnpj": "14674451000119",
+    "total_recebido": 165832.8,
+    "numero_transacoes": 7,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 82320.0,
+  "quantidade_transacoes": 3,
+  "principais_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 82320.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "total": 82320.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 26320.0,
+      "porcentagem_do_total": 31.97
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 27000.0,
+      "porcentagem_do_total": 32.8
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 29000.0,
+      "porcentagem_do_total": 35.23
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+      "cnpj": "32590257000137",
+      "total_recebido": 1705.26,
+      "numero_transacoes": 12,
+      "numero_deputados": 4
+    },
+    "generatedAt": "2025-11-11T21:37:54.273484"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 1705.26
+  },
+  "anos": {
+    "2023": {
+      "total": 538.02,
+      "transacoes": 4,
+      "deputados": 2
+    },
+    "2024": {
+      "total": 495.84,
+      "transacoes": 3,
+      "deputados": 2
+    },
+    "2025": {
+      "total": 671.4,
+      "transacoes": 5,
+      "deputados": 2
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 138.02,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7617287,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-09-27T00:00:00",
+          "numDocumento": "56304",
+          "valorDocumento": 138.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7617287",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+          "cnpjCpfFornecedor": "32590257000137",
+          "valorLiquido": 138.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1973416,
+          "parcela": 0
+        }
+      ]
+    },
+    "204379": {
+      "deputado": {
+        "id": 204379,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204379",
+        "nome": "Acácio Favacho",
+        "siglaPartido": "MDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204379.jpg",
+        "email": "dep.acaciofavacho@camara.leg.br"
+      },
+      "total": 295.84,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7846596,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-12-04T13:55:39",
+          "numDocumento": "3167",
+          "valorDocumento": 295.84,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7846596",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+          "cnpjCpfFornecedor": "32590257000137",
+          "valorLiquido": 295.84,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2097817,
+          "parcela": 0
+        }
+      ]
+    },
+    "220714": {
+      "deputado": {
+        "id": 220714,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220714",
+        "nome": "Adail Filho",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+        "siglaUf": "AM",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
+        "email": "dep.adailfilho@camara.leg.br"
+      },
+      "total": 1000.0,
+      "transacoes": 9,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7508516,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-03-11T00:00:00",
+          "numDocumento": "34416",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7508516",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+          "cnpjCpfFornecedor": "32590257000137",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1914112,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7649400,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-11-28T00:00:00",
+          "numDocumento": "60105",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7649400",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+          "cnpjCpfFornecedor": "32590257000137",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1991345,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7663742,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-12-18T00:00:00",
+          "numDocumento": "61440",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7663742",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+          "cnpjCpfFornecedor": "32590257000137",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1999583,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7839913,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-12-03T19:33:09",
+          "numDocumento": "3082",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7839913",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+          "cnpjCpfFornecedor": "32590257000137",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2094191,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7823053,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-10-30T07:21:43",
+          "numDocumento": "5823",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7823053",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+          "cnpjCpfFornecedor": "32590257000137",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2084946,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7887596,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-03-24T00:00:00",
+          "numDocumento": "11307",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7887596",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+          "cnpjCpfFornecedor": "32590257000137",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2121084,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7915046,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-05-12T20:05:19",
+          "numDocumento": "15525",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7915046",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+          "cnpjCpfFornecedor": "32590257000137",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2135657,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7961823,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-07-16T08:38:11",
+          "numDocumento": "20778",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7961823",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+          "cnpjCpfFornecedor": "32590257000137",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2161226,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7981722,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-09-13T00:00:00",
+          "numDocumento": "24795",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7981722",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+          "cnpjCpfFornecedor": "32590257000137",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2172071,
+          "parcela": 0
+        }
+      ]
+    },
+    "204560": {
+      "deputado": {
+        "id": 204560,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204560",
+        "nome": "Adolfo Viana",
+        "siglaPartido": "PSDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
+        "email": "dep.adolfoviana@camara.leg.br"
+      },
+      "total": 271.4,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7888690,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-03-11T00:00:00",
+          "numDocumento": "10419",
+          "valorDocumento": 271.4,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7888690",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+          "cnpjCpfFornecedor": "32590257000137",
+          "valorLiquido": 271.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2121775,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

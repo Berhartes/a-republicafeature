@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:30.469622"
+    "generatedAt": "2025-11-11T05:22:22.433394"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 250.04
@@ -25,6 +25,7 @@
         "id": 204495,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204495",
         "nome": "Airton Faleiro",
+        "nomeEleitoral": "Airton Faleiro",
         "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "PA",
@@ -35,25 +36,6 @@
       "total": 250.04,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 11,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7866860,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-26T08:31:12",
-          "numDocumento": "53144",
-          "valorDocumento": 100.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7866860",
-          "nomeFornecedor": "POSTO ICCAR LTDA",
-          "cnpjCpfFornecedor": "02280133006397",
-          "valorLiquido": 100.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 8,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "POSTO ICCAR LTDA",
           "cnpjCpfFornecedor": "02280133006397",
           "valorLiquido": 150.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7866860,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-26T08:31:12",
+          "numDocumento": "53144",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7866860",
+          "nomeFornecedor": "POSTO ICCAR LTDA",
+          "cnpjCpfFornecedor": "02280133006397",
+          "valorLiquido": 100.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

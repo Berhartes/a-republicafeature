@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "ELIEZER CONCEIÇÃO LIMA",
+    "cnpj": "37471314000182",
+    "total_recebido": 140714.49999999997,
+    "numero_transacoes": 9,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 45000.0,
+  "quantidade_transacoes": 3,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 45000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 45000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 15000.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 15000.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 15000.0,
+      "porcentagem_do_total": 33.33
+    }
+  ]
+}

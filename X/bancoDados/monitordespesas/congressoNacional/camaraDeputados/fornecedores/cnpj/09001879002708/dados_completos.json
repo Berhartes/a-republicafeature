@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIAL AMAZONIA 22 DE PETROLEO EIRELI",
+      "cnpj": "09001879002708",
+      "total_recebido": 450.46,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:02.827928"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 450.46
+  },
+  "anos": {
+    "2023": {
+      "total": 147.88,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 302.58,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 450.46,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7521097,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-31T00:00:00",
+          "numDocumento": "13569",
+          "valorDocumento": 147.88,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7521097",
+          "nomeFornecedor": "COMERCIAL AMAZONIA 22 DE PETROLEO EIRELI",
+          "cnpjCpfFornecedor": "09001879002708",
+          "valorLiquido": 147.88,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7774064,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-20T06:34:18",
+          "numDocumento": "19410",
+          "valorDocumento": 302.58,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7774064",
+          "nomeFornecedor": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "09001879002708",
+          "valorLiquido": 302.58,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

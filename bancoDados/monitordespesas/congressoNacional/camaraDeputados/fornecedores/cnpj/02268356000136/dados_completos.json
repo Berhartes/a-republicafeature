@@ -3,71 +3,77 @@
     "fornecedor": {
       "nome": "POSTO GRUTA DA LAPA LTDA",
       "cnpj": "02268356000136",
-      "total_recebido": 813.8299999999999,
+      "total_recebido": 287.23,
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:57:06.392785"
+    "generatedAt": "2025-11-11T05:22:39.850014"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 813.8299999999999
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 287.23
   },
   "anos": {
-    "2024": {
-      "total": 813.8299999999999,
-      "transacoes": 2,
+    "2023": {
+      "total": 97.2,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 190.03,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "160600": {
+    "74057": {
       "deputado": {
-        "id": 160600,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160600",
-        "nome": "Arthur Oliveira Maia",
-        "siglaPartido": "UNIÃO",
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
         "uriPartido": "",
         "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
-        "email": "dep.arthuroliveiramaia@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
       },
-      "total": 813.8299999999999,
+      "total": 287.23,
       "transacoes": 2,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 11,
+          "ano": 2023,
+          "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7845352,
+          "codDocumento": 7600246,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-14T14:37:58",
-          "numDocumento": "1213212",
-          "valorDocumento": 413.13,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7845352",
+          "dataDocumento": "2023-08-09T00:00:00",
+          "numDocumento": "1048178",
+          "valorDocumento": 97.2,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7600246",
           "nomeFornecedor": "POSTO GRUTA DA LAPA LTDA",
           "cnpjCpfFornecedor": "02268356000136",
-          "valorLiquido": 413.13,
+          "valorLiquido": 97.2,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
           "parcela": 0
         },
         {
-          "ano": 2024,
-          "mes": 4,
+          "ano": 2025,
+          "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7733163,
+          "codDocumento": 7974058,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-04-28T00:00:00",
-          "numDocumento": "1140397",
-          "valorDocumento": 400.7,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2024/7733163.pdf",
+          "dataDocumento": "2025-08-22T12:27:03",
+          "numDocumento": "1307631",
+          "valorDocumento": 190.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7974058",
           "nomeFornecedor": "POSTO GRUTA DA LAPA LTDA",
           "cnpjCpfFornecedor": "02268356000136",
-          "valorLiquido": 400.7,
+          "valorLiquido": 190.03,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

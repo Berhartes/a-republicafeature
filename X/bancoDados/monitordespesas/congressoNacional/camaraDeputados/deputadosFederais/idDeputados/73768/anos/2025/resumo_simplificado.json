@@ -1,0 +1,164 @@
+{
+  "deputado": {
+    "id": 73768,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73768",
+    "nome": "Dilceu Sperafico",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73768.jpg",
+    "email": "dep.dilceusperafico@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 51506.16,
+  "quantidade_transacoes": 158,
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 36066.96,
+      "quantidade_transacoes": 144,
+      "porcentagem_do_total": 70.02
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 15439.2,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 29.98
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AUTO POSTO TOLECEMA LTDA",
+      "cnpj": "00000000000010",
+      "total": 34004.91,
+      "quantidade_transacoes": 125,
+      "porcentagem_do_total": 66.02
+    },
+    {
+      "nome": "VALTIARA A. D. M. PRATI",
+      "cnpj": "04829169907",
+      "total": 14400.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 27.96
+    },
+    {
+      "nome": "TAKEO MARUTA CONVENIENCIA - ME",
+      "cnpj": "04962228000113",
+      "total": 1039.2,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 2.02
+    },
+    {
+      "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+      "cnpj": "00692418000611",
+      "total": 262.05,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.51
+    },
+    {
+      "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597006308",
+      "total": 250.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.49
+    },
+    {
+      "nome": "091 - GAMA LESTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597009153",
+      "total": 200.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.39
+    },
+    {
+      "nome": "AUTO POSTO GOLDEN GAS 202 LTDA",
+      "cnpj": "30880112000145",
+      "total": 200.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.39
+    },
+    {
+      "nome": "072 - 403 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597007290",
+      "total": 150.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.29
+    },
+    {
+      "nome": "AUTO POSTO AGUAS CLARAS LTDA - CSD",
+      "cnpj": "38076089000495",
+      "total": 150.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.29
+    },
+    {
+      "nome": "AUTO POSTO RIACHO FUNDO 02 COMERCIAL DE COMBUSTIVEIS LTDA",
+      "cnpj": "33895033000104",
+      "total": 150.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.29
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 2487.01,
+      "porcentagem_do_total": 4.83
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 4970.63,
+      "porcentagem_do_total": 9.65
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 7887.46,
+      "porcentagem_do_total": 15.31
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 5674.03,
+      "porcentagem_do_total": 11.02
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 7603.7,
+      "porcentagem_do_total": 14.76
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 6511.99,
+      "porcentagem_do_total": 12.64
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 7874.16,
+      "porcentagem_do_total": 15.29
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 4352.7,
+      "porcentagem_do_total": 8.45
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 1884.69,
+      "porcentagem_do_total": 3.66
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 2259.79,
+      "porcentagem_do_total": 4.39
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "19 - 303 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597001926",
+      "total_recebido": 807.51,
+      "numero_transacoes": 3,
+      "numero_deputados": 2
+    },
+    "ano": 2024,
+    "total_recebido": 478.24,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 2,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-06-06T06:57:37",
+    "periodo_fim": "2024-06-18T10:57:50",
+    "generatedAt": "2025-11-11T21:37:58.406013"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 278.24,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 58.18
+    },
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 200.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 41.82
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 478.24,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 478.24,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7759830,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-06-18T10:57:50",
+      "numDocumento": "322092",
+      "valorDocumento": 200.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7759830",
+      "nomeFornecedor": "19 - 303 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpjCpfFornecedor": "00306597001926",
+      "valorLiquido": 200.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2052270,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7749544,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-06-06T06:57:37",
+      "numDocumento": "317003",
+      "valorDocumento": 278.24,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7749544",
+      "nomeFornecedor": "19 - 303 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpjCpfFornecedor": "00306597001926",
+      "valorLiquido": 278.24,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2046925,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "71.320.915/0039-03",
+      "cnpj": "71320915003903",
+      "total_recebido": 489.94,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 489.94,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-02-11T00:00:00",
+    "periodo_fim": "2024-12-02T00:00:00",
+    "generatedAt": "2025-11-11T21:38:04.338011"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 489.94,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 489.94,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 160.0,
+      "porcentagem_do_total": 32.66
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 138.32,
+      "porcentagem_do_total": 28.23
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 191.62,
+      "porcentagem_do_total": 39.11
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7687121,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-02-11T00:00:00",
+      "numDocumento": "011957",
+      "valorDocumento": 160.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7687121.pdf",
+      "nomeFornecedor": "71.320.915/0039-03",
+      "cnpjCpfFornecedor": "71320915003903",
+      "valorLiquido": 160.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2013197,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7753798,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-06-13T00:00:00",
+      "numDocumento": "044719",
+      "valorDocumento": 138.32,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7753798.pdf",
+      "nomeFornecedor": "71.320.915/0039-03",
+      "cnpjCpfFornecedor": "71320915003903",
+      "valorLiquido": 138.32,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2049159,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7840258,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-12-02T00:00:00",
+      "numDocumento": "103802",
+      "valorDocumento": 191.62,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7840258.pdf",
+      "nomeFornecedor": "71.320.915/0039-03",
+      "cnpjCpfFornecedor": "71320915003903",
+      "valorLiquido": 191.62,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2094422,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

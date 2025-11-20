@@ -3,90 +3,53 @@
     "fornecedor": {
       "nome": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
       "cnpj": "10445514000104",
-      "total_recebido": 5816.67,
-      "numero_transacoes": 3,
+      "total_recebido": 340.0,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:58:14.411123"
+    "generatedAt": "2025-11-11T05:22:35.095853"
   },
   "categorias": {
-    "ASSINATURA DE PUBLICAÇÕES": 5816.67
+    "ASSINATURA DE PUBLICAÇÕES": 340.0
   },
   "anos": {
     "2023": {
-      "total": 5816.67,
-      "transacoes": 3,
+      "total": 340.0,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204388": {
+    "160545": {
       "deputado": {
-        "id": 204388,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388",
-        "nome": "Bibo Nunes",
-        "siglaPartido": "PL",
+        "id": 160545,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160545",
+        "nome": "Alexandre Leite",
+        "nomeEleitoral": "Alexandre Leite",
+        "siglaPartido": "UNIÃO",
         "uriPartido": "",
-        "siglaUf": "RS",
+        "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
-        "email": "dep.bibonunes@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160545.jpg",
+        "email": null
       },
-      "total": 5816.67,
-      "transacoes": 3,
+      "total": 340.0,
+      "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 5,
-          "tipoDespesa": "ASSINATURA DE PUBLICAÇÕES",
-          "codDocumento": 7534896,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-05-02T00:00:00",
-          "numDocumento": "2186",
-          "valorDocumento": 1376.67,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7534896",
-          "nomeFornecedor": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
-          "cnpjCpfFornecedor": "10445514000104",
-          "valorLiquido": 1376.67,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
           "mes": 3,
           "tipoDespesa": "ASSINATURA DE PUBLICAÇÕES",
-          "codDocumento": 7524114,
+          "codDocumento": 7509085,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-03-14T00:00:00",
-          "numDocumento": "2159",
-          "valorDocumento": 1080.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7524114",
+          "dataDocumento": "2023-03-13T00:00:00",
+          "numDocumento": "2156",
+          "valorDocumento": 340.0,
+          "urlDocumento": null,
           "nomeFornecedor": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
           "cnpjCpfFornecedor": "10445514000104",
-          "valorLiquido": 1080.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 3,
-          "tipoDespesa": "ASSINATURA DE PUBLICAÇÕES",
-          "codDocumento": 7524132,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-03-14T00:00:00",
-          "numDocumento": "2160",
-          "valorDocumento": 3360.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7524132",
-          "nomeFornecedor": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
-          "cnpjCpfFornecedor": "10445514000104",
-          "valorLiquido": 3360.0,
+          "valorLiquido": 340.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

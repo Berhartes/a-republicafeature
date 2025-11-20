@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 171623,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/171623",
+    "nome": "Fabio Reis",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "SE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/171623.jpg",
+    "email": "dep.fabioreis@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 448025.2,
+  "quantidade_transacoes": 372,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 135300.0,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 30.2
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 117452.61,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 26.22
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 76303.52,
+      "quantidade_transacoes": 119,
+      "porcentagem_do_total": 17.03
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 50416.46,
+      "quantidade_transacoes": 110,
+      "porcentagem_do_total": 11.25
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 48438.12,
+      "quantidade_transacoes": 49,
+      "porcentagem_do_total": 10.81
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "JI VEICULOS E SERVIÇOS LTDA.",
+      "cnpj": "23982403000189",
+      "total": 135300.0,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 30.2
+    },
+    {
+      "nome": "GRAFICA EDITORA J ANDRADE LTDA",
+      "cnpj": "13007646000142",
+      "total": 76360.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 17.04
+    },
+    {
+      "nome": "AUTO POSTO ROCHA LTDA",
+      "cnpj": "07855647000144",
+      "total": 44026.25,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 9.83
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 40086.72,
+      "quantidade_transacoes": 100,
+      "porcentagem_do_total": 8.95
+    },
+    {
+      "nome": "COHAB CORRETORA HABITACIONAL LTDA",
+      "cnpj": "04628771000189",
+      "total": 28593.23,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 6.38
+    },
+    {
+      "nome": "ALDO DA SILVA FONTES",
+      "cnpj": "66349370520",
+      "total": 27500.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 6.14
+    },
+    {
+      "nome": "A S FONTES COMUNICAÇÃO EIRELI-ME",
+      "cnpj": "23312670000149",
+      "total": 11000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 2.46
+    },
+    {
+      "nome": "Telefônica Brasil S.A. VIVO",
+      "cnpj": "02558157000162",
+      "total": 8851.21,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 1.98
+    },
+    {
+      "nome": "Nicelma dos Santos Cursos e Treinamentos",
+      "cnpj": "11002810000101",
+      "total": 8000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 1.79
+    },
+    {
+      "nome": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpj": "08532429000131",
+      "total": 7216.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 1.61
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 289.28,
+      "porcentagem_do_total": 0.06
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 43501.63,
+      "porcentagem_do_total": 9.71
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 38613.72,
+      "porcentagem_do_total": 8.62
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 33080.7,
+      "porcentagem_do_total": 7.38
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 35205.47,
+      "porcentagem_do_total": 7.86
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 33310.96,
+      "porcentagem_do_total": 7.44
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 28189.07,
+      "porcentagem_do_total": 6.29
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 33446.59,
+      "porcentagem_do_total": 7.47
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 32716.86,
+      "porcentagem_do_total": 7.3
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 33996.03,
+      "porcentagem_do_total": 7.59
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 25865.23,
+      "porcentagem_do_total": 5.77
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 109809.66,
+      "porcentagem_do_total": 24.51
+    }
+  ]
+}

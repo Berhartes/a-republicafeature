@@ -1,0 +1,164 @@
+{
+  "deputado": {
+    "id": 178909,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178909",
+    "nome": "Hélio Leite",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "PA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178909.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 235112.05,
+  "quantidade_transacoes": 109,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 126842.66,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 53.95
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 62976.0,
+      "quantidade_transacoes": 53,
+      "porcentagem_do_total": 26.79
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 20220.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 8.6
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 19640.01,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 8.35
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 2924.27,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.24
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 41341.72,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 17.58
+    },
+    {
+      "nome": "S N Mídia, Produção e Assessoria de Marketing Ltda-ME",
+      "cnpj": "08218610000178",
+      "total": 24000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 10.21
+    },
+    {
+      "nome": "PRIME ONE AGENCIA PUBLICITARIA",
+      "cnpj": "33782225000104",
+      "total": 22000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 9.36
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 21634.28,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 9.2
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 20220.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 8.6
+    },
+    {
+      "nome": "REDE NORTE DE COMUNICACAO LTDA",
+      "cnpj": "03763085000158",
+      "total": 19842.66,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 8.44
+    },
+    {
+      "nome": "ECHOS PUBLICIDADE LTDA",
+      "cnpj": "02243070000104",
+      "total": 16000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 6.81
+    },
+    {
+      "nome": "SUPER POSTO PALMEIRA LTDA",
+      "cnpj": "83838839000120",
+      "total": 15270.83,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.5
+    },
+    {
+      "nome": "G S S Midia Produção de Video Eireli",
+      "cnpj": "33065313000187",
+      "total": 14000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.95
+    },
+    {
+      "nome": "BRITO E PORPINO LTDA",
+      "cnpj": "22618242000186",
+      "total": 11400.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 4.85
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 776.72,
+      "porcentagem_do_total": 0.33
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 4858.3,
+      "porcentagem_do_total": 2.07
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 50799.03,
+      "porcentagem_do_total": 21.61
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 60829.93,
+      "porcentagem_do_total": 25.87
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 73910.52,
+      "porcentagem_do_total": 31.44
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 37559.61,
+      "porcentagem_do_total": 15.98
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 6377.94,
+      "porcentagem_do_total": 2.71
+    }
+  ]
+}

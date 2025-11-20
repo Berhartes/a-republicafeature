@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "XTAND COMERCIO DE COMBUSTIVEIS - EIRELLI",
+      "cnpj": "34867428000158",
+      "total_recebido": 592.1500000000001,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-07T05:43:13.595423"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 592.1500000000001
+  },
+  "anos": {
+    "2025": {
+      "total": 592.1500000000001,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160559": {
+      "deputado": {
+        "id": 160559,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
+        "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
+        "email": "dep.alceumoreira@camara.leg.br"
+      },
+      "total": 592.1500000000001,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7890009,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-24T10:48:07",
+          "numDocumento": "178497",
+          "valorDocumento": 302.11,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7890009",
+          "nomeFornecedor": "XTAND COMERCIO DE COMBUSTIVEIS - EIRELLI",
+          "cnpjCpfFornecedor": "34867428000158",
+          "valorLiquido": 302.11,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7904866,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-14T00:00:00",
+          "numDocumento": "180845",
+          "valorDocumento": 290.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7904866",
+          "nomeFornecedor": "XTAND COMERCIO DE COMBUSTIVEIS - EIRELLI",
+          "cnpjCpfFornecedor": "34867428000158",
+          "valorLiquido": 290.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

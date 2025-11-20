@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220714,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220714",
+    "nome": "Adail Filho",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "AM",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
+    "email": "dep.adailfilho@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 550057.18,
+  "quantidade_transacoes": 226,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 421850.0,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 76.69
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 66000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 12.0
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 38141.26,
+      "quantidade_transacoes": 154,
+      "porcentagem_do_total": 6.93
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 22533.9,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 4.1
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 945.2,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.17
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ANIMAÇAO PROMOÇOES E PUBLICIDADE LTDA",
+      "cnpj": "84659721000106",
+      "total": 217000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 39.45
+    },
+    {
+      "nome": "ELZANIRA SOARES DA SILVA LTDA",
+      "cnpj": "31263284000132",
+      "total": 179300.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 32.6
+    },
+    {
+      "nome": "NSF TRANSPORTES ME LTDA.",
+      "cnpj": "19533015000143",
+      "total": 48000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 8.73
+    },
+    {
+      "nome": "ANIMACAO PROMOCOES E PUBLICIDADE LTDA",
+      "cnpj": "84659721000106",
+      "total": 21700.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.95
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 14231.26,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 2.59
+    },
+    {
+      "nome": "NSF TRANSPORTES LTDA",
+      "cnpj": "19533015000143",
+      "total": 12000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.18
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 8302.64,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 1.51
+    },
+    {
+      "nome": "S M COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "07725915000103",
+      "total": 7171.32,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.3
+    },
+    {
+      "nome": "NSF NSF TRANSPORTES ME LTDA.",
+      "cnpj": "19533015000143",
+      "total": 6000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.09
+    },
+    {
+      "nome": "AUTO POSTO ARENA LTDA",
+      "cnpj": "40242761000174",
+      "total": 3892.77,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 0.71
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 48133.05,
+      "porcentagem_do_total": 8.75
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 62845.17,
+      "porcentagem_do_total": 11.43
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 47379.27,
+      "porcentagem_do_total": 8.61
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 47325.93,
+      "porcentagem_do_total": 8.6
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 48878.37,
+      "porcentagem_do_total": 8.89
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 47370.24,
+      "porcentagem_do_total": 8.61
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 48467.51,
+      "porcentagem_do_total": 8.81
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 48425.38,
+      "porcentagem_do_total": 8.8
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 54800.73,
+      "porcentagem_do_total": 9.96
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 49100.87,
+      "porcentagem_do_total": 8.93
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 47330.66,
+      "porcentagem_do_total": 8.6
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CENTRO AUTOMOTIVO AGUA MARINHA LTDA",
+      "cnpj": "36451182000164",
+      "total_recebido": 788.3799999999999,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:24.526972"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 788.3799999999999
+  },
+  "anos": {
+    "2023": {
+      "total": 251.58,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 536.8,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221148": {
+      "deputado": {
+        "id": 221148,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221148",
+        "nome": "Alfredinho",
+        "nomeEleitoral": "Alfredinho",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221148.jpg",
+        "email": "dep.alfredinho@camara.leg.br"
+      },
+      "total": 788.3799999999999,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7630414,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-20T00:00:00",
+          "numDocumento": "008963",
+          "valorDocumento": 251.58,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3505/2023/7630414.pdf",
+          "nomeFornecedor": "CENTRO AUTOMOTIVO AGUA MARINHA LTDA",
+          "cnpjCpfFornecedor": "36451182000164",
+          "valorLiquido": 251.58,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7683098,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-03T00:00:00",
+          "numDocumento": "058435",
+          "valorDocumento": 232.07,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3505/2024/7683098.pdf",
+          "nomeFornecedor": "CENTRO AUTOMOTIVO AGUA MARINHA LTDA",
+          "cnpjCpfFornecedor": "36451182000164",
+          "valorLiquido": 232.07,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7752102,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-09T00:00:00",
+          "numDocumento": "118985",
+          "valorDocumento": 181.19,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3505/2024/7752102.pdf",
+          "nomeFornecedor": "CENTRO AUTOMOTIVO AGUA MARINHA LTDA",
+          "cnpjCpfFornecedor": "36451182000164",
+          "valorLiquido": 181.19,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7806015,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-20T00:00:00",
+          "numDocumento": "173606",
+          "valorDocumento": 123.54,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3505/2024/7806015.pdf",
+          "nomeFornecedor": "CENTRO AUTOMOTIVO AGUA MARINHA LTDA",
+          "cnpjCpfFornecedor": "36451182000164",
+          "valorLiquido": 123.54,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

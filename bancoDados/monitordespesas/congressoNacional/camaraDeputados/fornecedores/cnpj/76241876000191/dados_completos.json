@@ -3,19 +3,19 @@
     "fornecedor": {
       "nome": "POSTO DE GASOLINA DOS EUCALITOS LTDA",
       "cnpj": "76241876000191",
-      "total_recebido": 298.6,
-      "numero_transacoes": 1,
+      "total_recebido": 573.71,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:30.458668"
+    "generatedAt": "2025-11-11T05:22:41.869227"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 298.6
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 573.71
   },
   "anos": {
     "2025": {
-      "total": 298.6,
-      "transacoes": 1,
+      "total": 573.71,
+      "transacoes": 2,
       "deputados": 1
     }
   },
@@ -25,6 +25,7 @@
         "id": 178927,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
         "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
         "siglaPartido": "PV",
         "uriPartido": "",
         "siglaUf": "PR",
@@ -32,8 +33,8 @@
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
         "email": "dep.alielmachado@camara.leg.br"
       },
-      "total": 298.6,
-      "transacoes": 1,
+      "total": 573.71,
+      "transacoes": 2,
       "despesas": [
         {
           "ano": 2025,
@@ -49,6 +50,25 @@
           "nomeFornecedor": "POSTO DE GASOLINA DOS EUCALITOS LTDA",
           "cnpjCpfFornecedor": "76241876000191",
           "valorLiquido": 298.6,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 8009763,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-31T00:00:00",
+          "numDocumento": "418892",
+          "valorDocumento": 275.11,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8009763",
+          "nomeFornecedor": "POSTO DE GASOLINA DOS EUCALITOS LTDA",
+          "cnpjCpfFornecedor": "76241876000191",
+          "valorLiquido": 275.11,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CE - ASA NT 115",
+      "cnpj": "00692418003394",
+      "total_recebido": 100.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:14.712982"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 100.0
+  },
+  "anos": {
+    "2024": {
+      "total": 100.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160527": {
+      "deputado": {
+        "id": 160527,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
+        "nome": "Aguinaldo Ribeiro",
+        "nomeEleitoral": "Aguinaldo Ribeiro",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "PB",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160527.jpg",
+        "email": "dep.aguinaldoribeiro@camara.leg.br"
+      },
+      "total": 100.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7809351,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-14T09:10:04",
+          "numDocumento": "12309",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7809351",
+          "nomeFornecedor": "CE - ASA NT 115",
+          "cnpjCpfFornecedor": "00692418003394",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

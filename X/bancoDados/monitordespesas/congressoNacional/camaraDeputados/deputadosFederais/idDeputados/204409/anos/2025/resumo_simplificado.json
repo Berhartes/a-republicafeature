@@ -1,0 +1,130 @@
+{
+  "deputado": {
+    "id": 204409,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204409",
+    "nome": "Daniel Trzeciak",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "RS",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204409.jpg",
+    "email": "dep.danieltrzeciak@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 20716.51,
+  "quantidade_transacoes": 25,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 20716.51,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Camila Machado",
+      "cnpj": "00036883050",
+      "total": 14500.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 69.99
+    },
+    {
+      "nome": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
+      "cnpj": "92780600000138",
+      "total": 4695.59,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 22.67
+    },
+    {
+      "nome": "Adobe Systems Software Ireland Ltd 4-6 Riverwalk",
+      "cnpj": "00000000000010",
+      "total": 1148.94,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 5.55
+    },
+    {
+      "nome": "BELLER COMERCIO DE PAPEIS LTDA",
+      "cnpj": "05563868001357",
+      "total": 167.98,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.81
+    },
+    {
+      "nome": "Adobe Systems Software Ireland Ltd",
+      "cnpj": "00000000000010",
+      "total": 139.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.67
+    },
+    {
+      "nome": "C. A. MULLING e CIA LTDA",
+      "cnpj": "53680862000179",
+      "total": 65.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.31
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 3039.0,
+      "porcentagem_do_total": 14.67
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 1135.83,
+      "porcentagem_do_total": 5.48
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 3715.11,
+      "porcentagem_do_total": 17.93
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 3549.3,
+      "porcentagem_do_total": 17.13
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 3614.55,
+      "porcentagem_do_total": 17.45
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 3578.15,
+      "porcentagem_do_total": 17.27
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 139.0,
+      "porcentagem_do_total": 0.67
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 543.2,
+      "porcentagem_do_total": 2.62
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 861.21,
+      "porcentagem_do_total": 4.16
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 541.16,
+      "porcentagem_do_total": 2.61
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 220611,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220611",
+    "nome": "General Pazuello",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg",
+    "email": "dep.generalpazuello@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 464191.58,
+  "quantidade_transacoes": 508,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 152000.0,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 32.75
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 107784.21,
+      "quantidade_transacoes": 37,
+      "porcentagem_do_total": 23.22
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 103947.73,
+      "quantidade_transacoes": 131,
+      "porcentagem_do_total": 22.39
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 67037.51,
+      "quantidade_transacoes": 296,
+      "porcentagem_do_total": 14.44
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 29452.93,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 6.34
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Lokar Assessoria de Bens Imóveis Eireli",
+      "cnpj": "22946236000158",
+      "total": 89373.2,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 19.25
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 86202.6,
+      "quantidade_transacoes": 109,
+      "porcentagem_do_total": 18.57
+    },
+    {
+      "nome": "CAG CRUZ LTDA",
+      "cnpj": "23589525000100",
+      "total": 61000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 13.14
+    },
+    {
+      "nome": "RANKING COMUNICAÇÃO E MIDIA LTDA",
+      "cnpj": "56980597000132",
+      "total": 52500.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 11.31
+    },
+    {
+      "nome": "Target Comunicação e Tecnologia Ltda",
+      "cnpj": "33405550000140",
+      "total": 27500.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 5.92
+    },
+    {
+      "nome": "HADDAD RENT A CAR LOCADORA LTDA",
+      "cnpj": "00104659000198",
+      "total": 22208.05,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 4.78
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 17191.64,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 3.7
+    },
+    {
+      "nome": "LIGHT SERVICOS DE ELETRICIDADE S A",
+      "cnpj": "60444437000146",
+      "total": 11871.28,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 2.56
+    },
+    {
+      "nome": "SWELL MARKETING E COMUNICAÇÃO LTDA",
+      "cnpj": "49023379000144",
+      "total": 11000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.37
+    },
+    {
+      "nome": "AUTO POSTO INAJA LTDA",
+      "cnpj": "04521796000189",
+      "total": 7187.89,
+      "quantidade_transacoes": 35,
+      "porcentagem_do_total": 1.55
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 49131.11,
+      "porcentagem_do_total": 10.58
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 36318.32,
+      "porcentagem_do_total": 7.82
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 36042.66,
+      "porcentagem_do_total": 7.76
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 31671.89,
+      "porcentagem_do_total": 6.82
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 38466.35,
+      "porcentagem_do_total": 8.29
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 27521.94,
+      "porcentagem_do_total": 5.93
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 31872.59,
+      "porcentagem_do_total": 6.87
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 26750.0,
+      "porcentagem_do_total": 5.76
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 54128.52,
+      "porcentagem_do_total": 11.66
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 53548.66,
+      "porcentagem_do_total": 11.54
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 34643.82,
+      "porcentagem_do_total": 7.46
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 44095.72,
+      "porcentagem_do_total": 9.5
+    }
+  ]
+}

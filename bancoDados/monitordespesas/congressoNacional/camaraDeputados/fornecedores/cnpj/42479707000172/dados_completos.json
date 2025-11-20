@@ -1,13 +1,13 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "Auto Posto Roda Bem Turvania Ltda",
+      "nome": "AUTO POSTO RODA BEM TURVANIA LTDA",
       "cnpj": "42479707000172",
       "total_recebido": 442.09000000000003,
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.338030"
+    "generatedAt": "2025-11-11T05:22:13.195342"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 442.09000000000003
@@ -25,6 +25,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -35,25 +36,6 @@
       "total": 442.09000000000003,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 8,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7783227,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-08-05T06:59:35",
-          "numDocumento": "29445",
-          "valorDocumento": 136.93,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7783227",
-          "nomeFornecedor": "Auto Posto Roda Bem Turvania Ltda",
-          "cnpjCpfFornecedor": "42479707000172",
-          "valorLiquido": 136.93,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 6,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "AUTO POSTO RODA BEM TURVANIA LTDA",
           "cnpjCpfFornecedor": "42479707000172",
           "valorLiquido": 305.16,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7783227,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-05T06:59:35",
+          "numDocumento": "29445",
+          "valorDocumento": 136.93,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7783227",
+          "nomeFornecedor": "Auto Posto Roda Bem Turvania Ltda",
+          "cnpjCpfFornecedor": "42479707000172",
+          "valorLiquido": 136.93,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

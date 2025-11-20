@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 66828,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/66828",
+    "nome": "Fausto Pinato",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/66828.jpg",
+    "email": "dep.faustopinato@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 431535.51,
+  "quantidade_transacoes": 305,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 124600.0,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 28.87
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 117092.14,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 27.13
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 78906.01,
+      "quantidade_transacoes": 177,
+      "porcentagem_do_total": 18.28
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 56676.96,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 13.13
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 35498.59,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 8.23
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 124600.0,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 28.87
+    },
+    {
+      "nome": "JOSE APARECIDO DIAS",
+      "cnpj": "59384900000122",
+      "total": 106000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 24.56
+    },
+    {
+      "nome": "AUTO POSTO BRASIL DE FERNANDOPOLIS LTDA",
+      "cnpj": "46933438000123",
+      "total": 55344.15,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 12.82
+    },
+    {
+      "nome": "RAMON AGUILERA PARTICIPAÇÕES E EMPREENDIMENTOS LTDA",
+      "cnpj": "11823795000154",
+      "total": 34164.44,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 7.92
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 17651.87,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 4.09
+    },
+    {
+      "nome": "DIDATA INFORMÁTICA",
+      "cnpj": "22435777000111",
+      "total": 16200.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 3.75
+    },
+    {
+      "nome": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
+      "cnpj": "04088208000165",
+      "total": 10197.81,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 2.36
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 9530.2,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 2.21
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 8316.52,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.93
+    },
+    {
+      "nome": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+      "cnpj": "13347016000117",
+      "total": 6017.67,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.39
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 38131.19,
+      "porcentagem_do_total": 8.84
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 49558.01,
+      "porcentagem_do_total": 11.48
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 42499.26,
+      "porcentagem_do_total": 9.85
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 48023.81,
+      "porcentagem_do_total": 11.13
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 47180.7,
+      "porcentagem_do_total": 10.93
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 45018.79,
+      "porcentagem_do_total": 10.43
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 54987.43,
+      "porcentagem_do_total": 12.74
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 46540.17,
+      "porcentagem_do_total": 10.78
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 42590.97,
+      "porcentagem_do_total": 9.87
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 17005.18,
+      "porcentagem_do_total": 3.94
+    }
+  ]
+}

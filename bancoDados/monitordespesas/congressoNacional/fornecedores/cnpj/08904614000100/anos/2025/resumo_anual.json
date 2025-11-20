@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO BRASIL",
+      "cnpj": "08904614000100",
+      "total_recebido": 260.09,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 260.09,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-07-30T00:00:00",
+    "periodo_fim": "2025-07-30T00:00:00",
+    "generatedAt": "2025-11-11T21:38:05.714009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 260.09,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 260.09,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 260.09,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7958652,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-07-30T00:00:00",
+      "numDocumento": "202188",
+      "valorDocumento": 260.09,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7958652.pdf",
+      "nomeFornecedor": "AUTO POSTO BRASIL",
+      "cnpjCpfFornecedor": "08904614000100",
+      "valorLiquido": 260.09,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2160717,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

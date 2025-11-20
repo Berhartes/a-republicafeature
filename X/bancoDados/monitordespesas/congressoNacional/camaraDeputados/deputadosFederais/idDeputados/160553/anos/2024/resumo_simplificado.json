@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 160553,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+    "nome": "Antonio Brito",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+    "email": "dep.antoniobrito@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 444354.66,
+  "quantidade_transacoes": 612,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 160838.28,
+      "quantidade_transacoes": 131,
+      "porcentagem_do_total": 36.2
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 132000.0,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 29.71
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 71357.1,
+      "quantidade_transacoes": 191,
+      "porcentagem_do_total": 16.06
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 56017.47,
+      "quantidade_transacoes": 250,
+      "porcentagem_do_total": 12.61
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 23223.81,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 5.23
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "QUALITYLOC AUTOMÓVEIS LTDA.",
+      "cnpj": "26408516000163",
+      "total": 132000.0,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 29.71
+    },
+    {
+      "nome": "'MICRO & SOFT INFORMATICA LTDA",
+      "cnpj": "40575110000104",
+      "total": 91500.0,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 20.59
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 42466.68,
+      "quantidade_transacoes": 140,
+      "porcentagem_do_total": 9.56
+    },
+    {
+      "nome": "CONDOMÍNIO EMPRESARIAL THOMÉ DE SOUZA",
+      "cnpj": "11272977000184",
+      "total": 37159.95,
+      "quantidade_transacoes": 36,
+      "porcentagem_do_total": 8.36
+    },
+    {
+      "nome": "TELEFÔNICA BRASIL S.A.",
+      "cnpj": "02558157002459",
+      "total": 18876.8,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 4.25
+    },
+    {
+      "nome": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR",
+      "cnpj": "13927801000491",
+      "total": 15794.1,
+      "quantidade_transacoes": 33,
+      "porcentagem_do_total": 3.55
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 15265.27,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 3.44
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 13625.15,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 3.07
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS 208 SUL EIRELI",
+      "cnpj": "20473943000149",
+      "total": 11021.02,
+      "quantidade_transacoes": 42,
+      "porcentagem_do_total": 2.48
+    },
+    {
+      "nome": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+      "cnpj": "15139629000194",
+      "total": 9563.24,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 2.15
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 40762.12,
+      "porcentagem_do_total": 9.17
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 38727.31,
+      "porcentagem_do_total": 8.72
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 49810.42,
+      "porcentagem_do_total": 11.21
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 41014.49,
+      "porcentagem_do_total": 9.23
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 36196.47,
+      "porcentagem_do_total": 8.15
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 36844.25,
+      "porcentagem_do_total": 8.29
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 43055.94,
+      "porcentagem_do_total": 9.69
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 20980.92,
+      "porcentagem_do_total": 4.72
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 30481.38,
+      "porcentagem_do_total": 6.86
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 47121.44,
+      "porcentagem_do_total": 10.6
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 41309.37,
+      "porcentagem_do_total": 9.3
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 18050.55,
+      "porcentagem_do_total": 4.06
+    }
+  ]
+}

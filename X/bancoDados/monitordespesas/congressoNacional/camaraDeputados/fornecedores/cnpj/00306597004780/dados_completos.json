@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "047 - CASTANHEIRAS - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597004780",
+      "total_recebido": 778.83,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:19.745996"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 778.83
+  },
+  "anos": {
+    "2023": {
+      "total": 278.42,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 500.40999999999997,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204571": {
+      "deputado": {
+        "id": 204571,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
+        "nome": "Alex Santana",
+        "nomeEleitoral": "Alex Santana",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204571.jpg",
+        "email": "dep.alexsantana@camara.leg.br"
+      },
+      "total": 778.83,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7602210,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-31T00:00:00",
+          "numDocumento": "466227",
+          "valorDocumento": 278.42,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7602210",
+          "nomeFornecedor": "047 - CASTANHEIRAS - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+          "cnpjCpfFornecedor": "00306597004780",
+          "valorLiquido": 278.42,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7724679,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-02T00:00:00",
+          "numDocumento": "540933",
+          "valorDocumento": 250.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7724679",
+          "nomeFornecedor": "047 - CASTANHEIRAS - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+          "cnpjCpfFornecedor": "00306597004780",
+          "valorLiquido": 250.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7751807,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-03T19:51:45",
+          "numDocumento": "561605",
+          "valorDocumento": 250.4,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7751807",
+          "nomeFornecedor": "047 - CASTANHEIRAS - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+          "cnpjCpfFornecedor": "00306597004780",
+          "valorLiquido": 250.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

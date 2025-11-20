@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "BRUNO PINHEIRO DA SILVA 05197897171",
+    "cnpj": "28962281000182",
+    "total_recebido": 10500.0,
+    "numero_transacoes": 3,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 10500.0,
+  "quantidade_transacoes": 3,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 10500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 10500.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 3500.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 3500.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 3500.0,
+      "porcentagem_do_total": 33.33
+    }
+  ]
+}

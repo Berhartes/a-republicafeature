@@ -1,0 +1,134 @@
+{
+  "deputado": {
+    "id": 204514,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204514",
+    "nome": "Coronel Tadeu",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204514.jpg",
+    "email": null
+  },
+  "ano": 2025,
+  "total_gasto": 41932.88,
+  "quantidade_transacoes": 17,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 32380.92,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 77.22
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 5656.35,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 13.49
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1728.03,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 4.12
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 1521.52,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.63
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 601.5,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.43
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "DIALOG CONSULTORIA ESTRATEGICA LTDA",
+      "cnpj": "58737410000108",
+      "total": 13850.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 33.03
+    },
+    {
+      "nome": "NACIONAL GESTAO E CONSULTORIA LTDA",
+      "cnpj": "44116201000124",
+      "total": 13100.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 31.24
+    },
+    {
+      "nome": "HERNANI FILMES E MARQUETING  DIGITAL LTDA",
+      "cnpj": "46115394000124",
+      "total": 4462.92,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 10.64
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 3121.73,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 7.44
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 2534.62,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 6.04
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 1521.52,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.63
+    },
+    {
+      "nome": "EGF-Editora Grafica Fator Ltda.",
+      "cnpj": "10172304000190",
+      "total": 968.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.31
+    },
+    {
+      "nome": "RIMNA SERVIÇOS DE HOTELARIA LTDA ME",
+      "cnpj": "27269354000192",
+      "total": 601.5,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.43
+    },
+    {
+      "nome": "EKAM POSTO DE SERVICOS LTDA",
+      "cnpj": "17687371000196",
+      "total": 481.86,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.15
+    },
+    {
+      "nome": "AUTO POSTO MYKONOS LTDA",
+      "cnpj": "36254005000198",
+      "total": 420.05,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 3033.53,
+      "porcentagem_do_total": 7.23
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 38899.35,
+      "porcentagem_do_total": 92.77
+    }
+  ]
+}

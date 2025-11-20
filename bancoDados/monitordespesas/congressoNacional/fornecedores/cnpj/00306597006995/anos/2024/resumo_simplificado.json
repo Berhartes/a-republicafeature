@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "069 - PENISULA - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+    "cnpj": "00306597006995",
+    "total_recebido": 2266.43,
+    "numero_transacoes": 7,
+    "numero_deputados": 3
+  },
+  "ano": 2024,
+  "total_recebido": 1286.03,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 1286.03,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1286.03,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 380.09,
+      "porcentagem_do_total": 29.56
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 605.94,
+      "porcentagem_do_total": 47.12
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 300.0,
+      "porcentagem_do_total": 23.33
+    }
+  ]
+}

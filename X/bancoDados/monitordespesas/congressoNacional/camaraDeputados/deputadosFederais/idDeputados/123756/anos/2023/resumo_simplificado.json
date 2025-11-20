@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 123756,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/123756",
+    "nome": "Antônia Lúcia",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "AC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/123756.jpg",
+    "email": "dep.antonialucia@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 539484.1,
+  "quantidade_transacoes": 179,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 245399.0,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 45.49
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "total": 166250.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 30.82
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 120157.75,
+      "quantidade_transacoes": 133,
+      "porcentagem_do_total": 22.27
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 4341.2,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.8
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 3246.35,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 0.6
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ON - Z IMPRESSAO, DIVULGACAO & MARKETING DIGITAL LTDA",
+      "cnpj": "49870873000144",
+      "total": 102606.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 19.02
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 65963.39,
+      "quantidade_transacoes": 100,
+      "porcentagem_do_total": 12.23
+    },
+    {
+      "nome": "RIO BRANCO AEROTAXI LTDA",
+      "cnpj": "84316421000116",
+      "total": 62000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 11.49
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 54121.66,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 10.03
+    },
+    {
+      "nome": "RIO BRANCO AEROTAXI LTDA-EPP",
+      "cnpj": "84316421000116",
+      "total": 46250.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 8.57
+    },
+    {
+      "nome": "F. ALMEIDA DA SILVA",
+      "cnpj": "06886449000185",
+      "total": 45500.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 8.43
+    },
+    {
+      "nome": "DUGOMES  AIR TAXI AEREO LTDA",
+      "cnpj": "09235989000197",
+      "total": 35000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 6.49
+    },
+    {
+      "nome": "E.O.PEREIRA",
+      "cnpj": "23657819000121",
+      "total": 33120.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 6.14
+    },
+    {
+      "nome": "Thais Soares dos Santos Grupo ZMX",
+      "cnpj": "43327438000191",
+      "total": 28000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 5.19
+    },
+    {
+      "nome": "DUGOMES AIR TAXI AEREO LTDA",
+      "cnpj": "09235989000197",
+      "total": 18000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.34
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 6862.69,
+      "porcentagem_do_total": 1.27
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 41865.04,
+      "porcentagem_do_total": 7.76
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 123484.61,
+      "porcentagem_do_total": 22.89
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 39285.24,
+      "porcentagem_do_total": 7.28
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 39953.78,
+      "porcentagem_do_total": 7.41
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 86003.51,
+      "porcentagem_do_total": 15.94
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 73212.6,
+      "porcentagem_do_total": 13.57
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 32359.59,
+      "porcentagem_do_total": 6.0
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 29989.31,
+      "porcentagem_do_total": 5.56
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 39130.38,
+      "porcentagem_do_total": 7.25
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 27337.35,
+      "porcentagem_do_total": 5.07
+    }
+  ]
+}

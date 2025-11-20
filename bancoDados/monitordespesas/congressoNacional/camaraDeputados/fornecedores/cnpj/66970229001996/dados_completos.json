@@ -3,19 +3,19 @@
     "fornecedor": {
       "nome": "CLARO NXT TELECOMUNICAÇÕES S.A",
       "cnpj": "66970229001996",
-      "total_recebido": 969.47,
-      "numero_transacoes": 2,
+      "total_recebido": 484.76,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.372314"
+    "generatedAt": "2025-11-11T05:22:13.538618"
   },
   "categorias": {
-    "TELEFONIA": 969.47
+    "TELEFONIA": 484.76
   },
   "anos": {
     "2025": {
-      "total": 969.47,
-      "transacoes": 2,
+      "total": 484.76,
+      "transacoes": 1,
       "deputados": 1
     }
   },
@@ -25,6 +25,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -32,8 +33,8 @@
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
         "email": "dep.adrianodobaldy@camara.leg.br"
       },
-      "total": 969.47,
-      "transacoes": 2,
+      "total": 484.76,
+      "transacoes": 1,
       "despesas": [
         {
           "ano": 2025,
@@ -49,25 +50,6 @@
           "nomeFornecedor": "CLARO NXT TELECOMUNICAÇÕES S.A",
           "cnpjCpfFornecedor": "66970229001996",
           "valorLiquido": 484.76,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
-          "mes": 8,
-          "tipoDespesa": "TELEFONIA",
-          "codDocumento": 7971671,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-08-19T00:00:00",
-          "numDocumento": "0009709812",
-          "valorDocumento": 518.02,
-          "urlDocumento": null,
-          "nomeFornecedor": "CLARO NXT TELECOMUNICAÇÕES S.A",
-          "cnpjCpfFornecedor": "66970229001996",
-          "valorLiquido": 484.71,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

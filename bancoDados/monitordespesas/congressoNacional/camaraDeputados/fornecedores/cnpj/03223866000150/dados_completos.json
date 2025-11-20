@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:54.618157"
+    "generatedAt": "2025-11-11T05:22:30.264761"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 452.06
@@ -25,6 +25,7 @@
         "id": 204571,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
         "nome": "Alex Santana",
+        "nomeEleitoral": "Alex Santana",
         "siglaPartido": "REPUBLICANOS",
         "uriPartido": "",
         "siglaUf": "BA",
@@ -39,25 +40,6 @@
           "ano": 2024,
           "mes": 7,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7777130,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-07-21T15:30:29",
-          "numDocumento": "572183",
-          "valorDocumento": 212.04,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7777130",
-          "nomeFornecedor": "PARAISO DERIVADOS DE PETROLEO LTDA",
-          "cnpjCpfFornecedor": "03223866000150",
-          "valorLiquido": 212.04,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 7,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7777128,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "PARAISO DERIVADOS DE PETROLEO LTDA",
           "cnpjCpfFornecedor": "03223866000150",
           "valorLiquido": 240.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7777130,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-21T15:30:29",
+          "numDocumento": "572183",
+          "valorDocumento": 212.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7777130",
+          "nomeFornecedor": "PARAISO DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "03223866000150",
+          "valorLiquido": 212.04,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

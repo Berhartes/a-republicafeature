@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
+    "cnpj": "17895646000187",
+    "total_recebido": 149.97,
+    "numero_transacoes": 5,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 121.39,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 121.39,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 121.39,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 83.28,
+      "porcentagem_do_total": 68.61
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 38.11,
+      "porcentagem_do_total": 31.39
+    }
+  ]
+}

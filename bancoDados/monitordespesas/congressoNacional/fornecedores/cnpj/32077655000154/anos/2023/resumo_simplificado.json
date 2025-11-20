@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "JARJOUR REVENDA",
+    "cnpj": "32077655000154",
+    "total_recebido": 1921.8600000000001,
+    "numero_transacoes": 7,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 774.46,
+  "quantidade_transacoes": 3,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 774.46,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 774.46,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 271.85,
+      "porcentagem_do_total": 35.1
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 239.36,
+      "porcentagem_do_total": 30.91
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 263.25,
+      "porcentagem_do_total": 33.99
+    }
+  ]
+}

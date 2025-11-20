@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.272834"
+    "generatedAt": "2025-11-11T05:22:16.898878"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 607.85
@@ -30,6 +30,7 @@
         "id": 136811,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
         "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -40,25 +41,6 @@
       "total": 607.85,
       "transacoes": 3,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 12,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7659842,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-12-10T00:00:00",
-          "numDocumento": "711102",
-          "valorDocumento": 424.97,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7659842",
-          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - ACEGUA CENTRO",
-          "cnpjCpfFornecedor": "07473735014484",
-          "valorLiquido": 424.97,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 11,
@@ -73,6 +55,25 @@
           "nomeFornecedor": "SIM REDE DE POSTOS LTDA - ACEGUA CENTRO",
           "cnpjCpfFornecedor": "07473735014484",
           "valorLiquido": 52.89,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7659842,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-10T00:00:00",
+          "numDocumento": "711102",
+          "valorDocumento": 424.97,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7659842",
+          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - ACEGUA CENTRO",
+          "cnpjCpfFornecedor": "07473735014484",
+          "valorLiquido": 424.97,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

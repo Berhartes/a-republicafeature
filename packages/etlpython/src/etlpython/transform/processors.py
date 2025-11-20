@@ -56,6 +56,7 @@ class DataProcessor:
         deputado_resumo = DeputadoResumo(
             id=deputado.id,
             nome=deputado.nome,
+            nomeEleitoral=getattr(deputado, "nomeEleitoral", None) or deputado.nome,
             siglaPartido=deputado.siglaPartido,
             siglaUf=deputado.siglaUf,
             totalDespesas=round(total_despesas, 2),

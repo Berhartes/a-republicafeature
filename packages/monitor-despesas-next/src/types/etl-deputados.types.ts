@@ -1,4 +1,4 @@
-
+import type { ReactElement } from 'react'
 export interface EtlDeputadoBasico {
   id: string
   nome: string
@@ -82,9 +82,12 @@ export interface EtlEstatisticasAno {
 export interface DeputadoProcessado {
   id: string
   nomeEleitoral: string
+  nome?: string
   nomeCivil?: string
   siglaPartido: string
+  partido?: string
   siglaUf: string
+  uf?: string
   foto: string
 
   totalGastos: number
@@ -104,6 +107,7 @@ export interface DeputadoProcessado {
   ultimaAtualizacao: string
   anosDisponiveis: number[]
   dadosCompletos: boolean
+  fornecedoresIdentificados?: number
 }
 
 export interface RankingDeputados {
@@ -118,28 +122,40 @@ export interface RankingDeputados {
   }
 }
 
+// Item base flexível para acomodar metadados usados na camada de apresentação
+export interface PremiacaoItem {
+  deputadoId?: string
+  titulo: string
+  descricao: string
+  categoria: string
+  valor: number
+  // Metadados opcionais para exibição
+  nomeEleitoral?: string
+  siglaPartido?: string
+  siglaUf?: string
+  ano?: number
+  posicao?: number
+  uf?: string
+  icone?: string | ReactElement
+  metrica?: string
+}
+
+// Aliases de tipos para compatibilidade com código que usa nomenclatura específica
+export type CoroaOuro = PremiacaoItem
+export type TrofeuPrata = PremiacaoItem
+export type MedalhaBronze = PremiacaoItem
+
 export interface PremiacoesProcessadas {
-  coroas: Array<{
-    deputadoId?: string
-    titulo: string
-    descricao: string
-    categoria: string
-    valor: number
-  }>
-  trofeus: Array<{
-    deputadoId?: string
-    titulo: string
-    descricao: string
-    categoria: string
-    valor: number
-  }>
-  medalhas: Array<{
-    deputadoId?: string
-    titulo: string
-    descricao: string
-    categoria: string
-    valor: number
-  }>
+  // Listas principais
+  coroas: PremiacaoItem[]
+  trofeus: PremiacaoItem[]
+  medalhas: PremiacaoItem[]
+  // Listas alternativas/opcionais para compatibilidade com UI legada
+  coroasOuro: PremiacaoItem[]
+  trofeusPrata: PremiacaoItem[]
+  medalhasBronze: PremiacaoItem[]
+  badgesEspeciais: PremiacaoItem[]
+
   campeaoGeral?: {
     deputadoId?: string
     nome?: string
@@ -150,10 +166,17 @@ export interface PremiacoesProcessadas {
     id?: string
   }
   estatisticas: {
-    totalCoroas: number
-    totalTrofeus: number
-    totalMedalhas: number
+    totalCoroas?: number
+    totalTrofeus?: number
+    totalMedalhas?: number
     totalPremiacoes: number
+    // Campos opcionais compatíveis com UI legada
+    totalCoroasOuro?: number
+    totalTrofeusPrata?: number
+    totalMedalhasBronze?: number
+    totalBadgesEspeciais?: number
+    deputadosPremiados?: number
+    periodoAnalise?: { anoInicio: number; anoFim: number; totalAnos?: number }
   }
 }
 

@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GMG OMERCIO DE ALIMENTOS LTDA",
+      "cnpj": "13360340000175",
+      "total_recebido": 655.0,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:12.872686"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 655.0
+  },
+  "anos": {
+    "2023": {
+      "total": 547.0,
+      "transacoes": 5,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 108.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178835": {
+      "deputado": {
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
+      },
+      "total": 655.0,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7503021,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-28T00:00:00",
+          "numDocumento": "14365",
+          "valorDocumento": 118.72,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7503021",
+          "nomeFornecedor": "GMG OMERCIO DE ALIMENTOS LTDA",
+          "cnpjCpfFornecedor": "13360340000175",
+          "valorLiquido": 106.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7530248,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-24T00:00:00",
+          "numDocumento": "16502",
+          "valorDocumento": 119.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7530248",
+          "nomeFornecedor": "GMG OMERCIO DE ALIMENTOS LTDA",
+          "cnpjCpfFornecedor": "13360340000175",
+          "valorLiquido": 119.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7543890,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-10T00:00:00",
+          "numDocumento": "2485",
+          "valorDocumento": 115.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7543890",
+          "nomeFornecedor": "GMG OMERCIO DE ALIMENTOS LTDA",
+          "cnpjCpfFornecedor": "13360340000175",
+          "valorLiquido": 115.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7560922,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-14T00:00:00",
+          "numDocumento": "18450",
+          "valorDocumento": 95.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7560922",
+          "nomeFornecedor": "GMG OMERCIO DE ALIMENTOS LTDA",
+          "cnpjCpfFornecedor": "13360340000175",
+          "valorLiquido": 95.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7665369,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-19T00:00:00",
+          "numDocumento": "4266",
+          "valorDocumento": 112.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7665369",
+          "nomeFornecedor": "GMG OMERCIO DE ALIMENTOS LTDA",
+          "cnpjCpfFornecedor": "13360340000175",
+          "valorLiquido": 112.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7820926,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-16T00:00:00",
+          "numDocumento": "37540",
+          "valorDocumento": 108.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7820926",
+          "nomeFornecedor": "GMG OMERCIO DE ALIMENTOS LTDA",
+          "cnpjCpfFornecedor": "13360340000175",
+          "valorLiquido": 108.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

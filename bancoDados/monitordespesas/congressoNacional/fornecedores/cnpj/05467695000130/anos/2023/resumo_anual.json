@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "FILIPINA DELI COMERCIO DE ALIMENTOS LTDA - ME",
+      "cnpj": "05467695000130",
+      "total_recebido": 84.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 84.0,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-02-15T00:00:00",
+    "periodo_fim": "2023-02-15T17:07:05",
+    "generatedAt": "2025-11-11T21:38:03.374008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 84.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 84.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 84.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7502788,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-15T00:00:00",
+      "numDocumento": "1054297",
+      "valorDocumento": 42.0,
+      "urlDocumento": null,
+      "nomeFornecedor": "FILIPINA DELI COMERCIO DE ALIMENTOS LTDA - ME",
+      "cnpjCpfFornecedor": "05467695000130",
+      "valorLiquido": 42.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1911187,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7533461,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-02-15T17:07:05",
+      "numDocumento": "1054297",
+      "valorDocumento": 42.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7533461",
+      "nomeFornecedor": "FILIPINA DELI COMERCIO DE ALIMENTOS LTDA - ME",
+      "cnpjCpfFornecedor": "05467695000130",
+      "valorLiquido": 42.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1927818,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

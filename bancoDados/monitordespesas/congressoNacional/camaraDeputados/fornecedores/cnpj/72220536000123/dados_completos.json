@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.288455"
+    "generatedAt": "2025-11-11T05:22:16.529402"
   },
   "categorias": {
     "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 325.0
@@ -30,6 +30,7 @@
         "id": 136811,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
         "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -42,15 +43,15 @@
       "despesas": [
         {
           "ano": 2023,
-          "mes": 12,
+          "mes": 8,
           "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7667156,
+          "codDocumento": 7591797,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-12-15T00:00:00",
-          "numDocumento": "202300000002747",
+          "dataDocumento": "2023-08-09T00:00:00",
+          "numDocumento": "202300000001671",
           "valorDocumento": 110.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2023/7667156.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2023/7591797.pdf",
           "nomeFornecedor": "HOTEL LANCASTER LTDA - ME",
           "cnpjCpfFornecedor": "72220536000123",
           "valorLiquido": 110.0,
@@ -61,15 +62,15 @@
         },
         {
           "ano": 2023,
-          "mes": 8,
+          "mes": 12,
           "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7591797,
+          "codDocumento": 7667156,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-08-09T00:00:00",
-          "numDocumento": "202300000001671",
+          "dataDocumento": "2023-12-15T00:00:00",
+          "numDocumento": "202300000002747",
           "valorDocumento": 110.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2023/7591797.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2023/7667156.pdf",
           "nomeFornecedor": "HOTEL LANCASTER LTDA - ME",
           "cnpjCpfFornecedor": "72220536000123",
           "valorLiquido": 110.0,

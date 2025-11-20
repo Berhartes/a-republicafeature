@@ -1,0 +1,108 @@
+{
+  "deputado": {
+    "id": 220614,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220614",
+    "nome": "Dr. Daniel Soranz",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220614.jpg",
+    "email": null
+  },
+  "ano": 2025,
+  "total_gasto": 18969.61,
+  "quantidade_transacoes": 34,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 18343.09,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 96.7
+    },
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 490.92,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 2.59
+    },
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 135.6,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.71
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 10659.48,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 56.19
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 7683.61,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 40.5
+    },
+    {
+      "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpj": "17895646000187",
+      "total": 270.92,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 1.43
+    },
+    {
+      "nome": "SERVIA O NACIONAL DE APREND. COMERCIAL",
+      "cnpj": "33469172001644",
+      "total": 88.22,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.47
+    },
+    {
+      "nome": "ASSOCIAÇÃO DOS TAXISTAS DO DISTRITO FEDERAL",
+      "cnpj": "15695357000109",
+      "total": 80.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.42
+    },
+    {
+      "nome": "TÁXI LEGAL",
+      "cnpj": "30605977000101",
+      "total": 80.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.42
+    },
+    {
+      "nome": "SINPETAXI",
+      "cnpj": "00031708000100",
+      "total": 60.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.32
+    },
+    {
+      "nome": "TAIOBA SELF-SERVICE LTDA EPP",
+      "cnpj": "03346671001330",
+      "total": 47.38,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.25
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 3511.08,
+      "porcentagem_do_total": 18.51
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 15458.53,
+      "porcentagem_do_total": 81.49
+    }
+  ]
+}

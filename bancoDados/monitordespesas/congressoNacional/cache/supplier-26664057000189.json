@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-12T00:38:36Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "1.0.0",
+    "legislatura": 57,
+    "cnpj": "26664057000189"
+  },
+  "data": {
+    "cnpj": "26664057000189",
+    "nome": "ENTREVIAS CONCESSIONÁRIA DE RODOVIAS S.A.",
+    "nomeFornecedor": "ENTREVIAS CONCESSIONÁRIA DE RODOVIAS S.A.",
+    "totalTransacionado": 199.4,
+    "totalRecebido": 199.4,
+    "totalRecebidoTodos": 199.4,
+    "transacoes": 25,
+    "numeroTransacoes": 25,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [],
+    "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+    "categoriaOriginal": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+    "categorias": [
+      "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO"
+    ],
+    "categoriasOriginais": [
+      "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO"
+    ],
+    "categoriasInfo": {
+      "principal": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "normalizadas": [
+        "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO"
+      ],
+      "principalOriginal": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "originais": [
+        "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO"
+      ]
+    },
+    "distribuicaoTipos": {
+      "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": {
+        "valor": 199.4,
+        "quantidade": 25
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": {
+        "valor": 199.4,
+        "quantidade": 25
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 199.4,
+        "transacoes": 25,
+        "deputados": 1
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

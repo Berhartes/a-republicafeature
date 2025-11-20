@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "RODOPOSTO TURMALINA LTDA",
+    "cnpj": "05122863000155",
+    "total_recebido": 1050.19,
+    "numero_transacoes": 5,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 393.34,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 393.34,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 393.34,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 163.3,
+      "porcentagem_do_total": 41.52
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 230.04,
+      "porcentagem_do_total": 58.48
+    }
+  ]
+}

@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.344527"
+    "generatedAt": "2025-11-11T05:22:13.227005"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 392.0
@@ -25,6 +25,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -35,25 +36,6 @@
       "total": 392.0,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 7,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7776085,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-07-16T00:00:00",
-          "numDocumento": "612285",
-          "valorDocumento": 342.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2024/7776085.pdf",
-          "nomeFornecedor": "Lhr Comercio de Combustiveis e Transporte Ltda - Me",
-          "cnpjCpfFornecedor": "13931122000143",
-          "valorLiquido": 342.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 6,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "Lhr Comercio de Combustiveis e Transporte Ltda - Me",
           "cnpjCpfFornecedor": "13931122000143",
           "valorLiquido": 50.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7776085,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-16T00:00:00",
+          "numDocumento": "612285",
+          "valorDocumento": 342.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2024/7776085.pdf",
+          "nomeFornecedor": "Lhr Comercio de Combustiveis e Transporte Ltda - Me",
+          "cnpjCpfFornecedor": "13931122000143",
+          "valorLiquido": 342.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

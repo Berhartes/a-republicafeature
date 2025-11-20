@@ -1,0 +1,140 @@
+{
+  "deputado": {
+    "id": 204476,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204476",
+    "nome": "Chiquinho Brazão",
+    "siglaPartido": "S.PART.",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36852",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204476.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 23011.15,
+  "quantidade_transacoes": 24,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 16980.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 73.79
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 6031.15,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 26.21
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 6781.29,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 29.47
+    },
+    {
+      "nome": "EMPRESA JORNALISTICA O AMARELINHO LTDA",
+      "cnpj": "03288051000159",
+      "total": 3000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 13.04
+    },
+    {
+      "nome": "LMS DESIGN - LUIS MARQUES SANTOS",
+      "cnpj": "53117467000182",
+      "total": 3000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 13.04
+    },
+    {
+      "nome": "OHARA PRODUÇÕES - CABO FRIO EM FOCO",
+      "cnpj": "25063020000132",
+      "total": 2500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 10.86
+    },
+    {
+      "nome": "H SHELDON SERVIÇOS DE MARKETING LTDA",
+      "cnpj": "29418852000185",
+      "total": 2300.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 10.0
+    },
+    {
+      "nome": "RIBER SOM",
+      "cnpj": "12629950000169",
+      "total": 1800.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 7.82
+    },
+    {
+      "nome": "SISTEMA CIDADE - C.A. DE OLIVEIRA SONORIZAÇÃO E DIVULGAÇÃO",
+      "cnpj": "03697571000115",
+      "total": 1600.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 6.95
+    },
+    {
+      "nome": "BLOG RESENHA DO DIA",
+      "cnpj": "42382001000198",
+      "total": 1000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.35
+    },
+    {
+      "nome": "ASSOCIAÇÃO COMUNITÁRIA DE RADIODIFUSÃO DO MUNICÍPIO DE BOM JARDIM",
+      "cnpj": "02755982000157",
+      "total": 640.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.78
+    },
+    {
+      "nome": "CONSELHEIRO FM - ASSOCIAÇÃO GERAL DE MORADORES DO LOTEAMENTO FLORESTA",
+      "cnpj": "31838113000194",
+      "total": 640.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.78
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 16980.0,
+      "porcentagem_do_total": 73.79
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 11642.87,
+      "porcentagem_do_total": 50.6
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": -1896.1,
+      "porcentagem_do_total": -8.24
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": -392.89,
+      "porcentagem_do_total": -1.71
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": -3280.44,
+      "porcentagem_do_total": -14.26
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": -42.29,
+      "porcentagem_do_total": -0.18
+    }
+  ]
+}

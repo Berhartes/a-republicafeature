@@ -3,52 +3,115 @@
     "fornecedor": {
       "nome": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS",
       "cnpj": "17695813000650",
-      "total_recebido": 290.99,
-      "numero_transacoes": 1,
+      "total_recebido": 781.5200000000001,
+      "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:59:09.819331"
+    "generatedAt": "2025-11-11T05:22:19.128922"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 290.99
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 781.5200000000001
   },
   "anos": {
     "2023": {
-      "total": 290.99,
-      "transacoes": 1,
+      "total": 357.45000000000005,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 424.07,
+      "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "178962": {
+    "178835": {
       "deputado": {
-        "id": 178962,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178962",
-        "nome": "Carlos Gomes",
-        "siglaPartido": "REPUBLICANOS",
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
+        "siglaPartido": "PDT",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
-        "email": null
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
       },
-      "total": 290.99,
-      "transacoes": 1,
+      "total": 781.5200000000001,
+      "transacoes": 4,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 7,
+          "mes": 6,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7583343,
+          "codDocumento": 7557076,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-07-25T00:00:00",
-          "numDocumento": "762498",
-          "valorDocumento": 290.99,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7583343",
+          "dataDocumento": "2023-06-06T00:00:00",
+          "numDocumento": "729398",
+          "valorDocumento": 67.41,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7557076",
           "nomeFornecedor": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS",
           "cnpjCpfFornecedor": "17695813000650",
-          "valorLiquido": 290.99,
+          "valorLiquido": 67.41,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7625495,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-15T00:00:00",
+          "numDocumento": "817001",
+          "valorDocumento": 290.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7625495",
+          "nomeFornecedor": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS",
+          "cnpjCpfFornecedor": "17695813000650",
+          "valorLiquido": 290.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7791018,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-24T00:00:00",
+          "numDocumento": "47068",
+          "valorDocumento": 229.09,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7791018",
+          "nomeFornecedor": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS",
+          "cnpjCpfFornecedor": "17695813000650",
+          "valorLiquido": 229.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7846042,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-12T00:00:00",
+          "numDocumento": "130188",
+          "valorDocumento": 194.98,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7846042",
+          "nomeFornecedor": "JP SANTA LUCIA COMERCIO DE COMBUSTIVEIS",
+          "cnpjCpfFornecedor": "17695813000650",
+          "valorLiquido": 194.98,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

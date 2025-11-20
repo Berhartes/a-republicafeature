@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 220646,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220646",
+      "nome": "Felipe Becari",
+      "siglaPartido": "UNIÃO",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+      "siglaUf": "SP",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220646.jpg",
+      "email": "dep.felipebecari@camara.leg.br"
+    },
+    "ano": 2024,
+    "total_despesas": 152.44,
+    "quantidade_transacoes": 2,
+    "quantidade_categorias": 2,
+    "quantidade_fornecedores": 2,
+    "periodo_inicio": "2024-12-03T00:00:00",
+    "periodo_fim": "2024-12-03T00:00:00",
+    "generatedAt": "2025-11-10T22:35:07.206060"
+  },
+  "resumo_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 86.34,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 56.64
+    },
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 66.1,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 43.36
+    }
+  ],
+  "resumo_fornecedores": [
+    {
+      "nome": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+      "cnpj": "33469172001644",
+      "total": 86.34,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 56.64
+    },
+    {
+      "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpj": "17895646000187",
+      "total": 66.1,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 43.36
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 152.44,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7838904,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-12-03T00:00:00",
+      "numDocumento": "52545",
+      "valorDocumento": 86.34,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7838904",
+      "nomeFornecedor": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+      "cnpjCpfFornecedor": "33469172001644",
+      "valorLiquido": 86.34,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2093594,
+      "parcela": 0
+    },
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "codDocumento": 7839791,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2024-12-03T00:00:00",
+      "numDocumento": "s/n",
+      "valorDocumento": 66.1,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3568/2024/7839791.pdf",
+      "nomeFornecedor": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpjCpfFornecedor": "17895646000187",
+      "valorLiquido": 66.1,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2094109,
+      "parcela": 0
+    }
+  ]
+}

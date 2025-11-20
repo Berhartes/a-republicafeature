@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA (103 SUL)",
+      "cnpj": "37128477000248",
+      "total_recebido": 350.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:25.343869"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 350.0
+  },
+  "anos": {
+    "2025": {
+      "total": 350.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220576": {
+      "deputado": {
+        "id": 220576,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220576",
+        "nome": "Alfredo Gaspar",
+        "nomeEleitoral": "Alfredo Gaspar",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "AL",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220576.jpg",
+        "email": "dep.alfredogaspar@camara.leg.br"
+      },
+      "total": 350.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7997932,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-30T22:35:00",
+          "numDocumento": "53577",
+          "valorDocumento": 350.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7997932",
+          "nomeFornecedor": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA (103 SUL)",
+          "cnpjCpfFornecedor": "37128477000248",
+          "valorLiquido": 350.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

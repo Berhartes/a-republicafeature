@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIAL DE PETROLEO F CORREA LTDA",
+      "cnpj": "03023665000109",
+      "total_recebido": 614.74,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:53.553480"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 614.74
+  },
+  "anos": {
+    "2023": {
+      "total": 614.74,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 614.74,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7526289,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-04-14T00:00:00",
+          "numDocumento": "15471",
+          "valorDocumento": 259.59,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7526289",
+          "nomeFornecedor": "COMERCIAL DE PETROLEO F CORREA LTDA",
+          "cnpjCpfFornecedor": "03023665000109",
+          "valorLiquido": 259.59,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1924155,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7540979,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-05-07T00:00:00",
+          "numDocumento": "17002",
+          "valorDocumento": 222.47,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7540979",
+          "nomeFornecedor": "COMERCIAL DE PETROLEO F CORREA LTDA",
+          "cnpjCpfFornecedor": "03023665000109",
+          "valorLiquido": 222.47,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1932519,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7561805,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-06-15T00:00:00",
+          "numDocumento": "19990",
+          "valorDocumento": 132.68,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7561805",
+          "nomeFornecedor": "COMERCIAL DE PETROLEO F CORREA LTDA",
+          "cnpjCpfFornecedor": "03023665000109",
+          "valorLiquido": 132.68,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1943671,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

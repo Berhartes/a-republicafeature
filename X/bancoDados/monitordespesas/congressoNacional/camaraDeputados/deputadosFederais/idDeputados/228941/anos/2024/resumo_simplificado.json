@@ -1,0 +1,152 @@
+{
+  "deputado": {
+    "id": 228941,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/228941",
+    "nome": "Daniel José",
+    "siglaPartido": "PODE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/228941.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 144379.52,
+  "quantidade_transacoes": 95,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 62047.1,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 42.98
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 46414.69,
+      "quantidade_transacoes": 68,
+      "porcentagem_do_total": 32.15
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 22474.87,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 15.57
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 11218.01,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 7.77
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 2224.85,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.54
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "YOUNG & DIGITAL LTDA",
+      "cnpj": "24595734000129",
+      "total": 60000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 41.56
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 27602.59,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 19.12
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 15578.0,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 10.79
+    },
+    {
+      "nome": "LOCALIZA FLEET SA",
+      "cnpj": "02286479000108",
+      "total": 14994.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 10.39
+    },
+    {
+      "nome": "JET 7 POSTOS E SERVIÇOS LTDA",
+      "cnpj": "39007232000107",
+      "total": 9245.17,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.4
+    },
+    {
+      "nome": "Movida Locações de Veículos LTDA",
+      "cnpj": "07976147026712",
+      "total": 7480.87,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.18
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 3234.1,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 2.24
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 2224.85,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.54
+    },
+    {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+      "cnpj": "12132854000100",
+      "total": 2047.1,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.42
+    },
+    {
+      "nome": "AUTO POSTO 519 LTDA",
+      "cnpj": "52110673000106",
+      "total": 222.65,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.15
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 7075.35,
+      "porcentagem_do_total": 4.9
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 45191.93,
+      "porcentagem_do_total": 31.3
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 50316.43,
+      "porcentagem_do_total": 34.85
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 37382.73,
+      "porcentagem_do_total": 25.89
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 4413.08,
+      "porcentagem_do_total": 3.06
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "OI SA - EM RECUPERAÇÃO JUDICIAL",
+      "cnpj": "53420564000140",
+      "total_recebido": 128.21,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:13.550041"
+  },
+  "categorias": {
+    "TELEFONIA": 128.21
+  },
+  "anos": {
+    "2024": {
+      "total": 128.21,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178835": {
+      "deputado": {
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
+      },
+      "total": 128.21,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "TELEFONIA",
+          "codDocumento": 7855487,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-15T00:00:00",
+          "numDocumento": "513552326",
+          "valorDocumento": 128.21,
+          "urlDocumento": null,
+          "nomeFornecedor": "OI SA - EM RECUPERAÇÃO JUDICIAL",
+          "cnpjCpfFornecedor": "53420564000140",
+          "valorLiquido": 128.21,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 164360,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164360",
+      "nome": "Carmen Zanotto",
+      "siglaPartido": "CIDADANIA",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+      "siglaUf": "SC",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/164360.jpg",
+      "email": null
+    },
+    "ano": 2023,
+    "total_despesas": 7455.71,
+    "quantidade_transacoes": 6,
+    "quantidade_categorias": 3,
+    "quantidade_fornecedores": 5,
+    "periodo_inicio": "2023-02-01T00:00:00",
+    "periodo_fim": "2023-11-22T00:00:00",
+    "generatedAt": "2025-11-10T22:25:36.509003"
+  },
+  "resumo_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 8852.29,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 118.73
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 270.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.62
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": -1666.58,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": -22.35
+    }
+  ],
+  "resumo_fornecedores": [
+    {
+      "nome": "Gol Linhas Aereas S.A.",
+      "cnpj": "07575651000159",
+      "total": 5748.87,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 77.11
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 3103.42,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 41.62
+    },
+    {
+      "nome": "031 - 302 NORTE CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597003112",
+      "total": 150.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.01
+    },
+    {
+      "nome": "TAVARES COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+      "cnpj": "15680284000181",
+      "total": 120.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.61
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": -1666.58,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": -22.35
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 2612.47,
+      "porcentagem_do_total": 35.04
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": -1666.58,
+      "porcentagem_do_total": -22.35
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 3223.42,
+      "porcentagem_do_total": 43.23
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 3286.4,
+      "porcentagem_do_total": 44.08
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 1,
+      "tipoDespesa": "PASSAGEM AÉREA - REEMBOLSO",
+      "codDocumento": 7492498,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-01T00:00:00",
+      "numDocumento": "1272188928836",
+      "valorDocumento": 2612.47,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2433/2023/7492498.pdf",
+      "nomeFornecedor": "Gol Linhas Aereas S.A.",
+      "cnpjCpfFornecedor": "07575651000159",
+      "valorLiquido": 2612.47,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1905161,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7647343,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-11-22T00:00:00",
+      "numDocumento": "361346",
+      "valorDocumento": 150.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7647343",
+      "nomeFornecedor": "031 - 302 NORTE CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpjCpfFornecedor": "00306597003112",
+      "valorLiquido": 150.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1990289,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7614563,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-09-26T00:00:00",
+      "numDocumento": "228818",
+      "valorDocumento": 120.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7614563",
+      "nomeFornecedor": "TAVARES COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+      "cnpjCpfFornecedor": "15680284000181",
+      "valorLiquido": 120.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1971530,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "PASSAGEM AÉREA - REEMBOLSO",
+      "codDocumento": 7646941,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-11-20T00:00:00",
+      "numDocumento": "1272106764065",
+      "valorDocumento": 3136.4,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2433/2023/7646941.pdf",
+      "nomeFornecedor": "Gol Linhas Aereas S.A.",
+      "cnpjCpfFornecedor": "07575651000159",
+      "valorLiquido": 3136.4,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1990288,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "PASSAGEM AÉREA - REEMBOLSO",
+      "codDocumento": 7614243,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-09-25T00:00:00",
+      "numDocumento": "9572399866721",
+      "valorDocumento": 3103.42,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2433/2023/7614243.pdf",
+      "nomeFornecedor": "Latam Linhas Aéreas S.A",
+      "cnpjCpfFornecedor": "02012862000160",
+      "valorLiquido": 3103.42,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1971448,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": 119470,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-24T12:00:00",
+      "numDocumento": "1272184997474",
+      "valorDocumento": -1666.58,
+      "urlDocumento": null,
+      "nomeFornecedor": "GOL",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -1666.58,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ]
+}

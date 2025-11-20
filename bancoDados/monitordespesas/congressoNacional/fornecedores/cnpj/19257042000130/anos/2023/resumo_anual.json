@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "DRA4 DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "19257042000130",
+      "total_recebido": 4538.73,
+      "numero_transacoes": 17,
+      "numero_deputados": 2
+    },
+    "ano": 2023,
+    "total_recebido": 759.31,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 2,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-05-17T00:00:00",
+    "periodo_fim": "2023-12-08T00:00:00",
+    "generatedAt": "2025-11-11T21:37:57.901009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 474.02,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 62.43
+    },
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 285.29,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 37.57
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 759.31,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 250.0,
+      "porcentagem_do_total": 32.92
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 285.29,
+      "porcentagem_do_total": 37.57
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 224.02,
+      "porcentagem_do_total": 29.5
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7654573,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-10-27T00:00:00",
+      "numDocumento": "46863",
+      "valorDocumento": 285.29,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7654573",
+      "nomeFornecedor": "DRA4 DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "19257042000130",
+      "valorLiquido": 285.29,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1994063,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7544869,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-05-17T00:00:00",
+      "numDocumento": "41616",
+      "valorDocumento": 250.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7544869",
+      "nomeFornecedor": "DRA4 DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "19257042000130",
+      "valorLiquido": 250.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1934618,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7660044,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-12-08T00:00:00",
+      "numDocumento": "48067",
+      "valorDocumento": 224.02,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7660044",
+      "nomeFornecedor": "DRA4 DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "19257042000130",
+      "valorLiquido": 224.02,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1997565,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

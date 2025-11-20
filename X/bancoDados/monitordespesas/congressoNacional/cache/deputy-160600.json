@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T17:45:22Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "deputados.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "deputadoId": "160600"
+  },
+  "data": {
+    "id": "160600",
+    "nome": "Arthur Oliveira Maia",
+    "nomeEleitoral": "Arthur Oliveira Maia",
+    "nomeCivil": null,
+    "partido": "UNIÃO",
+    "siglaPartido": "UNIÃO",
+    "uf": "BA",
+    "siglaUf": "BA",
+    "urlFoto": null,
+    "totalDespesas": 1338105.67,
+    "numeroDespesas": 1200,
+    "fornecedoresIdentificados": 115,
+    "createdAt": "2025-11-01T17:45:19Z",
+    "gastosPorAno": {},
+    "transacoesPorAno": {},
+    "topCategorias": [],
+    "topFornecedores": [],
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "temDetalhes": false
+  }
+}

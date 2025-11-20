@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AMAZZON CAR LTDA",
+      "cnpj": "21496223000161",
+      "total_recebido": 27000.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 27000.0,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-03-31T00:00:00",
+    "periodo_fim": "2025-04-01T00:00:00",
+    "generatedAt": "2025-11-11T21:37:59.740008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 27000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 27000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 9000.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 9000.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 9000.0,
+      "porcentagem_do_total": 33.33
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7895855,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-03-31T00:00:00",
+      "numDocumento": "561",
+      "valorDocumento": 9000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2025/7895855.pdf",
+      "nomeFornecedor": "AMAZZON CAR LTDA",
+      "cnpjCpfFornecedor": "21496223000161",
+      "valorLiquido": 9000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2125497,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2025,
+      "mes": 3,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7896502,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-03-31T00:00:00",
+      "numDocumento": "562",
+      "valorDocumento": 9000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2025/7896502.pdf",
+      "nomeFornecedor": "AMAZZON CAR LTDA",
+      "cnpjCpfFornecedor": "21496223000161",
+      "valorLiquido": 9000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2125826,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2025,
+      "mes": 4,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7903873,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-04-01T00:00:00",
+      "numDocumento": "563",
+      "valorDocumento": 9000.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7903873",
+      "nomeFornecedor": "Amazzon Car Ltda",
+      "cnpjCpfFornecedor": "21496223000161",
+      "valorLiquido": 9000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2129647,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

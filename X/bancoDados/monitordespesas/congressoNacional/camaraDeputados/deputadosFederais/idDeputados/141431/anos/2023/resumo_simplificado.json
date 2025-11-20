@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 141431,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141431",
+    "nome": "Fernando Coelho Filho",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "PE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141431.jpg",
+    "email": "dep.fernandocoelhofilho@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 368126.5,
+  "quantidade_transacoes": 364,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 131293.02,
+      "quantidade_transacoes": 172,
+      "porcentagem_do_total": 35.67
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 92466.0,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 25.12
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 62337.59,
+      "quantidade_transacoes": 60,
+      "porcentagem_do_total": 16.93
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 57408.22,
+      "quantidade_transacoes": 87,
+      "porcentagem_do_total": 15.59
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 18000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 4.89
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "PARVI LOCADORA LTDA",
+      "cnpj": "08228146000109",
+      "total": 62800.0,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 17.06
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 57244.53,
+      "quantidade_transacoes": 70,
+      "porcentagem_do_total": 15.55
+    },
+    {
+      "nome": "L. PRIORI INDUSTRIA E COMÉRCIO",
+      "cnpj": "10604155000190",
+      "total": 47700.0,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 12.96
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 40672.34,
+      "quantidade_transacoes": 69,
+      "porcentagem_do_total": 11.05
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 33376.15,
+      "quantidade_transacoes": 33,
+      "porcentagem_do_total": 9.07
+    },
+    {
+      "nome": "POSTO IPE LTDA",
+      "cnpj": "08106732000253",
+      "total": 23129.66,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 6.28
+    },
+    {
+      "nome": "POSTO LETICIA PEREIRA E SANTOS LTDA",
+      "cnpj": "10997526000141",
+      "total": 19549.04,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 5.31
+    },
+    {
+      "nome": "MONTEIRO EMPREENDIMENTOS LTDA",
+      "cnpj": "42700912000116",
+      "total": 18000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 4.89
+    },
+    {
+      "nome": "MOVIDA LOCACAO DE VEICULOS S.A.",
+      "cnpj": "07976147021834",
+      "total": 10033.4,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.73
+    },
+    {
+      "nome": "Companhia Energética de Pernambuco",
+      "cnpj": "10835932000108",
+      "total": 8588.58,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 2.33
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 235.8,
+      "porcentagem_do_total": 0.06
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 15607.67,
+      "porcentagem_do_total": 4.24
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 38763.23,
+      "porcentagem_do_total": 10.53
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 28906.68,
+      "porcentagem_do_total": 7.85
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 33843.62,
+      "porcentagem_do_total": 9.19
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 24840.17,
+      "porcentagem_do_total": 6.75
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 31529.67,
+      "porcentagem_do_total": 8.56
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 41062.45,
+      "porcentagem_do_total": 11.15
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 24392.37,
+      "porcentagem_do_total": 6.63
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 40196.39,
+      "porcentagem_do_total": 10.92
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 39343.79,
+      "porcentagem_do_total": 10.69
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 49404.66,
+      "porcentagem_do_total": 13.42
+    }
+  ]
+}

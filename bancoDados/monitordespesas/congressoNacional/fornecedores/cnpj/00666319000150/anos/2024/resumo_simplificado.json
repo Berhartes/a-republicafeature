@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "SIQUELERO SERRAZUL AUTO POSTO LTDA",
+    "cnpj": "00666319000150",
+    "total_recebido": 243.87,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 243.87,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 243.87,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 243.87,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 243.87,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

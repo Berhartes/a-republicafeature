@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 178881,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178881",
+    "nome": "Aluisio Mendes",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
+    "email": "dep.aluisiomendes@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 421773.34,
+  "quantidade_transacoes": 409,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 110000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 26.08
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 101085.67,
+      "quantidade_transacoes": 114,
+      "porcentagem_do_total": 23.97
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 82550.15,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 19.57
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 55364.83,
+      "quantidade_transacoes": 61,
+      "porcentagem_do_total": 13.13
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 33508.66,
+      "quantidade_transacoes": 166,
+      "porcentagem_do_total": 7.94
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Adriano L Silva Engenharia Serviços e Comércio",
+      "cnpj": "35265061000165",
+      "total": 110000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 26.08
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 76500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 18.14
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 69369.86,
+      "quantidade_transacoes": 63,
+      "porcentagem_do_total": 16.45
+    },
+    {
+      "nome": "Valberlino Mota ME",
+      "cnpj": "17414189000161",
+      "total": 22954.26,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 5.44
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 21751.44,
+      "quantidade_transacoes": 39,
+      "porcentagem_do_total": 5.16
+    },
+    {
+      "nome": "Franere Participações S.A",
+      "cnpj": "12218498000304",
+      "total": 13069.06,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 3.1
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 9964.37,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 2.36
+    },
+    {
+      "nome": "Business Center Renascença",
+      "cnpj": "21911703000141",
+      "total": 6762.23,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 1.6
+    },
+    {
+      "nome": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpj": "08532429000131",
+      "total": 5600.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 1.33
+    },
+    {
+      "nome": "CLARO S.A.",
+      "cnpj": "40432544024593",
+      "total": 5147.93,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 1.22
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 25750.22,
+      "porcentagem_do_total": 6.11
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 32640.2,
+      "porcentagem_do_total": 7.74
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 39876.1,
+      "porcentagem_do_total": 9.45
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 32939.11,
+      "porcentagem_do_total": 7.81
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 24724.51,
+      "porcentagem_do_total": 5.86
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 37622.27,
+      "porcentagem_do_total": 8.92
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 38780.76,
+      "porcentagem_do_total": 9.19
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 35477.79,
+      "porcentagem_do_total": 8.41
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 153962.38,
+      "porcentagem_do_total": 36.5
+    }
+  ]
+}

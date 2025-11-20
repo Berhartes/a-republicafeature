@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "PSJ SAO SIMAO COMERCIO DE COMBUSTIVEIS LTDA",
+    "cnpj": "30025773000193",
+    "total_recebido": 279.5,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 279.5,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 279.5,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 279.5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 143.02,
+      "porcentagem_do_total": 51.17
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 136.48,
+      "porcentagem_do_total": 48.83
+    }
+  ]
+}

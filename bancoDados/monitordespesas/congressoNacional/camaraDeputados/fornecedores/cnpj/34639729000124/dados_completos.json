@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.298987"
+    "generatedAt": "2025-11-11T05:22:16.177720"
   },
   "categorias": {
     "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 137.0
@@ -25,6 +25,7 @@
         "id": 136811,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
         "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -35,25 +36,6 @@
       "total": 137.0,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 11,
-          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7648029,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-11-09T00:00:00",
-          "numDocumento": "28986",
-          "valorDocumento": 75.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7648029",
-          "nomeFornecedor": "MARCIO DA CUNHA",
-          "cnpjCpfFornecedor": "34639729000124",
-          "valorLiquido": 75.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 3,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "MARCIO DA CUNHA",
           "cnpjCpfFornecedor": "34639729000124",
           "valorLiquido": 62.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7648029,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-09T00:00:00",
+          "numDocumento": "28986",
+          "valorDocumento": 75.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7648029",
+          "nomeFornecedor": "MARCIO DA CUNHA",
+          "cnpjCpfFornecedor": "34639729000124",
+          "valorLiquido": 75.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

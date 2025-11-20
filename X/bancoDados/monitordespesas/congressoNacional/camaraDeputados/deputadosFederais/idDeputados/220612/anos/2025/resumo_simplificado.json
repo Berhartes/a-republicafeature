@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220612,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220612",
+    "nome": "Bebeto",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220612.jpg",
+    "email": "dep.bebeto@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 397369.54,
+  "quantidade_transacoes": 216,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 127000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 31.96
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 108478.5,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 27.3
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 85500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 21.52
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 34768.83,
+      "quantidade_transacoes": 141,
+      "porcentagem_do_total": 8.75
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 26500.03,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 6.67
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "FCT MULTISERV COMERCIO E SERVIÇOS LTDA",
+      "cnpj": "17237187000144",
+      "total": 127000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 31.96
+    },
+    {
+      "nome": "DAIRE PARTICIPAÇÕES LTDA",
+      "cnpj": "03047366000104",
+      "total": 108211.6,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 27.23
+    },
+    {
+      "nome": "FUTURO MARKETING DIGITAL LTDA",
+      "cnpj": "54881728000107",
+      "total": 85500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 21.52
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 22172.24,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 5.58
+    },
+    {
+      "nome": "AUTO POSTO PICA PAU",
+      "cnpj": "22486173000102",
+      "total": 8988.69,
+      "quantidade_transacoes": 38,
+      "porcentagem_do_total": 2.26
+    },
+    {
+      "nome": "POSTO NOVA GUAPI LTDA",
+      "cnpj": "37593624000170",
+      "total": 7988.04,
+      "quantidade_transacoes": 35,
+      "porcentagem_do_total": 2.01
+    },
+    {
+      "nome": "Cia Aérea - GOL",
+      "cnpj": "07575651000159",
+      "total": 5623.01,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.42
+    },
+    {
+      "nome": "Cia Aérea - TAM",
+      "cnpj": "02012862000160",
+      "total": 4877.07,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.23
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 2813.14,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.71
+    },
+    {
+      "nome": "BRASAL COMBUSTIVEIS LTDA",
+      "cnpj": "00097626000400",
+      "total": 2486.08,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 0.63
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 38327.37,
+      "porcentagem_do_total": 9.65
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 46475.59,
+      "porcentagem_do_total": 11.7
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 43365.38,
+      "porcentagem_do_total": 10.91
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 40459.31,
+      "porcentagem_do_total": 10.18
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 47268.53,
+      "porcentagem_do_total": 11.9
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 37596.93,
+      "porcentagem_do_total": 9.46
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 40051.12,
+      "porcentagem_do_total": 10.08
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 38074.17,
+      "porcentagem_do_total": 9.58
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 36429.08,
+      "porcentagem_do_total": 9.17
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 29109.43,
+      "porcentagem_do_total": 7.33
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 212.63,
+      "porcentagem_do_total": 0.05
+    }
+  ]
+}

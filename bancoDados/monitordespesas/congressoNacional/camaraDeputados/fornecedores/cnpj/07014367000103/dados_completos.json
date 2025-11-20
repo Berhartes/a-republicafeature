@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:21.064163"
+    "generatedAt": "2025-11-11T05:22:19.414367"
   },
   "categorias": {
     "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 2700.0
@@ -30,6 +30,7 @@
         "id": 178835,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
         "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
         "siglaPartido": "PDT",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -61,25 +62,6 @@
         },
         {
           "ano": 2024,
-          "mes": 11,
-          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7833820,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-19T00:00:00",
-          "numDocumento": "2024294",
-          "valorDocumento": 900.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2880/2024/7833820.pdf",
-          "nomeFornecedor": "consulte web",
-          "cnpjCpfFornecedor": "07014367000103",
-          "valorLiquido": 900.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
           "mes": 8,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
           "codDocumento": 7791034,
@@ -92,6 +74,25 @@
           "nomeFornecedor": "consulte web",
           "cnpjCpfFornecedor": "07014367000103",
           "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7833820,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-19T00:00:00",
+          "numDocumento": "2024294",
+          "valorDocumento": 900.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2880/2024/7833820.pdf",
+          "nomeFornecedor": "consulte web",
+          "cnpjCpfFornecedor": "07014367000103",
+          "valorLiquido": 900.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

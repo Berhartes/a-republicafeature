@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEL - J.D.F. LTDA",
+      "cnpj": "08670169000160",
+      "total_recebido": 607.5,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 607.5,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-03-04T00:00:00",
+    "periodo_fim": "2023-05-23T00:00:00",
+    "generatedAt": "2025-11-11T21:37:55.264490"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 607.5,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 607.5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 607.5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 3,
+      "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "codDocumento": 7516303,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-05-23T00:00:00",
+      "numDocumento": "40947",
+      "valorDocumento": 303.75,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7516303.pdf",
+      "nomeFornecedor": "HOTEL - J.D.F. LTDA",
+      "cnpjCpfFornecedor": "08670169000160",
+      "valorLiquido": 303.75,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1918714,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 3,
+      "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "codDocumento": 7516312,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-03-04T00:00:00",
+      "numDocumento": "49223",
+      "valorDocumento": 303.75,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7516312.pdf",
+      "nomeFornecedor": "HOTEL - J.D.F. LTDA",
+      "cnpjCpfFornecedor": "08670169000160",
+      "valorLiquido": 303.75,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1918714,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

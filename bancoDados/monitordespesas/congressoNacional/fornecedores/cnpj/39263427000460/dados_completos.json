@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SUSHI GOURMET RESTAURANTE LTDA",
+      "cnpj": "39263427000460",
+      "total_recebido": 74.53,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:03.676011"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 74.53
+  },
+  "anos": {
+    "2023": {
+      "total": 74.53,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 74.53,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7520498,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-03-27T00:00:00",
+          "numDocumento": "76305",
+          "valorDocumento": 74.53,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7520498",
+          "nomeFornecedor": "SUSHI GOURMET RESTAURANTE LTDA",
+          "cnpjCpfFornecedor": "39263427000460",
+          "valorLiquido": 74.53,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1920846,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

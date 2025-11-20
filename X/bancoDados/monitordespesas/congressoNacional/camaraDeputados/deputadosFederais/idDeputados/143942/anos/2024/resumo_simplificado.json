@@ -1,0 +1,152 @@
+{
+  "deputado": {
+    "id": 143942,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143942",
+    "nome": "Caio Vianna",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/143942.jpg",
+    "email": "dep.caiovianna@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 36952.4,
+  "quantidade_transacoes": 44,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 22296.81,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 60.34
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 6800.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 18.4
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 5913.66,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 16.0
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1462.56,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.96
+    },
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 285.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.77
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 22481.56,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 60.84
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 6800.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 18.4
+    },
+    {
+      "nome": "NOVA RIOTEL EMPREENDIMENTOS HOTELEIROS LTDA",
+      "cnpj": "01436319000208",
+      "total": 4851.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 13.13
+    },
+    {
+      "nome": "ROYAL RIO PALACE HOTEL LTDA",
+      "cnpj": "29824315000135",
+      "total": 1062.66,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.88
+    },
+    {
+      "nome": "POSTO GRAFFITI DE CAMPOS LTDA",
+      "cnpj": "05809583000110",
+      "total": 475.09,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.29
+    },
+    {
+      "nome": "SANDRA MARIA FONSECA NOGUEIRA ESTACIONAMENTOS LTDA",
+      "cnpj": "05725292001891",
+      "total": 285.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.77
+    },
+    {
+      "nome": "AUTO POSTO IRMAOS MUCELIN LTDA",
+      "cnpj": "73235848000173",
+      "total": 265.07,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.72
+    },
+    {
+      "nome": "POSTO 109 SUL DERIV DE PET LTDA",
+      "cnpj": "05158335000156",
+      "total": 208.99,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.57
+    },
+    {
+      "nome": "GERANIUS POSTO DE SERVICOS E ARTEZANATOS LTDA",
+      "cnpj": "28218741000162",
+      "total": 163.41,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.44
+    },
+    {
+      "nome": "POSTO DE GAS CANARIO LTDA",
+      "cnpj": "34063982000182",
+      "total": 150.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.41
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 3600.0,
+      "porcentagem_do_total": 9.74
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 25761.98,
+      "porcentagem_do_total": 69.72
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 7775.17,
+      "porcentagem_do_total": 21.04
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": -142.46,
+      "porcentagem_do_total": -0.39
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": -42.29,
+      "porcentagem_do_total": -0.11
+    }
+  ]
+}

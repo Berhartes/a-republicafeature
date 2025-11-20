@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "GUERRA COMERCIO DE PETROLEO LTDA",
+    "cnpj": "08857089000119",
+    "total_recebido": 267.38,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 267.38,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 267.38,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 267.38,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 267.38,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

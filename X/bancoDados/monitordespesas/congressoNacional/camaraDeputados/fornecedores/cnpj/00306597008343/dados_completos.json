@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "083 - MELHOR 04 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597008343",
+      "total_recebido": 1032.7299999999998,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:28.825370"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1032.7299999999998
+  },
+  "anos": {
+    "2024": {
+      "total": 595.43,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 437.29999999999995,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "226708": {
+      "deputado": {
+        "id": 226708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
+        "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226708.jpg",
+        "email": "dep.allangarces@camara.leg.br"
+      },
+      "total": 1032.7299999999998,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7779744,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-03T14:23:49",
+          "numDocumento": "718352",
+          "valorDocumento": 234.53,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7779744",
+          "nomeFornecedor": "083 - MELHOR 04 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+          "cnpjCpfFornecedor": "00306597008343",
+          "valorLiquido": 234.53,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7797995,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-07T13:14:30",
+          "numDocumento": "732950",
+          "valorDocumento": 177.98,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7797995",
+          "nomeFornecedor": "083 - MELHOR 04 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+          "cnpjCpfFornecedor": "00306597008343",
+          "valorLiquido": 177.98,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7802690,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-13T15:36:45",
+          "numDocumento": "736010",
+          "valorDocumento": 182.92,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7802690",
+          "nomeFornecedor": "083 - MELHOR 04 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+          "cnpjCpfFornecedor": "00306597008343",
+          "valorLiquido": 182.92,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7904797,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-28T00:00:00",
+          "numDocumento": "850542",
+          "valorDocumento": 214.45,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7904797",
+          "nomeFornecedor": "083 - MELHOR 04 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+          "cnpjCpfFornecedor": "00306597008343",
+          "valorLiquido": 214.45,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7942636,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-03T00:00:00",
+          "numDocumento": "886829",
+          "valorDocumento": 222.85,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7942636",
+          "nomeFornecedor": "083 - MELHOR 04 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+          "cnpjCpfFornecedor": "00306597008343",
+          "valorLiquido": 222.85,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

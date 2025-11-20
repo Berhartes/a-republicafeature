@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "EMIDIO SOUTO PEREIRA - EPP",
+      "cnpj": "13345728000105",
+      "total_recebido": 698.6,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:22.812329"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 698.6
+  },
+  "anos": {
+    "2023": {
+      "total": 299.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 399.6,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160545": {
+      "deputado": {
+        "id": 160545,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160545",
+        "nome": "Alexandre Leite",
+        "nomeEleitoral": "Alexandre Leite",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160545.jpg",
+        "email": null
+      },
+      "total": 698.6,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7653360,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-04T00:00:00",
+          "numDocumento": "1469",
+          "valorDocumento": 299.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2373/2023/7653360.pdf",
+          "nomeFornecedor": "EMIDIO SOUTO PEREIRA - EPP",
+          "cnpjCpfFornecedor": "13345728000105",
+          "valorLiquido": 299.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7687248,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-19T00:00:00",
+          "numDocumento": "1510",
+          "valorDocumento": 399.6,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2373/2024/7687248.pdf",
+          "nomeFornecedor": "EMIDIO SOUTO PEREIRA - EPP",
+          "cnpjCpfFornecedor": "13345728000105",
+          "valorLiquido": 399.6,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

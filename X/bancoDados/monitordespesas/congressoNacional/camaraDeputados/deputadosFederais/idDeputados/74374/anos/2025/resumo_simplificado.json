@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 74374,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74374",
+    "nome": "Geraldo Resende",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "MS",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
+    "email": "dep.geraldoresende@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 503375.76,
+  "quantidade_transacoes": 151,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 248347.8,
+      "quantidade_transacoes": 50,
+      "porcentagem_do_total": 49.34
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 91551.54,
+      "quantidade_transacoes": 33,
+      "porcentagem_do_total": 18.19
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 71947.19,
+      "quantidade_transacoes": 34,
+      "porcentagem_do_total": 14.29
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 68000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 13.51
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 23387.23,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 4.65
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "SALTI DESIGN LTDA",
+      "cnpj": "36279259000160",
+      "total": 70000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 13.91
+    },
+    {
+      "nome": "SHALON VEÍCULOS",
+      "cnpj": "15225644000155",
+      "total": 68000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 13.51
+    },
+    {
+      "nome": "AUTO POSTO AFONSO PENA LTDA",
+      "cnpj": "31471133000170",
+      "total": 66366.54,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 13.18
+    },
+    {
+      "nome": "PATRICIA DOS SANTOS ALENCAR",
+      "cnpj": "00041361105",
+      "total": 43882.5,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 8.72
+    },
+    {
+      "nome": "K&A COMUNICAÇÃO E EVENTOS LTDA",
+      "cnpj": "49298866000110",
+      "total": 42789.9,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 8.5
+    },
+    {
+      "nome": "IMOBILIÁRIA 1000 IMÓVEIS LTDA.",
+      "cnpj": "33742750000198",
+      "total": 25346.85,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 5.04
+    },
+    {
+      "nome": "SERIDOOR PUBLICIDADE E COMUNICACAO VISUAL LTDA - ME",
+      "cnpj": "09200245000137",
+      "total": 25000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.97
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 23387.23,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 4.65
+    },
+    {
+      "nome": "SERIDOOR PUBLICIDADE",
+      "cnpj": "01819074000117",
+      "total": 20000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.97
+    },
+    {
+      "nome": "ZOOM COMUNICAÇÕES E PUBLICIDADE LTDA",
+      "cnpj": "08089409000138",
+      "total": 18400.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.66
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 67626.45,
+      "porcentagem_do_total": 13.43
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 59569.71,
+      "porcentagem_do_total": 11.83
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 53087.19,
+      "porcentagem_do_total": 10.55
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 36688.24,
+      "porcentagem_do_total": 7.29
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 48155.1,
+      "porcentagem_do_total": 9.57
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 50075.88,
+      "porcentagem_do_total": 9.95
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 46794.57,
+      "porcentagem_do_total": 9.3
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 75569.8,
+      "porcentagem_do_total": 15.01
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 43408.82,
+      "porcentagem_do_total": 8.62
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 22400.0,
+      "porcentagem_do_total": 4.45
+    }
+  ]
+}

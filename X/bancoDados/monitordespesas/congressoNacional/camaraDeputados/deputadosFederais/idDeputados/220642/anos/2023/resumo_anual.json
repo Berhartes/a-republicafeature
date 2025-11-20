@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 220642,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220642",
+      "nome": "Delegado Bruno Lima",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+      "siglaUf": "SP",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220642.jpg",
+      "email": "dep.delegadobrunolima@camara.leg.br"
+    },
+    "ano": 2023,
+    "total_despesas": 3126.95,
+    "quantidade_transacoes": 5,
+    "quantidade_categorias": 4,
+    "quantidade_fornecedores": 4,
+    "periodo_inicio": "2023-02-01T00:00:00",
+    "periodo_fim": "2023-02-07T00:00:00",
+    "generatedAt": "2025-11-10T22:29:33.575497"
+  },
+  "resumo_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 1669.19,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 53.38
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 874.12,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 27.95
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 827.25,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 26.46
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": -243.61,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": -7.79
+    }
+  ],
+  "resumo_fornecedores": [
+    {
+      "nome": "Azul Linhas Aéreas Inteligentes S.A",
+      "cnpj": "09296295000160",
+      "total": 1669.19,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 53.38
+    },
+    {
+      "nome": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL LTDA",
+      "cnpj": "62413877003268",
+      "total": 874.12,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 27.95
+    },
+    {
+      "nome": "Plena Informatica Ltda",
+      "cnpj": "03038875000170",
+      "total": 827.25,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 26.46
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": -243.61,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": -7.79
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 3126.95,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7505486,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-02-06T00:00:00",
+      "numDocumento": "2926",
+      "valorDocumento": 548.25,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7505486",
+      "nomeFornecedor": "Plena Informatica Ltda",
+      "cnpjCpfFornecedor": "03038875000170",
+      "valorLiquido": 548.25,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1912520,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7505320,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-02-07T00:00:00",
+      "numDocumento": "2929",
+      "valorDocumento": 279.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7505320",
+      "nomeFornecedor": "Plena Informatica Ltda",
+      "cnpjCpfFornecedor": "03038875000170",
+      "valorLiquido": 279.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1912437,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "PASSAGEM AÉREA - REEMBOLSO",
+      "codDocumento": 7505330,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-01T00:00:00",
+      "numDocumento": "OF9QXF",
+      "valorDocumento": 1669.19,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3661/2023/7505330.pdf",
+      "nomeFornecedor": "Azul Linhas Aéreas Inteligentes S.A",
+      "cnpjCpfFornecedor": "09296295000160",
+      "valorLiquido": 1669.19,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1912436,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "codDocumento": 7505840,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-03T00:00:00",
+      "numDocumento": "1617",
+      "valorDocumento": 874.12,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3661/2023/7505840.pdf",
+      "nomeFornecedor": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL LTDA",
+      "cnpjCpfFornecedor": "62413877003268",
+      "valorLiquido": 874.12,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1912695,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": 131192,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-06T12:00:00",
+      "numDocumento": "XK47GG",
+      "valorDocumento": -243.61,
+      "urlDocumento": null,
+      "nomeFornecedor": "AZUL",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -243.61,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ]
+}

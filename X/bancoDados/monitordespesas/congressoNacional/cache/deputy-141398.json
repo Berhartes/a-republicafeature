@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T17:45:22Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "deputados.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "deputadoId": "141398"
+  },
+  "data": {
+    "id": "141398",
+    "nome": "Carlos Zarattini",
+    "nomeEleitoral": "Carlos Zarattini",
+    "nomeCivil": null,
+    "partido": "PT",
+    "siglaPartido": "PT",
+    "uf": "SP",
+    "siglaUf": "SP",
+    "urlFoto": null,
+    "totalDespesas": 723923.0499999993,
+    "numeroDespesas": 1200,
+    "fornecedoresIdentificados": 63,
+    "createdAt": "2025-11-01T17:45:19Z",
+    "gastosPorAno": {},
+    "transacoesPorAno": {},
+    "topCategorias": [],
+    "topFornecedores": [],
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "temDetalhes": false
+  }
+}

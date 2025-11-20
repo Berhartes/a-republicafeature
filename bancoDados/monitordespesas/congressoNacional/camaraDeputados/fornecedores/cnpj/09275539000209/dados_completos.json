@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "E.A.R. PEREIRA COMBUSTIVEIS EIRELI",
       "cnpj": "09275539000209",
-      "total_recebido": 477.72,
+      "total_recebido": 611.52,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:56:34.368861"
+    "generatedAt": "2025-11-11T05:22:34.429632"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 477.72
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 611.52
   },
   "anos": {
-    "2024": {
-      "total": 477.72,
+    "2025": {
+      "total": 611.52,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220544": {
+    "220542": {
       "deputado": {
-        "id": 220544,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220544",
-        "nome": "Antonio Andrade",
-        "siglaPartido": "REPUBLICANOS",
+        "id": 220542,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
+        "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
+        "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "TO",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
-        "email": "dep.antonioandrade@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
+        "email": "dep.alexandreguimaraes@camara.leg.br"
       },
-      "total": 477.72,
+      "total": 611.52,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 12,
+          "ano": 2025,
+          "mes": 5,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7846711,
+          "codDocumento": 7930703,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-12-12T00:00:00",
-          "numDocumento": "26476",
-          "valorDocumento": 477.72,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7846711",
+          "dataDocumento": "2025-05-29T00:00:00",
+          "numDocumento": "764598",
+          "valorDocumento": 611.52,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7930703",
           "nomeFornecedor": "E.A.R. PEREIRA COMBUSTIVEIS EIRELI",
           "cnpjCpfFornecedor": "09275539000209",
-          "valorLiquido": 477.72,
+          "valorLiquido": 611.52,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

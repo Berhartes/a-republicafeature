@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "COMERCIAL DE PETROLEO F CORREA LTDA",
+    "cnpj": "03023665000109",
+    "total_recebido": 614.74,
+    "numero_transacoes": 3,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 614.74,
+  "quantidade_transacoes": 3,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 614.74,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 614.74,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 259.59,
+      "porcentagem_do_total": 42.23
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 222.47,
+      "porcentagem_do_total": 36.19
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 132.68,
+      "porcentagem_do_total": 21.58
+    }
+  ]
+}

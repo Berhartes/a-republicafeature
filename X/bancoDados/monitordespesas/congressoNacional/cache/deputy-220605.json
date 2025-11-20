@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T17:45:22Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "deputados.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "deputadoId": "220605"
+  },
+  "data": {
+    "id": "220605",
+    "nome": "Bandeira de Mello",
+    "nomeEleitoral": "Bandeira de Mello",
+    "nomeCivil": null,
+    "partido": "PSB",
+    "siglaPartido": "PSB",
+    "uf": "RJ",
+    "siglaUf": "RJ",
+    "urlFoto": null,
+    "totalDespesas": 705785.4400000004,
+    "numeroDespesas": 1198,
+    "fornecedoresIdentificados": 134,
+    "createdAt": "2025-11-01T17:45:19Z",
+    "gastosPorAno": {},
+    "transacoesPorAno": {},
+    "topCategorias": [],
+    "topFornecedores": [],
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "temDetalhes": false
+  }
+}

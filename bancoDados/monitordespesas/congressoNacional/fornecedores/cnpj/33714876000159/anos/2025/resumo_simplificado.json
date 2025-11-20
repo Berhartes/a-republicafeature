@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO QNO LTDA",
+    "cnpj": "33714876000159",
+    "total_recebido": 1224.89,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 353.27,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 353.27,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 353.27,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 353.27,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

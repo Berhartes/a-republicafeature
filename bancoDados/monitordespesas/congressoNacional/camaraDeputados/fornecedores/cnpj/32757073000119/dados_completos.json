@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:30.372938"
+    "generatedAt": "2025-11-11T05:22:41.410671"
   },
   "categorias": {
     "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 900.0
@@ -30,6 +30,7 @@
         "id": 178927,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
         "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
         "siglaPartido": "PV",
         "uriPartido": "",
         "siglaUf": "PR",
@@ -42,15 +43,15 @@
       "despesas": [
         {
           "ano": 2023,
-          "mes": 11,
+          "mes": 5,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7652341,
+          "codDocumento": 7555683,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-12-01T00:00:00",
-          "numDocumento": "38",
+          "dataDocumento": "2023-06-01T00:00:00",
+          "numDocumento": "429",
           "valorDocumento": 300.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2023/7652341.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2023/7555683.pdf",
           "nomeFornecedor": "carlos eduardo",
           "cnpjCpfFornecedor": "32757073000119",
           "valorLiquido": 300.0,
@@ -61,15 +62,15 @@
         },
         {
           "ano": 2023,
-          "mes": 5,
+          "mes": 11,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7555683,
+          "codDocumento": 7652341,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-06-01T00:00:00",
-          "numDocumento": "429",
+          "dataDocumento": "2023-12-01T00:00:00",
+          "numDocumento": "38",
           "valorDocumento": 300.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2023/7555683.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2023/7652341.pdf",
           "nomeFornecedor": "carlos eduardo",
           "cnpjCpfFornecedor": "32757073000119",
           "valorLiquido": 300.0,

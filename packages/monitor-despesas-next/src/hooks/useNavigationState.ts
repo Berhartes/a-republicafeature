@@ -1,5 +1,5 @@
 import { useState, useCallback, useRef, useEffect } from 'react';
-import { useNavigate, useLocation } from '@tanstack/react-router';
+import { useNavigate, useLocation } from '@/lib/router/navigation';
 import { categoryToSlug, slugToCategory } from '@/lib/category-slugs';
 
 export interface NavigationState {

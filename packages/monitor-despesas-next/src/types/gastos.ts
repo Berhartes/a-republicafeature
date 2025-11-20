@@ -116,6 +116,7 @@ export interface GastoDeputado {
   foto?: string
   rankingAnual?: number
   ranking?: number
+  detalhesCarregados?: boolean
 }
 
 export interface TransacaoSuspeita {
@@ -155,6 +156,7 @@ export interface FornecedorStats {
   numeroTransacoes?: number // Campo do pacote: numeroTotalTransacoes
   transacoes: number // Mantido para compatibilidade legacy
   totalTransacoes?: number // Alias usado pela camada de UI legacy
+  totalTransacoesDetalhadas?: number
 
   scoreSuspeicao: number
   deputadosAtendidos: Array<string | number | { id: string; nomeEleitoral?: string; siglaPartido?: string; siglaUf?: string }>
@@ -205,6 +207,7 @@ export interface BuscarFornecedoresOptions {
   deputadoId?: string
   ordenacao?: 'valor' | 'score' | 'nome'
   direcao?: 'asc' | 'desc'
+  uf?: string
 }
 
 export interface FornecedoresResponse {
@@ -226,4 +229,9 @@ export interface FornecedoresResponse {
     | 'cache-unavailable'
     | 'cached-multilevel'
     | 'cache-error' // Fonte dos dados
+  success?: boolean
+  data?: FornecedorStats[]
+  source?: string
+  etlVersion?: string
+  message?: string
 }

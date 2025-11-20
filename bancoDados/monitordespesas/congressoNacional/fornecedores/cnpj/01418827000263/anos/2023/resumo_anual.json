@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "REDE DE POSTOS SANTA MARIA LTDA (POSTO XV)",
+      "cnpj": "01418827000263",
+      "total_recebido": 1164.37,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 732.6,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-07-05T00:00:00",
+    "periodo_fim": "2023-10-19T00:00:00",
+    "generatedAt": "2025-11-11T21:37:54.596492"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 732.6,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 732.6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 257.6,
+      "porcentagem_do_total": 35.16
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 367.55,
+      "porcentagem_do_total": 50.17
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 107.45,
+      "porcentagem_do_total": 14.67
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7602578,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-08-19T00:00:00",
+      "numDocumento": "1222",
+      "valorDocumento": 215.55,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7602578",
+      "nomeFornecedor": "REDE DE POSTOS SANTA MARIA LTDA (POSTO XV)",
+      "cnpjCpfFornecedor": "01418827000263",
+      "valorLiquido": 215.55,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1965161,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7602526,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-08-29T00:00:00",
+      "numDocumento": "1267",
+      "valorDocumento": 152.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7602526",
+      "nomeFornecedor": "REDE DE POSTOS SANTA MARIA LTDA (POSTO XV)",
+      "cnpjCpfFornecedor": "01418827000263",
+      "valorLiquido": 152.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1965160,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7629058,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-10-19T00:00:00",
+      "numDocumento": "1626",
+      "valorDocumento": 107.45,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7629058",
+      "nomeFornecedor": "REDE DE POSTOS SANTA MARIA LTDA (POSTO XV)",
+      "cnpjCpfFornecedor": "01418827000263",
+      "valorLiquido": 107.45,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1980005,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7574006,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-07-05T00:00:00",
+      "numDocumento": "949",
+      "valorDocumento": 257.6,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7574006",
+      "nomeFornecedor": "REDE DE POSTOS SANTA MARIA LTDA (POSTO XV)",
+      "cnpjCpfFornecedor": "01418827000263",
+      "valorLiquido": 257.6,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1950458,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic:
+    - link "Pular para conteúdo principal" [ref=e2] [cursor=pointer]:
+      - /url: "#main-content"
+    - link "Pular para navegação" [ref=e3] [cursor=pointer]:
+      - /url: "#navigation"
+    - link "Pular para rodapé" [ref=e4] [cursor=pointer]:
+      - /url: "#footer"
+  - generic [ref=e5]:
+    - banner [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - link "Monitor de Gastos Parlamentares" [ref=e9] [cursor=pointer]:
+            - /url: /
+            - heading "Monitor de Gastos Parlamentares" [level=1] [ref=e10]
+          - navigation [ref=e11]:
+            - link "Dashboard" [ref=e12] [cursor=pointer]:
+              - /url: /gastos/dashboards
+              - img [ref=e13]
+              - text: Dashboard
+            - link "Análise IA" [ref=e18] [cursor=pointer]:
+              - /url: /gastos/analise-avancada
+              - img [ref=e19]
+              - text: Análise IA
+            - link "Deputados" [ref=e27] [cursor=pointer]:
+              - /url: /gastos/deputados
+              - img [ref=e28]
+              - text: Deputados
+            - link "Fornecedores" [ref=e33] [cursor=pointer]:
+              - /url: /gastos/fornecedores
+              - img [ref=e34]
+              - text: Fornecedores
+            - link "Premiações" [ref=e38] [cursor=pointer]:
+              - /url: /gastos/premiacoes
+              - img [ref=e39]
+              - text: Premiações
+            - link "Comparar" [ref=e45] [cursor=pointer]:
+              - /url: /gastos/comparar
+              - img [ref=e46]
+              - text: Comparar
+            - link "Alertas" [ref=e51] [cursor=pointer]:
+              - /url: /gastos/relatorios?tab=alertas
+              - img [ref=e52]
+              - text: Alertas
+            - link "Relatórios" [ref=e54] [cursor=pointer]:
+              - /url: /gastos/relatorios?tab=relatorios
+              - img [ref=e55]
+              - text: Relatórios
+        - generic [ref=e58]:
+          - button "Notificações" [ref=e60]:
+            - img [ref=e61]
+          - link "Configurações" [ref=e64] [cursor=pointer]:
+            - /url: /gastos/configuracoes
+            - img [ref=e65]
+    - main [ref=e68]:
+      - main [ref=e70]:
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - generic [ref=e73]:
+              - heading "Fornecedores Suspeitos" [level=1] [ref=e74]:
+                - img [ref=e75]
+                - text: Fornecedores Suspeitos
+              - paragraph [ref=e79]: Análise de empresas com padrões suspeitos identificados
+              - paragraph [ref=e80]: Atualizado em 07/11/2025, 15:47:52
+            - button "Exportar Dados" [ref=e81]:
+              - img [ref=e82]
+              - text: Exportar Dados
+          - generic [ref=e85]:
+            - generic [ref=e88]:
+              - generic [ref=e89]:
+                - paragraph [ref=e90]: Total
+                - paragraph [ref=e91]: "0"
+              - img [ref=e92]
+            - generic [ref=e98]:
+              - generic [ref=e99]:
+                - paragraph [ref=e100]: Suspeitos
+                - paragraph [ref=e101]: "0"
+              - img [ref=e102]
+            - generic [ref=e106]:
+              - generic [ref=e107]:
+                - paragraph [ref=e108]: Volume Total
+                - paragraph [ref=e109]: R$ 0,00
+              - img [ref=e110]
+            - generic [ref=e115]:
+              - generic [ref=e116]:
+                - paragraph [ref=e117]: Score Médio
+                - paragraph [ref=e118]: "0"
+              - img [ref=e119]
+          - generic [ref=e124]:
+            - generic [ref=e125]:
+              - generic [ref=e126]:
+                - heading "Top Fornecedores Suspeitos" [level=3] [ref=e127]
+                - paragraph [ref=e128]: Ranking por volume de negócios
+              - img [ref=e132]
+            - generic [ref=e136]:
+              - generic [ref=e137]:
+                - heading "Distribuição por Categoria" [level=3] [ref=e138]
+                - paragraph [ref=e139]: Volume transacionado por tipo de serviço
+              - paragraph [ref=e141]: Sem categorias disponíveis.
+          - generic [ref=e142]:
+            - generic [ref=e143]:
+              - heading "Evolução anual de gastos" [level=3] [ref=e144]:
+                - img [ref=e145]
+                - text: Evolução anual de gastos
+              - paragraph [ref=e148]: Volume total processado pelos fornecedores monitorados
+            - paragraph [ref=e150]: Sem dados históricos suficientes.
+          - generic [ref=e151]:
+            - heading "Filtros" [level=3] [ref=e153]:
+              - img [ref=e154]
+              - text: Filtros
+            - generic [ref=e157]:
+              - generic [ref=e159]:
+                - img [ref=e160]
+                - textbox "Buscar por nome ou CNPJ..." [ref=e163]
+              - combobox [ref=e165]:
+                - generic: Todos os Scores
+                - img [ref=e166]
+              - combobox [ref=e169]:
+                - generic: Todas as categorias
+                - img [ref=e170]
+          - generic [ref=e172]:
+            - generic [ref=e173]:
+              - heading "Resultados" [level=3] [ref=e174]
+              - paragraph [ref=e175]: Lista paginada dos fornecedores de maior risco
+            - generic [ref=e177]:
+              - paragraph [ref=e178]: Nenhum fornecedor encontrado com os filtros aplicados.
+              - button "Limpar Filtros" [ref=e179]
+    - button "Abrir busca global (Ctrl+K)" [ref=e180]:
+      - img [ref=e181]
+    - region "Notifications (F8)":
+      - list
+    - contentinfo [ref=e184]:
+      - paragraph [ref=e185]: Sistema de Gastos de Deputados
+  - generic [ref=e190] [cursor=pointer]:
+    - button "Open Next.js Dev Tools" [ref=e191]:
+      - img [ref=e192]
+    - generic [ref=e195]:
+      - button "Open issues overlay" [ref=e196]:
+        - generic [ref=e197]:
+          - generic [ref=e198]: "3"
+          - generic [ref=e199]: "4"
+        - generic [ref=e200]:
+          - text: Issue
+          - generic [ref=e201]: s
+      - button "Collapse issues badge" [ref=e202]:
+        - img [ref=e203]
+  - alert [ref=e205]
+```

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO CIDADE DO SOL II LTDA",
+      "cnpj": "18043213000166",
+      "total_recebido": 157.57,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:05.765008"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 157.57
+  },
+  "anos": {
+    "2025": {
+      "total": 157.57,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 157.57,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7911004,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-01T00:00:00",
+          "numDocumento": "046176",
+          "valorDocumento": 157.57,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7911004.pdf",
+          "nomeFornecedor": "AUTO POSTO CIDADE DO SOL II LTDA",
+          "cnpjCpfFornecedor": "18043213000166",
+          "valorLiquido": 157.57,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2133430,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

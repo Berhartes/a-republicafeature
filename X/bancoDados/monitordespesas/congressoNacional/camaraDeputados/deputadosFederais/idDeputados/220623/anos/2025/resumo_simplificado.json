@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220623,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220623",
+    "nome": "Duda Salabert",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
+    "email": "dep.dudasalabert@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 332660.83,
+  "quantidade_transacoes": 276,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 95165.02,
+      "quantidade_transacoes": 130,
+      "porcentagem_do_total": 28.61
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 75035.23,
+      "quantidade_transacoes": 51,
+      "porcentagem_do_total": 22.56
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 73541.56,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 22.11
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 57563.33,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 17.3
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 23791.69,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 7.15
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "INOVAR EMPREENDIMENTOS E NEGÓCIOS IMOBILIÁRIOS LTDA",
+      "cnpj": "26940854000141",
+      "total": 57292.6,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 17.22
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 46734.93,
+      "quantidade_transacoes": 50,
+      "porcentagem_do_total": 14.05
+    },
+    {
+      "nome": "VALOR LOCAÇÕES EIRELI - ME",
+      "cnpj": "07475524000188",
+      "total": 41230.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 12.39
+    },
+    {
+      "nome": "Orire Comunicação LTDA",
+      "cnpj": "43696631000108",
+      "total": 28000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 8.42
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 27221.35,
+      "quantidade_transacoes": 40,
+      "porcentagem_do_total": 8.18
+    },
+    {
+      "nome": "COMERCIO DE COMBUSTIVEIS ALEX LTDA",
+      "cnpj": "17176561000149",
+      "total": 23634.05,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 7.1
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 21208.74,
+      "quantidade_transacoes": 40,
+      "porcentagem_do_total": 6.38
+    },
+    {
+      "nome": "YASMIM BRECKENFELD RECK",
+      "cnpj": "58821021000158",
+      "total": 18510.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 5.56
+    },
+    {
+      "nome": "ESTRELA LOGISTICA LTDA",
+      "cnpj": "04309564000161",
+      "total": 16333.33,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 4.91
+    },
+    {
+      "nome": "IGOR AUGUSTO RODRIGUES GRIGORIO",
+      "cnpj": "57450021000126",
+      "total": 11800.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.55
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 20787.33,
+      "porcentagem_do_total": 6.25
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 23440.11,
+      "porcentagem_do_total": 7.05
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 43598.68,
+      "porcentagem_do_total": 13.11
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 57049.57,
+      "porcentagem_do_total": 17.15
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 49905.77,
+      "porcentagem_do_total": 15.0
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 37365.37,
+      "porcentagem_do_total": 11.23
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 49282.91,
+      "porcentagem_do_total": 14.81
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 20847.27,
+      "porcentagem_do_total": 6.27
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 21829.46,
+      "porcentagem_do_total": 6.56
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 8554.36,
+      "porcentagem_do_total": 2.57
+    }
+  ]
+}

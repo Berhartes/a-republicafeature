@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO INDAIA II LTDA",
+      "cnpj": "19404894000103",
+      "total_recebido": 567.51,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:22.154016"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 567.51
+  },
+  "anos": {
+    "2023": {
+      "total": 280.01,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 287.5,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220542": {
+      "deputado": {
+        "id": 220542,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
+        "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
+        "email": "dep.alexandreguimaraes@camara.leg.br"
+      },
+      "total": 567.51,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7545889,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-04T00:00:00",
+          "numDocumento": "443986",
+          "valorDocumento": 280.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7545889",
+          "nomeFornecedor": "AUTO POSTO INDAIA II LTDA",
+          "cnpjCpfFornecedor": "19404894000103",
+          "valorLiquido": 280.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7826920,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-15T14:03:36",
+          "numDocumento": "596452",
+          "valorDocumento": 287.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7826920",
+          "nomeFornecedor": "AUTO POSTO INDAIA II - EIRELI - ME",
+          "cnpjCpfFornecedor": "19404894000103",
+          "valorLiquido": 287.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

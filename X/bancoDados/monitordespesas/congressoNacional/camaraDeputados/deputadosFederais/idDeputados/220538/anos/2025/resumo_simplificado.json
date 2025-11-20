@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220538,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220538",
+    "nome": "Albuquerque",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "RR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220538.jpg",
+    "email": "dep.albuquerque@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 446061.91,
+  "quantidade_transacoes": 166,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 393500.0,
+      "quantidade_transacoes": 49,
+      "porcentagem_do_total": 88.22
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 38355.1,
+      "quantidade_transacoes": 105,
+      "porcentagem_do_total": 8.6
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 13067.9,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 2.93
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 1081.5,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.24
+    },
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 57.41,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.01
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Instituto Mais Cidades Assessoria e Consultoria ltda",
+      "cnpj": "43783350000184",
+      "total": 140000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 31.39
+    },
+    {
+      "nome": "E DE MAGALHAES SILVA LTDA",
+      "cnpj": "14898066000155",
+      "total": 80000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 17.93
+    },
+    {
+      "nome": "A L DE PAULA LTDA",
+      "cnpj": "61227209000187",
+      "total": 75000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 16.81
+    },
+    {
+      "nome": "D&A Empreendimentos LTDA",
+      "cnpj": "25124639000100",
+      "total": 75000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 16.81
+    },
+    {
+      "nome": "AUTO POSTO FENIX E COMERCIO LTDA",
+      "cnpj": "11158355000120",
+      "total": 17028.11,
+      "quantidade_transacoes": 44,
+      "porcentagem_do_total": 3.82
+    },
+    {
+      "nome": "W.S.RAMOS - FATOREAL COMUNICAÇÕES",
+      "cnpj": "10303744000139",
+      "total": 12000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 2.69
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 10874.55,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 2.44
+    },
+    {
+      "nome": "ORBITA COMUNICAÇÃO LTDA EPP",
+      "cnpj": "14951836000186",
+      "total": 10000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 2.24
+    },
+    {
+      "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597006308",
+      "total": 5151.33,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 1.15
+    },
+    {
+      "nome": "AUTO POSTO SOL NASCENTE LTDA",
+      "cnpj": "50814072000140",
+      "total": 4221.37,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 0.95
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 40365.21,
+      "porcentagem_do_total": 9.05
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 44914.46,
+      "porcentagem_do_total": 10.07
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 44540.63,
+      "porcentagem_do_total": 9.99
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 44637.91,
+      "porcentagem_do_total": 10.01
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 48214.1,
+      "porcentagem_do_total": 10.81
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 47518.3,
+      "porcentagem_do_total": 10.65
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 43695.93,
+      "porcentagem_do_total": 9.8
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 43833.69,
+      "porcentagem_do_total": 9.83
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 42159.63,
+      "porcentagem_do_total": 9.45
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 46182.05,
+      "porcentagem_do_total": 10.35
+    }
+  ]
+}

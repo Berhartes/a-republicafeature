@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 204501,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204501",
+    "nome": "Alencar Santana",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204501.jpg",
+    "email": "dep.alencarsantana@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 388950.97,
+  "quantidade_transacoes": 176,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 139920.2,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 35.97
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 85213.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 21.91
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 68478.55,
+      "quantidade_transacoes": 45,
+      "porcentagem_do_total": 17.61
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 46315.76,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 11.91
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 36928.95,
+      "quantidade_transacoes": 69,
+      "porcentagem_do_total": 9.49
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "LUCAS MACHADO COMUNICAÇÃO",
+      "cnpj": "53945953000199",
+      "total": 117500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 30.21
+    },
+    {
+      "nome": "Izilda Marques do Nascimento Neves",
+      "cnpj": "90444060863",
+      "total": 60041.07,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 15.44
+    },
+    {
+      "nome": "CENTRO AUTOMOTIVO LUIZ XII LTDA",
+      "cnpj": "05794555000176",
+      "total": 46065.76,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 11.84
+    },
+    {
+      "nome": "DALETH VEICULOS LTDA EPP",
+      "cnpj": "04515963000189",
+      "total": 42713.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 10.98
+    },
+    {
+      "nome": "JRM LOCADORA DE VEICULOS LTDA",
+      "cnpj": "44262415000109",
+      "total": 42500.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 10.93
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 28442.61,
+      "quantidade_transacoes": 56,
+      "porcentagem_do_total": 7.31
+    },
+    {
+      "nome": "A MAQUINA SOLUCOES EM MIDIA LTDA ME",
+      "cnpj": "28916527000180",
+      "total": 11000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.83
+    },
+    {
+      "nome": "DFMKT comunicacao e tecnologia LTDA",
+      "cnpj": "38347632000107",
+      "total": 10000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.57
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 8486.34,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 2.18
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 3580.44,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.92
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 39076.86,
+      "porcentagem_do_total": 10.05
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 49706.0,
+      "porcentagem_do_total": 12.78
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 45150.1,
+      "porcentagem_do_total": 11.61
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 38293.42,
+      "porcentagem_do_total": 9.85
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 40844.1,
+      "porcentagem_do_total": 10.5
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 41113.81,
+      "porcentagem_do_total": 10.57
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 48110.36,
+      "porcentagem_do_total": 12.37
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 39023.77,
+      "porcentagem_do_total": 10.03
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 31704.57,
+      "porcentagem_do_total": 8.15
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 15927.98,
+      "porcentagem_do_total": 4.1
+    }
+  ]
+}

@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.330912"
+    "generatedAt": "2025-11-11T05:22:13.308335"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 400.03
@@ -25,6 +25,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -35,25 +36,6 @@
       "total": 400.03,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7796955,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-09-02T00:00:00",
-          "numDocumento": "61846",
-          "valorDocumento": 190.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7796955",
-          "nomeFornecedor": "AUTO POSTO MENDES MATTOS LTDA",
-          "cnpjCpfFornecedor": "14954060000158",
-          "valorLiquido": 190.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 8,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "AUTO POSTO MENDES MATTOS LTDA",
           "cnpjCpfFornecedor": "14954060000158",
           "valorLiquido": 210.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7796955,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-02T00:00:00",
+          "numDocumento": "61846",
+          "valorDocumento": 190.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7796955",
+          "nomeFornecedor": "AUTO POSTO MENDES MATTOS LTDA",
+          "cnpjCpfFornecedor": "14954060000158",
+          "valorLiquido": 190.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

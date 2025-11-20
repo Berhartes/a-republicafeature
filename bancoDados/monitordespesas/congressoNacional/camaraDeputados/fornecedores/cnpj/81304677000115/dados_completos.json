@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:30.380119"
+    "generatedAt": "2025-11-11T05:22:41.179048"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 838.0699999999999
@@ -30,6 +30,7 @@
         "id": 178927,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
         "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
         "siglaPartido": "PV",
         "uriPartido": "",
         "siglaUf": "PR",
@@ -40,25 +41,6 @@
       "total": 838.0699999999999,
       "transacoes": 3,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 10,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7634634,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-10-19T00:00:00",
-          "numDocumento": "1118428",
-          "valorDocumento": 316.18,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7634634",
-          "nomeFornecedor": "AUTO POSTO SANTA PAULINA LTDA",
-          "cnpjCpfFornecedor": "81304677000115",
-          "valorLiquido": 316.18,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 2,
@@ -73,6 +55,25 @@
           "nomeFornecedor": "AUTO POSTO SANTA PAULINA LTDA",
           "cnpjCpfFornecedor": "81304677000115",
           "valorLiquido": 250.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7634634,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-19T00:00:00",
+          "numDocumento": "1118428",
+          "valorDocumento": 316.18,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7634634",
+          "nomeFornecedor": "AUTO POSTO SANTA PAULINA LTDA",
+          "cnpjCpfFornecedor": "81304677000115",
+          "valorLiquido": 316.18,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

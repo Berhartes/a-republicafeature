@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 204508,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204508",
+    "nome": "Igor Timo",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204508.jpg",
+    "email": "dep.igortimo@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 245132.53,
+  "quantidade_transacoes": 307,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 203629.37,
+      "quantidade_transacoes": 95,
+      "porcentagem_do_total": 83.07
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 41503.16,
+      "quantidade_transacoes": 212,
+      "porcentagem_do_total": 16.93
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "VALÉRIA LUIZA DOS SANTOS",
+      "cnpj": "56119038604",
+      "total": 105000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 42.83
+    },
+    {
+      "nome": "SIGGO SIST. DE INF. GERENCIAL E GOV. OPPORTUNE LTD",
+      "cnpj": "12146589000110",
+      "total": 36120.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 14.73
+    },
+    {
+      "nome": "PATRÍCIA REZENDE LAMOUNIER",
+      "cnpj": "07091021606",
+      "total": 25087.2,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 10.23
+    },
+    {
+      "nome": "POSTO TOCANTINS LTDA",
+      "cnpj": "17462474000158",
+      "total": 8552.76,
+      "quantidade_transacoes": 33,
+      "porcentagem_do_total": 3.49
+    },
+    {
+      "nome": "Selbetti Gestão de Documentos SA",
+      "cnpj": "83483230000186",
+      "total": 7920.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.23
+    },
+    {
+      "nome": "CEMIG DISTRIBUIÇÃO S.A.",
+      "cnpj": "06981180000116",
+      "total": 7358.49,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 3.0
+    },
+    {
+      "nome": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA",
+      "cnpj": "11521613000190",
+      "total": 5841.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 2.38
+    },
+    {
+      "nome": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpj": "08532429000131",
+      "total": 5137.34,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 2.1
+    },
+    {
+      "nome": "BRASAL COMBUSTIVEIS LTDA",
+      "cnpj": "00097626000320",
+      "total": 4223.78,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 1.72
+    },
+    {
+      "nome": "JET AVIACAO COMERCIO LTDA",
+      "cnpj": "31919989000165",
+      "total": 4080.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.66
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 22849.02,
+      "porcentagem_do_total": 9.32
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 22410.17,
+      "porcentagem_do_total": 9.14
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 24558.76,
+      "porcentagem_do_total": 10.02
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 26330.32,
+      "porcentagem_do_total": 10.74
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 25714.69,
+      "porcentagem_do_total": 10.49
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 31551.25,
+      "porcentagem_do_total": 12.87
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 29381.49,
+      "porcentagem_do_total": 11.99
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 24689.98,
+      "porcentagem_do_total": 10.07
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 31835.01,
+      "porcentagem_do_total": 12.99
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 5681.84,
+      "porcentagem_do_total": 2.32
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 130.0,
+      "porcentagem_do_total": 0.05
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T17:45:22Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "deputados.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "deputadoId": "220632"
+  },
+  "data": {
+    "id": "220632",
+    "nome": "Ana Pimentel",
+    "nomeEleitoral": "Ana Pimentel",
+    "nomeCivil": null,
+    "partido": "PT",
+    "siglaPartido": "PT",
+    "uf": "MG",
+    "siglaUf": "MG",
+    "urlFoto": null,
+    "totalDespesas": 801544.7399999981,
+    "numeroDespesas": 1200,
+    "fornecedoresIdentificados": 135,
+    "createdAt": "2025-11-01T17:45:19Z",
+    "gastosPorAno": {},
+    "transacoesPorAno": {},
+    "topCategorias": [],
+    "topFornecedores": [],
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "temDetalhes": false
+  }
+}

@@ -3,57 +3,82 @@
     "fornecedor": {
       "nome": "POSTO MILENA LTDA",
       "cnpj": "01673698000179",
-      "total_recebido": 813.5799999999999,
-      "numero_transacoes": 2,
+      "total_recebido": 883.46,
+      "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:59:14.498185"
+    "generatedAt": "2025-11-11T05:22:34.119435"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 813.5799999999999
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 883.46
   },
   "anos": {
+    "2023": {
+      "total": 181.32,
+      "transacoes": 1,
+      "deputados": 1
+    },
     "2024": {
-      "total": 395.14,
+      "total": 320.08,
       "transacoes": 1,
       "deputados": 1
     },
     "2025": {
-      "total": 418.44,
+      "total": 382.06,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "178993": {
+    "220542": {
       "deputado": {
-        "id": 178993,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178993",
-        "nome": "Carlos Henrique Gaguim",
-        "siglaPartido": "UNIÃO",
+        "id": 220542,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
+        "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
+        "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "TO",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178993.jpg",
-        "email": "dep.carloshenriquegaguim@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
+        "email": "dep.alexandreguimaraes@camara.leg.br"
       },
-      "total": 813.5799999999999,
-      "transacoes": 2,
+      "total": 883.46,
+      "transacoes": 3,
       "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7545837,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-05T00:00:00",
+          "numDocumento": "419655",
+          "valorDocumento": 181.32,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7545837",
+          "nomeFornecedor": "POSTO MILENA LTDA",
+          "cnpjCpfFornecedor": "01673698000179",
+          "valorLiquido": 181.32,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
         {
           "ano": 2024,
           "mes": 9,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7806654,
+          "codDocumento": 7807885,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-09-21T11:14:08",
-          "numDocumento": "603459",
-          "valorDocumento": 395.14,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7806654",
+          "dataDocumento": "2024-09-17T21:46:07",
+          "numDocumento": "602168",
+          "valorDocumento": 320.08,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7807885",
           "nomeFornecedor": "POSTO MILENA LTDA",
           "cnpjCpfFornecedor": "01673698000179",
-          "valorLiquido": 395.14,
+          "valorLiquido": 320.08,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -61,18 +86,18 @@
         },
         {
           "ano": 2025,
-          "mes": 9,
+          "mes": 5,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7981443,
+          "codDocumento": 7915288,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-09-14T00:00:00",
-          "numDocumento": "742481",
-          "valorDocumento": 418.44,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3023/2025/7981443.pdf",
+          "dataDocumento": "2025-05-13T00:00:00",
+          "numDocumento": "691522",
+          "valorDocumento": 382.06,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7915288",
           "nomeFornecedor": "POSTO MILENA LTDA",
           "cnpjCpfFornecedor": "01673698000179",
-          "valorLiquido": 418.44,
+          "valorLiquido": 382.06,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

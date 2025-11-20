@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "E C MENEZES",
+      "cnpj": "50049232000102",
+      "total_recebido": 41000.0,
+      "numero_transacoes": 17,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 13000.0,
+    "quantidade_transacoes": 6,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-03-06T00:00:00",
+    "periodo_fim": "2024-12-13T00:00:00",
+    "generatedAt": "2025-11-11T21:37:58.168007"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 13000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 13000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 2000.0,
+      "porcentagem_do_total": 15.38
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 2000.0,
+      "porcentagem_do_total": 15.38
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 2000.0,
+      "porcentagem_do_total": 15.38
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 2000.0,
+      "porcentagem_do_total": 15.38
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 2500.0,
+      "porcentagem_do_total": 19.23
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 2500.0,
+      "porcentagem_do_total": 19.23
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 2,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7720348,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-04-08T00:00:00",
+      "numDocumento": "12",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7720348.pdf",
+      "nomeFornecedor": "E C MENEZES",
+      "cnpjCpfFornecedor": "50049232000102",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2031096,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 3,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7734706,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-05-09T00:00:00",
+      "numDocumento": "18",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7734706.pdf",
+      "nomeFornecedor": "E C MENEZES",
+      "cnpjCpfFornecedor": "50049232000102",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2039134,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 4,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7767263,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-06-10T00:00:00",
+      "numDocumento": "21",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7767263.pdf",
+      "nomeFornecedor": "E C MENEZES",
+      "cnpjCpfFornecedor": "50049232000102",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2056047,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7839862,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-12-04T00:00:00",
+      "numDocumento": "46",
+      "valorDocumento": 2500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7839862.pdf",
+      "nomeFornecedor": "E C MENEZES",
+      "cnpjCpfFornecedor": "50049232000102",
+      "valorLiquido": 2500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2094161,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7846568,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-12-13T00:00:00",
+      "numDocumento": "51",
+      "valorDocumento": 2500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7846568.pdf",
+      "nomeFornecedor": "E C MENEZES",
+      "cnpjCpfFornecedor": "50049232000102",
+      "valorLiquido": 2500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2097803,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 1,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7701144,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-03-06T00:00:00",
+      "numDocumento": "7",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7701144.pdf",
+      "nomeFornecedor": "E C MENEZES",
+      "cnpjCpfFornecedor": "50049232000102",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2020849,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

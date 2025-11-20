@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GOES COMBUSTIVEIS, LUBRIFICANTES E GLP LTDA",
+      "cnpj": "05454390000193",
+      "total_recebido": 259.47,
+      "numero_transacoes": 2,
+      "numero_deputados": 2
+    },
+    "ano": 2023,
+    "total_recebido": 159.47,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-09-14T00:00:00",
+    "periodo_fim": "2023-09-14T00:00:00",
+    "generatedAt": "2025-11-11T21:37:53.838486"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 159.47,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 159.47,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 159.47,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7610275,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-09-14T00:00:00",
+      "numDocumento": "227617",
+      "valorDocumento": 159.47,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7610275",
+      "nomeFornecedor": "GOES COMBUSTIVEIS, LUBRIFICANTES E GLP LTDA",
+      "cnpjCpfFornecedor": "05454390000193",
+      "valorLiquido": 159.47,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1969308,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 204365,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204365",
+    "nome": "Gilson Marques",
+    "siglaPartido": "NOVO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37901",
+    "siglaUf": "SC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204365.jpg",
+    "email": "dep.gilsonmarques@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 111750.54,
+  "quantidade_transacoes": 270,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 45459.6,
+      "quantidade_transacoes": 75,
+      "porcentagem_do_total": 40.68
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 44500.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 39.82
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 12219.63,
+      "quantidade_transacoes": 43,
+      "porcentagem_do_total": 10.93
+    },
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 4599.5,
+      "quantidade_transacoes": 132,
+      "porcentagem_do_total": 4.12
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 3170.55,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 2.84
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "DOMP",
+      "cnpj": "02863172000114",
+      "total": 37500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 33.56
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 32806.9,
+      "quantidade_transacoes": 44,
+      "porcentagem_do_total": 29.36
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 9900.52,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 8.86
+    },
+    {
+      "nome": "DOMP DESENVOLVIMENTO ORGANIZACIONAL, MARKETING E PRODUCOES LTDA",
+      "cnpj": "02863172000114",
+      "total": 7000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 6.26
+    },
+    {
+      "nome": "Posto Vale Europeu",
+      "cnpj": "43517789000165",
+      "total": 4639.99,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 4.15
+    },
+    {
+      "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpj": "17895646000187",
+      "total": 4483.5,
+      "quantidade_transacoes": 131,
+      "porcentagem_do_total": 4.01
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 2752.18,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 2.46
+    },
+    {
+      "nome": "IKEDA PROJETOS & HOTELARIA LTDA",
+      "cnpj": "20843649000181",
+      "total": 2160.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.93
+    },
+    {
+      "nome": "PATRIMONIAL LOCADORA DE VEÍCULOS LTDA",
+      "cnpj": "15009102000145",
+      "total": 1200.24,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.07
+    },
+    {
+      "nome": "POSTO MIME",
+      "cnpj": "83488882001002",
+      "total": 945.96,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.85
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 8996.94,
+      "porcentagem_do_total": 8.05
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 18196.45,
+      "porcentagem_do_total": 16.28
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 4668.58,
+      "porcentagem_do_total": 4.18
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 9938.24,
+      "porcentagem_do_total": 8.89
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 4921.33,
+      "porcentagem_do_total": 4.4
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 4809.31,
+      "porcentagem_do_total": 4.3
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 12425.34,
+      "porcentagem_do_total": 11.12
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 11475.12,
+      "porcentagem_do_total": 10.27
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 10668.27,
+      "porcentagem_do_total": 9.55
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 16739.82,
+      "porcentagem_do_total": 14.98
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 8911.14,
+      "porcentagem_do_total": 7.97
+    }
+  ]
+}

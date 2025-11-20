@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.343867"
+    "generatedAt": "2025-11-11T05:22:13.121442"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 261.52
@@ -25,6 +25,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -35,25 +36,6 @@
       "total": 261.52,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 7,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7773607,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-07-12T00:00:00",
-          "numDocumento": "25267",
-          "valorDocumento": 100.02,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7773607",
-          "nomeFornecedor": "Coronado Combustiveis Ltda",
-          "cnpjCpfFornecedor": "53741408000180",
-          "valorLiquido": 100.02,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 4,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "Coronado Combustiveis Ltda",
           "cnpjCpfFornecedor": "53741408000180",
           "valorLiquido": 161.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7773607,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-12T00:00:00",
+          "numDocumento": "25267",
+          "valorDocumento": 100.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7773607",
+          "nomeFornecedor": "Coronado Combustiveis Ltda",
+          "cnpjCpfFornecedor": "53741408000180",
+          "valorLiquido": 100.02,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

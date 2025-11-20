@@ -1,6 +1,6 @@
 """Shared models for Congresso Nacional (Câmara + Senado)."""
 
-from typing import Optional
+from typing import Any, Dict, Optional
 from pydantic import Field
 
 from ....core.base_models import BaseDespesa, BaseLegislador
@@ -14,6 +14,8 @@ class CongressoLegislador(BaseLegislador):
     id_legislatura: int = Field(alias="idLegislatura")
     siglaPartido: str
     siglaUf: str
+    nomeEleitoral: Optional[str] = None  # Electoral name from detailed API response
+    detalhes_completos: Optional[Dict[str, Any]] = Field(default=None, alias="detalhesCompletos")
     
     class Config:
         populate_by_name = True

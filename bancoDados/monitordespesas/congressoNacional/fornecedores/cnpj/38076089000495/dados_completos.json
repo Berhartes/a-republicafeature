@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO AGUAS CLARAS LTDA - CSD",
+      "cnpj": "38076089000495",
+      "total_recebido": 400.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:01.835013"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 400.0
+  },
+  "anos": {
+    "2025": {
+      "total": 400.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220714": {
+      "deputado": {
+        "id": 220714,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220714",
+        "nome": "Adail Filho",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+        "siglaUf": "AM",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
+        "email": "dep.adailfilho@camara.leg.br"
+      },
+      "total": 400.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7907409,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-05-04T17:18:27",
+          "numDocumento": "10790",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7907409",
+          "nomeFornecedor": "AUTO POSTO AGUAS CLARAS LTDA - CSD",
+          "cnpjCpfFornecedor": "38076089000495",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2131448,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7915043,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-05-14T06:16:36",
+          "numDocumento": "11182",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7915043",
+          "nomeFornecedor": "AUTO POSTO AGUAS CLARAS LTDA - CSD",
+          "cnpjCpfFornecedor": "38076089000495",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2135657,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7892753,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-03-30T06:03:42",
+          "numDocumento": "9390",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7892753",
+          "nomeFornecedor": "AUTO POSTO AGUAS CLARAS LTDA - CSD",
+          "cnpjCpfFornecedor": "38076089000495",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2123871,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

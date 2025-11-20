@@ -1,5 +1,5 @@
 
-import React from 'react'
+// no React hooks here to keep this module server-safe
 
 export const accessibilityConfig = {
   wcagRules: {
@@ -337,6 +337,7 @@ export const a11yUtils = {
     );
   },
 
+  // Generate unique accessibility IDs for ARIA attributes and form associations
   generateId: (prefix: string = 'a11y'): string => {
     return `${prefix}-${Math.random().toString(36).substr(2, 9)}`;
   },
@@ -404,21 +405,18 @@ function hexToRgb(hex: string): { r: number; g: number; b: number } | null {
   } : null;
 }
 
-export function useAccessibility() {
-  const [violations, _setViolations] = React.useState<any[]>([]);
-
-  React.useEffect(() => {
-    if (process.env.NODE_ENV === 'development') {
-      console.log('🔍 [A11Y] Accessibility monitoring enabled');
-    }
-  }, []);
-
+export function createAccessibilityMonitor() {
+  const violations: any[] = []
   return {
     violations,
     checkAccessibility: () => {
-      console.log('🔍 [A11Y] Running accessibility audit...');
-    }
-  };
+      const isDevHost = typeof window !== 'undefined' && ['localhost', '127.0.0.1'].includes(window.location.hostname)
+      if (isDevHost) {
+        console.log('🔍 [A11Y] Accessibility monitoring enabled')
+      }
+      console.log('🔍 [A11Y] Running accessibility audit...')
+    },
+  }
 }
 
 export const ariaPatterns = {

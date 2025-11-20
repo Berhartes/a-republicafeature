@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import { listAvailableCaches } from '@/app/gastos/actions/cache-actions'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
@@ -52,124 +53,9 @@ export default function CacheSelector({
     try {
       setLoading(true)
       setError(null)
-
-      const manifestResponse = await fetch('/cache/caches-manifest.json')
-      let manifest = null
-
-      if (manifestResponse.ok) {
-        manifest = await manifestResponse.json()
-      }
-
-      const allCacheTypes = [
-        {
-          name: 'suppliers-cache',
-          displayName: 'Fornecedores',
-          description: 'Cache completo de fornecedores e transações',
-          icon: '🏢',
-          pageTypes: ['fornecedores']
-        },
-        {
-          name: 'deputies-cache',
-          displayName: 'Deputados',
-          description: 'Cache de deputados e despesas',
-          icon: '👥',
-          pageTypes: ['deputados', 'transacoes']
-        },
-        {
-          name: 'analysis-cache',
-          displayName: 'Análises',
-          description: 'Cache de análises e métricas avançadas',
-          icon: '📊',
-          pageTypes: ['transacoes']
-        },
-        {
-          name: 'dashboard-cache',
-          displayName: 'Dashboard',
-          description: 'Cache otimizado para dashboard',
-          icon: '📈',
-          pageTypes: ['transacoes']
-        },
-        {
-          name: 'rankings-cache',
-          displayName: 'Rankings',
-          description: 'Cache de rankings e classificações',
-          icon: '🏆',
-          pageTypes: ['premiacoes', 'transacoes']
-        }
-      ]
-
-      const cacheTypes = allCacheTypes.filter(cache =>
-        cache.pageTypes.includes(pageType)
-      )
-
-      const cachePromises = cacheTypes.map(async (cacheType) => {
-        try {
-          const response = await fetch(`/cache/${cacheType.name}.json`)
-
-          if (response.ok) {
-            const data = await response.json()
-            const size = response.headers.get('content-length') || '0'
-            const lastModified = new Date(response.headers.get('last-modified') || Date.now())
-
-            let entries = 0
-            if (data.data && Array.isArray(data.data)) {
-              entries = data.data.length
-            } else if (data.deputados && Array.isArray(data.deputados)) {
-              entries = data.deputados.length
-            } else if (data.rankings && Array.isArray(data.rankings)) {
-              entries = data.rankings.length
-            } else if (typeof data === 'object') {
-              entries = Object.keys(data).length
-            }
-
-            const cacheInfo: CacheInfo = {
-              name: cacheType.name,
-              displayName: `${cacheType.icon} ${cacheType.displayName}`,
-              size: formatFileSize(parseInt(size) || JSON.stringify(data).length),
-              lastModified,
-              entries,
-              description: cacheType.description,
-              available: true,
-              etlSource: manifest?.source || 'ETL Cache',
-              metadata: data.metadata || {}
-            }
-
-            return cacheInfo
-          } else {
-            return {
-              name: cacheType.name,
-              displayName: `${cacheType.icon} ${cacheType.displayName}`,
-              size: '0 KB',
-              lastModified: new Date(),
-              entries: 0,
-              description: `${cacheType.description} (não disponível)`,
-              available: false
-            }
-          }
-        } catch (error) {
-          console.warn(`Erro ao carregar cache ${cacheType.name}:`, error)
-          return {
-            name: cacheType.name,
-            displayName: `${cacheType.icon} ${cacheType.displayName}`,
-            size: '0 KB',
-            lastModified: new Date(),
-            entries: 0,
-            description: `${cacheType.description} (erro ao carregar)`,
-            available: false
-          }
-        }
-      })
-
-      const cacheResults = await Promise.all(cachePromises)
-      setCaches(cacheResults)
-
-      console.log('📦 Caches carregados:', cacheResults.map(c => ({
-        name: c.name,
-        available: c.available,
-        entries: c.entries,
-        size: c.size
-      })))
-
+      const cacheResults = await listAvailableCaches(pageType)
+      setCaches(cacheResults as CacheInfo[])
+      console.log('📦 Caches carregados:', (cacheResults as any[]).map(c => ({ name: c.name, available: c.available, entries: c.entries, size: c.size })))
     } catch (error) {
       console.error('❌ Erro ao carregar caches:', error)
       setError('Erro ao carregar lista de caches disponíveis')

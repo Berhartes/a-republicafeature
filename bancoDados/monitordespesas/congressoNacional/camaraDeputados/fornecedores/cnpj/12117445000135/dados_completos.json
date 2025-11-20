@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "COMERCIO DE COMBUSTIVEL A F C LTDA",
       "cnpj": "12117445000135",
-      "total_recebido": 280.0,
+      "total_recebido": 205.49,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:59:02.674976"
+    "generatedAt": "2025-11-11T05:22:28.188967"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 280.0
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 205.49
   },
   "anos": {
     "2023": {
-      "total": 280.0,
+      "total": 205.49,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204507": {
+    "204501": {
       "deputado": {
-        "id": 204507,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204507",
-        "nome": "Carla Zambelli",
-        "siglaPartido": "PL",
+        "id": 204501,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204501",
+        "nome": "Alencar Santana",
+        "nomeEleitoral": "Alencar Santana",
+        "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204507.jpg",
-        "email": "dep.carlazambelli@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204501.jpg",
+        "email": "dep.alencarsantana@camara.leg.br"
       },
-      "total": 280.0,
+      "total": 205.49,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 5,
+          "mes": 3,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7547679,
+          "codDocumento": 7535018,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-05-19T00:00:00",
-          "numDocumento": "173681",
-          "valorDocumento": 280.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2023/7547679.pdf",
+          "dataDocumento": "2023-03-23T00:00:00",
+          "numDocumento": "131924",
+          "valorDocumento": 205.49,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3431/2023/7535018.pdf",
           "nomeFornecedor": "COMERCIO DE COMBUSTIVEL A F C LTDA",
           "cnpjCpfFornecedor": "12117445000135",
-          "valorLiquido": 280.0,
+          "valorLiquido": 205.49,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

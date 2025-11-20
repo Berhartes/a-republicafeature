@@ -1,5 +1,5 @@
 import React from 'react'
-import { useNavigate } from '@tanstack/react-router'
+import { useNavigate } from '@/lib/router/navigation'
 import { CategoryBarItemProps, CategoryData } from './CategoryDistributionChart.types'
 import {
   calculateBarPercentages,
@@ -17,44 +17,40 @@ export const CategoryBarItem: React.FC<CategoryBarItemProps> = ({
   referenceData,
   showPieChart,
   onCategoryClick,
-  categoryUrlResolver,
-  countLabel = 'items',
-  showComparison = false,
+  countLabel,
+  showComparison,
   allData
 }) => {
   const navigate = useNavigate()
-  
-  const percentages = calculateBarPercentages(item, referenceData, allData)
-  
+  const categoryColor = item.cor || getCategoryColor(item.categoria)
   const mediaCategoria = referenceData?.media || 0
   const maxCategoria = referenceData?.maximo || 0
   const recordista = referenceData?.recordista
-  
+
+  const percentages = calculateBarPercentages(item, referenceData, allData)
   const comparison = calculateComparison(item.valor, mediaCategoria)
   const recordPercentage = calculateRecordPercentage(item.valor, maxCategoria)
-  
-  const categoryColor = item.cor || getCategoryColor(item.categoria)
-  
+
+  const isClickable = Boolean(onCategoryClick)
+
   const handleCategoryClick = () => {
     if (onCategoryClick) {
       onCategoryClick(item.categoria)
-    } else if (categoryUrlResolver) {
-      const url = categoryUrlResolver(item.categoria)
-      navigate({ to: url })
     }
   }
 
   return (
     <div className="space-y-2">
       {/* Header com nome da categoria e valor */}
-      <div className="flex items-start justify-between text-sm gap-4">
+      <div
+        className={`flex items-start justify-between text-sm gap-4 ${isClickable ? 'cursor-pointer' : ''}`}
+        onClick={isClickable ? handleCategoryClick : undefined}
+      >
         <div className="flex items-center gap-2 flex-1">
           <span className="font-medium leading-relaxed">{item.categoria}</span>
-          {showPieChart && (
-            <span className="text-xs font-bold bg-gray-100 px-2 py-1 rounded-full text-gray-700">
-              {item.percentual}%
-            </span>
-          )}
+          <span className="text-xs font-bold bg-gray-100 px-2 py-1 rounded-full text-gray-700">
+            {item.percentual}
+          </span>
         </div>
         <div className="text-right">
           <div className="font-semibold whitespace-nowrap">
@@ -69,11 +65,14 @@ export const CategoryBarItem: React.FC<CategoryBarItemProps> = ({
       </div>
 
       {/* Sistema de barras comparativas */}
-      <div className="relative w-full bg-gray-200 rounded-full h-4">
+      <div
+        className={`relative w-full bg-muted rounded-full h-5 ring-1 ring-border ${isClickable ? 'cursor-pointer' : ''}`}
+        onClick={isClickable ? handleCategoryClick : undefined}
+      >
         {/* Barra do valor máximo (referência - fundo) */}
         {maxCategoria > 0 && (context === 'perfil-deputado' || index === 0) && (
           <div 
-            className="absolute top-0 left-0 h-4 rounded-full transition-all duration-500 border-2 border-dotted"
+            className="absolute top-0 left-0 h-5 rounded-full transition-all duration-500 border-2 border-dotted"
             style={{ 
               width: `${percentages.maximo}%`,
               backgroundColor: 'transparent',
@@ -86,7 +85,7 @@ export const CategoryBarItem: React.FC<CategoryBarItemProps> = ({
         {/* Barra da média */}
         {mediaCategoria > 0 && (
           <div 
-            className="absolute top-0 left-0 h-4 rounded-full transition-all duration-500 border-2 border-dashed"
+            className="absolute top-0 left-0 h-5 rounded-full transition-all duration-500 border-2 border-dashed"
             style={{ 
               width: `${percentages.media}%`,
               backgroundColor: 'transparent',
@@ -98,11 +97,11 @@ export const CategoryBarItem: React.FC<CategoryBarItemProps> = ({
         
         {/* Barra principal */}
         <div 
-          className="absolute top-0 left-0 h-4 rounded-full transition-all duration-500" 
+          className="absolute top-0 left-0 h-5 rounded-full shadow-sm transition-all duration-500" 
           style={{ 
             width: `${percentages.principal}%`,
-            backgroundColor: categoryColor,
-            opacity: 0.8
+            background: `linear-gradient(to right, ${categoryColor}, ${categoryColor}CC)`,
+            opacity: 0.9
           }}
         />
       </div>
@@ -151,7 +150,7 @@ export const CategoryBarItem: React.FC<CategoryBarItemProps> = ({
         )}
         
         {/* Link para categoria (fornecedores) */}
-        {context === 'fornecedores-page' && categoryUrlResolver && (
+        {context === 'fornecedores-page' && (onCategoryClick) && (
           <div 
             className="cursor-pointer hover:underline"
             onClick={handleCategoryClick}
@@ -172,7 +171,6 @@ interface CategoryBarChartProps {
   referenceData?: Record<string, import('./CategoryDistributionChart.types').ReferenceData>
   showPieChart: boolean
   onCategoryClick?: (categoria: string) => void
-  categoryUrlResolver?: (categoria: string) => string
   countLabel?: string
   showComparison?: boolean
   maxHeight?: number
@@ -184,7 +182,6 @@ export const CategoryBarChart: React.FC<CategoryBarChartProps> = ({
   referenceData,
   showPieChart,
   onCategoryClick,
-  categoryUrlResolver,
   countLabel,
   showComparison,
   maxHeight
@@ -203,7 +200,6 @@ export const CategoryBarChart: React.FC<CategoryBarChartProps> = ({
           referenceData={referenceData?.[item.categoria]}
           showPieChart={showPieChart}
           onCategoryClick={onCategoryClick}
-          categoryUrlResolver={categoryUrlResolver}
           countLabel={countLabel}
           showComparison={showComparison}
           allData={data}

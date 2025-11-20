@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220573,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220573",
+    "nome": "Dorinaldo Malafaia",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "AP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220573.jpg",
+    "email": "dep.dorinaldomalafaia@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 435232.37,
+  "quantidade_transacoes": 159,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 330000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 75.82
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 65028.7,
+      "quantidade_transacoes": 68,
+      "porcentagem_do_total": 14.94
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 20000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 4.6
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 8781.32,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 2.02
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 7097.12,
+      "quantidade_transacoes": 39,
+      "porcentagem_do_total": 1.63
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ORBE PRODUTORA & SERVIÇOS LTDA",
+      "cnpj": "49494655000152",
+      "total": 330000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 75.82
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 36135.79,
+      "quantidade_transacoes": 51,
+      "porcentagem_do_total": 8.3
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 27339.93,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 6.28
+    },
+    {
+      "nome": "PMA Serviços LTDA-EPP",
+      "cnpj": "17660658000122",
+      "total": 20000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 4.6
+    },
+    {
+      "nome": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA",
+      "cnpj": "11521613000190",
+      "total": 8207.62,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.89
+    },
+    {
+      "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597006308",
+      "total": 6997.12,
+      "quantidade_transacoes": 38,
+      "porcentagem_do_total": 1.61
+    },
+    {
+      "nome": "SERVIA O NACIONAL DE APREND. COMERCIAL",
+      "cnpj": "33469172001644",
+      "total": 1637.2,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 0.38
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 1552.98,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.36
+    },
+    {
+      "nome": "VILA GALE BRASIL - ATIVIDADES HOTELEIRAS LTDA",
+      "cnpj": "04027102000666",
+      "total": 1071.46,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.25
+    },
+    {
+      "nome": "Windsor Administração de Hotéis e Serviços Ltda",
+      "cnpj": "10348318000898",
+      "total": 983.37,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.23
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 35187.99,
+      "porcentagem_do_total": 8.08
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 39712.8,
+      "porcentagem_do_total": 9.12
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 45884.58,
+      "porcentagem_do_total": 10.54
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 45516.02,
+      "porcentagem_do_total": 10.46
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 45909.39,
+      "porcentagem_do_total": 10.55
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 48314.54,
+      "porcentagem_do_total": 11.1
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 59214.72,
+      "porcentagem_do_total": 13.61
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 40665.51,
+      "porcentagem_do_total": 9.34
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 42628.85,
+      "porcentagem_do_total": 9.79
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 32197.97,
+      "porcentagem_do_total": 7.4
+    }
+  ]
+}

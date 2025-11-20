@@ -1,0 +1,21 @@
+[
+  {
+    "id": "forn-a",
+    "nome": "Fornecedor A",
+    "documento": "123",
+    "tipo_despesa_principal": "DIVULGAÇÃO",
+    "anos": [
+      {"ano": 2023, "total": 1000.0, "numero_transacoes": 1, "numero_legisladores": 1},
+      {"ano": 2024, "total": 800.0, "numero_transacoes": 1, "numero_legisladores": 1}
+    ]
+  },
+  {
+    "id": "forn-b",
+    "nome": "Fornecedor B",
+    "documento": "456",
+    "tipo_despesa_principal": "PASSAGEM",
+    "anos": [
+      {"ano": 2023, "total": 500.0, "numero_transacoes": 1, "numero_legisladores": 1}
+    ]
+  }
+]

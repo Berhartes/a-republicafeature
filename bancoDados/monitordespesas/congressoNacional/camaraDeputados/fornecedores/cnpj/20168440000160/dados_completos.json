@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:48.556921"
+    "generatedAt": "2025-11-11T05:22:28.231712"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 427.83000000000004
@@ -25,6 +25,7 @@
         "id": 204501,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204501",
         "nome": "Alencar Santana",
+        "nomeEleitoral": "Alencar Santana",
         "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "SP",
@@ -35,25 +36,6 @@
       "total": 427.83000000000004,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7609983,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-09-17T00:00:00",
-          "numDocumento": "237278",
-          "valorDocumento": 167.83,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7609983",
-          "nomeFornecedor": "AUTO POSTO NOVO GAMA LTDA",
-          "cnpjCpfFornecedor": "20168440000160",
-          "valorLiquido": 167.83,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 6,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "AUTO POSTO NOVO GAMA LTDA",
           "cnpjCpfFornecedor": "20168440000160",
           "valorLiquido": 260.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7609983,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-17T00:00:00",
+          "numDocumento": "237278",
+          "valorDocumento": 167.83,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7609983",
+          "nomeFornecedor": "AUTO POSTO NOVO GAMA LTDA",
+          "cnpjCpfFornecedor": "20168440000160",
+          "valorLiquido": 167.83,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

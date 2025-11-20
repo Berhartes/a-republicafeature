@@ -1,0 +1,158 @@
+{
+  "deputado": {
+    "id": 220614,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220614",
+    "nome": "Dr. Daniel Soranz",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220614.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 150472.77,
+  "quantidade_transacoes": 70,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 117892.5,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 78.35
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 16075.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 10.68
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 9894.52,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 6.58
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 4521.91,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 3.01
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 1300.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.86
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "GARGANO PLANEJAMENTO EDITORIAL LTDA",
+      "cnpj": "11454313000136",
+      "total": 98840.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 65.69
+    },
+    {
+      "nome": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+      "cnpj": "13347016000117",
+      "total": 19052.5,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 12.66
+    },
+    {
+      "nome": "LOCADORA QUALITY SHIELD CARS LTDA",
+      "cnpj": "51186865000125",
+      "total": 16075.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 10.68
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 11943.82,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 7.94
+    },
+    {
+      "nome": "HOTEL DOMINGUEZ MASTER MIRADOR",
+      "cnpj": "32335978000109",
+      "total": 1300.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.86
+    },
+    {
+      "nome": "AUTO POSTO AVENIDA CENTRAL DE IRAJA LTDA",
+      "cnpj": "04939334000186",
+      "total": 461.64,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.31
+    },
+    {
+      "nome": "POSTO DE GASOLINA JOCKEY RIO LTDA",
+      "cnpj": "01315468000138",
+      "total": 446.2,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.3
+    },
+    {
+      "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpj": "17895646000187",
+      "total": 443.43,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 0.29
+    },
+    {
+      "nome": "POSTO RFD LTDA",
+      "cnpj": "03996678000164",
+      "total": 420.01,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.28
+    },
+    {
+      "nome": "POSTO JARDIM OCEANICO LTDA",
+      "cnpj": "03317678000190",
+      "total": 307.78,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.2
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 8030.83,
+      "porcentagem_do_total": 5.34
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 5491.09,
+      "porcentagem_do_total": 3.65
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": -5752.78,
+      "porcentagem_do_total": -3.82
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 16095.52,
+      "porcentagem_do_total": 10.7
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 7245.66,
+      "porcentagem_do_total": 4.82
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 119362.45,
+      "porcentagem_do_total": 79.32
+    }
+  ]
+}

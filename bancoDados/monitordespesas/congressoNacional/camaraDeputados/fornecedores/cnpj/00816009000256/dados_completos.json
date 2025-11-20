@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:46.710925"
+    "generatedAt": "2025-11-11T05:22:05.168947"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 843.4200000000001
@@ -30,6 +30,7 @@
         "id": 220593,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
         "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "MT",
@@ -61,25 +62,6 @@
         },
         {
           "ano": 2024,
-          "mes": 11,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7837922,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-27T10:20:52",
-          "numDocumento": "232822",
-          "valorDocumento": 488.87,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7837922",
-          "nomeFornecedor": "AUTO POSTO DRACENA LTDA",
-          "cnpjCpfFornecedor": "00816009000256",
-          "valorLiquido": 488.87,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
           "mes": 7,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7773481,
@@ -92,6 +74,25 @@
           "nomeFornecedor": "AUTO POSTO DRACENA LTDA",
           "cnpjCpfFornecedor": "00816009000256",
           "valorLiquido": 199.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7837922,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-27T10:20:52",
+          "numDocumento": "232822",
+          "valorDocumento": 488.87,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7837922",
+          "nomeFornecedor": "AUTO POSTO DRACENA LTDA",
+          "cnpjCpfFornecedor": "00816009000256",
+          "valorLiquido": 488.87,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

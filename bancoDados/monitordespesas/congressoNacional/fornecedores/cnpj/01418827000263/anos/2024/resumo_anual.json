@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "REDE DE POSTOS SANTA MARIA LTDA (POSTO XV)",
+      "cnpj": "01418827000263",
+      "total_recebido": 1164.37,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 431.77,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-05-20T18:54:42",
+    "periodo_fim": "2024-08-03T09:16:16",
+    "generatedAt": "2025-11-11T21:37:54.602489"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 431.77,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 431.77,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 159.77,
+      "porcentagem_do_total": 37.0
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 272.0,
+      "porcentagem_do_total": 63.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7740441,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-05-20T18:54:42",
+      "numDocumento": "3251",
+      "valorDocumento": 159.77,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7740441",
+      "nomeFornecedor": "REDE DE POSTOS SANTA MARIA LTDA (POSTO XV)",
+      "cnpjCpfFornecedor": "01418827000263",
+      "valorLiquido": 159.77,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2041982,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7779769,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-08-03T09:16:16",
+      "numDocumento": "3990",
+      "valorDocumento": 272.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7779769",
+      "nomeFornecedor": "REDE DE POSTOS SANTA MARIA LTDA (POSTO XV)",
+      "cnpjCpfFornecedor": "01418827000263",
+      "valorLiquido": 272.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2062315,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "REDE DE POSTOS ALMEIDA BR LTDA",
+      "nome": "POSTO ALMEIDA",
       "cnpj": "50202656000165",
       "total_recebido": 1242.0900000000001,
       "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:30.473063"
+    "generatedAt": "2025-11-11T05:22:22.379396"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 1242.0900000000001
@@ -30,6 +30,7 @@
         "id": 204495,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204495",
         "nome": "Airton Faleiro",
+        "nomeEleitoral": "Airton Faleiro",
         "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "PA",
@@ -42,18 +43,18 @@
       "despesas": [
         {
           "ano": 2024,
-          "mes": 10,
+          "mes": 4,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7819380,
+          "codDocumento": 7739779,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-10-11T14:16:33",
-          "numDocumento": "108391",
-          "valorDocumento": 200.02,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7819380",
-          "nomeFornecedor": "REDE DE POSTOS ALMEIDA BR LTDA",
+          "dataDocumento": "2024-04-03T00:00:00",
+          "numDocumento": "68167",
+          "valorDocumento": 289.6,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3406/2024/7739779.pdf",
+          "nomeFornecedor": "POSTO ALMEIDA",
           "cnpjCpfFornecedor": "50202656000165",
-          "valorLiquido": 200.02,
+          "valorLiquido": 289.6,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -80,18 +81,18 @@
         },
         {
           "ano": 2024,
-          "mes": 4,
+          "mes": 10,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7739779,
+          "codDocumento": 7819380,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-04-03T00:00:00",
-          "numDocumento": "68167",
-          "valorDocumento": 289.6,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3406/2024/7739779.pdf",
-          "nomeFornecedor": "POSTO ALMEIDA",
+          "dataDocumento": "2024-10-11T14:16:33",
+          "numDocumento": "108391",
+          "valorDocumento": 200.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7819380",
+          "nomeFornecedor": "REDE DE POSTOS ALMEIDA BR LTDA",
           "cnpjCpfFornecedor": "50202656000165",
-          "valorLiquido": 289.6,
+          "valorLiquido": 200.02,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

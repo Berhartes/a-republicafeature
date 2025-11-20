@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CANDOI COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "15358516000180",
+      "total_recebido": 1138.73,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:27.503254"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1138.73
+  },
+  "anos": {
+    "2023": {
+      "total": 437.49,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 506.20000000000005,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 195.04,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178927": {
+      "deputado": {
+        "id": 178927,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
+        "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
+        "siglaPartido": "PV",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+        "email": "dep.alielmachado@camara.leg.br"
+      },
+      "total": 1138.73,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7610740,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-18T00:00:00",
+          "numDocumento": "371248",
+          "valorDocumento": 266.98,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7610740",
+          "nomeFornecedor": "CANDOI COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "15358516000180",
+          "valorLiquido": 266.98,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7634652,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-21T00:00:00",
+          "numDocumento": "385708",
+          "valorDocumento": 170.51,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7634652",
+          "nomeFornecedor": "CANDOI COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "15358516000180",
+          "valorLiquido": 170.51,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7738724,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-01T00:00:00",
+          "numDocumento": "473646",
+          "valorDocumento": 190.35,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7738724",
+          "nomeFornecedor": "CANDOI COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "15358516000180",
+          "valorLiquido": 190.35,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7783013,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-19T11:38:51",
+          "numDocumento": "508439",
+          "valorDocumento": 315.85,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7783013",
+          "nomeFornecedor": "CANDOI COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "15358516000180",
+          "valorLiquido": 315.85,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7972733,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-27T00:00:00",
+          "numDocumento": "30462",
+          "valorDocumento": 195.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7972733",
+          "nomeFornecedor": "CANDOI COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "15358516000180",
+          "valorLiquido": 195.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

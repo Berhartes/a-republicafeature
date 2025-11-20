@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.338906"
+    "generatedAt": "2025-11-11T05:22:13.299332"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 806.1600000000001
@@ -30,6 +30,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -61,25 +62,6 @@
         },
         {
           "ano": 2025,
-          "mes": 10,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7994720,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-10-04T18:36:32",
-          "numDocumento": "781109",
-          "valorDocumento": 308.94,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7994720",
-          "nomeFornecedor": "CRUZ E CRUZ COMERCIO DE COMBUSTIVEIS LTDA",
-          "cnpjCpfFornecedor": "04006471000168",
-          "valorLiquido": 308.94,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
           "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7967642,
@@ -92,6 +74,25 @@
           "nomeFornecedor": "CRUZ E CRUZ COMERCIO DE COMBUSTIVEIS LTDA",
           "cnpjCpfFornecedor": "04006471000168",
           "valorLiquido": 367.22,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7994720,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-04T18:36:32",
+          "numDocumento": "781109",
+          "valorDocumento": 308.94,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7994720",
+          "nomeFornecedor": "CRUZ E CRUZ COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "04006471000168",
+          "valorLiquido": 308.94,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

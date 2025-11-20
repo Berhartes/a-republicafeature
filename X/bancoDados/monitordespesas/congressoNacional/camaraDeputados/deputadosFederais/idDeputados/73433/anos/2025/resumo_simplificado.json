@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 73433,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73433",
+    "nome": "Arlindo Chinaglia",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73433.jpg",
+    "email": "dep.arlindochinaglia@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 180683.9,
+  "quantidade_transacoes": 282,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 50854.28,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 28.15
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 25976.75,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 14.38
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - RPA",
+      "total": 22694.63,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 12.56
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 21220.09,
+      "quantidade_transacoes": 98,
+      "porcentagem_do_total": 11.74
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 17574.36,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 9.73
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "VENERÁVEL ORDEM TERCEIRA SÃO FRANCISCO DA PENITENCIA DA CIDADE SP",
+      "cnpj": "62799150000164",
+      "total": 36178.81,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 20.02
+    },
+    {
+      "nome": "Cia Aérea - TAM",
+      "cnpj": "02012862000160",
+      "total": 22694.63,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 12.56
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 16927.6,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 9.37
+    },
+    {
+      "nome": "INVESTCAR VEICULOS LTDA",
+      "cnpj": "01615224000170",
+      "total": 16000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 8.86
+    },
+    {
+      "nome": "TELEFÔNICA BRASIL S/A - VIVO",
+      "cnpj": "02558157000162",
+      "total": 9835.81,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 5.44
+    },
+    {
+      "nome": "LEAK AGENCIA DE NOTICIAS E DADOS LTDA ME",
+      "cnpj": "24651612000102",
+      "total": 7720.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.27
+    },
+    {
+      "nome": "ALOC LOCAÇÃO E COMERCIO DE EQUIPAMENTOS DE INFORMÁTICA EIRELI - EPP",
+      "cnpj": "07071575000144",
+      "total": 7700.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 4.26
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 7571.52,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 4.19
+    },
+    {
+      "nome": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
+      "cnpj": "04088208000165",
+      "total": 7409.55,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 4.1
+    },
+    {
+      "nome": "VIVO TELEFONIA BRASIL S/A",
+      "cnpj": "02558157000162",
+      "total": 4771.72,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 2.64
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 18481.19,
+      "porcentagem_do_total": 10.23
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 16767.38,
+      "porcentagem_do_total": 9.28
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 23679.78,
+      "porcentagem_do_total": 13.11
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 25780.03,
+      "porcentagem_do_total": 14.27
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 22927.04,
+      "porcentagem_do_total": 12.69
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 14823.46,
+      "porcentagem_do_total": 8.2
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 22009.69,
+      "porcentagem_do_total": 12.18
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 12377.16,
+      "porcentagem_do_total": 6.85
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 15277.11,
+      "porcentagem_do_total": 8.46
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 8561.06,
+      "porcentagem_do_total": 4.74
+    }
+  ]
+}

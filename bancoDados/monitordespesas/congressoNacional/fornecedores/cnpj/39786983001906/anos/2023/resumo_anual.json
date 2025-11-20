@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GODRIVE",
+      "cnpj": "39786983001906",
+      "total_recebido": 41690.0,
+      "numero_transacoes": 11,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 34110.0,
+    "quantidade_transacoes": 9,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-04-07T00:00:00",
+    "periodo_fim": "2023-12-07T00:00:00",
+    "generatedAt": "2025-11-11T21:37:55.462482"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 34110.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 34110.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 3790.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 3790.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 3790.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 3790.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 3790.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 3790.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 3790.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 3790.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 3790.0,
+      "porcentagem_do_total": 11.11
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 8,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7589874,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-08-07T00:00:00",
+      "numDocumento": "s/n",
+      "valorDocumento": 3790.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7589874.pdf",
+      "nomeFornecedor": "GODRIVE",
+      "cnpjCpfFornecedor": "39786983001906",
+      "valorLiquido": 3790.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1958472,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7538999,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-05-07T00:00:00",
+      "numDocumento": "SN",
+      "valorDocumento": 3790.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7538999.pdf",
+      "nomeFornecedor": "VD COMERCIO DE VEICULOS LTDA",
+      "cnpjCpfFornecedor": "39786983001906",
+      "valorLiquido": 3790.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1931410,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7609868,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-09-07T00:00:00",
+      "numDocumento": "01",
+      "valorDocumento": 3790.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7609868.pdf",
+      "nomeFornecedor": "VD COMERCIO DE VEICULOS LTDA - DF",
+      "cnpjCpfFornecedor": "39786983001906",
+      "valorLiquido": 3790.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1969114,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 4,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7529216,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-04-07T00:00:00",
+      "numDocumento": "s/n",
+      "valorDocumento": 3790.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7529216.pdf",
+      "nomeFornecedor": "VD COMERCIO DE VEICULOS LTDA - DF",
+      "cnpjCpfFornecedor": "39786983001906",
+      "valorLiquido": 3790.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1925605,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7558211,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-06-07T00:00:00",
+      "numDocumento": "s/n",
+      "valorDocumento": 3790.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7558211.pdf",
+      "nomeFornecedor": "VD COMERCIO DE VEICULOS LTDA - DF",
+      "cnpjCpfFornecedor": "39786983001906",
+      "valorLiquido": 3790.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1941731,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 7,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7575062,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-07-07T00:00:00",
+      "numDocumento": "s/n",
+      "valorDocumento": 3790.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7575062.pdf",
+      "nomeFornecedor": "VD COMERCIO DE VEICULOS LTDA - DF",
+      "cnpjCpfFornecedor": "39786983001906",
+      "valorLiquido": 3790.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1951025,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 10,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7627441,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-10-07T00:00:00",
+      "numDocumento": "s/n",
+      "valorDocumento": 3790.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7627441.pdf",
+      "nomeFornecedor": "VD COMERCIO DE VEICULOS LTDA - DF",
+      "cnpjCpfFornecedor": "39786983001906",
+      "valorLiquido": 3790.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1979128,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7642597,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-11-07T00:00:00",
+      "numDocumento": "s/n",
+      "valorDocumento": 3790.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7642597.pdf",
+      "nomeFornecedor": "VD COMERCIO DE VEICULOS LTDA - DF",
+      "cnpjCpfFornecedor": "39786983001906",
+      "valorLiquido": 3790.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1987784,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7662916,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-12-07T00:00:00",
+      "numDocumento": "sn",
+      "valorDocumento": 3790.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7662916.pdf",
+      "nomeFornecedor": "VD COMERCIO DE VEICULOS LTDA - DF",
+      "cnpjCpfFornecedor": "39786983001906",
+      "valorLiquido": 3790.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1999166,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

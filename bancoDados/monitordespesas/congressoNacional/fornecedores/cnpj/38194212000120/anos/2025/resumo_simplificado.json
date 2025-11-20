@@ -1,0 +1,97 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO 303 NORTE LTDA",
+    "cnpj": "38194212000120",
+    "total_recebido": 73140.10999999996,
+    "numero_transacoes": 251,
+    "numero_deputados": 2
+  },
+  "ano": 2025,
+  "total_recebido": 22081.49,
+  "quantidade_transacoes": 69,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 16800.05,
+      "quantidade_transacoes": 53,
+      "porcentagem_do_total": 76.08
+    },
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 5281.44,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 23.92
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 22081.49,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 2521.9,
+      "porcentagem_do_total": 11.42
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 2693.37,
+      "porcentagem_do_total": 12.2
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 3400.52,
+      "porcentagem_do_total": 15.4
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 1958.52,
+      "porcentagem_do_total": 8.87
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 1277.4,
+      "porcentagem_do_total": 5.78
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 2931.31,
+      "porcentagem_do_total": 13.27
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 999.6,
+      "porcentagem_do_total": 4.53
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 1869.27,
+      "porcentagem_do_total": 8.47
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 2113.14,
+      "porcentagem_do_total": 9.57
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 2316.46,
+      "porcentagem_do_total": 10.49
+    }
+  ]
+}

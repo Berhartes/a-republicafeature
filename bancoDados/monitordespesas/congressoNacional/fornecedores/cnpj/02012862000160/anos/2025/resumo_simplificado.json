@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "Latam Linhas Aéreas S.A",
+    "cnpj": "02012862000160",
+    "total_recebido": 26011.180000000004,
+    "numero_transacoes": 13,
+    "numero_deputados": 3
+  },
+  "ano": 2025,
+  "total_recebido": 3780.92,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 3780.92,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - RPA",
+      "total": 3780.92,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 3780.92,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SIM REDE DE POSTOS LTDA - POA ECOPOSTO",
+      "cnpj": "07473735009561",
+      "total_recebido": 449.21,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:13.307997"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 449.21
+  },
+  "anos": {
+    "2023": {
+      "total": 449.21,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178835": {
+      "deputado": {
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
+      },
+      "total": 449.21,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7626775,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-16T00:00:00",
+          "numDocumento": "3230473",
+          "valorDocumento": 120.46,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7626775",
+          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - POA ECOPOSTO",
+          "cnpjCpfFornecedor": "07473735009561",
+          "valorLiquido": 120.46,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7633993,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-30T00:00:00",
+          "numDocumento": "3254228",
+          "valorDocumento": 123.25,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7633993",
+          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - POA ECOPOSTO",
+          "cnpjCpfFornecedor": "07473735009561",
+          "valorLiquido": 123.25,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7645168,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-10T00:00:00",
+          "numDocumento": "3272489",
+          "valorDocumento": 205.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7645168",
+          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - POA ECOPOSTO",
+          "cnpjCpfFornecedor": "07473735009561",
+          "valorLiquido": 205.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

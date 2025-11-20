@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "COOPERATIVA MISTA DE MOTORISTAS AUTONOMOS DE SALVADOR - TAXI COMTAS",
       "cnpj": "14459051000190",
-      "total_recebido": 140.0,
+      "total_recebido": 163.55,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:57:46.948367"
+    "generatedAt": "2025-11-11T05:22:39.980684"
   },
   "categorias": {
-    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 140.0
+    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 163.55
   },
   "anos": {
-    "2023": {
-      "total": 140.0,
+    "2024": {
+      "total": 163.55,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "73701": {
+    "74057": {
       "deputado": {
-        "id": 73701,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73701",
-        "nome": "Benedita da Silva",
-        "siglaPartido": "PT",
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
         "uriPartido": "",
-        "siglaUf": "RJ",
+        "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73701.jpg",
-        "email": "dep.beneditadasilva@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
       },
-      "total": 140.0,
+      "total": 163.55,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 5,
+          "ano": 2024,
+          "mes": 6,
           "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
-          "codDocumento": 7548458,
+          "codDocumento": 7757226,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-05-12T00:00:00",
-          "numDocumento": "762195",
-          "valorDocumento": 140.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/188/2023/7548458.pdf",
+          "dataDocumento": "2024-06-08T00:00:00",
+          "numDocumento": "0158433646",
+          "valorDocumento": 163.55,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1531/2024/7757226.pdf",
           "nomeFornecedor": "COOPERATIVA MISTA DE MOTORISTAS AUTONOMOS DE SALVADOR - TAXI COMTAS",
           "cnpjCpfFornecedor": "14459051000190",
-          "valorLiquido": 140.0,
+          "valorLiquido": 163.55,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

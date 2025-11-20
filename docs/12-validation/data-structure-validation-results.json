@@ -1,0 +1,117 @@
+{
+  "bancoDados": {
+    "deputadosJson": {
+      "hasNomeEleitoral": true,
+      "hasSiglaPartido": true,
+      "sampleData": {
+        "id": 220542,
+        "nome": "Alexandre Guimarães",
+        "nome_eleitoral": "Alexandre Guimarães",
+        "partido": "MDB",
+        "sigla_partido": "MDB",
+        "uf": "TO",
+        "sigla_uf": "TO",
+        "total_despesas": 2978020.32,
+        "numero_despesas": 1868,
+        "fornecedores_identificados": 184,
+        "nomeEleitoral": "Alexandre Guimarães",
+        "siglaPartido": "MDB",
+        "siglaUf": "TO",
+        "totalDespesas": 2978020.32,
+        "numeroDespesas": 1868,
+        "fornecedoresIdentificados": 184
+      },
+      "totalRecords": 23
+    },
+    "deputadosFederaisJson": {
+      "hasNomeEleitoral": true,
+      "hasSiglaPartido": true,
+      "sampleData": {
+        "id": 220542,
+        "nome": "Alexandre Guimarães",
+        "nome_eleitoral": "Alexandre Guimarães",
+        "partido": "MDB",
+        "sigla_partido": "MDB",
+        "uf": "TO",
+        "sigla_uf": "TO",
+        "total_despesas": 2978020.32,
+        "numero_despesas": 1868,
+        "fornecedores_identificados": 184,
+        "nomeEleitoral": "Alexandre Guimarães",
+        "siglaPartido": "MDB",
+        "siglaUf": "TO",
+        "totalDespesas": 2978020.32,
+        "numeroDespesas": 1868,
+        "fornecedoresIdentificados": 184
+      },
+      "totalRecords": 23
+    },
+    "individualDeputyFiles": {
+      "hasNomeEleitoral": true,
+      "hasSiglaPartido": true,
+      "sampleData": {
+        "id": 121948,
+        "nome": "Adriano do Baldy",
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br",
+        "nomeEleitoral": "Adriano do Baldy",
+        "siglaPartido": "PP",
+        "siglaUf": "GO",
+        "totalDespesas": 1098261.83,
+        "numeroDespesas": 1200,
+        "legislatura": 57
+      },
+      "checkedFiles": 3
+    },
+    "sqliteDatabase": {
+      "hasNomeEleitoral": true,
+      "hasSiglaPartido": true,
+      "sampleData": "220542|Alexandre Guimarães|Alexandre Guimarães|MDB|MDB|TO|TO|1486452.44|937|98|2025-11-02T02:14:21.554566Z",
+      "schema": "CREATE TABLE deputados (\r\n            id TEXT PRIMARY KEY,\r\n            nome TEXT NOT NULL,\r\n            nome_eleitoral TEXT,\r\n            partido TEXT,\r\n            sigla_partido TEXT,\r\n            uf TEXT,\r\n            sigla_uf TEXT,\r\n            total_despesas REAL,\r\n            numero_despesas INTEGER,\r\n            fornecedores_identificados INTEGER,\r\n            created_at TEXT\r\n        );"
+    }
+  },
+  "frontendCache": {
+    "deputiesCache": {
+      "hasNomeEleitoral": true,
+      "hasSiglaPartido": true,
+      "sampleData": {
+        "id": "220542",
+        "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
+        "nomeCivil": null,
+        "partido": "MDB",
+        "siglaPartido": "MDB",
+        "uf": "TO",
+        "siglaUf": "TO",
+        "foto": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
+        "totalDespesas": 1486452.4400000002,
+        "numeroDespesas": 937,
+        "fornecedoresIdentificados": 98,
+        "gastosPorAno": {},
+        "transacoesPorAno": {},
+        "topCategorias": [],
+        "topFornecedores": [],
+        "topTransacoes": [],
+        "totalTransacoesDetalhadas": 0,
+        "dadosCompletos": false,
+        "createdAt": "2025-11-02T02:14:21.554566Z"
+      },
+      "totalRecords": 23,
+      "metadata": {
+        "generatedAt": "2025-11-02T02:14:21Z",
+        "source": "etlpython-materialize",
+        "arquivoFonte": "deputados.json",
+        "version": "2025-11-01",
+        "legislatura": 57,
+        "totalDeputados": 23
+      }
+    }
+  },
+  "summary": {
+    "dataIntegrityIssues": [],
+    "recommendations": [
+      "✅ All data files contain enhanced deputy information (nomeEleitoral and siglaPartido)"
+    ]
+  }
+}

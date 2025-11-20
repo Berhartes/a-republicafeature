@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+    "cnpj": "09001879001051",
+    "total_recebido": 346.90000000000003,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 346.9,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 346.9,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 346.9,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 127.29,
+      "porcentagem_do_total": 36.69
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 219.61,
+      "porcentagem_do_total": 63.31
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "fornecedor": {
+    "nome": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+    "cnpj": "32590257000137",
+    "total_recebido": 1705.2600000000002,
+    "numero_transacoes": 12,
+    "numero_deputados": 4
+  },
+  "ano": 2024,
+  "total_recebido": 495.84,
+  "quantidade_transacoes": 3,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 295.84,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 59.66
+    },
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 200.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 40.34
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 495.84,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 100.0,
+      "porcentagem_do_total": 20.17
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 395.84,
+      "porcentagem_do_total": 79.83
+    }
+  ]
+}

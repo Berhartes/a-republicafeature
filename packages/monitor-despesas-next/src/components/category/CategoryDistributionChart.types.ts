@@ -47,7 +47,6 @@ export interface CategoryDistributionChartProps {
   referenceData?: Record<string, ReferenceData>
   
   onCategoryClick?: (categoria: string) => void
-  categoryUrlResolver?: (categoria: string) => string
   
   countLabel?: string // "fornecedores" | "transações"
   showAverage?: boolean
@@ -58,6 +57,12 @@ export interface CategoryDistributionChartProps {
   
   emptyMessage?: string
   loadingMessage?: string
+
+  /**
+   * Layout simplificado (legado): sem Card/Legend/Header internos.
+   * Útil para páginas antigas em /gastos que já gerenciam layout externo.
+   */
+  useSimpleLayout?: boolean
 }
 
 export interface CategoryBarItemProps {
@@ -67,7 +72,6 @@ export interface CategoryBarItemProps {
   referenceData?: ReferenceData
   showPieChart: boolean
   onCategoryClick?: (categoria: string) => void
-  categoryUrlResolver?: (categoria: string) => string
   countLabel?: string
   showComparison?: boolean
   allData: CategoryData[] // Para cálculos de referência

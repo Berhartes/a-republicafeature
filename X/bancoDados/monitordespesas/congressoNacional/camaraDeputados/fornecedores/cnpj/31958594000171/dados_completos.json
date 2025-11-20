@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "TAWLE SERVIÇOS, TURISMO E LOCADORA",
+      "cnpj": "31958594000171",
+      "total_recebido": 2250.15,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:31.123672"
+  },
+  "categorias": {
+    "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 2250.15
+  },
+  "anos": {
+    "2024": {
+      "total": 2250.15,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178881": {
+      "deputado": {
+        "id": 178881,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178881",
+        "nome": "Aluisio Mendes",
+        "nomeEleitoral": "Aluisio Mendes",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
+        "email": "dep.aluisiomendes@camara.leg.br"
+      },
+      "total": 2250.15,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7885258,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-31T00:00:00",
+          "numDocumento": "001910",
+          "valorDocumento": 2250.15,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2999/2025/7885258.pdf",
+          "nomeFornecedor": "TAWLE SERVIÇOS, TURISMO E LOCADORA",
+          "cnpjCpfFornecedor": "31958594000171",
+          "valorLiquido": 2250.15,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 204462,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204462",
+    "nome": "Chris Tonietto",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204462.jpg",
+    "email": "dep.christonietto@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 237998.42,
+  "quantidade_transacoes": 609,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 118105.86,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 49.62
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 50195.69,
+      "quantidade_transacoes": 50,
+      "porcentagem_do_total": 21.09
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 25815.52,
+      "quantidade_transacoes": 138,
+      "porcentagem_do_total": 10.85
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 20787.29,
+      "quantidade_transacoes": 38,
+      "porcentagem_do_total": 8.73
+    },
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 17977.68,
+      "quantidade_transacoes": 341,
+      "porcentagem_do_total": 7.55
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "SERV RIO TERCEIRIZAÇÃO E SERVIÇOS",
+      "cnpj": "10479861000158",
+      "total": 68911.32,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 28.95
+    },
+    {
+      "nome": "NEOLOC - NEO TECNOLOGIA DA INFORMATICA EIRELI",
+      "cnpj": "07366296000108",
+      "total": 36813.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 15.47
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 34160.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 14.35
+    },
+    {
+      "nome": "Localiza Rent a Car S. A.",
+      "cnpj": "16670085069279",
+      "total": 16504.52,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 6.93
+    },
+    {
+      "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpj": "17895646000187",
+      "total": 14133.53,
+      "quantidade_transacoes": 305,
+      "porcentagem_do_total": 5.94
+    },
+    {
+      "nome": "M L ADMINISTRACAO DE IMOVEIS LTDA",
+      "cnpj": "30262257000182",
+      "total": 6368.72,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 2.68
+    },
+    {
+      "nome": "51.309.439 MICHELE GIOVANI SARNAGLIA",
+      "cnpj": "51309439000131",
+      "total": 4880.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 2.05
+    },
+    {
+      "nome": "AUTO POSTO NOVO AMERICAS LTDA",
+      "cnpj": "29035826000178",
+      "total": 3031.87,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 1.27
+    },
+    {
+      "nome": "Gol Linhas Aereas S.A.",
+      "cnpj": "07575651000159",
+      "total": 2968.85,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.25
+    },
+    {
+      "nome": "POSTO DE GASOLINA TIMBOZAO III LTDA",
+      "cnpj": "32179707000101",
+      "total": 2633.99,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 1.11
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 9627.45,
+      "porcentagem_do_total": 4.05
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 12651.62,
+      "porcentagem_do_total": 5.32
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 16103.63,
+      "porcentagem_do_total": 6.77
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 21319.45,
+      "porcentagem_do_total": 8.96
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 17770.68,
+      "porcentagem_do_total": 7.47
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 20187.85,
+      "porcentagem_do_total": 8.48
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 19095.08,
+      "porcentagem_do_total": 8.02
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 23464.72,
+      "porcentagem_do_total": 9.86
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 26184.27,
+      "porcentagem_do_total": 11.0
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 22446.75,
+      "porcentagem_do_total": 9.43
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 23977.58,
+      "porcentagem_do_total": 10.07
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 25169.34,
+      "porcentagem_do_total": 10.58
+    }
+  ]
+}

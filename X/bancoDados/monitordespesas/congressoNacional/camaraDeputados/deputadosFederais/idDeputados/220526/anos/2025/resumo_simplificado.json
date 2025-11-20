@@ -1,0 +1,158 @@
+{
+  "deputado": {
+    "id": 220526,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+    "nome": "Gilvan da Federal",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "ES",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+    "email": "dep.gilvandafederal@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 37232.07,
+  "quantidade_transacoes": 85,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 25304.39,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 67.96
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 11927.68,
+      "quantidade_transacoes": 71,
+      "porcentagem_do_total": 32.04
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Guerrero imóveis",
+      "cnpj": "17555579000151",
+      "total": 23828.29,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 64.0
+    },
+    {
+      "nome": "071 - LAGO NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597007100",
+      "total": 2194.19,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 5.89
+    },
+    {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+      "cnpj": "12132854000100",
+      "total": 1476.1,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.96
+    },
+    {
+      "nome": "AUTO POSTO JURACI JUNIOR LTDA",
+      "cnpj": "09373967000193",
+      "total": 1350.01,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.63
+    },
+    {
+      "nome": "CEU 070 COMBUSTIVEIS LTDA",
+      "cnpj": "00976256000139",
+      "total": 900.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 2.42
+    },
+    {
+      "nome": "AUTO SERVICO GASVIX LTDA",
+      "cnpj": "05684518000105",
+      "total": 737.54,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.98
+    },
+    {
+      "nome": "AUTO POSTO PIUMA EIRELI",
+      "cnpj": "09662926000117",
+      "total": 701.04,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.88
+    },
+    {
+      "nome": "BRAX COMBUSTIVEIS LTDA",
+      "cnpj": "08971375000100",
+      "total": 695.02,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.87
+    },
+    {
+      "nome": "AUTO POSTO DF 180 LTDA - FILIAL",
+      "cnpj": "07347238000218",
+      "total": 600.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.61
+    },
+    {
+      "nome": "BOA ESPERANCA COM. DE COMB. LTDA",
+      "cnpj": "05863148000173",
+      "total": 528.03,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.42
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 1667.13,
+      "porcentagem_do_total": 4.48
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 1300.08,
+      "porcentagem_do_total": 3.49
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 6788.99,
+      "porcentagem_do_total": 18.23
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 5718.2,
+      "porcentagem_do_total": 15.36
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 150.0,
+      "porcentagem_do_total": 0.4
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 7319.98,
+      "porcentagem_do_total": 19.66
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 7786.86,
+      "porcentagem_do_total": 20.91
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 6350.83,
+      "porcentagem_do_total": 17.06
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 150.0,
+      "porcentagem_do_total": 0.4
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "metadata": {
+    "generatedAt": "2025-10-10T01:51:13.452Z",
+    "source": "local-database",
+    "arquivoFonte": "estrutura-hierarquica",
+    "version": "2.0.0",
+    "totalFornecedores": 206,
+    "totalDeputados": 1,
+    "valorTotalGeral": 664597.03,
+    "periodoAnalise": {
+      "arquivo": "estrutura-hierarquica",
+      "geradoEm": "2025-10-10"
+    }
+  },
+  "data": {
+    "estatisticas": {
+      "totalFornecedores": 206,
+      "fornecedoresComCNPJ": 206,
+      "valorTotalGeral": 664597.03,
+      "deputadosUnicos": 1,
+      "mediaTransacoesPorFornecedor": 4,
+      "ticketMedio": 746.7382359550562
+    },
+    "resumos": {
+      "top10": [
+        {
+          "cnpj": "07319323000191",
+          "nome": "PANTANAL VEÍCULOS LTDA",
+          "totalTransacionado": 146600,
+          "totalRecebido": 146600,
+          "transacoes": 34,
+          "numeroTransacoes": 34,
+          "deputadosAtendidos": [
+            {
+              "id": "220593",
+              "nomeEleitoral": "Abilio Brunini",
+              "nomeCivil": "Abilio Brunini",
+              "siglaPartido": "PL",
+              "siglaUf": "MT",
+              "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+            }
+          ],
+          "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "categorias": [
+            "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+          ],
+          "categoriasOriginais": [
+            "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+          ],
+          "categoriaOriginal": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "distribuicaoTipos": {
+            "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": {
+              "valor": 146600,
+              "quantidade": 34
+            }
+          },
+          "distribuicaoTiposOriginais": {
+            "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": {
+              "valor": 146600,
+              "quantidade": 34
+            }
+          },
+          "numeroDeputadosAtendidos": 1,
+          "categoriasInfo": {
+            "principal": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+            "normalizadas": [
+              "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+            ],
+            "principalOriginal": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+            "originais": [
+              "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+            ]
+          },
+          "scoreSuspeicao": 79.53524423623521
+        },
+        {
+          "cnpj": "12291615000101",
+          "nome": "VYP GESTÃO DE NEGÓCIOS IMOBILIARIOS LTDA",
+          "totalTransacionado": 99840,
+          "totalRecebido": 99840,
+          "transacoes": 12,
+          "numeroTransacoes": 12,
+          "deputadosAtendidos": [
+            {
+              "id": "220593",
+              "nomeEleitoral": "Abilio Brunini",
+              "nomeCivil": "Abilio Brunini",
+              "siglaPartido": "PL",
+              "siglaUf": "MT",
+              "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+            }
+          ],
+          "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "categorias": [
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+          ],
+          "categoriasOriginais": [
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+          ],
+          "categoriaOriginal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "distribuicaoTipos": {
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+              "valor": 99840,
+              "quantidade": 12
+            }
+          },
+          "distribuicaoTiposOriginais": {
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+              "valor": 99840,
+              "quantidade": 12
+            }
+          },
+          "numeroDeputadosAtendidos": 1,
+          "categoriasInfo": {
+            "principal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "normalizadas": [
+              "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+            ],
+            "principalOriginal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "originais": [
+              "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+            ]
+          },
+          "scoreSuspeicao": 48.8346373028338
+        },
+        {
+          "cnpj": "39786983001906",
+          "nome": "GODRIVE",
+          "totalTransacionado": 41690,
+          "totalRecebido": 41690,
+          "transacoes": 11,
+          "numeroTransacoes": 11,
+          "deputadosAtendidos": [
+            {
+              "id": "220593",
+              "nomeEleitoral": "Abilio Brunini",
+              "nomeCivil": "Abilio Brunini",
+              "siglaPartido": "PL",
+              "siglaUf": "MT",
+              "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+            }
+          ],
+          "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "categorias": [
+            "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+          ],
+          "categoriasOriginais": [
+            "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+          ],
+          "categoriaOriginal": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "distribuicaoTipos": {
+            "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": {
+              "valor": 41690,
+              "quantidade": 11
+            }
+          },
+          "distribuicaoTiposOriginais": {
+            "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": {
+              "valor": 41690,
+              "quantidade": 11
+            }
+          },
+          "numeroDeputadosAtendidos": 1,
+          "categoriasInfo": {
+            "principal": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+            "normalizadas": [
+              "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+            ],
+            "principalOriginal": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+            "originais": [
+              "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+            ]
+          },
+          "scoreSuspeicao": 45.106665439892836
+        },
+        {
+          "cnpj": "42738198000155",
+          "nome": "PAOLA DE ARRUDA FURTADO 03844866140",
+          "totalTransacionado": 37200,
+          "totalRecebido": 37200,
+          "transacoes": 6,
+          "numeroTransacoes": 6,
+          "deputadosAtendidos": [
+            {
+              "id": "220593",
+              "nomeEleitoral": "Abilio Brunini",
+              "nomeCivil": "Abilio Brunini",
+              "siglaPartido": "PL",
+              "siglaUf": "MT",
+              "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+            }
+          ],
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "categorias": [
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+          ],
+          "categoriasOriginais": [
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+          ],
+          "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "distribuicaoTipos": {
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+              "valor": 37200,
+              "quantidade": 6
+            }
+          },
+          "distribuicaoTiposOriginais": {
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+              "valor": 37200,
+              "quantidade": 6
+            }
+          },
+          "numeroDeputadosAtendidos": 1,
+          "categoriasInfo": {
+            "principal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+            "normalizadas": [
+              "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+            ],
+            "principalOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+            "originais": [
+              "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+            ]
+          },
+          "scoreSuspeicao": 46.79555127929396
+        },
+        {
+          "cnpj": "50697191000160",
+          "nome": "PINHEIRO ESTRATEGIA E COMUNICACAO LTDA CAPITAL POLITICA",
+          "totalTransacionado": 37000,
+          "totalRecebido": 37000,
+          "transacoes": 8,
+          "numeroTransacoes": 8,
+          "deputadosAtendidos": [
+            {
+              "id": "220593",
+              "nomeEleitoral": "Abilio Brunini",
+              "nomeCivil": "Abilio Brunini",
+              "siglaPartido": "PL",
+              "siglaUf": "MT",
+              "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+            }
+          ],
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "categorias": [
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+          ],
+          "categoriasOriginais": [
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+          ],
+          "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "distribuicaoTipos": {
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+              "valor": 37000,
+              "quantidade": 8
+            }
+          },
+          "distribuicaoTiposOriginais": {
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+              "valor": 37000,
+              "quantidade": 8
+            }
+          },
+          "numeroDeputadosAtendidos": 1,
+          "categoriasInfo": {
+            "principal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+            "normalizadas": [
+              "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+            ],
+            "principalOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+            "originais": [
+              "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+            ]
+          },
+          "scoreSuspeicao": 52.12923342354945
+        },
+        {
+          "cnpj": "19374791000148",
+          "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
+          "totalTransacionado": 25600,
+          "totalRecebido": 25600,
+          "transacoes": 5,
+          "numeroTransacoes": 5,
+          "deputadosAtendidos": [
+            {
+              "id": "220593",
+              "nomeEleitoral": "Abilio Brunini",
+              "nomeCivil": "Abilio Brunini",
+              "siglaPartido": "PL",
+              "siglaUf": "MT",
+              "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+            }
+          ],
+          "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "categorias": [
+            "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+          ],
+          "categoriasOriginais": [
+            "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+          ],
+          "categoriaOriginal": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "distribuicaoTipos": {
+            "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": {
+              "valor": 25600,
+              "quantidade": 5
+            }
+          },
+          "distribuicaoTiposOriginais": {
+            "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": {
+              "valor": 25600,
+              "quantidade": 5
+            }
+          },
+          "numeroDeputadosAtendidos": 1,
+          "categoriasInfo": {
+            "principal": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+            "normalizadas": [
+              "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+            ],
+            "principalOriginal": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+            "originais": [
+              "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+            ]
+          },
+          "scoreSuspeicao": 47.879127771925454
+        },
+        {
+          "cnpj": "22515573000190",
+          "nome": "J C COMUNICAÇÃO LTDA ME",
+          "totalTransacionado": 22000,
+          "totalRecebido": 22000,
+          "transacoes": 4,
+          "numeroTransacoes": 4,
+          "deputadosAtendidos": [
+            {
+              "id": "220593",
+              "nomeEleitoral": "Abilio Brunini",
+              "nomeCivil": "Abilio Brunini",
+              "siglaPartido": "PL",
+              "siglaUf": "MT",
+              "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+            }
+          ],
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "categorias": [
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+          ],
+          "categoriasOriginais": [
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+          ],
+          "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "distribuicaoTipos": {
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+              "valor": 22000,
+              "quantidade": 4
+            }
+          },
+          "distribuicaoTiposOriginais": {
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+              "valor": 22000,
+              "quantidade": 4
+            }
+          },
+          "numeroDeputadosAtendidos": 1,
+          "categoriasInfo": {
+            "principal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+            "normalizadas": [
+              "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+            ],
+            "principalOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+            "originais": [
+              "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+            ]
+          },
+          "scoreSuspeicao": 51.15201360249395
+        },
+        {
+          "cnpj": "03467321000199",
+          "nome": "ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A.",
+          "totalTransacionado": 20519.960000000003,
+          "totalRecebido": 20519.960000000003,
+          "transacoes": 19,
+          "numeroTransacoes": 19,
+          "deputadosAtendidos": [
+            {
+              "id": "220593",
+              "nomeEleitoral": "Abilio Brunini",
+              "nomeCivil": "Abilio Brunini",
+              "siglaPartido": "PL",
+              "siglaUf": "MT",
+              "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+            }
+          ],
+          "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "categorias": [
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+          ],
+          "categoriasOriginais": [
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+          ],
+          "categoriaOriginal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "distribuicaoTipos": {
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+              "valor": 20519.960000000003,
+              "quantidade": 19
+            }
+          },
+          "distribuicaoTiposOriginais": {
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+              "valor": 20519.960000000003,
+              "quantidade": 19
+            }
+          },
+          "numeroDeputadosAtendidos": 1,
+          "categoriasInfo": {
+            "principal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "normalizadas": [
+              "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+            ],
+            "principalOriginal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "originais": [
+              "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+            ]
+          },
+          "scoreSuspeicao": 46.80549045616636
+        },
+        {
+          "cnpj": "48949641000113",
+          "nome": "BROAD BRASIL LTDA",
+          "totalTransacionado": 19600,
+          "totalRecebido": 19600,
+          "transacoes": 20,
+          "numeroTransacoes": 20,
+          "deputadosAtendidos": [
+            {
+              "id": "220593",
+              "nomeEleitoral": "Abilio Brunini",
+              "nomeCivil": "Abilio Brunini",
+              "siglaPartido": "PL",
+              "siglaUf": "MT",
+              "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+            }
+          ],
+          "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "categorias": [
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+          ],
+          "categoriasOriginais": [
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+          ],
+          "categoriaOriginal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "distribuicaoTipos": {
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+              "valor": 17900,
+              "quantidade": 18
+            },
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+              "valor": 1700,
+              "quantidade": 2
+            }
+          },
+          "distribuicaoTiposOriginais": {
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+              "valor": 17900,
+              "quantidade": 18
+            },
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+              "valor": 1700,
+              "quantidade": 2
+            }
+          },
+          "numeroDeputadosAtendidos": 1,
+          "categoriasInfo": {
+            "principal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "normalizadas": [
+              "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+              "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+            ],
+            "principalOriginal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "originais": [
+              "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+              "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+            ]
+          },
+          "scoreSuspeicao": 36.847590205941806
+        },
+        {
+          "cnpj": "09001879000322",
+          "nome": "COMERCIAL AMAZONIA 02 DE PETROLEO EIRELI",
+          "totalTransacionado": 15162.999999999996,
+          "totalRecebido": 15162.999999999996,
+          "transacoes": 93,
+          "numeroTransacoes": 93,
+          "deputadosAtendidos": [
+            {
+              "id": "220593",
+              "nomeEleitoral": "Abilio Brunini",
+              "nomeCivil": "Abilio Brunini",
+              "siglaPartido": "PL",
+              "siglaUf": "MT",
+              "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg"
+            }
+          ],
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "categorias": [
+            "COMBUSTÍVEIS E LUBRIFICANTES"
+          ],
+          "categoriasOriginais": [
+            "COMBUSTÍVEIS E LUBRIFICANTES"
+          ],
+          "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "distribuicaoTipos": {
+            "COMBUSTÍVEIS E LUBRIFICANTES": {
+              "valor": 15162.999999999996,
+              "quantidade": 93
+            }
+          },
+          "distribuicaoTiposOriginais": {
+            "COMBUSTÍVEIS E LUBRIFICANTES": {
+              "valor": 15162.999999999996,
+              "quantidade": 93
+            }
+          },
+          "numeroDeputadosAtendidos": 1,
+          "categoriasInfo": {
+            "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+            "normalizadas": [
+              "COMBUSTÍVEIS E LUBRIFICANTES"
+            ],
+            "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+            "originais": [
+              "COMBUSTÍVEIS E LUBRIFICANTES"
+            ]
+          },
+          "scoreSuspeicao": 66.35492876428268
+        }
+      ],
+      "categorias": [
+        {
+          "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "quantidade": 5,
+          "valor": 218915.86,
+          "percentual": "32.9%"
+        },
+        {
+          "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "quantidade": 13,
+          "valor": 152670,
+          "percentual": "23.0%"
+        },
+        {
+          "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "quantidade": 12,
+          "valor": 152608.86000000004,
+          "percentual": "23.0%"
+        },
+        {
+          "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "quantidade": 139,
+          "valor": 115920.68999999996,
+          "percentual": "17.4%"
+        },
+        {
+          "categoria": "HOSPEDAGEM, EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "quantidade": 29,
+          "valor": 22305.399999999998,
+          "percentual": "3.4%"
+        },
+        {
+          "categoria": "TELEFONIA",
+          "quantidade": 1,
+          "valor": 1224.6599999999999,
+          "percentual": "0.2%"
+        },
+        {
+          "categoria": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+          "quantidade": 2,
+          "valor": 498,
+          "percentual": "0.1%"
+        },
+        {
+          "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "quantidade": 4,
+          "valor": 423.56,
+          "percentual": "0.1%"
+        },
+        {
+          "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "quantidade": 1,
+          "valor": 30,
+          "percentual": "0.0%"
+        }
+      ],
+      "scoreSuspeicao": {
+        "alto": 2,
+        "medio": 204,
+        "baixo": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "REDE DE POSTOS 3R LTDA",
+      "cnpj": "04111378000113",
+      "total_recebido": 378.54,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:03.091039"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 378.54
+  },
+  "anos": {
+    "2023": {
+      "total": 80.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 298.54,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 378.54,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7632941,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-26T00:00:00",
+          "numDocumento": "43362",
+          "valorDocumento": 80.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7632941",
+          "nomeFornecedor": "REDE DE POSTOS 3R LTDA",
+          "cnpjCpfFornecedor": "04111378000113",
+          "valorLiquido": 80.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7724330,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-22T14:11:17",
+          "numDocumento": "45278",
+          "valorDocumento": 298.54,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7724330",
+          "nomeFornecedor": "REDE DE POSTOS 3R LTDA",
+          "cnpjCpfFornecedor": "04111378000113",
+          "valorLiquido": 298.54,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

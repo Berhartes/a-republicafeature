@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "POSTO DE COMBUSTIVEL CEASA LTDA",
+    "cnpj": "33977940000194",
+    "total_recebido": 286.09000000000003,
+    "numero_transacoes": 2,
+    "numero_deputados": 2
+  },
+  "ano": 2025,
+  "total_recebido": 100.0,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 100.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 100.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 100.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

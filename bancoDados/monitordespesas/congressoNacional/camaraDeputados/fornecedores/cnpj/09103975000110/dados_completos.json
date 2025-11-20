@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
       "cnpj": "09103975000110",
-      "total_recebido": 350.32,
+      "total_recebido": 200.0,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:59:02.705737"
+    "generatedAt": "2025-11-11T05:22:37.828647"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 350.32
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 200.0
   },
   "anos": {
-    "2024": {
-      "total": 350.32,
+    "2023": {
+      "total": 200.0,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204507": {
+    "221148": {
       "deputado": {
-        "id": 204507,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204507",
-        "nome": "Carla Zambelli",
-        "siglaPartido": "PL",
+        "id": 221148,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221148",
+        "nome": "Alfredinho",
+        "nomeEleitoral": "Alfredinho",
+        "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204507.jpg",
-        "email": "dep.carlazambelli@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221148.jpg",
+        "email": "dep.alfredinho@camara.leg.br"
       },
-      "total": 350.32,
+      "total": 200.0,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 6,
+          "ano": 2023,
+          "mes": 9,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7759132,
+          "codDocumento": 7611290,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-06-18T00:00:00",
-          "numDocumento": "597041",
-          "valorDocumento": 350.32,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7759132",
+          "dataDocumento": "2023-09-14T00:00:00",
+          "numDocumento": "489169",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7611290",
           "nomeFornecedor": "AUTO POSTO ORIGINAL BRASILIA DERIVADOS DE PETROLEO LTDA",
           "cnpjCpfFornecedor": "09103975000110",
-          "valorLiquido": 350.32,
+          "valorLiquido": 200.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

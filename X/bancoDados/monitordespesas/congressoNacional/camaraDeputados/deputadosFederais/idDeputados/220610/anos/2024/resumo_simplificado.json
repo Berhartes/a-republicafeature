@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 220610,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220610",
+    "nome": "Dr. Fernando Máximo",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "RO",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220610.jpg",
+    "email": "dep.dr.fernandomaximo@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 566699.59,
+  "quantidade_transacoes": 438,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 347293.17,
+      "quantidade_transacoes": 34,
+      "porcentagem_do_total": 61.28
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 106002.46,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 18.71
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 75085.58,
+      "quantidade_transacoes": 228,
+      "porcentagem_do_total": 13.25
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 20663.4,
+      "quantidade_transacoes": 77,
+      "porcentagem_do_total": 3.65
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 8724.5,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 1.54
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AQUI AGENCIA DE PUBLICIDADE LTDA",
+      "cnpj": "01861112000108",
+      "total": 120000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 21.18
+    },
+    {
+      "nome": "TOLEDO VIECILI & ASSOCIADOS LTDA",
+      "cnpj": "01861112000108",
+      "total": 80000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 14.12
+    },
+    {
+      "nome": "ROVEMA LOCADORA DE VEÍCULOS LTDA",
+      "cnpj": "07451844000106",
+      "total": 62226.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 10.98
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 60755.5,
+      "quantidade_transacoes": 192,
+      "porcentagem_do_total": 10.72
+    },
+    {
+      "nome": "HERBERT PAOLO PEIXOTO RAMOS",
+      "cnpj": "49618612000131",
+      "total": 57910.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 10.22
+    },
+    {
+      "nome": "GOOGLE BRASIL INTERNET LTDA",
+      "cnpj": "06990590000123",
+      "total": 43984.87,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 7.76
+    },
+    {
+      "nome": "SUPREMA MOBILIDADE LTDA",
+      "cnpj": "24894397000170",
+      "total": 39776.46,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 7.02
+    },
+    {
+      "nome": "AQUI AGÊNCIA DE PUBLICIDADE LTDA",
+      "cnpj": "01861112000108",
+      "total": 20000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.53
+    },
+    {
+      "nome": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+      "cnpj": "13347016000117",
+      "total": 11668.3,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.06
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 10738.04,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 1.89
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 73554.7,
+      "porcentagem_do_total": 12.98
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 67221.06,
+      "porcentagem_do_total": 11.86
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 40639.52,
+      "porcentagem_do_total": 7.17
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 51279.25,
+      "porcentagem_do_total": 9.05
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 56052.63,
+      "porcentagem_do_total": 9.89
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 57506.59,
+      "porcentagem_do_total": 10.15
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 46762.48,
+      "porcentagem_do_total": 8.25
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 62208.73,
+      "porcentagem_do_total": 10.98
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 32446.83,
+      "porcentagem_do_total": 5.73
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 30219.0,
+      "porcentagem_do_total": 5.33
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 38216.83,
+      "porcentagem_do_total": 6.74
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 10591.97,
+      "porcentagem_do_total": 1.87
+    }
+  ]
+}

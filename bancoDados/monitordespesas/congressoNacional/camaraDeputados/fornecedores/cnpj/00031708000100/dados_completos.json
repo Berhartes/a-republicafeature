@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "SINPETAXI",
       "cnpj": "00031708000100",
-      "total_recebido": 33.95,
+      "total_recebido": 26.0,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:12.998540"
+    "generatedAt": "2025-11-11T05:22:36.668713"
   },
   "categorias": {
-    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 33.95
+    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 26.0
   },
   "anos": {
-    "2025": {
-      "total": 33.95,
+    "2023": {
+      "total": 26.0,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "74646": {
+    "220554": {
       "deputado": {
-        "id": 74646,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74646",
-        "nome": "Aécio Neves",
-        "siglaPartido": "PSDB",
+        "id": 220554,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+        "nome": "Alexandre Lindenmeyer",
+        "nomeEleitoral": "Alexandre Lindenmeyer",
+        "siglaPartido": "PT",
         "uriPartido": "",
-        "siglaUf": "MG",
+        "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74646.jpg",
-        "email": "dep.aecioneves@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
+        "email": "dep.alexandrelindenmeyer@camara.leg.br"
       },
-      "total": 33.95,
+      "total": 26.0,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2025,
-          "mes": 3,
+          "ano": 2023,
+          "mes": 12,
           "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
-          "codDocumento": 7891637,
+          "codDocumento": 7685662,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-03-26T00:00:00",
-          "numDocumento": "s/n",
-          "valorDocumento": 33.95,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/233/2025/7891637.pdf",
+          "dataDocumento": "2023-12-26T00:00:00",
+          "numDocumento": "2047",
+          "valorDocumento": 26.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2024/7685662.pdf",
           "nomeFornecedor": "SINPETAXI",
           "cnpjCpfFornecedor": "00031708000100",
-          "valorLiquido": 33.95,
+          "valorLiquido": 26.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

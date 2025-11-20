@@ -1,0 +1,78 @@
+{
+  "fornecedor": {
+    "nome": "CONDOMÍNIO EDÍFICIL COMERCIAL CONCORDE",
+    "cnpj": "24311808000158",
+    "total_recebido": 5551.92,
+    "numero_transacoes": 8,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 5551.92,
+  "quantidade_transacoes": 8,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 5551.92,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 5551.92,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 633.2,
+      "porcentagem_do_total": 11.41
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 600.21,
+      "porcentagem_do_total": 10.81
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 600.21,
+      "porcentagem_do_total": 10.81
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 633.2,
+      "porcentagem_do_total": 11.41
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 781.15,
+      "porcentagem_do_total": 14.07
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 741.65,
+      "porcentagem_do_total": 13.36
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 781.15,
+      "porcentagem_do_total": 14.07
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 781.15,
+      "porcentagem_do_total": 14.07
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO 302 SUL LTDA",
+      "cnpj": "30642701000195",
+      "total_recebido": 1420.2,
+      "numero_transacoes": 5,
+      "numero_deputados": 2
+    },
+    "ano": 2024,
+    "total_recebido": 491.33,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 2,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-03-20T00:00:00",
+    "periodo_fim": "2024-10-27T14:24:35",
+    "generatedAt": "2025-11-11T21:37:57.456483"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 321.33,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 65.4
+    },
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 170.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 34.6
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 491.33,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 170.0,
+      "porcentagem_do_total": 34.6
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 321.33,
+      "porcentagem_do_total": 65.4
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7706767,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-03-20T00:00:00",
+      "numDocumento": "111006",
+      "valorDocumento": 170.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7706767",
+      "nomeFornecedor": "AUTO POSTO 302 SUL LTDA",
+      "cnpjCpfFornecedor": "30642701000195",
+      "valorLiquido": 170.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2023799,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7830000,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-10-27T14:24:35",
+      "numDocumento": "161568",
+      "valorDocumento": 321.33,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7830000",
+      "nomeFornecedor": "AUTO POSTO 302 SUL LTDA",
+      "cnpjCpfFornecedor": "30642701000195",
+      "valorLiquido": 321.33,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2088828,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO FLORAIS ME",
+      "cnpj": "09233622000134",
+      "total_recebido": 472.16,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:53.119484"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 472.16
+  },
+  "anos": {
+    "2023": {
+      "total": 472.16,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 472.16,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7500276,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-02-19T00:00:00",
+          "numDocumento": "23054",
+          "valorDocumento": 287.6,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7500276",
+          "nomeFornecedor": "AUTO POSTO FLORAIS ME",
+          "cnpjCpfFornecedor": "09233622000134",
+          "valorLiquido": 287.6,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1909801,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7613464,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-23T00:00:00",
+          "numDocumento": "385458",
+          "valorDocumento": 56.43,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7613464.pdf",
+          "nomeFornecedor": "AUTO POSTO FLORAIS ME",
+          "cnpjCpfFornecedor": "09233622000134",
+          "valorLiquido": 56.43,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1971080,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7613451,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-24T00:00:00",
+          "numDocumento": "385854",
+          "valorDocumento": 128.13,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7613451.pdf",
+          "nomeFornecedor": "AUTO POSTO FLORAIS ME",
+          "cnpjCpfFornecedor": "09233622000134",
+          "valorLiquido": 128.13,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1971080,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

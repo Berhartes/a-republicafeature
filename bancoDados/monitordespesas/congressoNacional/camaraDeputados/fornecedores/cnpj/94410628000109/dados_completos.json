@@ -3,14 +3,14 @@
     "fornecedor": {
       "nome": "COMERCIAL DE COMB. RAMADA LTDA",
       "cnpj": "94410628000109",
-      "total_recebido": 1003.4299999999998,
+      "total_recebido": 1003.4300000000001,
       "numero_transacoes": 5,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.350931"
+    "generatedAt": "2025-11-11T05:22:16.312438"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 1003.4299999999998
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1003.4300000000001
   },
   "anos": {
     "2023": {
@@ -30,6 +30,7 @@
         "id": 136811,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
         "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -37,7 +38,7 @@
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
         "email": "dep.afonsohamm@camara.leg.br"
       },
-      "total": 1003.4299999999998,
+      "total": 1003.4300000000001,
       "transacoes": 5,
       "despesas": [
         {
@@ -54,44 +55,6 @@
           "nomeFornecedor": "COMERCIAL DE COMB. RAMADA LTDA",
           "cnpjCpfFornecedor": "94410628000109",
           "valorLiquido": 170.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 11,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7837016,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-18T12:08:15",
-          "numDocumento": "181082",
-          "valorDocumento": 240.01,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7837016",
-          "nomeFornecedor": "COMERCIAL DE COMB. RAMADA LTDA",
-          "cnpjCpfFornecedor": "94410628000109",
-          "valorLiquido": 240.01,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 11,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7838583,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-28T09:09:20",
-          "numDocumento": "182079",
-          "valorDocumento": 160.05,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7838583",
-          "nomeFornecedor": "COMERCIAL DE COMB. RAMADA LTDA",
-          "cnpjCpfFornecedor": "94410628000109",
-          "valorLiquido": 160.05,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -130,6 +93,44 @@
           "nomeFornecedor": "COMERCIAL DE COMB. RAMADA LTDA",
           "cnpjCpfFornecedor": "94410628000109",
           "valorLiquido": 183.31,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7837016,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-18T12:08:15",
+          "numDocumento": "181082",
+          "valorDocumento": 240.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7837016",
+          "nomeFornecedor": "COMERCIAL DE COMB. RAMADA LTDA",
+          "cnpjCpfFornecedor": "94410628000109",
+          "valorLiquido": 240.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7838583,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-28T09:09:20",
+          "numDocumento": "182079",
+          "valorDocumento": 160.05,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7838583",
+          "nomeFornecedor": "COMERCIAL DE COMB. RAMADA LTDA",
+          "cnpjCpfFornecedor": "94410628000109",
+          "valorLiquido": 160.05,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

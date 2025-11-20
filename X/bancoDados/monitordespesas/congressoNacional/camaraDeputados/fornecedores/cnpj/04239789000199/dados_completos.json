@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIAL P P DE COMBUSTIVEIS LTDA",
+      "cnpj": "04239789000199",
+      "total_recebido": 154.89,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:08.663341"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 154.89
+  },
+  "anos": {
+    "2023": {
+      "total": 154.89,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "121948": {
+      "deputado": {
+        "id": 121948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "GO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br"
+      },
+      "total": 154.89,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7675922,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-22T09:18:50",
+          "numDocumento": "860597",
+          "valorDocumento": 104.89,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7675922",
+          "nomeFornecedor": "COMERCIAL P P DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "04239789000199",
+          "valorLiquido": 104.89,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7675944,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-31T18:34:55",
+          "numDocumento": "866608",
+          "valorDocumento": 50.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7675944",
+          "nomeFornecedor": "COMERCIAL P P DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "04239789000199",
+          "valorLiquido": 50.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

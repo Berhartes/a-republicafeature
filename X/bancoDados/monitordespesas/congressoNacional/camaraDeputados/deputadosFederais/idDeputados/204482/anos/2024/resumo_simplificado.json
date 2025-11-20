@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 204482,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204482",
+    "nome": "Euclydes Pettersen",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204482.jpg",
+    "email": "dep.euclydespettersen@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 302311.04,
+  "quantidade_transacoes": 146,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 164886.67,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 54.54
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 80287.8,
+      "quantidade_transacoes": 94,
+      "porcentagem_do_total": 26.56
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 50610.48,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 16.74
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 5079.34,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.68
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 1110.25,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 0.37
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "MARCOS VINICIUS SILVA ANDRADE",
+      "cnpj": "33262515000119",
+      "total": 59000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 19.52
+    },
+    {
+      "nome": "SAFER SERVICOS DIGITAIS LTDA",
+      "cnpj": "50040834000107",
+      "total": 57366.67,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 18.98
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 51201.98,
+      "quantidade_transacoes": 52,
+      "porcentagem_do_total": 16.94
+    },
+    {
+      "nome": "TD MARKETING DIGITAL LTDA",
+      "cnpj": "46642197000163",
+      "total": 28320.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 9.37
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 18946.5,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 6.27
+    },
+    {
+      "nome": "MCOURA COMBUSTIVEIS DE AVIACAO LTDA",
+      "cnpj": "03763808000208",
+      "total": 16152.68,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 5.34
+    },
+    {
+      "nome": "VIBRA ENERGIA S.A",
+      "cnpj": "34274233011210",
+      "total": 14179.49,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 4.69
+    },
+    {
+      "nome": "JK Cunha Lima",
+      "cnpj": "18088055000160",
+      "total": 12000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.97
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 10139.32,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 3.35
+    },
+    {
+      "nome": "PETROBRAS DISTRIBUIDORA S.A",
+      "cnpj": "34274233012887",
+      "total": 9947.98,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.29
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 41787.0,
+      "porcentagem_do_total": 13.82
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 22506.33,
+      "porcentagem_do_total": 7.44
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 5951.72,
+      "porcentagem_do_total": 1.97
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 15995.57,
+      "porcentagem_do_total": 5.29
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 27448.75,
+      "porcentagem_do_total": 9.08
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 8644.46,
+      "porcentagem_do_total": 2.86
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 88447.87,
+      "porcentagem_do_total": 29.26
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 30823.23,
+      "porcentagem_do_total": 10.2
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 60706.11,
+      "porcentagem_do_total": 20.08
+    }
+  ]
+}

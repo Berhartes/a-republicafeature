@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 220691,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220691",
+    "nome": "Diego Coronel",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220691.jpg",
+    "email": "dep.diegocoronel@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 55590.81,
+  "quantidade_transacoes": 207,
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 54963.01,
+      "quantidade_transacoes": 206,
+      "porcentagem_do_total": 98.87
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 627.8,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.13
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "D &amp; B COMERCIAL LTDA",
+      "cnpj": "05548976000117",
+      "total": 5662.66,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 10.19
+    },
+    {
+      "nome": "HP COMERCIO E DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "02818012000234",
+      "total": 3829.54,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 6.89
+    },
+    {
+      "nome": "CATEGORIA  ECOPOSTOS COMBUSTIVEIS E SERVICOS LTDA",
+      "cnpj": "04420464000370",
+      "total": 3584.29,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 6.45
+    },
+    {
+      "nome": "WF COMERCIO DE COMBUSTIVEIS E SERVICOS LTDA",
+      "cnpj": "18317568000104",
+      "total": 2611.62,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 4.7
+    },
+    {
+      "nome": "WL COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "03432120000156",
+      "total": 2264.92,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 4.07
+    },
+    {
+      "nome": "CAMPO AZUL COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "24463491000175",
+      "total": 1800.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 3.24
+    },
+    {
+      "nome": "PAIM & FILHOS LTDA",
+      "cnpj": "14059513000263",
+      "total": 1628.16,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 2.93
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS 309 SUL LTDA",
+      "cnpj": "32216743000190",
+      "total": 1603.26,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 2.88
+    },
+    {
+      "nome": "POSTO KALILANDIA LTDA",
+      "cnpj": "15151046000340",
+      "total": 1432.18,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 2.58
+    },
+    {
+      "nome": "POSTO Z + Z STELLA MARIS LTDA",
+      "cnpj": "26814629000169",
+      "total": 1429.74,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 2.57
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 6119.28,
+      "porcentagem_do_total": 11.01
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 2503.11,
+      "porcentagem_do_total": 4.5
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 4722.73,
+      "porcentagem_do_total": 8.5
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 6033.36,
+      "porcentagem_do_total": 10.85
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 6021.96,
+      "porcentagem_do_total": 10.83
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 7306.7,
+      "porcentagem_do_total": 13.14
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 5571.69,
+      "porcentagem_do_total": 10.02
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 5618.15,
+      "porcentagem_do_total": 10.11
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 5858.14,
+      "porcentagem_do_total": 10.54
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 5235.69,
+      "porcentagem_do_total": 9.42
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 600.0,
+      "porcentagem_do_total": 1.08
+    }
+  ]
+}

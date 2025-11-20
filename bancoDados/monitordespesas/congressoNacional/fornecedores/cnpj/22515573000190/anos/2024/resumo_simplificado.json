@@ -1,0 +1,54 @@
+{
+  "fornecedor": {
+    "nome": "J C COMUNICAÇÃO LTDA ME",
+    "cnpj": "22515573000190",
+    "total_recebido": 22000.0,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 22000.0,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 22000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 22000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 3500.0,
+      "porcentagem_do_total": 15.91
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 3500.0,
+      "porcentagem_do_total": 15.91
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 5000.0,
+      "porcentagem_do_total": 22.73
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 10000.0,
+      "porcentagem_do_total": 45.45
+    }
+  ]
+}

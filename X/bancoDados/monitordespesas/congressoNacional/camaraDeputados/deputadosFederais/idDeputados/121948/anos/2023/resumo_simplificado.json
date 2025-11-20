@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 121948,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+    "nome": "Adriano do Baldy",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "GO",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+    "email": "dep.adrianodobaldy@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 404621.75,
+  "quantidade_transacoes": 468,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 113189.13,
+      "quantidade_transacoes": 51,
+      "porcentagem_do_total": 27.97
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 102153.6,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 25.25
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 96831.27,
+      "quantidade_transacoes": 181,
+      "porcentagem_do_total": 23.93
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 65705.34,
+      "quantidade_transacoes": 55,
+      "porcentagem_do_total": 16.24
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 10607.9,
+      "quantidade_transacoes": 55,
+      "porcentagem_do_total": 2.62
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AUTO POSTO ASTRO DA MUTIRAO LTDA",
+      "cnpj": "04081151000172",
+      "total": 72810.87,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 17.99
+    },
+    {
+      "nome": "JAYME E JAYME DE CASTRO PREST DE SERV LTDA",
+      "cnpj": "08876018000163",
+      "total": 70000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 17.3
+    },
+    {
+      "nome": "JOSE AUGUSTO FAVORETTO",
+      "cnpj": "01611224187",
+      "total": 44000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 10.87
+    },
+    {
+      "nome": "NETSUM ESTRATEGIAS E MARKETING DIGITAL LTDA",
+      "cnpj": "41667993000137",
+      "total": 41600.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 10.28
+    },
+    {
+      "nome": "Sol Grafica e Editora Eireli ME",
+      "cnpj": "24284877000110",
+      "total": 29640.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 7.33
+    },
+    {
+      "nome": "Cical Auto Locadora LTDA",
+      "cnpj": "24850562000192",
+      "total": 22853.6,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 5.65
+    },
+    {
+      "nome": "PREFEITURA DE GOIÂNIA",
+      "cnpj": "01612092000123",
+      "total": 7992.57,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.98
+    },
+    {
+      "nome": "Grafica e Editora Camara Ltda",
+      "cnpj": "07185753000168",
+      "total": 7000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.73
+    },
+    {
+      "nome": "RADIO E TV PLANALTO LTDA",
+      "cnpj": "02380265000198",
+      "total": 7000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 1.73
+    },
+    {
+      "nome": "Brasbravel studio ltda",
+      "cnpj": "41698393000136",
+      "total": 6100.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.51
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 5950.0,
+      "porcentagem_do_total": 1.47
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 29370.5,
+      "porcentagem_do_total": 7.26
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 28222.15,
+      "porcentagem_do_total": 6.97
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 30266.68,
+      "porcentagem_do_total": 7.48
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 31892.85,
+      "porcentagem_do_total": 7.88
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 35125.51,
+      "porcentagem_do_total": 8.68
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 30947.19,
+      "porcentagem_do_total": 7.65
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 35454.26,
+      "porcentagem_do_total": 8.76
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 32680.82,
+      "porcentagem_do_total": 8.08
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 37480.65,
+      "porcentagem_do_total": 9.26
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 37673.89,
+      "porcentagem_do_total": 9.31
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 69557.25,
+      "porcentagem_do_total": 17.19
+    }
+  ]
+}

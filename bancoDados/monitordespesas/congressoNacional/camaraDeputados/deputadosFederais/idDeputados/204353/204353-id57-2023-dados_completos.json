@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "legislador": {
+      "id": 204353,
+      "nome": "Aline Gurgel",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204353",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204353.jpg",
+      "email": null,
+      "nomeEleitoral": "Aline Gurgel",
+      "siglaPartido": "REPUBLICANOS",
+      "siglaUf": "AP",
+      "totalDespesas": -3928.04,
+      "numeroDespesas": 5,
+      "legislatura": 57,
+      "ano": 2023
+    },
+    "generatedAt": "2025-11-11T05:22:42.488142",
+    "legisladorDetalhes": {
+      "dados": {
+        "id": 204353,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204353",
+        "nomeCivil": "ALINE PARANHOS VARONIL GURGEL",
+        "ultimoStatus": {
+          "id": 204353,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204353",
+          "nome": "Aline Gurgel",
+          "siglaPartido": "REPUBLICANOS",
+          "uriPartido": null,
+          "siglaUf": "AP",
+          "idLegislatura": 57,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204353.jpg",
+          "email": null,
+          "data": "2025-10-09",
+          "nomeEleitoral": "Aline Gurgel",
+          "gabinete": {
+            "nome": null,
+            "predio": null,
+            "sala": null,
+            "andar": null,
+            "telefone": null,
+            "email": null
+          },
+          "situacao": "Licença",
+          "condicaoEleitoral": "Titular",
+          "descricaoStatus": ""
+        },
+        "cpf": "51150670215",
+        "sexo": "F",
+        "urlWebsite": null,
+        "redeSocial": [
+          "https://twitter.com/https:",
+          "https://www.facebook.com/dep.alinegurgel",
+          "https://www.instagram.com/dep_alinegurgel",
+          "https://youtube.com/channel/UC7v2Ng9B1UAxhEypPw5cEag"
+        ],
+        "dataNascimento": "1980-11-25",
+        "dataFalecimento": null,
+        "ufNascimento": "AP",
+        "municipioNascimento": "Macapá",
+        "escolaridade": "Superior"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204353"
+        }
+      ]
+    }
+  },
+  "ano": 2023,
+  "despesas": [
+    {
+      "ano": 2023,
+      "mes": 1,
+      "valorDocumento": 117.9,
+      "valorLiquido": 117.9,
+      "tipoDespesa": "TELEFONIA",
+      "nomeFornecedor": "CELULAR FUNCIONAL",
+      "codDocumento": 0,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-15T00:00:00",
+      "numDocumento": "7526639",
+      "urlDocumento": null,
+      "cnpjCpfFornecedor": "00000000000001",
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "valorDocumento": -31.37,
+      "valorLiquido": -31.37,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "nomeFornecedor": "GOL",
+      "codDocumento": 97534,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-06-12T12:00:00",
+      "numDocumento": "1272176088189",
+      "urlDocumento": null,
+      "cnpjCpfFornecedor": "",
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "valorDocumento": -270.52,
+      "valorLiquido": -270.52,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "nomeFornecedor": "GOL",
+      "codDocumento": 113986,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-06-19T12:00:00",
+      "numDocumento": "1272182642588",
+      "urlDocumento": null,
+      "cnpjCpfFornecedor": "",
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "valorDocumento": -1868.43,
+      "valorLiquido": -1868.43,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "nomeFornecedor": "GOL",
+      "codDocumento": 118148,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-06-13T12:00:00",
+      "numDocumento": "1272184452853",
+      "urlDocumento": null,
+      "cnpjCpfFornecedor": "",
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "valorDocumento": -1875.62,
+      "valorLiquido": -1875.62,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "nomeFornecedor": "GOL",
+      "codDocumento": 118225,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-06-13T12:00:00",
+      "numDocumento": "1272184474185",
+      "urlDocumento": null,
+      "cnpjCpfFornecedor": "",
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ]
+}

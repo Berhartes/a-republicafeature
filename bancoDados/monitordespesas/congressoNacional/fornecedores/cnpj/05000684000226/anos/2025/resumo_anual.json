@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO PETER PAN 01 LTDA",
+      "cnpj": "05000684000226",
+      "total_recebido": 2088.0699999999997,
+      "numero_transacoes": 6,
+      "numero_deputados": 3
+    },
+    "ano": 2025,
+    "total_recebido": 1349.32,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-04-29T00:00:00",
+    "periodo_fim": "2025-09-30T00:00:00",
+    "generatedAt": "2025-11-11T21:37:53.172480"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 1349.32,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1349.32,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 613.4,
+      "porcentagem_do_total": 45.46
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 385.92,
+      "porcentagem_do_total": 28.6
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 350.0,
+      "porcentagem_do_total": 25.94
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7915317,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-04-29T00:00:00",
+      "numDocumento": "18463",
+      "valorDocumento": 274.6,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7915317",
+      "nomeFornecedor": "AUTO POSTO PETER PAN 01 LTDA",
+      "cnpjCpfFornecedor": "05000684000226",
+      "valorLiquido": 274.6,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2135826,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2025,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 8001587,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-09-30T00:00:00",
+      "numDocumento": "31694",
+      "valorDocumento": 350.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8001587",
+      "nomeFornecedor": "AUTO POSTO PETER PAN 01 LTDA",
+      "cnpjCpfFornecedor": "05000684000226",
+      "valorLiquido": 350.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2182330,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2025,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7969761,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-08-11T13:39:43",
+      "numDocumento": "41351",
+      "valorDocumento": 385.92,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7969761",
+      "nomeFornecedor": "AUTO POSTO PETER PAN 01 LTDA",
+      "cnpjCpfFornecedor": "05000684000226",
+      "valorLiquido": 385.92,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2165751,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2025,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7915324,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-04-29T00:00:00",
+      "numDocumento": "5160",
+      "valorDocumento": 338.8,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7915324",
+      "nomeFornecedor": "AUTO POSTO PETER PAN 01 LTDA",
+      "cnpjCpfFornecedor": "05000684000226",
+      "valorLiquido": 338.8,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2135826,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

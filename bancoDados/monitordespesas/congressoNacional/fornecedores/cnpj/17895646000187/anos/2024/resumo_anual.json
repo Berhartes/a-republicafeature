@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpj": "17895646000187",
+      "total_recebido": 149.97,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 121.39,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-04-18T00:00:00",
+    "periodo_fim": "2024-10-23T00:00:00",
+    "generatedAt": "2025-11-11T21:38:04.185010"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 121.39,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 121.39,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 83.28,
+      "porcentagem_do_total": 68.61
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 38.11,
+      "porcentagem_do_total": 31.39
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 4,
+      "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "codDocumento": 7723047,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2024-04-18T00:00:00",
+      "numDocumento": "S/n",
+      "valorDocumento": 34.98,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7723047.pdf",
+      "nomeFornecedor": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpjCpfFornecedor": "17895646000187",
+      "valorLiquido": 34.98,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2032539,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 4,
+      "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "codDocumento": 7730954,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2024-04-18T00:00:00",
+      "numDocumento": "S/n",
+      "valorDocumento": 48.3,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7730954.pdf",
+      "nomeFornecedor": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpjCpfFornecedor": "17895646000187",
+      "valorLiquido": 48.3,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2036693,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "codDocumento": 7838989,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2024-10-23T00:00:00",
+      "numDocumento": "S/n",
+      "valorDocumento": 24.55,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7838989.pdf",
+      "nomeFornecedor": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpjCpfFornecedor": "17895646000187",
+      "valorLiquido": 23.74,
+      "valorGlosa": 0.81,
+      "numRessarcimento": "",
+      "codLote": 2093704,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "codDocumento": 7823524,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2024-10-23T00:00:00",
+      "numDocumento": "Sn",
+      "valorDocumento": 14.37,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7823524.pdf",
+      "nomeFornecedor": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpjCpfFornecedor": "17895646000187",
+      "valorLiquido": 14.37,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2085167,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

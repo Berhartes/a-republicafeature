@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 220699,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220699",
+    "nome": "Castro Neto",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "PI",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220699.jpg",
+    "email": "dep.castroneto@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 209590.28,
+  "quantidade_transacoes": 142,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 141900.0,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 67.7
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 48835.0,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 23.3
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 18855.28,
+      "quantidade_transacoes": 89,
+      "porcentagem_do_total": 9.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "FRANCISCA BEATRIZ NUNES DOS SANTOS ALBUQUERQUE",
+      "cnpj": "54234858000140",
+      "total": 72900.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 34.78
+    },
+    {
+      "nome": "INOP - INSTITUTO NACIONAL DE ORCAMENTO PUBLICO LTDA",
+      "cnpj": "32692708000147",
+      "total": 60000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 28.63
+    },
+    {
+      "nome": "KEYLANE RIOS SPODE",
+      "cnpj": "64183378320",
+      "total": 27060.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 12.91
+    },
+    {
+      "nome": "NEVES E FERREIRA TECNOLOGIA LTDA",
+      "cnpj": "35748629000107",
+      "total": 12600.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 6.01
+    },
+    {
+      "nome": "JGF PRODUCAO DE TEXTOS E EVENTOS LTDA",
+      "cnpj": "22024005000197",
+      "total": 9000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 4.29
+    },
+    {
+      "nome": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpj": "08532429000131",
+      "total": 8836.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 4.22
+    },
+    {
+      "nome": "CACIQUE PETROLEO LTDA",
+      "cnpj": "06656656001115",
+      "total": 4120.29,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 1.97
+    },
+    {
+      "nome": "POSTO MARTINEZ LTDA",
+      "cnpj": "02992818000163",
+      "total": 1270.02,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 0.61
+    },
+    {
+      "nome": "FCN.X CARVALHO COMBUSTIVEL LTDA",
+      "cnpj": "09641208000164",
+      "total": 1195.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 0.57
+    },
+    {
+      "nome": "POSTO DEZ 3 LTDA",
+      "cnpj": "52856014000105",
+      "total": 1184.06,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 0.56
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 11626.0,
+      "porcentagem_do_total": 5.55
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 11176.07,
+      "porcentagem_do_total": 5.33
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 30523.15,
+      "porcentagem_do_total": 14.56
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 36432.64,
+      "porcentagem_do_total": 17.38
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 11701.5,
+      "porcentagem_do_total": 5.58
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 39318.74,
+      "porcentagem_do_total": 18.76
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 30493.07,
+      "porcentagem_do_total": 14.55
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 16273.11,
+      "porcentagem_do_total": 7.76
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 16973.0,
+      "porcentagem_do_total": 8.1
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 5073.0,
+      "porcentagem_do_total": 2.42
+    }
+  ]
+}

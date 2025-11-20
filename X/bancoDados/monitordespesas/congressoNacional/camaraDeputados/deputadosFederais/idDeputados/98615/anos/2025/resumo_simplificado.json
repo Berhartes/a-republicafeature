@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 98615,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/98615",
+    "nome": "Ismael",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "SC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/98615.jpg",
+    "email": "dep.ismael@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 48498.7,
+  "quantidade_transacoes": 106,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 25485.27,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 52.55
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 23013.43,
+      "quantidade_transacoes": 93,
+      "porcentagem_do_total": 47.45
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "IMOVEIS BLUMENAU LTDA",
+      "cnpj": "52999203000137",
+      "total": 23595.81,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 48.65
+    },
+    {
+      "nome": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "37063328001058",
+      "total": 7118.33,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 14.68
+    },
+    {
+      "nome": "096 - MANGUEIRAL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597009668",
+      "total": 2103.94,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 4.34
+    },
+    {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+      "cnpj": "12132854000100",
+      "total": 1645.2,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.39
+    },
+    {
+      "nome": "AUTO POSTO META LINEAR LTDA",
+      "cnpj": "02045727000110",
+      "total": 1531.73,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.16
+    },
+    {
+      "nome": "AUTO POSTO SAO BRAZ LTDA",
+      "cnpj": "18733216000121",
+      "total": 834.9,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.72
+    },
+    {
+      "nome": "AMA COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "04614908000146",
+      "total": 818.98,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.69
+    },
+    {
+      "nome": "AUTO POSTO NANDI LTDA",
+      "cnpj": "06960548000160",
+      "total": 808.64,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.67
+    },
+    {
+      "nome": "16 - QI 23 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597001683",
+      "total": 555.18,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.14
+    },
+    {
+      "nome": "AUTO POSTO BLU LTDA",
+      "cnpj": "07134578000180",
+      "total": 553.23,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.14
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 3829.22,
+      "porcentagem_do_total": 7.9
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 7104.55,
+      "porcentagem_do_total": 14.65
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 6467.2,
+      "porcentagem_do_total": 13.33
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 5420.4,
+      "porcentagem_do_total": 11.18
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 4534.0,
+      "porcentagem_do_total": 9.35
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 2608.92,
+      "porcentagem_do_total": 5.38
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 5053.16,
+      "porcentagem_do_total": 10.42
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 4923.82,
+      "porcentagem_do_total": 10.15
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 6297.86,
+      "porcentagem_do_total": 12.99
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 1793.3,
+      "porcentagem_do_total": 3.7
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 466.27,
+      "porcentagem_do_total": 0.96
+    }
+  ]
+}

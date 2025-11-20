@@ -1,0 +1,152 @@
+{
+  "deputado": {
+    "id": 220642,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220642",
+    "nome": "Delegado Bruno Lima",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220642.jpg",
+    "email": "dep.delegadobrunolima@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 126543.06,
+  "quantidade_transacoes": 98,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 49500.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 39.12
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 29950.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 23.67
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 16617.15,
+      "quantidade_transacoes": 34,
+      "porcentagem_do_total": 13.13
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 13810.59,
+      "quantidade_transacoes": 37,
+      "porcentagem_do_total": 10.91
+    },
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 6421.4,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 5.07
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "VIMPE TRANSPORTES RODOVIÁRIOS LTDA",
+      "cnpj": "11535124000198",
+      "total": 49500.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 39.12
+    },
+    {
+      "nome": "BR Solucoes Tecnicas e Administrativas Ltda",
+      "cnpj": "49311629000141",
+      "total": 12000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 9.48
+    },
+    {
+      "nome": "COPIA & COPIADORA EIRELI",
+      "cnpj": "13102626000150",
+      "total": 11950.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 9.44
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 8644.12,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 6.83
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 7973.03,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 6.3
+    },
+    {
+      "nome": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
+      "cnpj": "04088208000165",
+      "total": 6421.4,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 5.07
+    },
+    {
+      "nome": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+      "cnpj": "13347016000117",
+      "total": 6000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.74
+    },
+    {
+      "nome": "GUAICA AUTO POSTO LT",
+      "cnpj": "62393897000118",
+      "total": 4676.91,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 3.7
+    },
+    {
+      "nome": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL LTDA",
+      "cnpj": "62413877004663",
+      "total": 3948.93,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.12
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 3509.81,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.77
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 29231.66,
+      "porcentagem_do_total": 23.1
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 14484.48,
+      "porcentagem_do_total": 11.45
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 20542.33,
+      "porcentagem_do_total": 16.23
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 32630.05,
+      "porcentagem_do_total": 25.79
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 29654.54,
+      "porcentagem_do_total": 23.43
+    }
+  ]
+}

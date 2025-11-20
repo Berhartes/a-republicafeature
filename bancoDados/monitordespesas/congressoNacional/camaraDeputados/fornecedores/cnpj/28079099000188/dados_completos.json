@@ -3,71 +3,53 @@
     "fornecedor": {
       "nome": "PNH COMERCIO DE COMBUSTIVEIS LTDA",
       "cnpj": "28079099000188",
-      "total_recebido": 426.05,
-      "numero_transacoes": 2,
+      "total_recebido": 107.0,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:58:47.282074"
+    "generatedAt": "2025-11-11T05:22:39.871017"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 426.05
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 107.0
   },
   "anos": {
-    "2025": {
-      "total": 426.05,
-      "transacoes": 2,
+    "2023": {
+      "total": 107.0,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220690": {
+    "74057": {
       "deputado": {
-        "id": 220690,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220690",
-        "nome": "Capitão Alden",
-        "siglaPartido": "PL",
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
         "uriPartido": "",
         "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-        "email": "dep.capitaoalden@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
       },
-      "total": 426.05,
-      "transacoes": 2,
+      "total": 107.0,
+      "transacoes": 1,
       "despesas": [
         {
-          "ano": 2025,
+          "ano": 2023,
           "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7979744,
+          "codDocumento": 7634727,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-09-01T12:05:16",
-          "numDocumento": "332402",
-          "valorDocumento": 209.71,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7979744",
+          "dataDocumento": "2023-08-16T00:00:00",
+          "numDocumento": "46305",
+          "valorDocumento": 107.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7634727",
           "nomeFornecedor": "PNH COMERCIO DE COMBUSTIVEIS LTDA",
           "cnpjCpfFornecedor": "28079099000188",
-          "valorLiquido": 209.71,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
-          "mes": 1,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7860446,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-01-30T00:00:00",
-          "numDocumento": "381708",
-          "valorDocumento": 216.34,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7860446",
-          "nomeFornecedor": "PNH COMERCIO DE COMBUSTIVEIS LTDA",
-          "cnpjCpfFornecedor": "28079099000188",
-          "valorLiquido": 216.34,
+          "valorLiquido": 107.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

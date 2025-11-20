@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 178831,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178831",
+      "nome": "ANDRÉ ABDON",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+      "siglaUf": "AP",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178831.jpg",
+      "email": "dep.andreabdon@camara.leg.br"
+    },
+    "ano": 2023,
+    "total_despesas": 44.09,
+    "quantidade_transacoes": 1,
+    "quantidade_categorias": 1,
+    "quantidade_fornecedores": 1,
+    "periodo_inicio": "2023-03-04T00:00:00",
+    "periodo_fim": "2023-03-04T00:00:00",
+    "generatedAt": "2025-11-10T22:19:21.784056"
+  },
+  "resumo_categorias": [
+    {
+      "categoria": "TELEFONIA",
+      "total": 44.09,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_fornecedores": [
+    {
+      "nome": "CELULAR FUNCIONAL",
+      "cnpj": "00000000000001",
+      "total": 44.09,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 44.09,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 1,
+      "tipoDespesa": "TELEFONIA",
+      "codDocumento": 0,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-03-04T00:00:00",
+      "numDocumento": "7586204",
+      "valorDocumento": 44.09,
+      "urlDocumento": null,
+      "nomeFornecedor": "CELULAR FUNCIONAL",
+      "cnpjCpfFornecedor": "00000000000001",
+      "valorLiquido": 44.09,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ]
+}

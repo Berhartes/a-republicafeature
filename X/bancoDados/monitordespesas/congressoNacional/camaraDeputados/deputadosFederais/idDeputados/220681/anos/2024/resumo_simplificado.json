@@ -1,0 +1,129 @@
+{
+  "deputado": {
+    "id": 220681,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220681",
+    "nome": "Fábio Macedo",
+    "siglaPartido": "PODE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220681.jpg",
+    "email": "dep.fabiomacedo@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 315650.3,
+  "quantidade_transacoes": 43,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 250447.9,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 79.34
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 35000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 11.09
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 30202.4,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 9.57
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "FN SERVICES LTDA",
+      "cnpj": "38431985000182",
+      "total": 126000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 39.92
+    },
+    {
+      "nome": "IMS SERVIÇOS EIRELI",
+      "cnpj": "15717794000186",
+      "total": 124447.9,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 39.43
+    },
+    {
+      "nome": "SUPREMA MOBILIDADE LTDA",
+      "cnpj": "24894397000170",
+      "total": 35000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 11.09
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 32768.53,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 10.38
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": -2566.13,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": -0.81
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 10638.83,
+      "porcentagem_do_total": 3.37
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 52277.8,
+      "porcentagem_do_total": 16.56
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 50381.29,
+      "porcentagem_do_total": 15.96
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 49000.0,
+      "porcentagem_do_total": 15.52
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 52519.07,
+      "porcentagem_do_total": 16.64
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 5609.81,
+      "porcentagem_do_total": 1.78
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": -1846.1,
+      "porcentagem_do_total": -0.58
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 55030.06,
+      "porcentagem_do_total": 17.43
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 42039.54,
+      "porcentagem_do_total": 13.32
+    }
+  ]
+}

@@ -3,14 +3,14 @@
     "fornecedor": {
       "nome": "IZABEL CRISTINA ESTECHE",
       "cnpj": "13660357000148",
-      "total_recebido": 8000.0,
-      "numero_transacoes": 3,
+      "total_recebido": 6000.0,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:30.397259"
+    "generatedAt": "2025-11-11T05:22:41.517199"
   },
   "categorias": {
-    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 8000.0
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 6000.0
   },
   "anos": {
     "2023": {
@@ -22,11 +22,6 @@
       "total": 2500.0,
       "transacoes": 1,
       "deputados": 1
-    },
-    "2025": {
-      "total": 2000.0,
-      "transacoes": 1,
-      "deputados": 1
     }
   },
   "deputados": {
@@ -35,6 +30,7 @@
         "id": 178927,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
         "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
         "siglaPartido": "PV",
         "uriPartido": "",
         "siglaUf": "PR",
@@ -42,8 +38,8 @@
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
         "email": "dep.alielmachado@camara.leg.br"
       },
-      "total": 8000.0,
-      "transacoes": 3,
+      "total": 6000.0,
+      "transacoes": 2,
       "despesas": [
         {
           "ano": 2023,
@@ -78,25 +74,6 @@
           "nomeFornecedor": "IZABEL CRISTINA ESTECHE",
           "cnpjCpfFornecedor": "13660357000148",
           "valorLiquido": 2500.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
-          "mes": 7,
-          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7947785,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-07-14T00:00:00",
-          "numDocumento": "1132",
-          "valorDocumento": 2000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2025/7947785.pdf",
-          "nomeFornecedor": "IZABEL CRISTINA ESTECHE",
-          "cnpjCpfFornecedor": "13660357000148",
-          "valorLiquido": 2000.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

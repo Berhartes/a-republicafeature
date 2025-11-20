@@ -1,0 +1,41 @@
+{
+  "deputado": {
+    "id": 204507,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204507",
+    "nome": "Carla Zambelli",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204507.jpg",
+    "email": "dep.carlazambelli@camara.leg.br"
+  },
+  "ano": 2022,
+  "total_gasto": 2000.0,
+  "quantidade_transacoes": 1,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 2000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ALINE DA SILVA SANTOS NASCIMENTO 35683981840",
+      "cnpj": "42263664000193",
+      "total": 2000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 2000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

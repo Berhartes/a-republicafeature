@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "S NAFES M DA SILVA JUNIOR",
+      "cnpj": "18827227000170",
+      "total_recebido": 18500.0,
+      "numero_transacoes": 9,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 2000.0,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-02-16T00:00:00",
+    "periodo_fim": "2024-02-16T00:00:00",
+    "generatedAt": "2025-11-11T21:37:58.256008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 2000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 2000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 2000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 1,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7693774,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-02-16T00:00:00",
+      "numDocumento": "494",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7693774.pdf",
+      "nomeFornecedor": "S NAFES M DA SILVA JUNIOR",
+      "cnpjCpfFornecedor": "18827227000170",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2016738,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

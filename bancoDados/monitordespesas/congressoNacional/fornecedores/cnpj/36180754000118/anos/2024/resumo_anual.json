@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO DE COMBUSTIVEL FLAMINGO LTDA",
+      "cnpj": "36180754000118",
+      "total_recebido": 3244.9,
+      "numero_transacoes": 10,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 1909.78,
+    "quantidade_transacoes": 6,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-02-28T00:00:00",
+    "periodo_fim": "2024-12-15T22:29:45",
+    "generatedAt": "2025-11-11T21:37:57.838013"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 1909.78,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1909.78,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 320.44,
+      "porcentagem_do_total": 16.78
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 310.21,
+      "porcentagem_do_total": 16.24
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 949.13,
+      "porcentagem_do_total": 49.7
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 330.0,
+      "porcentagem_do_total": 17.28
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7706661,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-02-28T00:00:00",
+      "numDocumento": "26073",
+      "valorDocumento": 320.44,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7706661",
+      "nomeFornecedor": "AUTO POSTO DE COMBUSTIVEL FLAMINGO LTDA",
+      "cnpjCpfFornecedor": "36180754000118",
+      "valorLiquido": 320.44,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2023798,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7756936,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-06-02T15:42:20",
+      "numDocumento": "36840",
+      "valorDocumento": 315.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7756936",
+      "nomeFornecedor": "AUTO POSTO DE COMBUSTIVEL FLAMINGO LTDA",
+      "cnpjCpfFornecedor": "36180754000118",
+      "valorLiquido": 315.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2050670,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7749825,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-04-09T00:00:00",
+      "numDocumento": "36998",
+      "valorDocumento": 310.21,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7749825.pdf",
+      "nomeFornecedor": "AUTO POSTO DE COMBUSTIVEL FLAMINGO LTDA",
+      "cnpjCpfFornecedor": "36180754000118",
+      "valorLiquido": 310.21,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2047072,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7759810,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-06-15T14:46:01",
+      "numDocumento": "38184",
+      "valorDocumento": 328.01,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7759810",
+      "nomeFornecedor": "AUTO POSTO DE COMBUSTIVEL FLAMINGO LTDA",
+      "cnpjCpfFornecedor": "36180754000118",
+      "valorLiquido": 328.01,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2052270,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7756901,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-06-11T22:32:26",
+      "numDocumento": "43091",
+      "valorDocumento": 306.12,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7756901",
+      "nomeFornecedor": "AUTO POSTO DE COMBUSTIVEL FLAMINGO LTDA",
+      "cnpjCpfFornecedor": "36180754000118",
+      "valorLiquido": 306.12,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2050670,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7846601,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-12-15T22:29:45",
+      "numDocumento": "60611",
+      "valorDocumento": 330.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7846601",
+      "nomeFornecedor": "AUTO POSTO DE COMBUSTIVEL FLAMINGO LTDA",
+      "cnpjCpfFornecedor": "36180754000118",
+      "valorLiquido": 330.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2097817,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

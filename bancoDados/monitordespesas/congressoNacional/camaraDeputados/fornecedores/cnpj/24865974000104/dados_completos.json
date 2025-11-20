@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.314770"
+    "generatedAt": "2025-11-11T05:22:12.347784"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 815.36
@@ -30,6 +30,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -61,25 +62,6 @@
         },
         {
           "ano": 2024,
-          "mes": 10,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7814515,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-10-09T00:00:00",
-          "numDocumento": "19310",
-          "valorDocumento": 600.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7814515",
-          "nomeFornecedor": "Posto Nunes Ltda",
-          "cnpjCpfFornecedor": "24865974000104",
-          "valorLiquido": 600.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
           "mes": 3,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7707474,
@@ -92,6 +74,25 @@
           "nomeFornecedor": "Posto Nunes Ltda",
           "cnpjCpfFornecedor": "24865974000104",
           "valorLiquido": 115.36,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7814515,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-09T00:00:00",
+          "numDocumento": "19310",
+          "valorDocumento": 600.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7814515",
+          "nomeFornecedor": "Posto Nunes Ltda",
+          "cnpjCpfFornecedor": "24865974000104",
+          "valorLiquido": 600.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

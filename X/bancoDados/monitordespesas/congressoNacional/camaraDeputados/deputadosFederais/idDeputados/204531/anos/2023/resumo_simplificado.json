@@ -1,0 +1,54 @@
+{
+  "deputado": {
+    "id": 204531,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204531",
+    "nome": "Guilherme Derrite",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204531.jpg",
+    "email": "dep.guilhermederrite@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 1638.0,
+  "quantidade_transacoes": 2,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 1588.02,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 96.95
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 49.98,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.05
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Azul Linhas Aéreas Inteligentes S.A.",
+      "cnpj": "09296295000160",
+      "total": 1588.02,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 96.95
+    },
+    {
+      "nome": "ROTA 406 COMBUSTIVEIS LTDA",
+      "cnpj": "31165607000155",
+      "total": 49.98,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.05
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 1638.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

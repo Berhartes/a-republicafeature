@@ -3,52 +3,96 @@
     "fornecedor": {
       "nome": "POSTO DE GASOLINA SECULO XXI LTDA",
       "cnpj": "07801429000127",
-      "total_recebido": 392.04,
-      "numero_transacoes": 1,
+      "total_recebido": 655.97,
+      "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:45.177024"
+    "generatedAt": "2025-11-11T05:22:43.486443"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 392.04
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 655.97
   },
   "anos": {
     "2024": {
-      "total": 392.04,
+      "total": 438.02,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 217.95,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "178881": {
+    "226708": {
       "deputado": {
-        "id": 178881,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178881",
-        "nome": "Aluisio Mendes",
-        "siglaPartido": "REPUBLICANOS",
+        "id": 226708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
+        "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
+        "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "MA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
-        "email": "dep.aluisiomendes@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226708.jpg",
+        "email": "dep.allangarces@camara.leg.br"
       },
-      "total": 392.04,
-      "transacoes": 1,
+      "total": 655.97,
+      "transacoes": 3,
       "despesas": [
         {
           "ano": 2024,
-          "mes": 9,
+          "mes": 1,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7817635,
+          "codDocumento": 7672092,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-09-19T13:44:30",
-          "numDocumento": "29452",
-          "valorDocumento": 392.04,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7817635",
+          "dataDocumento": "2024-01-10T00:00:00",
+          "numDocumento": "1039",
+          "valorDocumento": 338.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7672092",
           "nomeFornecedor": "POSTO DE GASOLINA SECULO XXI LTDA",
           "cnpjCpfFornecedor": "07801429000127",
-          "valorLiquido": 392.04,
+          "valorLiquido": 338.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7681091,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-05T00:00:00",
+          "numDocumento": "4597",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7681091",
+          "nomeFornecedor": "POSTO DE GASOLINA SECULO XXI LTDA",
+          "cnpjCpfFornecedor": "07801429000127",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7954341,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-30T00:00:00",
+          "numDocumento": "52431",
+          "valorDocumento": 217.95,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7954341",
+          "nomeFornecedor": "POSTO DE GASOLINA SECULO XXI LTDA",
+          "cnpjCpfFornecedor": "07801429000127",
+          "valorLiquido": 217.95,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

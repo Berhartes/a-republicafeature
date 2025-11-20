@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIAL DE COMBUSTÍVEIS VISCONDE US LTDA.",
+      "cnpj": "07778461000139",
+      "total_recebido": 171.29,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T05:22:09.781602"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 171.29
+  },
+  "anos": {
+    "2025": {
+      "total": 171.29,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 171.29,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 8005556,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-27T00:00:00",
+          "numDocumento": "735",
+          "valorDocumento": 171.29,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/8005556.pdf",
+          "nomeFornecedor": "COMERCIAL DE COMBUSTÍVEIS VISCONDE US LTDA.",
+          "cnpjCpfFornecedor": "07778461000139",
+          "valorLiquido": 171.29,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

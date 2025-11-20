@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 141411,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141411",
+      "nome": "Dagoberto Nogueira",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "MS",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141411.jpg",
+      "email": "dep.dagobertonogueira@camara.leg.br"
+    },
+    "ano": 2022,
+    "total_despesas": 125.68,
+    "quantidade_transacoes": 1,
+    "quantidade_categorias": 1,
+    "quantidade_fornecedores": 1,
+    "periodo_inicio": "2023-02-07T00:00:00",
+    "periodo_fim": "2023-02-07T00:00:00",
+    "generatedAt": "2025-11-10T22:27:56.478966"
+  },
+  "resumo_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 125.68,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_fornecedores": [
+    {
+      "nome": "AGUAS GUARIROBA / MS",
+      "cnpj": "04089570000150",
+      "total": 125.68,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 125.68,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2022,
+      "mes": 12,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7495573,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-07T00:00:00",
+      "numDocumento": "380951",
+      "valorDocumento": 125.68,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1807/2023/7495573.pdf",
+      "nomeFornecedor": "AGUAS GUARIROBA / MS",
+      "cnpjCpfFornecedor": "04089570000150",
+      "valorLiquido": 125.68,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1907228,
+      "parcela": 0
+    }
+  ]
+}

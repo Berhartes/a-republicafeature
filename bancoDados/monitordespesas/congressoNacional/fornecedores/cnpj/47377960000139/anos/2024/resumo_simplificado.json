@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "Pasadena Combustiveis Ltda",
+    "cnpj": "47377960000139",
+    "total_recebido": 1025.6200000000001,
+    "numero_transacoes": 6,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 309.39,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 309.39,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 309.39,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 309.39,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

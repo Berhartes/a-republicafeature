@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 160545,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160545",
+    "nome": "Alexandre Leite",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160545.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 317684.75,
+  "quantidade_transacoes": 359,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 194675.25,
+      "quantidade_transacoes": 68,
+      "porcentagem_do_total": 61.28
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 81893.32,
+      "quantidade_transacoes": 112,
+      "porcentagem_do_total": 25.78
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 23758.23,
+      "quantidade_transacoes": 115,
+      "porcentagem_do_total": 7.48
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 10487.69,
+      "quantidade_transacoes": 48,
+      "porcentagem_do_total": 3.3
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 3600.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.13
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "RAUL IMÓVEIS - HARALAMOS BASSOUKOU",
+      "cnpj": "11367405000189",
+      "total": 174503.85,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 54.93
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 42557.44,
+      "quantidade_transacoes": 48,
+      "porcentagem_do_total": 13.4
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 32933.34,
+      "quantidade_transacoes": 37,
+      "porcentagem_do_total": 10.37
+    },
+    {
+      "nome": "POSTO DA TORRE EIRELI EPP",
+      "cnpj": "04473193000159",
+      "total": 7414.57,
+      "quantidade_transacoes": 37,
+      "porcentagem_do_total": 2.33
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 6402.54,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 2.02
+    },
+    {
+      "nome": "Telefônica Brasil S.A. VIVO",
+      "cnpj": "02558157000162",
+      "total": 5643.52,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 1.78
+    },
+    {
+      "nome": "RP Comercio de Copiadoras - Ltda",
+      "cnpj": "09559739000102",
+      "total": 5174.73,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 1.63
+    },
+    {
+      "nome": "ENEL - Eletropaulo Metropolitana Eletricidade de São Paulo S. A.",
+      "cnpj": "61695227000193",
+      "total": 4852.75,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 1.53
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+      "cnpj": "08355825000130",
+      "total": 4545.59,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 1.43
+    },
+    {
+      "nome": "BR 88 RENT A CAR EIRELI",
+      "cnpj": "24034650000116",
+      "total": 3600.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.13
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 826.7,
+      "porcentagem_do_total": 0.26
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 30804.03,
+      "porcentagem_do_total": 9.7
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 37067.35,
+      "porcentagem_do_total": 11.67
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 30081.1,
+      "porcentagem_do_total": 9.47
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 31755.11,
+      "porcentagem_do_total": 10.0
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 26671.92,
+      "porcentagem_do_total": 8.4
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 24900.4,
+      "porcentagem_do_total": 7.84
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 28404.12,
+      "porcentagem_do_total": 8.94
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 33418.44,
+      "porcentagem_do_total": 10.52
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 30018.38,
+      "porcentagem_do_total": 9.45
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 22222.79,
+      "porcentagem_do_total": 7.0
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 21514.41,
+      "porcentagem_do_total": 6.77
+    }
+  ]
+}

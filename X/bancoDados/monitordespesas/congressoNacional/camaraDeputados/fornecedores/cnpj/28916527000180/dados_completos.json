@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "A MAQUINA SOLUCOES EM MIDIA LTDA ME",
+      "cnpj": "28916527000180",
+      "total_recebido": 40800.0,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:18.892731"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 40800.0
+  },
+  "anos": {
+    "2023": {
+      "total": 15200.0,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 14600.0,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 11000.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204501": {
+      "deputado": {
+        "id": 204501,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204501",
+        "nome": "Alencar Santana",
+        "nomeEleitoral": "Alencar Santana",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204501.jpg",
+        "email": "dep.alencarsantana@camara.leg.br"
+      },
+      "total": 40800.0,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7639703,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-08T00:00:00",
+          "numDocumento": "00000468",
+          "valorDocumento": 9600.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3431/2023/7639703.pdf",
+          "nomeFornecedor": "A MAQUINA SOLUCOES EM MIDIA LTDA ME",
+          "cnpjCpfFornecedor": "28916527000180",
+          "valorLiquido": 9600.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7652130,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-30T00:00:00",
+          "numDocumento": "00000470",
+          "valorDocumento": 5600.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3431/2023/7652130.pdf",
+          "nomeFornecedor": "A MAQUINA SOLUCOES EM MIDIA LTDA ME",
+          "cnpjCpfFornecedor": "28916527000180",
+          "valorLiquido": 5600.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7678509,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-31T00:00:00",
+          "numDocumento": "00000481",
+          "valorDocumento": 5600.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3431/2024/7678509.pdf",
+          "nomeFornecedor": "A MAQUINA SOLUCOES EM MIDIA LTDA ME",
+          "cnpjCpfFornecedor": "28916527000180",
+          "valorLiquido": 5600.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7860008,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-01-24T00:00:00",
+          "numDocumento": "00000551",
+          "valorDocumento": 9000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3431/2025/7860008.pdf",
+          "nomeFornecedor": "A MAQUINA SOLUCOES EM MIDIA LTDA ME",
+          "cnpjCpfFornecedor": "28916527000180",
+          "valorLiquido": 9000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 1,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7864228,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-01-31T00:00:00",
+          "numDocumento": "00000552",
+          "valorDocumento": 11000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3431/2025/7864228.pdf",
+          "nomeFornecedor": "A MAQUINA SOLUCOES EM MIDIA LTDA ME",
+          "cnpjCpfFornecedor": "28916527000180",
+          "valorLiquido": 11000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

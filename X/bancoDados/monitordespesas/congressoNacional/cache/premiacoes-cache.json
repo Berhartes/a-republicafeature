@@ -1,0 +1,57 @@
+{
+  "premiacoes": {
+    "coroas": [
+      {
+        "premio": "coroa",
+        "tipo": "categoria",
+        "categoria": "GERAL",
+        "id": "204469",
+        "nome": "Albuquerque",
+        "siglaPartido": "UNIÃO",
+        "siglaUf": "BA",
+        "total": 1624065.15
+      },
+      {
+        "premio": "coroa",
+        "tipo": "estado",
+        "uf": "BA",
+        "id": "204469",
+        "nome": "Albuquerque",
+        "siglaPartido": "UNIÃO",
+        "siglaUf": "BA",
+        "total": 1624065.15
+      }
+    ],
+    "trofeus": [
+      {
+        "premio": "trofeu",
+        "tipo": "categoria",
+        "categoria": "PASSAGENS",
+        "ano": 2024,
+        "id": "73486",
+        "nome": "Alice Portugal",
+        "siglaPartido": "PCdoB",
+        "siglaUf": "BA",
+        "total": 520000.0
+      },
+      {
+        "premio": "trofeu",
+        "tipo": "estado",
+        "uf": "BA",
+        "ano": 2024,
+        "id": "73486",
+        "nome": "Alice Portugal",
+        "siglaPartido": "PCdoB",
+        "siglaUf": "BA",
+        "total": 1427295.41
+      }
+    ]
+  },
+  "metadata": {
+    "anosDisponiveis": [2023, 2024],
+    "categoriasDisponiveis": ["GERAL", "PASSAGENS"],
+    "ufsDisponiveis": ["BA"],
+    "lastUpdate": "2025-11-10T00:00:00Z",
+    "totalPremiacoes": 4
+  }
+}

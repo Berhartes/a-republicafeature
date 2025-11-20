@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "AUTO POSTO EIXINHO LTDA",
       "cnpj": "05470808000156",
-      "total_recebido": 191.63,
+      "total_recebido": 174.99,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:58:07.114792"
+    "generatedAt": "2025-11-11T05:22:21.608194"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 191.63
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 174.99
   },
   "anos": {
-    "2023": {
-      "total": 191.63,
+    "2025": {
+      "total": 174.99,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204374": {
+    "160527": {
       "deputado": {
-        "id": 204374,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204374",
-        "nome": "Bia Kicis",
-        "siglaPartido": "PL",
+        "id": 160527,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
+        "nome": "Aguinaldo Ribeiro",
+        "nomeEleitoral": "Aguinaldo Ribeiro",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "DF",
+        "siglaUf": "PB",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204374.jpg",
-        "email": "dep.biakicis@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160527.jpg",
+        "email": "dep.aguinaldoribeiro@camara.leg.br"
       },
-      "total": 191.63,
+      "total": 174.99,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 2,
+          "ano": 2025,
+          "mes": 9,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7511734,
+          "codDocumento": 7978845,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-02-24T00:00:00",
-          "numDocumento": "91869",
-          "valorDocumento": 191.63,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7511734",
+          "dataDocumento": "2025-09-05T09:35:01",
+          "numDocumento": "21156",
+          "valorDocumento": 174.99,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7978845",
           "nomeFornecedor": "AUTO POSTO EIXINHO LTDA",
           "cnpjCpfFornecedor": "05470808000156",
-          "valorLiquido": 191.63,
+          "valorLiquido": 174.99,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

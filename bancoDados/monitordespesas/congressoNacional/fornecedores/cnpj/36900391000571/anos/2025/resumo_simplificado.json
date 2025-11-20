@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "REDE QUALITY COMERCIO DE COMBUSTIVEIS LTDA",
+    "cnpj": "36900391000571",
+    "total_recebido": 150.0,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 150.0,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 150.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 150.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 50.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 100.0,
+      "porcentagem_do_total": 66.67
+    }
+  ]
+}

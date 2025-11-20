@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:35.898599"
+    "generatedAt": "2025-11-11T05:22:24.535909"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 5050.0
@@ -25,6 +25,7 @@
         "id": 74696,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74696",
         "nome": "Alberto Mourão",
+        "nomeEleitoral": "Alberto Mourão",
         "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "SP",
@@ -35,25 +36,6 @@
       "total": 5050.0,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 5,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7538506,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-05-02T00:00:00",
-          "numDocumento": "3159",
-          "valorDocumento": 2550.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1390/2023/7538506.pdf",
-          "nomeFornecedor": "AUTO POSTO PRAIA DO FORTE",
-          "cnpjCpfFornecedor": "67260315000149",
-          "valorLiquido": 2550.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 3,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "AUTO POSTO PRAIA DO FORTE",
           "cnpjCpfFornecedor": "67260315000149",
           "valorLiquido": 2500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7538506,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-02T00:00:00",
+          "numDocumento": "3159",
+          "valorDocumento": 2550.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1390/2023/7538506.pdf",
+          "nomeFornecedor": "AUTO POSTO PRAIA DO FORTE",
+          "cnpjCpfFornecedor": "67260315000149",
+          "valorLiquido": 2550.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

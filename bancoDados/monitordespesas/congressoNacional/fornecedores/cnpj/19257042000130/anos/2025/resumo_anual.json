@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "DRA4 DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "19257042000130",
+      "total_recebido": 4538.73,
+      "numero_transacoes": 17,
+      "numero_deputados": 2
+    },
+    "ano": 2025,
+    "total_recebido": 1328.38,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-01-23T22:03:43",
+    "periodo_fim": "2025-04-23T00:00:00",
+    "generatedAt": "2025-11-11T21:37:57.943012"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 1328.38,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1328.38,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 351.75,
+      "porcentagem_do_total": 26.48
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 316.04,
+      "porcentagem_do_total": 23.79
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 660.59,
+      "porcentagem_do_total": 49.73
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7867182,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-01-23T22:03:43",
+      "numDocumento": "61040",
+      "valorDocumento": 351.75,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7867182",
+      "nomeFornecedor": "DRA4 DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "19257042000130",
+      "valorLiquido": 351.75,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2109446,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7879300,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-02-10T07:22:54",
+      "numDocumento": "61740",
+      "valorDocumento": 316.04,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7879300",
+      "nomeFornecedor": "DRA4 DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "19257042000130",
+      "valorLiquido": 316.04,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2116521,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2025,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7915301,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-04-23T00:00:00",
+      "numDocumento": "64731",
+      "valorDocumento": 350.01,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7915301",
+      "nomeFornecedor": "DRA4 DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "19257042000130",
+      "valorLiquido": 350.01,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2135826,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2025,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7907800,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-04-23T00:00:00",
+      "numDocumento": "64739",
+      "valorDocumento": 310.58,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7907800",
+      "nomeFornecedor": "DRA4 DERIVADOS DE PETROLEO LTDA.",
+      "cnpjCpfFornecedor": "19257042000130",
+      "valorLiquido": 310.58,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2131658,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

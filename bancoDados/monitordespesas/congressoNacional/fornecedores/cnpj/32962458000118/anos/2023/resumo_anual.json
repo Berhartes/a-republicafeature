@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO BUGRENSE LTDA",
+      "cnpj": "32962458000118",
+      "total_recebido": 588.04,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 376.02,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-03-23T00:00:00",
+    "periodo_fim": "2023-09-16T00:00:00",
+    "generatedAt": "2025-11-11T21:37:53.035493"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 376.02,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 376.02,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 277.84,
+      "porcentagem_do_total": 73.89
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 98.18,
+      "porcentagem_do_total": 26.11
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7516269,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-03-23T00:00:00",
+      "numDocumento": "71309",
+      "valorDocumento": 277.84,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7516269",
+      "nomeFornecedor": "AUTO POSTO BUGRENSE LTDA",
+      "cnpjCpfFornecedor": "32962458000118",
+      "valorLiquido": 277.84,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1918714,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7609229,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-09-16T00:00:00",
+      "numDocumento": "85207",
+      "valorDocumento": 98.18,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7609229",
+      "nomeFornecedor": "AUTO POSTO BUGRENSE LTDA",
+      "cnpjCpfFornecedor": "32962458000118",
+      "valorLiquido": 98.18,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1968816,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

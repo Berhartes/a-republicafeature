@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "TIAGO RENOSTO",
       "cnpj": "32320318000146",
-      "total_recebido": 437.13,
-      "numero_transacoes": 3,
+      "total_recebido": 417.8,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.308473"
+    "generatedAt": "2025-11-11T05:22:36.385742"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 437.13
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 417.8
   },
   "anos": {
     "2023": {
-      "total": 437.13,
-      "transacoes": 3,
+      "total": 417.8,
+      "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "136811": {
+    "220554": {
       "deputado": {
-        "id": 136811,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
-        "nome": "Afonso Hamm",
-        "siglaPartido": "PP",
+        "id": 220554,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+        "nome": "Alexandre Lindenmeyer",
+        "nomeEleitoral": "Alexandre Lindenmeyer",
+        "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
-        "email": "dep.afonsohamm@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
+        "email": "dep.alexandrelindenmeyer@camara.leg.br"
       },
-      "total": 437.13,
-      "transacoes": 3,
+      "total": 417.8,
+      "transacoes": 2,
       "despesas": [
         {
           "ano": 2023,
           "mes": 10,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7630736,
+          "codDocumento": 7629503,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
           "dataDocumento": "2023-10-19T00:00:00",
-          "numDocumento": "252287",
-          "valorDocumento": 100.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7630736",
+          "numDocumento": "252497",
+          "valorDocumento": 237.8,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7629503",
           "nomeFornecedor": "TIAGO RENOSTO",
           "cnpjCpfFornecedor": "32320318000146",
-          "valorLiquido": 100.0,
+          "valorLiquido": 237.8,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -56,37 +57,18 @@
         },
         {
           "ano": 2023,
-          "mes": 5,
+          "mes": 11,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7543954,
+          "codDocumento": 7648608,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-05-16T00:00:00",
-          "numDocumento": "222876",
-          "valorDocumento": 187.13,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7543954",
+          "dataDocumento": "2023-11-18T00:00:00",
+          "numDocumento": "257961",
+          "valorDocumento": 180.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7648608",
           "nomeFornecedor": "TIAGO RENOSTO",
           "cnpjCpfFornecedor": "32320318000146",
-          "valorLiquido": 187.13,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 3,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7517238,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-03-23T00:00:00",
-          "numDocumento": "211748",
-          "valorDocumento": 150.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7517238",
-          "nomeFornecedor": "TIAGO RENOSTO",
-          "cnpjCpfFornecedor": "32320318000146",
-          "valorLiquido": 150.0,
+          "valorLiquido": 180.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

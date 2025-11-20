@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 204355,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204355",
+    "nome": "Da Vitoria",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "ES",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204355.jpg",
+    "email": "dep.davitoria@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 410994.6,
+  "quantidade_transacoes": 296,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 163602.04,
+      "quantidade_transacoes": 92,
+      "porcentagem_do_total": 39.81
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 91812.69,
+      "quantidade_transacoes": 118,
+      "porcentagem_do_total": 22.34
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 73640.0,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 17.92
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 40701.89,
+      "quantidade_transacoes": 45,
+      "porcentagem_do_total": 9.9
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 36000.0,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 8.76
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 80117.35,
+      "quantidade_transacoes": 105,
+      "porcentagem_do_total": 19.49
+    },
+    {
+      "nome": "ATIVE ENGENHARIA",
+      "cnpj": "39407978000108",
+      "total": 66952.19,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 16.29
+    },
+    {
+      "nome": "REDE BRASIL",
+      "cnpj": "36325116000148",
+      "total": 40640.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 9.89
+    },
+    {
+      "nome": "SUPREMA MOBILIDADE LTDA",
+      "cnpj": "24894397000170",
+      "total": 33000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 8.03
+    },
+    {
+      "nome": "Suplymax Suprimentos de Informática LTDA",
+      "cnpj": "40134537000169",
+      "total": 30195.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 7.35
+    },
+    {
+      "nome": "POSTO DE GASOLINA SAO MIGUEL LTDA  MATRIZ",
+      "cnpj": "27279876000175",
+      "total": 29418.99,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 7.16
+    },
+    {
+      "nome": "POSTO IATE LTDA",
+      "cnpj": "27419142000144",
+      "total": 28736.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 6.99
+    },
+    {
+      "nome": "SWARM TECNOLOGIA LTDA",
+      "cnpj": "20944677000195",
+      "total": 18000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 4.38
+    },
+    {
+      "nome": "Blum Design",
+      "cnpj": "47056303000190",
+      "total": 14000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 3.41
+    },
+    {
+      "nome": "ROMEU EMERICK",
+      "cnpj": "24988138704",
+      "total": 12700.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.09
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 46777.05,
+      "porcentagem_do_total": 11.38
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 49459.35,
+      "porcentagem_do_total": 12.03
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 34175.31,
+      "porcentagem_do_total": 8.32
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 47553.71,
+      "porcentagem_do_total": 11.57
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 47352.2,
+      "porcentagem_do_total": 11.52
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 64960.41,
+      "porcentagem_do_total": 15.81
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 59125.37,
+      "porcentagem_do_total": 14.39
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 34983.46,
+      "porcentagem_do_total": 8.51
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 18170.72,
+      "porcentagem_do_total": 4.42
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 8437.02,
+      "porcentagem_do_total": 2.05
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220583,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220583",
+    "nome": "Delegado Fabio Costa",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "AL",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220583.jpg",
+    "email": "dep.delegadofabiocosta@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 418448.42,
+  "quantidade_transacoes": 120,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 240297.7,
+      "quantidade_transacoes": 50,
+      "porcentagem_do_total": 57.43
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 85600.0,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 20.46
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 66867.95,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 15.98
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 19125.61,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 4.57
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 6557.16,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.57
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "RBF CONSULTORIA EM COMUNICACAO LTDA",
+      "cnpj": "45033090000155",
+      "total": 168297.7,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 40.22
+    },
+    {
+      "nome": "OK LOCADORA DE VEÍCULOS LTDA - EPP",
+      "cnpj": "07173027000125",
+      "total": 85600.0,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 20.46
+    },
+    {
+      "nome": "THAIS MALTA BULHOES CAMPELLO",
+      "cnpj": "02447785402",
+      "total": 62160.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 14.85
+    },
+    {
+      "nome": "C5 SERVIÇOS DE COMUNICAÇÃO LTDA",
+      "cnpj": "41103410000145",
+      "total": 22000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 5.26
+    },
+    {
+      "nome": "JA COMUNICAÇÃO LTDA ME",
+      "cnpj": "23892349000180",
+      "total": 20000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 4.78
+    },
+    {
+      "nome": "PREVISIBILIDADE MIDIA E COMUNICAÇÃO LTDA",
+      "cnpj": "24011008000111",
+      "total": 20000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 4.78
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 13477.41,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 3.22
+    },
+    {
+      "nome": "WRV SERVICOS LTDA",
+      "cnpj": "21819440000145",
+      "total": 10000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 2.39
+    },
+    {
+      "nome": "AUTO POSTO GOLDEN GAS 202 LTDA",
+      "cnpj": "30880112000145",
+      "total": 6557.16,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.57
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 5648.2,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.35
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 47238.46,
+      "porcentagem_do_total": 11.29
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 49612.26,
+      "porcentagem_do_total": 11.86
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 43097.5,
+      "porcentagem_do_total": 10.3
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 42093.21,
+      "porcentagem_do_total": 10.06
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 40542.34,
+      "porcentagem_do_total": 9.69
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 37770.68,
+      "porcentagem_do_total": 9.03
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 43813.36,
+      "porcentagem_do_total": 10.47
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 38614.14,
+      "porcentagem_do_total": 9.23
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 38355.86,
+      "porcentagem_do_total": 9.17
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 37310.61,
+      "porcentagem_do_total": 8.92
+    }
+  ]
+}

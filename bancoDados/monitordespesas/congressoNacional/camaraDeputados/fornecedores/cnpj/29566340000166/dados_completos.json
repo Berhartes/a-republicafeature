@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "POEIRAO MEGA POSTO DE COMBUSTIVEIS LTDA",
       "cnpj": "29566340000166",
-      "total_recebido": 88.0,
+      "total_recebido": 184.22,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:58:47.282406"
+    "generatedAt": "2025-11-11T05:22:40.023259"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 88.0
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 184.22
   },
   "anos": {
-    "2025": {
-      "total": 88.0,
+    "2024": {
+      "total": 184.22,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220690": {
+    "74057": {
       "deputado": {
-        "id": 220690,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220690",
-        "nome": "Capitão Alden",
-        "siglaPartido": "PL",
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
         "uriPartido": "",
         "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-        "email": "dep.capitaoalden@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
       },
-      "total": 88.0,
+      "total": 184.22,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2025,
-          "mes": 8,
+          "ano": 2024,
+          "mes": 9,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7979726,
+          "codDocumento": 7810717,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-08-22T00:00:00",
-          "numDocumento": "64818",
-          "valorDocumento": 88.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7979726",
+          "dataDocumento": "2024-09-17T15:11:28",
+          "numDocumento": "8139",
+          "valorDocumento": 184.22,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7810717",
           "nomeFornecedor": "POEIRAO MEGA POSTO DE COMBUSTIVEIS LTDA",
           "cnpjCpfFornecedor": "29566340000166",
-          "valorLiquido": 88.0,
+          "valorLiquido": 184.22,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

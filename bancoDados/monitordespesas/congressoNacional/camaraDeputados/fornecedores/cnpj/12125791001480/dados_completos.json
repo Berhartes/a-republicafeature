@@ -3,71 +3,53 @@
     "fornecedor": {
       "nome": "L S COMERCIO E SERVICOS LTDA - POSTO NATUREZA OLHO DAGUA",
       "cnpj": "12125791001480",
-      "total_recebido": 200.0,
-      "numero_transacoes": 2,
+      "total_recebido": 410.71,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:45.176464"
+    "generatedAt": "2025-11-11T05:22:43.821025"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 200.0
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 410.71
   },
   "anos": {
-    "2024": {
-      "total": 200.0,
-      "transacoes": 2,
+    "2025": {
+      "total": 410.71,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "178881": {
+    "226708": {
       "deputado": {
-        "id": 178881,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178881",
-        "nome": "Aluisio Mendes",
-        "siglaPartido": "REPUBLICANOS",
+        "id": 226708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
+        "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
+        "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "MA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
-        "email": "dep.aluisiomendes@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226708.jpg",
+        "email": "dep.allangarces@camara.leg.br"
       },
-      "total": 200.0,
-      "transacoes": 2,
+      "total": 410.71,
+      "transacoes": 1,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 9,
+          "ano": 2025,
+          "mes": 5,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7817637,
+          "codDocumento": 7907320,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-09-15T15:07:53",
-          "numDocumento": "110716",
-          "valorDocumento": 100.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7817637",
+          "dataDocumento": "2025-05-02T11:50:00",
+          "numDocumento": "18873",
+          "valorDocumento": 410.71,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7907320",
           "nomeFornecedor": "L S COMERCIO E SERVICOS LTDA - POSTO NATUREZA OLHO DAGUA",
           "cnpjCpfFornecedor": "12125791001480",
-          "valorLiquido": 100.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7817663,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-09-01T16:01:02",
-          "numDocumento": "79150",
-          "valorDocumento": 100.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7817663",
-          "nomeFornecedor": "L S COMERCIO E SERVICOS LTDA - POSTO NATUREZA OLHO DAGUA",
-          "cnpjCpfFornecedor": "12125791001480",
-          "valorLiquido": 100.0,
+          "valorLiquido": 410.71,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

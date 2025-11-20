@@ -1,0 +1,102 @@
+{
+  "fornecedor": {
+    "nome": "R. M. R. DE ALMEIDA - ME",
+    "cnpj": "02747184000183",
+    "total_recebido": 134400.0,
+    "numero_transacoes": 13,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 106800.0,
+  "quantidade_transacoes": 12,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 106800.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 106800.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 7800.0,
+      "porcentagem_do_total": 7.3
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 9000.0,
+      "porcentagem_do_total": 8.43
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 9000.0,
+      "porcentagem_do_total": 8.43
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 9000.0,
+      "porcentagem_do_total": 8.43
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 9000.0,
+      "porcentagem_do_total": 8.43
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 9000.0,
+      "porcentagem_do_total": 8.43
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 9000.0,
+      "porcentagem_do_total": 8.43
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 9000.0,
+      "porcentagem_do_total": 8.43
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 9000.0,
+      "porcentagem_do_total": 8.43
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 9000.0,
+      "porcentagem_do_total": 8.43
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 9000.0,
+      "porcentagem_do_total": 8.43
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 9000.0,
+      "porcentagem_do_total": 8.43
+    }
+  ]
+}

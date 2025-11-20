@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SIM REDE DE POSTOS LTDA - ELDORADO AV DAS INDUSTRIAS",
+      "cnpj": "07473735008751",
+      "total_recebido": 716.06,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:10.756786"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 716.06
+  },
+  "anos": {
+    "2023": {
+      "total": 555.16,
+      "transacoes": 4,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 160.9,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "136811": {
+      "deputado": {
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
+      },
+      "total": 716.06,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7517279,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-23T00:00:00",
+          "numDocumento": "1145875",
+          "valorDocumento": 137.14,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7517279",
+          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - ELDORADO AV DAS INDUSTRIAS",
+          "cnpjCpfFornecedor": "07473735008751",
+          "valorLiquido": 137.14,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7540396,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-06T00:00:00",
+          "numDocumento": "1178239",
+          "valorDocumento": 100.62,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7540396",
+          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - ELDORADO AV DAS INDUSTRIAS",
+          "cnpjCpfFornecedor": "07473735008751",
+          "valorLiquido": 100.62,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7551652,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-25T00:00:00",
+          "numDocumento": "1191716",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7551652",
+          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - ELDORADO AV DAS INDUSTRIAS",
+          "cnpjCpfFornecedor": "07473735008751",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7557844,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-01T00:00:00",
+          "numDocumento": "1196689",
+          "valorDocumento": 217.4,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7557844",
+          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - ELDORADO AV DAS INDUSTRIAS",
+          "cnpjCpfFornecedor": "07473735008751",
+          "valorLiquido": 217.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7850907,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-19T10:10:54",
+          "numDocumento": "1642435",
+          "valorDocumento": 160.9,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7850907",
+          "nomeFornecedor": "SIM REDE DE POSTOS LTDA - ELDORADO AV DAS INDUSTRIAS",
+          "cnpjCpfFornecedor": "07473735008751",
+          "valorLiquido": 160.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

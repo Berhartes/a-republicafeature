@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 204512,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204512",
+    "nome": "Delegado Marcelo Freitas",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204512.jpg",
+    "email": "dep.delegadomarcelofreitas@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 441116.51,
+  "quantidade_transacoes": 362,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 133643.0,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 30.3
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 92266.6,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 20.92
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 70472.86,
+      "quantidade_transacoes": 76,
+      "porcentagem_do_total": 15.98
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 49890.12,
+      "quantidade_transacoes": 66,
+      "porcentagem_do_total": 11.31
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 43662.37,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 9.9
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
+      "cnpj": "19374791000148",
+      "total": 104213.0,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 23.62
+    },
+    {
+      "nome": "Viva Bem Imobiliária LTDA",
+      "cnpj": "19137818000189",
+      "total": 46890.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 10.63
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 27251.41,
+      "quantidade_transacoes": 34,
+      "porcentagem_do_total": 6.18
+    },
+    {
+      "nome": "ARTE DE VIAJAR TURISMO LTDA",
+      "cnpj": "08595105000142",
+      "total": 26863.1,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 6.09
+    },
+    {
+      "nome": "ABC Outdoors e Paineis - Midia OOh e Marketing LTDA",
+      "cnpj": "43550992000133",
+      "total": 23700.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 5.37
+    },
+    {
+      "nome": "R MORAES AGENCIA DE TURISMO EIRELI",
+      "cnpj": "06955770000174",
+      "total": 15852.9,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.59
+    },
+    {
+      "nome": "Dezalienados marketing digital",
+      "cnpj": "41268436000143",
+      "total": 15300.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.47
+    },
+    {
+      "nome": "MD Comunicação Visual LTDA - ME.",
+      "cnpj": "11839442000142",
+      "total": 13000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.95
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 12764.55,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 2.89
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 12730.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.89
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 25547.04,
+      "porcentagem_do_total": 5.79
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 20864.43,
+      "porcentagem_do_total": 4.73
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 22154.72,
+      "porcentagem_do_total": 5.02
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 25365.16,
+      "porcentagem_do_total": 5.75
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 24596.22,
+      "porcentagem_do_total": 5.58
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 38185.07,
+      "porcentagem_do_total": 8.66
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 29996.4,
+      "porcentagem_do_total": 6.8
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 45475.96,
+      "porcentagem_do_total": 10.31
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 28353.52,
+      "porcentagem_do_total": 6.43
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 65930.26,
+      "porcentagem_do_total": 14.95
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 114647.73,
+      "porcentagem_do_total": 25.99
+    }
+  ]
+}

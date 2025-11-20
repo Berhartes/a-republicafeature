@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220602,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220602",
+    "nome": "Dimas Gadelha",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220602.jpg",
+    "email": "dep.dimasgadelha@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 309279.39,
+  "quantidade_transacoes": 115,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 192819.0,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 62.34
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 53218.87,
+      "quantidade_transacoes": 64,
+      "porcentagem_do_total": 17.21
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 46257.7,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 14.96
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 15960.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 5.16
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1023.82,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 0.33
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CRIE AGENCIA DIGITAL LTDA",
+      "cnpj": "35338460000109",
+      "total": 77719.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 25.13
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 37145.81,
+      "quantidade_transacoes": 56,
+      "porcentagem_do_total": 12.01
+    },
+    {
+      "nome": "ODARA COMUNICAÇÃO",
+      "cnpj": "37928339000162",
+      "total": 36750.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 11.88
+    },
+    {
+      "nome": "IARTE COMUNICAÇÃO LTDA",
+      "cnpj": "61886469000164",
+      "total": 28000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 9.05
+    },
+    {
+      "nome": "NAVE SUB INDUSTRIA E COMERCIO DE PAINEIS E ARTIGOS DE DECORACAO LTDA",
+      "cnpj": "18501831000102",
+      "total": 26350.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 8.52
+    },
+    {
+      "nome": "PASSELI-PREDIAL E ADMINISTRADORA SÃO SEBASTIÃO LTDA",
+      "cnpj": "31728918000185",
+      "total": 24946.56,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 8.07
+    },
+    {
+      "nome": "T.J.D SERVIÇOS E NEGOCIOS COMERCIAIS LTDA",
+      "cnpj": "42667205000175",
+      "total": 24000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 7.76
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 16073.06,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 5.2
+    },
+    {
+      "nome": "SOLRAC COMERCIAL LTDA",
+      "cnpj": "45224548000153",
+      "total": 15960.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 5.16
+    },
+    {
+      "nome": "ROBERTO CÁSSIO FARIAS DA SILVA",
+      "cnpj": "63940558753",
+      "total": 7500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.42
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 36200.07,
+      "porcentagem_do_total": 11.7
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 54547.6,
+      "porcentagem_do_total": 17.64
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 24070.54,
+      "porcentagem_do_total": 7.78
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 27798.15,
+      "porcentagem_do_total": 8.99
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 27198.24,
+      "porcentagem_do_total": 8.79
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 58305.89,
+      "porcentagem_do_total": 18.85
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 28785.59,
+      "porcentagem_do_total": 9.31
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 20742.46,
+      "porcentagem_do_total": 6.71
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 15900.0,
+      "porcentagem_do_total": 5.14
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 15730.85,
+      "porcentagem_do_total": 5.09
+    }
+  ]
+}

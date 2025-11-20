@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "R13 CALDAS NOVAS II DERIVADOS DE PETROLEO LTDA",
+    "cnpj": "41341948000198",
+    "total_recebido": 110.51,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 110.51,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 110.51,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 110.51,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 110.51,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

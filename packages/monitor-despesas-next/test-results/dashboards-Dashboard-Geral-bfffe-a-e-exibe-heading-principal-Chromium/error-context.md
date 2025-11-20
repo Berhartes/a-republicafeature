@@ -1,0 +1,71 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic:
+    - link "Pular para conteúdo principal" [ref=e2] [cursor=pointer]:
+      - /url: "#main-content"
+    - link "Pular para navegação" [ref=e3] [cursor=pointer]:
+      - /url: "#navigation"
+    - link "Pular para rodapé" [ref=e4] [cursor=pointer]:
+      - /url: "#footer"
+  - generic [ref=e5]:
+    - banner [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - link "Monitor de Gastos Parlamentares" [ref=e9] [cursor=pointer]:
+            - /url: /
+            - heading "Monitor de Gastos Parlamentares" [level=1] [ref=e10]
+          - navigation [ref=e11]:
+            - link "Dashboard" [ref=e12] [cursor=pointer]:
+              - /url: /gastos/dashboards
+              - img [ref=e13]
+              - text: Dashboard
+            - link "Análise IA" [ref=e18] [cursor=pointer]:
+              - /url: /gastos/analise-avancada
+              - img [ref=e19]
+              - text: Análise IA
+            - link "Deputados" [ref=e27] [cursor=pointer]:
+              - /url: /gastos/deputados
+              - img [ref=e28]
+              - text: Deputados
+            - link "Fornecedores" [ref=e33] [cursor=pointer]:
+              - /url: /gastos/fornecedores
+              - img [ref=e34]
+              - text: Fornecedores
+            - link "Premiações" [ref=e38] [cursor=pointer]:
+              - /url: /gastos/premiacoes
+              - img [ref=e39]
+              - text: Premiações
+            - link "Comparar" [ref=e45] [cursor=pointer]:
+              - /url: /gastos/comparar
+              - img [ref=e46]
+              - text: Comparar
+            - link "Alertas" [ref=e51] [cursor=pointer]:
+              - /url: /gastos/relatorios?tab=alertas
+              - img [ref=e52]
+              - text: Alertas
+            - link "Relatórios" [ref=e54] [cursor=pointer]:
+              - /url: /gastos/relatorios?tab=relatorios
+              - img [ref=e55]
+              - text: Relatórios
+        - generic [ref=e58]:
+          - button "Notificações" [ref=e60]:
+            - img [ref=e61]
+          - link "Configurações" [ref=e64] [cursor=pointer]:
+            - /url: /gastos/configuracoes
+            - img [ref=e65]
+    - main [ref=e68]:
+      - main [ref=e70]:
+        - heading "Dashboard Geral" [level=1] [ref=e71]
+        - generic [ref=e72]: Falha ao carregar os dados do dashboard.
+    - button "Abrir busca global (Ctrl+K)" [ref=e73]:
+      - img [ref=e74]
+    - region "Notifications (F8)":
+      - list
+    - contentinfo [ref=e77]:
+      - paragraph [ref=e78]: Sistema de Gastos de Deputados
+  - button "Open Next.js Dev Tools" [ref=e84] [cursor=pointer]:
+    - img [ref=e85]
+  - alert [ref=e88]
+```

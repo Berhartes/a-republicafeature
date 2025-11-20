@@ -1,0 +1,130 @@
+{
+  "fornecedor": {
+    "nome": "GOL",
+    "cnpj": null,
+    "total_recebido": 172359.85,
+    "numero_transacoes": 170,
+    "numero_deputados": 5
+  },
+  "ano": 2024,
+  "total_recebido": 52652.94,
+  "quantidade_transacoes": 73,
+  "principais_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 23132.53,
+      "quantidade_transacoes": 47,
+      "porcentagem_do_total": 43.93
+    },
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 13491.37,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 25.62
+    },
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 9733.66,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 18.49
+    },
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 4315.37,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 8.2
+    },
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 1980.01,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.76
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 52652.94,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 2443.71,
+      "porcentagem_do_total": 4.64
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 8613.8,
+      "porcentagem_do_total": 16.36
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 10935.18,
+      "porcentagem_do_total": 20.77
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 14849.74,
+      "porcentagem_do_total": 28.2
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": -4323.13,
+      "porcentagem_do_total": -8.21
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 8444.07,
+      "porcentagem_do_total": 16.04
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": -6671.48,
+      "porcentagem_do_total": -12.67
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": -4492.6,
+      "porcentagem_do_total": -8.53
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 10023.57,
+      "porcentagem_do_total": 19.04
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 3903.89,
+      "porcentagem_do_total": 7.41
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 6918.9,
+      "porcentagem_do_total": 13.14
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 2007.29,
+      "porcentagem_do_total": 3.81
+    }
+  ]
+}

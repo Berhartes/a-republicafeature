@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "POSTO DE COMBUSTIVEL GUERREIRINHO LTDA",
+    "cnpj": "35340529000139",
+    "total_recebido": 649.58,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 365.54,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 365.54,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 365.54,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 365.54,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

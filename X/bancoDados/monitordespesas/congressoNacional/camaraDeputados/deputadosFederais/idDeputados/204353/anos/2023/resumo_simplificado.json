@@ -1,0 +1,60 @@
+{
+  "deputado": {
+    "id": 204353,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204353",
+    "nome": "Aline Gurgel",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "AP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204353.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": -3928.04,
+  "quantidade_transacoes": 5,
+  "principais_categorias": [
+    {
+      "categoria": "TELEFONIA",
+      "total": 117.9,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": -4045.94,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CELULAR FUNCIONAL",
+      "cnpj": "00000000000001",
+      "total": 117.9,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": -4045.94,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 117.9,
+      "porcentagem_do_total": 0
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": -4045.94,
+      "porcentagem_do_total": 0
+    }
+  ]
+}

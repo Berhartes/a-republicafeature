@@ -1,0 +1,146 @@
+{
+  "deputado": {
+    "id": 227401,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227401",
+    "nome": "Dr Fabio Rueda",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "AC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/227401.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 165198.05,
+  "quantidade_transacoes": 50,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 134200.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 81.24
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 14260.16,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 8.63
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 7883.39,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.77
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 5917.29,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.58
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1361.69,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 0.82
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "FOGO COMUNICACAO LTDA",
+      "cnpj": "12824124000170",
+      "total": 69200.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 41.89
+    },
+    {
+      "nome": "ANNA L M DA SILVA PRODUÇÕES E ENTRETENIMENTO",
+      "cnpj": "40498543000103",
+      "total": 30000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 18.16
+    },
+    {
+      "nome": "O PALACIANO AGENCIA DE NOTÍCIAS LTDA",
+      "cnpj": "37148819000100",
+      "total": 25000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 15.13
+    },
+    {
+      "nome": "CIM - CENTRO DE IDIOMAS DO MUNDO LTDA",
+      "cnpj": "42606674000184",
+      "total": 10000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 6.05
+    },
+    {
+      "nome": "QUASAR LOCADORA DE VEICULOS EIRELI",
+      "cnpj": "38024675000143",
+      "total": 7883.39,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.77
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 7353.67,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 4.45
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 5917.29,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.58
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 3797.05,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.3
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 3109.44,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.88
+    },
+    {
+      "nome": "DORIS ELVIRA GAVINO FERNANDEZ DE VIVANCO",
+      "cnpj": "00682368000187",
+      "total": 680.4,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.41
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 22172.77,
+      "porcentagem_do_total": 13.42
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 71984.29,
+      "porcentagem_do_total": 43.57
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 44317.97,
+      "porcentagem_do_total": 26.83
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 26723.02,
+      "porcentagem_do_total": 16.18
+    }
+  ]
+}

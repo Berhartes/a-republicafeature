@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "SIM REDE DE POSTOS LTDA - GRAVATAI FREE WAY",
       "cnpj": "07473735006970",
-      "total_recebido": 227.4,
+      "total_recebido": 253.75,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:59:07.570313"
+    "generatedAt": "2025-11-11T05:22:26.773767"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 227.4
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 253.75
   },
   "anos": {
     "2023": {
-      "total": 227.4,
+      "total": 253.75,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204361": {
+    "160559": {
       "deputado": {
-        "id": 204361,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
-        "nome": "Carlos Chiodini",
+        "id": 160559,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
+        "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
         "siglaPartido": "MDB",
         "uriPartido": "",
-        "siglaUf": "SC",
+        "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
-        "email": null
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
+        "email": "dep.alceumoreira@camara.leg.br"
       },
-      "total": 227.4,
+      "total": 253.75,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 3,
+          "mes": 6,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7525616,
+          "codDocumento": 7563197,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-03-23T00:00:00",
-          "numDocumento": "1896993",
-          "valorDocumento": 227.4,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7525616",
+          "dataDocumento": "2023-06-19T00:00:00",
+          "numDocumento": "2041994",
+          "valorDocumento": 253.75,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7563197",
           "nomeFornecedor": "SIM REDE DE POSTOS LTDA - GRAVATAI FREE WAY",
           "cnpjCpfFornecedor": "07473735006970",
-          "valorLiquido": 227.4,
+          "valorLiquido": 253.75,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "EL SHADDAY COM DE COMBUSTIVEIS, LUBRIFICANTES E TRANSP LTDA",
+      "cnpj": "11141960000198",
+      "total_recebido": 115.77,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 115.77,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-10-05T00:00:00",
+    "periodo_fim": "2023-10-05T00:00:00",
+    "generatedAt": "2025-11-11T21:37:53.826482"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 115.77,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 115.77,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 115.77,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7622944,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-10-05T00:00:00",
+      "numDocumento": "780",
+      "valorDocumento": 115.77,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7622944",
+      "nomeFornecedor": "EL SHADDAY COM DE COMBUSTIVEIS, LUBRIFICANTES E TRANSP LTDA",
+      "cnpjCpfFornecedor": "11141960000198",
+      "valorLiquido": 115.77,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1976736,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

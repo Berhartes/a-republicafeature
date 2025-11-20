@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:12:03Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00108775000185"
+  },
+  "data": {
+    "cnpj": "00108775000185",
+    "nome": "COLONIAL PRODUTOS E SERVICOS LTDA",
+    "nomeFornecedor": "COLONIAL PRODUTOS E SERVICOS LTDA",
+    "totalTransacionado": 646.31,
+    "totalRecebido": 646.31,
+    "totalRecebidoTodos": 646.31,
+    "transacoes": 3,
+    "numeroTransacoes": 3,
+    "numeroDeputadosAtendidos": 2,
+    "deputadosAtendidos": [
+      {
+        "id": "204361",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 479.14,
+        "transacoes": 2
+      },
+      {
+        "id": "220556",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 167.17,
+        "transacoes": 1
+      }
+    ],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 646.31,
+        "quantidade": 3
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 646.31,
+        "quantidade": 3
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2024": {
+        "valor": 479.14,
+        "transacoes": 2,
+        "deputados": 0
+      },
+      "2025": {
+        "valor": 167.17,
+        "transacoes": 1,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 280.45,
+        "ano": 2024,
+        "mes": 1,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "18444",
+        "dataDocumento": "2024-01-15T00:00:00",
+        "deputadoId": "204361",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 198.69,
+        "ano": 2024,
+        "mes": 12,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "134651",
+        "dataDocumento": "2024-12-02T00:00:00",
+        "deputadoId": "204361",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 167.17,
+        "ano": 2025,
+        "mes": 5,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "264998",
+        "dataDocumento": "2025-05-24T00:00:00",
+        "deputadoId": "220556",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 167.17,
+        "valorLiquido": 167.17,
+        "valorDocumento": 167.17,
+        "ano": 2025,
+        "mes": 5,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2025-05-24T00:00:00",
+        "data": "2025-05-24T00:00:00",
+        "numDocumento": "264998",
+        "codDocumento": 7920093,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7920093",
+        "deputadoId": "220556",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "COLONIAL PRODUTOS E SERVICOS LTDA",
+        "cnpj": "00108775000185",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7920093"
+      },
+      {
+        "valor": 198.69,
+        "valorLiquido": 198.69,
+        "valorDocumento": 198.69,
+        "ano": 2024,
+        "mes": 12,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2024-12-02T00:00:00",
+        "data": "2024-12-02T00:00:00",
+        "numDocumento": "134651",
+        "codDocumento": 7841462,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7841462.pdf",
+        "deputadoId": "204361",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "COLONIAL PRODUTOS E SERVICOS LTDA",
+        "cnpj": "00108775000185",
+        "urlDocumentoPdf": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3331/2024/7841462.pdf"
+      },
+      {
+        "valor": 280.45,
+        "valorLiquido": 280.45,
+        "valorDocumento": 280.45,
+        "ano": 2024,
+        "mes": 1,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2024-01-15T00:00:00",
+        "data": "2024-01-15T00:00:00",
+        "numDocumento": "18444",
+        "codDocumento": 7683688,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7683688",
+        "deputadoId": "204361",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "COLONIAL PRODUTOS E SERVICOS LTDA",
+        "cnpj": "00108775000185",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7683688"
+      }
+    ],
+    "totalTransacoesDetalhadas": 3,
+    "aliases": [
+      "00108775000185"
+    ],
+    "temDetalhes": true
+  }
+}

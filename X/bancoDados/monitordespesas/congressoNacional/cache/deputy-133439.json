@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T17:45:22Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "deputados.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "deputadoId": "133439"
+  },
+  "data": {
+    "id": "133439",
+    "nome": "André Figueiredo",
+    "nomeEleitoral": "André Figueiredo",
+    "nomeCivil": null,
+    "partido": "PDT",
+    "siglaPartido": "PDT",
+    "uf": "CE",
+    "siglaUf": "CE",
+    "urlFoto": null,
+    "totalDespesas": 1435586.4899999998,
+    "numeroDespesas": 969,
+    "fornecedoresIdentificados": 75,
+    "createdAt": "2025-11-01T17:45:19Z",
+    "gastosPorAno": {},
+    "transacoesPorAno": {},
+    "topCategorias": [],
+    "topFornecedores": [],
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "temDetalhes": false
+  }
+}

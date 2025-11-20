@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
+      "cnpj": "11903789000107",
+      "total_recebido": 109.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:03.283008"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 109.0
+  },
+  "anos": {
+    "2023": {
+      "total": 109.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 109.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7559262,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-06-13T00:00:00",
+          "numDocumento": "251977",
+          "valorDocumento": 123.17,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7559262",
+          "nomeFornecedor": "C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA",
+          "cnpjCpfFornecedor": "11903789000107",
+          "valorLiquido": 109.0,
+          "valorGlosa": 14.17,
+          "numRessarcimento": "",
+          "codLote": 1942248,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

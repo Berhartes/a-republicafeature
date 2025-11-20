@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:34.178795"
+    "generatedAt": "2025-11-11T05:22:43.662507"
   },
   "categorias": {
     "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 9000.0
@@ -25,6 +25,7 @@
         "id": 226708,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
         "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "MA",
@@ -37,15 +38,15 @@
       "despesas": [
         {
           "ano": 2024,
-          "mes": 9,
+          "mes": 7,
           "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-          "codDocumento": 7810045,
+          "codDocumento": 7763946,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-10-02T00:00:00",
-          "numDocumento": "SN",
+          "dataDocumento": "2024-07-02T00:00:00",
+          "numDocumento": "S/N",
           "valorDocumento": 3000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2024/7810045.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2024/7763946.pdf",
           "nomeFornecedor": "Helder Cled Moraes Campos",
           "cnpjCpfFornecedor": "04207427350",
           "valorLiquido": 3000.0,
@@ -75,15 +76,15 @@
         },
         {
           "ano": 2024,
-          "mes": 7,
+          "mes": 9,
           "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-          "codDocumento": 7763946,
+          "codDocumento": 7810045,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-07-02T00:00:00",
-          "numDocumento": "S/N",
+          "dataDocumento": "2024-10-02T00:00:00",
+          "numDocumento": "SN",
           "valorDocumento": 3000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2024/7763946.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2024/7810045.pdf",
           "nomeFornecedor": "Helder Cled Moraes Campos",
           "cnpjCpfFornecedor": "04207427350",
           "valorLiquido": 3000.0,

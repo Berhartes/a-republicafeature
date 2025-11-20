@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEL COLOMBO",
+      "cnpj": "10199055000126",
+      "total_recebido": 1245.0,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 1010.0,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-09-20T00:00:00",
+    "periodo_fim": "2023-11-29T00:00:00",
+    "generatedAt": "2025-11-11T21:37:55.285492"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 1010.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 1010.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 500.0,
+      "porcentagem_do_total": 49.5
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 510.0,
+      "porcentagem_do_total": 50.5
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "codDocumento": 7611898,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-09-20T00:00:00",
+      "numDocumento": "23318",
+      "valorDocumento": 250.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7611898.pdf",
+      "nomeFornecedor": "HOTEL COLOMBO",
+      "cnpjCpfFornecedor": "10199055000126",
+      "valorLiquido": 250.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1970249,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "codDocumento": 7611890,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-09-20T00:00:00",
+      "numDocumento": "23319",
+      "valorDocumento": 250.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7611890.pdf",
+      "nomeFornecedor": "HOTEL COLOMBO",
+      "cnpjCpfFornecedor": "10199055000126",
+      "valorLiquido": 250.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1970249,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "codDocumento": 7651701,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-11-24T00:00:00",
+      "numDocumento": "23703",
+      "valorDocumento": 255.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7651701.pdf",
+      "nomeFornecedor": "HOTEL COLOMBO",
+      "cnpjCpfFornecedor": "10199055000126",
+      "valorLiquido": 255.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1992491,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "codDocumento": 7651775,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-11-29T00:00:00",
+      "numDocumento": "23727",
+      "valorDocumento": 255.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7651775.pdf",
+      "nomeFornecedor": "HOTEL COLOMBO",
+      "cnpjCpfFornecedor": "10199055000126",
+      "valorLiquido": 255.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1992491,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

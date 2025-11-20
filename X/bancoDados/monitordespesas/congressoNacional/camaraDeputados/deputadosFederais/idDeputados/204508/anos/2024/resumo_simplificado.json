@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 204508,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204508",
+    "nome": "Igor Timo",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204508.jpg",
+    "email": "dep.igortimo@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 492347.05,
+  "quantidade_transacoes": 492,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 219087.49,
+      "quantidade_transacoes": 107,
+      "porcentagem_do_total": 44.5
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 156746.82,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 31.84
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 55625.29,
+      "quantidade_transacoes": 86,
+      "porcentagem_do_total": 11.3
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 44506.96,
+      "quantidade_transacoes": 219,
+      "porcentagem_do_total": 9.04
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 10675.5,
+      "quantidade_transacoes": 36,
+      "porcentagem_do_total": 2.17
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "PATRÍCIA REZENDE LAMOUNIER",
+      "cnpj": "07091021606",
+      "total": 146174.4,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 29.69
+    },
+    {
+      "nome": "VISAO CONSULTORIA E MARKETING LTDA",
+      "cnpj": "06097072000185",
+      "total": 132000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 26.81
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 38263.39,
+      "quantidade_transacoes": 53,
+      "porcentagem_do_total": 7.77
+    },
+    {
+      "nome": "SIGGO SIST. DE INF. GERENCIAL E GOV. OPPORTUNE LTD",
+      "cnpj": "12146589000110",
+      "total": 36314.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 7.38
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 17361.9,
+      "quantidade_transacoes": 33,
+      "porcentagem_do_total": 3.53
+    },
+    {
+      "nome": "MARLI MIGUEL",
+      "cnpj": "36553933000153",
+      "total": 12000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 2.44
+    },
+    {
+      "nome": "Copygreen Outsourcing de Impressao e Solucoes",
+      "cnpj": "11128593000192",
+      "total": 7251.15,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.47
+    },
+    {
+      "nome": "CEMIG DISTRIBUIÇÃO S.A.",
+      "cnpj": "06981180000116",
+      "total": 7022.24,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.43
+    },
+    {
+      "nome": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA",
+      "cnpj": "11521613000190",
+      "total": 6989.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 1.42
+    },
+    {
+      "nome": "Facebook Serviços Online do Brasil ltda",
+      "cnpj": "13347016000117",
+      "total": 6000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.22
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 26055.03,
+      "porcentagem_do_total": 5.29
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 23066.65,
+      "porcentagem_do_total": 4.69
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 29001.29,
+      "porcentagem_do_total": 5.89
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 25580.05,
+      "porcentagem_do_total": 5.2
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 35553.47,
+      "porcentagem_do_total": 7.22
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 35312.84,
+      "porcentagem_do_total": 7.17
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 27187.17,
+      "porcentagem_do_total": 5.52
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 28467.25,
+      "porcentagem_do_total": 5.78
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 39201.38,
+      "porcentagem_do_total": 7.96
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 98718.11,
+      "porcentagem_do_total": 20.05
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 96595.59,
+      "porcentagem_do_total": 19.62
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 27608.22,
+      "porcentagem_do_total": 5.61
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-08T13:42:15Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v2",
+    "legislatura": 57,
+    "cnpj": "00114896000130"
+  },
+  "data": {
+    "cnpj": "00114896000130",
+    "nome": "Carlenio Pereira da Silva",
+    "nomeFornecedor": "Carlenio Pereira da Silva",
+    "totalTransacionado": 12000.0,
+    "totalRecebido": 12000.0,
+    "totalRecebidoTodos": 12000.0,
+    "transacoes": 3,
+    "numeroTransacoes": 3,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [],
+    "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+    "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+    "categorias": [
+      "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+    ],
+    "categoriasOriginais": [
+      "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+    ],
+    "categoriasInfo": {
+      "principal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "normalizadas": [
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+      ],
+      "principalOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "originais": [
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+      ]
+    },
+    "distribuicaoTipos": {
+      "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+        "valor": 12000.0,
+        "quantidade": 3
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+        "valor": 12000.0,
+        "quantidade": 3
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 3000.0,
+        "transacoes": 0,
+        "deputados": 0
+      },
+      "2024": {
+        "valor": 4000.0,
+        "transacoes": 0,
+        "deputados": 0
+      },
+      "2025": {
+        "valor": 5000.0,
+        "transacoes": 0,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

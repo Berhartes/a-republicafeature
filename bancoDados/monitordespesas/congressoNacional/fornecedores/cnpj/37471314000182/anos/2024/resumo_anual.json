@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ELIEZER CONCEIÇÃO LIMA",
+      "cnpj": "37471314000182",
+      "total_recebido": 140714.49999999997,
+      "numero_transacoes": 9,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 45000.0,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-07-17T00:00:00",
+    "periodo_fim": "2024-12-03T00:00:00",
+    "generatedAt": "2025-11-11T21:37:59.381011"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 45000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 45000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 15000.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 15000.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 15000.0,
+      "porcentagem_do_total": 33.33
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7775792,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-07-17T00:00:00",
+      "numDocumento": "10",
+      "valorDocumento": 15000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7775792.pdf",
+      "nomeFornecedor": "ELIEZER CONCEIÇÃO LIMA",
+      "cnpjCpfFornecedor": "37471314000182",
+      "valorLiquido": 15000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2060294,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7839514,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-12-03T00:00:00",
+      "numDocumento": "13",
+      "valorDocumento": 15000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7839514.pdf",
+      "nomeFornecedor": "ELIEZER CONCEIÇÃO LIMA",
+      "cnpjCpfFornecedor": "37471314000182",
+      "valorLiquido": 15000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2093977,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7790498,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-08-16T00:00:00",
+      "numDocumento": "14",
+      "valorDocumento": 15000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7790498.pdf",
+      "nomeFornecedor": "ELIEZER CONCEIÇÃO LIMA",
+      "cnpjCpfFornecedor": "37471314000182",
+      "valorLiquido": 15000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2067538,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

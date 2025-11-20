@@ -1,0 +1,120 @@
+{
+  "deputado": {
+    "id": 178962,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178962",
+    "nome": "Carlos Gomes",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "RS",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": -381.42,
+  "quantidade_transacoes": 18,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 3377.3,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 721.15,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": -4479.87,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 4884.85,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 3377.3,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    },
+    {
+      "nome": "SOUSA E ALVES COM DE DERIVADOS DE PETRÓLEO",
+      "cnpj": "07111605000107",
+      "total": 280.04,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    },
+    {
+      "nome": "BRASAL COMBUSTIVEIS LTDA",
+      "cnpj": "00097626000400",
+      "total": 241.11,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    },
+    {
+      "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+      "cnpj": "00692418000107",
+      "total": 100.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    },
+    {
+      "nome": "METRO COMERCIAL DE COMBUSTIVEIS LTDA",
+      "cnpj": "09232995000190",
+      "total": 100.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 74.95,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": -9439.67,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": -50.83,
+      "porcentagem_do_total": 0
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": -5741.2,
+      "porcentagem_do_total": 0
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": -3647.64,
+      "porcentagem_do_total": 0
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 9058.25,
+      "porcentagem_do_total": 0
+    }
+  ]
+}

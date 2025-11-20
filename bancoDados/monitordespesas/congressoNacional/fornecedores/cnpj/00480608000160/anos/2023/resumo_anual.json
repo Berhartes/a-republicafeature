@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MARCO MARCHETTI S/A HOTEIS",
+      "cnpj": "00480608000160",
+      "total_recebido": 867.14,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 867.14,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-02-04T00:00:00",
+    "periodo_fim": "2023-03-17T00:00:00",
+    "generatedAt": "2025-11-11T21:37:55.388485"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 867.14,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 867.14,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 493.14,
+      "porcentagem_do_total": 56.87
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 374.0,
+      "porcentagem_do_total": 43.13
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "codDocumento": 7499019,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-04T00:00:00",
+      "numDocumento": "1072",
+      "valorDocumento": 493.14,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7499019.pdf",
+      "nomeFornecedor": "MARCO MARCHETTI S/A HOTEIS",
+      "cnpjCpfFornecedor": "00480608000160",
+      "valorLiquido": 493.14,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1909045,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 3,
+      "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "codDocumento": 7516378,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-03-17T00:00:00",
+      "numDocumento": "2826",
+      "valorDocumento": 374.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7516378.pdf",
+      "nomeFornecedor": "MARCO MARCHETTI S/A HOTEIS",
+      "cnpjCpfFornecedor": "00480608000160",
+      "valorLiquido": 374.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1918715,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

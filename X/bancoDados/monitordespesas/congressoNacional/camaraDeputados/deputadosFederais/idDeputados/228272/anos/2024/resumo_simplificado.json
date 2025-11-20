@@ -1,0 +1,152 @@
+{
+  "deputado": {
+    "id": 228272,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/228272",
+    "nome": "Délio Pinheiro",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/228272.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 97731.73,
+  "quantidade_transacoes": 111,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 31837.8,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 32.58
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 30528.3,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 31.24
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 27139.43,
+      "quantidade_transacoes": 33,
+      "porcentagem_do_total": 27.77
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 2940.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.01
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - RPA",
+      "total": 2583.32,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.64
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "LOCALIZA RENT A CAR SA",
+      "cnpj": "16670085055308",
+      "total": 30528.3,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 31.24
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 27139.43,
+      "quantidade_transacoes": 33,
+      "porcentagem_do_total": 27.77
+    },
+    {
+      "nome": "MB LOUBACK PUBLICAÇOES PRODUÇOES",
+      "cnpj": "12595956000162",
+      "total": 24837.8,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 25.41
+    },
+    {
+      "nome": "PLANO COMUNICAÇÃO LTDA",
+      "cnpj": "50852495000155",
+      "total": 3500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.58
+    },
+    {
+      "nome": "plano ltda",
+      "cnpj": "50852495000155",
+      "total": 3500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.58
+    },
+    {
+      "nome": "Kelson Alves ribeiro",
+      "cnpj": "98617451653",
+      "total": 2940.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.01
+    },
+    {
+      "nome": "Cia Aérea - AZUL",
+      "cnpj": "09296295000160",
+      "total": 2583.32,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.64
+    },
+    {
+      "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpj": "17895646000187",
+      "total": 1575.52,
+      "quantidade_transacoes": 52,
+      "porcentagem_do_total": 1.61
+    },
+    {
+      "nome": "AUTO POSTO ORIGINAL BRASILIA 414 DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "20638511000140",
+      "total": 291.36,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.3
+    },
+    {
+      "nome": "2023HOTELARIA ACCOR BRASIL S/A",
+      "cnpj": "09967852015582",
+      "total": 211.47,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.22
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 18720.14,
+      "porcentagem_do_total": 19.15
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 30520.86,
+      "porcentagem_do_total": 31.23
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 26529.91,
+      "porcentagem_do_total": 27.15
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 18295.18,
+      "porcentagem_do_total": 18.72
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 3665.64,
+      "porcentagem_do_total": 3.75
+    }
+  ]
+}

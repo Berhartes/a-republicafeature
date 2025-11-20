@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.316489"
+    "generatedAt": "2025-11-11T05:22:16.390976"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 442.98
@@ -30,6 +30,7 @@
         "id": 136811,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
         "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -40,25 +41,6 @@
       "total": 442.98,
       "transacoes": 3,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7614688,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-09-19T00:00:00",
-          "numDocumento": "160765",
-          "valorDocumento": 215.04,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7614688",
-          "nomeFornecedor": "DE AVILA & FARIAS LTDA",
-          "cnpjCpfFornecedor": "11466683000355",
-          "valorLiquido": 215.04,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 5,
@@ -73,6 +55,25 @@
           "nomeFornecedor": "DE AVILA & FARIAS LTDA",
           "cnpjCpfFornecedor": "11466683000355",
           "valorLiquido": 177.94,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7614688,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-19T00:00:00",
+          "numDocumento": "160765",
+          "valorDocumento": 215.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7614688",
+          "nomeFornecedor": "DE AVILA & FARIAS LTDA",
+          "cnpjCpfFornecedor": "11466683000355",
+          "valorLiquido": 215.04,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

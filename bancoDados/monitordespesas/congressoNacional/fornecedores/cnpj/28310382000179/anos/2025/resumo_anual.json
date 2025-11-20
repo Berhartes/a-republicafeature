@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "J C DE BRITO ASSESSORIA E COMUNICACAO",
+      "cnpj": "28310382000179",
+      "total_recebido": 142000.0,
+      "numero_transacoes": 29,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 45000.0,
+    "quantidade_transacoes": 9,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-02-13T00:00:00",
+    "periodo_fim": "2025-10-01T00:00:00",
+    "generatedAt": "2025-11-11T21:38:06.277011"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 45000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 45000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 5000.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 5000.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 5000.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 5000.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 5000.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 5000.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 5000.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 5000.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 5000.0,
+      "porcentagem_do_total": 11.11
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 1,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7868766,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-02-13T00:00:00",
+      "numDocumento": "462",
+      "valorDocumento": 5000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3326/2025/7868766.pdf",
+      "nomeFornecedor": "JC DE BRITO ASSESSORIA E COMINICA;'AO ME",
+      "cnpjCpfFornecedor": "28310382000179",
+      "valorLiquido": 5000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2110390,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7875050,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-02-26T00:00:00",
+      "numDocumento": "465",
+      "valorDocumento": 5000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3326/2025/7875050.pdf",
+      "nomeFornecedor": "JC DE BRITO ASSESSORIA E COMINICA;'AO ME",
+      "cnpjCpfFornecedor": "28310382000179",
+      "valorLiquido": 5000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2113714,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2025,
+      "mes": 3,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7902220,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-03-31T00:00:00",
+      "numDocumento": "487",
+      "valorDocumento": 5000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3326/2025/7902220.pdf",
+      "nomeFornecedor": "JC DE BRITO ASSESSORIA E COMINICA;'AO ME",
+      "cnpjCpfFornecedor": "28310382000179",
+      "valorLiquido": 5000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2128758,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2025,
+      "mes": 4,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7922084,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-04-30T00:00:00",
+      "numDocumento": "500",
+      "valorDocumento": 5000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3326/2025/7922084.pdf",
+      "nomeFornecedor": "JC DE BRITO ASSESSORIA E COMINICA;'AO ME",
+      "cnpjCpfFornecedor": "28310382000179",
+      "valorLiquido": 5000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2139283,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2025,
+      "mes": 6,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7950111,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-06-30T00:00:00",
+      "numDocumento": "535",
+      "valorDocumento": 5000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3326/2025/7950111.pdf",
+      "nomeFornecedor": "JC DE BRITO ASSESSORIA E COMINICA;'AO ME",
+      "cnpjCpfFornecedor": "28310382000179",
+      "valorLiquido": 5000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2155179,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2025,
+      "mes": 7,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7961098,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-08-05T00:00:00",
+      "numDocumento": "558",
+      "valorDocumento": 5000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3326/2025/7961098.pdf",
+      "nomeFornecedor": "JC DE BRITO ASSESSORIA E COMINICA;'AO ME",
+      "cnpjCpfFornecedor": "28310382000179",
+      "valorLiquido": 5000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2160934,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2025,
+      "mes": 8,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7990130,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-09-16T00:00:00",
+      "numDocumento": "584",
+      "valorDocumento": 5000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3326/2025/7990130.pdf",
+      "nomeFornecedor": "JC DE BRITO ASSESSORIA E COMINICA;'AO ME",
+      "cnpjCpfFornecedor": "28310382000179",
+      "valorLiquido": 5000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2176200,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2025,
+      "mes": 9,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 8004302,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-10-01T00:00:00",
+      "numDocumento": "597",
+      "valorDocumento": 5000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3326/2025/8004302.pdf",
+      "nomeFornecedor": "JC DE BRITO ASSESSORIA E COMINICA;'AO ME",
+      "cnpjCpfFornecedor": "28310382000179",
+      "valorLiquido": 5000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2183957,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2025,
+      "mes": 5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7938574,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-05-30T00:00:00",
+      "numDocumento": "518",
+      "valorDocumento": 5000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3326/2025/7938574.pdf",
+      "nomeFornecedor": "TAMTA COMUNICACAO E ASSESSORIA LTDA",
+      "cnpjCpfFornecedor": "28310382000179",
+      "valorLiquido": 5000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2149210,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    }
+  ]
+}

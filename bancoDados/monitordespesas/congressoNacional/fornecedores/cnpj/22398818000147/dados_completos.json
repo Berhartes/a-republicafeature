@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO 306 NORTE LTDA",
+      "cnpj": "22398818000147",
+      "total_recebido": 1337.36,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:58.436008"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 1337.36
+  },
+  "anos": {
+    "2024": {
+      "total": 300.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 1037.36,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204379": {
+      "deputado": {
+        "id": 204379,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204379",
+        "nome": "Acácio Favacho",
+        "siglaPartido": "MDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204379.jpg",
+        "email": "dep.acaciofavacho@camara.leg.br"
+      },
+      "total": 1337.36,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7760106,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-05-19T16:45:15",
+          "numDocumento": "43131",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7760106",
+          "nomeFornecedor": "AUTO POSTO 306 NORTE LTDA",
+          "cnpjCpfFornecedor": "22398818000147",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2052269,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7961388,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-07-09T22:57:28",
+          "numDocumento": "66838",
+          "valorDocumento": 350.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7961388",
+          "nomeFornecedor": "AUTO POSTO 306 NORTE LTDA",
+          "cnpjCpfFornecedor": "22398818000147",
+          "valorLiquido": 350.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2161013,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7961380,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-07-23T18:13:42",
+          "numDocumento": "70619",
+          "valorDocumento": 341.17,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7961380",
+          "nomeFornecedor": "AUTO POSTO 306 NORTE LTDA",
+          "cnpjCpfFornecedor": "22398818000147",
+          "valorLiquido": 341.17,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2161013,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 8010510,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-10-24T00:00:00",
+          "numDocumento": "75306",
+          "valorDocumento": 346.17,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8010510",
+          "nomeFornecedor": "AUTO POSTO 306 NORTE LTDA",
+          "cnpjCpfFornecedor": "22398818000147",
+          "valorLiquido": 346.17,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2187158,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

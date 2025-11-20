@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 222142,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/222142",
+    "nome": "Coronel Telhada",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/222142.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 462023.34,
+  "quantidade_transacoes": 446,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 270162.9,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 58.47
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 54597.72,
+      "quantidade_transacoes": 64,
+      "porcentagem_do_total": 11.82
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 53870.97,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 11.66
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 30507.69,
+      "quantidade_transacoes": 135,
+      "porcentagem_do_total": 6.6
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 27353.12,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 5.92
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Wmh Arte Visual Ltda.",
+      "cnpj": "32854151000101",
+      "total": 98612.9,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 21.34
+    },
+    {
+      "nome": "BR Solucoes Tecnicas e Administrativas Ltda",
+      "cnpj": "49311629000141",
+      "total": 76000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 16.45
+    },
+    {
+      "nome": "Nacional Rent a Car Locação de Veiculos LTDA",
+      "cnpj": "49000815000160",
+      "total": 53870.97,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 11.66
+    },
+    {
+      "nome": "I9 SOLUCOES EM MARKETING E MIDIAS DIGITAIS LTDA",
+      "cnpj": "34930569000178",
+      "total": 48850.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 10.57
+    },
+    {
+      "nome": "BR SOLUCOES TECNICAS E ADMINISTRATIVAS LTDA",
+      "cnpj": "49311629000141",
+      "total": 30000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.49
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 28951.35,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 6.27
+    },
+    {
+      "nome": "JKS IMOBILIARIA LTDA",
+      "cnpj": "15721714000166",
+      "total": 24582.52,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 5.32
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 23171.2,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 5.02
+    },
+    {
+      "nome": "WMH ARTE VISUAL LTDA",
+      "cnpj": "32854151000101",
+      "total": 12000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.6
+    },
+    {
+      "nome": "Telefônica Brasil S.A. VIVO",
+      "cnpj": "02558157000162",
+      "total": 7562.01,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 1.64
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 27019.85,
+      "porcentagem_do_total": 5.85
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 49160.39,
+      "porcentagem_do_total": 10.64
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 34220.21,
+      "porcentagem_do_total": 7.41
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 41734.99,
+      "porcentagem_do_total": 9.03
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 36506.49,
+      "porcentagem_do_total": 7.9
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 44381.04,
+      "porcentagem_do_total": 9.61
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 38555.27,
+      "porcentagem_do_total": 8.34
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 39276.79,
+      "porcentagem_do_total": 8.5
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 41071.76,
+      "porcentagem_do_total": 8.89
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 64667.93,
+      "porcentagem_do_total": 14.0
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 45428.62,
+      "porcentagem_do_total": 9.83
+    }
+  ]
+}

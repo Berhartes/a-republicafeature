@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA",
       "cnpj": "95425369001124",
-      "total_recebido": 120.09,
+      "total_recebido": 340.03,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.323237"
+    "generatedAt": "2025-11-11T05:22:27.324281"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 120.09
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 340.03
   },
   "anos": {
-    "2023": {
-      "total": 120.09,
+    "2024": {
+      "total": 340.03,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "136811": {
+    "160559": {
       "deputado": {
-        "id": 136811,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
-        "nome": "Afonso Hamm",
-        "siglaPartido": "PP",
+        "id": 160559,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
+        "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
+        "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
-        "email": "dep.afonsohamm@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
+        "email": "dep.alceumoreira@camara.leg.br"
       },
-      "total": 120.09,
+      "total": 340.03,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 8,
+          "ano": 2024,
+          "mes": 9,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7591111,
+          "codDocumento": 7810141,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-08-11T00:00:00",
-          "numDocumento": "620641",
-          "valorDocumento": 120.09,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7591111",
+          "dataDocumento": "2024-09-27T15:13:46",
+          "numDocumento": "681686",
+          "valorDocumento": 340.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7810141",
           "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA",
           "cnpjCpfFornecedor": "95425369001124",
-          "valorLiquido": 120.09,
+          "valorLiquido": 340.03,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "MARCO MARCHETTI S/A HOTEIS",
+    "cnpj": "00480608000160",
+    "total_recebido": 867.14,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 867.14,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 867.14,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 867.14,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 493.14,
+      "porcentagem_do_total": 56.87
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 374.0,
+      "porcentagem_do_total": 43.13
+    }
+  ]
+}

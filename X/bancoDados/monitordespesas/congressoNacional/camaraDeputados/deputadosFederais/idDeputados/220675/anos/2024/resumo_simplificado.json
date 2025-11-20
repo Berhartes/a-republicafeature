@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 220675,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220675",
+    "nome": "Antônio Doido",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "PA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220675.jpg",
+    "email": "dep.antoniodoido@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 551362.1,
+  "quantidade_transacoes": 241,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "total": 227000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 41.17
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 153769.27,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 27.89
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 104864.39,
+      "quantidade_transacoes": 159,
+      "porcentagem_do_total": 19.02
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 46494.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 8.43
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 12133.75,
+      "quantidade_transacoes": 54,
+      "porcentagem_do_total": 2.2
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "R L FERREIRA - SERVIÇOS E AGENCIAMENTO LTDA",
+      "cnpj": "47029518000111",
+      "total": 155000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 28.11
+    },
+    {
+      "nome": "CAMPUS COMUNICAÇÃO E MARKETING LTDA",
+      "cnpj": "24183387000127",
+      "total": 75760.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 13.74
+    },
+    {
+      "nome": "HAR - SERVIÇOS AUXILIARES AO TRANSPORTE AEREO LTDA",
+      "cnpj": "26832136000151",
+      "total": 72000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 13.06
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 43621.5,
+      "quantidade_transacoes": 112,
+      "porcentagem_do_total": 7.91
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 42036.73,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 7.62
+    },
+    {
+      "nome": "PEJU PRODUÇÕES EIRELI",
+      "cnpj": "40206540000140",
+      "total": 40000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 7.25
+    },
+    {
+      "nome": "MOSCOU SOM E LUZ LTDA",
+      "cnpj": "40016435000149",
+      "total": 35994.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.53
+    },
+    {
+      "nome": "POLITICAI LTDA",
+      "cnpj": "55954842000174",
+      "total": 31500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.71
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 19206.16,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 3.48
+    },
+    {
+      "nome": "SHEKINAH LOCACAO DE VEICULOS EIRELI",
+      "cnpj": "34300771000116",
+      "total": 10500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.9
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 53521.31,
+      "porcentagem_do_total": 9.71
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 26867.06,
+      "porcentagem_do_total": 4.87
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 24948.03,
+      "porcentagem_do_total": 4.52
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 97654.48,
+      "porcentagem_do_total": 17.71
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 25823.88,
+      "porcentagem_do_total": 4.68
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 9880.27,
+      "porcentagem_do_total": 1.79
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 79215.13,
+      "porcentagem_do_total": 14.37
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 91864.03,
+      "porcentagem_do_total": 16.66
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 330.0,
+      "porcentagem_do_total": 0.06
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 84740.88,
+      "porcentagem_do_total": 15.37
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 44826.47,
+      "porcentagem_do_total": 8.13
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 11690.56,
+      "porcentagem_do_total": 2.12
+    }
+  ]
+}

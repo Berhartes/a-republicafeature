@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 224117,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/224117",
+    "nome": "Gabriel Mota",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "RR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/224117.jpg",
+    "email": "dep.gabrielmota@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 511908.6,
+  "quantidade_transacoes": 84,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 215032.3,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 42.01
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 165135.5,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 32.26
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 112500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 21.98
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 13153.88,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 2.57
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 6086.92,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 1.19
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CK INFO DESIGN E MIDIA SOCIAIS",
+      "cnpj": "36899824000192",
+      "total": 243000.0,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 47.47
+    },
+    {
+      "nome": "MEGA CONSULTORIA E TECNOLOGIA LTDA",
+      "cnpj": "44928818000144",
+      "total": 120000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 23.44
+    },
+    {
+      "nome": "PARIMA RENT A CAR",
+      "cnpj": "06983735000169",
+      "total": 112500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 21.98
+    },
+    {
+      "nome": "ANDERSON DE JESUS VIEIRA 86661337249",
+      "cnpj": "36899824000192",
+      "total": 17032.3,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.33
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 11601.29,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 2.27
+    },
+    {
+      "nome": "DRA4 DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "19257042000130",
+      "total": 2458.62,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 0.48
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 1552.59,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.3
+    },
+    {
+      "nome": "062 - GUARA 2 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597006219",
+      "total": 477.86,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.09
+    },
+    {
+      "nome": "MOCAPEL AUTO POSTO LTDA",
+      "cnpj": "04610978000126",
+      "total": 465.42,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.09
+    },
+    {
+      "nome": "AUTO POSTO GOLDEN GAS 202 LTDA",
+      "cnpj": "30880112000145",
+      "total": 409.78,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.08
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 30410.23,
+      "porcentagem_do_total": 5.94
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 52871.35,
+      "porcentagem_do_total": 10.33
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 52732.17,
+      "porcentagem_do_total": 10.3
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 53057.72,
+      "porcentagem_do_total": 10.36
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 52218.51,
+      "porcentagem_do_total": 10.2
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 54282.88,
+      "porcentagem_do_total": 10.6
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 58479.32,
+      "porcentagem_do_total": 11.42
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 54787.42,
+      "porcentagem_do_total": 10.7
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 51569.0,
+      "porcentagem_do_total": 10.07
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 51500.0,
+      "porcentagem_do_total": 10.06
+    }
+  ]
+}

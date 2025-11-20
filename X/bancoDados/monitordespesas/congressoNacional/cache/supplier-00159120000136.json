@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-08T13:42:18Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v2",
+    "legislatura": 57,
+    "cnpj": "00159120000136"
+  },
+  "data": {
+    "cnpj": "00159120000136",
+    "nome": "L L FROTA E CIA LTDA",
+    "nomeFornecedor": "L L FROTA E CIA LTDA",
+    "totalTransacionado": 90.0,
+    "totalRecebido": 90.0,
+    "totalRecebidoTodos": 90.0,
+    "transacoes": 1,
+    "numeroTransacoes": 1,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [],
+    "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+    "categoriaOriginal": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+    "categorias": [
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+    ],
+    "categoriasOriginais": [
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+    ],
+    "categoriasInfo": {
+      "principal": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "normalizadas": [
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+      ],
+      "principalOriginal": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "originais": [
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+      ]
+    },
+    "distribuicaoTipos": {
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": {
+        "valor": 90.0,
+        "quantidade": 1
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": {
+        "valor": 90.0,
+        "quantidade": 1
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2024": {
+        "valor": 90.0,
+        "transacoes": 0,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

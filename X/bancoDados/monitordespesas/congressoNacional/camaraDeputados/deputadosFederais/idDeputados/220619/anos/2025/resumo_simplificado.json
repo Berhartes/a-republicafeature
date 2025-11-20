@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220619,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220619",
+    "nome": "Delegado Ramagem",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220619.jpg",
+    "email": "dep.delegadoramagem@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 317287.58,
+  "quantidade_transacoes": 259,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 109296.42,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 34.45
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 91075.08,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 28.7
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 64792.72,
+      "quantidade_transacoes": 67,
+      "porcentagem_do_total": 20.42
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 33479.31,
+      "quantidade_transacoes": 139,
+      "porcentagem_do_total": 10.55
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 15444.2,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 4.87
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 60491.16,
+      "quantidade_transacoes": 65,
+      "porcentagem_do_total": 19.07
+    },
+    {
+      "nome": "NADRYV FILMES LTDA",
+      "cnpj": "40974424000171",
+      "total": 51000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 16.07
+    },
+    {
+      "nome": "OBDI LOCAÇÃO DE VEICULOS LTDA",
+      "cnpj": "09546840000200",
+      "total": 48713.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 15.35
+    },
+    {
+      "nome": "SANE LAGOS LTDA",
+      "cnpj": "33149101000188",
+      "total": 28213.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 8.89
+    },
+    {
+      "nome": "JAS LOGISTICA LTDA",
+      "cnpj": "33149101000188",
+      "total": 27470.42,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 8.66
+    },
+    {
+      "nome": "OPTIMI INTERIORES",
+      "cnpj": "37510284000176",
+      "total": 12800.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 4.03
+    },
+    {
+      "nome": "NOVO AUTO POSTO SANTA MONICA LTDA",
+      "cnpj": "21093376000168",
+      "total": 12695.2,
+      "quantidade_transacoes": 55,
+      "porcentagem_do_total": 4.0
+    },
+    {
+      "nome": "PUBLITAKE PRODUTORA E SERVIÇOS LTDA",
+      "cnpj": "28863578000190",
+      "total": 12000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.78
+    },
+    {
+      "nome": "6TELOS CURSOS E TREINAMENTOS LTDA",
+      "cnpj": "59534655000192",
+      "total": 10750.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.39
+    },
+    {
+      "nome": "BUFOES PRODUCOES ARTISTICAS LTDA",
+      "cnpj": "03292963000102",
+      "total": 7000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.21
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 33251.99,
+      "porcentagem_do_total": 10.48
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 31782.57,
+      "porcentagem_do_total": 10.02
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 31019.74,
+      "porcentagem_do_total": 9.78
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 30368.68,
+      "porcentagem_do_total": 9.57
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 36388.29,
+      "porcentagem_do_total": 11.47
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 43721.68,
+      "porcentagem_do_total": 13.78
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 42961.52,
+      "porcentagem_do_total": 13.54
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 36193.92,
+      "porcentagem_do_total": 11.41
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 13756.32,
+      "porcentagem_do_total": 4.34
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 17612.87,
+      "porcentagem_do_total": 5.55
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 230.0,
+      "porcentagem_do_total": 0.07
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ATA AEROTAXI ABAETE LTDA",
+      "cnpj": "14674451000119",
+      "total_recebido": 165832.8,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 62512.8,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-03-31T00:00:00",
+    "periodo_fim": "2023-11-29T00:00:00",
+    "generatedAt": "2025-11-11T21:38:06.558009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 62512.8,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "total": 62512.8,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 25012.8,
+      "porcentagem_do_total": 40.01
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 19500.0,
+      "porcentagem_do_total": 31.19
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 18000.0,
+      "porcentagem_do_total": 28.79
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 3,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "codDocumento": 7524958,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-03-31T00:00:00",
+      "numDocumento": "5605",
+      "valorDocumento": 25012.8,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3326/2023/7524958.pdf",
+      "nomeFornecedor": "ATA AEROTAXI ABAETE LTDA",
+      "cnpjCpfFornecedor": "14674451000119",
+      "valorLiquido": 25012.8,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1923332,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "codDocumento": 7557321,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-05-24T00:00:00",
+      "numDocumento": "5737",
+      "valorDocumento": 19500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3326/2023/7557321.pdf",
+      "nomeFornecedor": "ATA AEROTAXI ABAETE LTDA",
+      "cnpjCpfFornecedor": "14674451000119",
+      "valorLiquido": 19500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1941530,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2023,
+      "mes": 10,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "codDocumento": 7667519,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-11-29T00:00:00",
+      "numDocumento": "6307",
+      "valorDocumento": 18000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3326/2023/7667519.pdf",
+      "nomeFornecedor": "ATA AEROTAXI ABAETE LTDA",
+      "cnpjCpfFornecedor": "14674451000119",
+      "valorLiquido": 18000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2001557,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    }
+  ]
+}

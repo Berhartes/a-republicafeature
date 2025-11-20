@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "POSTO TREVO SERTAOZINHO LTDA",
+    "cnpj": "05035651000130",
+    "total_recebido": 490.57000000000005,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 490.57,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 490.57,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 490.57,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 160.46,
+      "porcentagem_do_total": 32.71
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 330.11,
+      "porcentagem_do_total": 67.29
+    }
+  ]
+}

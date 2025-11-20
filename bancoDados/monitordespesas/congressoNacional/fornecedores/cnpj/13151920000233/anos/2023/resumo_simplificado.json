@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "DEM & DEM COMERCIO DE COMBUSTIVEIS LTDA",
+    "cnpj": "13151920000233",
+    "total_recebido": 584.81,
+    "numero_transacoes": 3,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 584.81,
+  "quantidade_transacoes": 3,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 584.81,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 584.81,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 292.57,
+      "porcentagem_do_total": 50.03
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 170.09,
+      "porcentagem_do_total": 29.08
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 122.15,
+      "porcentagem_do_total": 20.89
+    }
+  ]
+}

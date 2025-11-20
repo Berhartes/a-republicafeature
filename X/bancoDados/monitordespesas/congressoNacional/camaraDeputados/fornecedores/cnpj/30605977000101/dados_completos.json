@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "TÁXI LEGAL",
+      "cnpj": "30605977000101",
+      "total_recebido": 73.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:30.936462"
+  },
+  "categorias": {
+    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 73.0
+  },
+  "anos": {
+    "2023": {
+      "total": 73.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178881": {
+      "deputado": {
+        "id": 178881,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178881",
+        "nome": "Aluisio Mendes",
+        "nomeEleitoral": "Aluisio Mendes",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
+        "email": "dep.aluisiomendes@camara.leg.br"
+      },
+      "total": 73.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7539373,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-21T00:00:00",
+          "numDocumento": "S/N",
+          "valorDocumento": 73.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2999/2023/7539373.pdf",
+          "nomeFornecedor": "TÁXI LEGAL",
+          "cnpjCpfFornecedor": "30605977000101",
+          "valorLiquido": 73.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

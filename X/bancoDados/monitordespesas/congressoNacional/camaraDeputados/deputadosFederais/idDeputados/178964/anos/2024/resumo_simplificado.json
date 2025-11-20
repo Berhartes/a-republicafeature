@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 178964,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+    "nome": "Heitor Schuch",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "RS",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+    "email": "dep.heitorschuch@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 270102.66,
+  "quantidade_transacoes": 310,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 159018.33,
+      "quantidade_transacoes": 74,
+      "porcentagem_do_total": 58.87
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 76906.08,
+      "quantidade_transacoes": 92,
+      "porcentagem_do_total": 28.47
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 34178.25,
+      "quantidade_transacoes": 144,
+      "porcentagem_do_total": 12.65
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "FORTE AGENCIA",
+      "cnpj": "41422339000163",
+      "total": 78000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 28.88
+    },
+    {
+      "nome": "GRAFICA E EDITORA IMAGEM",
+      "cnpj": "74858226000164",
+      "total": 53955.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 19.98
+    },
+    {
+      "nome": "CASSIO PEGORARO",
+      "cnpj": "80966411072",
+      "total": 25289.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 9.36
+    },
+    {
+      "nome": "IMOBILIARIA BENDER LTDA",
+      "cnpj": "91849372000142",
+      "total": 21409.24,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 7.93
+    },
+    {
+      "nome": "CREDITO REAL, IMO. E CONDOMÍNIOS SA",
+      "cnpj": "92691336000166",
+      "total": 14554.46,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 5.39
+    },
+    {
+      "nome": "CLIC CAMAQUA",
+      "cnpj": "10778139000114",
+      "total": 5000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.85
+    },
+    {
+      "nome": "PERSPECTIVA COMUNICACOES LTDA - Arauto FM",
+      "cnpj": "03943895000196",
+      "total": 4840.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.79
+    },
+    {
+      "nome": "Facebook Serviços Online do Brasil ltda",
+      "cnpj": "13347016000117",
+      "total": 4722.1,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.75
+    },
+    {
+      "nome": "Prosit Administradora de Imóveis Ltda",
+      "cnpj": "37540918000133",
+      "total": 4009.65,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 1.48
+    },
+    {
+      "nome": "COMERCIO DE COMBUSTIVEIS NEVOEIRO LTDA",
+      "cnpj": "95425369000152",
+      "total": 3749.04,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 1.39
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 16037.67,
+      "porcentagem_do_total": 5.94
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 15710.7,
+      "porcentagem_do_total": 5.82
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 35999.18,
+      "porcentagem_do_total": 13.33
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 22990.17,
+      "porcentagem_do_total": 8.51
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 16822.53,
+      "porcentagem_do_total": 6.23
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 33155.17,
+      "porcentagem_do_total": 12.28
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 17855.59,
+      "porcentagem_do_total": 6.61
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 18634.14,
+      "porcentagem_do_total": 6.9
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 14838.14,
+      "porcentagem_do_total": 5.49
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 41462.06,
+      "porcentagem_do_total": 15.35
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 19243.99,
+      "porcentagem_do_total": 7.12
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 17353.32,
+      "porcentagem_do_total": 6.42
+    }
+  ]
+}

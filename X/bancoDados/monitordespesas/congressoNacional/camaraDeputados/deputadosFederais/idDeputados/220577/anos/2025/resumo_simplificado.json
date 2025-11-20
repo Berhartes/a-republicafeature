@@ -1,0 +1,164 @@
+{
+  "deputado": {
+    "id": 220577,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220577",
+    "nome": "Augusto Puppio",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "AP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220577.jpg",
+    "email": null
+  },
+  "ano": 2025,
+  "total_gasto": 303334.89,
+  "quantidade_transacoes": 161,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 156000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 51.43
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 70702.78,
+      "quantidade_transacoes": 72,
+      "porcentagem_do_total": 23.31
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 59140.82,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 19.5
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 16386.09,
+      "quantidade_transacoes": 70,
+      "porcentagem_do_total": 5.4
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 1105.2,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.36
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "IPE CRIATIVO LTDA",
+      "cnpj": "50146928000157",
+      "total": 66000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 21.76
+    },
+    {
+      "nome": "Guerra Motors LTDA",
+      "cnpj": "36931466000158",
+      "total": 59140.82,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 19.5
+    },
+    {
+      "nome": "CS2 COMUNICACAO, PRODUCOES E LOCACOES LTDA",
+      "cnpj": "56504847000168",
+      "total": 52000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 17.14
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 37514.51,
+      "quantidade_transacoes": 51,
+      "porcentagem_do_total": 12.37
+    },
+    {
+      "nome": "NNX SERVICOS CONSULTORIA EM MARKETING E COMUNICACAO LTDA",
+      "cnpj": "46974376000106",
+      "total": 28000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 9.23
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 25612.79,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 8.44
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 7575.48,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 2.5
+    },
+    {
+      "nome": "Studio Digital - Agencia de Marketing Ltda",
+      "cnpj": "42261802000103",
+      "total": 6500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.14
+    },
+    {
+      "nome": "J C S FARIAS ME",
+      "cnpj": "03281737000118",
+      "total": 4794.0,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 1.58
+    },
+    {
+      "nome": "AUTO POSTO AMAZONAS STN LTDA",
+      "cnpj": "32607936000171",
+      "total": 3796.46,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 1.25
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 30305.0,
+      "porcentagem_do_total": 9.99
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 43802.99,
+      "porcentagem_do_total": 14.44
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 45898.73,
+      "porcentagem_do_total": 15.13
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 26455.2,
+      "porcentagem_do_total": 8.72
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 44258.12,
+      "porcentagem_do_total": 14.59
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 64853.43,
+      "porcentagem_do_total": 21.38
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 47761.42,
+      "porcentagem_do_total": 15.75
+    }
+  ]
+}

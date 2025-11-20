@@ -3,95 +3,53 @@
     "fornecedor": {
       "nome": "GBI COMBUSTIVEIS LTDA - FILIAL 006",
       "cnpj": "90589698000620",
-      "total_recebido": 650.9,
-      "numero_transacoes": 3,
+      "total_recebido": 260.01,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.330754"
+    "generatedAt": "2025-11-11T05:22:36.197028"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 650.9
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 260.01
   },
   "anos": {
     "2023": {
-      "total": 175.81,
+      "total": 260.01,
       "transacoes": 1,
-      "deputados": 1
-    },
-    "2024": {
-      "total": 475.09000000000003,
-      "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "136811": {
+    "220554": {
       "deputado": {
-        "id": 136811,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
-        "nome": "Afonso Hamm",
-        "siglaPartido": "PP",
+        "id": 220554,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+        "nome": "Alexandre Lindenmeyer",
+        "nomeEleitoral": "Alexandre Lindenmeyer",
+        "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
-        "email": "dep.afonsohamm@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
+        "email": "dep.alexandrelindenmeyer@camara.leg.br"
       },
-      "total": 650.9,
-      "transacoes": 3,
+      "total": 260.01,
+      "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 7,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7582821,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-07-11T00:00:00",
-          "numDocumento": "631504",
-          "valorDocumento": 175.81,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7582821",
-          "nomeFornecedor": "GBI COMBUSTIVEIS LTDA - FILIAL 006",
-          "cnpjCpfFornecedor": "90589698000620",
-          "valorLiquido": 175.81,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 10,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7816554,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-10-06T00:00:00",
-          "numDocumento": "778490",
-          "valorDocumento": 201.58,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7816554",
-          "nomeFornecedor": "GBI COMBUSTIVEIS LTDA - FILIAL 006",
-          "cnpjCpfFornecedor": "90589698000620",
-          "valorLiquido": 201.58,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
           "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7795175,
+          "codDocumento": 7598289,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-08-17T11:20:50",
-          "numDocumento": "762992",
-          "valorDocumento": 273.51,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7795175",
+          "dataDocumento": "2023-08-26T00:00:00",
+          "numDocumento": "645605",
+          "valorDocumento": 260.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7598289",
           "nomeFornecedor": "GBI COMBUSTIVEIS LTDA - FILIAL 006",
           "cnpjCpfFornecedor": "90589698000620",
-          "valorLiquido": 273.51,
+          "valorLiquido": 260.01,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

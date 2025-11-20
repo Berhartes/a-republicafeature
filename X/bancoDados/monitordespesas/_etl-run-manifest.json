@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "runs": [
+    {
+      "run_id": "20251110T165709Z:15740",
+      "pipeline": "camara_deputados",
+      "started_at": "2025-11-10T16:57:09.109915Z",
+      "ended_at": "2025-11-10T17:02:32.926658Z",
+      "duration_seconds": 324.2327957000016,
+      "status": "failure",
+      "parameters": {
+        "legislatura": 57,
+        "limit": 35,
+        "anos": [
+          2022,
+          2023,
+          2024,
+          2025
+        ],
+        "workers": 1,
+        "wait_ms": 500,
+        "incremental": false,
+        "force_year": null,
+        "pc": false,
+        "skip_contract_validation": false
+      },
+      "command": [
+        "C:\\Users\\Kast Berhartes\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "C:\\Users\\Kast Berhartes\\projetos-web-berhartes\\a-republica\\packages\\etlpython\\src\\etlpython\\__main__.py",
+        "camara",
+        "57",
+        "35",
+        "--workers",
+        "1",
+        "--wait-ms",
+        "500",
+        "--ano-inicio",
+        "2022",
+        "--ano-fim",
+        "2025"
+      ],
+      "git": {
+        "commit": "c9bcf852c3d7bddbc0dba21c010897b4d53339be",
+        "branch": "frontend-page-cleanup",
+        "dirty": true
+      },
+      "stats": {
+        "total_legisladores": 32,
+        "total_fornecedores": 3252,
+        "total_despesas": 36519949.22,
+        "deputados_processados": 35,
+        "deputados_solicitados": 35,
+        "duration_seconds": 324.2327957000016
+      },
+      "artifacts": [],
+      "error": "'CongressoDataWriter' object has no attribute 'congresso_dir'"
+    },
+    {
+      "run_id": "20251110T170453Z:27008",
+      "pipeline": "camara_deputados",
+      "started_at": "2025-11-10T17:04:53.186363Z",
+      "ended_at": "2025-11-10T17:05:09.493979Z",
+      "duration_seconds": 16.727414100001624,
+      "status": "failure",
+      "parameters": {
+        "legislatura": 57,
+        "limit": 1,
+        "anos": [
+          2025
+        ],
+        "workers": 1,
+        "wait_ms": 500,
+        "incremental": false,
+        "force_year": null,
+        "pc": false,
+        "skip_contract_validation": false
+      },
+      "command": [
+        "C:\\Users\\Kast Berhartes\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "C:\\Users\\Kast Berhartes\\projetos-web-berhartes\\a-republica\\packages\\etlpython\\src\\etlpython\\__main__.py",
+        "camara",
+        "57",
+        "1",
+        "--workers",
+        "1",
+        "--wait-ms",
+        "500",
+        "--ano-inicio",
+        "2025",
+        "--ano-fim",
+        "2025"
+      ],
+      "git": {
+        "commit": "c9bcf852c3d7bddbc0dba21c010897b4d53339be",
+        "branch": "frontend-page-cleanup",
+        "dirty": true
+      },
+      "stats": {
+        "total_legisladores": 0,
+        "total_fornecedores": 0,
+        "total_despesas": 0.0,
+        "deputados_processados": 0,
+        "deputados_solicitados": 0,
+        "duration_seconds": 16.727414100001624
+      },
+      "artifacts": [],
+      "error": "Failed to fetch https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&ordem=ASC&ordenarPor=nome&itens=100: 504 Server Error: Gateway Timeout for url: https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&ordem=ASC&ordenarPor=nome&itens=100"
+    }
+  ]
+}

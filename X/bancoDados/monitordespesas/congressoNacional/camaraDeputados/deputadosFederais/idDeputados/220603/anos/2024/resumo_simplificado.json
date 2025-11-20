@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 220603,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220603",
+    "nome": "Dani Cunha",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220603.jpg",
+    "email": "dep.danicunha@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 176056.87,
+  "quantidade_transacoes": 248,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 132092.79,
+      "quantidade_transacoes": 39,
+      "porcentagem_do_total": 75.03
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 43964.08,
+      "quantidade_transacoes": 209,
+      "porcentagem_do_total": 24.97
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CONDOMINIO DO EDIFICIO RODOLPHO DE PAOLI",
+      "cnpj": "28715126000161",
+      "total": 101048.55,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 57.4
+    },
+    {
+      "nome": "AUTO POSTO CRUZADA PENINSULA LTDA.",
+      "cnpj": "47308253000190",
+      "total": 19133.36,
+      "quantidade_transacoes": 78,
+      "porcentagem_do_total": 10.87
+    },
+    {
+      "nome": "MUNICIPIO DE RIO DE JANEIRO",
+      "cnpj": "42498733000148",
+      "total": 16050.8,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 9.12
+    },
+    {
+      "nome": "AUTO POSTO ESTRELA DO BILAC LTDA",
+      "cnpj": "09321500000108",
+      "total": 12131.48,
+      "quantidade_transacoes": 46,
+      "porcentagem_do_total": 6.89
+    },
+    {
+      "nome": "PARLANET WEB E TECNOLOGIA EIRELI",
+      "cnpj": "31602730000196",
+      "total": 8800.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 5.0
+    },
+    {
+      "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597006308",
+      "total": 8755.51,
+      "quantidade_transacoes": 50,
+      "porcentagem_do_total": 4.97
+    },
+    {
+      "nome": "KNEWIN - INTEL EM REC DE INFORMAÇÃO LTDA EPP",
+      "cnpj": "13106352000178",
+      "total": 3382.44,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.92
+    },
+    {
+      "nome": "AUTO POSTO DE ABASTECIMENTO VITRINE DE CAXIAS",
+      "cnpj": "08091267000143",
+      "total": 996.86,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 0.57
+    },
+    {
+      "nome": "EMIDIO SOUTO PEREIRA",
+      "cnpj": "13345728000105",
+      "total": 910.2,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.52
+    },
+    {
+      "nome": "PARLANET WEB E TECNOLOGIA EIRELI.",
+      "cnpj": "31602730000196",
+      "total": 800.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.45
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 10706.52,
+      "porcentagem_do_total": 6.08
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 14587.48,
+      "porcentagem_do_total": 8.29
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 15040.05,
+      "porcentagem_do_total": 8.54
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 15431.46,
+      "porcentagem_do_total": 8.77
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 12762.59,
+      "porcentagem_do_total": 7.25
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 16019.11,
+      "porcentagem_do_total": 9.1
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 14282.46,
+      "porcentagem_do_total": 8.11
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 16537.25,
+      "porcentagem_do_total": 9.39
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 17238.82,
+      "porcentagem_do_total": 9.79
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 16974.03,
+      "porcentagem_do_total": 9.64
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 14819.36,
+      "porcentagem_do_total": 8.42
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 11657.74,
+      "porcentagem_do_total": 6.62
+    }
+  ]
+}

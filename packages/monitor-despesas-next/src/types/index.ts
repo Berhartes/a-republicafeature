@@ -1,5 +1,9 @@
 export * from './gastos'
 
+// Page Audit Feature Types
+// DESABILITADO: page-audit não existe mais
+// export * from '../features/page-audit/types'
+
 export interface Configuracoes {
   notificacoes: boolean
   alertasAutomaticos: boolean

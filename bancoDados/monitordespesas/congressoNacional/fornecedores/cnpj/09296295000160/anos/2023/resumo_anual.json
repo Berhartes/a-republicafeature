@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Cia Aérea - AZUL",
+      "cnpj": "09296295000160",
+      "total_recebido": 9188.150000000001,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 4728.38,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-09-14T00:00:00",
+    "periodo_fim": "2023-12-12T00:00:00",
+    "generatedAt": "2025-11-11T21:38:04.258012"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 4728.38,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - RPA",
+      "total": 4728.38,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 1315.92,
+      "porcentagem_do_total": 27.83
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 1600.15,
+      "porcentagem_do_total": 33.84
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 1812.31,
+      "porcentagem_do_total": 38.33
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "PASSAGEM AÉREA - RPA",
+      "codDocumento": 1776776,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-11-23T00:00:00",
+      "numDocumento": "Bilhete: II4V4J",
+      "valorDocumento": 1600.15,
+      "urlDocumento": null,
+      "nomeFornecedor": "Cia Aérea - AZUL",
+      "cnpjCpfFornecedor": "09296295000160",
+      "valorLiquido": 1600.15,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "PASSAGEM AÉREA - RPA",
+      "codDocumento": 1776556,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-09-14T00:00:00",
+      "numDocumento": "Bilhete: WP2FVX",
+      "valorDocumento": 1315.92,
+      "urlDocumento": null,
+      "nomeFornecedor": "Cia Aérea - AZUL",
+      "cnpjCpfFornecedor": "09296295000160",
+      "valorLiquido": 1315.92,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "PASSAGEM AÉREA - RPA",
+      "codDocumento": 1776810,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-12-12T00:00:00",
+      "numDocumento": "Bilhete: XD8DRB",
+      "valorDocumento": 1812.31,
+      "urlDocumento": null,
+      "nomeFornecedor": "Cia Aérea - AZUL",
+      "cnpjCpfFornecedor": "09296295000160",
+      "valorLiquido": 1812.31,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

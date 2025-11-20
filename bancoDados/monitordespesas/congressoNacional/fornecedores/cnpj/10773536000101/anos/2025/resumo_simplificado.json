@@ -1,0 +1,54 @@
+{
+  "fornecedor": {
+    "nome": "DRA DERIVADO DE PETROLEO LTDA",
+    "cnpj": "10773536000101",
+    "total_recebido": 1503.9699999999998,
+    "numero_transacoes": 6,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 1153.97,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 1153.97,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1153.97,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 275.05,
+      "porcentagem_do_total": 23.84
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 200.0,
+      "porcentagem_do_total": 17.33
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 311.02,
+      "porcentagem_do_total": 26.95
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 367.9,
+      "porcentagem_do_total": 31.88
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - link "Monitor de Gastos Parlamentares" [ref=e6] [cursor=pointer]:
+            - /url: /
+            - heading "Monitor de Gastos Parlamentares" [level=1] [ref=e7]
+          - navigation [ref=e8]:
+            - link "Dashboard" [ref=e9] [cursor=pointer]:
+              - /url: /gastos/dashboards
+              - img [ref=e10]
+              - text: Dashboard
+            - link "Análise IA" [ref=e15] [cursor=pointer]:
+              - /url: /gastos/analise-avancada
+              - img [ref=e16]
+              - text: Análise IA
+            - link "Deputados" [ref=e24] [cursor=pointer]:
+              - /url: /gastos/deputados
+              - img [ref=e25]
+              - text: Deputados
+            - link "Fornecedores" [ref=e30] [cursor=pointer]:
+              - /url: /gastos/fornecedores
+              - img [ref=e31]
+              - text: Fornecedores
+            - link "Premiações" [ref=e35] [cursor=pointer]:
+              - /url: /gastos/premiacoes
+              - img [ref=e36]
+              - text: Premiações
+            - link "Comparar" [ref=e42] [cursor=pointer]:
+              - /url: /gastos/comparar
+              - img [ref=e43]
+              - text: Comparar
+            - link "Alertas" [ref=e48] [cursor=pointer]:
+              - /url: /gastos/relatorios?tab=alertas
+              - img [ref=e49]
+              - text: Alertas
+            - link "Relatórios" [ref=e51] [cursor=pointer]:
+              - /url: /gastos/relatorios?tab=relatorios
+              - img [ref=e52]
+              - text: Relatórios
+        - generic [ref=e55]:
+          - button "Notificações" [ref=e57]:
+            - img [ref=e58]
+          - link "Configurações" [ref=e61] [cursor=pointer]:
+            - /url: /gastos/configuracoes
+            - img [ref=e62]
+    - main [ref=e65]:
+      - main [ref=e67]:
+        - generic [ref=e68]:
+          - generic [ref=e69]:
+            - heading "Lista de Deputados" [level=1] [ref=e70]
+            - paragraph [ref=e71]: Explore os perfis e gastos de cada deputado federal.
+          - button "Filtros" [ref=e72]:
+            - img [ref=e73]
+            - text: Filtros
+        - generic [ref=e74]:
+          - generic [ref=e75]:
+            - generic [ref=e77]:
+              - generic [ref=e78]: "0"
+              - paragraph [ref=e79]: Deputados na lista
+            - generic [ref=e81]:
+              - generic [ref=e82]: R$ 0.0k
+              - paragraph [ref=e83]: Média de gastos
+            - generic [ref=e85]:
+              - generic [ref=e86]: R$ 0.0M
+              - paragraph [ref=e87]: Total gasto (lista)
+            - generic [ref=e89]:
+              - generic [ref=e90]: "0"
+              - paragraph [ref=e91]: Total de deputados
+          - generic [ref=e93]:
+            - img [ref=e94]
+            - heading "Nenhum deputado encontrado" [level=3] [ref=e96]
+            - paragraph [ref=e97]: Tente ajustar os filtros.
+            - button "Limpar Filtros" [ref=e98]
+    - button "Abrir busca global (Ctrl+K)" [ref=e99]:
+      - img [ref=e100]
+    - region "Notifications (F8)":
+      - list
+    - contentinfo [ref=e103]:
+      - paragraph [ref=e104]: Sistema de Gastos de Deputados
+  - button "Open Next.js Dev Tools" [ref=e110] [cursor=pointer]:
+    - img [ref=e111]
+```

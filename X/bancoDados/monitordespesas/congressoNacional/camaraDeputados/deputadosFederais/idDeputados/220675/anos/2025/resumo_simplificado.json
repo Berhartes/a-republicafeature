@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220675,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220675",
+    "nome": "Antônio Doido",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "PA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220675.jpg",
+    "email": "dep.antoniodoido@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 206260.61,
+  "quantidade_transacoes": 170,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "total": 80000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 38.79
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 71800.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 34.81
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 26930.4,
+      "quantidade_transacoes": 65,
+      "porcentagem_do_total": 13.06
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 21336.27,
+      "quantidade_transacoes": 76,
+      "porcentagem_do_total": 10.34
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 4896.5,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 2.37
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "HAR - SERVIÇOS AUXILIARES AO TRANSPORTE AEREO LTDA",
+      "cnpj": "26832136000151",
+      "total": 80000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 38.79
+    },
+    {
+      "nome": "CAMPUS COMUNICAÇÃO E MARKETING LTDA",
+      "cnpj": "24183387000127",
+      "total": 71800.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 34.81
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 18748.17,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 9.09
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 8182.23,
+      "quantidade_transacoes": 53,
+      "porcentagem_do_total": 3.97
+    },
+    {
+      "nome": "DRA4 DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "19257042000130",
+      "total": 3400.45,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 1.65
+    },
+    {
+      "nome": "BSB LOCAÇÃO E VENDA DE MÁQUINAS E CAFÉS LTDA",
+      "cnpj": "33626720000116",
+      "total": 3300.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.6
+    },
+    {
+      "nome": "S B COMERCIO DE COMBUSTIVEL E DERIVADOS DE PETRO L",
+      "cnpj": "37243114000172",
+      "total": 3003.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.46
+    },
+    {
+      "nome": "S CIRINO DE PAIS EIRELI",
+      "cnpj": "41431049000186",
+      "total": 2000.05,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.97
+    },
+    {
+      "nome": "045 - QL 02 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597004518",
+      "total": 1802.71,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 0.87
+    },
+    {
+      "nome": "POSTO CIDADE DO AUTOMOVEL LTDA - FILIAL",
+      "cnpj": "07441011000237",
+      "total": 1653.76,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 0.8
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 2640.92,
+      "porcentagem_do_total": 1.28
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 22146.59,
+      "porcentagem_do_total": 10.74
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 4780.9,
+      "porcentagem_do_total": 2.32
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 84563.43,
+      "porcentagem_do_total": 41.0
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 7726.11,
+      "porcentagem_do_total": 3.75
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 2314.7,
+      "porcentagem_do_total": 1.12
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 1452.08,
+      "porcentagem_do_total": 0.7
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 38105.01,
+      "porcentagem_do_total": 18.47
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 37700.52,
+      "porcentagem_do_total": 18.28
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 4601.82,
+      "porcentagem_do_total": 2.23
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 228.53,
+      "porcentagem_do_total": 0.11
+    }
+  ]
+}

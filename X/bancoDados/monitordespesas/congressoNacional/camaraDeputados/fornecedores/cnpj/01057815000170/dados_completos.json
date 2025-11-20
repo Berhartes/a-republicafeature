@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO GIRONDA LTDA",
+      "cnpj": "01057815000170",
+      "total_recebido": 940.3799999999999,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:05.856257"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 940.3799999999999
+  },
+  "anos": {
+    "2024": {
+      "total": 273.25,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 667.1299999999999,
+      "transacoes": 5,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 940.3799999999999,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7718607,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-04T00:00:00",
+          "numDocumento": "160846",
+          "valorDocumento": 144.37,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7718607.pdf",
+          "nomeFornecedor": "AUTO POSTO GIRONDA LTDA",
+          "cnpjCpfFornecedor": "01057815000170",
+          "valorLiquido": 144.37,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7719090,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-12T00:00:00",
+          "numDocumento": "165521",
+          "valorDocumento": 128.88,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7719090.pdf",
+          "nomeFornecedor": "AUTO POSTO GIRONDA LTDA",
+          "cnpjCpfFornecedor": "01057815000170",
+          "valorLiquido": 128.88,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7929849,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-10T00:00:00",
+          "numDocumento": "439515",
+          "valorDocumento": 180.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7929849.pdf",
+          "nomeFornecedor": "AUTO POSTO GIRONDA LTDA",
+          "cnpjCpfFornecedor": "01057815000170",
+          "valorLiquido": 180.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7962804,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-05T00:00:00",
+          "numDocumento": "479508",
+          "valorDocumento": 100.03,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7962804.pdf",
+          "nomeFornecedor": "AUTO POSTO GIRONDA LTDA",
+          "cnpjCpfFornecedor": "01057815000170",
+          "valorLiquido": 100.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7962810,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-08T00:00:00",
+          "numDocumento": "482646",
+          "valorDocumento": 92.02,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7962810.pdf",
+          "nomeFornecedor": "AUTO POSTO GIRONDA LTDA",
+          "cnpjCpfFornecedor": "01057815000170",
+          "valorLiquido": 92.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7991217,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-29T00:00:00",
+          "numDocumento": "517118",
+          "valorDocumento": 147.05,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7991217.pdf",
+          "nomeFornecedor": "AUTO POSTO GIRONDA LTDA",
+          "cnpjCpfFornecedor": "01057815000170",
+          "valorLiquido": 147.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7995390,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-06T00:00:00",
+          "numDocumento": "521826",
+          "valorDocumento": 148.03,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7995390.pdf",
+          "nomeFornecedor": "AUTO POSTO GIRONDA LTDA",
+          "cnpjCpfFornecedor": "01057815000170",
+          "valorLiquido": 148.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

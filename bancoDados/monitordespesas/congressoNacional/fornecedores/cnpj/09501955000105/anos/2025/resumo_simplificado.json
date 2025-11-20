@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "GURGEL COMERCIO DE COMBUSTIVEIS LTDA",
+    "cnpj": "09501955000105",
+    "total_recebido": 800.0,
+    "numero_transacoes": 3,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 600.0,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 600.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 600.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 300.0,
+      "porcentagem_do_total": 50.0
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 300.0,
+      "porcentagem_do_total": 50.0
+    }
+  ]
+}

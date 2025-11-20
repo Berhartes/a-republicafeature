@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "estrutura auto posto ltda",
+      "cnpj": "35050276000169",
+      "total_recebido": 271.07000000000005,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 271.07,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-05-02T00:00:00",
+    "periodo_fim": "2024-05-26T00:00:00",
+    "generatedAt": "2025-11-11T21:38:04.789011"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 271.07,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 271.07,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 271.07,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7730881,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-05-02T00:00:00",
+      "numDocumento": "243383",
+      "valorDocumento": 134.83,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7730881.pdf",
+      "nomeFornecedor": "estrutura auto posto ltda",
+      "cnpjCpfFornecedor": "35050276000169",
+      "valorLiquido": 134.83,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2036635,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7743077,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-05-26T00:00:00",
+      "numDocumento": "244824",
+      "valorDocumento": 136.24,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7743077.pdf",
+      "nomeFornecedor": "estrutura auto posto ltda",
+      "cnpjCpfFornecedor": "35050276000169",
+      "valorLiquido": 136.24,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2043241,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

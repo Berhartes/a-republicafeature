@@ -1,0 +1,158 @@
+{
+  "deputado": {
+    "id": 229333,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/229333",
+    "nome": "Gláucia Santiago",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/229333.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 166290.4,
+  "quantidade_transacoes": 209,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 61568.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 37.02
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 32718.86,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 19.68
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 29029.99,
+      "quantidade_transacoes": 134,
+      "porcentagem_do_total": 17.46
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 23799.49,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 14.31
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 15785.74,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 9.49
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "APARESEE COMPANGY GESTAO E CONSULTORIA EM MARKETING LTDA",
+      "cnpj": "48903639000103",
+      "total": 40348.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 24.26
+    },
+    {
+      "nome": "ISMAEL COUTINHO DE FREITAS",
+      "cnpj": "04309818641",
+      "total": 23400.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 14.07
+    },
+    {
+      "nome": "Prisma Visual LTDA",
+      "cnpj": "01710143000150",
+      "total": 20600.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 12.39
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 19894.66,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 11.96
+    },
+    {
+      "nome": "M & M RENT A CAR LTDA - LOCALIZA",
+      "cnpj": "00912481000101",
+      "total": 15785.74,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 9.49
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 7427.71,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 4.47
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 5396.49,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.25
+    },
+    {
+      "nome": "Posto Sotero JK II LTDA",
+      "cnpj": "26388277000127",
+      "total": 3864.09,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 2.32
+    },
+    {
+      "nome": "ORGANIZAÇÃO COMERCIAL GUIMARÃES LTDA",
+      "cnpj": "21254958000421",
+      "total": 3610.35,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 2.17
+    },
+    {
+      "nome": "POSTO PARQUE JARDIM LTDA",
+      "cnpj": "24109931000190",
+      "total": 2233.91,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.34
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 569.0,
+      "porcentagem_do_total": 0.34
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 11627.08,
+      "porcentagem_do_total": 6.99
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 53480.48,
+      "porcentagem_do_total": 32.16
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 40713.33,
+      "porcentagem_do_total": 24.48
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 37461.03,
+      "porcentagem_do_total": 22.53
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 22439.48,
+      "porcentagem_do_total": 13.49
+    }
+  ]
+}

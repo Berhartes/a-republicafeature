@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 204444,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204444",
+    "nome": "Helio Lopes",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204444.jpg",
+    "email": "dep.heliolopes@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 300978.1,
+  "quantidade_transacoes": 280,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 128417.0,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 42.67
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 95006.97,
+      "quantidade_transacoes": 98,
+      "porcentagem_do_total": 31.57
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 34600.0,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 11.5
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 13468.27,
+      "quantidade_transacoes": 62,
+      "porcentagem_do_total": 4.47
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 13147.11,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 4.37
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
+      "cnpj": "19374791000148",
+      "total": 106278.0,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 35.31
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 56503.83,
+      "quantidade_transacoes": 63,
+      "porcentagem_do_total": 18.77
+    },
+    {
+      "nome": "TJ COMUNICACAO LTDA",
+      "cnpj": "48764745000153",
+      "total": 24400.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 8.11
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 20124.99,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 6.69
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 18378.15,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 6.11
+    },
+    {
+      "nome": "AMAZON SERVIÇOS E CONSTRUÇÕES LTDA",
+      "cnpj": "24980538000178",
+      "total": 14139.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 4.7
+    },
+    {
+      "nome": "JR TECNOLOGIA LTDA",
+      "cnpj": "52318738000103",
+      "total": 9000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.99
+    },
+    {
+      "nome": "Novacar Locadora de Veículos Ltda",
+      "cnpj": "19374791000148",
+      "total": 8000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.66
+    },
+    {
+      "nome": "IBIS SOROCABA",
+      "cnpj": "02419765002059",
+      "total": 7225.18,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.4
+    },
+    {
+      "nome": "DRA4 DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "19257042000130",
+      "total": 6227.15,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 2.07
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 18785.4,
+      "porcentagem_do_total": 6.24
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 17631.14,
+      "porcentagem_do_total": 5.86
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 25346.55,
+      "porcentagem_do_total": 8.42
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 26256.27,
+      "porcentagem_do_total": 8.72
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 13347.18,
+      "porcentagem_do_total": 4.43
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 35327.87,
+      "porcentagem_do_total": 11.74
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 40283.35,
+      "porcentagem_do_total": 13.38
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 33917.55,
+      "porcentagem_do_total": 11.27
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 24521.09,
+      "porcentagem_do_total": 8.15
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 28086.92,
+      "porcentagem_do_total": 9.33
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 37474.78,
+      "porcentagem_do_total": 12.45
+    }
+  ]
+}

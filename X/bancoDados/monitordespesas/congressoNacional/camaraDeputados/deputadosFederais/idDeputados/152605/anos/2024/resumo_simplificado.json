@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 152605,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/152605",
+    "nome": "Glauber Braga",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/152605.jpg",
+    "email": "dep.glauberbraga@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 149796.84,
+  "quantidade_transacoes": 280,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 104333.99,
+      "quantidade_transacoes": 56,
+      "porcentagem_do_total": 69.65
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 45462.85,
+      "quantidade_transacoes": 224,
+      "porcentagem_do_total": 30.35
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "PEDRETTI & ASSOCIADOS LTDA",
+      "cnpj": "24832294000186",
+      "total": 49547.08,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 33.08
+    },
+    {
+      "nome": "POSTO DE GASOLINA  CACULINHA LTDA",
+      "cnpj": "29726551000119",
+      "total": 44418.22,
+      "quantidade_transacoes": 218,
+      "porcentagem_do_total": 29.65
+    },
+    {
+      "nome": "FLÁVIO MORAES BARRETO",
+      "cnpj": "01473238781",
+      "total": 37722.54,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 25.18
+    },
+    {
+      "nome": "BROAD BRASIL LTDA",
+      "cnpj": "48949641000113",
+      "total": 7150.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 4.77
+    },
+    {
+      "nome": "FLAVIO MORAES BARRETO",
+      "cnpj": "01473238781",
+      "total": 3439.56,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.3
+    },
+    {
+      "nome": "LUBAVAS FRIBURGO PAPELARIA LTDA",
+      "cnpj": "09283747000179",
+      "total": 2939.2,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.96
+    },
+    {
+      "nome": "ULTRAMAQ MÁQUINAS E SERVIÇOS LTDA",
+      "cnpj": "35863810000156",
+      "total": 2700.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.8
+    },
+    {
+      "nome": "ENERGISA NOVA FRIBURGO - DISTRIBUIDORA DE ENERGIA S.A.",
+      "cnpj": "19527639007837",
+      "total": 835.61,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 0.56
+    },
+    {
+      "nome": "AUTO POSTO PRADO LTDA",
+      "cnpj": "46248669000106",
+      "total": 292.63,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.2
+    },
+    {
+      "nome": "COMAFEL COM. DE MAQUINAS E FERRAGENS LTDA",
+      "cnpj": "32357055000140",
+      "total": 252.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.17
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 8835.18,
+      "porcentagem_do_total": 5.9
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 14309.0,
+      "porcentagem_do_total": 9.55
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 14356.44,
+      "porcentagem_do_total": 9.58
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 13669.9,
+      "porcentagem_do_total": 9.13
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 13579.11,
+      "porcentagem_do_total": 9.07
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 13814.03,
+      "porcentagem_do_total": 9.22
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 15914.81,
+      "porcentagem_do_total": 10.62
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 16613.98,
+      "porcentagem_do_total": 11.09
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 13061.74,
+      "porcentagem_do_total": 8.72
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 9093.24,
+      "porcentagem_do_total": 6.07
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 8131.08,
+      "porcentagem_do_total": 5.43
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 8418.33,
+      "porcentagem_do_total": 5.62
+    }
+  ]
+}

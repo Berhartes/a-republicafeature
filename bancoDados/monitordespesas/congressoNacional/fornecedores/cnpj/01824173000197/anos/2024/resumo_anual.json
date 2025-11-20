@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GONCALVES E GONCALVES AUTO POSTO CUIABA LTDA",
+      "cnpj": "01824173000197",
+      "total_recebido": 264.49,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 264.49,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-06-16T00:00:00",
+    "periodo_fim": "2024-06-16T00:00:00",
+    "generatedAt": "2025-11-11T21:37:56.422488"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 264.49,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 264.49,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 264.49,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7756537,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-06-16T00:00:00",
+      "numDocumento": "692116",
+      "valorDocumento": 264.49,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7756537.pdf",
+      "nomeFornecedor": "GONCALVES E GONCALVES AUTO POSTO CUIABA LTDA",
+      "cnpjCpfFornecedor": "01824173000197",
+      "valorLiquido": 264.49,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2050513,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

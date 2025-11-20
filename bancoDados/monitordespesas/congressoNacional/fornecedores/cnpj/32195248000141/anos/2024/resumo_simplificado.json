@@ -1,0 +1,54 @@
+{
+  "fornecedor": {
+    "nome": "FORT COMBUSTIVEIS LTDA",
+    "cnpj": "32195248000141",
+    "total_recebido": 959.1600000000001,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 959.16,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 959.16,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 959.16,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 313.52,
+      "porcentagem_do_total": 32.69
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 203.46,
+      "porcentagem_do_total": 21.21
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 230.85,
+      "porcentagem_do_total": 24.07
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 211.33,
+      "porcentagem_do_total": 22.03
+    }
+  ]
+}

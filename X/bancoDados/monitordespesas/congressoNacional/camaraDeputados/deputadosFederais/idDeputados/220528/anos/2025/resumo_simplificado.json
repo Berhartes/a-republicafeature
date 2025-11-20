@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220528,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220528",
+    "nome": "Dr. Victor Linhalis",
+    "siglaPartido": "PODE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+    "siglaUf": "ES",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220528.jpg",
+    "email": "dep.dr.victorlinhalis@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 305073.05,
+  "quantidade_transacoes": 252,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 99647.5,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 32.66
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 81501.68,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 26.72
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 59788.32,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 19.6
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 45464.15,
+      "quantidade_transacoes": 147,
+      "porcentagem_do_total": 14.9
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 11351.44,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 3.72
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "GALWAN CONSTRUTORA INCORPORADORA LTDA",
+      "cnpj": "17487358000193",
+      "total": 94311.19,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 30.91
+    },
+    {
+      "nome": "SUPREMA MOBILIDADE LTDA",
+      "cnpj": "24894397000170",
+      "total": 58050.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 19.03
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 35603.23,
+      "quantidade_transacoes": 137,
+      "porcentagem_do_total": 11.67
+    },
+    {
+      "nome": "O ANJO PUBLICIDADE LTDA",
+      "cnpj": "48994427000189",
+      "total": 31000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 10.16
+    },
+    {
+      "nome": "JORNAL CANELA VERDE EIRELI",
+      "cnpj": "23191363000157",
+      "total": 30000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 9.83
+    },
+    {
+      "nome": "ATOS COMUNICAÇÃO LTDA",
+      "cnpj": "47340764000190",
+      "total": 10000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.28
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 7700.2,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 2.52
+    },
+    {
+      "nome": "Facebook Serviços Online do Brasil Ltda.",
+      "cnpj": "13347016000117",
+      "total": 6465.49,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 2.12
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS 206 LTDA",
+      "cnpj": "40084269000118",
+      "total": 6173.91,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 2.02
+    },
+    {
+      "nome": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.",
+      "cnpj": "28152650000171",
+      "total": 3665.44,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.2
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 10332.1,
+      "porcentagem_do_total": 3.39
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 19227.22,
+      "porcentagem_do_total": 6.3
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 48911.09,
+      "porcentagem_do_total": 16.03
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 25833.55,
+      "porcentagem_do_total": 8.47
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 31837.74,
+      "porcentagem_do_total": 10.44
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 37936.6,
+      "porcentagem_do_total": 12.44
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 43428.25,
+      "porcentagem_do_total": 14.24
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 37340.98,
+      "porcentagem_do_total": 12.24
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 33096.3,
+      "porcentagem_do_total": 10.85
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 17129.22,
+      "porcentagem_do_total": 5.61
+    }
+  ]
+}

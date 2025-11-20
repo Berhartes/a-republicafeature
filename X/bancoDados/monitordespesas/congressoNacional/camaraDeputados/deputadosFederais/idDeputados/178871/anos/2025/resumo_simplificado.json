@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 178871,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178871",
+    "nome": "Evair Vieira de Melo",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "ES",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
+    "email": "dep.evairvieirademelo@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 416942.73,
+  "quantidade_transacoes": 474,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 194267.81,
+      "quantidade_transacoes": 40,
+      "porcentagem_do_total": 46.59
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 85595.0,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 20.53
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 57108.83,
+      "quantidade_transacoes": 132,
+      "porcentagem_do_total": 13.7
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 41023.86,
+      "quantidade_transacoes": 70,
+      "porcentagem_do_total": 9.84
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 15783.08,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 3.79
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "RC COMUNICAÇAO ESTRATEGICA LTDA",
+      "cnpj": "54456974000103",
+      "total": 77000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 18.47
+    },
+    {
+      "nome": "AQUI CENTRO AUTOMOTIVO LTDA EPP4347",
+      "cnpj": "01991386000103",
+      "total": 69595.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 16.69
+    },
+    {
+      "nome": "JOSE GRIGORIO DE OLIVEIRA JUNIOR INTERNET E SERVIÇO",
+      "cnpj": "11492990000149",
+      "total": 45000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 10.79
+    },
+    {
+      "nome": "AUTO POSTO ESMIG LTDA",
+      "cnpj": "27444595000120",
+      "total": 36892.64,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 8.85
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 27131.02,
+      "quantidade_transacoes": 50,
+      "porcentagem_do_total": 6.51
+    },
+    {
+      "nome": "CANDELA ESTRATEGIA E COMUNICAÇÃO LTDA",
+      "cnpj": "38731601000147",
+      "total": 24000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 5.76
+    },
+    {
+      "nome": "STAR CITY MIDIA",
+      "cnpj": "02933033000110",
+      "total": 19000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.56
+    },
+    {
+      "nome": "Iza Carla Silva Santa Brigida - ME",
+      "cnpj": "21891589000135",
+      "total": 16000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.84
+    },
+    {
+      "nome": "AIE CINEMA LTDA ME",
+      "cnpj": "12628672000125",
+      "total": 12000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.88
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 7974.35,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 1.91
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 46462.81,
+      "porcentagem_do_total": 11.14
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 60432.28,
+      "porcentagem_do_total": 14.49
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 37923.16,
+      "porcentagem_do_total": 9.1
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 30774.28,
+      "porcentagem_do_total": 7.38
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 57458.02,
+      "porcentagem_do_total": 13.78
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 41572.68,
+      "porcentagem_do_total": 9.97
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 36146.51,
+      "porcentagem_do_total": 8.67
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 38202.39,
+      "porcentagem_do_total": 9.16
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 37361.32,
+      "porcentagem_do_total": 8.96
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 30323.06,
+      "porcentagem_do_total": 7.27
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 286.22,
+      "porcentagem_do_total": 0.07
+    }
+  ]
+}

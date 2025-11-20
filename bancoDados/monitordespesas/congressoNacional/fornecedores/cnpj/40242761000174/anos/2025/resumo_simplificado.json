@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO ARENA LTDA",
+    "cnpj": "40242761000174",
+    "total_recebido": 5229.200000000001,
+    "numero_transacoes": 27,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 200.0,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 200.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 200.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 200.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AOOM SERVICOS E PRODUCOES",
+      "cnpj": "48212338000133",
+      "total_recebido": 95800.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:22.280785"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 95800.0
+  },
+  "anos": {
+    "2024": {
+      "total": 95800.0,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220542": {
+      "deputado": {
+        "id": 220542,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
+        "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
+        "email": "dep.alexandreguimaraes@camara.leg.br"
+      },
+      "total": 95800.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7712712,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-02T00:00:00",
+          "numDocumento": "14",
+          "valorDocumento": 32800.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3584/2024/7712712.pdf",
+          "nomeFornecedor": "AOOM SERVICOS E PRODUCOES",
+          "cnpjCpfFornecedor": "48212338000133",
+          "valorLiquido": 32800.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7733968,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-09T00:00:00",
+          "numDocumento": "16",
+          "valorDocumento": 21000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3584/2024/7733968.pdf",
+          "nomeFornecedor": "AOOM SERVICOS E PRODUCOES",
+          "cnpjCpfFornecedor": "48212338000133",
+          "valorLiquido": 21000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7749331,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-06T00:00:00",
+          "numDocumento": "17",
+          "valorDocumento": 21000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3584/2024/7749331.pdf",
+          "nomeFornecedor": "AOOM SERVICOS E PRODUCOES",
+          "cnpjCpfFornecedor": "48212338000133",
+          "valorLiquido": 21000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7771658,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-01T00:00:00",
+          "numDocumento": "18",
+          "valorDocumento": 21000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3584/2024/7771658.pdf",
+          "nomeFornecedor": "AOOM SERVICOS E PRODUCOES",
+          "cnpjCpfFornecedor": "48212338000133",
+          "valorLiquido": 21000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

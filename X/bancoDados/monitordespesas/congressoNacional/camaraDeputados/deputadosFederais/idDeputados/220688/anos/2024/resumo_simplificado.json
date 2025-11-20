@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 220688,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220688",
+    "nome": "Dr. Francisco",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "PI",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220688.jpg",
+    "email": "dep.dr.francisco@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 542537.03,
+  "quantidade_transacoes": 424,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 111200.0,
+      "quantidade_transacoes": 34,
+      "porcentagem_do_total": 20.5
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 105000.0,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 19.35
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 104400.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 19.24
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 97914.82,
+      "quantidade_transacoes": 169,
+      "porcentagem_do_total": 18.05
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 76527.84,
+      "quantidade_transacoes": 53,
+      "porcentagem_do_total": 14.11
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "MY CAR LOCAÇÃO DE VEICULOS LTDA",
+      "cnpj": "17577449000110",
+      "total": 111200.0,
+      "quantidade_transacoes": 34,
+      "porcentagem_do_total": 20.5
+    },
+    {
+      "nome": "SERVFAZ SERVIÇOS DE SEGURANÇA LTDA",
+      "cnpj": "21088004000143",
+      "total": 104400.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 19.24
+    },
+    {
+      "nome": "TRANSSERVICE PETROLEO LTDA",
+      "cnpj": "02927004000145",
+      "total": 63991.86,
+      "quantidade_transacoes": 79,
+      "porcentagem_do_total": 11.79
+    },
+    {
+      "nome": "J & M EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+      "cnpj": "11491405000196",
+      "total": 41000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 7.56
+    },
+    {
+      "nome": "RAFAEL DA SILVA OLIVEIRA",
+      "cnpj": "39936812000189",
+      "total": 36000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 6.64
+    },
+    {
+      "nome": "ZION COMUNICAÇÃO E ESTRATEGIA LTDA",
+      "cnpj": "13097115000198",
+      "total": 36000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.64
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 34931.18,
+      "quantidade_transacoes": 71,
+      "porcentagem_do_total": 6.44
+    },
+    {
+      "nome": "SOPHIA LUSTOSADE CASTRO CARNEIRO",
+      "cnpj": "50324718000101",
+      "total": 16500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.04
+    },
+    {
+      "nome": "Companhia Energética do Piauí",
+      "cnpj": "06840748000189",
+      "total": 14902.82,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 2.75
+    },
+    {
+      "nome": "PARLANET WEB E TECNOLOGIA EIRELI",
+      "cnpj": "31602730000196",
+      "total": 9600.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 1.77
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 43712.85,
+      "porcentagem_do_total": 8.06
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 48109.71,
+      "porcentagem_do_total": 8.87
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 51377.62,
+      "porcentagem_do_total": 9.47
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 37969.87,
+      "porcentagem_do_total": 7.0
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 48318.71,
+      "porcentagem_do_total": 8.91
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 42202.41,
+      "porcentagem_do_total": 7.78
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 37156.22,
+      "porcentagem_do_total": 6.85
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 37931.32,
+      "porcentagem_do_total": 6.99
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 40973.98,
+      "porcentagem_do_total": 7.55
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 54981.72,
+      "porcentagem_do_total": 10.13
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 48609.37,
+      "porcentagem_do_total": 8.96
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 51193.25,
+      "porcentagem_do_total": 9.44
+    }
+  ]
+}

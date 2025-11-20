@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:12:06Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00002953000199"
+  },
+  "data": {
+    "cnpj": "00002953000199",
+    "nome": "POSTO JARDIM AMERICA DE BAURU LT",
+    "nomeFornecedor": "POSTO JARDIM AMERICA DE BAURU LT",
+    "totalTransacionado": 379.96,
+    "totalRecebido": 379.96,
+    "totalRecebidoTodos": 379.96,
+    "transacoes": 2,
+    "numeroTransacoes": 2,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [
+      {
+        "id": "178829",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 379.96,
+        "transacoes": 2
+      }
+    ],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 379.96,
+        "quantidade": 2
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 379.96,
+        "quantidade": 2
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 379.96,
+        "transacoes": 2,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 196.46,
+        "ano": 2023,
+        "mes": 2,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "085896",
+        "dataDocumento": "2023-02-08T00:00:00",
+        "deputadoId": "178829",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 183.5,
+        "ano": 2023,
+        "mes": 3,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "092493",
+        "dataDocumento": "2023-03-30T00:00:00",
+        "deputadoId": "178829",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 183.5,
+        "valorLiquido": 183.5,
+        "valorDocumento": 183.5,
+        "ano": 2023,
+        "mes": 3,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2023-03-30T00:00:00",
+        "data": "2023-03-30T00:00:00",
+        "numDocumento": "092493",
+        "codDocumento": 7518689,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2023/7518689.pdf",
+        "deputadoId": "178829",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "POSTO JARDIM AMERICA DE BAURU LT",
+        "cnpj": "00002953000199",
+        "urlDocumentoPdf": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2023/7518689.pdf"
+      },
+      {
+        "valor": 196.46,
+        "valorLiquido": 196.46,
+        "valorDocumento": 196.46,
+        "ano": 2023,
+        "mes": 2,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2023-02-08T00:00:00",
+        "data": "2023-02-08T00:00:00",
+        "numDocumento": "085896",
+        "codDocumento": 7495759,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2023/7495759.pdf",
+        "deputadoId": "178829",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "POSTO JARDIM AMERICA DE BAURU LT",
+        "cnpj": "00002953000199",
+        "urlDocumentoPdf": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2950/2023/7495759.pdf"
+      }
+    ],
+    "totalTransacoesDetalhadas": 2,
+    "aliases": [
+      "00002953000199"
+    ],
+    "temDetalhes": true
+  }
+}

@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:45.396047"
+    "generatedAt": "2025-11-11T05:22:26.789763"
   },
   "categorias": {
     "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 800.0
@@ -25,6 +25,7 @@
         "id": 160559,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
         "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
         "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -35,25 +36,6 @@
       "total": 800.0,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 11,
-          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7643543,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-11-14T00:00:00",
-          "numDocumento": "202300000000772",
-          "valorDocumento": 500.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2379/2023/7643543.pdf",
-          "nomeFornecedor": "Radio Club",
-          "cnpjCpfFornecedor": "16777282000178",
-          "valorLiquido": 500.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 6,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "Radio Club",
           "cnpjCpfFornecedor": "16777282000178",
           "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7643543,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-14T00:00:00",
+          "numDocumento": "202300000000772",
+          "valorDocumento": 500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2379/2023/7643543.pdf",
+          "nomeFornecedor": "Radio Club",
+          "cnpjCpfFornecedor": "16777282000178",
+          "valorLiquido": 500.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

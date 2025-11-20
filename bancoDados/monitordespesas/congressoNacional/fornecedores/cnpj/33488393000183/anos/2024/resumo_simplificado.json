@@ -1,0 +1,72 @@
+{
+  "fornecedor": {
+    "nome": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+    "cnpj": "33488393000183",
+    "total_recebido": 1373.3500000000001,
+    "numero_transacoes": 8,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 1373.35,
+  "quantidade_transacoes": 8,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 1373.35,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 1373.35,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 474.85,
+      "porcentagem_do_total": 34.58
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 149.9,
+      "porcentagem_do_total": 10.91
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 149.9,
+      "porcentagem_do_total": 10.91
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 149.9,
+      "porcentagem_do_total": 10.91
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 149.9,
+      "porcentagem_do_total": 10.91
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 149.0,
+      "porcentagem_do_total": 10.85
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 149.9,
+      "porcentagem_do_total": 10.91
+    }
+  ]
+}

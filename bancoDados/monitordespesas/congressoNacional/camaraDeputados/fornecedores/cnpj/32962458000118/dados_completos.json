@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:46.675508"
+    "generatedAt": "2025-11-11T05:22:05.172158"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 588.04
@@ -30,6 +30,7 @@
         "id": 220593,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
         "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "MT",
@@ -40,25 +41,6 @@
       "total": 588.04,
       "transacoes": 3,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7609229,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-09-16T00:00:00",
-          "numDocumento": "85207",
-          "valorDocumento": 98.18,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7609229",
-          "nomeFornecedor": "AUTO POSTO BUGRENSE LTDA",
-          "cnpjCpfFornecedor": "32962458000118",
-          "valorLiquido": 98.18,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 3,
@@ -73,6 +55,25 @@
           "nomeFornecedor": "AUTO POSTO BUGRENSE LTDA",
           "cnpjCpfFornecedor": "32962458000118",
           "valorLiquido": 277.84,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7609229,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-16T00:00:00",
+          "numDocumento": "85207",
+          "valorDocumento": 98.18,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7609229",
+          "nomeFornecedor": "AUTO POSTO BUGRENSE LTDA",
+          "cnpjCpfFornecedor": "32962458000118",
+          "valorLiquido": 98.18,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

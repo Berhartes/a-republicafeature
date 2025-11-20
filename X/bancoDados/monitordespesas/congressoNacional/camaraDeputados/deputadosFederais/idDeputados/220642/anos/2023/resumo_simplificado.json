@@ -1,0 +1,80 @@
+{
+  "deputado": {
+    "id": 220642,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220642",
+    "nome": "Delegado Bruno Lima",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220642.jpg",
+    "email": "dep.delegadobrunolima@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 3126.95,
+  "quantidade_transacoes": 5,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 1669.19,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 53.38
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 874.12,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 27.95
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 827.25,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 26.46
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": -243.61,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": -7.79
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Azul Linhas Aéreas Inteligentes S.A",
+      "cnpj": "09296295000160",
+      "total": 1669.19,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 53.38
+    },
+    {
+      "nome": "MELIA BRASIL ADMINISTRACAO HOTELEIRA E COMERCIAL LTDA",
+      "cnpj": "62413877003268",
+      "total": 874.12,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 27.95
+    },
+    {
+      "nome": "Plena Informatica Ltda",
+      "cnpj": "03038875000170",
+      "total": 827.25,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 26.46
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": -243.61,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": -7.79
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 3126.95,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

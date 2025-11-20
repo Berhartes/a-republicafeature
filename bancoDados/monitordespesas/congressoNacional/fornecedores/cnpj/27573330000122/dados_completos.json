@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ARTitUR F. GARCIA E SILVA",
+      "cnpj": "27573330000122",
+      "total_recebido": 10000.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:54.846486"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": 10000.0
+  },
+  "anos": {
+    "2023": {
+      "total": 10000.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 10000.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7654313,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-04T00:00:00",
+          "numDocumento": "88",
+          "valorDocumento": 10000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7654313.pdf",
+          "nomeFornecedor": "ARTitUR F. GARCIA E SILVA",
+          "cnpjCpfFornecedor": "27573330000122",
+          "valorLiquido": 10000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1993917,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220646,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220646",
+    "nome": "Felipe Becari",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220646.jpg",
+    "email": "dep.felipebecari@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 473657.59,
+  "quantidade_transacoes": 242,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 333169.0,
+      "quantidade_transacoes": 35,
+      "porcentagem_do_total": 70.34
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 80187.87,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 16.93
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 37462.52,
+      "quantidade_transacoes": 35,
+      "porcentagem_do_total": 7.91
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 10567.48,
+      "quantidade_transacoes": 62,
+      "porcentagem_do_total": 2.23
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 5651.62,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.19
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Atos 360 LTDA",
+      "cnpj": "40439299000108",
+      "total": 130500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 27.55
+    },
+    {
+      "nome": "SAVEIRO COMUNICACAO LTDA",
+      "cnpj": "22409910000165",
+      "total": 79977.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 16.88
+    },
+    {
+      "nome": "SUPREMA MOBILIDADE LTDA",
+      "cnpj": "24894397000170",
+      "total": 76536.65,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 16.16
+    },
+    {
+      "nome": "Performance Traffic Comunicação LTDA",
+      "cnpj": "18236054000116",
+      "total": 47500.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 10.03
+    },
+    {
+      "nome": "Claudio da Silva Irenio 30097793809",
+      "cnpj": "42284983000185",
+      "total": 43300.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 9.14
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 27621.12,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 5.83
+    },
+    {
+      "nome": "ATOS 360 LTDA",
+      "cnpj": "40439299000108",
+      "total": 14500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.06
+    },
+    {
+      "nome": "Moustache Desenvolvimento de Projetos e Consultoria LTDA",
+      "cnpj": "15493523000194",
+      "total": 10000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.11
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 7621.08,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 1.61
+    },
+    {
+      "nome": "Gol Linhas Aereas S.A.",
+      "cnpj": "07575651000159",
+      "total": 5651.62,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.19
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 26560.53,
+      "porcentagem_do_total": 5.61
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 37744.17,
+      "porcentagem_do_total": 7.97
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 33230.98,
+      "porcentagem_do_total": 7.02
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 33045.01,
+      "porcentagem_do_total": 6.98
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 29758.8,
+      "porcentagem_do_total": 6.28
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 39913.9,
+      "porcentagem_do_total": 8.43
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 45016.96,
+      "porcentagem_do_total": 9.5
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 45575.07,
+      "porcentagem_do_total": 9.62
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 42875.88,
+      "porcentagem_do_total": 9.05
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 43481.29,
+      "porcentagem_do_total": 9.18
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 96455.0,
+      "porcentagem_do_total": 20.36
+    }
+  ]
+}

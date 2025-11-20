@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:54.629699"
+    "generatedAt": "2025-11-11T05:22:30.411321"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 484.49
@@ -25,6 +25,7 @@
         "id": 204571,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
         "nome": "Alex Santana",
+        "nomeEleitoral": "Alex Santana",
         "siglaPartido": "REPUBLICANOS",
         "uriPartido": "",
         "siglaUf": "BA",
@@ -35,25 +36,6 @@
       "total": 484.49,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2025,
-          "mes": 8,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7990483,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-08-23T00:00:00",
-          "numDocumento": "1048339",
-          "valorDocumento": 353.79,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7990483",
-          "nomeFornecedor": "AUTO POSTO REFORCO LTDA",
-          "cnpjCpfFornecedor": "13315486000107",
-          "valorLiquido": 290.19,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2025,
           "mes": 1,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "AUTO POSTO REFORCO LTDA",
           "cnpjCpfFornecedor": "13315486000107",
           "valorLiquido": 194.3,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7990483,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-23T00:00:00",
+          "numDocumento": "1048339",
+          "valorDocumento": 353.79,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7990483",
+          "nomeFornecedor": "AUTO POSTO REFORCO LTDA",
+          "cnpjCpfFornecedor": "13315486000107",
+          "valorLiquido": 290.19,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

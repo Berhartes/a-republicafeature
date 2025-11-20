@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO GIGANTAO DE MARILIA LT",
+    "cnpj": "56145469000173",
+    "total_recebido": 415.49,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 290.49,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 290.49,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 290.49,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 290.49,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

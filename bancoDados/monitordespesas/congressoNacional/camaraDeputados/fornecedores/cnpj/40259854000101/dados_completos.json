@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:33.243148"
+    "generatedAt": "2025-11-11T05:22:23.454253"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 655.39
@@ -25,6 +25,7 @@
         "id": 204549,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204549",
         "nome": "AJ Albuquerque",
+        "nomeEleitoral": "AJ Albuquerque",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "CE",
@@ -35,25 +36,6 @@
       "total": 655.39,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 7,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7776115,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-07-18T00:00:00",
-          "numDocumento": "056279",
-          "valorDocumento": 355.38,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2024/7776115.pdf",
-          "nomeFornecedor": "Sousa Prado Comercial De Combustivel Ltda",
-          "cnpjCpfFornecedor": "40259854000101",
-          "valorLiquido": 355.38,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 1,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "Sousa Prado Comercial De Combustivel Ltda",
           "cnpjCpfFornecedor": "40259854000101",
           "valorLiquido": 300.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7776115,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-18T00:00:00",
+          "numDocumento": "056279",
+          "valorDocumento": 355.38,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2024/7776115.pdf",
+          "nomeFornecedor": "Sousa Prado Comercial De Combustivel Ltda",
+          "cnpjCpfFornecedor": "40259854000101",
+          "valorLiquido": 355.38,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

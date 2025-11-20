@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BRUNO PINHEIRO DA SILVA 05197897171",
+      "cnpj": "28962281000182",
+      "total_recebido": 10500.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:54.853484"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": 10500.0
+  },
+  "anos": {
+    "2023": {
+      "total": 10500.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 10500.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7539249,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-08T00:00:00",
+          "numDocumento": "202300000000014",
+          "valorDocumento": 3500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7539249.pdf",
+          "nomeFornecedor": "BRUNO PINHEIRO DA SILVA 05197897171",
+          "cnpjCpfFornecedor": "28962281000182",
+          "valorLiquido": 3500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1931546,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7559511,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-15T00:00:00",
+          "numDocumento": "202300000000022",
+          "valorDocumento": 3500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7559511.pdf",
+          "nomeFornecedor": "BRUNO PINHEIRO DA SILVA 05197897171",
+          "cnpjCpfFornecedor": "28962281000182",
+          "valorLiquido": 3500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1942380,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7580470,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-25T00:00:00",
+          "numDocumento": "202300000000026",
+          "valorDocumento": 3500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7580470.pdf",
+          "nomeFornecedor": "BRUNO PINHEIRO DA SILVA 05197897171",
+          "cnpjCpfFornecedor": "28962281000182",
+          "valorLiquido": 3500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1953872,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

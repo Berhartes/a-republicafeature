@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220568,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220568",
+    "nome": "Gustavo Gayer",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "GO",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220568.jpg",
+    "email": "dep.gustavogayer@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 372473.56,
+  "quantidade_transacoes": 613,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 111271.43,
+      "quantidade_transacoes": 68,
+      "porcentagem_do_total": 29.87
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 91065.0,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 24.45
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 81763.0,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 21.95
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 38459.45,
+      "quantidade_transacoes": 197,
+      "porcentagem_do_total": 10.33
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 18651.0,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 5.01
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "SEM FRONTEIRAS - NEGÓCIOS IMOBILIÁRIOS LTDAS",
+      "cnpj": "04869547000189",
+      "total": 48000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 12.89
+    },
+    {
+      "nome": "VD COMERCIO DE VEICULOS LTDA - DF",
+      "cnpj": "39786983001906",
+      "total": 38940.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 10.45
+    },
+    {
+      "nome": "SUPREMA MOBILIDADE LTDA",
+      "cnpj": "24894397000170",
+      "total": 29153.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 7.83
+    },
+    {
+      "nome": "MULTI MERCADO LTDA",
+      "cnpj": "19976273000102",
+      "total": 24255.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 6.51
+    },
+    {
+      "nome": "HENRIQUE GOES BARBOSA PARISI",
+      "cnpj": "31871922000106",
+      "total": 22500.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 6.04
+    },
+    {
+      "nome": "GOIAS ONLINE COMUNICAÇOES E MARKETING PUBLICIDADE LTDA",
+      "cnpj": "49947878000128",
+      "total": 16000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.3
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 14303.77,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 3.84
+    },
+    {
+      "nome": "WILMA ANA NOGUEIRA SANTOS",
+      "cnpj": "04380932249",
+      "total": 12500.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.36
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 12170.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 3.27
+    },
+    {
+      "nome": "Cia Aérea - TAM",
+      "cnpj": "02012862000160",
+      "total": 11587.88,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 3.11
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 17305.72,
+      "porcentagem_do_total": 4.65
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 34844.78,
+      "porcentagem_do_total": 9.35
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 43220.23,
+      "porcentagem_do_total": 11.6
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 28878.65,
+      "porcentagem_do_total": 7.75
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 29636.69,
+      "porcentagem_do_total": 7.96
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 32698.74,
+      "porcentagem_do_total": 8.78
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 34928.42,
+      "porcentagem_do_total": 9.38
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 39100.81,
+      "porcentagem_do_total": 10.5
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 32176.31,
+      "porcentagem_do_total": 8.64
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 43026.54,
+      "porcentagem_do_total": 11.55
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 36656.67,
+      "porcentagem_do_total": 9.84
+    }
+  ]
+}

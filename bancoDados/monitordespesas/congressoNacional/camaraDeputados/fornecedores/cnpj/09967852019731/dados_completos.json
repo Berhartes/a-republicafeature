@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "HOTELARIA ACCOR BRASIL S A",
       "cnpj": "09967852019731",
-      "total_recebido": 543.9,
+      "total_recebido": 71.0,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:03.582060"
+    "generatedAt": "2025-11-11T05:22:36.017557"
   },
   "categorias": {
-    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 543.9
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 71.0
   },
   "anos": {
-    "2025": {
-      "total": 543.9,
+    "2023": {
+      "total": 71.0,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204528": {
+    "220554": {
       "deputado": {
-        "id": 204528,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204528",
-        "nome": "Adriana Ventura",
-        "siglaPartido": "NOVO",
+        "id": 220554,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+        "nome": "Alexandre Lindenmeyer",
+        "nomeEleitoral": "Alexandre Lindenmeyer",
+        "siglaPartido": "PT",
         "uriPartido": "",
-        "siglaUf": "SP",
+        "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
-        "email": "dep.adrianaventura@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
+        "email": "dep.alexandrelindenmeyer@camara.leg.br"
       },
-      "total": 543.9,
+      "total": 71.0,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2025,
-          "mes": 6,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7939099,
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7575235,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-06-17T00:00:00",
-          "numDocumento": "00351453",
-          "valorDocumento": 543.9,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2025/7939099.pdf",
+          "dataDocumento": "2023-07-11T00:00:00",
+          "numDocumento": "040817",
+          "valorDocumento": 71.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2023/7575235.pdf",
           "nomeFornecedor": "HOTELARIA ACCOR BRASIL S A",
           "cnpjCpfFornecedor": "09967852019731",
-          "valorLiquido": 543.9,
+          "valorLiquido": 71.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

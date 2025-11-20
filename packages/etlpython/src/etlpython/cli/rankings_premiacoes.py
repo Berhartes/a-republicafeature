@@ -37,15 +37,31 @@ def load_detailed_deputados_data(
         if idx % 100 == 0:
             print(f"   Progresso: {idx}/{total_files} ({idx*100//total_files}%)")
         
-        dep_file = deputados_dir / str(dep_id) / "dados_completos.json"
-        if dep_file.exists():
-            try:
-                with open(dep_file, 'r', encoding='utf-8') as f:
-                    detailed_data[dep_id] = json.load(f)
-            except Exception as e:
-                print(f"⚠️  Erro ao ler {dep_file}: {e}")
+        dep_dir = deputados_dir / str(dep_id)
+        if not dep_dir.exists():
+            continue
+
+        legislatura_candidates = sorted(
+            dep_dir.glob(f"{dep_id}-id*-dados_completos.json"),
+            key=lambda path: path.name,
+            reverse=True
+        )
+        fallback_candidates = [
+            dep_dir / f"{dep_id}-dados_completos.json",
+            dep_dir / "dados_completos.json",
+        ]
+
+        for candidate in (*legislatura_candidates, *fallback_candidates):
+            if not candidate.exists():
                 continue
-        
+            try:
+                with open(candidate, 'r', encoding='utf-8') as f:
+                    detailed_data[dep_id] = json.load(f)
+                break
+            except Exception as e:
+                print(f"⚠️  Erro ao ler {candidate}: {e}")
+                continue
+
         # Limitar processamento para teste (remover em produção)
         # if idx >= 100:
         #     print(f"⚠️  Limitando a 100 deputados para teste")
@@ -73,8 +89,37 @@ def process_detailed_data(detailed_data: Dict[int, Any]) -> Dict[str, Any]:
     fornecedores_por_ano = defaultdict(lambda: defaultdict(set))
     
     total_despesas_processadas = 0
+    deputados_info: Dict[str, Dict[str, Any]] = {}
     
     for dep_id, dados in detailed_data.items():
+        metadata = dados.get('metadata') or {}
+        deputado_meta = metadata.get('deputado') or metadata.get('legislador') or {}
+
+        if deputado_meta:
+            info_entry = {
+                'id': str(deputado_meta.get('id') or dep_id),
+                'nome': deputado_meta.get('nome') or '',
+                'nomeEleitoral': deputado_meta.get('nomeEleitoral') or deputado_meta.get('nome') or '',
+                'siglaPartido': deputado_meta.get('siglaPartido') or deputado_meta.get('partido'),
+                'siglaUf': deputado_meta.get('siglaUf') or deputado_meta.get('uf'),
+                'urlFoto': deputado_meta.get('urlFoto')
+                    or deputado_meta.get('fotoUrl')
+                    or deputado_meta.get('foto'),
+                'email': deputado_meta.get('email')
+            }
+        else:
+            info_entry = {
+                'id': str(dep_id),
+                'nome': '',
+                'nomeEleitoral': '',
+                'siglaPartido': None,
+                'siglaUf': None,
+                'urlFoto': None,
+                'email': None
+            }
+
+        deputados_info[str(dep_id)] = info_entry
+
         for despesa in dados.get('despesas', []):
             ano = despesa.get('ano')
             categoria = despesa.get('tipoDespesa', '').strip().rstrip('.')
@@ -108,17 +153,25 @@ def process_detailed_data(detailed_data: Dict[int, Any]) -> Dict[str, Any]:
         'gastos_por_categoria': dict(gastos_por_categoria),
         'gastos_por_categoria_ano': dict(gastos_por_categoria_ano),
         'transacoes_por_ano': dict(transacoes_por_ano),
-        'fornecedores_por_ano': fornecedores_por_ano_count
+        'fornecedores_por_ano': fornecedores_por_ano_count,
+        'deputados_info': deputados_info
     }
 
 
-def gerar_rankings_deputados(deputados: Sequence[Any]) -> Dict[str, Any]:
+def gerar_rankings_deputados(
+    deputados: Sequence[Any], 
+    dados_processados: Dict[str, Any] = None
+) -> Dict[str, Any]:
     """
     Gera rankings completos para deputados.
     
+    Args:
+        deputados: Lista de deputados com totais históricos
+        dados_processados: Dados detalhados processados (opcional)
+    
     Retorna:
         - geral: Ranking geral histórico
-        - porAno: Rankings por ano
+        - porAno: Rankings por ano (se dados_processados disponível)
         - porCategoria: Rankings por categoria de despesa
         - porUf: Rankings por UF
     """
@@ -136,6 +189,9 @@ def gerar_rankings_deputados(deputados: Sequence[Any]) -> Dict[str, Any]:
         reverse=True
     )
     
+    # Criar índice de deputados por ID para enriquecimento
+    deputados_index = {str(dep.id): dep for dep in deputados}
+    
     for posicao, dep in enumerate(deputados_ordenados, 1):
         rankings["geral"].append({
             "posicao": posicao,
@@ -147,6 +203,87 @@ def gerar_rankings_deputados(deputados: Sequence[Any]) -> Dict[str, Any]:
             "numeroDespesas": dep.numero_despesas,
             "fornecedoresIdentificados": dep.fornecedores_identificados
         })
+    
+    # Rankings por Ano (se dados detalhados disponíveis)
+    if dados_processados and 'gastos_por_ano' in dados_processados:
+        print("📅 Gerando rankings por ano...")
+        gastos_por_ano = dados_processados['gastos_por_ano']
+        transacoes_por_ano = dados_processados.get('transacoes_por_ano', {})
+        fornecedores_por_ano = dados_processados.get('fornecedores_por_ano', {})
+        
+        for ano, gastos_deps in gastos_por_ano.items():
+            # Criar lista de deputados com gastos no ano
+            deputados_ano = []
+            for dep_id, valor in gastos_deps.items():
+                dep = deputados_index.get(str(dep_id))
+                if dep:
+                    deputados_ano.append({
+                        "id": str(dep_id),
+                        "nome": dep.nome,
+                        "partido": dep.partido,
+                        "uf": dep.uf,
+                        "totalDespesas": valor,
+                        "numeroDespesas": transacoes_por_ano.get(ano, {}).get(dep_id, 0),
+                        "fornecedoresIdentificados": fornecedores_por_ano.get(ano, {}).get(dep_id, 0)
+                    })
+            
+            # Ordenar por valor e adicionar posições
+            deputados_ano_ordenados = sorted(
+                deputados_ano,
+                key=lambda d: d["totalDespesas"],
+                reverse=True
+            )
+            
+            for posicao, dep in enumerate(deputados_ano_ordenados, 1):
+                dep["posicao"] = posicao
+            
+            rankings["porAno"][str(ano)] = deputados_ano_ordenados
+            print(f"   Ano {ano}: {len(deputados_ano_ordenados)} deputados")
+    
+    # Rankings por Categoria
+    if dados_processados and 'gastos_por_categoria' in dados_processados:
+        print("📁 Gerando rankings por categoria...")
+        gastos_por_categoria = dados_processados['gastos_por_categoria']
+        gastos_por_categoria_ano = dados_processados.get('gastos_por_categoria_ano', {})
+        
+        for categoria, gastos_deps in gastos_por_categoria.items():
+            # Criar lista de deputados com gastos na categoria
+            deputados_categoria = []
+            for dep_id, valor in gastos_deps.items():
+                dep = deputados_index.get(str(dep_id))
+                if dep and valor > 0:
+                    deputados_categoria.append({
+                        "id": str(dep_id),
+                        "nome": dep.nome,
+                        "partido": dep.partido,
+                        "uf": dep.uf,
+                        "totalDespesas": valor,
+                        "porAno": {}
+                    })
+            
+            # Adicionar gastos por ano dentro da categoria
+            for ano, cats in gastos_por_categoria_ano.items():
+                if categoria in cats:
+                    for dep_id, valor_ano in cats[categoria].items():
+                        # Encontrar o deputado na lista
+                        for dep_cat in deputados_categoria:
+                            if dep_cat["id"] == str(dep_id):
+                                dep_cat["porAno"][str(ano)] = valor_ano
+                                break
+            
+            # Ordenar por valor e adicionar posições
+            deputados_categoria_ordenados = sorted(
+                deputados_categoria,
+                key=lambda d: d["totalDespesas"],
+                reverse=True
+            )
+            
+            for posicao, dep in enumerate(deputados_categoria_ordenados, 1):
+                dep["posicao"] = posicao
+            
+            rankings["porCategoria"][categoria] = deputados_categoria_ordenados
+        
+        print(f"   Categorias processadas: {len(rankings['porCategoria'])}")
     
     # Rankings por UF
     deputados_por_uf = defaultdict(list)
@@ -644,4 +781,3 @@ def gerar_premiacoes_fornecedores(
     )
     
     return premiacoes
-

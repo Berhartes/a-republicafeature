@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 74262,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74262",
+    "nome": "Carlos Sampaio",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74262.jpg",
+    "email": "dep.carlossampaio@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 315125.13,
+  "quantidade_transacoes": 214,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 162000.0,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 51.41
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 78079.47,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 24.78
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 56791.32,
+      "quantidade_transacoes": 111,
+      "porcentagem_do_total": 18.02
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 13272.44,
+      "quantidade_transacoes": 40,
+      "porcentagem_do_total": 4.21
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 2346.46,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 0.74
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "LKS MIDIA E PUBLICIDADE LTDA",
+      "cnpj": "49781991000186",
+      "total": 90000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 28.56
+    },
+    {
+      "nome": "CAUE SICILIANO MOTA",
+      "cnpj": "41269916000129",
+      "total": 72000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 22.85
+    },
+    {
+      "nome": "OFF IMOVEIS NEGOCIOS IMOBILIARIOS",
+      "cnpj": "19209958000115",
+      "total": 65079.79,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 20.65
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 56791.32,
+      "quantidade_transacoes": 111,
+      "porcentagem_do_total": 18.02
+    },
+    {
+      "nome": "CPFL energia",
+      "cnpj": "33050196000188",
+      "total": 7408.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 2.35
+    },
+    {
+      "nome": "TELEFÔNICA BRASIL S/A - VIVO",
+      "cnpj": "02558157000162",
+      "total": 6319.59,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 2.01
+    },
+    {
+      "nome": "VIVO TELEFONIA BRASIL S/A",
+      "cnpj": "02558157000162",
+      "total": 2545.57,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 0.81
+    },
+    {
+      "nome": "Sanasa Campinas",
+      "cnpj": "46119855000137",
+      "total": 2447.48,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 0.78
+    },
+    {
+      "nome": "VERISURE BRASIL MONITORAMENTO",
+      "cnpj": "11660106000138",
+      "total": 2346.46,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 0.74
+    },
+    {
+      "nome": "KALUNGA COMÉRCIO INDÚSTRIA GRÁFICA LTDA",
+      "cnpj": "43283811005542",
+      "total": 2065.1,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.66
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 40951.98,
+      "porcentagem_do_total": 13.0
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 37604.48,
+      "porcentagem_do_total": 11.93
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 30982.39,
+      "porcentagem_do_total": 9.83
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 33513.87,
+      "porcentagem_do_total": 10.64
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 35883.55,
+      "porcentagem_do_total": 11.39
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 32362.95,
+      "porcentagem_do_total": 10.27
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 32141.07,
+      "porcentagem_do_total": 10.2
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 27870.18,
+      "porcentagem_do_total": 8.84
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 26384.23,
+      "porcentagem_do_total": 8.37
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 17430.43,
+      "porcentagem_do_total": 5.53
+    }
+  ]
+}

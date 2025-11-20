@@ -1,59 +1,55 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "POSTO KALILANDIA LTDA",
+      "nome": "POSTO KALILANDIA LTDA.",
       "cnpj": "15151046002475",
-      "total_recebido": 471.43,
+      "total_recebido": 290.08,
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:57:28.053449"
+    "generatedAt": "2025-11-11T05:22:30.462323"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 471.43
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 290.08
   },
   "anos": {
-    "2024": {
-      "total": 221.03,
-      "transacoes": 1,
-      "deputados": 1
-    },
     "2025": {
-      "total": 250.4,
-      "transacoes": 1,
+      "total": 290.08,
+      "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "69871": {
+    "204571": {
       "deputado": {
-        "id": 69871,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/69871",
-        "nome": "Bacelar",
-        "siglaPartido": "PV",
+        "id": 204571,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
+        "nome": "Alex Santana",
+        "nomeEleitoral": "Alex Santana",
+        "siglaPartido": "REPUBLICANOS",
         "uriPartido": "",
         "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
-        "email": "dep.bacelar@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204571.jpg",
+        "email": "dep.alexsantana@camara.leg.br"
       },
-      "total": 471.43,
+      "total": 290.08,
       "transacoes": 2,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 2,
+          "ano": 2025,
+          "mes": 4,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7689119,
+          "codDocumento": 7908580,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-02-19T00:00:00",
-          "numDocumento": "91589",
-          "valorDocumento": 221.03,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7689119",
-          "nomeFornecedor": "POSTO KALILANDIA LTDA",
+          "dataDocumento": "2025-04-26T00:00:00",
+          "numDocumento": "253376",
+          "valorDocumento": 130.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7908580",
+          "nomeFornecedor": "POSTO KALILANDIA LTDA.",
           "cnpjCpfFornecedor": "15151046002475",
-          "valorLiquido": 221.03,
+          "valorLiquido": 130.01,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -61,18 +57,18 @@
         },
         {
           "ano": 2025,
-          "mes": 6,
+          "mes": 10,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7930450,
+          "codDocumento": 7999019,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-06-06T00:00:00",
-          "numDocumento": "261859",
-          "valorDocumento": 250.4,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7930450",
+          "dataDocumento": "2025-10-12T00:00:00",
+          "numDocumento": "154387",
+          "valorDocumento": 160.07,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7999019",
           "nomeFornecedor": "POSTO KALILANDIA LTDA",
           "cnpjCpfFornecedor": "15151046002475",
-          "valorLiquido": 250.4,
+          "valorLiquido": 160.07,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

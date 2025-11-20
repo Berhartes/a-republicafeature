@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 204450,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204450",
+    "nome": "Doutor Luizinho",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204450.jpg",
+    "email": "dep.doutorluizinho@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 53109.84,
+  "quantidade_transacoes": 88,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 24094.24,
+      "quantidade_transacoes": 57,
+      "porcentagem_do_total": 45.37
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 12000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 22.59
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 8876.09,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 16.71
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 3874.02,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 7.29
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - RPA",
+      "total": 2741.27,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.16
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 22214.44,
+      "quantidade_transacoes": 39,
+      "porcentagem_do_total": 41.83
+    },
+    {
+      "nome": "ORN MIDIA COMUNICAÇÃO EIRELI",
+      "cnpj": "29649568000110",
+      "total": 12000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 22.59
+    },
+    {
+      "nome": "POSTO CAPITAL LTDA",
+      "cnpj": "05468098000120",
+      "total": 6030.11,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 11.35
+    },
+    {
+      "nome": "Cia Aérea - TAM",
+      "cnpj": "02012862000160",
+      "total": 2741.27,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.16
+    },
+    {
+      "nome": "CELULAR FUNCIONAL",
+      "cnpj": "00000000000001",
+      "total": 2059.53,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 3.88
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 1879.8,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 3.54
+    },
+    {
+      "nome": "CLARO",
+      "cnpj": "40432544006269",
+      "total": 1814.49,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.42
+    },
+    {
+      "nome": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA",
+      "cnpj": "04088208000165",
+      "total": 837.42,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.58
+    },
+    {
+      "nome": "GOLDEN GREEN AUTO POSTO LTDA",
+      "cnpj": "02373202000104",
+      "total": 778.34,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.47
+    },
+    {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+      "cnpj": "12132854000100",
+      "total": 516.9,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.97
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 235.8,
+      "porcentagem_do_total": 0.44
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": -791.48,
+      "porcentagem_do_total": -1.49
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": -5624.92,
+      "porcentagem_do_total": -10.59
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": -457.94,
+      "porcentagem_do_total": -0.86
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": -2138.41,
+      "porcentagem_do_total": -4.03
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 6699.72,
+      "porcentagem_do_total": 12.61
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 15504.27,
+      "porcentagem_do_total": 29.19
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 21119.58,
+      "porcentagem_do_total": 39.77
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 18563.22,
+      "porcentagem_do_total": 34.95
+    }
+  ]
+}

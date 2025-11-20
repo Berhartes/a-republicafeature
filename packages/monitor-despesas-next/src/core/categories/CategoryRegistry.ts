@@ -630,6 +630,6 @@ export const CategoryUtils = {
   isSame: (text1: string, text2: string): boolean => {
     const cat1 = CategoryUtils.resolve(text1)
     const cat2 = CategoryUtils.resolve(text2)
-    return cat1 && cat2 && cat1.id === cat2.id
+    return !!cat1 && !!cat2 && cat1.id === cat2.id
   }
 }

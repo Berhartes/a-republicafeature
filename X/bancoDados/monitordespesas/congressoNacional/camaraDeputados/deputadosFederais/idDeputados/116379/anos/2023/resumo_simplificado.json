@@ -1,0 +1,158 @@
+{
+  "deputado": {
+    "id": 116379,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/116379",
+    "nome": "Darci de Matos",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "SC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/116379.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 231172.85,
+  "quantidade_transacoes": 286,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 105138.33,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 45.48
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 38729.72,
+      "quantidade_transacoes": 83,
+      "porcentagem_do_total": 16.75
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 35303.34,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 15.27
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 25170.28,
+      "quantidade_transacoes": 102,
+      "porcentagem_do_total": 10.89
+    },
+    {
+      "categoria": "CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS",
+      "total": 11500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.97
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "BERIMBAU PRODUÇÕES",
+      "cnpj": "18912417000196",
+      "total": 47500.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 20.55
+    },
+    {
+      "nome": "MUNICIPIO DE MEDIANEIRA/PR",
+      "cnpj": "07444783000141",
+      "total": 38388.33,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 16.61
+    },
+    {
+      "nome": "mav - veículos e serviços ltda",
+      "cnpj": "24367079000151",
+      "total": 29303.34,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 12.68
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 22504.77,
+      "quantidade_transacoes": 61,
+      "porcentagem_do_total": 9.74
+    },
+    {
+      "nome": "JOSE ALEXANDRE M SOC INDIVIDUAL DE ADVOCACIA",
+      "cnpj": "28135586000110",
+      "total": 11500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.97
+    },
+    {
+      "nome": "LETSROCKET COMUNICAÇÃO DIGITAL LTDA",
+      "cnpj": "22507365000140",
+      "total": 9916.67,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 4.29
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 8274.47,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.58
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 7950.48,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 3.44
+    },
+    {
+      "nome": "IMPACTO AGENCIA DE NOTICIAS LTDA",
+      "cnpj": "33194612000111",
+      "total": 7333.33,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.17
+    },
+    {
+      "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+      "cnpj": "00692418000611",
+      "total": 6058.63,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 2.62
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 33026.4,
+      "porcentagem_do_total": 14.29
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 31082.57,
+      "porcentagem_do_total": 13.45
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 36722.64,
+      "porcentagem_do_total": 15.89
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 47816.46,
+      "porcentagem_do_total": 20.68
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 47309.52,
+      "porcentagem_do_total": 20.46
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 35215.26,
+      "porcentagem_do_total": 15.23
+    }
+  ]
+}

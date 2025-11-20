@@ -1,0 +1,108 @@
+// Backup of cache-service.ts before cleanups on 2025-11-12
+// Original content snapshot
+import { loadCacheByKeyWithSource, type CacheSourceLabel } from '@/lib/cache/cache-sources';
+
+export class CacheError extends Error {
+  constructor(
+    message: string,
+    public readonly cacheKey: string,
+    public readonly operation: 'load' | 'parse' | 'clear',
+    public readonly originalError?: Error,
+  ) {
+    super(message);
+    this.name = 'CacheError';
+  }
+}
+
+interface CacheServiceConfig { defaultTTL?: number; maxEntrySizeBytes?: number; }
+export interface CacheConfig { filePath: string; ttl?: number; }
+interface CacheEntry<T> { data: T; loadedAt: number; ttl: number; }
+interface CacheMetrics { hits: number; misses: number; lastAccessTime: number; sourceHits: Record<string, number>; sourceMisses: Record<string, number>; lastSource?: CacheSourceLabel; lastLatencyMs?: number; lastSizeBytes?: number; }
+export interface CacheStats { hits: number; misses: number; hitRate: number; totalRequests: number; lastAccessTime: Date; isLoaded: boolean; loadedAt?: Date; lastSource?: CacheSourceLabel; lastLatencyMs?: number; lastSizeBytes?: number; sourceHits?: Record<string, number>; }
+
+export class CacheService {
+  private static instance: CacheService | null = null;
+  private cacheRegistry: Map<string, CacheEntry<any>>;
+  private metricsRegistry: Map<string, CacheMetrics>;
+  private defaultTTL: number;
+  private maxEntrySizeBytes: number;
+
+  private constructor(config?: CacheServiceConfig) {
+    this.cacheRegistry = new Map();
+    this.metricsRegistry = new Map();
+    this.defaultTTL = config?.defaultTTL || 3600000;
+    this.maxEntrySizeBytes = typeof config?.maxEntrySizeBytes === 'number' ? config!.maxEntrySizeBytes : (Number(process.env.CACHE_MAX_ENTRY_MB || 8) * 1024 * 1024);
+  }
+
+  public static getInstance(config?: CacheServiceConfig): CacheService {
+    if (!CacheService.instance) {
+      const newInstance = new CacheService(config);
+      CacheService.instance = newInstance;
+    }
+    return CacheService.instance;
+  }
+
+  public async getFromSources<T>(cacheKey: string, ttl?: number): Promise<T | null> {
+    try {
+      const cached = this.cacheRegistry.get(cacheKey);
+      const isDev = process.env.NODE_ENV !== 'production'
+      if (!isDev && cached && !this.isExpired(cached)) {
+        this.recordHit(cacheKey);
+        return cached.data as T;
+      }
+      this.recordMiss(cacheKey);
+      const result = await loadCacheByKeyWithSource<T>(cacheKey);
+      const data = result.data;
+      if (data != null) {
+        const serializedSize = Buffer.byteLength(JSON.stringify(data), 'utf-8');
+        const shouldStore = serializedSize <= this.maxEntrySizeBytes;
+        if (!shouldStore) {
+          this.recordSource(cacheKey, result.source, result.durationMs, result.sizeBytes ?? serializedSize);
+          return data as T;
+        }
+        this.cacheRegistry.set(cacheKey, { data, loadedAt: Date.now(), ttl: typeof ttl === 'number' ? ttl : this.defaultTTL });
+        this.recordSource(cacheKey, result.source, result.durationMs, result.sizeBytes ?? serializedSize);
+      }
+      return data;
+    } catch (error) {
+      throw error;
+    }
+  }
+
+  public clearCache(cacheKey?: string): void {
+    if (cacheKey) {
+      const wasDeleted = this.cacheRegistry.delete(cacheKey);
+      this.metricsRegistry.delete(cacheKey);
+    } else {
+      this.cacheRegistry.clear();
+      this.metricsRegistry.clear();
+    }
+  }
+
+  private isExpired(entry: CacheEntry<any>): boolean { return Date.now() > entry.loadedAt + entry.ttl; }
+  private recordHit(cacheKey: string): void { const m = this.getOrCreateMetrics(cacheKey); m.hits++; m.lastAccessTime = Date.now(); }
+  private recordMiss(cacheKey: string): void { const m = this.getOrCreateMetrics(cacheKey); m.misses++; m.lastAccessTime = Date.now(); }
+  private recordSource(cacheKey: string, source?: CacheSourceLabel, latencyMs?: number, sizeBytes?: number): void { const m = this.getOrCreateMetrics(cacheKey); if (source) { m.sourceHits[source] = (m.sourceHits[source] || 0) + 1; m.lastSource = source; } else { m.sourceMisses['unknown'] = (m.sourceMisses['unknown'] || 0) + 1; } m.lastLatencyMs = latencyMs; m.lastSizeBytes = sizeBytes; }
+  private getOrCreateMetrics(cacheKey: string): CacheMetrics { if (!this.metricsRegistry.has(cacheKey)) { this.metricsRegistry.set(cacheKey, { hits: 0, misses: 0, lastAccessTime: 0, sourceHits: {}, sourceMisses: {} }); } return this.metricsRegistry.get(cacheKey)!; }
+
+  public getStats(cacheKey?: string): CacheStats | Map<string, CacheStats> | undefined {
+    if (cacheKey) { if (!this.metricsRegistry.has(cacheKey)) { return undefined; } return this.getStatsForKey(cacheKey); }
+    const allStats = new Map<string, CacheStats>();
+    for (const key of this.metricsRegistry.keys()) { allStats.set(key, this.getStatsForKey(key)); }
+    return allStats;
+  }
+
+  public getMemoryUsage(): { cacheCount: number; estimatedSize: number; entries: Array<{ key: string; size: number }>; } {
+    const entries = Array.from(this.cacheRegistry.entries()).map(([key, entry]) => ({ key, size: Buffer.byteLength(JSON.stringify(entry.data), 'utf-8') }));
+    const estimatedSize = entries.reduce((sum, e) => sum + e.size, 0);
+    return { cacheCount: this.cacheRegistry.size, estimatedSize, entries };
+  }
+
+  private getStatsForKey(cacheKey: string): CacheStats {
+    const metrics = this.metricsRegistry.get(cacheKey)!;
+    const cacheEntry = this.cacheRegistry.get(cacheKey);
+    const totalRequests = metrics.hits + metrics.misses;
+    const hitRate = totalRequests > 0 ? (metrics.hits / totalRequests) * 100 : 0;
+    return { hits: metrics.hits, misses: metrics.misses, totalRequests, hitRate, lastAccessTime: new Date(metrics.lastAccessTime), isLoaded: this.cacheRegistry.has(cacheKey), loadedAt: cacheEntry ? new Date(cacheEntry.loadedAt) : undefined, lastSource: metrics.lastSource, lastLatencyMs: metrics.lastLatencyMs, lastSizeBytes: metrics.lastSizeBytes, sourceHits: metrics.sourceHits };
+  }
+}

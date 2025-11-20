@@ -1,0 +1,146 @@
+{
+  "deputado": {
+    "id": 220008,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220008",
+    "nome": "Eliza Virgínia",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "PB",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220008.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 179723.41,
+  "quantidade_transacoes": 197,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 59706.67,
+      "quantidade_transacoes": 48,
+      "porcentagem_do_total": 33.22
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 47600.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 26.49
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 43026.66,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 23.94
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 27389.41,
+      "quantidade_transacoes": 115,
+      "porcentagem_do_total": 15.24
+    },
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 2000.67,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 1.11
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "RODRIGO OLIVEIRA DOS SANTOS LIMA",
+      "cnpj": "85470368491",
+      "total": 47600.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 26.49
+    },
+    {
+      "nome": "JRCA Locações",
+      "cnpj": "47406151000108",
+      "total": 43026.66,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 23.94
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 31342.52,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 17.44
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 26853.9,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 14.94
+    },
+    {
+      "nome": "AUTO POSTO INTERMARES LTDA",
+      "cnpj": "41198466000120",
+      "total": 5956.82,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 3.31
+    },
+    {
+      "nome": "POSTO ALTERNATIVA DE COMBUSTIVEL E SERVICO LTDA",
+      "cnpj": "11372084000534",
+      "total": 3183.8,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 1.77
+    },
+    {
+      "nome": "PSR COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "36329284000101",
+      "total": 2081.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 1.16
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+      "cnpj": "08355825000130",
+      "total": 1867.61,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.04
+    },
+    {
+      "nome": "POSTO ALTERNATIVA DE COMBS E SERVICO LTDA",
+      "cnpj": "11372084001859",
+      "total": 1699.47,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 0.95
+    },
+    {
+      "nome": "REVENDA DE COMB BEZERRA CAVALCANTI LTDA",
+      "cnpj": "00289351000164",
+      "total": 1616.39,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 0.9
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 41291.48,
+      "porcentagem_do_total": 22.98
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 52316.83,
+      "porcentagem_do_total": 29.11
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 55196.6,
+      "porcentagem_do_total": 30.71
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 30918.5,
+      "porcentagem_do_total": 17.2
+    }
+  ]
+}

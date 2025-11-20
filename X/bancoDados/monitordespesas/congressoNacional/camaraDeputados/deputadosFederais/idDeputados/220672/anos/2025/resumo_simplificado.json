@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220672,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220672",
+    "nome": "Henderson Pinto",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "PA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220672.jpg",
+    "email": "dep.hendersonpinto@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 416529.15,
+  "quantidade_transacoes": 249,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 177200.0,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 42.54
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 96355.94,
+      "quantidade_transacoes": 89,
+      "porcentagem_do_total": 23.13
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 75600.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 18.15
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 34668.17,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 8.32
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 30955.04,
+      "quantidade_transacoes": 111,
+      "porcentagem_do_total": 7.43
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "PAULO VICTOR DE ARAUJO SQUIRES",
+      "cnpj": "44112056000103",
+      "total": 154500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 37.09
+    },
+    {
+      "nome": "VIA LOCADORA DE AUTOMOVEIS LTDA",
+      "cnpj": "45414964000114",
+      "total": 75600.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 18.15
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 46188.32,
+      "quantidade_transacoes": 35,
+      "porcentagem_do_total": 11.09
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 28780.91,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 6.91
+    },
+    {
+      "nome": "Reginaldo Castro Guimarães",
+      "cnpj": "41409787249",
+      "total": 22500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 5.4
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 21386.71,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 5.13
+    },
+    {
+      "nome": "NOVO EIXO PRODUTORA E CONSULTORIA LTDA",
+      "cnpj": "44112056000103",
+      "total": 17500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.2
+    },
+    {
+      "nome": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpj": "08532429000131",
+      "total": 6010.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 1.44
+    },
+    {
+      "nome": "JOSE ROBERTO DE SOUSA NETO",
+      "cnpj": "53520842000130",
+      "total": 5200.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.25
+    },
+    {
+      "nome": "EQUATORIAL PARÁ DISTRIBUIDORA DE ENERGIA S.A.",
+      "cnpj": "04895728000180",
+      "total": 4861.27,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.17
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 51684.5,
+      "porcentagem_do_total": 12.41
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 44582.38,
+      "porcentagem_do_total": 10.7
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 44233.67,
+      "porcentagem_do_total": 10.62
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 39378.55,
+      "porcentagem_do_total": 9.45
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 49353.37,
+      "porcentagem_do_total": 11.85
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 38756.22,
+      "porcentagem_do_total": 9.3
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 53800.5,
+      "porcentagem_do_total": 12.92
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 35812.82,
+      "porcentagem_do_total": 8.6
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 33111.67,
+      "porcentagem_do_total": 7.95
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 25550.46,
+      "porcentagem_do_total": 6.13
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 265.01,
+      "porcentagem_do_total": 0.06
+    }
+  ]
+}

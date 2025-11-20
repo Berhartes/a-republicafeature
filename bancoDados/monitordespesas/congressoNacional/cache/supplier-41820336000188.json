@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-12T00:38:35Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "1.0.0",
+    "legislatura": 57,
+    "cnpj": "41820336000188"
+  },
+  "data": {
+    "cnpj": "41820336000188",
+    "nome": "transamerica primavera do leste -scp",
+    "nomeFornecedor": "transamerica primavera do leste -scp",
+    "totalTransacionado": 506.1,
+    "totalRecebido": 506.1,
+    "totalRecebidoTodos": 506.1,
+    "transacoes": 2,
+    "numeroTransacoes": 2,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [],
+    "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+    "categoriaOriginal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+    "categorias": [
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+    ],
+    "categoriasOriginais": [
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+    ],
+    "categoriasInfo": {
+      "principal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "normalizadas": [
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+      ],
+      "principalOriginal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "originais": [
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+      ]
+    },
+    "distribuicaoTipos": {
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+        "valor": 506.1,
+        "quantidade": 2
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+        "valor": 506.1,
+        "quantidade": 2
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 506.1,
+        "transacoes": 2,
+        "deputados": 1
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

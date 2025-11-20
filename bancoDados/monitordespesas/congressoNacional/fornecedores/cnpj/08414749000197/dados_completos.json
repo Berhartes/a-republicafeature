@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "G3 Auto Posto Ltda. - Epp",
+      "cnpj": "08414749000197",
+      "total_recebido": 519.1,
+      "numero_transacoes": 3,
+      "numero_deputados": 2
+    },
+    "generatedAt": "2025-11-11T21:37:58.994011"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 519.1
+  },
+  "anos": {
+    "2023": {
+      "total": 191.06,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 328.04,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204379": {
+      "deputado": {
+        "id": 204379,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204379",
+        "nome": "Acácio Favacho",
+        "siglaPartido": "MDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204379.jpg",
+        "email": "dep.acaciofavacho@camara.leg.br"
+      },
+      "total": 328.04,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7775774,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-07-18T00:00:00",
+          "numDocumento": "540198",
+          "valorDocumento": 328.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7775774",
+          "nomeFornecedor": "G3 Auto Posto Ltda. - Epp",
+          "cnpjCpfFornecedor": "08414749000197",
+          "valorLiquido": 328.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2060283,
+          "parcela": 0
+        }
+      ]
+    },
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 191.06,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7603541,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-09-05T00:00:00",
+          "numDocumento": "500349",
+          "valorDocumento": 141.06,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7603541",
+          "nomeFornecedor": "G3 Auto Posto Ltda. - Epp",
+          "cnpjCpfFornecedor": "08414749000197",
+          "valorLiquido": 141.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1965674,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7603548,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-09-05T00:00:00",
+          "numDocumento": "500352",
+          "valorDocumento": 50.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7603548",
+          "nomeFornecedor": "G3 Auto Posto Ltda. - Epp",
+          "cnpjCpfFornecedor": "08414749000197",
+          "valorLiquido": 50.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1965674,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

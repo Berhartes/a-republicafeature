@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CORREIA RICARDO E CIA LTDA",
+      "cnpj": "03250828000196",
+      "total_recebido": 475.09000000000003,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:10.956452"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 475.09000000000003
+  },
+  "anos": {
+    "2023": {
+      "total": 255.12,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 219.97,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "136811": {
+      "deputado": {
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
+      },
+      "total": 475.09000000000003,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7557830,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-07T00:00:00",
+          "numDocumento": "357014",
+          "valorDocumento": 255.12,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7557830",
+          "nomeFornecedor": "CORREIA RICARDO E CIA LTDA",
+          "cnpjCpfFornecedor": "03250828000196",
+          "valorLiquido": 255.12,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7816541,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-13T18:41:57",
+          "numDocumento": "443684",
+          "valorDocumento": 219.97,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7816541",
+          "nomeFornecedor": "CORREIA RICARDO E CIA LTDA",
+          "cnpjCpfFornecedor": "03250828000196",
+          "valorLiquido": 219.97,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

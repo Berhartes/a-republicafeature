@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.239440"
+    "generatedAt": "2025-11-11T05:22:12.501051"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 311.58000000000004
@@ -25,6 +25,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -35,25 +36,6 @@
       "total": 311.58000000000004,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 12,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7668037,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-12-20T00:00:00",
-          "numDocumento": "384576",
-          "valorDocumento": 211.58,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7668037",
-          "nomeFornecedor": "LOS PAMPAS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
-          "cnpjCpfFornecedor": "19607718000179",
-          "valorLiquido": 211.58,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 8,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "LOS PAMPAS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
           "cnpjCpfFornecedor": "19607718000179",
           "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7668037,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-20T00:00:00",
+          "numDocumento": "384576",
+          "valorDocumento": 211.58,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7668037",
+          "nomeFornecedor": "LOS PAMPAS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "19607718000179",
+          "valorLiquido": 211.58,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

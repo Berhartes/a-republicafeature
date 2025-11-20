@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:45.390420"
+    "generatedAt": "2025-11-11T05:22:26.792768"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 640.01
@@ -30,6 +30,7 @@
         "id": 160559,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
         "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
         "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -42,15 +43,15 @@
       "despesas": [
         {
           "ano": 2023,
-          "mes": 11,
+          "mes": 7,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7651774,
+          "codDocumento": 7571258,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-11-21T00:00:00",
-          "numDocumento": "390390",
+          "dataDocumento": "2023-07-03T00:00:00",
+          "numDocumento": "361237",
           "valorDocumento": 200.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7651774",
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7571258",
           "nomeFornecedor": "ABASTECEDORA DE COMBUSTIVEIS NACOES LTDA",
           "cnpjCpfFornecedor": "22047481000123",
           "valorLiquido": 200.0,
@@ -61,15 +62,15 @@
         },
         {
           "ano": 2023,
-          "mes": 7,
+          "mes": 11,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7571258,
+          "codDocumento": 7651774,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-07-03T00:00:00",
-          "numDocumento": "361237",
+          "dataDocumento": "2023-11-21T00:00:00",
+          "numDocumento": "390390",
           "valorDocumento": 200.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7571258",
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7651774",
           "nomeFornecedor": "ABASTECEDORA DE COMBUSTIVEIS NACOES LTDA",
           "cnpjCpfFornecedor": "22047481000123",
           "valorLiquido": 200.0,

@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:46.716435"
+    "generatedAt": "2025-11-11T05:22:05.148462"
   },
   "categorias": {
     "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 640.5
@@ -25,6 +25,7 @@
         "id": 220593,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
         "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "MT",
@@ -39,25 +40,6 @@
           "ano": 2023,
           "mes": 3,
           "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7507522,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-03-03T00:00:00",
-          "numDocumento": "202300000001553",
-          "valorDocumento": 299.25,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7507522.pdf",
-          "nomeFornecedor": "atrio hoteis s. a.",
-          "cnpjCpfFornecedor": "80732928004782",
-          "valorLiquido": 299.25,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 3,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
           "codDocumento": 7507514,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "atrio hoteis s. a.",
           "cnpjCpfFornecedor": "80732928004782",
           "valorLiquido": 341.25,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7507522,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-03T00:00:00",
+          "numDocumento": "202300000001553",
+          "valorDocumento": 299.25,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7507522.pdf",
+          "nomeFornecedor": "atrio hoteis s. a.",
+          "cnpjCpfFornecedor": "80732928004782",
+          "valorLiquido": 299.25,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "AUGUSTO URIAS DA CRUZ E FILHOS LTDA",
+    "cnpj": "01138114000165",
+    "total_recebido": 1343.53,
+    "numero_transacoes": 6,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 581.48,
+  "quantidade_transacoes": 3,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 581.48,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 581.48,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 218.0,
+      "porcentagem_do_total": 37.49
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 363.48,
+      "porcentagem_do_total": 62.51
+    }
+  ]
+}

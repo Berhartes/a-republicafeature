@@ -3,8 +3,18 @@
   "version": "0.1.0",
   "description": "Python ETL pipeline for Câmara dos Deputados data",
   "scripts": {
-  "etl:despesasdeputados:pc": "py -m etlpython.sources.congresso_nacional.camara_deputados.cli",
-  "etl:materialize:unified": "py -m etlpython.cli.materialize_unified"
+    "etl:despesasdeputados:pc": "python3 -m etlpython camara",
+    "etl:materialize:unified": "cd ../.. && .\\packages\\etlpython\\.venv\\Scripts\\python.exe -m etlpython materialize --tipo unified",
+    "etl:materialize:unified:v2": "python3 -m etlpython materialize --tipo unified",
+    "etl:materialize:paginated": "python3 -m etlpython materialize --tipo paginated",
+    "etl:materialize:all": "python3 -m etlpython materialize --tipo unified --tipo paginated",
+    "etl:materialize:test": ".venv/Scripts/python.exe -m pytest tests/test_materialize_snapshots.py -v",
+    "contracts:validate": "python3 -m etlpython contracts validate --live",
+    "contracts:export": "python3 -m etlpython contracts export",
+    "datalake:partition": "python3 -m etlpython.datalake.partition",
+    "datalake:verify": "python3 -m etlpython.datalake.verify",
+    "test": ".venv/Scripts/python.exe -m pytest",
+    "test:watch": ".venv/Scripts/python.exe -m pytest --watch"
   },
   "keywords": ["etl", "python", "camara", "deputados"],
   "author": "A República",

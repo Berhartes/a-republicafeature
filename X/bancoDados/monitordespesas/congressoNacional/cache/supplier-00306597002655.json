@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-08T13:42:15Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v2",
+    "legislatura": 57,
+    "cnpj": "00306597002655"
+  },
+  "data": {
+    "cnpj": "00306597002655",
+    "nome": "026 - P WAY - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+    "nomeFornecedor": "026 - P WAY - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+    "totalTransacionado": 2026.29,
+    "totalRecebido": 2026.29,
+    "totalRecebidoTodos": 2026.29,
+    "transacoes": 14,
+    "numeroTransacoes": 14,
+    "numeroDeputadosAtendidos": 3,
+    "deputadosAtendidos": [],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 2026.29,
+        "quantidade": 14
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 2026.29,
+        "quantidade": 14
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 308.79,
+        "transacoes": 0,
+        "deputados": 0
+      },
+      "2024": {
+        "valor": 327.5,
+        "transacoes": 0,
+        "deputados": 0
+      },
+      "2025": {
+        "valor": 1390.0,
+        "transacoes": 0,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

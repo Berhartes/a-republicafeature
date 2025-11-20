@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "DELCARO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "30584450000130",
+      "total_recebido": 2970.7999999999997,
+      "numero_transacoes": 17,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 469.09,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-01-17T00:00:00",
+    "periodo_fim": "2024-06-03T14:15:33",
+    "generatedAt": "2025-11-11T21:37:53.749482"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 469.09,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 469.09,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 137.49,
+      "porcentagem_do_total": 29.31
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 80.69,
+      "porcentagem_do_total": 17.2
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 250.91,
+      "porcentagem_do_total": 53.49
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7682485,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-01-17T00:00:00",
+      "numDocumento": "57409",
+      "valorDocumento": 137.49,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7682485",
+      "nomeFornecedor": "DELCARO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "30584450000130",
+      "valorLiquido": 137.49,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2010544,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7691528,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-02-24T00:00:00",
+      "numDocumento": "59657",
+      "valorDocumento": 80.69,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7691528",
+      "nomeFornecedor": "DELCARO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "30584450000130",
+      "valorLiquido": 80.69,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2015527,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7747349,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-06-03T14:15:33",
+      "numDocumento": "65357",
+      "valorDocumento": 250.91,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7747349",
+      "nomeFornecedor": "DELCARO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "30584450000130",
+      "valorLiquido": 250.91,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2045592,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

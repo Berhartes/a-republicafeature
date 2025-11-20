@@ -1,0 +1,78 @@
+{
+  "fornecedor": {
+    "nome": "PAPAI AUTO POSTO CUIABA LTDA",
+    "cnpj": "07687116000190",
+    "total_recebido": 2682.6699999999996,
+    "numero_transacoes": 16,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 2347.35,
+  "quantidade_transacoes": 14,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 2347.35,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 2347.35,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 206.86,
+      "porcentagem_do_total": 8.81
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 325.8,
+      "porcentagem_do_total": 13.88
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 285.09,
+      "porcentagem_do_total": 12.15
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 227.35,
+      "porcentagem_do_total": 9.69
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 244.08,
+      "porcentagem_do_total": 10.4
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 220.0,
+      "porcentagem_do_total": 9.37
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 130.0,
+      "porcentagem_do_total": 5.54
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 708.17,
+      "porcentagem_do_total": 30.17
+    }
+  ]
+}

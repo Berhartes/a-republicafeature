@@ -1,0 +1,54 @@
+{
+  "deputado": {
+    "id": 220646,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220646",
+    "nome": "Felipe Becari",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220646.jpg",
+    "email": "dep.felipebecari@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 152.44,
+  "quantidade_transacoes": 2,
+  "principais_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 86.34,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 56.64
+    },
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 66.1,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 43.36
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+      "cnpj": "33469172001644",
+      "total": 86.34,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 56.64
+    },
+    {
+      "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpj": "17895646000187",
+      "total": 66.1,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 43.36
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 152.44,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

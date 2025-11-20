@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220666,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220666",
+    "nome": "Coronel Meira",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "PE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220666.jpg",
+    "email": "dep.coronelmeira@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 532250.35,
+  "quantidade_transacoes": 629,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 238750.0,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 44.86
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 117122.8,
+      "quantidade_transacoes": 188,
+      "porcentagem_do_total": 22.01
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 59473.15,
+      "quantidade_transacoes": 40,
+      "porcentagem_do_total": 11.17
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 35947.24,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 6.75
+    },
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 27096.24,
+      "quantidade_transacoes": 164,
+      "porcentagem_do_total": 5.09
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "FOGO COMUNICACAO LTDA",
+      "cnpj": "12824124000170",
+      "total": 120000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 22.55
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 65018.84,
+      "quantidade_transacoes": 83,
+      "porcentagem_do_total": 12.22
+    },
+    {
+      "nome": "STAMPA OUTDOOR EIRELI",
+      "cnpj": "70236971000110",
+      "total": 54750.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 10.29
+    },
+    {
+      "nome": "Eufício Freire de Sousa Filho",
+      "cnpj": "03554214884",
+      "total": 45000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 8.45
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 36972.53,
+      "quantidade_transacoes": 64,
+      "porcentagem_do_total": 6.95
+    },
+    {
+      "nome": "DANIELA BITTAR HOMSI HOTELARIA LTDA",
+      "cnpj": "14653484000182",
+      "total": 27742.24,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 5.21
+    },
+    {
+      "nome": "COOPERTAXI 202 NORTE",
+      "cnpj": "08046163000117",
+      "total": 25476.9,
+      "quantidade_transacoes": 150,
+      "porcentagem_do_total": 4.79
+    },
+    {
+      "nome": "AUGUSTO CESAR BARBOSA RIBEIRO",
+      "cnpj": "21651108000114",
+      "total": 19230.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.61
+    },
+    {
+      "nome": "STAMPA OUTDOOR LTDA",
+      "cnpj": "70236971000110",
+      "total": 17250.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.24
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 15131.43,
+      "quantidade_transacoes": 41,
+      "porcentagem_do_total": 2.84
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 9023.15,
+      "porcentagem_do_total": 1.7
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 20759.85,
+      "porcentagem_do_total": 3.9
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 43147.92,
+      "porcentagem_do_total": 8.11
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 85071.53,
+      "porcentagem_do_total": 15.98
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 43810.61,
+      "porcentagem_do_total": 8.23
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 44104.46,
+      "porcentagem_do_total": 8.29
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 59036.22,
+      "porcentagem_do_total": 11.09
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 45608.55,
+      "porcentagem_do_total": 8.57
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 48624.28,
+      "porcentagem_do_total": 9.14
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 47613.74,
+      "porcentagem_do_total": 8.95
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 85450.04,
+      "porcentagem_do_total": 16.05
+    }
+  ]
+}

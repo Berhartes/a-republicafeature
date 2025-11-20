@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220701,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220701",
+    "nome": "Delegado Matheus Laiola",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220701.jpg",
+    "email": "dep.delegadomatheuslaiola@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 502410.73,
+  "quantidade_transacoes": 273,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 270256.11,
+      "quantidade_transacoes": 35,
+      "porcentagem_do_total": 53.79
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 73847.59,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 14.7
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 45583.27,
+      "quantidade_transacoes": 43,
+      "porcentagem_do_total": 9.07
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 38747.09,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 7.71
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 37616.33,
+      "quantidade_transacoes": 157,
+      "porcentagem_do_total": 7.49
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "PRYSCILA EVELYSE MARAN VIEIRA",
+      "cnpj": "06962008000115",
+      "total": 91500.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 18.21
+    },
+    {
+      "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
+      "cnpj": "19374791000148",
+      "total": 64200.0,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 12.78
+    },
+    {
+      "nome": "NOVE PRODUCOES DE FILMES EIRELI",
+      "cnpj": "31131412000194",
+      "total": 55500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 11.05
+    },
+    {
+      "nome": "NOVE PRODUCOES DE FILMES LTDA",
+      "cnpj": "31131412000194",
+      "total": 42000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 8.36
+    },
+    {
+      "nome": "Confianza Imóveis",
+      "cnpj": "24551899000107",
+      "total": 35000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 6.97
+    },
+    {
+      "nome": "Saturno limpeza e conservação a edifícios -LTDA",
+      "cnpj": "34999344000178",
+      "total": 34500.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 6.87
+    },
+    {
+      "nome": "joao guilherme bonatto francischini",
+      "cnpj": "44604729000142",
+      "total": 30000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 5.97
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 20908.35,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 4.16
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 20822.25,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 4.14
+    },
+    {
+      "nome": "Joao Guilherme Bonatto Francischini",
+      "cnpj": "44604729000142",
+      "total": 20000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.98
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 10167.51,
+      "porcentagem_do_total": 2.02
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 43590.43,
+      "porcentagem_do_total": 8.68
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 48624.17,
+      "porcentagem_do_total": 9.68
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 39522.55,
+      "porcentagem_do_total": 7.87
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 45079.01,
+      "porcentagem_do_total": 8.97
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 41736.16,
+      "porcentagem_do_total": 8.31
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 54657.13,
+      "porcentagem_do_total": 10.88
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 61390.13,
+      "porcentagem_do_total": 12.22
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 46564.45,
+      "porcentagem_do_total": 9.27
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 60466.19,
+      "porcentagem_do_total": 12.04
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 50613.0,
+      "porcentagem_do_total": 10.07
+    }
+  ]
+}

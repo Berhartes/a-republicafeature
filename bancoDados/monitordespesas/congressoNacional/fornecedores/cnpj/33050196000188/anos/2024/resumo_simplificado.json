@@ -1,0 +1,90 @@
+{
+  "fornecedor": {
+    "nome": "CPFL energia",
+    "cnpj": "33050196000188",
+    "total_recebido": 1005.5699999999998,
+    "numero_transacoes": 20,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 455.76,
+  "quantidade_transacoes": 10,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 455.76,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 455.76,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 51.4,
+      "porcentagem_do_total": 11.28
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 49.85,
+      "porcentagem_do_total": 10.94
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 40.92,
+      "porcentagem_do_total": 8.98
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 43.14,
+      "porcentagem_do_total": 9.47
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 47.25,
+      "porcentagem_do_total": 10.37
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 44.11,
+      "porcentagem_do_total": 9.68
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 42.46,
+      "porcentagem_do_total": 9.32
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 43.32,
+      "porcentagem_do_total": 9.51
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 46.76,
+      "porcentagem_do_total": 10.26
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 46.55,
+      "porcentagem_do_total": 10.21
+    }
+  ]
+}

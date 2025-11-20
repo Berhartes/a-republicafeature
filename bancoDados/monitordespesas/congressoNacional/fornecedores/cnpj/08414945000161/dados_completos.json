@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MT360 CONSULTORIA E COMUNICACAO LTDA",
+      "cnpj": "08414945000161",
+      "total_recebido": 3400.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:54.870482"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": 3400.0
+  },
+  "anos": {
+    "2023": {
+      "total": 3400.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 3400.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7549634,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-26T00:00:00",
+          "numDocumento": "1110",
+          "valorDocumento": 3400.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7549634.pdf",
+          "nomeFornecedor": "MT360 CONSULTORIA E COMUNICACAO LTDA",
+          "cnpjCpfFornecedor": "08414945000161",
+          "valorLiquido": 3400.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1937017,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

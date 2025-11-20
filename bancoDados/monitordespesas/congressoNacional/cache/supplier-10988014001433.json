@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-12T00:38:35Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "1.0.0",
+    "legislatura": 57,
+    "cnpj": "10988014001433"
+  },
+  "data": {
+    "cnpj": "10988014001433",
+    "nome": "AMAZON COMBUSTIVEIS PARA VEICULOS E CONSTRUCOES LTDA",
+    "nomeFornecedor": "AMAZON COMBUSTIVEIS PARA VEICULOS E CONSTRUCOES LTDA",
+    "totalTransacionado": 2224.7,
+    "totalRecebido": 2224.7,
+    "totalRecebidoTodos": 2224.7,
+    "transacoes": 10,
+    "numeroTransacoes": 10,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 2224.7,
+        "quantidade": 10
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 2224.7,
+        "quantidade": 10
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 400.0,
+        "transacoes": 2,
+        "deputados": 1
+      },
+      "2024": {
+        "valor": 464.1,
+        "transacoes": 2,
+        "deputados": 1
+      },
+      "2025": {
+        "valor": 1360.6,
+        "transacoes": 6,
+        "deputados": 1
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

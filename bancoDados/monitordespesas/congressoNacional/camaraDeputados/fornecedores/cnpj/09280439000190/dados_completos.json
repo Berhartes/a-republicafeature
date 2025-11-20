@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "AUTO POSTO CAMPO ALEGRE LTDA",
       "cnpj": "09280439000190",
-      "total_recebido": 600.14,
+      "total_recebido": 200.02,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:57:01.204257"
+    "generatedAt": "2025-11-11T05:22:38.718717"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 600.14
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 200.02
   },
   "anos": {
     "2023": {
-      "total": 600.14,
+      "total": 200.02,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "160541": {
+    "220576": {
       "deputado": {
-        "id": 160541,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160541",
-        "nome": "Arthur Lira",
-        "siglaPartido": "PP",
+        "id": 220576,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220576",
+        "nome": "Alfredo Gaspar",
+        "nomeEleitoral": "Alfredo Gaspar",
+        "siglaPartido": "UNIÃO",
         "uriPartido": "",
         "siglaUf": "AL",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160541.jpg",
-        "email": "dep.arthurlira@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220576.jpg",
+        "email": "dep.alfredogaspar@camara.leg.br"
       },
-      "total": 600.14,
+      "total": 200.02,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 9,
+          "mes": 12,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7664616,
+          "codDocumento": 7684049,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-09-29T00:00:00",
-          "numDocumento": "371006",
-          "valorDocumento": 600.14,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7664616",
+          "dataDocumento": "2023-12-26T00:00:00",
+          "numDocumento": "395562",
+          "valorDocumento": 200.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7684049",
           "nomeFornecedor": "AUTO POSTO CAMPO ALEGRE LTDA",
           "cnpjCpfFornecedor": "09280439000190",
-          "valorLiquido": 600.14,
+          "valorLiquido": 200.02,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

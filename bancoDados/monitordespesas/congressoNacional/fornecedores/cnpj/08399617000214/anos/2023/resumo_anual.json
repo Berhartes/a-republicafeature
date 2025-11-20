@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SUELMEI CAMPOS BARBOSA EIRELI  F2  IPIRANGA",
+      "cnpj": "08399617000214",
+      "total_recebido": 125.07,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 125.07,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-11-02T00:00:00",
+    "periodo_fim": "2023-11-02T00:00:00",
+    "generatedAt": "2025-11-11T21:37:54.702482"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 125.07,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 125.07,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 125.07,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7637718,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-11-02T00:00:00",
+      "numDocumento": "14742",
+      "valorDocumento": 125.07,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7637718",
+      "nomeFornecedor": "SUELMEI CAMPOS BARBOSA EIRELI  F2  IPIRANGA",
+      "cnpjCpfFornecedor": "08399617000214",
+      "valorLiquido": 125.07,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1984625,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

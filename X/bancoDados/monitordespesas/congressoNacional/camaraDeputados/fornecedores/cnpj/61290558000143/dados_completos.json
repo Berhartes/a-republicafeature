@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PIXEL HUB COMUNICAÇÃO DIGITAL - BRUNO MAWAI",
+      "cnpj": "61290558000143",
+      "total_recebido": 2100.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:22.409798"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 2100.0
+  },
+  "anos": {
+    "2025": {
+      "total": 2100.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220542": {
+      "deputado": {
+        "id": 220542,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
+        "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
+        "email": "dep.alexandreguimaraes@camara.leg.br"
+      },
+      "total": 2100.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7977524,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-29T00:00:00",
+          "numDocumento": "202500000000001",
+          "valorDocumento": 700.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3584/2025/7977524.pdf",
+          "nomeFornecedor": "PIXEL HUB COMUNICAÇÃO DIGITAL - BRUNO MAWAI",
+          "cnpjCpfFornecedor": "61290558000143",
+          "valorLiquido": 700.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7993964,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-26T00:00:00",
+          "numDocumento": "202500000000004",
+          "valorDocumento": 700.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3584/2025/7993964.pdf",
+          "nomeFornecedor": "PIXEL HUB COMUNICAÇÃO DIGITAL - BRUNO MAWAI",
+          "cnpjCpfFornecedor": "61290558000143",
+          "valorLiquido": 700.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 8009853,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-31T00:00:00",
+          "numDocumento": "202500000000008",
+          "valorDocumento": 700.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3584/2025/8009853.pdf",
+          "nomeFornecedor": "PIXEL HUB COMUNICAÇÃO DIGITAL - BRUNO MAWAI",
+          "cnpjCpfFornecedor": "61290558000143",
+          "valorLiquido": 700.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

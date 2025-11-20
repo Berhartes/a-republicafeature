@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 204488,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204488",
+    "nome": "Célio Studart",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "CE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204488.jpg",
+    "email": "dep.celiostudart@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 430535.52,
+  "quantidade_transacoes": 190,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 264424.25,
+      "quantidade_transacoes": 48,
+      "porcentagem_do_total": 61.42
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 68024.04,
+      "quantidade_transacoes": 57,
+      "porcentagem_do_total": 15.8
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 44048.39,
+      "quantidade_transacoes": 57,
+      "porcentagem_do_total": 10.23
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 42247.09,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 9.81
+    },
+    {
+      "categoria": "CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS",
+      "total": 10000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.32
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TE MKT",
+      "cnpj": "50479977000101",
+      "total": 45096.78,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 10.47
+    },
+    {
+      "nome": "CAROLINE MARIA VASCONCELOS",
+      "cnpj": "36623167000156",
+      "total": 40825.81,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 9.48
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 39353.71,
+      "quantidade_transacoes": 36,
+      "porcentagem_do_total": 9.14
+    },
+    {
+      "nome": "TERA EMPREENDIMENTOS CRIATIVOS",
+      "cnpj": "14114798000107",
+      "total": 34300.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 7.97
+    },
+    {
+      "nome": "ALFA POSTO DE COMBUSTIVEIS LTDA",
+      "cnpj": "41593568000140",
+      "total": 33491.25,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 7.78
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 28670.33,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 6.66
+    },
+    {
+      "nome": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.",
+      "cnpj": "13347016000117",
+      "total": 27981.64,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 6.5
+    },
+    {
+      "nome": "CONSULT NEGOCIOS IMOBILIARIOS",
+      "cnpj": "46556865000130",
+      "total": 25903.23,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 6.02
+    },
+    {
+      "nome": "MASTERGRAF",
+      "cnpj": "10336418000128",
+      "total": 24000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 5.57
+    },
+    {
+      "nome": "Facebook Serviços Online do Brasil",
+      "cnpj": "13347016000117",
+      "total": 22417.49,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 5.21
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 19793.93,
+      "porcentagem_do_total": 4.6
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 24752.93,
+      "porcentagem_do_total": 5.75
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 37575.16,
+      "porcentagem_do_total": 8.73
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 38344.48,
+      "porcentagem_do_total": 8.91
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 59266.56,
+      "porcentagem_do_total": 13.77
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 49615.6,
+      "porcentagem_do_total": 11.52
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 58218.61,
+      "porcentagem_do_total": 13.52
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 41996.34,
+      "porcentagem_do_total": 9.75
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 48877.84,
+      "porcentagem_do_total": 11.35
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 52094.07,
+      "porcentagem_do_total": 12.1
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total_recebido": 26011.180000000004,
+      "numero_transacoes": 13,
+      "numero_deputados": 3
+    },
+    "ano": 2023,
+    "total_recebido": 11577.2,
+    "quantidade_transacoes": 7,
+    "quantidade_deputados": 2,
+    "quantidade_categorias": 2,
+    "periodo_inicio": "2023-03-19T00:00:00",
+    "periodo_fim": "2023-12-13T00:00:00",
+    "generatedAt": "2025-11-11T21:37:58.334012"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 10043.06,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 86.75
+    },
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 1534.14,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 13.25
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - RPA",
+      "total": 10043.06,
+      "porcentagem_do_total": 86.75
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 1534.14,
+      "porcentagem_do_total": 13.25
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 1534.14,
+      "porcentagem_do_total": 13.25
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 1650.74,
+      "porcentagem_do_total": 14.26
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 2062.78,
+      "porcentagem_do_total": 17.82
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 4546.59,
+      "porcentagem_do_total": 39.27
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 1782.95,
+      "porcentagem_do_total": 15.4
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 3,
+      "tipoDespesa": "PASSAGEM AÉREA - REEMBOLSO",
+      "codDocumento": 7542912,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-03-19T00:00:00",
+      "numDocumento": "9572104761241",
+      "valorDocumento": 1534.14,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7542912.pdf",
+      "nomeFornecedor": "Latam Linhas Aéreas S.A",
+      "cnpjCpfFornecedor": "02012862000160",
+      "valorLiquido": 1534.14,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1933571,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "PASSAGEM AÉREA - RPA",
+      "codDocumento": 1775972,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-06-05T00:00:00",
+      "numDocumento": "Bilhete: 9572112854449",
+      "valorDocumento": 757.37,
+      "urlDocumento": null,
+      "nomeFornecedor": "Cia Aérea - TAM",
+      "cnpjCpfFornecedor": "02012862000160",
+      "valorLiquido": 757.37,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "PASSAGEM AÉREA - RPA",
+      "codDocumento": 1775973,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-06-05T00:00:00",
+      "numDocumento": "Bilhete: 9572112855207",
+      "valorDocumento": 893.37,
+      "urlDocumento": null,
+      "nomeFornecedor": "Cia Aérea - TAM",
+      "cnpjCpfFornecedor": "02012862000160",
+      "valorLiquido": 893.37,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "PASSAGEM AÉREA - RPA",
+      "codDocumento": 1776370,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-09-15T00:00:00",
+      "numDocumento": "Bilhete: 9572125300693",
+      "valorDocumento": 2062.78,
+      "urlDocumento": null,
+      "nomeFornecedor": "Cia Aérea - TAM",
+      "cnpjCpfFornecedor": "02012862000160",
+      "valorLiquido": 2062.78,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "PASSAGEM AÉREA - RPA",
+      "codDocumento": 1776731,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-11-23T00:00:00",
+      "numDocumento": "Bilhete: 9572134237725",
+      "valorDocumento": 2986.22,
+      "urlDocumento": null,
+      "nomeFornecedor": "Cia Aérea - TAM",
+      "cnpjCpfFornecedor": "02012862000160",
+      "valorLiquido": 2986.22,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "PASSAGEM AÉREA - RPA",
+      "codDocumento": 1776749,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-11-29T00:00:00",
+      "numDocumento": "Bilhete: 9572135577009",
+      "valorDocumento": 1560.37,
+      "urlDocumento": null,
+      "nomeFornecedor": "Cia Aérea - TAM",
+      "cnpjCpfFornecedor": "02012862000160",
+      "valorLiquido": 1560.37,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "PASSAGEM AÉREA - RPA",
+      "codDocumento": 1776827,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-12-13T00:00:00",
+      "numDocumento": "Bilhete: 9572137084673",
+      "valorDocumento": 1782.95,
+      "urlDocumento": null,
+      "nomeFornecedor": "Cia Aérea - TAM",
+      "cnpjCpfFornecedor": "02012862000160",
+      "valorLiquido": 1782.95,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

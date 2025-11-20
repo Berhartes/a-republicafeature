@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 204571,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
+    "nome": "Alex Santana",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204571.jpg",
+    "email": "dep.alexsantana@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 391075.2,
+  "quantidade_transacoes": 219,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 157150.0,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 40.18
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 137500.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 35.16
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 61798.95,
+      "quantidade_transacoes": 76,
+      "porcentagem_do_total": 15.8
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 30982.1,
+      "quantidade_transacoes": 97,
+      "porcentagem_do_total": 7.92
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 3267.75,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.84
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 137500.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 35.16
+    },
+    {
+      "nome": "GOLDEN ASSESSORIA DE COMUNICAÇAO EIRELI-ME",
+      "cnpj": "23937076000143",
+      "total": 48510.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 12.4
+    },
+    {
+      "nome": "IMAGE NATION-  DESIGNERS GRAFICOS LTDA - ME",
+      "cnpj": "04118621000125",
+      "total": 48000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 12.27
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 44267.53,
+      "quantidade_transacoes": 61,
+      "porcentagem_do_total": 11.32
+    },
+    {
+      "nome": "MARCOS MARCEL LIMA ANDRADE DOS SANTOS 06451325511",
+      "cnpj": "43729215000150",
+      "total": 24410.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 6.24
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 13568.4,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 3.47
+    },
+    {
+      "nome": "JM GRÁFICA E EDITORA LTDA",
+      "cnpj": "00149796000149",
+      "total": 12400.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.17
+    },
+    {
+      "nome": "SILVANA DA CONCEIÇÃO BOA MORTE",
+      "cnpj": "43715197000158",
+      "total": 10850.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 2.77
+    },
+    {
+      "nome": "GOLDEN ASSESSORIA DE COMUNICACAO LTDA",
+      "cnpj": "23937076000143",
+      "total": 10780.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.76
+    },
+    {
+      "nome": "AUTO POSTO 305 SUL LTDA",
+      "cnpj": "32085527000152",
+      "total": 5049.44,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.29
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 34033.68,
+      "porcentagem_do_total": 8.7
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 28993.05,
+      "porcentagem_do_total": 7.41
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 40268.94,
+      "porcentagem_do_total": 10.3
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 32833.18,
+      "porcentagem_do_total": 8.4
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 29581.06,
+      "porcentagem_do_total": 7.56
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 39679.76,
+      "porcentagem_do_total": 10.15
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 48006.4,
+      "porcentagem_do_total": 12.28
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 38476.84,
+      "porcentagem_do_total": 9.84
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 24985.72,
+      "porcentagem_do_total": 6.39
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 26248.11,
+      "porcentagem_do_total": 6.71
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 47968.46,
+      "porcentagem_do_total": 12.27
+    }
+  ]
+}

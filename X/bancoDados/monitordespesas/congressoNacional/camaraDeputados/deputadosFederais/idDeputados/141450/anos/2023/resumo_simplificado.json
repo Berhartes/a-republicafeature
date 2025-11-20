@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 141450,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141450",
+    "nome": "Hugo Leal",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141450.jpg",
+    "email": "dep.hugoleal@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 114152.7,
+  "quantidade_transacoes": 140,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 60272.3,
+      "quantidade_transacoes": 48,
+      "porcentagem_do_total": 52.8
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 31560.3,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 27.65
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 7879.04,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 6.9
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 7419.78,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 6.5
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 3512.69,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 3.08
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 54526.09,
+      "quantidade_transacoes": 43,
+      "porcentagem_do_total": 47.77
+    },
+    {
+      "nome": "RM Turismo",
+      "cnpj": "00000000000010",
+      "total": 31560.3,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 27.65
+    },
+    {
+      "nome": "WEBMIDIA EMPREENDIMENTOS IMOBILIARIOS LTDA",
+      "cnpj": "02233643000100",
+      "total": 6098.22,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 5.34
+    },
+    {
+      "nome": "AUTO POSTO PARQUE DO FLAMENGO LTDA",
+      "cnpj": "42363077000176",
+      "total": 3774.82,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 3.31
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 3400.6,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.98
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 2345.61,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.05
+    },
+    {
+      "nome": "Posto de Combustiveis Garantia Ltda",
+      "cnpj": "72578438000243",
+      "total": 2126.72,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.86
+    },
+    {
+      "nome": "TELEFÔNICA BRASIL S.A",
+      "cnpj": "02558157000162",
+      "total": 1624.15,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.42
+    },
+    {
+      "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpj": "17895646000187",
+      "total": 1483.88,
+      "quantidade_transacoes": 53,
+      "porcentagem_do_total": 1.3
+    },
+    {
+      "nome": "HOTEL PHENICIA LTDA",
+      "cnpj": "00469171000326",
+      "total": 1440.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.26
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 3049.11,
+      "porcentagem_do_total": 2.67
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 19977.23,
+      "porcentagem_do_total": 17.5
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 33625.37,
+      "porcentagem_do_total": 29.46
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 10009.06,
+      "porcentagem_do_total": 8.77
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 7192.47,
+      "porcentagem_do_total": 6.3
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 2406.86,
+      "porcentagem_do_total": 2.11
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 6332.3,
+      "porcentagem_do_total": 5.55
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 31560.3,
+      "porcentagem_do_total": 27.65
+    }
+  ]
+}

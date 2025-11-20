@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Paulo Andreis e Cia Ltda",
+      "cnpj": "08455945000100",
+      "total_recebido": 1270.72,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 489.25,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-07-09T16:56:00",
+    "periodo_fim": "2024-07-18T20:21:38",
+    "generatedAt": "2025-11-11T21:37:54.205481"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 489.25,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 489.25,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 489.25,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7768624,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-07-09T16:56:00",
+      "numDocumento": "238701",
+      "valorDocumento": 213.25,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7768624",
+      "nomeFornecedor": "Paulo Andreis e Cia Ltda",
+      "cnpjCpfFornecedor": "08455945000100",
+      "valorLiquido": 213.25,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2056734,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7774057,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-07-18T20:21:38",
+      "numDocumento": "239378",
+      "valorDocumento": 276.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7774057",
+      "nomeFornecedor": "Paulo Andreis e Cia Ltda",
+      "cnpjCpfFornecedor": "08455945000100",
+      "valorLiquido": 276.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2059479,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 74646,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74646",
+    "nome": "Aécio Neves",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74646.jpg",
+    "email": "dep.aecioneves@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 375177.55,
+  "quantidade_transacoes": 290,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 153752.89,
+      "quantidade_transacoes": 113,
+      "porcentagem_do_total": 40.98
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 117470.3,
+      "quantidade_transacoes": 41,
+      "porcentagem_do_total": 31.31
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 92090.82,
+      "quantidade_transacoes": 84,
+      "porcentagem_do_total": 24.55
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 3947.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.05
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 3380.08,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 0.9
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ANUAR DONATO CONSULT. IMOBILIARIA",
+      "cnpj": "04292201000160",
+      "total": 81305.19,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 21.67
+    },
+    {
+      "nome": "JORGE GOMES LOPES ANSADO LTDA",
+      "cnpj": "27209437000196",
+      "total": 64000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 17.06
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 49840.37,
+      "quantidade_transacoes": 42,
+      "porcentagem_do_total": 13.28
+    },
+    {
+      "nome": "CONDOMÍNIO LONDON OFFICES",
+      "cnpj": "09494173000188",
+      "total": 33598.89,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 8.96
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 28868.87,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 7.69
+    },
+    {
+      "nome": "InterClip - Integrada Comunicação Ltda - me",
+      "cnpj": "03434898000102",
+      "total": 22500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 6.0
+    },
+    {
+      "nome": "MUNICÍPIO DE BELO HORIZONTE",
+      "cnpj": "18715383000140",
+      "total": 15947.08,
+      "quantidade_transacoes": 45,
+      "porcentagem_do_total": 4.25
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 13381.58,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 3.57
+    },
+    {
+      "nome": "EMPRESA MINEIRA DE COMPUTADORES LTDA",
+      "cnpj": "22261093000140",
+      "total": 12320.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.28
+    },
+    {
+      "nome": "JOSE LUIS LEITE NADAES",
+      "cnpj": "23968523000121",
+      "total": 11000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.93
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 26603.19,
+      "porcentagem_do_total": 7.09
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 43221.25,
+      "porcentagem_do_total": 11.52
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 40164.68,
+      "porcentagem_do_total": 10.71
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 54709.39,
+      "porcentagem_do_total": 14.58
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 46642.71,
+      "porcentagem_do_total": 12.43
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 54982.85,
+      "porcentagem_do_total": 14.66
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 33880.97,
+      "porcentagem_do_total": 9.03
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 27729.46,
+      "porcentagem_do_total": 7.39
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 29309.15,
+      "porcentagem_do_total": 7.81
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 14818.77,
+      "porcentagem_do_total": 3.95
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 3115.13,
+      "porcentagem_do_total": 0.83
+    }
+  ]
+}

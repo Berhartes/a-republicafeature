@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220674,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220674",
+    "nome": "Dra. Alessandra Haber",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "PA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220674.jpg",
+    "email": "dep.dra.alessandrahaber@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 528254.82,
+  "quantidade_transacoes": 83,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 469783.64,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 88.93
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 48614.28,
+      "quantidade_transacoes": 44,
+      "porcentagem_do_total": 9.2
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 9456.9,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 1.79
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 400.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.08
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CALIGRAFIA LTDA",
+      "cnpj": "83648246000100",
+      "total": 275100.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 52.08
+    },
+    {
+      "nome": "A A DOS SANTOS MENDES",
+      "cnpj": "17151133000161",
+      "total": 158963.64,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 30.09
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 26093.01,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 4.94
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 22521.27,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 4.26
+    },
+    {
+      "nome": "N M Comunicação Visual Eireli",
+      "cnpj": "27466737000150",
+      "total": 10500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.99
+    },
+    {
+      "nome": "C E BENETTI EPP",
+      "cnpj": "11422349000138",
+      "total": 9800.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.86
+    },
+    {
+      "nome": "AGILITY COMUNICAÇÃO VISUAL LTDA",
+      "cnpj": "24987931000193",
+      "total": 8420.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.59
+    },
+    {
+      "nome": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpj": "08532429000131",
+      "total": 7612.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 1.44
+    },
+    {
+      "nome": "DIGIDOOR IMPRESSAO DIGITAL LTDA",
+      "cnpj": "44085776000127",
+      "total": 5000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.95
+    },
+    {
+      "nome": "AGILITY COMUNICACAO VISUAL LTDA",
+      "cnpj": "24987931000193",
+      "total": 2000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.38
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 18073.97,
+      "porcentagem_do_total": 3.42
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 16808.9,
+      "porcentagem_do_total": 3.18
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 15692.0,
+      "porcentagem_do_total": 2.97
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 61012.0,
+      "porcentagem_do_total": 11.55
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 56892.0,
+      "porcentagem_do_total": 10.77
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 57691.23,
+      "porcentagem_do_total": 10.92
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 60551.88,
+      "porcentagem_do_total": 11.46
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 73407.98,
+      "porcentagem_do_total": 13.9
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 68314.16,
+      "porcentagem_do_total": 12.93
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 81663.89,
+      "porcentagem_do_total": 15.46
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 18146.81,
+      "porcentagem_do_total": 3.44
+    }
+  ]
+}

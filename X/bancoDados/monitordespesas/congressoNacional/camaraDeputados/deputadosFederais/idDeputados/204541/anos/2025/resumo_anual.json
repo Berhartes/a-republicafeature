@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 204541,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204541",
+      "nome": "Eduardo Bismarck",
+      "siglaPartido": "PDT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+      "siglaUf": "CE",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204541.jpg",
+      "email": null
+    },
+    "ano": 2025,
+    "total_despesas": 1316.36,
+    "quantidade_transacoes": 6,
+    "quantidade_categorias": 2,
+    "quantidade_fornecedores": 6,
+    "periodo_inicio": "2025-01-01T00:00:00",
+    "periodo_fim": "2025-01-06T00:00:00",
+    "generatedAt": "2025-11-10T22:32:39.149091"
+  },
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1271.85,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 96.62
+    },
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 44.51,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.38
+    }
+  ],
+  "resumo_fornecedores": [
+    {
+      "nome": "JANGADA COMERCIO DE COMBUSTIVEIS LTDA - AV DA ABOLIÇÃO",
+      "cnpj": "18977100000138",
+      "total": 380.1,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 28.88
+    },
+    {
+      "nome": "SOBRAL & PALACIO PETROLEO LTDA",
+      "cnpj": "07240641000324",
+      "total": 268.24,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 20.38
+    },
+    {
+      "nome": "PINDORETAMA COMERCIO DE COMBUSTIVEIS LTDA.",
+      "cnpj": "21941498000167",
+      "total": 250.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 18.99
+    },
+    {
+      "nome": "PRAIA COMERCIO DE PETROLEO",
+      "cnpj": "24762120000194",
+      "total": 208.53,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 15.84
+    },
+    {
+      "nome": "J.V. COMÉRCIO DE PETRÓLEO LTDA.",
+      "cnpj": "73830069000116",
+      "total": 164.98,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 12.53
+    },
+    {
+      "nome": "GRUPO ORGANICO ALIMENTOS SAUDAVEIS",
+      "cnpj": "26995428000105",
+      "total": 44.51,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.38
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 1316.36,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7853627,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-01-03T00:00:00",
+      "numDocumento": "253845",
+      "valorDocumento": 164.98,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3396/2025/7853627.pdf",
+      "nomeFornecedor": "J.V. COMÉRCIO DE PETRÓLEO LTDA.",
+      "cnpjCpfFornecedor": "73830069000116",
+      "valorLiquido": 164.98,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2101666,
+      "parcela": 0
+    },
+    {
+      "ano": 2025,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7853354,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-01-06T00:00:00",
+      "numDocumento": "469325",
+      "valorDocumento": 380.1,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3396/2025/7853354.pdf",
+      "nomeFornecedor": "JANGADA COMERCIO DE COMBUSTIVEIS LTDA - AV DA ABOLIÇÃO",
+      "cnpjCpfFornecedor": "18977100000138",
+      "valorLiquido": 380.1,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2101536,
+      "parcela": 0
+    },
+    {
+      "ano": 2025,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7852920,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-01-01T00:00:00",
+      "numDocumento": "089794",
+      "valorDocumento": 250.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3396/2025/7852920.pdf",
+      "nomeFornecedor": "PINDORETAMA COMERCIO DE COMBUSTIVEIS LTDA.",
+      "cnpjCpfFornecedor": "21941498000167",
+      "valorLiquido": 250.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2101286,
+      "parcela": 0
+    },
+    {
+      "ano": 2025,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7853371,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-01-04T00:00:00",
+      "numDocumento": "019785",
+      "valorDocumento": 208.53,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3396/2025/7853371.pdf",
+      "nomeFornecedor": "PRAIA COMERCIO DE PETROLEO",
+      "cnpjCpfFornecedor": "24762120000194",
+      "valorLiquido": 208.53,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2101536,
+      "parcela": 0
+    },
+    {
+      "ano": 2025,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7852925,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-01-01T00:00:00",
+      "numDocumento": "212160",
+      "valorDocumento": 268.24,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3396/2025/7852925.pdf",
+      "nomeFornecedor": "SOBRAL & PALACIO PETROLEO LTDA",
+      "cnpjCpfFornecedor": "07240641000324",
+      "valorLiquido": 268.24,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2101286,
+      "parcela": 0
+    },
+    {
+      "ano": 2025,
+      "mes": 1,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7852918,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-01-02T00:00:00",
+      "numDocumento": "051117",
+      "valorDocumento": 44.51,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3396/2025/7852918.pdf",
+      "nomeFornecedor": "GRUPO ORGANICO ALIMENTOS SAUDAVEIS",
+      "cnpjCpfFornecedor": "26995428000105",
+      "valorLiquido": 44.51,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2101287,
+      "parcela": 0
+    }
+  ]
+}

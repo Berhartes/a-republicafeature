@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO OZIVAL XI",
+    "cnpj": "04643904001168",
+    "total_recebido": 500.0,
+    "numero_transacoes": 3,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 300.0,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 300.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 300.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 150.0,
+      "porcentagem_do_total": 50.0
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 150.0,
+      "porcentagem_do_total": 50.0
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CELULAR FUNCIONAL",
+      "cnpj": "00000000000001",
+      "total_recebido": 12741.15,
+      "numero_transacoes": 63,
+      "numero_deputados": 3
+    },
+    "ano": 2024,
+    "total_recebido": 1125.04,
+    "quantidade_transacoes": 5,
+    "quantidade_deputados": 3,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-02-16T00:00:00",
+    "periodo_fim": "2024-02-20T00:00:00",
+    "generatedAt": "2025-11-11T21:37:57.014481"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 562.52,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 50.0
+    },
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 444.8,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 39.54
+    },
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 117.72,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 10.46
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "TELEFONIA",
+      "total": 1125.04,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 418.72,
+      "porcentagem_do_total": 37.22
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 706.32,
+      "porcentagem_do_total": 62.78
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 2,
+      "tipoDespesa": "TELEFONIA",
+      "codDocumento": 0,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-02-20T00:00:00",
+      "numDocumento": "7801146",
+      "valorDocumento": 353.16,
+      "urlDocumento": null,
+      "nomeFornecedor": "CELULAR FUNCIONAL",
+      "cnpjCpfFornecedor": "00000000000001",
+      "valorLiquido": 353.16,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 1,
+      "tipoDespesa": "TELEFONIA",
+      "codDocumento": 0,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-02-16T00:00:00",
+      "numDocumento": "7801156",
+      "valorDocumento": 209.36,
+      "urlDocumento": null,
+      "nomeFornecedor": "CELULAR FUNCIONAL",
+      "cnpjCpfFornecedor": "00000000000001",
+      "valorLiquido": 209.36,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 2,
+      "tipoDespesa": "TELEFONIA",
+      "codDocumento": 0,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-02-20T00:00:00",
+      "numDocumento": "7801146",
+      "valorDocumento": 117.72,
+      "urlDocumento": null,
+      "nomeFornecedor": "CELULAR FUNCIONAL",
+      "cnpjCpfFornecedor": "00000000000001",
+      "valorLiquido": 117.72,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2024,
+      "mes": 2,
+      "tipoDespesa": "TELEFONIA",
+      "codDocumento": 0,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-02-20T00:00:00",
+      "numDocumento": "7801146",
+      "valorDocumento": 235.44,
+      "urlDocumento": null,
+      "nomeFornecedor": "CELULAR FUNCIONAL",
+      "cnpjCpfFornecedor": "00000000000001",
+      "valorLiquido": 235.44,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2024,
+      "mes": 1,
+      "tipoDespesa": "TELEFONIA",
+      "codDocumento": 0,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-02-16T00:00:00",
+      "numDocumento": "7801156",
+      "valorDocumento": 209.36,
+      "urlDocumento": null,
+      "nomeFornecedor": "CELULAR FUNCIONAL",
+      "cnpjCpfFornecedor": "00000000000001",
+      "valorLiquido": 209.36,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    }
+  ]
+}

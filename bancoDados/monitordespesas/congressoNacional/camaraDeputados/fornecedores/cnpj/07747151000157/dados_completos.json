@@ -3,71 +3,53 @@
     "fornecedor": {
       "nome": "Embaixador Prime Hotel Ltda.",
       "cnpj": "07747151000157",
-      "total_recebido": 320.0,
-      "numero_transacoes": 2,
+      "total_recebido": 227.0,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:58:22.644286"
+    "generatedAt": "2025-11-11T05:22:36.003853"
   },
   "categorias": {
-    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 320.0
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 227.0
   },
   "anos": {
     "2023": {
-      "total": 320.0,
-      "transacoes": 2,
+      "total": 227.0,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "160538": {
+    "220554": {
       "deputado": {
-        "id": 160538,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160538",
-        "nome": "Bohn Gass",
+        "id": 220554,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+        "nome": "Alexandre Lindenmeyer",
+        "nomeEleitoral": "Alexandre Lindenmeyer",
         "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160538.jpg",
-        "email": "dep.bohngass@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
+        "email": "dep.alexandrelindenmeyer@camara.leg.br"
       },
-      "total": 320.0,
-      "transacoes": 2,
+      "total": 227.0,
+      "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 3,
+          "mes": 7,
           "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7513453,
+          "codDocumento": 7573077,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-03-02T00:00:00",
-          "numDocumento": "20231543",
-          "valorDocumento": 160.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2405/2023/7513453.pdf",
+          "dataDocumento": "2023-07-11T00:00:00",
+          "numDocumento": "20235148",
+          "valorDocumento": 227.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2023/7573077.pdf",
           "nomeFornecedor": "Embaixador Prime Hotel Ltda.",
           "cnpjCpfFornecedor": "07747151000157",
-          "valorLiquido": 160.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 3,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7513456,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-03-02T00:00:00",
-          "numDocumento": "20231544",
-          "valorDocumento": 160.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2405/2023/7513456.pdf",
-          "nomeFornecedor": "Embaixador Prime Hotel Ltda.",
-          "cnpjCpfFornecedor": "07747151000157",
-          "valorLiquido": 160.0,
+          "valorLiquido": 227.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

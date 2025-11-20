@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO DE COMBUSTIVEIS ALVORADA DE PRIMAVERA LTDA",
+      "cnpj": "44658468000143",
+      "total_recebido": 527.52,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 426.45,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-02-17T00:00:00",
+    "periodo_fim": "2024-07-15T00:00:00",
+    "generatedAt": "2025-11-11T21:37:54.358481"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 426.45,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 426.45,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 114.17,
+      "porcentagem_do_total": 26.77
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 165.85,
+      "porcentagem_do_total": 38.89
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 146.43,
+      "porcentagem_do_total": 34.34
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7687258,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-02-17T00:00:00",
+      "numDocumento": "72454",
+      "valorDocumento": 114.17,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7687258",
+      "nomeFornecedor": "POSTO DE COMBUSTIVEIS ALVORADA DE PRIMAVERA LTDA",
+      "cnpjCpfFornecedor": "44658468000143",
+      "valorLiquido": 114.17,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2013264,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7710878,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-03-28T00:00:00",
+      "numDocumento": "79184",
+      "valorDocumento": 165.85,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7710878",
+      "nomeFornecedor": "POSTO DE COMBUSTIVEIS ALVORADA DE PRIMAVERA LTDA",
+      "cnpjCpfFornecedor": "44658468000143",
+      "valorLiquido": 165.85,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2026048,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7772390,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-07-15T00:00:00",
+      "numDocumento": "98304",
+      "valorDocumento": 146.43,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7772390",
+      "nomeFornecedor": "POSTO DE COMBUSTIVEIS ALVORADA DE PRIMAVERA LTDA",
+      "cnpjCpfFornecedor": "44658468000143",
+      "valorLiquido": 146.43,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2058605,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO CENTRO OESTE LTDA",
+      "cnpj": "05453620000108",
+      "total_recebido": 400.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:25.223339"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 400.0
+  },
+  "anos": {
+    "2024": {
+      "total": 400.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220576": {
+      "deputado": {
+        "id": 220576,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220576",
+        "nome": "Alfredo Gaspar",
+        "nomeEleitoral": "Alfredo Gaspar",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "AL",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220576.jpg",
+        "email": "dep.alfredogaspar@camara.leg.br"
+      },
+      "total": 400.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7705855,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-15T18:48:52",
+          "numDocumento": "2441673",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7705855",
+          "nomeFornecedor": "AUTO POSTO CENTRO OESTE LTDA",
+          "cnpjCpfFornecedor": "05453620000108",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7747793,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-17T17:19:22",
+          "numDocumento": "2516100",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7747793",
+          "nomeFornecedor": "AUTO POSTO CENTRO OESTE LTDA",
+          "cnpjCpfFornecedor": "05453620000108",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

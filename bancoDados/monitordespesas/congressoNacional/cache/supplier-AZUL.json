@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-12T00:38:35Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "1.0.0",
+    "legislatura": 57,
+    "cnpj": ""
+  },
+  "data": {
+    "cnpj": "",
+    "nome": "AZUL",
+    "nomeFornecedor": "AZUL",
+    "totalTransacionado": 116120.8,
+    "totalRecebido": 116120.8,
+    "totalRecebidoTodos": 116120.8,
+    "transacoes": 134,
+    "numeroTransacoes": 134,
+    "numeroDeputadosAtendidos": 5,
+    "deputadosAtendidos": [],
+    "categoria": "PASSAGEM AÉREA - SIGEPA",
+    "categoriaOriginal": "PASSAGEM AÉREA - SIGEPA",
+    "categorias": [
+      "PASSAGEM AÉREA - SIGEPA"
+    ],
+    "categoriasOriginais": [
+      "PASSAGEM AÉREA - SIGEPA"
+    ],
+    "categoriasInfo": {
+      "principal": "PASSAGEM AÉREA - SIGEPA",
+      "normalizadas": [
+        "PASSAGEM AÉREA - SIGEPA"
+      ],
+      "principalOriginal": "PASSAGEM AÉREA - SIGEPA",
+      "originais": [
+        "PASSAGEM AÉREA - SIGEPA"
+      ]
+    },
+    "distribuicaoTipos": {
+      "PASSAGEM AÉREA - SIGEPA": {
+        "valor": 116120.8,
+        "quantidade": 134
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "PASSAGEM AÉREA - SIGEPA": {
+        "valor": 116120.8,
+        "quantidade": 134
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 41752.3,
+        "transacoes": 50,
+        "deputados": 4
+      },
+      "2024": {
+        "valor": 63435.49,
+        "transacoes": 72,
+        "deputados": 3
+      },
+      "2025": {
+        "valor": 10933.01,
+        "transacoes": 12,
+        "deputados": 3
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

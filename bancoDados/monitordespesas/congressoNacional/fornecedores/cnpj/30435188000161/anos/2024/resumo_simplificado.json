@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "JTM COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+    "cnpj": "30435188000161",
+    "total_recebido": 331.73,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 331.73,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 331.73,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 331.73,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 131.72,
+      "porcentagem_do_total": 39.71
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 200.01,
+      "porcentagem_do_total": 60.29
+    }
+  ]
+}

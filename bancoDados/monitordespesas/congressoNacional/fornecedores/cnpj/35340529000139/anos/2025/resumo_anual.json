@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO DE COMBUSTIVEL GUERREIRINHO LTDA",
+      "cnpj": "35340529000139",
+      "total_recebido": 649.58,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 365.54,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-02-14T00:00:00",
+    "periodo_fim": "2025-02-14T00:00:00",
+    "generatedAt": "2025-11-11T21:38:06.251008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 365.54,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 365.54,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 365.54,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7881842,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-02-14T00:00:00",
+      "numDocumento": "44809",
+      "valorDocumento": 365.54,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7881842",
+      "nomeFornecedor": "POSTO DE COMBUSTIVEL GUERREIRINHO LTDA",
+      "cnpjCpfFornecedor": "35340529000139",
+      "valorLiquido": 365.54,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2118111,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    }
+  ]
+}

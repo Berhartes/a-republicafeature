@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-12T00:38:35Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "1.0.0",
+    "legislatura": 57,
+    "cnpj": "17142572000612"
+  },
+  "data": {
+    "cnpj": "17142572000612",
+    "nome": "AUTO POSTO GASPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+    "nomeFornecedor": "AUTO POSTO GASPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+    "totalTransacionado": 1529.0,
+    "totalRecebido": 1529.0,
+    "totalRecebidoTodos": 1529.0,
+    "transacoes": 7,
+    "numeroTransacoes": 7,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 1529.0,
+        "quantidade": 7
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 1529.0,
+        "quantidade": 7
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 150.0,
+        "transacoes": 1,
+        "deputados": 1
+      },
+      "2024": {
+        "valor": 429.0,
+        "transacoes": 2,
+        "deputados": 1
+      },
+      "2025": {
+        "valor": 950.0,
+        "transacoes": 4,
+        "deputados": 1
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

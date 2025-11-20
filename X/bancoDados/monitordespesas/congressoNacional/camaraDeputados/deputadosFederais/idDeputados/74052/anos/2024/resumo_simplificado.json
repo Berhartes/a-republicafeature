@@ -1,0 +1,152 @@
+{
+  "deputado": {
+    "id": 74052,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74052",
+    "nome": "Bosco Costa",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "SE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74052.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 173703.29,
+  "quantidade_transacoes": 92,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 86966.68,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 50.07
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 43943.55,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 25.3
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 30875.26,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 17.77
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 7280.38,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 4.19
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 4637.42,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 2.67
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 28988.62,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 16.69
+    },
+    {
+      "nome": "DMR LOCAÇÕES LTDA.",
+      "cnpj": "30542826000143",
+      "total": 24343.55,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 14.01
+    },
+    {
+      "nome": "DALETH VEICULOS LTDA EPP",
+      "cnpj": "04515963000189",
+      "total": 19600.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 11.28
+    },
+    {
+      "nome": "RÁDIO EDUCADORA DE FREI PAULO LTDA",
+      "cnpj": "16459034000189",
+      "total": 17000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 9.79
+    },
+    {
+      "nome": "RÁDIO FM PRINCESA LTDA.",
+      "cnpj": "32736266000193",
+      "total": 15000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 8.64
+    },
+    {
+      "nome": "N P COMUNICAÇÕES LTDA.",
+      "cnpj": "48982907000120",
+      "total": 12000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 6.91
+    },
+    {
+      "nome": "REDE FAN DE COMUNICAÇÃO",
+      "cnpj": "13382338000105",
+      "total": 9000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 5.18
+    },
+    {
+      "nome": "RÁDIO FM ITABAIANA LTDA.",
+      "cnpj": "32706996000141",
+      "total": 8833.34,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 5.09
+    },
+    {
+      "nome": "REDE RIO FM 102 LTDA.",
+      "cnpj": "39966766000160",
+      "total": 6833.34,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.93
+    },
+    {
+      "nome": "TRÊS MARIAS EMPREENDIMENTOS LTDA.",
+      "cnpj": "30788875000160",
+      "total": 5300.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.05
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 41519.22,
+      "porcentagem_do_total": 23.9
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 46784.06,
+      "porcentagem_do_total": 26.93
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 36869.42,
+      "porcentagem_do_total": 21.23
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 48458.59,
+      "porcentagem_do_total": 27.9
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 72.0,
+      "porcentagem_do_total": 0.04
+    }
+  ]
+}

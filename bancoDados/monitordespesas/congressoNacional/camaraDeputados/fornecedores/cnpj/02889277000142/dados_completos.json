@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.326653"
+    "generatedAt": "2025-11-11T05:22:13.230002"
   },
   "categorias": {
     "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 380.0
@@ -25,6 +25,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -35,25 +36,6 @@
       "total": 380.0,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 11,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7832209,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-19T00:00:00",
-          "numDocumento": "31201",
-          "valorDocumento": 120.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2024/7832209.pdf",
-          "nomeFornecedor": "JACI BARBOSA DE SOUZA E CIA LTDA",
-          "cnpjCpfFornecedor": "02889277000142",
-          "valorLiquido": 120.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 6,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "JACI BARBOSA DE SOUZA E CIA LTDA",
           "cnpjCpfFornecedor": "02889277000142",
           "valorLiquido": 260.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7832209,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-19T00:00:00",
+          "numDocumento": "31201",
+          "valorDocumento": 120.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2024/7832209.pdf",
+          "nomeFornecedor": "JACI BARBOSA DE SOUZA E CIA LTDA",
+          "cnpjCpfFornecedor": "02889277000142",
+          "valorLiquido": 120.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

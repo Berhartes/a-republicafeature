@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 220612,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220612",
+    "nome": "Bebeto",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220612.jpg",
+    "email": "dep.bebeto@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 523710.4,
+  "quantidade_transacoes": 278,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 149600.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 28.57
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 149020.0,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 28.45
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 124316.25,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 23.74
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 46849.46,
+      "quantidade_transacoes": 77,
+      "porcentagem_do_total": 8.95
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 40109.65,
+      "quantidade_transacoes": 152,
+      "porcentagem_do_total": 7.66
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "FCT MULTISERV COMERCIO E SERVIÇOS LTDA",
+      "cnpj": "17237187000144",
+      "total": 149600.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 28.57
+    },
+    {
+      "nome": "DAIRE PARTICIPAÇÕES LTDA",
+      "cnpj": "03047366000104",
+      "total": 123608.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 23.6
+    },
+    {
+      "nome": "GRAFICOVAN 872 ARTES GRAFICAS LTDA",
+      "cnpj": "00379444000180",
+      "total": 68475.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 13.07
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 47065.35,
+      "quantidade_transacoes": 72,
+      "porcentagem_do_total": 8.99
+    },
+    {
+      "nome": "FUTURO MARKETING DIGITAL LTDA",
+      "cnpj": "54881728000107",
+      "total": 32045.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 6.12
+    },
+    {
+      "nome": "LPV COMUNICAÇÃO & EVENTOS",
+      "cnpj": "51166085000113",
+      "total": 28500.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 5.44
+    },
+    {
+      "nome": "VICTOR MURILO DA SILVA FURTADO",
+      "cnpj": "44895337000180",
+      "total": 20000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.82
+    },
+    {
+      "nome": "AUTO POSTO PICA PAU",
+      "cnpj": "22486173000102",
+      "total": 16340.29,
+      "quantidade_transacoes": 66,
+      "porcentagem_do_total": 3.12
+    },
+    {
+      "nome": "POSTO RIO SAO PAULO LTDA",
+      "cnpj": "31918576000166",
+      "total": 3490.23,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 0.67
+    },
+    {
+      "nome": "AUTO POSTO CONCORDE LTDA",
+      "cnpj": "28868264000180",
+      "total": 3444.56,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 0.66
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 30937.08,
+      "porcentagem_do_total": 5.91
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 34773.31,
+      "porcentagem_do_total": 6.64
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 44532.6,
+      "porcentagem_do_total": 8.5
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 29221.19,
+      "porcentagem_do_total": 5.58
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 42508.22,
+      "porcentagem_do_total": 8.12
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 47868.79,
+      "porcentagem_do_total": 9.14
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 25852.24,
+      "porcentagem_do_total": 4.94
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 30309.65,
+      "porcentagem_do_total": 5.79
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 33194.08,
+      "porcentagem_do_total": 6.34
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 27945.15,
+      "porcentagem_do_total": 5.34
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 41782.56,
+      "porcentagem_do_total": 7.98
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 134785.53,
+      "porcentagem_do_total": 25.74
+    }
+  ]
+}

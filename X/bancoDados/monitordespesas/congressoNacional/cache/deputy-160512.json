@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T17:45:22Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "deputados.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "deputadoId": "160512"
+  },
+  "data": {
+    "id": "160512",
+    "nome": "Aureo Ribeiro",
+    "nomeEleitoral": "Aureo Ribeiro",
+    "nomeCivil": null,
+    "partido": "SOLIDARIEDADE",
+    "siglaPartido": "SOLIDARIEDADE",
+    "uf": "RJ",
+    "siglaUf": "RJ",
+    "urlFoto": null,
+    "totalDespesas": 1262715.9000000001,
+    "numeroDespesas": 731,
+    "fornecedoresIdentificados": 14,
+    "createdAt": "2025-11-01T17:45:19Z",
+    "gastosPorAno": {},
+    "transacoesPorAno": {},
+    "topCategorias": [],
+    "topFornecedores": [],
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "temDetalhes": false
+  }
+}

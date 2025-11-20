@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "REDE AMERICA DE COMBUSTIVEIS JK LTDA",
+      "cnpj": "22611652000286",
+      "total_recebido": 691.6200000000001,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:02.901861"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 691.6200000000001
+  },
+  "anos": {
+    "2023": {
+      "total": 691.6200000000001,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 691.6200000000001,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7542143,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-12T00:00:00",
+          "numDocumento": "167450",
+          "valorDocumento": 191.99,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7542143",
+          "nomeFornecedor": "REDE AMERICA DE COMBUSTIVEIS JK LTDA",
+          "cnpjCpfFornecedor": "22611652000286",
+          "valorLiquido": 191.99,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7561827,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-18T00:00:00",
+          "numDocumento": "171741",
+          "valorDocumento": 178.09,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7561827",
+          "nomeFornecedor": "REDE AMERICA DE COMBUSTIVEIS JK LTDA",
+          "cnpjCpfFornecedor": "22611652000286",
+          "valorLiquido": 178.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7569922,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-02T00:00:00",
+          "numDocumento": "173486",
+          "valorDocumento": 215.1,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7569922",
+          "nomeFornecedor": "REDE AMERICA DE COMBUSTIVEIS JK LTDA",
+          "cnpjCpfFornecedor": "22611652000286",
+          "valorLiquido": 215.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7621418,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-23T00:00:00",
+          "numDocumento": "184262",
+          "valorDocumento": 106.44,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7621418.pdf",
+          "nomeFornecedor": "REDE AMERICA DE COMBUSTIVEIS JK LTDA",
+          "cnpjCpfFornecedor": "22611652000286",
+          "valorLiquido": 106.44,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

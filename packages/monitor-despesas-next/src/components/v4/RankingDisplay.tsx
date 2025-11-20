@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { Progress } from '@/components/ui/progress'
-import { Link } from '@tanstack/react-router'
+import { Link } from '@/lib/router/navigation'
 import { RankingResult, RankingEntry } from '@/core/rankings/RankingEngine'
 import { RankingUtils } from '@/core/rankings/RankingEngine'
 
@@ -386,12 +386,13 @@ export const RankingDisplay: React.FC<RankingDisplayProps> = ({
               
               {/* Botão de ação */}
               <div className="flex items-center gap-2 ml-4">
-                <Button variant="outline" size="sm" asChild>
-                  <Link to={`/gastos/perfil/${entry.deputy.id}`}>
-                    <Eye className="w-4 h-4 mr-2" />
-                    Ver Perfil
-                  </Link>
-                </Button>
+                <Link 
+                  to={`/gastos/perfil/${entry.deputy.id}`}
+                  className="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 border border-input bg-background shadow-sm hover:bg-accent hover:text-accent-foreground h-9 px-3"
+                >
+                  <Eye className="w-4 h-4 mr-2" />
+                  Ver Perfil
+                </Link>
               </div>
             </div>
           </div>

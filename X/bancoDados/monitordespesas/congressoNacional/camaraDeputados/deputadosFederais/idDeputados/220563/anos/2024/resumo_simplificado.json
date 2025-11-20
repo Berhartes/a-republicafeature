@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 220563,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220563",
+    "nome": "Icaro de Valmir",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "SE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220563.jpg",
+    "email": "dep.icarodevalmir@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 351572.21,
+  "quantidade_transacoes": 286,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 161700.0,
+      "quantidade_transacoes": 40,
+      "porcentagem_do_total": 45.99
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 81503.92,
+      "quantidade_transacoes": 98,
+      "porcentagem_do_total": 23.18
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 70071.66,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 19.93
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 26256.79,
+      "quantidade_transacoes": 111,
+      "porcentagem_do_total": 7.47
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 8545.05,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 2.43
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 80739.74,
+      "quantidade_transacoes": 97,
+      "porcentagem_do_total": 22.97
+    },
+    {
+      "nome": "DMR LOCAÇÕES LTDA.",
+      "cnpj": "30542826000143",
+      "total": 33755.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 9.6
+    },
+    {
+      "nome": "N P COMUNICAÇÕES LTDA.",
+      "cnpj": "48982907000120",
+      "total": 27000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 7.68
+    },
+    {
+      "nome": "DALETH VEICULOS LTDA EPP",
+      "cnpj": "04515963000189",
+      "total": 25316.66,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 7.2
+    },
+    {
+      "nome": "RÁDIO FM PRINCESA LTDA.",
+      "cnpj": "32736266000193",
+      "total": 25000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 7.11
+    },
+    {
+      "nome": "RÁDIO EDUCADORA DE FREI PAULO LTDA",
+      "cnpj": "13100102000120",
+      "total": 20000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 5.69
+    },
+    {
+      "nome": "RÁDIO FM ITABAIANA LTDA.",
+      "cnpj": "32706996000141",
+      "total": 15000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 4.27
+    },
+    {
+      "nome": "JOZAILTO OLIVEIRA LIMA",
+      "cnpj": "24394631000109",
+      "total": 14000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 3.98
+    },
+    {
+      "nome": "NA MIRA EMPREENDIMENTOS E MARKETING",
+      "cnpj": "16780542000164",
+      "total": 13600.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.87
+    },
+    {
+      "nome": "PORTAL FAN F1",
+      "cnpj": "23722585000159",
+      "total": 13000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.7
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 27311.47,
+      "porcentagem_do_total": 7.77
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 49536.77,
+      "porcentagem_do_total": 14.09
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 50523.45,
+      "porcentagem_do_total": 14.37
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 61841.7,
+      "porcentagem_do_total": 17.59
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 56214.02,
+      "porcentagem_do_total": 15.99
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 28536.89,
+      "porcentagem_do_total": 8.12
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 1285.98,
+      "porcentagem_do_total": 0.37
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 48098.44,
+      "porcentagem_do_total": 13.68
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 28223.49,
+      "porcentagem_do_total": 8.03
+    }
+  ]
+}

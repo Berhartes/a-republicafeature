@@ -1,0 +1,54 @@
+{
+  "fornecedor": {
+    "nome": "BOSQUE DA SAUDE COM COMB LTDA",
+    "cnpj": "02823845000102",
+    "total_recebido": 1034.6599999999999,
+    "numero_transacoes": 6,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 864.1,
+  "quantidade_transacoes": 5,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 864.1,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 864.1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 120.0,
+      "porcentagem_do_total": 13.89
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 440.92,
+      "porcentagem_do_total": 51.03
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 197.05,
+      "porcentagem_do_total": 22.8
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 106.13,
+      "porcentagem_do_total": 12.28
+    }
+  ]
+}

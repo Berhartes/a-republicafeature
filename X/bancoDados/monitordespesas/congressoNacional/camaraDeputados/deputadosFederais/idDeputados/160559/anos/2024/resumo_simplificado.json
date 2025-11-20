@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 160559,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
+    "nome": "Alceu Moreira",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "RS",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
+    "email": "dep.alceumoreira@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 152208.33,
+  "quantidade_transacoes": 306,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 114035.43,
+      "quantidade_transacoes": 121,
+      "porcentagem_do_total": 74.92
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 38172.9,
+      "quantidade_transacoes": 185,
+      "porcentagem_do_total": 25.08
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "JOÃO JOELSON LIPERT DA SILVA",
+      "cnpj": "26395738020",
+      "total": 68562.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 45.04
+    },
+    {
+      "nome": "VANDREI MARTINS DE OLIVEIRA",
+      "cnpj": "94474273087",
+      "total": 21600.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 14.19
+    },
+    {
+      "nome": "AUTO POSTO DE COMBUSTIVEIS RENASCENCA LTDA",
+      "cnpj": "72500069000195",
+      "total": 21105.94,
+      "quantidade_transacoes": 101,
+      "porcentagem_do_total": 13.87
+    },
+    {
+      "nome": "maxipred-assessoria predial lt",
+      "cnpj": "03881220000160",
+      "total": 7309.53,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 4.8
+    },
+    {
+      "nome": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
+      "cnpj": "08467115000100",
+      "total": 3957.34,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 2.6
+    },
+    {
+      "nome": "lima administradora",
+      "cnpj": "18739877000164",
+      "total": 3612.4,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 2.37
+    },
+    {
+      "nome": "Prefeitura de Porto Alegre",
+      "cnpj": "92963560000160",
+      "total": 3423.71,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 2.25
+    },
+    {
+      "nome": "ABAST FAGUNDES LTDA",
+      "cnpj": "00577065000366",
+      "total": 3212.52,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 2.11
+    },
+    {
+      "nome": "ABAST ALBERNAZ LTDA EPP",
+      "cnpj": "20385107000102",
+      "total": 2298.46,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.51
+    },
+    {
+      "nome": "ABASTECEDORA DE COMBUSTIVEIS NACOES LTDA",
+      "cnpj": "22047481000123",
+      "total": 1856.07,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.22
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 9425.87,
+      "porcentagem_do_total": 6.19
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 11899.96,
+      "porcentagem_do_total": 7.82
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 13033.79,
+      "porcentagem_do_total": 8.56
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 13158.22,
+      "porcentagem_do_total": 8.64
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 11726.59,
+      "porcentagem_do_total": 7.7
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 13359.66,
+      "porcentagem_do_total": 8.78
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 14735.4,
+      "porcentagem_do_total": 9.68
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 14103.04,
+      "porcentagem_do_total": 9.27
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 12040.81,
+      "porcentagem_do_total": 7.91
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 12546.91,
+      "porcentagem_do_total": 8.24
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 12629.55,
+      "porcentagem_do_total": 8.3
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 13548.53,
+      "porcentagem_do_total": 8.9
+    }
+  ]
+}

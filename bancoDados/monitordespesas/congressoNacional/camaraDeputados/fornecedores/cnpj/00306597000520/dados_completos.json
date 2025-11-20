@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:12.992872"
+    "generatedAt": "2025-11-11T05:22:14.864234"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 824.5799999999999
@@ -30,6 +30,7 @@
         "id": 74646,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74646",
         "nome": "Aécio Neves",
+        "nomeEleitoral": "Aécio Neves",
         "siglaPartido": "PSDB",
         "uriPartido": "",
         "siglaUf": "MG",
@@ -61,25 +62,6 @@
         },
         {
           "ano": 2025,
-          "mes": 8,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7971309,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-08-21T00:00:00",
-          "numDocumento": "148161",
-          "valorDocumento": 284.53,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7971309",
-          "nomeFornecedor": "005 - LAGO SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
-          "cnpjCpfFornecedor": "00306597000520",
-          "valorLiquido": 284.53,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
           "mes": 3,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7887938,
@@ -92,6 +74,25 @@
           "nomeFornecedor": "005 - LAGO SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
           "cnpjCpfFornecedor": "00306597000520",
           "valorLiquido": 282.57,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7971309,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-21T00:00:00",
+          "numDocumento": "148161",
+          "valorDocumento": 284.53,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7971309",
+          "nomeFornecedor": "005 - LAGO SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+          "cnpjCpfFornecedor": "00306597000520",
+          "valorLiquido": 284.53,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

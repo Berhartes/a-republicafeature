@@ -1,0 +1,73 @@
+{
+  "fornecedor": {
+    "nome": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+    "cnpj": "33469172000672",
+    "total_recebido": 759.1899999999999,
+    "numero_transacoes": 21,
+    "numero_deputados": 2
+  },
+  "ano": 2023,
+  "total_recebido": 605.4,
+  "quantidade_transacoes": 17,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 522.09,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 86.24
+    },
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 83.31,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 13.76
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 605.4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 127.34,
+      "porcentagem_do_total": 21.03
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 205.55,
+      "porcentagem_do_total": 33.95
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 174.63,
+      "porcentagem_do_total": 28.85
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 28.85,
+      "porcentagem_do_total": 4.77
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 37.67,
+      "porcentagem_do_total": 6.22
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 31.36,
+      "porcentagem_do_total": 5.18
+    }
+  ]
+}

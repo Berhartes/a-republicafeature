@@ -338,7 +338,7 @@ def process_data(deputados: List[dict], legislatura: int, data_lake_dir: Path) -
 
     # Create base directories
     congresso_dir = data_lake_dir / "monitordespesas" / "congressoNacional"
-    deputados_federais_dir = congresso_dir / "deputadosFederais" / "idDeputados"
+    deputados_federais_dir = congresso_dir / "camaraDeputados" / "deputadosFederais" / "idDeputados"
     fornecedores_dir = congresso_dir / "fornecedores" / "cnpj"
 
     for i, deputado in enumerate(deputados, 1):
@@ -707,7 +707,7 @@ def main():
         # Write consolidated files in congressoNacional structure
         congresso_dir = data_lake_dir / "monitordespesas" / "congressoNacional"
         write_json(congresso_dir / "fornecedores" / "fornecedores.json", fornecedores)
-        write_json(congresso_dir / "deputadosFederais" / "deputados.json", deputados_resumo)
+        write_json(congresso_dir / "camaraDeputados" / "deputadosFederais" / "deputados.json", deputados_resumo)
 
         # Get unique years from processed data
         anos_processados = sorted(set(

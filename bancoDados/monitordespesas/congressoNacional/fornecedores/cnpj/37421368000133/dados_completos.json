@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Palo Alto Combustiveis Ltda",
+      "cnpj": "37421368000133",
+      "total_recebido": 74.86,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:54.137482"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 74.86
+  },
+  "anos": {
+    "2023": {
+      "total": 74.86,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 74.86,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7603598,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-09-03T00:00:00",
+          "numDocumento": "210008",
+          "valorDocumento": 74.86,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7603598",
+          "nomeFornecedor": "Palo Alto Combustiveis Ltda",
+          "cnpjCpfFornecedor": "37421368000133",
+          "valorLiquido": 74.86,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1965746,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

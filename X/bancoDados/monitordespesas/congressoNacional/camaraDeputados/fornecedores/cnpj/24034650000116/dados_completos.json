@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BR 88 RENT A CAR EIRELI",
+      "cnpj": "24034650000116",
+      "total_recebido": 3600.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:22.802714"
+  },
+  "categorias": {
+    "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 3600.0
+  },
+  "anos": {
+    "2023": {
+      "total": 3600.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160545": {
+      "deputado": {
+        "id": 160545,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160545",
+        "nome": "Alexandre Leite",
+        "nomeEleitoral": "Alexandre Leite",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160545.jpg",
+        "email": null
+      },
+      "total": 3600.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7549809,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-26T00:00:00",
+          "numDocumento": "3",
+          "valorDocumento": 3600.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2373/2023/7549809.pdf",
+          "nomeFornecedor": "BR 88 RENT A CAR EIRELI",
+          "cnpjCpfFornecedor": "24034650000116",
+          "valorLiquido": 3600.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -3,52 +3,58 @@
     "fornecedor": {
       "nome": "G3 ALIMENTOS LTDA.",
       "cnpj": "16670649000150",
-      "total_recebido": 442.5,
-      "numero_transacoes": 3,
+      "total_recebido": 219.28,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:58:14.439889"
+    "generatedAt": "2025-11-11T05:22:19.146919"
   },
   "categorias": {
-    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 442.5
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 219.28
   },
   "anos": {
+    "2023": {
+      "total": 77.28,
+      "transacoes": 1,
+      "deputados": 1
+    },
     "2024": {
-      "total": 442.5,
-      "transacoes": 3,
+      "total": 142.0,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204388": {
+    "178835": {
       "deputado": {
-        "id": 204388,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388",
-        "nome": "Bibo Nunes",
-        "siglaPartido": "PL",
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
+        "siglaPartido": "PDT",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
-        "email": "dep.bibonunes@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
       },
-      "total": 442.5,
-      "transacoes": 3,
+      "total": 219.28,
+      "transacoes": 2,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 12,
+          "ano": 2023,
+          "mes": 6,
           "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7851580,
+          "codDocumento": 7560923,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-12-19T00:00:00",
-          "numDocumento": "167",
-          "valorDocumento": 118.65,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7851580",
+          "dataDocumento": "2023-06-13T00:00:00",
+          "numDocumento": "66326",
+          "valorDocumento": 77.28,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7560923",
           "nomeFornecedor": "G3 ALIMENTOS LTDA.",
           "cnpjCpfFornecedor": "16670649000150",
-          "valorLiquido": 105.0,
+          "valorLiquido": 77.28,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -56,37 +62,18 @@
         },
         {
           "ano": 2024,
-          "mes": 11,
+          "mes": 10,
           "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7835655,
+          "codDocumento": 7820924,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-26T00:00:00",
-          "numDocumento": "10071",
-          "valorDocumento": 197.45,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7835655",
+          "dataDocumento": "2024-10-15T00:00:00",
+          "numDocumento": "5202",
+          "valorDocumento": 142.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7820924",
           "nomeFornecedor": "G3 ALIMENTOS LTDA.",
           "cnpjCpfFornecedor": "16670649000150",
-          "valorLiquido": 179.5,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 11,
-          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7833901,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-19T00:00:00",
-          "numDocumento": "9173",
-          "valorDocumento": 173.8,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7833901",
-          "nomeFornecedor": "G3 ALIMENTOS LTDA.",
-          "cnpjCpfFornecedor": "16670649000150",
-          "valorLiquido": 158.0,
+          "valorLiquido": 142.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

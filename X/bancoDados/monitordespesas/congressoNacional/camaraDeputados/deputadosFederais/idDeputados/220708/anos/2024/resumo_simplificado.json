@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 220708,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220708",
+    "nome": "Gabriel Nunes",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220708.jpg",
+    "email": "dep.gabrielnunes@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 566212.72,
+  "quantidade_transacoes": 612,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 223100.0,
+      "quantidade_transacoes": 42,
+      "porcentagem_do_total": 39.4
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 116500.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 20.58
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 96094.82,
+      "quantidade_transacoes": 54,
+      "porcentagem_do_total": 16.97
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 82552.56,
+      "quantidade_transacoes": 357,
+      "porcentagem_do_total": 14.58
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 29218.57,
+      "quantidade_transacoes": 69,
+      "porcentagem_do_total": 5.16
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "SOUL AGENCIA DIGITAL LTDA",
+      "cnpj": "32129984000100",
+      "total": 118400.0,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 20.91
+    },
+    {
+      "nome": "HPE AUTOMOTORES DO BRASIL LTDA",
+      "cnpj": "46054009000186",
+      "total": 116500.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 20.58
+    },
+    {
+      "nome": "WILKER CAMPOS CHAGAS",
+      "cnpj": "80645127515",
+      "total": 74314.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 13.12
+    },
+    {
+      "nome": "MF COMUNICAÇÃO E IMPRESSÃO LTDA",
+      "cnpj": "04766784000114",
+      "total": 65400.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 11.55
+    },
+    {
+      "nome": "AS COMUNICAÇÃO LTDA",
+      "cnpj": "49428103000146",
+      "total": 36000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 6.36
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 20206.62,
+      "quantidade_transacoes": 46,
+      "porcentagem_do_total": 3.57
+    },
+    {
+      "nome": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+      "cnpj": "15139629000194",
+      "total": 12689.98,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 2.24
+    },
+    {
+      "nome": "PERFECT ASSESSORIA EM LICITACAO LTDA",
+      "cnpj": "42051768000134",
+      "total": 6600.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.17
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 5991.43,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 1.06
+    },
+    {
+      "nome": "HIPER POSTO CAMINHO DAS ARVORES LTDA",
+      "cnpj": "34276766000115",
+      "total": 5595.33,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 0.99
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 41780.09,
+      "porcentagem_do_total": 7.38
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 43324.89,
+      "porcentagem_do_total": 7.65
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 62641.36,
+      "porcentagem_do_total": 11.06
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 49798.14,
+      "porcentagem_do_total": 8.79
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 52781.08,
+      "porcentagem_do_total": 9.32
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 51114.13,
+      "porcentagem_do_total": 9.03
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 52061.01,
+      "porcentagem_do_total": 9.19
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 52501.63,
+      "porcentagem_do_total": 9.27
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 51925.45,
+      "porcentagem_do_total": 9.17
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 34112.92,
+      "porcentagem_do_total": 6.02
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 41470.93,
+      "porcentagem_do_total": 7.32
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 32701.09,
+      "porcentagem_do_total": 5.78
+    }
+  ]
+}

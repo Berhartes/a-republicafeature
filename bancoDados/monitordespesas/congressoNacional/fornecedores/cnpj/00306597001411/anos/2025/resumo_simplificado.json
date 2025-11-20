@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "14 - QL 14 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+    "cnpj": "00306597001411",
+    "total_recebido": 1370.4,
+    "numero_transacoes": 5,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 970.4,
+  "quantidade_transacoes": 3,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 970.4,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 970.4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 600.0,
+      "porcentagem_do_total": 61.83
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 370.4,
+      "porcentagem_do_total": 38.17
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 141431,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141431",
+    "nome": "Fernando Coelho Filho",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "PE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141431.jpg",
+    "email": "dep.fernandocoelhofilho@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 360797.49,
+  "quantidade_transacoes": 243,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 112230.73,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 31.11
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 63973.17,
+      "quantidade_transacoes": 54,
+      "porcentagem_do_total": 17.73
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 60844.73,
+      "quantidade_transacoes": 65,
+      "porcentagem_do_total": 16.86
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 60543.65,
+      "quantidade_transacoes": 76,
+      "porcentagem_do_total": 16.78
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 36000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 9.98
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Stellantis Locadora de Automóveis LTDA",
+      "cnpj": "17464972000130",
+      "total": 63351.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 17.56
+    },
+    {
+      "nome": "L. PRIORI INDUSTRIA E COMÉRCIO",
+      "cnpj": "10604155000190",
+      "total": 54000.0,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 14.97
+    },
+    {
+      "nome": "MOVIDA PARTICIPAÇÕES S.A",
+      "cnpj": "21314559025312",
+      "total": 48879.73,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 13.55
+    },
+    {
+      "nome": "CATAVENTO DERIVADOS DE PETROLEO LTDA - ME",
+      "cnpj": "14047235000143",
+      "total": 39702.44,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 11.0
+    },
+    {
+      "nome": "MONTEIRO EMPREENDIMENTOS LTDA",
+      "cnpj": "42700912000116",
+      "total": 36000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 9.98
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 33548.37,
+      "quantidade_transacoes": 42,
+      "porcentagem_do_total": 9.3
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 17081.77,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 4.73
+    },
+    {
+      "nome": "POSTO LETICIA PEREIRA E SANTOS LTDA",
+      "cnpj": "10997526000141",
+      "total": 13299.23,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 3.69
+    },
+    {
+      "nome": "Vinte e um filmes produtora audivisual",
+      "cnpj": "54115036000140",
+      "total": 10800.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.99
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 9913.51,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 2.75
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 41443.97,
+      "porcentagem_do_total": 11.49
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 31782.95,
+      "porcentagem_do_total": 8.81
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 48347.95,
+      "porcentagem_do_total": 13.4
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 42856.39,
+      "porcentagem_do_total": 11.88
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 33460.34,
+      "porcentagem_do_total": 9.27
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 37910.55,
+      "porcentagem_do_total": 10.51
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 34822.1,
+      "porcentagem_do_total": 9.65
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 28616.45,
+      "porcentagem_do_total": 7.93
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 31911.76,
+      "porcentagem_do_total": 8.84
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 29645.03,
+      "porcentagem_do_total": 8.22
+    }
+  ]
+}

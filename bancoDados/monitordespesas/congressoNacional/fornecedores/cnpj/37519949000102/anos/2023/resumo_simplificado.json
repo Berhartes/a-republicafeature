@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "MORADA AUTO POSTO LTDA",
+    "cnpj": "37519949000102",
+    "total_recebido": 466.25,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 466.25,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 466.25,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 466.25,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 215.04,
+      "porcentagem_do_total": 46.12
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 251.21,
+      "porcentagem_do_total": 53.88
+    }
+  ]
+}

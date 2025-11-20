@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "ABAST MENINO DEUS LTDA",
       "cnpj": "27164858000148",
-      "total_recebido": 200.0,
+      "total_recebido": 124.97,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:56:50.568863"
+    "generatedAt": "2025-11-11T05:22:18.575833"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 200.0
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 124.97
   },
   "anos": {
-    "2024": {
-      "total": 200.0,
+    "2023": {
+      "total": 124.97,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220549": {
+    "178835": {
       "deputado": {
-        "id": 220549,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220549",
-        "nome": "Any Ortiz",
-        "siglaPartido": "CIDADANIA",
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
+        "siglaPartido": "PDT",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
-        "email": "dep.anyortiz@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
       },
-      "total": 200.0,
+      "total": 124.97,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 6,
+          "ano": 2023,
+          "mes": 2,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7750648,
+          "codDocumento": 7497623,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-06-10T15:04:21",
-          "numDocumento": "223987",
-          "valorDocumento": 200.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7750648",
+          "dataDocumento": "2023-02-13T00:00:00",
+          "numDocumento": "52519",
+          "valorDocumento": 124.97,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7497623",
           "nomeFornecedor": "ABAST MENINO DEUS LTDA",
           "cnpjCpfFornecedor": "27164858000148",
-          "valorLiquido": 200.0,
+          "valorLiquido": 124.97,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

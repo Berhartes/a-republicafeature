@@ -1,13 +1,13 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "COMERCIAL DE COMBUST&Iacute;VEIS VIA PORTO LTDA.",
+      "nome": "COML COMB VIA PORTO LTDA",
       "cnpj": "08899620000116",
       "total_recebido": 600.0,
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:21.111750"
+    "generatedAt": "2025-11-11T05:22:19.851702"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 600.0
@@ -25,6 +25,7 @@
         "id": 178835,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
         "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
         "siglaPartido": "PDT",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -37,16 +38,16 @@
       "despesas": [
         {
           "ano": 2024,
-          "mes": 11,
+          "mes": 9,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7833826,
+          "codDocumento": 7801317,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-10-07T17:37:50",
-          "numDocumento": "2773323",
+          "dataDocumento": "2024-09-02T00:00:00",
+          "numDocumento": "2724905",
           "valorDocumento": 200.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7833826",
-          "nomeFornecedor": "COMERCIAL DE COMBUST&Iacute;VEIS VIA PORTO LTDA.",
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7801317",
+          "nomeFornecedor": "COML COMB VIA PORTO LTDA",
           "cnpjCpfFornecedor": "08899620000116",
           "valorLiquido": 200.0,
           "valorGlosa": 0.0,
@@ -75,16 +76,16 @@
         },
         {
           "ano": 2024,
-          "mes": 9,
+          "mes": 11,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7801317,
+          "codDocumento": 7833826,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-09-02T00:00:00",
-          "numDocumento": "2724905",
+          "dataDocumento": "2024-10-07T17:37:50",
+          "numDocumento": "2773323",
           "valorDocumento": 200.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7801317",
-          "nomeFornecedor": "COML COMB VIA PORTO LTDA",
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7833826",
+          "nomeFornecedor": "COMERCIAL DE COMBUST&Iacute;VEIS VIA PORTO LTDA.",
           "cnpjCpfFornecedor": "08899620000116",
           "valorLiquido": 200.0,
           "valorGlosa": 0.0,

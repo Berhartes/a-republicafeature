@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "SIM REDE DE POSTOS LTDA - POA CEARA",
       "cnpj": "07473735016266",
-      "total_recebido": 183.65,
+      "total_recebido": 210.53,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:59:09.817191"
+    "generatedAt": "2025-11-11T05:22:36.289039"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 183.65
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 210.53
   },
   "anos": {
     "2023": {
-      "total": 183.65,
+      "total": 210.53,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "178962": {
+    "220554": {
       "deputado": {
-        "id": 178962,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178962",
-        "nome": "Carlos Gomes",
-        "siglaPartido": "REPUBLICANOS",
+        "id": 220554,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+        "nome": "Alexandre Lindenmeyer",
+        "nomeEleitoral": "Alexandre Lindenmeyer",
+        "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
-        "email": null
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
+        "email": "dep.alexandrelindenmeyer@camara.leg.br"
       },
-      "total": 183.65,
+      "total": 210.53,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 8,
+          "mes": 9,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7599778,
+          "codDocumento": 7614282,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-08-12T00:00:00",
-          "numDocumento": "779917",
-          "valorDocumento": 183.65,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7599778",
+          "dataDocumento": "2023-09-26T00:00:00",
+          "numDocumento": "813808",
+          "valorDocumento": 210.53,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7614282",
           "nomeFornecedor": "SIM REDE DE POSTOS LTDA - POA CEARA",
           "cnpjCpfFornecedor": "07473735016266",
-          "valorLiquido": 183.65,
+          "valorLiquido": 210.53,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

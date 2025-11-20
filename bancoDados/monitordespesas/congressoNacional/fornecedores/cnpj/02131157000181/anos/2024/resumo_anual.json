@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "LANCHONETE E CHURRASCARIA TRES IRMÃOS",
+      "cnpj": "02131157000181",
+      "total_recebido": 120.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 120.0,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-06-27T00:00:00",
+    "periodo_fim": "2024-06-27T00:00:00",
+    "generatedAt": "2025-11-11T21:38:05.629009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 120.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS",
+      "total": 120.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 120.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS",
+      "codDocumento": 7772724,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-06-27T00:00:00",
+      "numDocumento": "003940",
+      "valorDocumento": 120.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7772724.pdf",
+      "nomeFornecedor": "LANCHONETE E CHURRASCARIA TRES IRMÃOS",
+      "cnpjCpfFornecedor": "02131157000181",
+      "valorLiquido": 120.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2058780,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

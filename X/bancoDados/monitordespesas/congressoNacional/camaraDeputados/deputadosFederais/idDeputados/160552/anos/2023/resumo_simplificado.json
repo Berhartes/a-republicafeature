@@ -1,0 +1,152 @@
+{
+  "deputado": {
+    "id": 160552,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160552",
+    "nome": "Danrlei de Deus Hinterholz",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "RS",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160552.jpg",
+    "email": "dep.danrleidedeushinterholz@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 70482.33,
+  "quantidade_transacoes": 98,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 27926.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 39.62
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 25811.46,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 36.62
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 7200.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 10.22
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 6839.09,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 9.7
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 2567.38,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.64
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 25811.46,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 36.62
+    },
+    {
+      "nome": "LH RENT A CAR EIRELI",
+      "cnpj": "15626876000115",
+      "total": 25426.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 36.07
+    },
+    {
+      "nome": "CARLOS ALBERTO DOS SANTOS",
+      "cnpj": "15064107072",
+      "total": 7200.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 10.22
+    },
+    {
+      "nome": "CELULAR FUNCIONAL",
+      "cnpj": "00000000000001",
+      "total": 2567.38,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.64
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 2500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.55
+    },
+    {
+      "nome": "AUTO POSTO TULIO FIG",
+      "cnpj": "75026807000798",
+      "total": 597.5,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.85
+    },
+    {
+      "nome": "POSTO DE COMB CAMINHO DO GOL LTDA",
+      "cnpj": "40921123000180",
+      "total": 488.17,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.69
+    },
+    {
+      "nome": "COML DE COMB VICTOR BARRETO LTDA EM RECUP JUDL",
+      "cnpj": "06019424000184",
+      "total": 455.23,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.65
+    },
+    {
+      "nome": "POSTO MAR DAS PEDRAS LTDA",
+      "cnpj": "22915775001100",
+      "total": 350.45,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.5
+    },
+    {
+      "nome": "IPI 1 ABASTECEDORA DE COMBUSTIVEIS LTDA",
+      "cnpj": "14089918000163",
+      "total": 310.58,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.44
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 17152.39,
+      "porcentagem_do_total": 24.34
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 27850.42,
+      "porcentagem_do_total": 39.51
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 782.97,
+      "porcentagem_do_total": 1.11
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 19832.74,
+      "porcentagem_do_total": 28.14
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 4863.81,
+      "porcentagem_do_total": 6.9
+    }
+  ]
+}

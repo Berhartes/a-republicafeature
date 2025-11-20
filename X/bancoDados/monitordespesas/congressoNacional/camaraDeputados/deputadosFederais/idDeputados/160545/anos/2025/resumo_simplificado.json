@@ -1,0 +1,134 @@
+{
+  "deputado": {
+    "id": 160545,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160545",
+    "nome": "Alexandre Leite",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160545.jpg",
+    "email": null
+  },
+  "ano": 2025,
+  "total_gasto": 38562.16,
+  "quantidade_transacoes": 23,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 30192.68,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 78.3
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 6077.07,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 15.76
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1409.51,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.66
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 622.98,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.62
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 259.92,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.67
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "RAUL IMÓVEIS - HARALAMOS BASSOUKOU",
+      "cnpj": "11367405000189",
+      "total": 28800.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 74.68
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 3893.68,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 10.1
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 2183.39,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 5.66
+    },
+    {
+      "nome": "ENEL - Eletropaulo Metropolitana Eletricidade de São Paulo S. A.",
+      "cnpj": "61695227000193",
+      "total": 900.94,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.34
+    },
+    {
+      "nome": "DRA4 DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "19257042000130",
+      "total": 829.51,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.15
+    },
+    {
+      "nome": "TELEFONICA BRASIL S/A",
+      "cnpj": "02558157000162",
+      "total": 622.98,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.62
+    },
+    {
+      "nome": "RP Comercio de Copiadoras - Ltda",
+      "cnpj": "09559739000102",
+      "total": 491.74,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.28
+    },
+    {
+      "nome": "AUTO POSTO PORTAL DE INTERLAGOS LTDA",
+      "cnpj": "10203913000169",
+      "total": 380.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.99
+    },
+    {
+      "nome": "RPW Monitoramento e Serviços LTDA - EPP",
+      "cnpj": "22378694000138",
+      "total": 259.92,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.67
+    },
+    {
+      "nome": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597003112",
+      "total": 200.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.52
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 18721.54,
+      "porcentagem_do_total": 48.55
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 19840.62,
+      "porcentagem_do_total": 51.45
+    }
+  ]
+}

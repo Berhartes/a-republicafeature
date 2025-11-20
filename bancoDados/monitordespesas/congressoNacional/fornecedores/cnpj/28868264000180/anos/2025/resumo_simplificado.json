@@ -1,0 +1,54 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO CONCORDE LTDA",
+    "cnpj": "28868264000180",
+    "total_recebido": 700.0,
+    "numero_transacoes": 7,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 700.0,
+  "quantidade_transacoes": 7,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 700.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 700.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 200.0,
+      "porcentagem_do_total": 28.57
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 200.0,
+      "porcentagem_do_total": 28.57
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 200.0,
+      "porcentagem_do_total": 28.57
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 100.0,
+      "porcentagem_do_total": 14.29
+    }
+  ]
+}
