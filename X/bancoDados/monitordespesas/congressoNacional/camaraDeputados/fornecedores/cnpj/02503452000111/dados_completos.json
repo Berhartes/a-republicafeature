@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Matsuse Comercio de Derivados de Petroleo Ltda",
+      "cnpj": "02503452000111",
+      "total_recebido": 422.75,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:22.247642"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 422.75
+  },
+  "anos": {
+    "2023": {
+      "total": 422.75,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220542": {
+      "deputado": {
+        "id": 220542,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
+        "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
+        "email": "dep.alexandreguimaraes@camara.leg.br"
+      },
+      "total": 422.75,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7639413,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-06T00:00:00",
+          "numDocumento": "486847",
+          "valorDocumento": 422.75,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7639413",
+          "nomeFornecedor": "Matsuse Comercio de Derivados de Petroleo Ltda",
+          "cnpjCpfFornecedor": "02503452000111",
+          "valorLiquido": 422.75,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

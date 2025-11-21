@@ -3,95 +3,53 @@
     "fornecedor": {
       "nome": "COMERCIO DE COMBUSTIVEIS FLORESTAL LTDA",
       "cnpj": "02558109000921",
-      "total_recebido": 732.52,
-      "numero_transacoes": 3,
+      "total_recebido": 180.69,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.292969"
+    "generatedAt": "2025-11-11T05:22:18.555005"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 732.52
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 180.69
   },
   "anos": {
     "2023": {
-      "total": 580.37,
-      "transacoes": 2,
-      "deputados": 1
-    },
-    "2024": {
-      "total": 152.15,
+      "total": 180.69,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "136811": {
+    "178835": {
       "deputado": {
-        "id": 136811,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
-        "nome": "Afonso Hamm",
-        "siglaPartido": "PP",
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
+        "siglaPartido": "PDT",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
-        "email": "dep.afonsohamm@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
       },
-      "total": 732.52,
-      "transacoes": 3,
+      "total": 180.69,
+      "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 11,
+          "mes": 2,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7656080,
+          "codDocumento": 7495234,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-11-30T00:00:00",
-          "numDocumento": "692740",
-          "valorDocumento": 189.35,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7656080",
+          "dataDocumento": "2023-02-06T00:00:00",
+          "numDocumento": "563944",
+          "valorDocumento": 180.69,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7495234",
           "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS FLORESTAL LTDA",
           "cnpjCpfFornecedor": "02558109000921",
-          "valorLiquido": 189.35,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7614710,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-09-19T00:00:00",
-          "numDocumento": "652460",
-          "valorDocumento": 391.02,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7614710",
-          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS FLORESTAL LTDA",
-          "cnpjCpfFornecedor": "02558109000921",
-          "valorLiquido": 391.02,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7817767,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-09-08T21:17:47",
-          "numDocumento": "848827",
-          "valorDocumento": 152.15,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7817767",
-          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS FLORESTAL LTDA",
-          "cnpjCpfFornecedor": "02558109000921",
-          "valorLiquido": 152.15,
+          "valorLiquido": 180.69,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

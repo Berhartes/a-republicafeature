@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "neli nunes",
+      "cnpj": "14118747000153",
+      "total_recebido": 5000.0,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:17.549101"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 5000.0
+  },
+  "anos": {
+    "2023": {
+      "total": 4500.0,
+      "transacoes": 6,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 500.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160559": {
+      "deputado": {
+        "id": 160559,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
+        "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
+        "email": "dep.alceumoreira@camara.leg.br"
+      },
+      "total": 5000.0,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7505106,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-02T00:00:00",
+          "numDocumento": "326",
+          "valorDocumento": 1200.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2379/2023/7505106.pdf",
+          "nomeFornecedor": "neli nunes",
+          "cnpjCpfFornecedor": "14118747000153",
+          "valorLiquido": 1200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7505109,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-02T00:00:00",
+          "numDocumento": "325",
+          "valorDocumento": 1200.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2379/2023/7505109.pdf",
+          "nomeFornecedor": "neli nunes",
+          "cnpjCpfFornecedor": "14118747000153",
+          "valorLiquido": 1200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7534341,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-24T00:00:00",
+          "numDocumento": "342",
+          "valorDocumento": 400.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2379/2023/7534341.pdf",
+          "nomeFornecedor": "neli nunes",
+          "cnpjCpfFornecedor": "14118747000153",
+          "valorLiquido": 400.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7589924,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-11T00:00:00",
+          "numDocumento": "368",
+          "valorDocumento": 600.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2379/2023/7589924.pdf",
+          "nomeFornecedor": "neli nunes",
+          "cnpjCpfFornecedor": "14118747000153",
+          "valorLiquido": 600.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7610095,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-14T00:00:00",
+          "numDocumento": "386",
+          "valorDocumento": 600.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2379/2023/7610095.pdf",
+          "nomeFornecedor": "neli nunes",
+          "cnpjCpfFornecedor": "14118747000153",
+          "valorLiquido": 600.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7642475,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-13T00:00:00",
+          "numDocumento": "402",
+          "valorDocumento": 500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2379/2023/7642475.pdf",
+          "nomeFornecedor": "neli nunes",
+          "cnpjCpfFornecedor": "14118747000153",
+          "valorLiquido": 500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7849614,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-02T00:00:00",
+          "numDocumento": "549",
+          "valorDocumento": 500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2379/2024/7849614.pdf",
+          "nomeFornecedor": "neli nunes",
+          "cnpjCpfFornecedor": "14118747000153",
+          "valorLiquido": 500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

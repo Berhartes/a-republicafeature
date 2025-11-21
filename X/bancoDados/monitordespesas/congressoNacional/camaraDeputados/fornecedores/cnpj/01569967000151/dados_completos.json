@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO MOTIVACAO LTDA",
+      "cnpj": "01569967000151",
+      "total_recebido": 100.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:27.746954"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 100.0
+  },
+  "anos": {
+    "2025": {
+      "total": 100.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178927": {
+      "deputado": {
+        "id": 178927,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
+        "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
+        "siglaPartido": "PV",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+        "email": "dep.alielmachado@camara.leg.br"
+      },
+      "total": 100.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7968900,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-19T00:00:00",
+          "numDocumento": "1957596",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7968900",
+          "nomeFornecedor": "AUTO POSTO MOTIVACAO LTDA",
+          "cnpjCpfFornecedor": "01569967000151",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

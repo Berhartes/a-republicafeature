@@ -1,0 +1,158 @@
+{
+  "deputado": {
+    "id": 226179,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226179",
+    "nome": "Gisela Simona",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "MT",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226179.jpg",
+    "email": "dep.giselasimona@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 209875.49,
+  "quantidade_transacoes": 163,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 117067.84,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 55.78
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 37120.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 17.69
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 17615.5,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 8.39
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 14766.9,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 7.04
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 11466.9,
+      "quantidade_transacoes": 55,
+      "porcentagem_do_total": 5.46
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "SC ASSESSORIA DE COMUNICACAO LTDA",
+      "cnpj": "40586258000136",
+      "total": 63530.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 30.27
+    },
+    {
+      "nome": "HF COMUNICACAO ESTRATEGIA E ASSESSORIA DE IMPRENSALTDA",
+      "cnpj": "35592729000189",
+      "total": 34838.7,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 16.6
+    },
+    {
+      "nome": "Iza Carla Silva Santa Brigida - ME",
+      "cnpj": "21891589000135",
+      "total": 25200.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 12.01
+    },
+    {
+      "nome": "STELMAT TELEINFORMATICA LTDA",
+      "cnpj": "00950386000100",
+      "total": 14535.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 6.93
+    },
+    {
+      "nome": "REDE BRASIL CUIABA DINAMICA AUTOMOTORES",
+      "cnpj": "19376436000108",
+      "total": 8760.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 4.17
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 8735.8,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 4.16
+    },
+    {
+      "nome": "A.L VEDANA LTDA ZEEPE DIGITAL",
+      "cnpj": "40403437000190",
+      "total": 7350.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.5
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 6937.99,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 3.31
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 6044.25,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.88
+    },
+    {
+      "nome": "MARIA FERNANDA ESPOSITO SANTIN GOW DESIGN",
+      "cnpj": "45192053000190",
+      "total": 6000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 2.86
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 34736.95,
+      "porcentagem_do_total": 16.55
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 35426.84,
+      "porcentagem_do_total": 16.88
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 43463.34,
+      "porcentagem_do_total": 20.71
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 39000.11,
+      "porcentagem_do_total": 18.58
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 34187.54,
+      "porcentagem_do_total": 16.29
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 23060.71,
+      "porcentagem_do_total": 10.99
+    }
+  ]
+}

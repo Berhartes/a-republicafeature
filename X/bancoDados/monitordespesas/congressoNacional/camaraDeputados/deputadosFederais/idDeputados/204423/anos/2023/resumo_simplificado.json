@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 204423,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204423",
+    "nome": "André Ferreira",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "PE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204423.jpg",
+    "email": "dep.andreferreira@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 585605.89,
+  "quantidade_transacoes": 536,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 223728.0,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 38.2
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 134115.0,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 22.9
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 91554.44,
+      "quantidade_transacoes": 116,
+      "porcentagem_do_total": 15.63
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 68079.38,
+      "quantidade_transacoes": 254,
+      "porcentagem_do_total": 11.63
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 59287.56,
+      "quantidade_transacoes": 77,
+      "porcentagem_do_total": 10.12
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "PROSPER - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS",
+      "cnpj": "00185146000159",
+      "total": 168000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 28.69
+    },
+    {
+      "nome": "HPE AUTOMOTORES DO BRASIL LTDA",
+      "cnpj": "46054009000186",
+      "total": 97300.0,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 16.62
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 43093.7,
+      "quantidade_transacoes": 54,
+      "porcentagem_do_total": 7.36
+    },
+    {
+      "nome": "RADIO BETEL LTDA-ME",
+      "cnpj": "12793832000191",
+      "total": 35000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 5.98
+    },
+    {
+      "nome": "COND. EMPRES. ILHA DO LEITE",
+      "cnpj": "01834611000106",
+      "total": 30554.0,
+      "quantidade_transacoes": 43,
+      "porcentagem_do_total": 5.22
+    },
+    {
+      "nome": "IDA KITOVER",
+      "cnpj": "19803591487",
+      "total": 30000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 5.12
+    },
+    {
+      "nome": "ALMEIDA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "02070333000112",
+      "total": 24168.55,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 4.13
+    },
+    {
+      "nome": "LOCADORA DE VEÍCULOS CAXANGÁ LTDA",
+      "cnpj": "00329696000102",
+      "total": 23200.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.96
+    },
+    {
+      "nome": "Virginia de França Dantas",
+      "cnpj": "02609816480",
+      "total": 16800.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 2.87
+    },
+    {
+      "nome": "Bruno Leite Pessoa de Andrade Grafica",
+      "cnpj": "30797904000150",
+      "total": 14900.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.54
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 9921.44,
+      "porcentagem_do_total": 1.69
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 40794.85,
+      "porcentagem_do_total": 6.97
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 41551.1,
+      "porcentagem_do_total": 7.1
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 44758.02,
+      "porcentagem_do_total": 7.64
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 52162.53,
+      "porcentagem_do_total": 8.91
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 47641.26,
+      "porcentagem_do_total": 8.14
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 49431.59,
+      "porcentagem_do_total": 8.44
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 50169.89,
+      "porcentagem_do_total": 8.57
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 67906.9,
+      "porcentagem_do_total": 11.6
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 58831.69,
+      "porcentagem_do_total": 10.05
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 42238.76,
+      "porcentagem_do_total": 7.21
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 80197.86,
+      "porcentagem_do_total": 13.69
+    }
+  ]
+}

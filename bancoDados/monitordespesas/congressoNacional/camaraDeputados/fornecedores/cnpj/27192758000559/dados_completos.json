@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:34.202470"
+    "generatedAt": "2025-11-11T05:22:43.886024"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 397.38
@@ -25,6 +25,7 @@
         "id": 226708,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
         "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "MA",
@@ -35,25 +36,6 @@
       "total": 397.38,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2025,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7975911,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-09-02T00:00:00",
-          "numDocumento": "475165",
-          "valorDocumento": 225.2,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7975911",
-          "nomeFornecedor": "AGUIAR PETROLEO E LOCACOES LTDA CASTELAO",
-          "cnpjCpfFornecedor": "27192758000559",
-          "valorLiquido": 225.2,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2025,
           "mes": 8,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "AGUIAR PETROLEO E LOCACOES LTDA CASTELAO",
           "cnpjCpfFornecedor": "27192758000559",
           "valorLiquido": 172.18,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7975911,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-02T00:00:00",
+          "numDocumento": "475165",
+          "valorDocumento": 225.2,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7975911",
+          "nomeFornecedor": "AGUIAR PETROLEO E LOCACOES LTDA CASTELAO",
+          "cnpjCpfFornecedor": "27192758000559",
+          "valorLiquido": 225.2,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

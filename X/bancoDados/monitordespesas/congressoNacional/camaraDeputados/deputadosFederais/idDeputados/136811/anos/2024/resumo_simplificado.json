@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 136811,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+    "nome": "Afonso Hamm",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "RS",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+    "email": "dep.afonsohamm@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 115390.61,
+  "quantidade_transacoes": 358,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 67784.46,
+      "quantidade_transacoes": 89,
+      "porcentagem_do_total": 58.74
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 47606.15,
+      "quantidade_transacoes": 269,
+      "porcentagem_do_total": 41.26
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "FUND BANRISUL DE SEGURIDADE",
+      "cnpj": "92811959000125",
+      "total": 32897.83,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 28.51
+    },
+    {
+      "nome": "NOVOLAR IMOVEIS CP",
+      "cnpj": "10322198000183",
+      "total": 14159.42,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 12.27
+    },
+    {
+      "nome": ".COM LOCAÇÕES",
+      "cnpj": "53660043000160",
+      "total": 8531.05,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 7.39
+    },
+    {
+      "nome": "NTA - NUCLEO TECNICO DE APOIO E SERVICOS DE EVENTOS LTDA",
+      "cnpj": "15310946000121",
+      "total": 4400.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 3.81
+    },
+    {
+      "nome": "ABASTECEDORA MANIA LTDA",
+      "cnpj": "05282433000109",
+      "total": 2896.52,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 2.51
+    },
+    {
+      "nome": "POSTO CINTURAO DE COMBUSTIVEIS LTDA",
+      "cnpj": "91294256000104",
+      "total": 2725.85,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 2.36
+    },
+    {
+      "nome": "Comercio de Combustiveis Avenida Ltda - Duque",
+      "cnpj": "01378099000122",
+      "total": 2704.65,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 2.34
+    },
+    {
+      "nome": "IPNET SERVICOS EM NUVEM E DESENVOLVIMENTO DE SISTEMAS",
+      "cnpj": "32578382000121",
+      "total": 2450.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 2.12
+    },
+    {
+      "nome": "ABASTECEDORA ABM LTDA",
+      "cnpj": "89470462000690",
+      "total": 2354.77,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 2.04
+    },
+    {
+      "nome": "Claro NXT Telecomunicações S.A",
+      "cnpj": "66970229000671",
+      "total": 1855.68,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.61
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 7077.33,
+      "porcentagem_do_total": 6.13
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 9477.32,
+      "porcentagem_do_total": 8.21
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 12222.45,
+      "porcentagem_do_total": 10.59
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 11858.74,
+      "porcentagem_do_total": 10.28
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 8773.3,
+      "porcentagem_do_total": 7.6
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 11981.28,
+      "porcentagem_do_total": 10.38
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 11186.22,
+      "porcentagem_do_total": 9.69
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 13010.01,
+      "porcentagem_do_total": 11.27
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 10357.42,
+      "porcentagem_do_total": 8.98
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 9441.49,
+      "porcentagem_do_total": 8.18
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 5187.38,
+      "porcentagem_do_total": 4.5
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 4817.67,
+      "porcentagem_do_total": 4.18
+    }
+  ]
+}

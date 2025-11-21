@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "POSTO DE COMBUSTIVEL ABASTECE VIA 040 LTDA",
+    "cnpj": "53177464000134",
+    "total_recebido": 359.99,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 359.99,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 359.99,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 359.99,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 359.99,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

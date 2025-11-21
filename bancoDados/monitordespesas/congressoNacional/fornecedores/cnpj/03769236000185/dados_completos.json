@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ATHENAS GRÁFICA E EDITORA LTDA",
+      "cnpj": "03769236000185",
+      "total_recebido": 72800.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:03.243007"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": 72800.0
+  },
+  "anos": {
+    "2023": {
+      "total": 45000.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 27800.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 72800.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7660023,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-11T00:00:00",
+          "numDocumento": "9786",
+          "valorDocumento": 45000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7660023.pdf",
+          "nomeFornecedor": "ATHENAS GRÁFICA E EDITORA LTDA",
+          "cnpjCpfFornecedor": "03769236000185",
+          "valorLiquido": 45000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1997542,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7752373,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-11T00:00:00",
+          "numDocumento": "010140",
+          "valorDocumento": 27800.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7752373.pdf",
+          "nomeFornecedor": "ATHENAS GRÁFICA E EDITORA LTDA",
+          "cnpjCpfFornecedor": "03769236000185",
+          "valorLiquido": 27800.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2048407,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

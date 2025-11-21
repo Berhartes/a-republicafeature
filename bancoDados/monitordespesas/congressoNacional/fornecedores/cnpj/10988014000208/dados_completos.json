@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AMAZON COMBUSTIVEIS PARA VEICULOS E CONSTRUCOES LTDA",
+      "cnpj": "10988014000208",
+      "total_recebido": 300.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:59.804010"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 300.0
+  },
+  "anos": {
+    "2023": {
+      "total": 150.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 150.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220714": {
+      "deputado": {
+        "id": 220714,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220714",
+        "nome": "Adail Filho",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+        "siglaUf": "AM",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
+        "email": "dep.adailfilho@camara.leg.br"
+      },
+      "total": 300.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7645847,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-11-21T00:00:00",
+          "numDocumento": "367425",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7645847",
+          "nomeFornecedor": "AMAZON COMBUSTIVEIS PARA VEICULOS E CONSTRUCOES LTDA",
+          "cnpjCpfFornecedor": "10988014000208",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1989502,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7672124,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-01-09T00:00:00",
+          "numDocumento": "372795",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7672124",
+          "nomeFornecedor": "AMAZON COMBUSTIVEIS PARA VEICULOS E CONSTRUCOES LTDA",
+          "cnpjCpfFornecedor": "10988014000208",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2004193,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

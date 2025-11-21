@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 204368,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204368",
+    "nome": "Fabio Schiochet",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "SC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204368.jpg",
+    "email": "dep.fabioschiochet@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 21141.31,
+  "quantidade_transacoes": 79,
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 17641.31,
+      "quantidade_transacoes": 69,
+      "porcentagem_do_total": 83.44
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 3500.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 16.56
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Auto Abastecedora do Caza Ltda",
+      "cnpj": "04589335000148",
+      "total": 6052.82,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 28.63
+    },
+    {
+      "nome": "Ranusia Moreira Gouveia de Moura e Oliveira",
+      "cnpj": "39267051000110",
+      "total": 3500.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 16.56
+    },
+    {
+      "nome": "AUTO POSTO AEROPORTO LTDA",
+      "cnpj": "08202116000115",
+      "total": 1429.39,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 6.76
+    },
+    {
+      "nome": "ABASTECEDORA FAE LTDA",
+      "cnpj": "03421119001017",
+      "total": 1283.54,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.07
+    },
+    {
+      "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+      "cnpj": "00692418002312",
+      "total": 1027.77,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 4.86
+    },
+    {
+      "nome": "AUTO POSTO DUBAI LTDA",
+      "cnpj": "11254673000194",
+      "total": 880.01,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 4.16
+    },
+    {
+      "nome": "AUTO POSTO CONCORDE LTDA",
+      "cnpj": "28868264000180",
+      "total": 585.24,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.77
+    },
+    {
+      "nome": "AUTO POSTO COLPANI LTDA",
+      "cnpj": "01925729000131",
+      "total": 537.07,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.54
+    },
+    {
+      "nome": "Abastecedora e Transportes LD LTDA",
+      "cnpj": "06867180000190",
+      "total": 503.03,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.38
+    },
+    {
+      "nome": "AUTO POSTO DAMINELLI LTDA - FILIAL 01 IPIRANGA",
+      "cnpj": "78522125000250",
+      "total": 500.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.37
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 827.13,
+      "porcentagem_do_total": 3.91
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 2017.0,
+      "porcentagem_do_total": 9.54
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 3099.14,
+      "porcentagem_do_total": 14.66
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 2029.56,
+      "porcentagem_do_total": 9.6
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 2353.88,
+      "porcentagem_do_total": 11.13
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 1337.82,
+      "porcentagem_do_total": 6.33
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 1753.96,
+      "porcentagem_do_total": 8.3
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 1887.78,
+      "porcentagem_do_total": 8.93
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 3219.06,
+      "porcentagem_do_total": 15.23
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 1864.44,
+      "porcentagem_do_total": 8.82
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 751.54,
+      "porcentagem_do_total": 3.55
+    }
+  ]
+}

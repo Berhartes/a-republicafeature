@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "DENYS ANTONIO ABDALA TUMA",
+      "cnpj": "84659879001140",
+      "total_recebido": 1392.3300000000002,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 264.17,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-02-01T12:06:57",
+    "periodo_fim": "2025-02-01T12:06:57",
+    "generatedAt": "2025-11-11T21:38:00.323008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 264.17,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 264.17,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 264.17,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7864285,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-02-01T12:06:57",
+      "numDocumento": "27538",
+      "valorDocumento": 264.17,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7864285",
+      "nomeFornecedor": "DENYS ANTONIO ABDALA TUMA LTDA",
+      "cnpjCpfFornecedor": "84659879001140",
+      "valorLiquido": 264.17,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2107716,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

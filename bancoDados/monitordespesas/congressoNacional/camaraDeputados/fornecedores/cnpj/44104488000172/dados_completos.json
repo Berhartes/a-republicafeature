@@ -7,7 +7,7 @@
       "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.314364"
+    "generatedAt": "2025-11-11T05:22:12.305221"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 400.0
@@ -30,6 +30,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -40,25 +41,6 @@
       "total": 400.0,
       "transacoes": 4,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 5,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7534123,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-05-01T00:00:00",
-          "numDocumento": "19971",
-          "valorDocumento": 100.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7534123",
-          "nomeFornecedor": "POSTO DE COMBUSTIVEIS M RIBEIRO GOIANIA LTDA",
-          "cnpjCpfFornecedor": "44104488000172",
-          "valorLiquido": 100.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 5,
@@ -79,17 +61,17 @@
           "parcela": 0
         },
         {
-          "ano": 2025,
-          "mes": 10,
+          "ano": 2023,
+          "mes": 5,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 8000715,
+          "codDocumento": 7534123,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-10-17T11:29:27",
-          "numDocumento": "142553",
+          "dataDocumento": "2023-05-01T00:00:00",
+          "numDocumento": "19971",
           "valorDocumento": 100.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8000715",
-          "nomeFornecedor": "POSTO DE COMBUSTIVEIS M RIBEIRO GOIANIA LTDA - T7",
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7534123",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS M RIBEIRO GOIANIA LTDA",
           "cnpjCpfFornecedor": "44104488000172",
           "valorLiquido": 100.0,
           "valorGlosa": 0.0,
@@ -111,6 +93,25 @@
           "nomeFornecedor": "POSTO DE COMBUSTIVEIS M RIBEIRO GOIANIA LTDA - T7",
           "cnpjCpfFornecedor": "44104488000172",
           "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 8000715,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-17T11:29:27",
+          "numDocumento": "142553",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8000715",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS M RIBEIRO GOIANIA LTDA - T7",
+          "cnpjCpfFornecedor": "44104488000172",
+          "valorLiquido": 100.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

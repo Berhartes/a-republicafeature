@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 204408,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204408",
+    "nome": "Gustinho Ribeiro",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "SE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204408.jpg",
+    "email": "dep.gustinhoribeiro@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 483896.94,
+  "quantidade_transacoes": 137,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 261900.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 54.12
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 113596.94,
+      "quantidade_transacoes": 113,
+      "porcentagem_do_total": 23.48
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 101600.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 21.0
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 6800.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 1.41
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Austregesilo Junior Aragão Melo",
+      "cnpj": "08492189000199",
+      "total": 164900.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 34.08
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 99010.49,
+      "quantidade_transacoes": 102,
+      "porcentagem_do_total": 20.46
+    },
+    {
+      "nome": "CDC SERVIÇOS E LOCAÇÕES LTDA",
+      "cnpj": "37281119000190",
+      "total": 88900.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 18.37
+    },
+    {
+      "nome": "G2 AGENCIA DE PUBLICIDADE PROPAGANDA E COMUNICAÇÃO VISUAL LTDA",
+      "cnpj": "09121359000191",
+      "total": 60000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 12.4
+    },
+    {
+      "nome": "G2 AGENCIA DE PUBLICIDADE PROPAGANDA E COMUNICACAO VISUAL LTDA",
+      "cnpj": "09121359000191",
+      "total": 30000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 6.2
+    },
+    {
+      "nome": "C D C SERVICOS E LOCACOES LTDA",
+      "cnpj": "37281119000190",
+      "total": 12700.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.62
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 11050.97,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 2.28
+    },
+    {
+      "nome": "INSTITUTO FRANCA DE PESQUISAS LTDA",
+      "cnpj": "24899123000174",
+      "total": 7000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.45
+    },
+    {
+      "nome": "BROADBRASIL LTDA",
+      "cnpj": "48949641000113",
+      "total": 4250.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 0.88
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 3535.48,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.73
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 20617.47,
+      "porcentagem_do_total": 4.26
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 20504.76,
+      "porcentagem_do_total": 4.24
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 28488.2,
+      "porcentagem_do_total": 5.89
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 40224.96,
+      "porcentagem_do_total": 8.31
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 39286.38,
+      "porcentagem_do_total": 8.12
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 50413.47,
+      "porcentagem_do_total": 10.42
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 18975.52,
+      "porcentagem_do_total": 3.92
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 32705.92,
+      "porcentagem_do_total": 6.76
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 17235.58,
+      "porcentagem_do_total": 3.56
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 25456.45,
+      "porcentagem_do_total": 5.26
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 189988.23,
+      "porcentagem_do_total": 39.26
+    }
+  ]
+}

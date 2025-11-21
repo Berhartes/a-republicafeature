@@ -1,0 +1,158 @@
+{
+  "deputado": {
+    "id": 178905,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178905",
+    "nome": "Fabio Garcia",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "MT",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178905.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 119484.07,
+  "quantidade_transacoes": 133,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 38916.07,
+      "quantidade_transacoes": 60,
+      "porcentagem_do_total": 32.57
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 38080.24,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 31.87
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 16609.16,
+      "quantidade_transacoes": 49,
+      "porcentagem_do_total": 13.9
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 15820.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 13.24
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 10058.6,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 8.42
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 20051.09,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 16.78
+    },
+    {
+      "nome": "HF COMUNICACAO ESTRATEGIA E ASSESSORIA DE IMPRENSALTDA",
+      "cnpj": "35592729000189",
+      "total": 18000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 15.06
+    },
+    {
+      "nome": "Iza Carla Silva Santa Brigida - ME",
+      "cnpj": "21891589000135",
+      "total": 11620.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 9.73
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 11507.81,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 9.63
+    },
+    {
+      "nome": "STELMAT TELEINFORMATICA LTDA",
+      "cnpj": "00950386000100",
+      "total": 8160.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 6.83
+    },
+    {
+      "nome": "Facebook Serviços Online do Brasil",
+      "cnpj": "13347016000117",
+      "total": 7648.57,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.4
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 7357.17,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 6.16
+    },
+    {
+      "nome": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.",
+      "cnpj": "13347016000117",
+      "total": 6131.67,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.13
+    },
+    {
+      "nome": "IZA CARLA SILVA SANTA BRIGIDA",
+      "cnpj": "21891589000135",
+      "total": 4200.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.52
+    },
+    {
+      "nome": "AUTO POSTO 305 SUL LTDA",
+      "cnpj": "32085527000152",
+      "total": 3388.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 2.84
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 3929.88,
+      "porcentagem_do_total": 3.29
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 19967.9,
+      "porcentagem_do_total": 16.71
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 25824.76,
+      "porcentagem_do_total": 21.61
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 29336.45,
+      "porcentagem_do_total": 24.55
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 29957.27,
+      "porcentagem_do_total": 25.07
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 10467.81,
+      "porcentagem_do_total": 8.76
+    }
+  ]
+}

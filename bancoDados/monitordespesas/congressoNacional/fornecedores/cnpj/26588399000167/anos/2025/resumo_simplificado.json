@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "PORTELA AUTO POSTO LTDA",
+    "cnpj": "26588399000167",
+    "total_recebido": 3906.23,
+    "numero_transacoes": 10,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 200.0,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 200.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 200.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 100.0,
+      "porcentagem_do_total": 50.0
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 100.0,
+      "porcentagem_do_total": 50.0
+    }
+  ]
+}

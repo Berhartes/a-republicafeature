@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ROSARIO PARQUE",
+      "cnpj": "86861986000290",
+      "total_recebido": 340.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-07T05:43:12.169992"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 340.0
+  },
+  "anos": {
+    "2025": {
+      "total": 340.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178835": {
+      "deputado": {
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
+      },
+      "total": 340.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7971938,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-25T00:00:00",
+          "numDocumento": "202500000016070",
+          "valorDocumento": 170.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2880/2025/7971938.pdf",
+          "nomeFornecedor": "ROSARIO PARQUE",
+          "cnpjCpfFornecedor": "86861986000290",
+          "valorLiquido": 170.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7971943,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-25T00:00:00",
+          "numDocumento": "202500000016071",
+          "valorDocumento": 170.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2880/2025/7971943.pdf",
+          "nomeFornecedor": "ROSARIO PARQUE",
+          "cnpjCpfFornecedor": "86861986000290",
+          "valorLiquido": 170.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

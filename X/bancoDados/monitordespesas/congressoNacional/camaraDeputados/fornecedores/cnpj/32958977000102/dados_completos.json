@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MEINKE&CIA",
+      "cnpj": "32958977000102",
+      "total_recebido": 133.03,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:02.782477"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 133.03
+  },
+  "anos": {
+    "2023": {
+      "total": 133.03,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 133.03,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7507505,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-04T00:00:00",
+          "numDocumento": "10138",
+          "valorDocumento": 133.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7507505",
+          "nomeFornecedor": "MEINKE&CIA",
+          "cnpjCpfFornecedor": "32958977000102",
+          "valorLiquido": 133.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

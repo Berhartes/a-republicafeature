@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO AEROPORTO DE RIBEIRAO PRETO LTDA",
+      "cnpj": "26751155000153",
+      "total_recebido": 769.9200000000001,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 395.37,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-10-11T00:00:00",
+    "periodo_fim": "2023-11-23T00:00:00",
+    "generatedAt": "2025-11-11T21:38:02.958011"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 395.37,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 395.37,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 97.33,
+      "porcentagem_do_total": 24.62
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 298.04,
+      "porcentagem_do_total": 75.38
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7627834,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-10-11T00:00:00",
+      "numDocumento": "288468",
+      "valorDocumento": 97.33,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7627834.pdf",
+      "nomeFornecedor": "POSTO AEROPORTO DE RIBEIRAO PRETO LTDA",
+      "cnpjCpfFornecedor": "26751155000153",
+      "valorLiquido": 97.33,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1979332,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7651155,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-11-23T00:00:00",
+      "numDocumento": "342622",
+      "valorDocumento": 298.04,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7651155.pdf",
+      "nomeFornecedor": "POSTO AEROPORTO DE RIBEIRAO PRETO LTDA",
+      "cnpjCpfFornecedor": "26751155000153",
+      "valorLiquido": 298.04,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1992161,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

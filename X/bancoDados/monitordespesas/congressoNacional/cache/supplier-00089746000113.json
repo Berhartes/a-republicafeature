@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:12:06Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00089746000113"
+  },
+  "data": {
+    "cnpj": "00089746000113",
+    "nome": "ARAUJO PETROLEO LTDA",
+    "nomeFornecedor": "ARAUJO PETROLEO LTDA",
+    "totalTransacionado": 400.03,
+    "totalRecebido": 400.03,
+    "totalRecebidoTodos": 400.03,
+    "transacoes": 1,
+    "numeroTransacoes": 1,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [
+      {
+        "id": "133439",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 400.03,
+        "transacoes": 1
+      }
+    ],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 400.03,
+        "quantidade": 1
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 400.03,
+        "quantidade": 1
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 400.03,
+        "transacoes": 1,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 400.03,
+        "ano": 2023,
+        "mes": 9,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "349815",
+        "dataDocumento": "2023-09-14T00:00:00",
+        "deputadoId": "133439",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 400.03,
+        "valorLiquido": 400.03,
+        "valorDocumento": 400.03,
+        "ano": 2023,
+        "mes": 9,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2023-09-14T00:00:00",
+        "data": "2023-09-14T00:00:00",
+        "numDocumento": "349815",
+        "codDocumento": 7610117,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2023/7610117.pdf",
+        "deputadoId": "133439",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "ARAUJO PETROLEO LTDA",
+        "cnpj": "00089746000113",
+        "urlDocumentoPdf": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2023/7610117.pdf"
+      }
+    ],
+    "totalTransacoesDetalhadas": 1,
+    "aliases": [
+      "00089746000113"
+    ],
+    "temDetalhes": true
+  }
+}

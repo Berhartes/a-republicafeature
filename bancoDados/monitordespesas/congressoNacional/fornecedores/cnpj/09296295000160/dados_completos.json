@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Cia Aérea - AZUL",
+      "cnpj": "09296295000160",
+      "total_recebido": 9188.15,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:04.255010"
+  },
+  "categorias": {
+    "PASSAGEM AÉREA - RPA": 9188.15
+  },
+  "anos": {
+    "2023": {
+      "total": 4728.38,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 4459.77,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 9188.15,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "PASSAGEM AÉREA - RPA",
+          "codDocumento": 1776776,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-23T00:00:00",
+          "numDocumento": "Bilhete: II4V4J",
+          "valorDocumento": 1600.15,
+          "urlDocumento": null,
+          "nomeFornecedor": "Cia Aérea - AZUL",
+          "cnpjCpfFornecedor": "09296295000160",
+          "valorLiquido": 1600.15,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "0",
+          "codLote": 0,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "PASSAGEM AÉREA - RPA",
+          "codDocumento": 1776556,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-14T00:00:00",
+          "numDocumento": "Bilhete: WP2FVX",
+          "valorDocumento": 1315.92,
+          "urlDocumento": null,
+          "nomeFornecedor": "Cia Aérea - AZUL",
+          "cnpjCpfFornecedor": "09296295000160",
+          "valorLiquido": 1315.92,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "0",
+          "codLote": 0,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "PASSAGEM AÉREA - RPA",
+          "codDocumento": 1776810,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-12T00:00:00",
+          "numDocumento": "Bilhete: XD8DRB",
+          "valorDocumento": 1812.31,
+          "urlDocumento": null,
+          "nomeFornecedor": "Cia Aérea - AZUL",
+          "cnpjCpfFornecedor": "09296295000160",
+          "valorLiquido": 1812.31,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "0",
+          "codLote": 0,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "PASSAGEM AÉREA - RPA",
+          "codDocumento": 1777267,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-14T00:00:00",
+          "numDocumento": "Bilhete: KMD36N",
+          "valorDocumento": 4459.77,
+          "urlDocumento": null,
+          "nomeFornecedor": "Cia Aérea - AZUL",
+          "cnpjCpfFornecedor": "09296295000160",
+          "valorLiquido": 4459.77,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "0",
+          "codLote": 0,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:02.417473"
+    "generatedAt": "2025-11-11T05:22:34.338450"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 1051.49
@@ -25,6 +25,7 @@
         "id": 220542,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
         "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
         "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "TO",
@@ -35,25 +36,6 @@
       "total": 1051.49,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 11,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7832722,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-08T00:00:00",
-          "numDocumento": "1298416",
-          "valorDocumento": 438.6,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7832722",
-          "nomeFornecedor": "POSTO JAVAE LTDA",
-          "cnpjCpfFornecedor": "29752518000163",
-          "valorLiquido": 438.6,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 8,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "POSTO JAVAE LTDA",
           "cnpjCpfFornecedor": "29752518000163",
           "valorLiquido": 612.89,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7832722,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-08T00:00:00",
+          "numDocumento": "1298416",
+          "valorDocumento": 438.6,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7832722",
+          "nomeFornecedor": "POSTO JAVAE LTDA",
+          "cnpjCpfFornecedor": "29752518000163",
+          "valorLiquido": 438.6,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

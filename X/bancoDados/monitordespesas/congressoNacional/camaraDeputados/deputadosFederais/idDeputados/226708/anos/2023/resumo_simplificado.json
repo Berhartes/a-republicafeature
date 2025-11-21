@@ -1,0 +1,146 @@
+{
+  "deputado": {
+    "id": 226708,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
+    "nome": "Dr. Allan Garcês",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226708.jpg",
+    "email": "dep.allangarces@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 170192.68,
+  "quantidade_transacoes": 145,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 88401.74,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 51.94
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 37182.71,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 21.85
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 13838.17,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 8.13
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 12000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 7.05
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 10508.21,
+      "quantidade_transacoes": 55,
+      "porcentagem_do_total": 6.17
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "BLOOM MARKETING E PUBLICIDADE LTDA",
+      "cnpj": "38471836000147",
+      "total": 27500.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 16.16
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 25673.44,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 15.08
+    },
+    {
+      "nome": "4K COMUNICACAO E MARKETING LTDA",
+      "cnpj": "40218739000199",
+      "total": 24000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 14.1
+    },
+    {
+      "nome": "DIAMOND COMERCIO E SERVICOS LTDA - DIAMOND",
+      "cnpj": "39619161000101",
+      "total": 17000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 9.99
+    },
+    {
+      "nome": "Gol Linhas Aereas S.A.",
+      "cnpj": "07575651000159",
+      "total": 13838.17,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 8.13
+    },
+    {
+      "nome": "SUPREMA MOBILIDADE LTDA",
+      "cnpj": "24894397000170",
+      "total": 12000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 7.05
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 11509.27,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 6.76
+    },
+    {
+      "nome": "MELLON COMUNICACAO E MARKETING LTDA",
+      "cnpj": "50711103000138",
+      "total": 7901.74,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.64
+    },
+    {
+      "nome": "JR TECNOLOGIA LTDA",
+      "cnpj": "52318738000103",
+      "total": 6000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.53
+    },
+    {
+      "nome": "CELULAR FUNCIONAL",
+      "cnpj": "00000000000001",
+      "total": 3198.31,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.88
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 26101.82,
+      "porcentagem_do_total": 15.34
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 39348.61,
+      "porcentagem_do_total": 23.12
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 57950.86,
+      "porcentagem_do_total": 34.05
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 46791.39,
+      "porcentagem_do_total": 27.49
+    }
+  ]
+}

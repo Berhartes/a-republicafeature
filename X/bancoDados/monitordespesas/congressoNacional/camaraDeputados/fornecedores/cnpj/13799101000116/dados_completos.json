@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "J A SOBRAL &amp; CIA LTDA - BONOCO",
+      "cnpj": "13799101000116",
+      "total_recebido": 500.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:26.148203"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 500.0
+  },
+  "anos": {
+    "2024": {
+      "total": 200.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 300.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74057": {
+      "deputado": {
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
+      },
+      "total": 500.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7757219,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-05T12:52:32",
+          "numDocumento": "1792404",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7757219",
+          "nomeFornecedor": "J A SOBRAL &amp; CIA LTDA - BONOCO",
+          "cnpjCpfFornecedor": "13799101000116",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 8000704,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-26T00:00:00",
+          "numDocumento": "2001704",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8000704",
+          "nomeFornecedor": "J A SOBRAL &amp; CIA LTDA - BONOCO",
+          "cnpjCpfFornecedor": "13799101000116",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

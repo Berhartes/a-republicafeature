@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO ITAMARATY LTDA",
+      "cnpj": "00314831000138",
+      "total_recebido": 406.09,
+      "numero_transacoes": 2,
+      "numero_deputados": 2
+    },
+    "ano": 2024,
+    "total_recebido": 150.0,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-09-18T17:03:12",
+    "periodo_fim": "2024-09-18T17:03:12",
+    "generatedAt": "2025-11-11T21:37:59.198008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 150.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 150.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 150.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7804995,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-09-18T17:03:12",
+      "numDocumento": "404620",
+      "valorDocumento": 150.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7804995",
+      "nomeFornecedor": "POSTO ITAMARATY LTDA",
+      "cnpjCpfFornecedor": "00314831000138",
+      "valorLiquido": 150.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2074994,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

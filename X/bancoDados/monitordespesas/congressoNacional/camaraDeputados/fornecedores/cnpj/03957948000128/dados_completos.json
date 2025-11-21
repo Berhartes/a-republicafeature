@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "O IMPERADOR 333 AUTO POSTO LTDA",
+      "cnpj": "03957948000128",
+      "total_recebido": 1125.82,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:05.867037"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1125.82
+  },
+  "anos": {
+    "2024": {
+      "total": 868.81,
+      "transacoes": 5,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 257.01,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 1125.82,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7727436,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-26T00:00:00",
+          "numDocumento": "373338",
+          "valorDocumento": 147.17,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7727436.pdf",
+          "nomeFornecedor": "O IMPERADOR 333 AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "03957948000128",
+          "valorLiquido": 147.17,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7767778,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-05T00:00:00",
+          "numDocumento": "384945",
+          "valorDocumento": 150.08,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7767778.pdf",
+          "nomeFornecedor": "O IMPERADOR 333 AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "03957948000128",
+          "valorLiquido": 150.08,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7772676,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-15T00:00:00",
+          "numDocumento": "386836",
+          "valorDocumento": 140.21,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7772676.pdf",
+          "nomeFornecedor": "O IMPERADOR 333 AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "03957948000128",
+          "valorLiquido": 140.21,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7785914,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-31T00:00:00",
+          "numDocumento": "389624",
+          "valorDocumento": 280.05,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7785914.pdf",
+          "nomeFornecedor": "O IMPERADOR 333 AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "03957948000128",
+          "valorLiquido": 280.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7825734,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-02T00:00:00",
+          "numDocumento": "405833",
+          "valorDocumento": 151.3,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7825734.pdf",
+          "nomeFornecedor": "O IMPERADOR 333 AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "03957948000128",
+          "valorLiquido": 151.3,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7958638,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-23T00:00:00",
+          "numDocumento": "454722",
+          "valorDocumento": 257.01,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7958638.pdf",
+          "nomeFornecedor": "O IMPERADOR 333 AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "03957948000128",
+          "valorLiquido": 257.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

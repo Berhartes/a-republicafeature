@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 160538,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160538",
+    "nome": "Bohn Gass",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "RS",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160538.jpg",
+    "email": "dep.bohngass@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 130578.88,
+  "quantidade_transacoes": 111,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 113802.6,
+      "quantidade_transacoes": 38,
+      "porcentagem_do_total": 87.15
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 16776.28,
+      "quantidade_transacoes": 73,
+      "porcentagem_do_total": 12.85
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CREDITO REAL, IMO. E CONDOMÍNIOS SA",
+      "cnpj": "92691336000166",
+      "total": 58478.13,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 44.78
+    },
+    {
+      "nome": "BIRO DE INFORMATICA NACIONAL EIRELI - EPP",
+      "cnpj": "00758665000169",
+      "total": 49830.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 38.16
+    },
+    {
+      "nome": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
+      "cnpj": "08467115000100",
+      "total": 3822.57,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 2.93
+    },
+    {
+      "nome": "AUTO POSTO MODELO LTDA",
+      "cnpj": "93044485000104",
+      "total": 1479.3,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 1.13
+    },
+    {
+      "nome": "COM DE COMB GUIA LOPES LTDA EPP",
+      "cnpj": "00706355000109",
+      "total": 1419.97,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 1.09
+    },
+    {
+      "nome": "AUTO POSTO EXPEDICIONARIO LTDA",
+      "cnpj": "04265280000110",
+      "total": 1301.7,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.0
+    },
+    {
+      "nome": "COMERCIO DE COMBUSTIVEIS FLORESTAL LTDA",
+      "cnpj": "02558109000255",
+      "total": 853.83,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0.65
+    },
+    {
+      "nome": "COMERCIAL DE COMBUSTIVEIS BERRES E KLERING LTDA",
+      "cnpj": "89095368000194",
+      "total": 664.95,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.51
+    },
+    {
+      "nome": "BELLER COMERCIO DE PAPEIS LTDA",
+      "cnpj": "05563868000385",
+      "total": 652.02,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.5
+    },
+    {
+      "nome": "AUTO POSTO 3 PALMEIRAS LTDA",
+      "cnpj": "14829259000154",
+      "total": 649.35,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.5
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 10667.68,
+      "porcentagem_do_total": 8.17
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 10932.37,
+      "porcentagem_do_total": 8.37
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 12244.45,
+      "porcentagem_do_total": 9.38
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 12230.78,
+      "porcentagem_do_total": 9.37
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 9927.27,
+      "porcentagem_do_total": 7.6
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 11637.39,
+      "porcentagem_do_total": 8.91
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 12930.54,
+      "porcentagem_do_total": 9.9
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 13146.28,
+      "porcentagem_do_total": 10.07
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 7659.67,
+      "porcentagem_do_total": 5.87
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 11378.3,
+      "porcentagem_do_total": 8.71
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 11970.82,
+      "porcentagem_do_total": 9.17
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 5853.33,
+      "porcentagem_do_total": 4.48
+    }
+  ]
+}

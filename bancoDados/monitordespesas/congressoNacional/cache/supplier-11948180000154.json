@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-12T00:38:35Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "1.0.0",
+    "legislatura": 57,
+    "cnpj": "11948180000154"
+  },
+  "data": {
+    "cnpj": "11948180000154",
+    "nome": "AUTO POSTO NM 16 LTDA",
+    "nomeFornecedor": "AUTO POSTO NM 16 LTDA",
+    "totalTransacionado": 2568.47,
+    "totalRecebido": 2568.47,
+    "totalRecebidoTodos": 2568.47,
+    "transacoes": 7,
+    "numeroTransacoes": 7,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 2568.47,
+        "quantidade": 7
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 2568.47,
+        "quantidade": 7
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 688.86,
+        "transacoes": 2,
+        "deputados": 1
+      },
+      "2025": {
+        "valor": 1879.61,
+        "transacoes": 5,
+        "deputados": 1
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

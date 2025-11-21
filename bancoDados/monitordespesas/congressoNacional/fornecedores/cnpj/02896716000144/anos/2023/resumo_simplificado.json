@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "D E CERUTTI & CIA LTDA",
+    "cnpj": "02896716000144",
+    "total_recebido": 1962.2299999999998,
+    "numero_transacoes": 11,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 501.86,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 501.86,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 501.86,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 162.75,
+      "porcentagem_do_total": 32.43
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 252.06,
+      "porcentagem_do_total": 50.23
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 87.05,
+      "porcentagem_do_total": 17.35
+    }
+  ]
+}

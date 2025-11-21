@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Fazenda do Comandante Restaurante LTDA",
+      "cnpj": "50626625000131",
+      "total_recebido": 55.9,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 55.9,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-12-19T00:00:00",
+    "periodo_fim": "2023-12-19T00:00:00",
+    "generatedAt": "2025-11-11T21:38:03.364010"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 55.9,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 55.9,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 55.9,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7667404,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-12-19T00:00:00",
+      "numDocumento": "022378",
+      "valorDocumento": 55.9,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7667404.pdf",
+      "nomeFornecedor": "Fazenda do Comandante Restaurante LTDA",
+      "cnpjCpfFornecedor": "50626625000131",
+      "valorLiquido": 55.9,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2001482,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

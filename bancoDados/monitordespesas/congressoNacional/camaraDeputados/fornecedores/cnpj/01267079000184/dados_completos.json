@@ -7,7 +7,7 @@
       "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:46.722226"
+    "generatedAt": "2025-11-11T05:22:05.140757"
   },
   "categorias": {
     "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 760.0
@@ -30,6 +30,7 @@
         "id": 220593,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
         "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "MT",
@@ -40,25 +41,6 @@
       "total": 760.0,
       "transacoes": 4,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 2,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7549776,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-05-23T00:00:00",
-          "numDocumento": "12956",
-          "valorDocumento": 170.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7549776.pdf",
-          "nomeFornecedor": "HOTEL HAVAÍ",
-          "cnpjCpfFornecedor": "01267079000184",
-          "valorLiquido": 170.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 2,
@@ -89,6 +71,25 @@
           "numDocumento": "12967",
           "valorDocumento": 170.0,
           "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7549773.pdf",
+          "nomeFornecedor": "HOTEL HAVAÍ",
+          "cnpjCpfFornecedor": "01267079000184",
+          "valorLiquido": 170.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7549776,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-23T00:00:00",
+          "numDocumento": "12956",
+          "valorDocumento": 170.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7549776.pdf",
           "nomeFornecedor": "HOTEL HAVAÍ",
           "cnpjCpfFornecedor": "01267079000184",
           "valorLiquido": 170.0,

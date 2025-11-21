@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "A C F SILVA GATTO & CIA LTDA",
+      "cnpj": "27165787000106",
+      "total_recebido": 90.63,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:03.056003"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 90.63
+  },
+  "anos": {
+    "2023": {
+      "total": 90.63,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 90.63,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7621372,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-27T00:00:00",
+          "numDocumento": "105879",
+          "valorDocumento": 90.63,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7621372.pdf",
+          "nomeFornecedor": "A C F SILVA GATTO & CIA LTDA",
+          "cnpjCpfFornecedor": "27165787000106",
+          "valorLiquido": 90.63,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

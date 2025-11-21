@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GOES COMBUSTIVEIS, LUBRIFICANTES E GLP LTDA",
+      "cnpj": "05454390000193",
+      "total_recebido": 259.47,
+      "numero_transacoes": 2,
+      "numero_deputados": 2
+    },
+    "ano": 2024,
+    "total_recebido": 100.0,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-03-12T12:02:31",
+    "periodo_fim": "2024-03-12T12:02:31",
+    "generatedAt": "2025-11-11T21:37:53.845494"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 100.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 100.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 100.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7700656,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-03-12T12:02:31",
+      "numDocumento": "301709",
+      "valorDocumento": 100.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7700656",
+      "nomeFornecedor": "GOES COMBUSTIVEIS, LUBRIFICANTES E GLP LTDA",
+      "cnpjCpfFornecedor": "05454390000193",
+      "valorLiquido": 100.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2020598,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

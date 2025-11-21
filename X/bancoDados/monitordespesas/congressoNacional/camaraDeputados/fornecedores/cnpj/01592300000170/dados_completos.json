@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "IPE PLAZA HOTEL LTDA",
+      "cnpj": "01592300000170",
+      "total_recebido": 435.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:08.467367"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 435.0
+  },
+  "anos": {
+    "2023": {
+      "total": 435.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "121948": {
+      "deputado": {
+        "id": 121948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "GO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br"
+      },
+      "total": 435.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7584597,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-04T00:00:00",
+          "numDocumento": "0000042574",
+          "valorDocumento": 248.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2023/7584597.pdf",
+          "nomeFornecedor": "IPE PLAZA HOTEL LTDA",
+          "cnpjCpfFornecedor": "01592300000170",
+          "valorLiquido": 248.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7584605,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-04T00:00:00",
+          "numDocumento": "0000042576",
+          "valorDocumento": 187.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2023/7584605.pdf",
+          "nomeFornecedor": "IPE PLAZA HOTEL LTDA",
+          "cnpjCpfFornecedor": "01592300000170",
+          "valorLiquido": 187.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

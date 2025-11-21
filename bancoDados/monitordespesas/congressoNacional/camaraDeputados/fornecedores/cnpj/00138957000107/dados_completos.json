@@ -3,52 +3,77 @@
     "fornecedor": {
       "nome": "POSTO DE GASOLINA FELICCI LTDA",
       "cnpj": "00138957000107",
-      "total_recebido": 83.0,
-      "numero_transacoes": 1,
+      "total_recebido": 326.47,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:56:39.521099"
+    "generatedAt": "2025-11-11T05:22:39.766135"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 83.0
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 326.47
   },
   "anos": {
     "2023": {
-      "total": 83.0,
+      "total": 226.47,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 100.0,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "160553": {
+    "74057": {
       "deputado": {
-        "id": 160553,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
-        "nome": "Antonio Brito",
-        "siglaPartido": "PSD",
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
         "uriPartido": "",
         "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
-        "email": "dep.antoniobrito@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
       },
-      "total": 83.0,
-      "transacoes": 1,
+      "total": 326.47,
+      "transacoes": 2,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 10,
+          "mes": 4,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7634353,
+          "codDocumento": 7524666,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-10-29T00:00:00",
-          "numDocumento": "1126864",
-          "valorDocumento": 83.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7634353",
+          "dataDocumento": "2023-04-03T00:00:00",
+          "numDocumento": "1024426",
+          "valorDocumento": 226.47,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7524666",
           "nomeFornecedor": "POSTO DE GASOLINA FELICCI LTDA",
           "cnpjCpfFornecedor": "00138957000107",
-          "valorLiquido": 83.0,
+          "valorLiquido": 226.47,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7848229,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-26T12:57:04",
+          "numDocumento": "1385876",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7848229",
+          "nomeFornecedor": "POSTO DE GASOLINA FELICCI LTDA",
+          "cnpjCpfFornecedor": "00138957000107",
+          "valorLiquido": 100.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

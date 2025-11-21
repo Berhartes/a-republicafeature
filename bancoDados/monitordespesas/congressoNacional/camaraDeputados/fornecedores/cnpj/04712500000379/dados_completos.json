@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:03.574028"
+    "generatedAt": "2025-11-11T05:22:11.257289"
   },
   "categorias": {
     "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 192.0
@@ -25,6 +25,7 @@
         "id": 204528,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204528",
         "nome": "Adriana Ventura",
+        "nomeEleitoral": "Adriana Ventura",
         "siglaPartido": "NOVO",
         "uriPartido": "",
         "siglaUf": "SP",
@@ -37,15 +38,15 @@
       "despesas": [
         {
           "ano": 2023,
-          "mes": 9,
+          "mes": 6,
           "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-          "codDocumento": 7610964,
+          "codDocumento": 7585516,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-09-07T00:00:00",
-          "numDocumento": "169147719",
+          "dataDocumento": "2023-06-15T00:00:00",
+          "numDocumento": "E0800NULNH",
           "valorDocumento": 64.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2023/7610964.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2023/7585516.pdf",
           "nomeFornecedor": "MICROSOFT DO BRASIL IMPORTACAO E COMERCIO DE SOFTWARE E VIDEO GAMES LTDA",
           "cnpjCpfFornecedor": "04712500000379",
           "valorLiquido": 64.0,
@@ -75,15 +76,15 @@
         },
         {
           "ano": 2023,
-          "mes": 6,
+          "mes": 9,
           "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-          "codDocumento": 7585516,
+          "codDocumento": 7610964,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-06-15T00:00:00",
-          "numDocumento": "E0800NULNH",
+          "dataDocumento": "2023-09-07T00:00:00",
+          "numDocumento": "169147719",
           "valorDocumento": 64.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2023/7585516.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2023/7610964.pdf",
           "nomeFornecedor": "MICROSOFT DO BRASIL IMPORTACAO E COMERCIO DE SOFTWARE E VIDEO GAMES LTDA",
           "cnpjCpfFornecedor": "04712500000379",
           "valorLiquido": 64.0,

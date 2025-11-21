@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO VILLA LTDA",
+      "cnpj": "37436110000100",
+      "total_recebido": 256.05,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 256.05,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-09-04T00:00:00",
+    "periodo_fim": "2023-09-07T00:00:00",
+    "generatedAt": "2025-11-11T21:37:53.223486"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 256.05,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 256.05,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 256.05,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7605720,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-09-04T00:00:00",
+      "numDocumento": "132843",
+      "valorDocumento": 139.5,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7605720",
+      "nomeFornecedor": "AUTO POSTO VILLA LTDA",
+      "cnpjCpfFornecedor": "37436110000100",
+      "valorLiquido": 139.5,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1966950,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7605285,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-09-07T00:00:00",
+      "numDocumento": "132923",
+      "valorDocumento": 116.55,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7605285",
+      "nomeFornecedor": "AUTO POSTO VILLA LTDA",
+      "cnpjCpfFornecedor": "37436110000100",
+      "valorLiquido": 116.55,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1966667,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

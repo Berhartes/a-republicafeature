@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-08T13:42:16Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v2",
+    "legislatura": 57,
+    "cnpj": "00306597000288"
+  },
+  "data": {
+    "cnpj": "00306597000288",
+    "nome": "002 - SGON - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+    "nomeFornecedor": "002 - SGON - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+    "totalTransacionado": 326.98,
+    "totalRecebido": 326.98,
+    "totalRecebidoTodos": 326.98,
+    "transacoes": 1,
+    "numeroTransacoes": 1,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 326.98,
+        "quantidade": 1
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 326.98,
+        "quantidade": 1
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 326.98,
+        "transacoes": 0,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

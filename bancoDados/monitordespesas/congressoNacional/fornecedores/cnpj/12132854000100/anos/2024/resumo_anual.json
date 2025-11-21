@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+      "cnpj": "12132854000100",
+      "total_recebido": 8524.65,
+      "numero_transacoes": 8,
+      "numero_deputados": 3
+    },
+    "ano": 2024,
+    "total_recebido": 1554.15,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-03-11T00:00:00",
+    "periodo_fim": "2024-12-20T00:00:00",
+    "generatedAt": "2025-11-11T21:37:52.848481"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 1554.15,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 1554.15,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 574.95,
+      "porcentagem_do_total": 36.99
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 642.2,
+      "porcentagem_do_total": 41.32
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 337.0,
+      "porcentagem_do_total": 21.68
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 8,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7792483,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-08-27T00:00:00",
+      "numDocumento": "5946",
+      "valorDocumento": 642.2,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7792483",
+      "nomeFornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+      "cnpjCpfFornecedor": "12132854000100",
+      "valorLiquido": 642.2,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2068539,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7850321,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-12-20T00:00:00",
+      "numDocumento": "6237",
+      "valorDocumento": 337.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7850321",
+      "nomeFornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+      "cnpjCpfFornecedor": "12132854000100",
+      "valorLiquido": 337.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2099771,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 3,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7700889,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-03-11T00:00:00",
+      "numDocumento": "5485",
+      "valorDocumento": 574.95,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7700889",
+      "nomeFornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+      "cnpjCpfFornecedor": "12132854000100",
+      "valorLiquido": 574.95,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2020721,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

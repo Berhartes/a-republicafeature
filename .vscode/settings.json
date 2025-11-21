@@ -1,0 +1,10 @@
+{
+    "typescript.autoClosingTags": false,
+    "chat.agent.maxRequests": 125,
+    
+    // Shell Integration - melhora a detecção de comandos no terminal
+    "terminal.integrated.shellIntegration.enabled": true,
+    "terminal.integrated.shellIntegration.decorationsEnabled": "both",
+    "terminal.integrated.shellIntegration.suggestEnabled": true,
+    "git.ignoreLimitWarning": true
+}

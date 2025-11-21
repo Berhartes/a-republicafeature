@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 221339,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221339",
+    "nome": "Dr. Benjamim",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221339.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 511600.36,
+  "quantidade_transacoes": 92,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 239650.0,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 46.84
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 111607.2,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 21.82
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 65214.99,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 12.75
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 51268.92,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 10.02
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 43859.25,
+      "quantidade_transacoes": 47,
+      "porcentagem_do_total": 8.57
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ALICE MARKETING E COMUNICACAO EIRELI",
+      "cnpj": "29481275000176",
+      "total": 145000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 28.34
+    },
+    {
+      "nome": "Rubens de Carvalho Andrade",
+      "cnpj": "34603832320",
+      "total": 64073.19,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 12.52
+    },
+    {
+      "nome": "ALICE MARKETING E COMUNICACAO LTDA",
+      "cnpj": "29481275000176",
+      "total": 50000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 9.77
+    },
+    {
+      "nome": "Mobile Automotiva Eireli",
+      "cnpj": "22424987000104",
+      "total": 50000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 9.77
+    },
+    {
+      "nome": "mobile automotiva eireli",
+      "cnpj": "22424987000104",
+      "total": 49107.2,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 9.6
+    },
+    {
+      "nome": "R NONATO DA SILVA DE ARAUJO LIMITADA",
+      "cnpj": "35436370000150",
+      "total": 40000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 7.82
+    },
+    {
+      "nome": "AUTO POSTO NOVA ACAILANDIA LTDA",
+      "cnpj": "12811039000178",
+      "total": 36983.87,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 7.23
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 31125.22,
+      "quantidade_transacoes": 34,
+      "porcentagem_do_total": 6.08
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 12734.03,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 2.49
+    },
+    {
+      "nome": "MOBILE AUTOMOTIVA LTDA",
+      "cnpj": "22424987000104",
+      "total": 12500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.44
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 46362.46,
+      "porcentagem_do_total": 9.06
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 47186.54,
+      "porcentagem_do_total": 9.22
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 62995.59,
+      "porcentagem_do_total": 12.31
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 66367.43,
+      "porcentagem_do_total": 12.97
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 46681.04,
+      "porcentagem_do_total": 9.12
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 50395.97,
+      "porcentagem_do_total": 9.85
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 52515.32,
+      "porcentagem_do_total": 10.26
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 39867.51,
+      "porcentagem_do_total": 7.79
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 41703.57,
+      "porcentagem_do_total": 8.15
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 30270.16,
+      "porcentagem_do_total": 5.92
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 27254.77,
+      "porcentagem_do_total": 5.33
+    }
+  ]
+}

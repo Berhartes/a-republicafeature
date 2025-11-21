@@ -1,0 +1,158 @@
+{
+  "deputado": {
+    "id": 220531,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220531",
+    "nome": "Gilvan Maximo",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "DF",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220531.jpg",
+    "email": null
+  },
+  "ano": 2025,
+  "total_gasto": 241408.48,
+  "quantidade_transacoes": 156,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 129800.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 53.77
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 73758.03,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 30.55
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 26731.76,
+      "quantidade_transacoes": 119,
+      "porcentagem_do_total": 11.07
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 11118.69,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 4.61
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Nacional Rent a Car Locação de Veiculos LTDA",
+      "cnpj": "49000815000160",
+      "total": 70258.03,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 29.1
+    },
+    {
+      "nome": "ATHENAS MARKETING POLITICO LTDA",
+      "cnpj": "49471917000163",
+      "total": 56800.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 23.53
+    },
+    {
+      "nome": "CASTELO BRANCO MIDIAS",
+      "cnpj": "51282377000111",
+      "total": 32000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 13.26
+    },
+    {
+      "nome": "BRASIL INSPIRAR LTDA",
+      "cnpj": "59941483000171",
+      "total": 16000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 6.63
+    },
+    {
+      "nome": "VERA E FRANCILIA GRAFICA E EDITORA LTDA ME",
+      "cnpj": "06227397000135",
+      "total": 15000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.21
+    },
+    {
+      "nome": "069 - PENISULA - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597006995",
+      "total": 13355.64,
+      "quantidade_transacoes": 62,
+      "porcentagem_do_total": 5.53
+    },
+    {
+      "nome": "Wmh Arte Visual Ltda.",
+      "cnpj": "32854151000101",
+      "total": 10000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.14
+    },
+    {
+      "nome": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpj": "08532429000131",
+      "total": 5717.74,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 2.37
+    },
+    {
+      "nome": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA",
+      "cnpj": "11521613000190",
+      "total": 4745.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.97
+    },
+    {
+      "nome": "SERV RIO TERCEIRIZAÇÃO E SERVIÇOS",
+      "cnpj": "10479861000158",
+      "total": 3500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.45
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 25869.06,
+      "porcentagem_do_total": 10.72
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 37476.16,
+      "porcentagem_do_total": 15.52
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 36678.49,
+      "porcentagem_do_total": 15.19
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 38773.15,
+      "porcentagem_do_total": 16.06
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 33766.69,
+      "porcentagem_do_total": 13.99
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 29490.41,
+      "porcentagem_do_total": 12.22
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 39354.52,
+      "porcentagem_do_total": 16.3
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PARAISO LUBRIFICANTES LTDA",
+      "cnpj": "29073905000173",
+      "total_recebido": 199.87,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 199.87,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-07-23T15:57:16",
+    "periodo_fim": "2024-07-23T15:57:16",
+    "generatedAt": "2025-11-11T21:38:04.878008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 199.87,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 199.87,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 199.87,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7787608,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-07-23T15:57:16",
+      "numDocumento": "2340",
+      "valorDocumento": 199.87,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7787608",
+      "nomeFornecedor": "PARAISO LUBRIFICANTES LTDA",
+      "cnpjCpfFornecedor": "29073905000173",
+      "valorLiquido": 199.87,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2065996,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

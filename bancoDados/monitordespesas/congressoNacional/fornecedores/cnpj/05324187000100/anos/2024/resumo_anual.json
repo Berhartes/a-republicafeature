@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO TABOCAO VI LTDA",
+      "cnpj": "05324187000100",
+      "total_recebido": 380.04,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 380.04,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-12-18T13:08:17",
+    "periodo_fim": "2024-12-18T13:08:17",
+    "generatedAt": "2025-11-11T21:37:56.614482"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 380.04,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 380.04,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 380.04,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7848705,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-12-18T13:08:17",
+      "numDocumento": "866472",
+      "valorDocumento": 380.04,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7848705",
+      "nomeFornecedor": "POSTO TABOCAO VI LTDA",
+      "cnpjCpfFornecedor": "05324187000100",
+      "valorLiquido": 380.04,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2098899,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

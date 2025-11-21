@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220673,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220673",
+    "nome": "Delegado Caveira",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "PA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220673.jpg",
+    "email": "dep.delegadocaveira@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 167221.34,
+  "quantidade_transacoes": 152,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 106700.0,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 63.81
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 28631.55,
+      "quantidade_transacoes": 92,
+      "porcentagem_do_total": 17.12
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 16036.79,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 9.59
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 5814.49,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 3.48
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 5500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.29
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "A M LIBERATO",
+      "cnpj": "22956171000202",
+      "total": 50200.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 30.02
+    },
+    {
+      "nome": "MARIA DE FATIMA SOUZA DE QUEIROZ",
+      "cnpj": "49603746000189",
+      "total": 38500.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 23.02
+    },
+    {
+      "nome": "G X COMUNICAÇÃO",
+      "cnpj": "50662880000130",
+      "total": 18000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 10.76
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 6945.53,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 4.15
+    },
+    {
+      "nome": "IRMAOS TEIXEIRA LTDA",
+      "cnpj": "04976718000845",
+      "total": 6891.67,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 4.12
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 5500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.29
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 5027.31,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.01
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 4063.95,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 2.43
+    },
+    {
+      "nome": "POSTO DALLAS EIRELI ME",
+      "cnpj": "17666164000155",
+      "total": 3398.74,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 2.03
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 3238.51,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.94
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 4790.07,
+      "porcentagem_do_total": 2.86
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 10301.42,
+      "porcentagem_do_total": 6.16
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 6480.83,
+      "porcentagem_do_total": 3.88
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 9754.93,
+      "porcentagem_do_total": 5.83
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 7626.53,
+      "porcentagem_do_total": 4.56
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 8014.41,
+      "porcentagem_do_total": 4.79
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 7649.49,
+      "porcentagem_do_total": 4.57
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 15995.79,
+      "porcentagem_do_total": 9.57
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 30119.68,
+      "porcentagem_do_total": 18.01
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 10463.5,
+      "porcentagem_do_total": 6.26
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 56024.69,
+      "porcentagem_do_total": 33.5
+    }
+  ]
+}

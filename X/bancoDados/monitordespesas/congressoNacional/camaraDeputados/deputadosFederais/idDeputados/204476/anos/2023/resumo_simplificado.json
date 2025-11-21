@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 204476,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204476",
+    "nome": "Chiquinho Brazão",
+    "siglaPartido": "S.PART.",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36852",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204476.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 357288.39,
+  "quantidade_transacoes": 120,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 140880.0,
+      "quantidade_transacoes": 41,
+      "porcentagem_do_total": 39.43
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 102446.66,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 28.67
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 71468.96,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 20.0
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 34958.76,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 9.78
+    },
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 2796.62,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 0.78
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "POSTO DE GASOLINA LEIROZ LTDA",
+      "cnpj": "31037724000133",
+      "total": 71468.96,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 20.0
+    },
+    {
+      "nome": "MANUQUIP COMERCIO E SERVIÇOS LTDA",
+      "cnpj": "04583197000190",
+      "total": 53993.33,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 15.11
+    },
+    {
+      "nome": "EDMILDO CIRILO DOS SANTOS 17932360110 - PARLASULNEWS",
+      "cnpj": "26243349000148",
+      "total": 34000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 9.52
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 24630.83,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 6.89
+    },
+    {
+      "nome": "MANUQUIP COMERCIO E SERVICOS LTDA",
+      "cnpj": "04583197000190",
+      "total": 17800.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.98
+    },
+    {
+      "nome": "SERV RIO TERCEIRIZAÇÃO E SERVIÇOS",
+      "cnpj": "10479861000158",
+      "total": 15453.33,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 4.33
+    },
+    {
+      "nome": "SERV-RIO TERCEIRIZACAO E SERVICOS LTDA",
+      "cnpj": "10479861000158",
+      "total": 15200.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 4.25
+    },
+    {
+      "nome": "PIQUE COSTA VERDE COMUNICAÇÃO E MKT LTDA - RÁDIO COSTA VERDE 91,7",
+      "cnpj": "45212978000155",
+      "total": 15000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 4.2
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 10327.93,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 2.89
+    },
+    {
+      "nome": "SILAS PEREIRA DE ANDRADE 38528380106",
+      "cnpj": "20434689000170",
+      "total": 10000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.8
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 117.9,
+      "porcentagem_do_total": 0.03
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 23991.24,
+      "porcentagem_do_total": 6.71
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 41733.82,
+      "porcentagem_do_total": 11.68
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 42108.41,
+      "porcentagem_do_total": 11.79
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 44069.52,
+      "porcentagem_do_total": 12.33
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 46312.01,
+      "porcentagem_do_total": 12.96
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 47045.98,
+      "porcentagem_do_total": 13.17
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 65130.88,
+      "porcentagem_do_total": 18.23
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 43531.78,
+      "porcentagem_do_total": 12.18
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 846.66,
+      "porcentagem_do_total": 0.24
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 2400.19,
+      "porcentagem_do_total": 0.67
+    }
+  ]
+}

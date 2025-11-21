@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:46.740223"
+    "generatedAt": "2025-11-11T05:22:05.655459"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 331.73
@@ -25,6 +25,7 @@
         "id": 220593,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
         "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "MT",
@@ -35,25 +36,6 @@
       "total": 331.73,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 6,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7758503,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-06-23T09:37:35",
-          "numDocumento": "4579",
-          "valorDocumento": 200.01,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7758503",
-          "nomeFornecedor": "JTM COMERCIO DE DERIVADOS DE PETROLEO LTDA",
-          "cnpjCpfFornecedor": "30435188000161",
-          "valorLiquido": 200.01,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 2,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "JTM COMERCIO DE DERIVADOS DE PETROLEO LTDA",
           "cnpjCpfFornecedor": "30435188000161",
           "valorLiquido": 131.72,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7758503,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-23T09:37:35",
+          "numDocumento": "4579",
+          "valorDocumento": 200.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7758503",
+          "nomeFornecedor": "JTM COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "30435188000161",
+          "valorLiquido": 200.01,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

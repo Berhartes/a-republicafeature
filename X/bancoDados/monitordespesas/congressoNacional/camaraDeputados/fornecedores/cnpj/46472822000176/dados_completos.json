@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "RODOPOSTO BANDEIRANTES",
+      "cnpj": "46472822000176",
+      "total_recebido": 287.7,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:06.305713"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 287.7
+  },
+  "anos": {
+    "2025": {
+      "total": 287.7,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 287.7,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7998429,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-16T00:00:00",
+          "numDocumento": "54319",
+          "valorDocumento": 287.7,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7998429.pdf",
+          "nomeFornecedor": "RODOPOSTO BANDEIRANTES",
+          "cnpjCpfFornecedor": "46472822000176",
+          "valorLiquido": 287.7,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

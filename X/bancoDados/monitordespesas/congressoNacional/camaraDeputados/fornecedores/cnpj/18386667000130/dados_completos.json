@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "EME COMERCIO DE ALIMENTOS LTDA ME",
+      "cnpj": "18386667000130",
+      "total_recebido": 49.4,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:06.233559"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 49.4
+  },
+  "anos": {
+    "2025": {
+      "total": 49.4,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 49.4,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7975853,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-26T00:00:00",
+          "numDocumento": "17087",
+          "valorDocumento": 49.4,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7975853",
+          "nomeFornecedor": "EME COMERCIO DE ALIMENTOS LTDA ME",
+          "cnpjCpfFornecedor": "18386667000130",
+          "valorLiquido": 49.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

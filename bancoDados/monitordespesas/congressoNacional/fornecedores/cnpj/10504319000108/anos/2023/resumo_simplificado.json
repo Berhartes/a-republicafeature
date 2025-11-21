@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO ESTACAO ANCHIETA LTDA",
+    "cnpj": "10504319000108",
+    "total_recebido": 88.72,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 88.72,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 88.72,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 88.72,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 88.72,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

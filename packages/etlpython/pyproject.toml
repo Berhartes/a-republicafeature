@@ -29,8 +29,10 @@ dev = [
 ]
 
 [project.scripts]
+etlpython = "etlpython.cli.main:etlpython_cli"
 etl-despesas = "etlpython.cli.despesas:main"
-etl-materialize = "etlpython.cli.materialize_unified:main"
+etl-materialize = "etlpython.cli.main:materialize_command"
+etl-contracts = "etlpython.contracts_cli:contracts_cli"
 
 [tool.setuptools.packages.find]
 where = ["src"]

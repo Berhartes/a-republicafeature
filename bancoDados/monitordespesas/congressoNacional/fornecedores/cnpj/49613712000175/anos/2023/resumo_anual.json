@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "RESTAURANTE E LANCHONETE DELICIA BRASIL LTDA",
+      "cnpj": "49613712000175",
+      "total_recebido": 369.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 98.0,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-08-09T00:00:00",
+    "periodo_fim": "2023-08-09T00:00:00",
+    "generatedAt": "2025-11-11T21:38:03.492009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 98.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 98.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 98.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 8,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7591499,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-08-09T00:00:00",
+      "numDocumento": "1227",
+      "valorDocumento": 98.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7591499",
+      "nomeFornecedor": "RESTAURANTE E LANCHONETE DELICIA BRASIL LTDA",
+      "cnpjCpfFornecedor": "49613712000175",
+      "valorLiquido": 98.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1959316,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

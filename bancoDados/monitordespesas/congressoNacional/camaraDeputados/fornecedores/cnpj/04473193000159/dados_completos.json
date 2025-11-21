@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "POSTO DA TORRE EIRELI EPP",
       "cnpj": "04473193000159",
-      "total_recebido": 413.28999999999996,
-      "numero_transacoes": 3,
+      "total_recebido": 359.1,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.303448"
+    "generatedAt": "2025-11-11T05:22:41.200646"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 413.28999999999996
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 359.1
   },
   "anos": {
     "2023": {
-      "total": 413.28999999999996,
-      "transacoes": 3,
+      "total": 359.1,
+      "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "136811": {
+    "178927": {
       "deputado": {
-        "id": 136811,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
-        "nome": "Afonso Hamm",
-        "siglaPartido": "PP",
+        "id": 178927,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
+        "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
+        "siglaPartido": "PV",
         "uriPartido": "",
-        "siglaUf": "RS",
+        "siglaUf": "PR",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
-        "email": "dep.afonsohamm@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+        "email": "dep.alielmachado@camara.leg.br"
       },
-      "total": 413.28999999999996,
-      "transacoes": 3,
+      "total": 359.1,
+      "transacoes": 2,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 10,
+          "mes": 3,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7626883,
+          "codDocumento": 7509414,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-10-04T00:00:00",
-          "numDocumento": "559402",
-          "valorDocumento": 156.53,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7626883",
+          "dataDocumento": "2023-03-13T00:00:00",
+          "numDocumento": "248487",
+          "valorDocumento": 183.92,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7509414",
           "nomeFornecedor": "POSTO DA TORRE EIRELI EPP",
           "cnpjCpfFornecedor": "04473193000159",
-          "valorLiquido": 156.53,
+          "valorLiquido": 183.92,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -56,37 +57,18 @@
         },
         {
           "ano": 2023,
-          "mes": 10,
+          "mes": 7,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7627178,
+          "codDocumento": 7568192,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-10-10T00:00:00",
-          "numDocumento": "568392",
-          "valorDocumento": 114.22,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7627178",
+          "dataDocumento": "2023-07-03T00:00:00",
+          "numDocumento": "433755",
+          "valorDocumento": 175.18,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7568192",
           "nomeFornecedor": "POSTO DA TORRE EIRELI EPP",
           "cnpjCpfFornecedor": "04473193000159",
-          "valorLiquido": 114.22,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 10,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7638547,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-10-18T00:00:00",
-          "numDocumento": "579427",
-          "valorDocumento": 142.54,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7638547",
-          "nomeFornecedor": "POSTO DA TORRE EIRELI EPP",
-          "cnpjCpfFornecedor": "04473193000159",
-          "valorLiquido": 142.54,
+          "valorLiquido": 175.18,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

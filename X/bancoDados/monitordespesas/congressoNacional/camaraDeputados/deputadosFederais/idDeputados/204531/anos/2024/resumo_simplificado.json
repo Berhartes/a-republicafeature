@@ -1,0 +1,41 @@
+{
+  "deputado": {
+    "id": 204531,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204531",
+    "nome": "Guilherme Derrite",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204531.jpg",
+    "email": "dep.guilhermederrite@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 1392.2,
+  "quantidade_transacoes": 1,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 1392.2,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 1392.2,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 1392.2,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

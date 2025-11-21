@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "POSTO 3000 LTDA",
+    "cnpj": "84479997000285",
+    "total_recebido": 1335.08,
+    "numero_transacoes": 8,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 400.0,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 400.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 400.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 200.0,
+      "porcentagem_do_total": 50.0
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 200.0,
+      "porcentagem_do_total": 50.0
+    }
+  ]
+}

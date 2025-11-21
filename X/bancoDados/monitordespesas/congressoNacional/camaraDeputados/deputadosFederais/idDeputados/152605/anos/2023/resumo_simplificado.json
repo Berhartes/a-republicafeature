@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 152605,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/152605",
+    "nome": "Glauber Braga",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/152605.jpg",
+    "email": "dep.glauberbraga@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 371914.51,
+  "quantidade_transacoes": 920,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 109120.95,
+      "quantidade_transacoes": 43,
+      "porcentagem_do_total": 29.34
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 88278.41,
+      "quantidade_transacoes": 59,
+      "porcentagem_do_total": 23.74
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 75886.54,
+      "quantidade_transacoes": 70,
+      "porcentagem_do_total": 20.4
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 53276.98,
+      "quantidade_transacoes": 268,
+      "porcentagem_do_total": 14.33
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 22393.38,
+      "quantidade_transacoes": 45,
+      "porcentagem_do_total": 6.02
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ALTERNATIVA MIDIA E GESTÃO LTDA ME",
+      "cnpj": "13050967000120",
+      "total": 50000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 13.44
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 47504.67,
+      "quantidade_transacoes": 46,
+      "porcentagem_do_total": 12.77
+    },
+    {
+      "nome": "MAPEO SERVICOS DE INOVACAO TECNOLOGICA LTDA",
+      "cnpj": "43382036000190",
+      "total": 44000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 11.83
+    },
+    {
+      "nome": "POSTO DE GASOLINA CACULINHA LTDA",
+      "cnpj": "29726551000119",
+      "total": 40732.11,
+      "quantidade_transacoes": 208,
+      "porcentagem_do_total": 10.95
+    },
+    {
+      "nome": "Naira Lúcia de Lima",
+      "cnpj": "75873303720",
+      "total": 39588.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 10.64
+    },
+    {
+      "nome": "PEDRETTI & ASSOCIADOS LTDA",
+      "cnpj": "24832294000186",
+      "total": 28361.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 7.63
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 25409.91,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 6.83
+    },
+    {
+      "nome": "POSTO DE GASOLINA  CACULINHA LTDA",
+      "cnpj": "29726551000119",
+      "total": 11127.98,
+      "quantidade_transacoes": 51,
+      "porcentagem_do_total": 2.99
+    },
+    {
+      "nome": "TELEFÔNICA BRASIL S.A",
+      "cnpj": "02558157000162",
+      "total": 10597.52,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 2.85
+    },
+    {
+      "nome": "LUBAVAS FRIBURGO PAPELARIA LTDA",
+      "cnpj": "09283747000179",
+      "total": 9027.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 2.43
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 3039.64,
+      "porcentagem_do_total": 0.82
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 24846.13,
+      "porcentagem_do_total": 6.68
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 25727.74,
+      "porcentagem_do_total": 6.92
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 28198.93,
+      "porcentagem_do_total": 7.58
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 27514.63,
+      "porcentagem_do_total": 7.4
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 33459.97,
+      "porcentagem_do_total": 9.0
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 20629.6,
+      "porcentagem_do_total": 5.55
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 33673.78,
+      "porcentagem_do_total": 9.05
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 36876.29,
+      "porcentagem_do_total": 9.92
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 42990.97,
+      "porcentagem_do_total": 11.56
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 45402.52,
+      "porcentagem_do_total": 12.21
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 49554.31,
+      "porcentagem_do_total": 13.32
+    }
+  ]
+}

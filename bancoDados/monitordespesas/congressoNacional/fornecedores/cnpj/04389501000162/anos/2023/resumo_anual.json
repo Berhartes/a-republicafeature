@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO ZEBU LTDA - EPP",
+      "cnpj": "04389501000162",
+      "total_recebido": 483.99,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 483.99,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-05-11T00:00:00",
+    "periodo_fim": "2023-09-05T00:00:00",
+    "generatedAt": "2025-11-11T21:38:02.832007"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 483.99,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 483.99,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 335.4,
+      "porcentagem_do_total": 69.3
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 148.59,
+      "porcentagem_do_total": 30.7
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7549840,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-05-11T00:00:00",
+      "numDocumento": "64656",
+      "valorDocumento": 335.4,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7549840.pdf",
+      "nomeFornecedor": "AUTO POSTO ZEBU LTDA - EPP",
+      "cnpjCpfFornecedor": "04389501000162",
+      "valorLiquido": 335.4,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1937152,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7604171,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-09-05T00:00:00",
+      "numDocumento": "70869",
+      "valorDocumento": 148.59,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7604171.pdf",
+      "nomeFornecedor": "AUTO POSTO ZEBU LTDA - EPP",
+      "cnpjCpfFornecedor": "04389501000162",
+      "valorLiquido": 148.59,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1966057,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

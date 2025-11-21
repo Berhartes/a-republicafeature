@@ -1,0 +1,164 @@
+{
+  "deputado": {
+    "id": 160527,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
+    "nome": "Aguinaldo Ribeiro",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "PB",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160527.jpg",
+    "email": "dep.aguinaldoribeiro@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 13423.47,
+  "quantidade_transacoes": 55,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 7806.05,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 58.15
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 5617.42,
+      "quantidade_transacoes": 43,
+      "porcentagem_do_total": 41.85
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpj": "08532429000131",
+      "total": 7450.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 55.5
+    },
+    {
+      "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+      "cnpj": "00692418000107",
+      "total": 1105.6,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 8.24
+    },
+    {
+      "nome": "AUTO POSTO JK LTDA",
+      "cnpj": "03482208000182",
+      "total": 831.87,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.2
+    },
+    {
+      "nome": "067 - PARANOA II - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597006723",
+      "total": 650.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 4.84
+    },
+    {
+      "nome": "AUTO POSTO CASTANHEIRAS DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "32013951000191",
+      "total": 614.41,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 4.58
+    },
+    {
+      "nome": "054 - PARANOA 1 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597005409",
+      "total": 300.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.23
+    },
+    {
+      "nome": "076 - MELHOR 10 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597007614",
+      "total": 300.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.23
+    },
+    {
+      "nome": "082 - QI 21 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597008262",
+      "total": 280.36,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.09
+    },
+    {
+      "nome": "050 - QI 28 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597005085",
+      "total": 250.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.86
+    },
+    {
+      "nome": "AUTO POSTO EPTG LTDA",
+      "cnpj": "34051439000165",
+      "total": 240.19,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.79
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 1190.19,
+      "porcentagem_do_total": 8.87
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 1675.25,
+      "porcentagem_do_total": 12.48
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 1503.29,
+      "porcentagem_do_total": 11.2
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 1684.41,
+      "porcentagem_do_total": 12.55
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 1050.0,
+      "porcentagem_do_total": 7.82
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 1291.65,
+      "porcentagem_do_total": 9.62
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 1141.29,
+      "porcentagem_do_total": 8.5
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 1290.8,
+      "porcentagem_do_total": 9.62
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 1415.21,
+      "porcentagem_do_total": 10.54
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 1181.38,
+      "porcentagem_do_total": 8.8
+    }
+  ]
+}

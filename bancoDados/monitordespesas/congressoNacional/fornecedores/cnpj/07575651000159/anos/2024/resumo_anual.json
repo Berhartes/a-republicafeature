@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Gol Linhas Aereas S.A.",
+      "cnpj": "07575651000159",
+      "total_recebido": 13112.27,
+      "numero_transacoes": 7,
+      "numero_deputados": 3
+    },
+    "ano": 2024,
+    "total_recebido": 3013.51,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-11-27T00:00:00",
+    "periodo_fim": "2024-12-09T00:00:00",
+    "generatedAt": "2025-11-11T21:37:58.324009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 3013.51,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - RPA",
+      "total": 3013.51,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 2085.01,
+      "porcentagem_do_total": 69.19
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 928.5,
+      "porcentagem_do_total": 30.81
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "PASSAGEM AÉREA - RPA",
+      "codDocumento": 1777767,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-11-27T00:00:00",
+      "numDocumento": "Bilhete: 1272127702016",
+      "valorDocumento": 2085.01,
+      "urlDocumento": null,
+      "nomeFornecedor": "Cia Aérea - GOL",
+      "cnpjCpfFornecedor": "07575651000159",
+      "valorLiquido": 2085.01,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "PASSAGEM AÉREA - RPA",
+      "codDocumento": 1777778,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-12-09T00:00:00",
+      "numDocumento": "Bilhete: 1272128654395",
+      "valorDocumento": 928.5,
+      "urlDocumento": null,
+      "nomeFornecedor": "Cia Aérea - GOL",
+      "cnpjCpfFornecedor": "07575651000159",
+      "valorLiquido": 928.5,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "legislador": {
+      "id": 178835,
+      "nome": "Afonso Motta",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+      "email": "dep.afonsomotta@camara.leg.br",
+      "nomeEleitoral": "Afonso Motta",
+      "siglaPartido": "PDT",
+      "siglaUf": "RS",
+      "totalDespesas": 2090.0,
+      "numeroDespesas": 1,
+      "legislatura": 57,
+      "ano": 2022
+    },
+    "generatedAt": "2025-11-10T14:02:12.518835",
+    "legisladorDetalhes": {
+      "dados": {
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nomeCivil": "AFONSO ANTUNES DA MOTTA",
+        "ultimoStatus": {
+          "id": 178835,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+          "nome": "Afonso Motta",
+          "siglaPartido": "PDT",
+          "uriPartido": null,
+          "siglaUf": "RS",
+          "idLegislatura": 57,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+          "email": null,
+          "data": "2023-02-01",
+          "nomeEleitoral": "Afonso Motta",
+          "gabinete": {
+            "nome": "528",
+            "predio": "4",
+            "sala": "528",
+            "andar": "5",
+            "telefone": "3215-5528",
+            "email": "dep.afonsomotta@camara.leg.br"
+          },
+          "situacao": "Exercício",
+          "condicaoEleitoral": "Titular",
+          "descricaoStatus": null
+        },
+        "cpf": "10777296004",
+        "sexo": "M",
+        "urlWebsite": null,
+        "redeSocial": [],
+        "dataNascimento": "1950-01-08",
+        "dataFalecimento": null,
+        "ufNascimento": "RS",
+        "municipioNascimento": "Porto Alegre",
+        "escolaridade": "Superior"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835"
+        }
+      ]
+    }
+  },
+  "ano": 2022,
+  "despesas": [
+    {
+      "ano": 2022,
+      "mes": 12,
+      "valorDocumento": 2090.0,
+      "valorLiquido": 2090.0,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "nomeFornecedor": "NOVA IMPRESSAO GRAFICA E PAPELARIA LTDA",
+      "codDocumento": 7499669,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-02-15T00:00:00",
+      "numDocumento": "1690",
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7499669",
+      "cnpjCpfFornecedor": "11405562000131",
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1909407,
+      "parcela": 0
+    }
+  ]
+}

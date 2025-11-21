@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 178905,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178905",
+      "nome": "Fabio Garcia",
+      "siglaPartido": "UNIÃO",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+      "siglaUf": "MT",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178905.jpg",
+      "email": null
+    },
+    "ano": 2024,
+    "total_despesas": -3321.64,
+    "quantidade_transacoes": 2,
+    "quantidade_categorias": 1,
+    "quantidade_fornecedores": 1,
+    "periodo_inicio": "2024-05-22T12:00:00",
+    "periodo_fim": "2024-06-11T12:00:00",
+    "generatedAt": "2025-11-10T22:34:35.379617"
+  },
+  "resumo_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": -3321.64,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "resumo_fornecedores": [
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": -3321.64,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": -1515.69,
+      "porcentagem_do_total": 0
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": -1805.95,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": 160577,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-06-11T12:00:00",
+      "numDocumento": "1272196048176",
+      "valorDocumento": -1805.95,
+      "urlDocumento": null,
+      "nomeFornecedor": "GOL",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -1805.95,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": 161137,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-05-22T12:00:00",
+      "numDocumento": "1272196121964",
+      "valorDocumento": -1515.69,
+      "urlDocumento": null,
+      "nomeFornecedor": "GOL",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -1515.69,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ]
+}

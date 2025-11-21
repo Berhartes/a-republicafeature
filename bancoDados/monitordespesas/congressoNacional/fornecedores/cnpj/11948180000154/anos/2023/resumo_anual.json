@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO NM 16 LTDA",
+      "cnpj": "11948180000154",
+      "total_recebido": 2568.4700000000003,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 688.86,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-04-06T00:00:00",
+    "periodo_fim": "2023-10-22T00:00:00",
+    "generatedAt": "2025-11-11T21:38:06.129012"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 688.86,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 688.86,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 339.99,
+      "porcentagem_do_total": 49.36
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 348.87,
+      "porcentagem_do_total": 50.64
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7528446,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-04-06T00:00:00",
+      "numDocumento": "348176",
+      "valorDocumento": 339.99,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7528446",
+      "nomeFornecedor": "AUTO POSTO NM 16 LTDA",
+      "cnpjCpfFornecedor": "11948180000154",
+      "valorLiquido": 339.99,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1925248,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2023,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7668497,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-10-22T00:00:00",
+      "numDocumento": "358272",
+      "valorDocumento": 348.87,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7668497",
+      "nomeFornecedor": "AUTO POSTO NM 16 LTDA",
+      "cnpjCpfFornecedor": "11948180000154",
+      "valorLiquido": 348.87,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2002534,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    }
+  ]
+}

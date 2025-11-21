@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 225730,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/225730",
+    "nome": "Enfermeira Ana Paula",
+    "siglaPartido": "PODE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+    "siglaUf": "CE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/225730.jpg",
+    "email": "dep.enfermeiraanapaula@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 381935.74,
+  "quantidade_transacoes": 240,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 160000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 41.89
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 131500.0,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 34.43
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 37643.47,
+      "quantidade_transacoes": 42,
+      "porcentagem_do_total": 9.86
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 34568.12,
+      "quantidade_transacoes": 136,
+      "porcentagem_do_total": 9.05
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 14807.14,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 3.88
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "JOSE ROBERTO DE SOUSA NETO",
+      "cnpj": "53520842000130",
+      "total": 160000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 41.89
+    },
+    {
+      "nome": "G3 NETO SERVIÇOS EIRELI-ME",
+      "cnpj": "11305235000108",
+      "total": 112500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 29.46
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 30776.41,
+      "quantidade_transacoes": 39,
+      "porcentagem_do_total": 8.06
+    },
+    {
+      "nome": "SUPREMA MOBILIDADE LTDA",
+      "cnpj": "24894397000170",
+      "total": 19000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 4.97
+    },
+    {
+      "nome": "coworking.etc.br",
+      "cnpj": "27362264000141",
+      "total": 9166.67,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.4
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 6867.06,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.8
+    },
+    {
+      "nome": "sobral & Palacio petroleo LTDA",
+      "cnpj": "07240641004664",
+      "total": 6436.54,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 1.69
+    },
+    {
+      "nome": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpj": "08532429000131",
+      "total": 5400.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.41
+    },
+    {
+      "nome": "SOBRAL & PALACIO PETROLEO LTDA",
+      "cnpj": "07240641000324",
+      "total": 3455.81,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 0.9
+    },
+    {
+      "nome": "PETROCAR COMERCIO DE PETROLEO LTDA",
+      "cnpj": "73830069000469",
+      "total": 2740.2,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 0.72
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 22159.67,
+      "porcentagem_do_total": 5.8
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 47500.45,
+      "porcentagem_do_total": 12.44
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 41887.28,
+      "porcentagem_do_total": 10.97
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 49221.14,
+      "porcentagem_do_total": 12.89
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 49842.29,
+      "porcentagem_do_total": 13.05
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 42925.11,
+      "porcentagem_do_total": 11.24
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 42691.18,
+      "porcentagem_do_total": 11.18
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 41103.12,
+      "porcentagem_do_total": 10.76
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 26908.93,
+      "porcentagem_do_total": 7.05
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 17696.57,
+      "porcentagem_do_total": 4.63
+    }
+  ]
+}

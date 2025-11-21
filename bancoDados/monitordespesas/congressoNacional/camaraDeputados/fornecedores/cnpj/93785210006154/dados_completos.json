@@ -3,54 +3,50 @@
     "fornecedor": {
       "nome": "Safe Park Estacionamentos e Garagens Ltda",
       "cnpj": "93785210006154",
-      "total_recebido": 75.0,
-      "numero_transacoes": 3,
+      "total_recebido": 50.0,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:56:50.538864"
+    "generatedAt": "2025-11-11T05:22:36.149384"
   },
   "categorias": {
-    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 75.0
+    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 50.0
   },
   "anos": {
     "2023": {
       "total": 50.0,
       "transacoes": 2,
       "deputados": 1
-    },
-    "2025": {
-      "total": 25.0,
-      "transacoes": 1,
-      "deputados": 1
     }
   },
   "deputados": {
-    "220549": {
+    "220554": {
       "deputado": {
-        "id": 220549,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220549",
-        "nome": "Any Ortiz",
-        "siglaPartido": "CIDADANIA",
+        "id": 220554,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+        "nome": "Alexandre Lindenmeyer",
+        "nomeEleitoral": "Alexandre Lindenmeyer",
+        "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
-        "email": "dep.anyortiz@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
+        "email": "dep.alexandrelindenmeyer@camara.leg.br"
       },
-      "total": 75.0,
-      "transacoes": 3,
+      "total": 50.0,
+      "transacoes": 2,
       "despesas": [
         {
           "ano": 2023,
           "mes": 8,
           "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
-          "codDocumento": 7597582,
+          "codDocumento": 7586598,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-08-22T00:00:00",
-          "numDocumento": "202348705",
+          "dataDocumento": "2023-08-04T00:00:00",
+          "numDocumento": "202344328",
           "valorDocumento": 25.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3702/2023/7597582.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2023/7586598.pdf",
           "nomeFornecedor": "Safe Park Estacionamentos e Garagens Ltda",
           "cnpjCpfFornecedor": "93785210006154",
           "valorLiquido": 25.0,
@@ -61,34 +57,15 @@
         },
         {
           "ano": 2023,
-          "mes": 7,
+          "mes": 10,
           "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
-          "codDocumento": 7575447,
+          "codDocumento": 7629750,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-07-11T00:00:00",
-          "numDocumento": "202300000029120",
+          "dataDocumento": "2023-10-19T00:00:00",
+          "numDocumento": "202300000068131",
           "valorDocumento": 25.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3702/2023/7575447.pdf",
-          "nomeFornecedor": "Safe Park Estacionamentos e Garagens Ltda",
-          "cnpjCpfFornecedor": "93785210006154",
-          "valorLiquido": 25.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
-          "mes": 8,
-          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
-          "codDocumento": 7976165,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-08-19T00:00:00",
-          "numDocumento": "202552480",
-          "valorDocumento": 25.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3702/2025/7976165.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2023/7629750.pdf",
           "nomeFornecedor": "Safe Park Estacionamentos e Garagens Ltda",
           "cnpjCpfFornecedor": "93785210006154",
           "valorLiquido": 25.0,

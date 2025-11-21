@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO VIA ESTRUTURAL LTDA - LAGO SUL",
+      "cnpj": "23597031000258",
+      "total_recebido": 1025.01,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 875.01,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-08-14T08:40:06",
+    "periodo_fim": "2025-09-24T00:00:00",
+    "generatedAt": "2025-11-11T21:37:58.836008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 875.01,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 875.01,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 500.0,
+      "porcentagem_do_total": 57.14
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 375.01,
+      "porcentagem_do_total": 42.86
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7969770,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-08-14T08:40:06",
+      "numDocumento": "86725",
+      "valorDocumento": 500.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7969770",
+      "nomeFornecedor": "AUTO POSTO VIA ESTRUTURAL LTDA - LAGO SUL",
+      "cnpjCpfFornecedor": "23597031000258",
+      "valorLiquido": 500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2165751,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2025,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7992993,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-09-24T00:00:00",
+      "numDocumento": "89495",
+      "valorDocumento": 375.01,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7992993",
+      "nomeFornecedor": "AUTO POSTO VIA ESTRUTURAL LTDA - LAGO SUL",
+      "cnpjCpfFornecedor": "23597031000258",
+      "valorLiquido": 375.01,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2177788,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 204450,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204450",
+    "nome": "Doutor Luizinho",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204450.jpg",
+    "email": "dep.doutorluizinho@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 413469.74,
+  "quantidade_transacoes": 312,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 171534.78,
+      "quantidade_transacoes": 149,
+      "porcentagem_do_total": 41.49
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 102000.0,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 24.67
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 78700.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 19.03
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 42607.43,
+      "quantidade_transacoes": 100,
+      "porcentagem_do_total": 10.3
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 11070.49,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 2.68
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 162454.39,
+      "quantidade_transacoes": 137,
+      "porcentagem_do_total": 39.29
+    },
+    {
+      "nome": "SHEKINAH LOCACAO DE VEICULOS EIRELI",
+      "cnpj": "34300771000116",
+      "total": 78700.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 19.03
+    },
+    {
+      "nome": "ORN MIDIA COMUNICAÇÃO EIRELI",
+      "cnpj": "29649568000110",
+      "total": 72000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 17.41
+    },
+    {
+      "nome": "FLEX MARKETING DIRETO LTDA",
+      "cnpj": "14437788000102",
+      "total": 30000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 7.26
+    },
+    {
+      "nome": "REDE QUALITY III COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "30879321000500",
+      "total": 9976.65,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 2.41
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS 309 SUL LTDA",
+      "cnpj": "32216743000190",
+      "total": 8359.91,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 2.02
+    },
+    {
+      "nome": "CLARO",
+      "cnpj": "40432544006269",
+      "total": 7012.13,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 1.7
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 4753.79,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.15
+    },
+    {
+      "nome": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
+      "cnpj": "04088208000165",
+      "total": 4357.04,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.05
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 4326.6,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.05
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 16203.34,
+      "porcentagem_do_total": 3.92
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 15399.57,
+      "porcentagem_do_total": 3.72
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 23024.46,
+      "porcentagem_do_total": 5.57
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 35689.3,
+      "porcentagem_do_total": 8.63
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 34299.52,
+      "porcentagem_do_total": 8.3
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 51434.91,
+      "porcentagem_do_total": 12.44
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 32008.36,
+      "porcentagem_do_total": 7.74
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 22658.91,
+      "porcentagem_do_total": 5.48
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 22131.25,
+      "porcentagem_do_total": 5.35
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 40182.01,
+      "porcentagem_do_total": 9.72
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 62903.98,
+      "porcentagem_do_total": 15.21
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 57534.13,
+      "porcentagem_do_total": 13.91
+    }
+  ]
+}

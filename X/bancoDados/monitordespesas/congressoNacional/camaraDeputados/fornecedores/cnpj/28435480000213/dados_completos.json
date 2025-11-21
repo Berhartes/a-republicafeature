@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SOFT GESTÃO E CONSULTORIA HOTELEIRA LTDA-ME",
+      "cnpj": "28435480000213",
+      "total_recebido": 336.58,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:28.658265"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 336.58
+  },
+  "anos": {
+    "2024": {
+      "total": 336.58,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "226708": {
+      "deputado": {
+        "id": 226708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
+        "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226708.jpg",
+        "email": "dep.allangarces@camara.leg.br"
+      },
+      "total": 336.58,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7671060,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-05T00:00:00",
+          "numDocumento": "00109586",
+          "valorDocumento": 336.58,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2024/7671060.pdf",
+          "nomeFornecedor": "SOFT GESTÃO E CONSULTORIA HOTELEIRA LTDA-ME",
+          "cnpjCpfFornecedor": "28435480000213",
+          "valorLiquido": 336.58,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

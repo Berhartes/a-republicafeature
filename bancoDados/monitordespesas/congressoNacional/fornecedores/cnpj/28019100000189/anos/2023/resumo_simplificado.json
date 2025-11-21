@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "VIAPAULISTA S/A",
+    "cnpj": "28019100000189",
+    "total_recebido": 232.60000000000002,
+    "numero_transacoes": 24,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 232.6,
+  "quantidade_transacoes": 24,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 232.6,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 232.6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 75.2,
+      "porcentagem_do_total": 32.33
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 157.4,
+      "porcentagem_do_total": 67.67
+    }
+  ]
+}

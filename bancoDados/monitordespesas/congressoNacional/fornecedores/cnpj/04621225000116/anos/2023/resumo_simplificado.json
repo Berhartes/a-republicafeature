@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
+    "cnpj": "04621225000116",
+    "total_recebido": 300.68,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 300.68,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 300.68,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 300.68,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 300.68,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "HOTEL HAVAÍ",
+    "cnpj": "01267079000184",
+    "total_recebido": 760.0,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 250.0,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 250.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 250.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 250.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

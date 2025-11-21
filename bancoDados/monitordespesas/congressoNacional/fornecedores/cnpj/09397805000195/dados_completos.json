@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "F G ZANIBONI HOTEL EIRELI-EPP",
+      "cnpj": "09397805000195",
+      "total_recebido": 264.71,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:56.687484"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": 264.71
+  },
+  "anos": {
+    "2024": {
+      "total": 264.71,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 264.71,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "codDocumento": 7739565,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-13T00:00:00",
+          "numDocumento": "0000022617",
+          "valorDocumento": 264.71,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7739565.pdf",
+          "nomeFornecedor": "F G ZANIBONI HOTEL EIRELI-EPP",
+          "cnpjCpfFornecedor": "09397805000195",
+          "valorLiquido": 264.71,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2041547,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "NAVERIO.NAVEGACAO DO RIO AM.LTDA",
+    "cnpj": "84477215001593",
+    "total_recebido": 151.75,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 151.75,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 151.75,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 151.75,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 151.75,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

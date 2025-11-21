@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Semalo Combustiveis Ltda",
+      "cnpj": "22887764000698",
+      "total_recebido": 325.04,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:16.907179"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 325.04
+  },
+  "anos": {
+    "2024": {
+      "total": 325.04,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220538": {
+      "deputado": {
+        "id": 220538,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220538",
+        "nome": "Albuquerque",
+        "nomeEleitoral": "Albuquerque",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "RR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220538.jpg",
+        "email": "dep.albuquerque@camara.leg.br"
+      },
+      "total": 325.04,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7715229,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-24T17:42:29",
+          "numDocumento": "18525",
+          "valorDocumento": 325.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7715229",
+          "nomeFornecedor": "Semalo Combustiveis Ltda",
+          "cnpjCpfFornecedor": "22887764000698",
+          "valorLiquido": 325.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

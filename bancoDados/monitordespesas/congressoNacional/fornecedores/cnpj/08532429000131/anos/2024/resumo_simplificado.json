@@ -1,0 +1,66 @@
+{
+  "fornecedor": {
+    "nome": "Amoretto cafes expresso ltda",
+    "cnpj": "08532429000131",
+    "total_recebido": 11400.0,
+    "numero_transacoes": 15,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 4500.0,
+  "quantidade_transacoes": 6,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 4500.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 4500.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 750.0,
+      "porcentagem_do_total": 16.67
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 750.0,
+      "porcentagem_do_total": 16.67
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 750.0,
+      "porcentagem_do_total": 16.67
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 750.0,
+      "porcentagem_do_total": 16.67
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 750.0,
+      "porcentagem_do_total": 16.67
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 750.0,
+      "porcentagem_do_total": 16.67
+    }
+  ]
+}

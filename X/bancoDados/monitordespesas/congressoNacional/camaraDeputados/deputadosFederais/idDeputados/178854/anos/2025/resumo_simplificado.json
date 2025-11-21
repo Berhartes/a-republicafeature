@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 178854,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178854",
+    "nome": "Elmar Nascimento",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178854.jpg",
+    "email": "dep.elmarnascimento@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 284497.55,
+  "quantidade_transacoes": 128,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 95766.8,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 33.66
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 75260.6,
+      "quantidade_transacoes": 51,
+      "porcentagem_do_total": 26.45
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 68598.06,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 24.11
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 24760.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 8.7
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 16854.21,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 5.92
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ATLÂNTICO TRANSPORTES LTDA.",
+      "cnpj": "08380889000191",
+      "total": 93500.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 32.86
+    },
+    {
+      "nome": "ISABELLA CEOLIN DADALTO SOUTO",
+      "cnpj": "77675851587",
+      "total": 60965.5,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 21.43
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 44225.16,
+      "quantidade_transacoes": 36,
+      "porcentagem_do_total": 15.55
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 28486.98,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 10.01
+    },
+    {
+      "nome": "I DO MARKETING E CONSULTORIA LTDA",
+      "cnpj": "41931596000120",
+      "total": 18760.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 6.59
+    },
+    {
+      "nome": "AIR BP PETROBAHIA LTDA",
+      "cnpj": "22899533000602",
+      "total": 15308.01,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 5.38
+    },
+    {
+      "nome": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+      "cnpj": "15139629000194",
+      "total": 7433.33,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 2.61
+    },
+    {
+      "nome": "Claro NXT Telecomunicações S.A",
+      "cnpj": "66970229026395",
+      "total": 3457.11,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 1.22
+    },
+    {
+      "nome": "NATHALIA WEST DE MAGALHES LEITE",
+      "cnpj": "19277933000159",
+      "total": 3000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.05
+    },
+    {
+      "nome": "RODRIGO DOS SANTOS TAVARES",
+      "cnpj": "49805352000103",
+      "total": 3000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.05
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 30284.88,
+      "porcentagem_do_total": 10.65
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 16421.55,
+      "porcentagem_do_total": 5.77
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 30286.61,
+      "porcentagem_do_total": 10.65
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 25195.12,
+      "porcentagem_do_total": 8.86
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 14918.2,
+      "porcentagem_do_total": 5.24
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 46885.51,
+      "porcentagem_do_total": 16.48
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 32778.89,
+      "porcentagem_do_total": 11.52
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 32712.7,
+      "porcentagem_do_total": 11.5
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 25909.94,
+      "porcentagem_do_total": 9.11
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 29104.15,
+      "porcentagem_do_total": 10.23
+    }
+  ]
+}

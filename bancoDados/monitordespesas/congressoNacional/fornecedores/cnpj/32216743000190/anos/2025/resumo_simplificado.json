@@ -1,0 +1,49 @@
+{
+  "fornecedor": {
+    "nome": "POSTO DE COMBUSTIVEIS 309 SUL LTDA",
+    "cnpj": "32216743000190",
+    "total_recebido": 704.4100000000001,
+    "numero_transacoes": 4,
+    "numero_deputados": 3
+  },
+  "ano": 2025,
+  "total_recebido": 446.37,
+  "quantidade_transacoes": 3,
+  "principais_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 346.37,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 77.6
+    },
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 100.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 22.4
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 446.37,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 100.0,
+      "porcentagem_do_total": 22.4
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 346.37,
+      "porcentagem_do_total": 77.6
+    }
+  ]
+}

@@ -4,6 +4,7 @@ import { Card, CardContent } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Search, User, Building2, AlertTriangle, X, FileText } from 'lucide-react'
 import { cn } from '@/lib/utils'
+import { formatCurrencyBRL } from '@/lib/formatters'
 import { categoryIcons } from './filters/category-icons'
 
 interface SearchResult {
@@ -208,10 +209,10 @@ export function BuscaGlobal({
                             <p className="text-sm text-muted-foreground">{result.descricao}</p>
                           </div>
 
-                          {result.valor && (
+                          {typeof result.valor === 'number' && (
                             <div className="text-right">
                               <p className="font-medium">
-                                R$ {result.valor.toLocaleString('pt-BR', { minimumFractionDigits: 2 })}
+                                {formatCurrencyBRL(result.valor)}
                               </p>
                             </div>
                           )}

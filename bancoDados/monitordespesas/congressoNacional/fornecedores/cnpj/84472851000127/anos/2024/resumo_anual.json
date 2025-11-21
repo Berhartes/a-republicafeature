@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PETROVAN DERIVADOS DE PETROLEO 1  LTDA",
+      "cnpj": "84472851000127",
+      "total_recebido": 850.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 150.0,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-05-13T16:15:14",
+    "periodo_fim": "2024-05-13T16:15:14",
+    "generatedAt": "2025-11-11T21:38:00.961007"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 150.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 150.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 150.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7738690,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-05-13T16:15:14",
+      "numDocumento": "81785",
+      "valorDocumento": 150.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7738690",
+      "nomeFornecedor": "PETROVAN DERIVADOS DE PETROLEO 1  LTDA",
+      "cnpjCpfFornecedor": "84472851000127",
+      "valorLiquido": 150.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2041108,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

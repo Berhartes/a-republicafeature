@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "F M J A COMERCIO DE COMBUSTIVEIS LTDA",
+    "cnpj": "15644821000138",
+    "total_recebido": 282.04,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 282.04,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 282.04,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 282.04,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 282.04,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

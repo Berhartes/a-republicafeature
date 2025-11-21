@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220635,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220635",
+    "nome": "Bruno Ganem",
+    "siglaPartido": "PODE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220635.jpg",
+    "email": "dep.brunoganem@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 490592.32,
+  "quantidade_transacoes": 335,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 252690.7,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 51.51
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 145767.13,
+      "quantidade_transacoes": 193,
+      "porcentagem_do_total": 29.71
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 61312.52,
+      "quantidade_transacoes": 55,
+      "porcentagem_do_total": 12.5
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 18378.14,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 3.75
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 6955.38,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.42
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Facebook Serviços Online do Brasil",
+      "cnpj": "13347016000117",
+      "total": 209690.7,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 42.74
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 114008.58,
+      "quantidade_transacoes": 146,
+      "porcentagem_do_total": 23.24
+    },
+    {
+      "nome": "FINANZA CONSULTORIA IMOBILIARIA LTDA",
+      "cnpj": "30367355000184",
+      "total": 43184.9,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 8.8
+    },
+    {
+      "nome": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.",
+      "cnpj": "13347016000117",
+      "total": 43000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 8.76
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 28288.21,
+      "quantidade_transacoes": 44,
+      "porcentagem_do_total": 5.77
+    },
+    {
+      "nome": "LOCALIZA RENT A CAR SA",
+      "cnpj": "16670085006277",
+      "total": 16427.08,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 3.35
+    },
+    {
+      "nome": "GUSTAVO NOGUEIRA CAMPOS",
+      "cnpj": "27383072804",
+      "total": 8244.81,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.68
+    },
+    {
+      "nome": "Gol Linhas Aereas S.A.",
+      "cnpj": "07575651000159",
+      "total": 6955.38,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.42
+    },
+    {
+      "nome": "COMPANHIA PIRATININGA DE FORCA E LUZ",
+      "cnpj": "04172213000151",
+      "total": 4047.76,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 0.83
+    },
+    {
+      "nome": "Telefônica Brasil S.A. VIVO",
+      "cnpj": "02558157000162",
+      "total": 3473.45,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 0.71
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 24984.98,
+      "porcentagem_do_total": 5.09
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 47665.52,
+      "porcentagem_do_total": 9.72
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 50505.68,
+      "porcentagem_do_total": 10.29
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 48499.04,
+      "porcentagem_do_total": 9.89
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 53377.27,
+      "porcentagem_do_total": 10.88
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 41861.58,
+      "porcentagem_do_total": 8.53
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 49308.79,
+      "porcentagem_do_total": 10.05
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 49692.45,
+      "porcentagem_do_total": 10.13
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 42232.74,
+      "porcentagem_do_total": 8.61
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 47983.66,
+      "porcentagem_do_total": 9.78
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 34480.61,
+      "porcentagem_do_total": 7.03
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "REDE K COMBUSTIVEIS LTDA",
+      "cnpj": "26333693000128",
+      "total_recebido": 523.19,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:22.400058"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 523.19
+  },
+  "anos": {
+    "2025": {
+      "total": 523.19,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220542": {
+      "deputado": {
+        "id": 220542,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
+        "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
+        "email": "dep.alexandreguimaraes@camara.leg.br"
+      },
+      "total": 523.19,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7967646,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-18T00:00:00",
+          "numDocumento": "827974",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7967646",
+          "nomeFornecedor": "REDE K COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "26333693000128",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7978990,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-07T00:00:00",
+          "numDocumento": "846404",
+          "valorDocumento": 323.19,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7978990",
+          "nomeFornecedor": "REDE K COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "26333693000128",
+          "valorLiquido": 323.19,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

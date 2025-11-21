@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ALLPARK EMPREEND. PARTIC. E SERV. S/A",
+      "cnpj": "60537263089981",
+      "total_recebido": 63.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 63.0,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-10-23T00:00:00",
+    "periodo_fim": "2023-10-23T00:00:00",
+    "generatedAt": "2025-11-11T21:38:03.867013"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 63.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 63.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 63.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 10,
+      "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "codDocumento": 7633481,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-10-23T00:00:00",
+      "numDocumento": "422490",
+      "valorDocumento": 63.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7633481.pdf",
+      "nomeFornecedor": "ALLPARK EMPREEND. PARTIC. E SERV. S/A",
+      "cnpjCpfFornecedor": "60537263089981",
+      "valorLiquido": 63.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1982334,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

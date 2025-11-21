@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "COMERCIAL DE DERIVADO DE PETROLEO SAO CARLOS LTDA",
+    "cnpj": "00148072000180",
+    "total_recebido": 249.27,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 249.27,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 249.27,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 249.27,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 249.27,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

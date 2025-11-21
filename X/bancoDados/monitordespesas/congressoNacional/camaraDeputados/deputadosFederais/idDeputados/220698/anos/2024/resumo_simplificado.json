@@ -1,0 +1,158 @@
+{
+  "deputado": {
+    "id": 220698,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220698",
+    "nome": "Beto Preto",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 226576.99,
+  "quantidade_transacoes": 269,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 88390.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 39.01
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 85944.21,
+      "quantidade_transacoes": 75,
+      "porcentagem_do_total": 37.93
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 32041.6,
+      "quantidade_transacoes": 122,
+      "porcentagem_do_total": 14.14
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 11039.45,
+      "quantidade_transacoes": 33,
+      "porcentagem_do_total": 4.87
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 3899.7,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.72
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 48431.07,
+      "quantidade_transacoes": 45,
+      "porcentagem_do_total": 21.38
+    },
+    {
+      "nome": "NUI COMUNICAÇÃO E MARKETING LTDA",
+      "cnpj": "40411778000108",
+      "total": 29970.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 13.23
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 19575.7,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 8.64
+    },
+    {
+      "nome": "D'PONTA MIDIAS E CONSULTORIA LTDA",
+      "cnpj": "07136697000171",
+      "total": 19000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 8.39
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 17937.44,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 7.92
+    },
+    {
+      "nome": "GIULIANO B. PAMPLONA LTDA GRUPO PAMPLONA",
+      "cnpj": "49958297000191",
+      "total": 15120.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 6.67
+    },
+    {
+      "nome": "TRADE COMUNICAÇAO E MARKETINGS LTDA",
+      "cnpj": "81078289000163",
+      "total": 12300.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.43
+    },
+    {
+      "nome": "PROARTE COMUNICAÇÃO LTDA",
+      "cnpj": "40203668000150",
+      "total": 12000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.3
+    },
+    {
+      "nome": "FABIO DE OLIVEIRA COMERCIO DE COMBUSTIVEIS",
+      "cnpj": "01897733000133",
+      "total": 5785.13,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 2.55
+    },
+    {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+      "cnpj": "12132854000100",
+      "total": 3899.7,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.72
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 29582.56,
+      "porcentagem_do_total": 13.06
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 30493.01,
+      "porcentagem_do_total": 13.46
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 44005.1,
+      "porcentagem_do_total": 19.42
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 21912.13,
+      "porcentagem_do_total": 9.67
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 66678.19,
+      "porcentagem_do_total": 29.43
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 33906.0,
+      "porcentagem_do_total": 14.96
+    }
+  ]
+}

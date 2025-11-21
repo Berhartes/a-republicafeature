@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "RODOPOSTO CORAL LTDA",
+      "cnpj": "54844998000130",
+      "total_recebido": 937.47,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 709.22,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-02-26T00:00:00",
+    "periodo_fim": "2023-12-18T00:00:00",
+    "generatedAt": "2025-11-11T21:38:03.158010"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 709.22,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 709.22,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 216.0,
+      "porcentagem_do_total": 30.46
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 237.98,
+      "porcentagem_do_total": 33.56
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 255.24,
+      "porcentagem_do_total": 35.99
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7520468,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-03-31T00:00:00",
+      "numDocumento": "181790",
+      "valorDocumento": 237.98,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7520468.pdf",
+      "nomeFornecedor": "RODOPOSTO CORAL LTDA",
+      "cnpjCpfFornecedor": "54844998000130",
+      "valorLiquido": 237.98,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1920825,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7503446,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-26T00:00:00",
+      "numDocumento": "754606",
+      "valorDocumento": 216.0,
+      "urlDocumento": null,
+      "nomeFornecedor": "RODOPOSTO CORAL LTDA",
+      "cnpjCpfFornecedor": "54844998000130",
+      "valorLiquido": 216.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1911356,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7670282,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-12-18T00:00:00",
+      "numDocumento": "944806",
+      "valorDocumento": 255.24,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7670282.pdf",
+      "nomeFornecedor": "RODOPOSTO CORAL LTDA",
+      "cnpjCpfFornecedor": "54844998000130",
+      "valorLiquido": 255.24,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2003115,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

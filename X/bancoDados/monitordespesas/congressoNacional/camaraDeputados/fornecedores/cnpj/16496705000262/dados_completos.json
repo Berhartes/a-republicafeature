@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIAL DE COMBUSTIVEIS MARTINS LTDA",
+      "cnpj": "16496705000262",
+      "total_recebido": 149.34,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:20.016567"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 149.34
+  },
+  "anos": {
+    "2025": {
+      "total": 149.34,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204571": {
+      "deputado": {
+        "id": 204571,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
+        "nome": "Alex Santana",
+        "nomeEleitoral": "Alex Santana",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204571.jpg",
+        "email": "dep.alexsantana@camara.leg.br"
+      },
+      "total": 149.34,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7949048,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-23T00:00:00",
+          "numDocumento": "122164",
+          "valorDocumento": 149.34,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7949048",
+          "nomeFornecedor": "COMERCIAL DE COMBUSTIVEIS MARTINS LTDA",
+          "cnpjCpfFornecedor": "16496705000262",
+          "valorLiquido": 149.34,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

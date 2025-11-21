@@ -1,0 +1,111 @@
+{
+  "deputado": {
+    "id": 220681,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220681",
+    "nome": "Fábio Macedo",
+    "siglaPartido": "PODE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220681.jpg",
+    "email": "dep.fabiomacedo@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 204127.55,
+  "quantidade_transacoes": 30,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 176000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 86.22
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 28127.55,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 13.78
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "IMS SERVIÇOS EIRELI",
+      "cnpj": "15717794000186",
+      "total": 107000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 52.42
+    },
+    {
+      "nome": "FN SERVICES LTDA",
+      "cnpj": "38431985000182",
+      "total": 69000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 33.8
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 21451.53,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 10.51
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 5260.28,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 2.58
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 1415.74,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.69
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 3545.83,
+      "porcentagem_do_total": 1.74
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 50642.12,
+      "porcentagem_do_total": 24.81
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 4638.27,
+      "porcentagem_do_total": 2.27
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 55276.77,
+      "porcentagem_do_total": 27.08
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 11024.56,
+      "porcentagem_do_total": 5.4
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 23000.0,
+      "porcentagem_do_total": 11.27
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 56000.0,
+      "porcentagem_do_total": 27.43
+    }
+  ]
+}

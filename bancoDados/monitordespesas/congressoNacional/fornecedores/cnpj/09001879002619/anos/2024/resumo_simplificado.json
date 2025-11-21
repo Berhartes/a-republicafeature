@@ -1,0 +1,54 @@
+{
+  "fornecedor": {
+    "nome": "COMERCIAL AMAZONIA 24 DE PETROLEO EIRELI",
+    "cnpj": "09001879002619",
+    "total_recebido": 3437.77,
+    "numero_transacoes": 17,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 1259.2,
+  "quantidade_transacoes": 5,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 1259.2,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1259.2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 236.71,
+      "porcentagem_do_total": 18.8
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 271.52,
+      "porcentagem_do_total": 21.56
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 248.18,
+      "porcentagem_do_total": 19.71
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 502.79,
+      "porcentagem_do_total": 39.93
+    }
+  ]
+}

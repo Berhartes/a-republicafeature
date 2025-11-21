@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 204528,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204528",
+    "nome": "Adriana Ventura",
+    "siglaPartido": "NOVO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37901",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
+    "email": "dep.adrianaventura@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 75471.13,
+  "quantidade_transacoes": 272,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 38722.0,
+      "quantidade_transacoes": 51,
+      "porcentagem_do_total": 51.31
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 18476.58,
+      "quantidade_transacoes": 82,
+      "porcentagem_do_total": 24.48
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 5233.78,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 6.93
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 5162.73,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 6.84
+    },
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 5074.4,
+      "quantidade_transacoes": 107,
+      "porcentagem_do_total": 6.72
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Airtable",
+      "cnpj": "00000000000010",
+      "total": 22287.24,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 29.53
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 14717.83,
+      "quantidade_transacoes": 69,
+      "porcentagem_do_total": 19.5
+    },
+    {
+      "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpj": "17895646000187",
+      "total": 5013.8,
+      "quantidade_transacoes": 106,
+      "porcentagem_do_total": 6.64
+    },
+    {
+      "nome": "AMERICAN PLAZA ADMINISTRAÇÃO HOTELARIA LTDA",
+      "cnpj": "07749188000114",
+      "total": 3999.08,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 5.3
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 2791.97,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 3.7
+    },
+    {
+      "nome": "LWSA S.A. - Locaweb",
+      "cnpj": "02351877000152",
+      "total": 2604.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.45
+    },
+    {
+      "nome": "BRASIL CLOUD SERVIÇOS DE COMPUTAÇAO EM NUVEM LTDA ME",
+      "cnpj": "07951563000104",
+      "total": 2564.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 3.4
+    },
+    {
+      "nome": "Adobe Systems Software Ireland Ltd",
+      "cnpj": "00000000000010",
+      "total": 2475.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 3.28
+    },
+    {
+      "nome": "TELEFÔNICA BRASIL S/A - VIVO",
+      "cnpj": "02558157000162",
+      "total": 2027.96,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 2.69
+    },
+    {
+      "nome": "BOTCONVERSA LTDA",
+      "cnpj": "39994996000133",
+      "total": 1798.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.38
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 8779.93,
+      "porcentagem_do_total": 11.63
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 6103.14,
+      "porcentagem_do_total": 8.09
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 7395.09,
+      "porcentagem_do_total": 9.8
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 6783.73,
+      "porcentagem_do_total": 8.99
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 17228.2,
+      "porcentagem_do_total": 22.83
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 7978.13,
+      "porcentagem_do_total": 10.57
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 6158.37,
+      "porcentagem_do_total": 8.16
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 8763.45,
+      "porcentagem_do_total": 11.61
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 4804.23,
+      "porcentagem_do_total": 6.37
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 1476.86,
+      "porcentagem_do_total": 1.96
+    }
+  ]
+}

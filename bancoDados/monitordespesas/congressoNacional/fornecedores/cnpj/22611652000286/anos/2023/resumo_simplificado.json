@@ -1,0 +1,54 @@
+{
+  "fornecedor": {
+    "nome": "REDE AMERICA DE COMBUSTIVEIS JK LTDA",
+    "cnpj": "22611652000286",
+    "total_recebido": 691.6200000000001,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 691.62,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 691.62,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 691.62,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 191.99,
+      "porcentagem_do_total": 27.76
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 178.09,
+      "porcentagem_do_total": 25.75
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 215.1,
+      "porcentagem_do_total": 31.1
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 106.44,
+      "porcentagem_do_total": 15.39
+    }
+  ]
+}

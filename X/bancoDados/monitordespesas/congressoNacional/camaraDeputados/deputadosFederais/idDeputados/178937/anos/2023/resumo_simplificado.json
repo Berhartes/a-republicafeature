@@ -1,0 +1,154 @@
+{
+  "deputado": {
+    "id": 178937,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178937",
+    "nome": "Altineu Côrtes",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178937.jpg",
+    "email": "dep.altineucortes@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 336312.0,
+  "quantidade_transacoes": 192,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 192900.0,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 57.36
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 93912.0,
+      "quantidade_transacoes": 168,
+      "porcentagem_do_total": 27.92
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 49500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 14.72
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CLIO CRIATIVA AGENCIA DE PUBLICIDADE E MARKETING LTDA",
+      "cnpj": "22876688000100",
+      "total": 177000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 52.63
+    },
+    {
+      "nome": "QUASAR LOCADORA DE VEICULOS EIRELI",
+      "cnpj": "38024675000143",
+      "total": 49500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 14.72
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 45661.91,
+      "quantidade_transacoes": 80,
+      "porcentagem_do_total": 13.58
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 28699.18,
+      "quantidade_transacoes": 42,
+      "porcentagem_do_total": 8.53
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 19550.91,
+      "quantidade_transacoes": 46,
+      "porcentagem_do_total": 5.81
+    },
+    {
+      "nome": "R A NASCIMENTO CONSULTORIA POLITICA",
+      "cnpj": "34338563000106",
+      "total": 15900.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 4.73
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 14500.0,
+      "porcentagem_do_total": 4.31
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 19940.44,
+      "porcentagem_do_total": 5.93
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 25170.31,
+      "porcentagem_do_total": 7.48
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 28843.26,
+      "porcentagem_do_total": 8.58
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 33289.28,
+      "porcentagem_do_total": 9.9
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 37006.49,
+      "porcentagem_do_total": 11.0
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 29998.61,
+      "porcentagem_do_total": 8.92
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 7041.96,
+      "porcentagem_do_total": 2.09
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 26766.34,
+      "porcentagem_do_total": 7.96
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 51400.23,
+      "porcentagem_do_total": 15.28
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 33379.08,
+      "porcentagem_do_total": 9.93
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 28976.0,
+      "porcentagem_do_total": 8.62
+    }
+  ]
+}

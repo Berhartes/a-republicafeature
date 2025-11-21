@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ADAFE COMERCIO E SERVICOS LTDA",
+      "cnpj": "89640791000128",
+      "total_recebido": 199.02,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-07T05:43:11.522047"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 199.02
+  },
+  "anos": {
+    "2025": {
+      "total": 199.02,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "136811": {
+      "deputado": {
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
+      },
+      "total": 199.02,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 8004514,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-17T00:00:00",
+          "numDocumento": "139215",
+          "valorDocumento": 199.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8004514",
+          "nomeFornecedor": "ADAFE COMERCIO E SERVICOS LTDA",
+          "cnpjCpfFornecedor": "89640791000128",
+          "valorLiquido": 199.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

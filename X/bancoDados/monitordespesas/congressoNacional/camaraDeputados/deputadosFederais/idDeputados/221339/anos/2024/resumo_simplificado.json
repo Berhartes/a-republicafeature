@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 221339,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221339",
+    "nome": "Dr. Benjamim",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221339.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 529894.13,
+  "quantidade_transacoes": 103,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 200000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 37.74
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 125000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 23.59
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 75298.2,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 14.21
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 74469.23,
+      "quantidade_transacoes": 65,
+      "porcentagem_do_total": 14.05
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 55126.7,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 10.4
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ALICE MARKETING E COMUNICACAO EIRELI",
+      "cnpj": "29481275000176",
+      "total": 180000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 33.97
+    },
+    {
+      "nome": "FRANCO EMPREENDIMENTOS LTDA",
+      "cnpj": "15599258000123",
+      "total": 125000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 23.59
+    },
+    {
+      "nome": "Rubens de Carvalho Andrade",
+      "cnpj": "34603832320",
+      "total": 72000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 13.59
+    },
+    {
+      "nome": "AUTO POSTO NOVA ACAILANDIA LTDA",
+      "cnpj": "12811039000178",
+      "total": 55126.7,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 10.4
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 54463.1,
+      "quantidade_transacoes": 48,
+      "porcentagem_do_total": 10.28
+    },
+    {
+      "nome": "PEUMAI PUBLICIDADE E MARKETING LTDA",
+      "cnpj": "49888526000149",
+      "total": 20000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.77
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 16280.83,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 3.07
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 3725.3,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.7
+    },
+    {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+      "cnpj": "12132854000100",
+      "total": 2354.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.44
+    },
+    {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+      "cnpj": "12132854000100",
+      "total": 944.2,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.18
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 40284.97,
+      "porcentagem_do_total": 7.6
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 63164.18,
+      "porcentagem_do_total": 11.92
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 51913.87,
+      "porcentagem_do_total": 9.8
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 63054.65,
+      "porcentagem_do_total": 11.9
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 67836.07,
+      "porcentagem_do_total": 12.8
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 24271.69,
+      "porcentagem_do_total": 4.58
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 31232.98,
+      "porcentagem_do_total": 5.89
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 30683.6,
+      "porcentagem_do_total": 5.79
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 35671.86,
+      "porcentagem_do_total": 6.73
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 41647.3,
+      "porcentagem_do_total": 7.86
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 64917.59,
+      "porcentagem_do_total": 12.25
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 15215.37,
+      "porcentagem_do_total": 2.87
+    }
+  ]
+}

@@ -1,19 +1,10 @@
-import type { Config } from 'tailwindcss'
-import animatePlugin from 'tailwindcss-animate'
+import animate from 'tailwindcss-animate'
 
-const config: Config = {
+const config = {
   darkMode: ['class'],
   content: [
     './pages/**/*.{ts,tsx,js,jsx}',
-    './src/pages/**/*.{ts,tsx,js,jsx}',
-    './src/components/**/*.{ts,tsx,js,jsx}',
-    './src/contexts/**/*.{ts,tsx,js,jsx}',
-    './src/services/**/*.{ts,tsx,js,jsx}',
-    './src/hooks/**/*.{ts,tsx,js,jsx}',
-    './src/lib/**/*.{ts,tsx,js,jsx}',
-    './src/utils/**/*.{ts,tsx,js,jsx}',
-    './src/types/**/*.{ts,tsx,js,jsx}',
-    './src/**/*.{ts,tsx,js,jsx}'
+    './src/**/*.{ts,tsx,js,jsx}',
   ],
   theme: {
     container: {
@@ -82,12 +73,16 @@ const config: Config = {
       },
       keyframes: {
         'accordion-down': {
-          from: { height: 0 },
+          from: { height: '0px' },
           to: { height: 'var(--radix-accordion-content-height)' }
         },
         'accordion-up': {
           from: { height: 'var(--radix-accordion-content-height)' },
-          to: { height: 0 }
+          to: { height: '0px' }
+        },
+        collapse: {
+          from: { height: '0px' },
+          to: { height: '0px' }
         }
       },
       animation: {
@@ -100,7 +95,7 @@ const config: Config = {
       }
     }
   },
-  plugins: [animatePlugin]
+  plugins: [animate],
 }
 
 export default config

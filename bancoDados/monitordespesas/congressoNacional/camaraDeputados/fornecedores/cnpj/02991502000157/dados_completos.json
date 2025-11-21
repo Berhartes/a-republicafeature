@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:02.426991"
+    "generatedAt": "2025-11-11T05:22:34.298553"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 520.05
@@ -30,6 +30,7 @@
         "id": 220542,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
         "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
         "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "TO",
@@ -40,25 +41,6 @@
       "total": 520.05,
       "transacoes": 3,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 8,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7787270,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-08-01T00:00:00",
-          "numDocumento": "77648",
-          "valorDocumento": 200.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7787270",
-          "nomeFornecedor": "BEATRIZ TEIXEIRA LACERDA CAMPOS",
-          "cnpjCpfFornecedor": "02991502000157",
-          "valorLiquido": 200.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 4,
@@ -73,6 +55,25 @@
           "nomeFornecedor": "BEATRIZ TEIXEIRA LACERDA CAMPOS",
           "cnpjCpfFornecedor": "02991502000157",
           "valorLiquido": 220.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7787270,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-01T00:00:00",
+          "numDocumento": "77648",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7787270",
+          "nomeFornecedor": "BEATRIZ TEIXEIRA LACERDA CAMPOS",
+          "cnpjCpfFornecedor": "02991502000157",
+          "valorLiquido": 200.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

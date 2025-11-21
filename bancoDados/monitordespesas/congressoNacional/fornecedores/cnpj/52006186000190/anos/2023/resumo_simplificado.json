@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "POSTO SANTA ADELIA",
+    "cnpj": "52006186000190",
+    "total_recebido": 156.42,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 156.42,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 156.42,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 156.42,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 156.42,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

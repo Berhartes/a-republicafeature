@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Otavio R. Weiss e Guilherme M. Ferreira Ltda Konecta",
+      "cnpj": "26285217000189",
+      "total_recebido": 400.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-07T05:43:11.131474"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 400.0
+  },
+  "anos": {
+    "2025": {
+      "total": 400.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "136811": {
+      "deputado": {
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
+      },
+      "total": 400.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7885791,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-18T00:00:00",
+          "numDocumento": "103",
+          "valorDocumento": 400.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2025/7885791.pdf",
+          "nomeFornecedor": "Otavio R. Weiss e Guilherme M. Ferreira Ltda Konecta",
+          "cnpjCpfFornecedor": "26285217000189",
+          "valorLiquido": 400.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

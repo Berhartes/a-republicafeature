@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220596,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220596",
+    "nome": "Amália Barros",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "MT",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220596.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 497876.65,
+  "quantidade_transacoes": 689,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 111201.17,
+      "quantidade_transacoes": 116,
+      "porcentagem_do_total": 22.34
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 110809.19,
+      "quantidade_transacoes": 49,
+      "porcentagem_do_total": 22.26
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 106539.35,
+      "quantidade_transacoes": 44,
+      "porcentagem_do_total": 21.4
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 85674.79,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 17.21
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 35557.07,
+      "quantidade_transacoes": 178,
+      "porcentagem_do_total": 7.14
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "3T HOLDING DE PARTICIPAÇÕES LTDA-EPP",
+      "cnpj": "20968799000111",
+      "total": 89900.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 18.06
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 68562.94,
+      "quantidade_transacoes": 59,
+      "porcentagem_do_total": 13.77
+    },
+    {
+      "nome": "MINUSSI FILMES PRESTACOES DE SERVICOS PRODUCOES CINEMATOGRAF",
+      "cnpj": "37306485000156",
+      "total": 32400.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.51
+    },
+    {
+      "nome": "VD COMERCIO DE VEICULOS LTDA - DF",
+      "cnpj": "39786983001906",
+      "total": 31120.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 6.25
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 28110.08,
+      "quantidade_transacoes": 43,
+      "porcentagem_do_total": 5.65
+    },
+    {
+      "nome": "BRUNO VINICIUS DOS SANTOS MIRANDA",
+      "cnpj": "50030019000159",
+      "total": 21000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 4.22
+    },
+    {
+      "nome": "LOCALIZA FLEET SA",
+      "cnpj": "02286479000108",
+      "total": 18927.69,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.8
+    },
+    {
+      "nome": "A.L VEDANA LTDA ZEEPE DIGITAL",
+      "cnpj": "40403437000190",
+      "total": 13500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 2.71
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 12851.01,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 2.58
+    },
+    {
+      "nome": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597003112",
+      "total": 11625.25,
+      "quantidade_transacoes": 47,
+      "porcentagem_do_total": 2.33
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 30737.31,
+      "porcentagem_do_total": 6.17
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 34064.57,
+      "porcentagem_do_total": 6.84
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 33962.07,
+      "porcentagem_do_total": 6.82
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 56308.04,
+      "porcentagem_do_total": 11.31
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 66382.78,
+      "porcentagem_do_total": 13.33
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 48127.16,
+      "porcentagem_do_total": 9.67
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 39919.98,
+      "porcentagem_do_total": 8.02
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 41768.46,
+      "porcentagem_do_total": 8.39
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 54792.99,
+      "porcentagem_do_total": 11.01
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 49601.7,
+      "porcentagem_do_total": 9.96
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 42211.59,
+      "porcentagem_do_total": 8.48
+    }
+  ]
+}

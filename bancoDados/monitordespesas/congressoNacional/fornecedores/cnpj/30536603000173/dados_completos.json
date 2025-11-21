@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "DENICOLO COMERCIO DE COMBUSTIVEIS LTDA  REDE SAO PAULO F1",
+      "cnpj": "30536603000173",
+      "total_recebido": 99.42,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:53.783485"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 99.42
+  },
+  "anos": {
+    "2023": {
+      "total": 99.42,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 99.42,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7531002,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-04-21T00:00:00",
+          "numDocumento": "47123",
+          "valorDocumento": 99.42,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7531002",
+          "nomeFornecedor": "DENICOLO COMERCIO DE COMBUSTIVEIS LTDA  REDE SAO PAULO F1",
+          "cnpjCpfFornecedor": "30536603000173",
+          "valorLiquido": 99.42,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1926495,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

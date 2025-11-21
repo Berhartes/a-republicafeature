@@ -19,7 +19,7 @@ const Config: Config = {
   measurementId: ''
 }
 
-let isConfigured = false
+let firebaseConfigured = false
 
 export function initialize(): null {
   console.warn('⚠️ [] DESABILITADO - Sistema usa cache local agora')
@@ -41,7 +41,7 @@ export const testConnection = () => Promise.resolve(false)
 
 console.log('📦 [CacheLocal]  desabilitado - sistema usa cache local')
 
-export default {
+const firebaseConfig = {
   initialize,
   getInstance,
   getAuthInstance,
@@ -49,3 +49,5 @@ export default {
   getStatus,
   testConnection
 }
+
+export default firebaseConfig

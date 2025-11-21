@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO TAPAJOS LTDA",
+      "cnpj": "19540628000108",
+      "total_recebido": 294.09,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:15.201808"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 294.09
+  },
+  "anos": {
+    "2024": {
+      "total": 294.09,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204495": {
+      "deputado": {
+        "id": 204495,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204495",
+        "nome": "Airton Faleiro",
+        "nomeEleitoral": "Airton Faleiro",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "PA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204495.jpg",
+        "email": "dep.airtonfaleiro@camara.leg.br"
+      },
+      "total": 294.09,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7792354,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-08T00:00:00",
+          "numDocumento": "452523",
+          "valorDocumento": 294.09,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7792354",
+          "nomeFornecedor": "AUTO POSTO TAPAJOS LTDA",
+          "cnpjCpfFornecedor": "19540628000108",
+          "valorLiquido": 294.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

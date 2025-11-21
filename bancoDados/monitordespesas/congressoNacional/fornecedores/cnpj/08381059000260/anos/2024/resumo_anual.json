@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "FERREIRA COMERCIO DE DERV DE PET. LTDA",
+      "cnpj": "08381059000260",
+      "total_recebido": 319.45,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 319.45,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-11-06T08:20:42",
+    "periodo_fim": "2024-11-06T08:20:42",
+    "generatedAt": "2025-11-11T21:37:58.989008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 319.45,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 319.45,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 319.45,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7833222,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-11-06T08:20:42",
+      "numDocumento": "1250227",
+      "valorDocumento": 319.45,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7833222",
+      "nomeFornecedor": "FERREIRA COMERCIO DE DERV DE PET. LTDA",
+      "cnpjCpfFornecedor": "08381059000260",
+      "valorLiquido": 319.45,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2090590,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

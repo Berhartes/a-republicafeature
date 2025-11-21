@@ -1,0 +1,116 @@
+{
+  "fornecedor": {
+    "nome": "CELULAR FUNCIONAL",
+    "cnpj": "00000000000001",
+    "total_recebido": 12741.15,
+    "numero_transacoes": 63,
+    "numero_deputados": 3
+  },
+  "ano": 2023,
+  "total_recebido": 11616.11,
+  "quantidade_transacoes": 58,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 5606.77,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 48.27
+    },
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 5422.52,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 46.68
+    },
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 586.82,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 5.05
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "TELEFONIA",
+      "total": 11616.11,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 938.79,
+      "porcentagem_do_total": 8.08
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 312.15,
+      "porcentagem_do_total": 2.69
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 911.37,
+      "porcentagem_do_total": 7.85
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 1500.87,
+      "porcentagem_do_total": 12.92
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 246.87,
+      "porcentagem_do_total": 2.13
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 1063.48,
+      "porcentagem_do_total": 9.16
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 963.05,
+      "porcentagem_do_total": 8.29
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 912.28,
+      "porcentagem_do_total": 7.85
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 1615.61,
+      "porcentagem_do_total": 13.91
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 429.16,
+      "porcentagem_do_total": 3.69
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 1594.26,
+      "porcentagem_do_total": 13.72
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 1128.22,
+      "porcentagem_do_total": 9.71
+    }
+  ]
+}

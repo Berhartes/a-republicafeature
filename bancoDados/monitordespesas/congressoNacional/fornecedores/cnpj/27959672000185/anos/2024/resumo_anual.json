@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO K44  EIRELI",
+      "cnpj": "27959672000185",
+      "total_recebido": 259.88,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 259.88,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-05-08T00:00:00",
+    "periodo_fim": "2024-05-08T00:00:00",
+    "generatedAt": "2025-11-11T21:38:04.621011"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 259.88,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 259.88,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 259.88,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7739124,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-05-08T00:00:00",
+      "numDocumento": "656749",
+      "valorDocumento": 259.88,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7739124",
+      "nomeFornecedor": "AUTO POSTO K44  EIRELI",
+      "cnpjCpfFornecedor": "27959672000185",
+      "valorLiquido": 259.88,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2041407,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

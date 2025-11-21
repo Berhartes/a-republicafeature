@@ -3,114 +3,53 @@
     "fornecedor": {
       "nome": "POSTO DE SERVICOS RX LTDA",
       "cnpj": "42525511000177",
-      "total_recebido": 992.4399999999999,
-      "numero_transacoes": 4,
+      "total_recebido": 306.07,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:58:03.276048"
+    "generatedAt": "2025-11-11T05:22:41.218844"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 992.4399999999999
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 306.07
   },
   "anos": {
     "2023": {
-      "total": 722.16,
-      "transacoes": 3,
-      "deputados": 1
-    },
-    "2024": {
-      "total": 270.28,
+      "total": 306.07,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220683": {
+    "178927": {
       "deputado": {
-        "id": 220683,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220683",
-        "nome": "Beto Richa",
-        "siglaPartido": "PSDB",
+        "id": 178927,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
+        "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
+        "siglaPartido": "PV",
         "uriPartido": "",
         "siglaUf": "PR",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220683.jpg",
-        "email": "dep.betoricha@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+        "email": "dep.alielmachado@camara.leg.br"
       },
-      "total": 992.4399999999999,
-      "transacoes": 4,
+      "total": 306.07,
+      "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 10,
+          "mes": 3,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7626760,
+          "codDocumento": 7509456,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-10-16T00:00:00",
-          "numDocumento": "181320",
-          "valorDocumento": 238.44,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7626760",
+          "dataDocumento": "2023-03-13T00:00:00",
+          "numDocumento": "114522",
+          "valorDocumento": 306.07,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7509456",
           "nomeFornecedor": "POSTO DE SERVICOS RX LTDA",
           "cnpjCpfFornecedor": "42525511000177",
-          "valorLiquido": 238.44,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 10,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7630015,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-10-19T00:00:00",
-          "numDocumento": "182129",
-          "valorDocumento": 250.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7630015",
-          "nomeFornecedor": "POSTO DE SERVICOS RX LTDA",
-          "cnpjCpfFornecedor": "42525511000177",
-          "valorLiquido": 250.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7619500,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-09-26T00:00:00",
-          "numDocumento": "175497",
-          "valorDocumento": 233.72,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7619500",
-          "nomeFornecedor": "POSTO DE SERVICOS RX LTDA",
-          "cnpjCpfFornecedor": "42525511000177",
-          "valorLiquido": 233.72,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 12,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7843039,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-12-02T10:32:46",
-          "numDocumento": "305133",
-          "valorDocumento": 270.28,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7843039",
-          "nomeFornecedor": "POSTO DE SERVICOS RX LTDA",
-          "cnpjCpfFornecedor": "42525511000177",
-          "valorLiquido": 270.28,
+          "valorLiquido": 306.07,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

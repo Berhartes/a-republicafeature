@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "AUTO POSTO 405 NORTE LTDA",
       "cnpj": "33431098000190",
-      "total_recebido": 193.03,
+      "total_recebido": 320.0,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:57.567153"
+    "generatedAt": "2025-11-11T05:22:35.159936"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 193.03
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 320.0
   },
   "anos": {
     "2024": {
-      "total": 193.03,
+      "total": 320.0,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "221328": {
+    "160545": {
       "deputado": {
-        "id": 221328,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
-        "nome": "Adilson Barroso",
-        "siglaPartido": "PL",
+        "id": 160545,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160545",
+        "nome": "Alexandre Leite",
+        "nomeEleitoral": "Alexandre Leite",
+        "siglaPartido": "UNIÃO",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
-        "email": "dep.adilsonbarroso@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160545.jpg",
+        "email": null
       },
-      "total": 193.03,
+      "total": 320.0,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2024,
-          "mes": 3,
+          "mes": 10,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7711146,
+          "codDocumento": 7825974,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-03-27T00:00:00",
-          "numDocumento": "35212",
-          "valorDocumento": 193.03,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7711146",
+          "dataDocumento": "2024-10-22T11:39:00",
+          "numDocumento": "9892",
+          "valorDocumento": 320.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7825974",
           "nomeFornecedor": "AUTO POSTO 405 NORTE LTDA",
           "cnpjCpfFornecedor": "33431098000190",
-          "valorLiquido": 193.03,
+          "valorLiquido": 320.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

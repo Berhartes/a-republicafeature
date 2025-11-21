@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PODIUM COMERCIO DE PNEUS AUTO CENTER LTDA",
+      "cnpj": "07153962000200",
+      "total_recebido": 449.66999999999996,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 449.67,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-03-21T11:42:51",
+    "periodo_fim": "2024-11-08T12:41:11",
+    "generatedAt": "2025-11-11T21:38:01.700010"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 449.67,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 449.67,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 150.0,
+      "porcentagem_do_total": 33.36
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 100.0,
+      "porcentagem_do_total": 22.24
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 199.67,
+      "porcentagem_do_total": 44.4
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7827651,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-11-08T12:41:11",
+      "numDocumento": "15332",
+      "valorDocumento": 199.67,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7827651",
+      "nomeFornecedor": "PODIUM COMERCIO DE PNEUS AUTO CENTER LTDA",
+      "cnpjCpfFornecedor": "07153962000200",
+      "valorLiquido": 199.67,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2087583,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7736133,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-05-03T00:00:00",
+      "numDocumento": "729",
+      "valorDocumento": 100.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3536/2024/7736133.pdf",
+      "nomeFornecedor": "PODIUM COMERCIO DE PNEUS AUTO CENTER LTDA",
+      "cnpjCpfFornecedor": "07153962000200",
+      "valorLiquido": 100.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2039860,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2024,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7706523,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-03-21T11:42:51",
+      "numDocumento": "86233",
+      "valorDocumento": 150.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7706523",
+      "nomeFornecedor": "PODIUM COMERCIO DE PNEUS AUTO CENTER LTDA",
+      "cnpjCpfFornecedor": "07153962000200",
+      "valorLiquido": 150.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2023662,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

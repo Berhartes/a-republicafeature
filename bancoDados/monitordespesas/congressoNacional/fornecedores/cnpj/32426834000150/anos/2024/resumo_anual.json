@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "FUTURO COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA",
+      "cnpj": "32426834000150",
+      "total_recebido": 370.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 250.0,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-04-15T08:04:54",
+    "periodo_fim": "2024-04-15T08:04:54",
+    "generatedAt": "2025-11-11T21:37:57.958009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 250.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 250.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 250.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7765526,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-04-15T08:04:54",
+      "numDocumento": "102739",
+      "valorDocumento": 250.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7765526",
+      "nomeFornecedor": "FUTURO COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA",
+      "cnpjCpfFornecedor": "32426834000150",
+      "valorLiquido": 250.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2055097,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

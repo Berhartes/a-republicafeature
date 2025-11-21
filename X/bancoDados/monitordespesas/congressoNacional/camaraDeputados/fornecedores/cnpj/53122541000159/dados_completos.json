@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "RESTAURANTE E LANCHONETE RODEIO NUPORANGA LTDA",
+      "cnpj": "53122541000159",
+      "total_recebido": 101.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-07T05:43:09.423065"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 101.0
+  },
+  "anos": {
+    "2025": {
+      "total": 101.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 101.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7911037,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-30T00:00:00",
+          "numDocumento": "000198",
+          "valorDocumento": 101.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7911037.pdf",
+          "nomeFornecedor": "RESTAURANTE E LANCHONETE RODEIO NUPORANGA LTDA",
+          "cnpjCpfFornecedor": "53122541000159",
+          "valorLiquido": 101.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

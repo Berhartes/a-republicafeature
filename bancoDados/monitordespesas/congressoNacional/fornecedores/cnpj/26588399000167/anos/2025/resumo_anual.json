@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PORTELA AUTO POSTO LTDA",
+      "cnpj": "26588399000167",
+      "total_recebido": 3906.23,
+      "numero_transacoes": 10,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 200.0,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-02-23T08:57:28",
+    "periodo_fim": "2025-08-03T11:08:26",
+    "generatedAt": "2025-11-11T21:38:01.035010"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 200.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 200.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 100.0,
+      "porcentagem_do_total": 50.0
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 100.0,
+      "porcentagem_do_total": 50.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7955166,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-08-03T11:08:26",
+      "numDocumento": "43520",
+      "valorDocumento": 100.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7955166",
+      "nomeFornecedor": "PORTELA AUTO POSTO LTDA",
+      "cnpjCpfFornecedor": "26588399000167",
+      "valorLiquido": 100.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2157777,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7874659,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-02-23T08:57:28",
+      "numDocumento": "97416",
+      "valorDocumento": 100.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7874659",
+      "nomeFornecedor": "PORTELA AUTO POSTO LTDA",
+      "cnpjCpfFornecedor": "26588399000167",
+      "valorLiquido": 100.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2113493,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

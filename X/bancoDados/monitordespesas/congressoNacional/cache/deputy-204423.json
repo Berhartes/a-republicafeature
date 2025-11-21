@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T17:45:22Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "deputados.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "deputadoId": "204423"
+  },
+  "data": {
+    "id": "204423",
+    "nome": "André Ferreira",
+    "nomeEleitoral": "André Ferreira",
+    "nomeCivil": null,
+    "partido": "PL",
+    "siglaPartido": "PL",
+    "uf": "PE",
+    "siglaUf": "PE",
+    "urlFoto": null,
+    "totalDespesas": 1265248.2499999998,
+    "numeroDespesas": 1199,
+    "fornecedoresIdentificados": 123,
+    "createdAt": "2025-11-01T17:45:19Z",
+    "gastosPorAno": {},
+    "transacoesPorAno": {},
+    "topCategorias": [],
+    "topFornecedores": [],
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "temDetalhes": false
+  }
+}

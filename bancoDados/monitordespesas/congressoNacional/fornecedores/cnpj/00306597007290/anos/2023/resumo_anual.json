@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "072 - 403 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597007290",
+      "total_recebido": 2672.3199999999997,
+      "numero_transacoes": 9,
+      "numero_deputados": 2
+    },
+    "ano": 2023,
+    "total_recebido": 624.59,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-05-25T00:00:00",
+    "periodo_fim": "2023-07-04T00:00:00",
+    "generatedAt": "2025-11-11T21:37:57.307481"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 624.59,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 624.59,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 300.03,
+      "porcentagem_do_total": 48.04
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 324.56,
+      "porcentagem_do_total": 51.96
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7564656,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-05-25T00:00:00",
+      "numDocumento": "291863",
+      "valorDocumento": 300.03,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7564656",
+      "nomeFornecedor": "072 - 403 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpjCpfFornecedor": "00306597007290",
+      "valorLiquido": 300.03,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1945830,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7572168,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-07-04T00:00:00",
+      "numDocumento": "304542",
+      "valorDocumento": 324.56,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7572168",
+      "nomeFornecedor": "072 - 403 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpjCpfFornecedor": "00306597007290",
+      "valorLiquido": 324.56,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1949433,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

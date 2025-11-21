@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "DA COM DE COMB E LUBRIF LTDA",
+      "cnpj": "07779562000124",
+      "total_recebido": 130.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-07T05:43:12.093146"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 130.0
+  },
+  "anos": {
+    "2025": {
+      "total": 130.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178835": {
+      "deputado": {
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
+      },
+      "total": 130.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7958118,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-26T00:00:00",
+          "numDocumento": "1280342",
+          "valorDocumento": 50.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7958118",
+          "nomeFornecedor": "DA COM DE COMB E LUBRIF LTDA",
+          "cnpjCpfFornecedor": "07779562000124",
+          "valorLiquido": 50.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7994424,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-04T00:00:00",
+          "numDocumento": "1312720",
+          "valorDocumento": 50.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7994424",
+          "nomeFornecedor": "DA COM DE COMB E LUBRIF LTDA",
+          "cnpjCpfFornecedor": "07779562000124",
+          "valorLiquido": 50.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7994427,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-06T00:00:00",
+          "numDocumento": "1313626",
+          "valorDocumento": 30.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7994427",
+          "nomeFornecedor": "DA COM DE COMB E LUBRIF LTDA",
+          "cnpjCpfFornecedor": "07779562000124",
+          "valorLiquido": 30.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

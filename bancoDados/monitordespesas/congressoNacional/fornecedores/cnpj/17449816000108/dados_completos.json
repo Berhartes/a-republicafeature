@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO DE SER AUTO E COM DE COM",
+      "cnpj": "17449816000108",
+      "total_recebido": 59.81,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:02.992009"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 59.81
+  },
+  "anos": {
+    "2023": {
+      "total": 59.81,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 59.81,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7651180,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-13T00:00:00",
+          "numDocumento": "1009596",
+          "valorDocumento": 59.81,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7651180.pdf",
+          "nomeFornecedor": "POSTO DE SER AUTO E COM DE COM",
+          "cnpjCpfFornecedor": "17449816000108",
+          "valorLiquido": 59.81,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1992168,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

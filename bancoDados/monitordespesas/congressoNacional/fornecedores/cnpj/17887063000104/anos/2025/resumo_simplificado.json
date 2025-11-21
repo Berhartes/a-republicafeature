@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "ASTRO COMERCIO DE COMBUSTIVEIS LTDA",
+    "cnpj": "17887063000104",
+    "total_recebido": 302.28,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 252.28,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 252.28,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 252.28,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 252.28,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

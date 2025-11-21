@@ -1,0 +1,164 @@
+{
+  "deputado": {
+    "id": 160665,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160665",
+    "nome": "Augusto Coutinho",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "PE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
+    "email": "dep.augustocoutinho@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 205595.55,
+  "quantidade_transacoes": 183,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 198053.91,
+      "quantidade_transacoes": 148,
+      "porcentagem_do_total": 96.33
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 7541.64,
+      "quantidade_transacoes": 35,
+      "porcentagem_do_total": 3.67
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "DEIVY JAROSLAVSKY RUSHANSKY",
+      "cnpj": "52115470478",
+      "total": 74327.82,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 36.15
+    },
+    {
+      "nome": "RUPLAST INDUSTRIA E COMERCIO LTDA",
+      "cnpj": "05559838000133",
+      "total": 43368.24,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 21.09
+    },
+    {
+      "nome": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE",
+      "cnpj": "20755190000164",
+      "total": 23679.18,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 11.52
+    },
+    {
+      "nome": "Companhia Energética de Pernambuco",
+      "cnpj": "10835932000108",
+      "total": 17198.02,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 8.36
+    },
+    {
+      "nome": "VIALUMIN CONSULTORIA EMPRESARIAL LTDA",
+      "cnpj": "54933214000140",
+      "total": 12000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 5.84
+    },
+    {
+      "nome": "PREFEITURA DA CIDADE DO RECIFE",
+      "cnpj": "10565000000192",
+      "total": 11066.44,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 5.38
+    },
+    {
+      "nome": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597003112",
+      "total": 7541.64,
+      "quantidade_transacoes": 35,
+      "porcentagem_do_total": 3.67
+    },
+    {
+      "nome": "BROAD BRASIL LTDA",
+      "cnpj": "48949641000113",
+      "total": 6800.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.31
+    },
+    {
+      "nome": "NEXTEL TELECOMUNICAÇÕES LTDA",
+      "cnpj": "66970229000914",
+      "total": 2199.97,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.07
+    },
+    {
+      "nome": "ZAPP PAPELARIA E INFORMATICA EIRELI-EPP",
+      "cnpj": "00914456000167",
+      "total": 1556.11,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0.76
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 18286.12,
+      "porcentagem_do_total": 8.89
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 22467.31,
+      "porcentagem_do_total": 10.93
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 21572.91,
+      "porcentagem_do_total": 10.49
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 23122.35,
+      "porcentagem_do_total": 11.25
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 22072.68,
+      "porcentagem_do_total": 10.74
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 22405.23,
+      "porcentagem_do_total": 10.9
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 21853.98,
+      "porcentagem_do_total": 10.63
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 22878.14,
+      "porcentagem_do_total": 11.13
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 19092.36,
+      "porcentagem_do_total": 9.29
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 11844.47,
+      "porcentagem_do_total": 5.76
+    }
+  ]
+}

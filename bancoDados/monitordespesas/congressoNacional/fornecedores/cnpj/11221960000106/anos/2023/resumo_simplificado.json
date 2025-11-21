@@ -1,0 +1,54 @@
+{
+  "fornecedor": {
+    "nome": "POSTO DE COMBUSTIVEL ESTRADA PARQUE LTDA",
+    "cnpj": "11221960000106",
+    "total_recebido": 679.94,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 679.94,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 679.94,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 679.94,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 205.25,
+      "porcentagem_do_total": 30.19
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 224.69,
+      "porcentagem_do_total": 33.05
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 100.0,
+      "porcentagem_do_total": 14.71
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 150.0,
+      "porcentagem_do_total": 22.06
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "IRMAOS VIEIRA SANTOS LTDA",
+      "cnpj": "06228828000188",
+      "total_recebido": 154.04,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:08.146152"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 154.04
+  },
+  "anos": {
+    "2023": {
+      "total": 154.04,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "121948": {
+      "deputado": {
+        "id": 121948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "GO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br"
+      },
+      "total": 154.04,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7501282,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-16T00:00:00",
+          "numDocumento": "97915",
+          "valorDocumento": 154.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7501282",
+          "nomeFornecedor": "IRMAOS VIEIRA SANTOS LTDA",
+          "cnpjCpfFornecedor": "06228828000188",
+          "valorLiquido": 154.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "O IMPERADOR 333 AUTO POSTO LTDA",
+    "cnpj": "03957948000128",
+    "total_recebido": 868.81,
+    "numero_transacoes": 5,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 868.81,
+  "quantidade_transacoes": 5,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 868.81,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 868.81,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 147.17,
+      "porcentagem_do_total": 16.94
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 570.34,
+      "porcentagem_do_total": 65.65
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 151.3,
+      "porcentagem_do_total": 17.41
+    }
+  ]
+}

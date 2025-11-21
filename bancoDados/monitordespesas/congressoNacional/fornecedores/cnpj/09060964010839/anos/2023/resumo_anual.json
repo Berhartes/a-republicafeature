@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PIMENTA VERDE ALIMENTOS LTDA",
+      "cnpj": "09060964010839",
+      "total_recebido": 63.31,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 63.31,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-04-13T00:00:00",
+    "periodo_fim": "2023-04-13T00:00:00",
+    "generatedAt": "2025-11-11T21:38:03.453013"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 63.31,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 63.31,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 63.31,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 4,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7552354,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-04-13T00:00:00",
+      "numDocumento": "066874",
+      "valorDocumento": 63.31,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7552354.pdf",
+      "nomeFornecedor": "PIMENTA VERDE ALIMENTOS LTDA",
+      "cnpjCpfFornecedor": "09060964010839",
+      "valorLiquido": 63.31,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1938472,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

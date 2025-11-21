@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "RADIO SAO LUIZ LTDA",
+      "cnpj": "97084149000138",
+      "total_recebido": 2500.0,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:13.214732"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 2500.0
+  },
+  "anos": {
+    "2023": {
+      "total": 2500.0,
+      "transacoes": 5,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178835": {
+      "deputado": {
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
+      },
+      "total": 2500.0,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7587221,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-08T00:00:00",
+          "numDocumento": "2264",
+          "valorDocumento": 500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2880/2023/7587221.pdf",
+          "nomeFornecedor": "RADIO SAO LUIZ LTDA",
+          "cnpjCpfFornecedor": "97084149000138",
+          "valorLiquido": 500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7626673,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-03T00:00:00",
+          "numDocumento": "2410",
+          "valorDocumento": 500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2880/2023/7626673.pdf",
+          "nomeFornecedor": "RADIO SAO LUIZ LTDA",
+          "cnpjCpfFornecedor": "97084149000138",
+          "valorLiquido": 500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7639026,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-07T00:00:00",
+          "numDocumento": "2537",
+          "valorDocumento": 500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2880/2023/7639026.pdf",
+          "nomeFornecedor": "RADIO SAO LUIZ LTDA",
+          "cnpjCpfFornecedor": "97084149000138",
+          "valorLiquido": 500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7654682,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-30T00:00:00",
+          "numDocumento": "2596",
+          "valorDocumento": 500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2880/2023/7654682.pdf",
+          "nomeFornecedor": "RADIO SAO LUIZ LTDA",
+          "cnpjCpfFornecedor": "97084149000138",
+          "valorLiquido": 500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7665376,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-19T00:00:00",
+          "numDocumento": "2688",
+          "valorDocumento": 500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2880/2023/7665376.pdf",
+          "nomeFornecedor": "RADIO SAO LUIZ LTDA",
+          "cnpjCpfFornecedor": "97084149000138",
+          "valorLiquido": 500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

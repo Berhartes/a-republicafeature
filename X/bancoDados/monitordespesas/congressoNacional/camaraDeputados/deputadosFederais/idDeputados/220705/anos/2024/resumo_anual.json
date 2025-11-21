@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 220705,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220705",
+      "nome": "Deltan Dallagnol",
+      "siglaPartido": "PODE",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+      "siglaUf": "PR",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220705.jpg",
+      "email": null
+    },
+    "ano": 2024,
+    "total_despesas": -28.37,
+    "quantidade_transacoes": 1,
+    "quantidade_categorias": 1,
+    "quantidade_fornecedores": 1,
+    "periodo_inicio": "2024-05-14T12:00:00",
+    "periodo_fim": "2024-05-14T12:00:00",
+    "generatedAt": "2025-11-10T22:30:12.566942"
+  },
+  "resumo_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": -28.37,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "resumo_fornecedores": [
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": -28.37,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": -28.37,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": 157175,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-05-14T12:00:00",
+      "numDocumento": "1272195283392",
+      "valorDocumento": -28.37,
+      "urlDocumento": null,
+      "nomeFornecedor": "GOL",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -28.37,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ]
+}

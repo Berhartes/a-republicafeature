@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "CPFL energia",
+    "cnpj": "33050196000188",
+    "total_recebido": 1005.5699999999998,
+    "numero_transacoes": 20,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 185.08,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 185.08,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 185.08,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 76.02,
+      "porcentagem_do_total": 41.07
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 109.06,
+      "porcentagem_do_total": 58.93
+    }
+  ]
+}

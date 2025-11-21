@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:30.464381"
+    "generatedAt": "2025-11-11T05:22:22.300611"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 550.0799999999999
@@ -30,6 +30,7 @@
         "id": 204495,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204495",
         "nome": "Airton Faleiro",
+        "nomeEleitoral": "Airton Faleiro",
         "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "PA",
@@ -61,25 +62,6 @@
         },
         {
           "ano": 2025,
-          "mes": 8,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7970534,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-08-19T00:00:00",
-          "numDocumento": "968484",
-          "valorDocumento": 150.04,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7970534",
-          "nomeFornecedor": "AUTO POSTO VITORIA COMERCIO DE COMBUSTIVEIS LTDA",
-          "cnpjCpfFornecedor": "12577119000100",
-          "valorLiquido": 150.04,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
           "mes": 1,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7874966,
@@ -92,6 +74,25 @@
           "nomeFornecedor": "AUTO POSTO VITORIA COMERCIO DE COMBUSTIVEIS LTDA",
           "cnpjCpfFornecedor": "12577119000100",
           "valorLiquido": 250.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7970534,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-19T00:00:00",
+          "numDocumento": "968484",
+          "valorDocumento": 150.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7970534",
+          "nomeFornecedor": "AUTO POSTO VITORIA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "12577119000100",
+          "valorLiquido": 150.04,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

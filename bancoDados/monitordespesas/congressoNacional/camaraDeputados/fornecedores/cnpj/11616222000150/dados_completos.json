@@ -7,7 +7,7 @@
       "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.293215"
+    "generatedAt": "2025-11-11T05:22:12.576136"
   },
   "categorias": {
     "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 840.0
@@ -30,6 +30,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -54,6 +55,25 @@
           "nomeFornecedor": "LOPES HOTEL LTDA",
           "cnpjCpfFornecedor": "11616222000150",
           "valorLiquido": 190.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7690261,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-02T00:00:00",
+          "numDocumento": "00763",
+          "valorDocumento": 200.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2024/7690261.pdf",
+          "nomeFornecedor": "LOPES HOTEL LTDA",
+          "cnpjCpfFornecedor": "11616222000150",
+          "valorLiquido": 200.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -92,25 +112,6 @@
           "nomeFornecedor": "LOPES HOTEL LTDA",
           "cnpjCpfFornecedor": "11616222000150",
           "valorLiquido": 250.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 2,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7690261,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-02-02T00:00:00",
-          "numDocumento": "00763",
-          "valorDocumento": 200.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2024/7690261.pdf",
-          "nomeFornecedor": "LOPES HOTEL LTDA",
-          "cnpjCpfFornecedor": "11616222000150",
-          "valorLiquido": 200.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

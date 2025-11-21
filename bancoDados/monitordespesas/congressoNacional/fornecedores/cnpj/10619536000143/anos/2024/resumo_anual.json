@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Auto posto takahashi",
+      "cnpj": "10619536000143",
+      "total_recebido": 749.28,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 368.84,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-11-07T00:00:00",
+    "periodo_fim": "2024-11-22T00:00:00",
+    "generatedAt": "2025-11-11T21:38:04.727010"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 368.84,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 368.84,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 368.84,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7828254,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-11-07T00:00:00",
+      "numDocumento": "409196",
+      "valorDocumento": 171.71,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7828254.pdf",
+      "nomeFornecedor": "Auto posto takahashi",
+      "cnpjCpfFornecedor": "10619536000143",
+      "valorLiquido": 171.71,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2087912,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7839348,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-11-22T00:00:00",
+      "numDocumento": "411945",
+      "valorDocumento": 197.13,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7839348.pdf",
+      "nomeFornecedor": "Auto posto takahashi",
+      "cnpjCpfFornecedor": "10619536000143",
+      "valorLiquido": 197.13,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2093890,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "deputado": {
+    "id": 220707,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220707",
+    "nome": "Amanda Gentil",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220707.jpg",
+    "email": "dep.amandagentil@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 271635.98,
+  "quantidade_transacoes": 37,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 120000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 44.18
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 70000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 25.77
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 54826.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 20.18
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 17400.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 6.41
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 9409.98,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.46
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "DISCOVER SERVICOS LTDA",
+      "cnpj": "48551631000125",
+      "total": 120000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 44.18
+    },
+    {
+      "nome": "FERNANDO JOSÉ OLIVEIRA DUAILIBE MENDONÇA",
+      "cnpj": "00406224790",
+      "total": 70000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 25.77
+    },
+    {
+      "nome": "Iza Carla Silva Santa Brigida - ME",
+      "cnpj": "21891589000135",
+      "total": 39200.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 14.43
+    },
+    {
+      "nome": "F.S. CORREA NETO",
+      "cnpj": "24438651000126",
+      "total": 17400.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 6.41
+    },
+    {
+      "nome": "SAGA DE ITACOLOMI COM. E PECUARIA LTDA",
+      "cnpj": "00627686000145",
+      "total": 15626.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 5.75
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 7585.88,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 2.79
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 1824.1,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.67
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 40413.0,
+      "porcentagem_do_total": 14.88
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 40413.0,
+      "porcentagem_do_total": 14.88
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 23900.0,
+      "porcentagem_do_total": 8.8
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 23900.0,
+      "porcentagem_do_total": 8.8
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 30508.11,
+      "porcentagem_do_total": 11.23
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 23900.0,
+      "porcentagem_do_total": 8.8
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 26701.87,
+      "porcentagem_do_total": 9.83
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 23900.0,
+      "porcentagem_do_total": 8.8
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 19000.0,
+      "porcentagem_do_total": 6.99
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 19000.0,
+      "porcentagem_do_total": 6.99
+    }
+  ]
+}

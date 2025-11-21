@@ -1,0 +1,67 @@
+{
+  "fornecedor": {
+    "nome": "Latam Linhas Aéreas S.A",
+    "cnpj": "02012862000160",
+    "total_recebido": 26011.180000000004,
+    "numero_transacoes": 13,
+    "numero_deputados": 3
+  },
+  "ano": 2024,
+  "total_recebido": 10653.06,
+  "quantidade_transacoes": 5,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 7030.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 65.99
+    },
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 2612.21,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 24.52
+    },
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 1010.85,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 9.49
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - RPA",
+      "total": 8040.85,
+      "porcentagem_do_total": 75.48
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 2612.21,
+      "porcentagem_do_total": 24.52
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 4520.9,
+      "porcentagem_do_total": 42.44
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 2612.21,
+      "porcentagem_do_total": 24.52
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 3519.95,
+      "porcentagem_do_total": 33.04
+    }
+  ]
+}

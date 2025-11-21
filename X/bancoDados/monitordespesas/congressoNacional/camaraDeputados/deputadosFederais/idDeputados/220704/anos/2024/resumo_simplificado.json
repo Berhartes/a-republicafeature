@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 220704,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220704",
+    "nome": "Carol Dartora",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220704.jpg",
+    "email": "dep.caroldartora@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 357906.92,
+  "quantidade_transacoes": 426,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 126450.0,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 35.33
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 94901.0,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 26.52
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 91162.98,
+      "quantidade_transacoes": 50,
+      "porcentagem_do_total": 25.47
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 17147.78,
+      "quantidade_transacoes": 102,
+      "porcentagem_do_total": 4.79
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 12786.62,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 3.57
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "LC Rent A Car Ltda - ME",
+      "cnpj": "10169243000101",
+      "total": 84200.0,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 23.53
+    },
+    {
+      "nome": "QuemTV Comunicação Ltda.",
+      "cnpj": "40991880000120",
+      "total": 84000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 23.47
+    },
+    {
+      "nome": "TAYSMARA CARNEIRO EDOARDO",
+      "cnpj": "38710209000111",
+      "total": 35000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 9.78
+    },
+    {
+      "nome": "John Richard Locação de móveis Ltda",
+      "cnpj": "02964380000100",
+      "total": 33326.52,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 9.31
+    },
+    {
+      "nome": "Imobiliária Prates Ltda. ME",
+      "cnpj": "07038403000179",
+      "total": 23105.31,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.46
+    },
+    {
+      "nome": "KOLKE DO BRASIL IMPORTAÇAO E EXPORTAÇÃO LTDA.",
+      "cnpj": "06028932000129",
+      "total": 23018.8,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 6.43
+    },
+    {
+      "nome": "Leal Locadora de Veículos e Equip. Ltda.",
+      "cnpj": "76635119000100",
+      "total": 10701.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.99
+    },
+    {
+      "nome": "TÁXI LEGAL",
+      "cnpj": "30605977000101",
+      "total": 7953.9,
+      "quantidade_transacoes": 126,
+      "porcentagem_do_total": 2.22
+    },
+    {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+      "cnpj": "12132854000100",
+      "total": 6108.4,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.71
+    },
+    {
+      "nome": "POSTO SHANGRI-LA LTDA",
+      "cnpj": "04114150000187",
+      "total": 3771.64,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 1.05
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 39861.75,
+      "porcentagem_do_total": 11.14
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 51402.88,
+      "porcentagem_do_total": 14.36
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 44193.63,
+      "porcentagem_do_total": 12.35
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 28396.5,
+      "porcentagem_do_total": 7.93
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 33136.23,
+      "porcentagem_do_total": 9.26
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 24890.62,
+      "porcentagem_do_total": 6.95
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 22026.93,
+      "porcentagem_do_total": 6.15
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 21216.88,
+      "porcentagem_do_total": 5.93
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 19413.31,
+      "porcentagem_do_total": 5.42
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 21554.54,
+      "porcentagem_do_total": 6.02
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 24599.51,
+      "porcentagem_do_total": 6.87
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 27214.14,
+      "porcentagem_do_total": 7.6
+    }
+  ]
+}

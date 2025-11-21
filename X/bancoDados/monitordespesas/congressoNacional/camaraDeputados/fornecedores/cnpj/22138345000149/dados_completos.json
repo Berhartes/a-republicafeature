@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AL POSTO FUTURO COMERCIO DE COMBUSTIVEIS LTDA.",
+      "cnpj": "22138345000149",
+      "total_recebido": 700.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:04.675731"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 700.0
+  },
+  "anos": {
+    "2023": {
+      "total": 400.0,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 100.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 200.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220714": {
+      "deputado": {
+        "id": 220714,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220714",
+        "nome": "Adail Filho",
+        "nomeEleitoral": "Adail Filho",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "AM",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
+        "email": "dep.adailfilho@camara.leg.br"
+      },
+      "total": 700.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7583891,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-30T00:00:00",
+          "numDocumento": "273738",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7583891",
+          "nomeFornecedor": "AL POSTO FUTURO COMERCIO DE COMBUSTIVEIS LTDA.",
+          "cnpjCpfFornecedor": "22138345000149",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7594242,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-14T00:00:00",
+          "numDocumento": "280444",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7594242",
+          "nomeFornecedor": "AL POSTO FUTURO COMERCIO DE COMBUSTIVEIS LTDA.",
+          "cnpjCpfFornecedor": "22138345000149",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7735822,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-04T00:00:00",
+          "numDocumento": "391300",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7735822",
+          "nomeFornecedor": "AL POSTO FUTURO COMERCIO DE COMBUSTIVEIS LTDA.",
+          "cnpjCpfFornecedor": "22138345000149",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7888222,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-25T12:30:05",
+          "numDocumento": "520638",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7888222",
+          "nomeFornecedor": "AL POSTO FUTURO COMERCIO DE COMBUSTIVEIS LTDA.",
+          "cnpjCpfFornecedor": "22138345000149",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

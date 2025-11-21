@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpj": "17895646000187",
+      "total_recebido": 149.97,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:04.157010"
+  },
+  "categorias": {
+    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 149.97
+  },
+  "anos": {
+    "2023": {
+      "total": 28.58,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 121.39,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 149.97,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7619087,
+          "tipoDocumento": "Recibos/Outros",
+          "codTipoDocumento": 1,
+          "dataDocumento": "2023-09-22T00:00:00",
+          "numDocumento": "S/n",
+          "valorDocumento": 29.92,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7619087.pdf",
+          "nomeFornecedor": "UBER DO BRASIL TECNOLOGIA LTDA.",
+          "cnpjCpfFornecedor": "17895646000187",
+          "valorLiquido": 28.58,
+          "valorGlosa": 1.34,
+          "numRessarcimento": "",
+          "codLote": 1974556,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7723047,
+          "tipoDocumento": "Recibos/Outros",
+          "codTipoDocumento": 1,
+          "dataDocumento": "2024-04-18T00:00:00",
+          "numDocumento": "S/n",
+          "valorDocumento": 34.98,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7723047.pdf",
+          "nomeFornecedor": "UBER DO BRASIL TECNOLOGIA LTDA.",
+          "cnpjCpfFornecedor": "17895646000187",
+          "valorLiquido": 34.98,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2032539,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7730954,
+          "tipoDocumento": "Recibos/Outros",
+          "codTipoDocumento": 1,
+          "dataDocumento": "2024-04-18T00:00:00",
+          "numDocumento": "S/n",
+          "valorDocumento": 48.3,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7730954.pdf",
+          "nomeFornecedor": "UBER DO BRASIL TECNOLOGIA LTDA.",
+          "cnpjCpfFornecedor": "17895646000187",
+          "valorLiquido": 48.3,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2036693,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7838989,
+          "tipoDocumento": "Recibos/Outros",
+          "codTipoDocumento": 1,
+          "dataDocumento": "2024-10-23T00:00:00",
+          "numDocumento": "S/n",
+          "valorDocumento": 24.55,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7838989.pdf",
+          "nomeFornecedor": "UBER DO BRASIL TECNOLOGIA LTDA.",
+          "cnpjCpfFornecedor": "17895646000187",
+          "valorLiquido": 23.74,
+          "valorGlosa": 0.81,
+          "numRessarcimento": "",
+          "codLote": 2093704,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7823524,
+          "tipoDocumento": "Recibos/Outros",
+          "codTipoDocumento": 1,
+          "dataDocumento": "2024-10-23T00:00:00",
+          "numDocumento": "Sn",
+          "valorDocumento": 14.37,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7823524.pdf",
+          "nomeFornecedor": "UBER DO BRASIL TECNOLOGIA LTDA.",
+          "cnpjCpfFornecedor": "17895646000187",
+          "valorLiquido": 14.37,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2085167,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

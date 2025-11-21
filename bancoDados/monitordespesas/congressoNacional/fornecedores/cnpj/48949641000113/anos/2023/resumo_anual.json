@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BROAD BRASIL LTDA",
+      "cnpj": "48949641000113",
+      "total_recebido": 34900.0,
+      "numero_transacoes": 38,
+      "numero_deputados": 2
+    },
+    "ano": 2023,
+    "total_recebido": 7000.0,
+    "quantidade_transacoes": 8,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 2,
+    "periodo_inicio": "2023-05-23T00:00:00",
+    "periodo_fim": "2023-12-13T00:00:00",
+    "generatedAt": "2025-11-11T21:37:52.734482"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 7000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 5300.0,
+      "porcentagem_do_total": 75.71
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 1700.0,
+      "porcentagem_do_total": 24.29
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 850.0,
+      "porcentagem_do_total": 12.14
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 850.0,
+      "porcentagem_do_total": 12.14
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 850.0,
+      "porcentagem_do_total": 12.14
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 850.0,
+      "porcentagem_do_total": 12.14
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 850.0,
+      "porcentagem_do_total": 12.14
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 850.0,
+      "porcentagem_do_total": 12.14
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 850.0,
+      "porcentagem_do_total": 12.14
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 1050.0,
+      "porcentagem_do_total": 15.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7664938,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-12-13T00:00:00",
+      "numDocumento": "368",
+      "valorDocumento": 1050.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7664938.pdf",
+      "nomeFornecedor": "BROAD BRASIL LTDA",
+      "cnpjCpfFornecedor": "48949641000113",
+      "valorLiquido": 1050.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2000174,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7547516,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-05-23T00:00:00",
+      "numDocumento": "103",
+      "valorDocumento": 850.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7547516.pdf",
+      "nomeFornecedor": "BROADBRASIL LTDA",
+      "cnpjCpfFornecedor": "48949641000113",
+      "valorLiquido": 850.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1935964,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7563049,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-06-22T00:00:00",
+      "numDocumento": "113",
+      "valorDocumento": 850.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7563049.pdf",
+      "nomeFornecedor": "BROADBRASIL LTDA",
+      "cnpjCpfFornecedor": "48949641000113",
+      "valorLiquido": 850.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1944510,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 7,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7574392,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-07-10T00:00:00",
+      "numDocumento": "149",
+      "valorDocumento": 850.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7574392.pdf",
+      "nomeFornecedor": "BROADBRASIL LTDA",
+      "cnpjCpfFornecedor": "48949641000113",
+      "valorLiquido": 850.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1950631,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 8,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7593840,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-08-18T00:00:00",
+      "numDocumento": "193",
+      "valorDocumento": 850.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7593840.pdf",
+      "nomeFornecedor": "BROADBRASIL LTDA",
+      "cnpjCpfFornecedor": "48949641000113",
+      "valorLiquido": 850.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1960523,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7609716,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-09-18T00:00:00",
+      "numDocumento": "229",
+      "valorDocumento": 850.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7609716.pdf",
+      "nomeFornecedor": "BROADBRASIL LTDA",
+      "cnpjCpfFornecedor": "48949641000113",
+      "valorLiquido": 850.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1969042,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 10,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7628647,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-10-19T00:00:00",
+      "numDocumento": "278",
+      "valorDocumento": 850.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7628647.pdf",
+      "nomeFornecedor": "BROAD BRASIL LTDA",
+      "cnpjCpfFornecedor": "48949641000113",
+      "valorLiquido": 850.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1979774,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7646507,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-11-21T00:00:00",
+      "numDocumento": "332",
+      "valorDocumento": 850.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7646507.pdf",
+      "nomeFornecedor": "BROAD BRASIL LTDA",
+      "cnpjCpfFornecedor": "48949641000113",
+      "valorLiquido": 850.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1989844,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

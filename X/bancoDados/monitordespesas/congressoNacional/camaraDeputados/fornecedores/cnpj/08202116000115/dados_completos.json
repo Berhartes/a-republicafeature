@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO AEROPORTO LTDA",
+      "cnpj": "08202116000115",
+      "total_recebido": 1309.04,
+      "numero_transacoes": 9,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:30.867731"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1309.04
+  },
+  "anos": {
+    "2023": {
+      "total": 525.01,
+      "transacoes": 4,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 333.32,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 450.71,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178881": {
+      "deputado": {
+        "id": 178881,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178881",
+        "nome": "Aluisio Mendes",
+        "nomeEleitoral": "Aluisio Mendes",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
+        "email": "dep.aluisiomendes@camara.leg.br"
+      },
+      "total": 1309.04,
+      "transacoes": 9,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7501123,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-13T00:00:00",
+          "numDocumento": "493971",
+          "valorDocumento": 140.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7501123",
+          "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
+          "cnpjCpfFornecedor": "08202116000115",
+          "valorLiquido": 140.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7512717,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-10T00:00:00",
+          "numDocumento": "498432",
+          "valorDocumento": 160.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7512717",
+          "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
+          "cnpjCpfFornecedor": "08202116000115",
+          "valorLiquido": 160.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7557050,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-15T00:00:00",
+          "numDocumento": "513088",
+          "valorDocumento": 125.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7557050",
+          "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
+          "cnpjCpfFornecedor": "08202116000115",
+          "valorLiquido": 125.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7630292,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-15T00:00:00",
+          "numDocumento": "535867",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7630292",
+          "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
+          "cnpjCpfFornecedor": "08202116000115",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7723382,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-10T00:00:00",
+          "numDocumento": "593171",
+          "valorDocumento": 213.32,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2999/2024/7723382.pdf",
+          "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
+          "cnpjCpfFornecedor": "08202116000115",
+          "valorLiquido": 213.32,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7839774,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-29T10:25:29",
+          "numDocumento": "642482",
+          "valorDocumento": 120.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7839774",
+          "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
+          "cnpjCpfFornecedor": "08202116000115",
+          "valorLiquido": 120.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7862108,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-01-09T07:32:29",
+          "numDocumento": "650539",
+          "valorDocumento": 190.26,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7862108",
+          "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
+          "cnpjCpfFornecedor": "08202116000115",
+          "valorLiquido": 190.26,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7896043,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-27T07:39:55",
+          "numDocumento": "5589",
+          "valorDocumento": 120.44,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7896043",
+          "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
+          "cnpjCpfFornecedor": "08202116000115",
+          "valorLiquido": 120.44,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7896056,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-07T07:44:33",
+          "numDocumento": "9760",
+          "valorDocumento": 140.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7896056",
+          "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
+          "cnpjCpfFornecedor": "08202116000115",
+          "valorLiquido": 140.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

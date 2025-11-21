@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO PHOENIX DE BURI LTDA",
+    "cnpj": "16921430000186",
+    "total_recebido": 272.01,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 272.01,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 272.01,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 272.01,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 272.01,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

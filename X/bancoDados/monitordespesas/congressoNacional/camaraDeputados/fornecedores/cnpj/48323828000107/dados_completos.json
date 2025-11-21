@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO CANECO DE OURO LT",
+      "cnpj": "48323828000107",
+      "total_recebido": 300.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-07T05:43:09.452909"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 300.0
+  },
+  "anos": {
+    "2025": {
+      "total": 300.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 300.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7924546,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-23T00:00:00",
+          "numDocumento": "648345",
+          "valorDocumento": 300.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7924546.pdf",
+          "nomeFornecedor": "AUTO POSTO CANECO DE OURO LT",
+          "cnpjCpfFornecedor": "48323828000107",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

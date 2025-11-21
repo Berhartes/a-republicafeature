@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO TURISMO COMERCIO DE DERIVADOS DE PETROLEO LTDA - ME",
+      "cnpj": "10698821000105",
+      "total_recebido": 1027.09,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:01.269008"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 1027.09
+  },
+  "anos": {
+    "2023": {
+      "total": 600.0,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 227.09,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 200.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220714": {
+      "deputado": {
+        "id": 220714,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220714",
+        "nome": "Adail Filho",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+        "siglaUf": "AM",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
+        "email": "dep.adailfilho@camara.leg.br"
+      },
+      "total": 1027.09,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7573097,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-07-08T00:00:00",
+          "numDocumento": "160803",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7573097",
+          "nomeFornecedor": "POSTO TURISMO COMERCIO DE DERIVADOS DE PETROLEO LTDA - ME",
+          "cnpjCpfFornecedor": "10698821000105",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1949928,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7614720,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-09-27T00:00:00",
+          "numDocumento": "176003",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7614720",
+          "nomeFornecedor": "POSTO TURISMO COMERCIO DE DERIVADOS DE PETROLEO LTDA - ME",
+          "cnpjCpfFornecedor": "10698821000105",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1971600,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7625531,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-10-13T00:00:00",
+          "numDocumento": "179275",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7625531",
+          "nomeFornecedor": "POSTO TURISMO COMERCIO DE DERIVADOS DE PETROLEO LTDA - ME",
+          "cnpjCpfFornecedor": "10698821000105",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1978168,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7779116,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-07-29T20:48:13",
+          "numDocumento": "234551",
+          "valorDocumento": 227.09,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7779116",
+          "nomeFornecedor": "POSTO TURISMO COMERCIO DE DERIVADOS DE PETROLEO LTDA - ME",
+          "cnpjCpfFornecedor": "10698821000105",
+          "valorLiquido": 227.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2061965,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7856101,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-01-13T00:00:00",
+          "numDocumento": "272585",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7856101",
+          "nomeFornecedor": "POSTO TURISMO COMERCIO DE DERIVADOS DE PETROLEO LTDA - ME",
+          "cnpjCpfFornecedor": "10698821000105",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2103180,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

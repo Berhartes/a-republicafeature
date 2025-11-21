@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Center Alves Produtos de Limpeza e Materiais do Lazer Ltda M",
+      "cnpj": "27620141000163",
+      "total_recebido": 204.4,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:08.308687"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 204.4
+  },
+  "anos": {
+    "2023": {
+      "total": 204.4,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "121948": {
+      "deputado": {
+        "id": 121948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "GO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br"
+      },
+      "total": 204.4,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7538061,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-05T00:00:00",
+          "numDocumento": "3073",
+          "valorDocumento": 204.4,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7538061",
+          "nomeFornecedor": "Center Alves Produtos de Limpeza e Materiais do Lazer Ltda M",
+          "cnpjCpfFornecedor": "27620141000163",
+          "valorLiquido": 204.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

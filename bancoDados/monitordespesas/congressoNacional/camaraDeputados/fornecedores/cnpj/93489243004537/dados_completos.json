@@ -1,97 +1,55 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 45",
+      "nome": "COML BUFFON COMB E TRANSP LTDA - POSTO 45",
       "cnpj": "93489243004537",
-      "total_recebido": 732.06,
-      "numero_transacoes": 3,
+      "total_recebido": 169.28,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:56:50.542554"
+    "generatedAt": "2025-11-11T05:22:36.257421"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 732.06
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 169.28
   },
   "anos": {
     "2023": {
-      "total": 224.01,
+      "total": 169.28,
       "transacoes": 1,
-      "deputados": 1
-    },
-    "2024": {
-      "total": 508.04999999999995,
-      "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "220549": {
+    "220554": {
       "deputado": {
-        "id": 220549,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220549",
-        "nome": "Any Ortiz",
-        "siglaPartido": "CIDADANIA",
+        "id": 220554,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+        "nome": "Alexandre Lindenmeyer",
+        "nomeEleitoral": "Alexandre Lindenmeyer",
+        "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
-        "email": "dep.anyortiz@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
+        "email": "dep.alexandrelindenmeyer@camara.leg.br"
       },
-      "total": 732.06,
-      "transacoes": 3,
+      "total": 169.28,
+      "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 6,
+          "mes": 9,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7565242,
+          "codDocumento": 7607256,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-06-27T00:00:00",
-          "numDocumento": "1503780",
-          "valorDocumento": 224.01,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7565242",
-          "nomeFornecedor": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 45",
-          "cnpjCpfFornecedor": "93489243004537",
-          "valorLiquido": 224.01,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 11,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7835840,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-25T15:27:15",
-          "numDocumento": "1834420",
-          "valorDocumento": 255.51,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7835840",
+          "dataDocumento": "2023-09-11T00:00:00",
+          "numDocumento": "1558882",
+          "valorDocumento": 169.28,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7607256",
           "nomeFornecedor": "COML BUFFON COMB E TRANSP LTDA - POSTO 45",
           "cnpjCpfFornecedor": "93489243004537",
-          "valorLiquido": 255.51,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 3,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7702259,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-03-08T15:52:54",
-          "numDocumento": "1690089",
-          "valorDocumento": 252.54,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7702259",
-          "nomeFornecedor": "COML BUFFON COMB E TRANSP LTDA - POSTO 45",
-          "cnpjCpfFornecedor": "93489243004537",
-          "valorLiquido": 252.54,
+          "valorLiquido": 169.28,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

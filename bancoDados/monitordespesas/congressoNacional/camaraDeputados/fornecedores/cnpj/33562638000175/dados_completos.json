@@ -3,114 +3,72 @@
     "fornecedor": {
       "nome": "AUTO POSTO SANTA TEREZINHA LTDA",
       "cnpj": "33562638000175",
-      "total_recebido": 1557.4499999999998,
-      "numero_transacoes": 4,
+      "total_recebido": 835.06,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:59:14.466993"
+    "generatedAt": "2025-11-11T05:22:34.342450"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 1557.4499999999998
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 835.06
   },
   "anos": {
-    "2023": {
-      "total": 780.13,
-      "transacoes": 2,
-      "deputados": 1
-    },
-    "2025": {
-      "total": 777.3199999999999,
+    "2024": {
+      "total": 835.06,
       "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "178993": {
+    "220542": {
       "deputado": {
-        "id": 178993,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178993",
-        "nome": "Carlos Henrique Gaguim",
-        "siglaPartido": "UNIÃO",
+        "id": 220542,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
+        "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
+        "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "TO",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178993.jpg",
-        "email": "dep.carloshenriquegaguim@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
+        "email": "dep.alexandreguimaraes@camara.leg.br"
       },
-      "total": 1557.4499999999998,
-      "transacoes": 4,
+      "total": 835.06,
+      "transacoes": 2,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 10,
+          "ano": 2024,
+          "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7622637,
+          "codDocumento": 7805527,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-10-08T00:00:00",
-          "numDocumento": "71757",
-          "valorDocumento": 378.03,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7622637",
+          "dataDocumento": "2024-08-23T22:45:19",
+          "numDocumento": "190178",
+          "valorDocumento": 548.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7805527",
           "nomeFornecedor": "AUTO POSTO SANTA TEREZINHA LTDA",
           "cnpjCpfFornecedor": "33562638000175",
-          "valorLiquido": 378.03,
+          "valorLiquido": 548.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
           "parcela": 0
         },
         {
-          "ano": 2023,
+          "ano": 2024,
           "mes": 9,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7608835,
+          "codDocumento": 7807890,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-09-17T00:00:00",
-          "numDocumento": "617608",
-          "valorDocumento": 402.1,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7608835",
+          "dataDocumento": "2024-09-27T00:38:00",
+          "numDocumento": "203079",
+          "valorDocumento": 287.06,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7807890",
           "nomeFornecedor": "AUTO POSTO SANTA TEREZINHA LTDA",
           "cnpjCpfFornecedor": "33562638000175",
-          "valorLiquido": 402.1,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
-          "mes": 10,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7993072,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-10-03T18:11:00",
-          "numDocumento": "107124",
-          "valorDocumento": 425.45,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7993072",
-          "nomeFornecedor": "AUTO POSTO SANTA TEREZINHA LTDA",
-          "cnpjCpfFornecedor": "33562638000175",
-          "valorLiquido": 425.45,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
-          "mes": 4,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7899666,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-04-12T10:14:19",
-          "numDocumento": "97157",
-          "valorDocumento": 351.87,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7899666",
-          "nomeFornecedor": "AUTO POSTO SANTA TEREZINHA LTDA",
-          "cnpjCpfFornecedor": "33562638000175",
-          "valorLiquido": 351.87,
+          "valorLiquido": 287.06,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

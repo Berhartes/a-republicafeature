@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO COPA 70 LTDA",
+      "cnpj": "03961850000144",
+      "total_recebido": 1393.27,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:25.985658"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1393.27
+  },
+  "anos": {
+    "2023": {
+      "total": 815.49,
+      "transacoes": 4,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 577.78,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74057": {
+      "deputado": {
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
+      },
+      "total": 1393.27,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7524918,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-30T00:00:00",
+          "numDocumento": "473882",
+          "valorDocumento": 208.43,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7524918",
+          "nomeFornecedor": "AUTO POSTO COPA 70 LTDA",
+          "cnpjCpfFornecedor": "03961850000144",
+          "valorLiquido": 208.43,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7600256,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-10T00:00:00",
+          "numDocumento": "495307",
+          "valorDocumento": 179.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7600256",
+          "nomeFornecedor": "AUTO POSTO COPA 70 LTDA",
+          "cnpjCpfFornecedor": "03961850000144",
+          "valorLiquido": 179.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7665594,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-04T00:00:00",
+          "numDocumento": "507903",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7665594",
+          "nomeFornecedor": "AUTO POSTO COPA 70 LTDA",
+          "cnpjCpfFornecedor": "03961850000144",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7666016,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-06T00:00:00",
+          "numDocumento": "512515",
+          "valorDocumento": 228.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7666016",
+          "nomeFornecedor": "AUTO POSTO COPA 70 LTDA.",
+          "cnpjCpfFornecedor": "03961850000144",
+          "valorLiquido": 228.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7726915,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-17T07:22:14",
+          "numDocumento": "529800",
+          "valorDocumento": 177.99,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7726915",
+          "nomeFornecedor": "AUTO POSTO COPA 70 LTDA",
+          "cnpjCpfFornecedor": "03961850000144",
+          "valorLiquido": 177.99,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7797007,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-14T08:49:34",
+          "numDocumento": "13277",
+          "valorDocumento": 192.26,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7797007",
+          "nomeFornecedor": "AUTO POSTO COPA 70 LTDA",
+          "cnpjCpfFornecedor": "03961850000144",
+          "valorLiquido": 192.26,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7810788,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-18T10:19:20",
+          "numDocumento": "15309",
+          "valorDocumento": 207.53,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7810788",
+          "nomeFornecedor": "AUTO POSTO COPA 70 LTDA",
+          "cnpjCpfFornecedor": "03961850000144",
+          "valorLiquido": 207.53,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

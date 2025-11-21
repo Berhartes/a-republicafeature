@@ -1,254 +1,136 @@
+export type LogLevel = 'debug' | 'info' | 'warn' | 'error'
 
-import winston from 'winston';
-import DailyRotateFile from 'winston-daily-rotate-file';
-
-const environmentConfig = {
-  LOG_LEVEL: process.env.LOG_LEVEL || 'info',
-  NODE_ENV: process.env.NODE_ENV || 'development',
-  LOG_DIRECTORY: process.env.LOG_DIRECTORY || './logs'
-};
-
-export type LogLevel = 'error' | 'warn' | 'info' | 'debug';
-
-export interface LogContext {
-  [key: string]: any;
-  timestamp?: string;
-  source?: string;
-  operation?: string;
-  deputadoId?: number;
-  processingId?: string;
+const LEVEL_ORDER: Record<LogLevel, number> = {
+  debug: 10,
+  info: 20,
+  warn: 30,
+  error: 40,
 }
 
-const consoleFormat = winston.format.combine(
-  winston.format.colorize({ all: true }),
-  winston.format.timestamp({
-    format: 'YYYY-MM-DD HH:mm:ss.SSS'
-  }),
-  winston.format.align(),
-  winston.format.printf((info) => {
-    const { timestamp, level, message, ...meta } = info;
-    const metaStr = Object.keys(meta).length ? ` ${JSON.stringify(sanitizeLogData(meta))}` : '';
-    return `[${timestamp}] ${level}: ${message}${metaStr}`;
-  })
-);
-
-const fileFormat = winston.format.combine(
-  winston.format.timestamp(),
-  winston.format.errors({ stack: true }),
-  winston.format.json(),
-  winston.format.printf((info) => {
-    return JSON.stringify({
-      ...sanitizeLogData(info),
-      environment: environmentConfig.NODE_ENV
-    });
-  })
-);
-
-function sanitizeLogData(data: any): any {
-  if (typeof data !== 'object' || data === null) {
-    return data;
-  }
-
-  const sanitized = { ...data };
-  const sensitiveKeys = [
-    'password', 'token', 'key', 'secret', 'credential',
-    'authorization', 'auth', 'apikey', 'GOOGLE_APPLICATION_CREDENTIALS'
-  ];
-
-  for (const key in sanitized) {
-    if (sensitiveKeys.some(sensitive => key.toLowerCase().includes(sensitive))) {
-      sanitized[key] = '[REDACTED]';
-    } else if (typeof sanitized[key] === 'object') {
-      sanitized[key] = sanitizeLogData(sanitized[key]);
-    }
-  }
-
-  return sanitized;
+function getEnvLevel(): LogLevel {
+  const raw = process.env.NEXT_PUBLIC_LOG_LEVEL?.toLowerCase()
+  if (raw === 'debug' || raw === 'info' || raw === 'warn' || raw === 'error') return raw
+  return process.env.NODE_ENV === 'production' ? 'info' : 'debug'
 }
 
-const dailyRotateTransport = new DailyRotateFile({
-  filename: 'logs/etl-%DATE%.log',
-  datePattern: 'YYYY-MM-DD',
-  zippedArchive: true,
-  maxSize: '20m',
-  maxFiles: '14d', // Manter logs por 14 dias
-  format: fileFormat
-});
+const CURRENT_LEVEL = getEnvLevel()
 
-const errorTransport = new DailyRotateFile({
-  filename: 'logs/error-%DATE%.log',
-  datePattern: 'YYYY-MM-DD',
-  zippedArchive: true,
-  maxSize: '20m',
-  maxFiles: '30d', // Manter logs de erro por 30 dias
-  level: 'error',
-  format: fileFormat
-});
+function formatMessage(ns: string | undefined, level: LogLevel, args: unknown[]): unknown[] {
+  const ts = new Date().toISOString()
+  const prefix = ns ? `[${ts}] [${ns}] [${level}]` : `[${ts}] [${level}]`
+  return [prefix, ...args]
+}
 
-const logger = winston.createLogger({
-  level: environmentConfig.LOG_LEVEL || 'info',
-  format: winston.format.errors({ stack: true }),
-  defaultMeta: {
-    service: 'camara-etl',
-    version: process.env.npm_package_version || '1.0.0'
-  },
-  transports: [
-    new winston.transports.Console({
-      format: consoleFormat,
-      silent: process.env.NODE_ENV === 'test'
-    }),
-    
-    dailyRotateTransport,
-    
-    errorTransport
-  ],
+function shouldLog(level: LogLevel): boolean {
+  return LEVEL_ORDER[level] >= LEVEL_ORDER[CURRENT_LEVEL]
+}
 
-  exceptionHandlers: [
-    new winston.transports.File({ 
-      filename: 'logs/exceptions.log',
-      format: fileFormat
-    })
-  ],
-  rejectionHandlers: [
-    new winston.transports.File({ 
-      filename: 'logs/rejections.log',
-      format: fileFormat
-    })
-  ]
-});
+export function createLogger(namespace?: string) {
+  return {
+    debug: (...args: unknown[]) => {
+      if (!shouldLog('debug')) return
+      // eslint-disable-next-line no-console
+      console.debug(...formatMessage(namespace, 'debug', args))
+    },
+    info: (...args: unknown[]) => {
+      if (!shouldLog('info')) return
+      // eslint-disable-next-line no-console
+      console.info(...formatMessage(namespace, 'info', args))
+    },
+    warn: (...args: unknown[]) => {
+      if (!shouldLog('warn')) return
+      // eslint-disable-next-line no-console
+      console.warn(...formatMessage(namespace, 'warn', args))
+    },
+    error: (...args: unknown[]) => {
+      if (!shouldLog('error')) return
+      // eslint-disable-next-line no-console
+      console.error(...formatMessage(namespace, 'error', args))
+    },
+  }
+}
 
-class ProfessionalLogger {
-  private winston: winston.Logger;
-  private context: LogContext;
+export const logger = createLogger('app')
 
-  constructor(winstonLogger: winston.Logger) {
-    this.winston = winstonLogger;
-    this.context = {};
+// Extended logger with contextual metadata used across robustness modules
+export type LogContext = Record<string, unknown>
+
+class ContextualLogger {
+  private context: LogContext = {}
+  private base = createLogger('professional')
+
+  setContext(ctx: LogContext): void {
+    this.context = { ...this.context, ...ctx }
   }
 
-  setContext(context: LogContext): this {
-    this.context = { ...this.context, ...context };
-    return this;
+  private appendContext(args: unknown[]): unknown[] {
+    return this.context && Object.keys(this.context).length > 0
+      ? [...args, { context: this.context }]
+      : args
   }
 
-  clearContext(): this {
-    this.context = {};
-    return this;
+  debug(...args: unknown[]): void {
+    this.base.debug(...this.appendContext(args))
   }
 
-  error(message: string, error?: Error | unknown, context?: LogContext): void {
-    const logContext = { ...this.context, ...context };
-    
-    if (error instanceof Error) {
-      this.winston.error(message, {
-        ...logContext,
-        error: {
-          name: error.name,
-          message: error.message,
-          stack: error.stack
-        }
-      });
-    } else {
-      this.winston.error(message, { ...logContext, error });
-    }
+  info(...args: unknown[]): void {
+    this.base.info(...this.appendContext(args))
   }
 
-  warn(message: string, context?: LogContext): void {
-    this.winston.warn(message, { ...this.context, ...context });
+  warn(...args: unknown[]): void {
+    this.base.warn(...this.appendContext(args))
   }
 
-  info(message: string, context?: LogContext): void {
-    this.winston.info(message, { ...this.context, ...context });
+  error(...args: unknown[]): void {
+    this.base.error(...this.appendContext(args))
   }
 
-  debug(message: string, context?: LogContext): void {
-    this.winston.debug(message, { ...this.context, ...context });
-  }
-
-  startOperation(operation: string, context?: LogContext): () => void {
-    const startTime = Date.now();
-    const operationId = Math.random().toString(36).substr(2, 9);
-    
-    this.info(`[INÍCIO] ${operation}`, {
-      ...context,
+  // Progress helper used by batch processors
+  progress(operation: string, processed: number, total: number, extra?: LogContext): void {
+    const percent = total > 0 ? Math.round((processed / total) * 100) : 0
+    this.info('Progress update', {
       operation,
-      operationId,
-      phase: 'start'
-    });
-
-    return () => {
-      const duration = Date.now() - startTime;
-      this.info(`[FIM] ${operation}`, {
-        ...context,
-        operation,
-        operationId,
-        duration: `${duration}ms`,
-        phase: 'end'
-      });
-    };
-  }
-
-  metrics(operation: string, metrics: Record<string, number | string>, context?: LogContext): void {
-    this.info(`[MÉTRICAS] ${operation}`, {
-      ...context,
-      operation,
-      metrics,
-      type: 'performance'
-    });
-  }
-
-  progress(operation: string, current: number, total: number, context?: LogContext): void {
-    const percentage = Math.round((current / total) * 100);
-    this.info(`[PROGRESSO] ${operation}: ${current}/${total} (${percentage}%)`, {
-      ...context,
-      operation,
-      current,
+      processed,
       total,
-      percentage,
-      type: 'progress'
-    });
-  }
-
-  audit(action: string, context?: LogContext): void {
-    this.winston.info(`[AUDITORIA] ${action}`, {
-      ...this.context,
-      ...context,
-      type: 'audit',
-      timestamp: new Date().toISOString()
-    });
+      percent
+    }, extra)
   }
 }
 
-export const professionalLogger = new ProfessionalLogger(logger);
+export const professionalLogger = new ContextualLogger()
 
-export const logger_v2 = {
-  error: (message: string, error?: any) => professionalLogger.error(message, error),
-  warn: (message: string) => professionalLogger.warn(message),
-  info: (message: string) => professionalLogger.info(message),
-  debug: (message: string) => professionalLogger.debug(message),
-};
-
-export default professionalLogger;
-
-export function createContextLogger(context: LogContext): ProfessionalLogger {
-  return new ProfessionalLogger(logger).setContext(context);
+// Factory that returns a contextual logger bound with additional context
+export function createContextLogger(additional: LogContext = {}) {
+  const instance = new ContextualLogger()
+  instance.setContext(additional)
+  return instance
 }
 
-export function logRequest(url: string, method: string = 'GET', duration?: number): void {
-  professionalLogger.info(`[HTTP] ${method} ${url}`, {
-    type: 'http',
-    method,
-    url,
-    duration: duration ? `${duration}ms` : undefined
-  });
+// Minimal v2 alias to keep compatibility with existing imports
+export const logger_v2 = createLogger('app-v2')
+
+// Helper to standardize request logging
+export function logRequest(details: {
+  method: string
+  url: string
+  status?: number
+  durationMs?: number
+  payloadBytes?: number
+  requestId?: string
+  operation?: string
+}): void {
+  const { method, url, status, durationMs, payloadBytes, requestId, operation } = details
+  const ns = createLogger('request')
+  ns.info('[HTTP]', { method, url, status, durationMs, payloadBytes, requestId, operation })
 }
 
-export function logSystemStatus(component: string, status: 'healthy' | 'warning' | 'error', details?: any): void {
-  const level = status === 'error' ? 'error' : status === 'warning' ? 'warn' : 'info';
-  professionalLogger[level](`[SISTEMA] ${component}: ${status.toUpperCase()}`, {
-    type: 'system',
-    component,
-    status,
-    details
-  });
+// Helper to summarize system status in logs
+export function logSystemStatus(status: {
+  cpuPercent?: number
+  memoryPercent?: number
+  uptimeSeconds?: number
+  details?: Record<string, unknown>
+}): void {
+  const ns = createLogger('system')
+  ns.info('System status', status)
 }

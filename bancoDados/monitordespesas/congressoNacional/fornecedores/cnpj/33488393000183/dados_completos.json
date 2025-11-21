@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+      "cnpj": "33488393000183",
+      "total_recebido": 1373.35,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:55.964481"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 1373.35
+  },
+  "anos": {
+    "2024": {
+      "total": 1373.35,
+      "transacoes": 8,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 1373.35,
+      "transacoes": 8,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7749701,
+          "tipoDocumento": "Recibos/Outros",
+          "codTipoDocumento": 1,
+          "dataDocumento": "2024-05-11T00:00:00",
+          "numDocumento": "01",
+          "valorDocumento": 224.85,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7749701.pdf",
+          "nomeFornecedor": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+          "cnpjCpfFornecedor": "33488393000183",
+          "valorLiquido": 224.85,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2047008,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7735772,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-12T00:00:00",
+          "numDocumento": "1",
+          "valorDocumento": 250.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7735772.pdf",
+          "nomeFornecedor": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+          "cnpjCpfFornecedor": "33488393000183",
+          "valorLiquido": 250.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2039715,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7797837,
+          "tipoDocumento": "Recibos/Outros",
+          "codTipoDocumento": 1,
+          "dataDocumento": "2024-08-21T00:00:00",
+          "numDocumento": "216756",
+          "valorDocumento": 149.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7797837.pdf",
+          "nomeFornecedor": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+          "cnpjCpfFornecedor": "33488393000183",
+          "valorLiquido": 149.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2071363,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7827779,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-05T00:00:00",
+          "numDocumento": "218515",
+          "valorDocumento": 149.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7827779.pdf",
+          "nomeFornecedor": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+          "cnpjCpfFornecedor": "33488393000183",
+          "valorLiquido": 149.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2087652,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7846560,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-06T00:00:00",
+          "numDocumento": "218515",
+          "valorDocumento": 149.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7846560.pdf",
+          "nomeFornecedor": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+          "cnpjCpfFornecedor": "33488393000183",
+          "valorLiquido": 149.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2097841,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7771953,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-07T00:00:00",
+          "numDocumento": "326030",
+          "valorDocumento": 149.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7771953.pdf",
+          "nomeFornecedor": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+          "cnpjCpfFornecedor": "33488393000183",
+          "valorLiquido": 149.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2058406,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7814015,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-07T00:00:00",
+          "numDocumento": "571535",
+          "valorDocumento": 149.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7814015.pdf",
+          "nomeFornecedor": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+          "cnpjCpfFornecedor": "33488393000183",
+          "valorLiquido": 149.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2080309,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7787548,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-13T00:00:00",
+          "numDocumento": "786716",
+          "valorDocumento": 149.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7787548.pdf",
+          "nomeFornecedor": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+          "cnpjCpfFornecedor": "33488393000183",
+          "valorLiquido": 149.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2065960,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

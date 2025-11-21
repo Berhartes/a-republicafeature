@@ -1,0 +1,164 @@
+{
+  "deputado": {
+    "id": 204482,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204482",
+    "nome": "Euclydes Pettersen",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204482.jpg",
+    "email": "dep.euclydespettersen@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 110468.58,
+  "quantidade_transacoes": 43,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 59507.4,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 53.87
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 26360.03,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 23.86
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 24079.55,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 21.8
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 521.6,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.47
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "POP SOLUCOES EM COMUNICACAO LTDA",
+      "cnpj": "57913611000148",
+      "total": 30507.4,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 27.62
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 18075.94,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 16.36
+    },
+    {
+      "nome": "SAFER SERVICOS DIGITAIS LTDA",
+      "cnpj": "50040834000107",
+      "total": 16000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 14.48
+    },
+    {
+      "nome": "VIBRA ENERGIA S.A",
+      "cnpj": "34274233011210",
+      "total": 8021.78,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 7.26
+    },
+    {
+      "nome": "JK Cunha Lima",
+      "cnpj": "18088055000160",
+      "total": 7500.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 6.79
+    },
+    {
+      "nome": "JET AVIACAO COMERCIO LTDA",
+      "cnpj": "31919989000165",
+      "total": 7202.75,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 6.52
+    },
+    {
+      "nome": "EUROBASE",
+      "cnpj": "03017052000169",
+      "total": 6925.6,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.27
+    },
+    {
+      "nome": "PATRICK SOARES OBOLARI",
+      "cnpj": "41487390000153",
+      "total": 5500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.98
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 4333.21,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.92
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 3950.88,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.58
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 24393.53,
+      "porcentagem_do_total": 22.08
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 24002.82,
+      "porcentagem_do_total": 21.73
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": -1413.02,
+      "porcentagem_do_total": -1.28
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 36153.1,
+      "porcentagem_do_total": 32.73
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 16607.8,
+      "porcentagem_do_total": 15.03
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 5158.25,
+      "porcentagem_do_total": 4.67
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 5044.5,
+      "porcentagem_do_total": 4.57
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 521.6,
+      "porcentagem_do_total": 0.47
+    }
+  ]
+}

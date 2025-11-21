@@ -1,0 +1,54 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO NM 16 LTDA",
+    "cnpj": "11948180000154",
+    "total_recebido": 2568.4700000000003,
+    "numero_transacoes": 7,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 1879.61,
+  "quantidade_transacoes": 5,
+  "principais_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 1879.61,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1879.61,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 415.49,
+      "porcentagem_do_total": 22.11
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 755.31,
+      "porcentagem_do_total": 40.18
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 367.79,
+      "porcentagem_do_total": 19.57
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 341.02,
+      "porcentagem_do_total": 18.14
+    }
+  ]
+}

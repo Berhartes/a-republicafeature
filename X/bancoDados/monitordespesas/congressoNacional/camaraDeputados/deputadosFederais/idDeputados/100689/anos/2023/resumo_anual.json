@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 100689,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/100689",
+      "nome": "Hildo do Candango",
+      "siglaPartido": "REPUBLICANOS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+      "siglaUf": "GO",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/100689.jpg",
+      "email": null
+    },
+    "ano": 2023,
+    "total_despesas": 12233.33,
+    "quantidade_transacoes": 2,
+    "quantidade_categorias": 2,
+    "quantidade_fornecedores": 2,
+    "periodo_inicio": "2023-12-29T00:00:00",
+    "periodo_fim": "2024-01-18T00:00:00",
+    "generatedAt": "2025-11-10T22:40:20.181441"
+  },
+  "resumo_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 10500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 85.83
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 1733.33,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 14.17
+    }
+  ],
+  "resumo_fornecedores": [
+    {
+      "nome": "PRODUTORA DE VIDEOS METROPOLES -KSULO FILMES",
+      "cnpj": "42966281000181",
+      "total": 10500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 85.83
+    },
+    {
+      "nome": "SUPREMA MOBILIDADE LTDA",
+      "cnpj": "24894397000170",
+      "total": 1733.33,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 14.17
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 12233.33,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7669781,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-12-29T00:00:00",
+      "numDocumento": "30",
+      "valorDocumento": 10500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3754/2024/7669781.pdf",
+      "nomeFornecedor": "PRODUTORA DE VIDEOS METROPOLES -KSULO FILMES",
+      "cnpjCpfFornecedor": "42966281000181",
+      "valorLiquido": 10500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2002852,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7680141,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2024-01-18T00:00:00",
+      "numDocumento": "000198",
+      "valorDocumento": 1733.33,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3754/2024/7680141.pdf",
+      "nomeFornecedor": "SUPREMA MOBILIDADE LTDA",
+      "cnpjCpfFornecedor": "24894397000170",
+      "valorLiquido": 1733.33,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2009244,
+      "parcela": 0
+    }
+  ]
+}

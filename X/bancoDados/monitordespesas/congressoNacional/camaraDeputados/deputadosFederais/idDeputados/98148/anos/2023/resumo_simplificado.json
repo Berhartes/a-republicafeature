@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 98148,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/98148",
+    "nome": "Cobalchini",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "SC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/98148.jpg",
+    "email": "dep.cobalchini@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 401042.8,
+  "quantidade_transacoes": 873,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 110063.1,
+      "quantidade_transacoes": 235,
+      "porcentagem_do_total": 27.44
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 108667.97,
+      "quantidade_transacoes": 56,
+      "porcentagem_do_total": 27.1
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 88567.38,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 22.08
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 54072.54,
+      "quantidade_transacoes": 277,
+      "porcentagem_do_total": 13.48
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 20471.07,
+      "quantidade_transacoes": 45,
+      "porcentagem_do_total": 5.1
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 79476.0,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 19.82
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 51851.74,
+      "quantidade_transacoes": 98,
+      "porcentagem_do_total": 12.93
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 41542.54,
+      "quantidade_transacoes": 102,
+      "porcentagem_do_total": 10.36
+    },
+    {
+      "nome": "ICPE CONSULTORIA CONSULTORIA E ASSESSORIA LTDA",
+      "cnpj": "33993144000145",
+      "total": 35000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 8.73
+    },
+    {
+      "nome": "LETSROCKET COMUNICAÇÃO DIGITAL LTDA",
+      "cnpj": "22507365000140",
+      "total": 18900.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 4.71
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 16668.82,
+      "quantidade_transacoes": 35,
+      "porcentagem_do_total": 4.16
+    },
+    {
+      "nome": "UFFICIO COMUNICACAO IN SENSA LTDA ME",
+      "cnpj": "32439677000117",
+      "total": 15782.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.94
+    },
+    {
+      "nome": "PEROSA COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "00285069000109",
+      "total": 11299.31,
+      "quantidade_transacoes": 64,
+      "porcentagem_do_total": 2.82
+    },
+    {
+      "nome": "GRÁFICA NACIONAL",
+      "cnpj": "85191146000114",
+      "total": 8200.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.04
+    },
+    {
+      "nome": "PANTANAL-VEICULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 7750.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.93
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 29842.42,
+      "porcentagem_do_total": 7.44
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 22043.55,
+      "porcentagem_do_total": 5.5
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 25261.76,
+      "porcentagem_do_total": 6.3
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 32286.08,
+      "porcentagem_do_total": 8.05
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 21455.19,
+      "porcentagem_do_total": 5.35
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 36037.06,
+      "porcentagem_do_total": 8.99
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 23697.91,
+      "porcentagem_do_total": 5.91
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 40174.88,
+      "porcentagem_do_total": 10.02
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 31844.54,
+      "porcentagem_do_total": 7.94
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 28970.61,
+      "porcentagem_do_total": 7.22
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 109428.8,
+      "porcentagem_do_total": 27.29
+    }
+  ]
+}

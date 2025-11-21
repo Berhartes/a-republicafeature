@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "UNIVERSITARIA INFORMATICA, PAPELARIA E SERVICOS LTDA",
+    "cnpj": "30986262000138",
+    "total_recebido": 503.5,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 503.5,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 503.5,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 503.5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 503.5,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

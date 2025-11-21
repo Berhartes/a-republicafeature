@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PARADOURO CASSEMIRO ANTONIOLI GASTRONOMIA E HOTELARIA LTDA",
+      "cnpj": "23186912000103",
+      "total_recebido": 766.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:11.026502"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 766.0
+  },
+  "anos": {
+    "2023": {
+      "total": 398.0,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 368.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "136811": {
+      "deputado": {
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
+      },
+      "total": 766.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7584344,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-28T00:00:00",
+          "numDocumento": "1249",
+          "valorDocumento": 249.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2023/7584344.pdf",
+          "nomeFornecedor": "PARADOURO CASSEMIRO ANTONIOLI GASTRONOMIA E HOTELARIA LTDA",
+          "cnpjCpfFornecedor": "23186912000103",
+          "valorLiquido": 249.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7584349,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-28T00:00:00",
+          "numDocumento": "1250",
+          "valorDocumento": 149.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2023/7584349.pdf",
+          "nomeFornecedor": "PARADOURO CASSEMIRO ANTONIOLI GASTRONOMIA E HOTELARIA LTDA",
+          "cnpjCpfFornecedor": "23186912000103",
+          "valorLiquido": 149.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7798467,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-22T00:00:00",
+          "numDocumento": "3146",
+          "valorDocumento": 184.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2024/7798467.pdf",
+          "nomeFornecedor": "PARADOURO CASSEMIRO ANTONIOLI GASTRONOMIA E HOTELARIA LTDA",
+          "cnpjCpfFornecedor": "23186912000103",
+          "valorLiquido": 184.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7798477,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-22T00:00:00",
+          "numDocumento": "3145",
+          "valorDocumento": 184.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2024/7798477.pdf",
+          "nomeFornecedor": "PARADOURO CASSEMIRO ANTONIOLI GASTRONOMIA E HOTELARIA LTDA",
+          "cnpjCpfFornecedor": "23186912000103",
+          "valorLiquido": 184.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

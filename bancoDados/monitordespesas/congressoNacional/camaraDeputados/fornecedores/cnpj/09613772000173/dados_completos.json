@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.320933"
+    "generatedAt": "2025-11-11T05:22:12.100361"
   },
   "categorias": {
     "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 900.0
@@ -25,6 +25,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -37,15 +38,15 @@
       "despesas": [
         {
           "ano": 2023,
-          "mes": 2,
+          "mes": 1,
           "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-          "codDocumento": 7507221,
+          "codDocumento": 7507220,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-03-02T00:00:00",
-          "numDocumento": "11659",
+          "dataDocumento": "2023-02-01T00:00:00",
+          "numDocumento": "11616",
           "valorDocumento": 450.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2023/7507221.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2023/7507220.pdf",
           "nomeFornecedor": "Conde & Dell Aringa - Des de Softwares",
           "cnpjCpfFornecedor": "09613772000173",
           "valorLiquido": 450.0,
@@ -56,15 +57,15 @@
         },
         {
           "ano": 2023,
-          "mes": 1,
+          "mes": 2,
           "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-          "codDocumento": 7507220,
+          "codDocumento": 7507221,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-02-01T00:00:00",
-          "numDocumento": "11616",
+          "dataDocumento": "2023-03-02T00:00:00",
+          "numDocumento": "11659",
           "valorDocumento": 450.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2023/7507220.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2023/7507221.pdf",
           "nomeFornecedor": "Conde & Dell Aringa - Des de Softwares",
           "cnpjCpfFornecedor": "09613772000173",
           "valorLiquido": 450.0,

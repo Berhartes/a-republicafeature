@@ -7,7 +7,7 @@
       "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:00.064531"
+    "generatedAt": "2025-11-11T05:22:10.578636"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 1224.89
@@ -35,6 +35,7 @@
         "id": 204560,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204560",
         "nome": "Adolfo Viana",
+        "nomeEleitoral": "Adolfo Viana",
         "siglaPartido": "PSDB",
         "uriPartido": "",
         "siglaUf": "BA",
@@ -66,25 +67,6 @@
         },
         {
           "ano": 2024,
-          "mes": 11,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7843464,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-12T01:05:06",
-          "numDocumento": "8575",
-          "valorDocumento": 349.91,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7843464",
-          "nomeFornecedor": "AUTO POSTO QNO LTDA",
-          "cnpjCpfFornecedor": "33714876000159",
-          "valorLiquido": 349.91,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
           "mes": 3,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7717388,
@@ -97,6 +79,25 @@
           "nomeFornecedor": "AUTO POSTO QNO LTDA",
           "cnpjCpfFornecedor": "33714876000159",
           "valorLiquido": 255.73,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7843464,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-12T01:05:06",
+          "numDocumento": "8575",
+          "valorDocumento": 349.91,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7843464",
+          "nomeFornecedor": "AUTO POSTO QNO LTDA",
+          "cnpjCpfFornecedor": "33714876000159",
+          "valorLiquido": 349.91,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

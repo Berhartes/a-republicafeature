@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 220714,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220714",
+    "nome": "Adail Filho",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "AM",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
+    "email": "dep.adailfilho@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 448401.99,
+  "quantidade_transacoes": 194,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 325000.0,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 72.48
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 60000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 13.38
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 36228.25,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 8.08
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 27173.74,
+      "quantidade_transacoes": 137,
+      "porcentagem_do_total": 6.06
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ANIMAÇAO PROMOÇOES E PUBLICIDADE LTDA",
+      "cnpj": "84659721000106",
+      "total": 194600.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 43.4
+    },
+    {
+      "nome": "ELZANIRA SOARES DA SILVA LTDA",
+      "cnpj": "31263284000132",
+      "total": 130400.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 29.08
+    },
+    {
+      "nome": "NSF TRANSPORTES ME LTDA.",
+      "cnpj": "19533015000143",
+      "total": 60000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 13.38
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 29740.32,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 6.63
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 5276.39,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.18
+    },
+    {
+      "nome": "DAT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "01647520000153",
+      "total": 3648.03,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 0.81
+    },
+    {
+      "nome": "POSTO TOCANTINS LTDA",
+      "cnpj": "06224769000170",
+      "total": 1807.91,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 0.4
+    },
+    {
+      "nome": "M M COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "15113383000181",
+      "total": 1789.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.4
+    },
+    {
+      "nome": "COPEVE COMERCIO DE PETROLEO E SERVICOS LTDA",
+      "cnpj": "14202493000238",
+      "total": 1591.3,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 0.35
+    },
+    {
+      "nome": "026 - P WAY - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597002655",
+      "total": 1390.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 0.31
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 56536.67,
+      "porcentagem_do_total": 12.61
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 61739.94,
+      "porcentagem_do_total": 13.77
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 49767.15,
+      "porcentagem_do_total": 11.1
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 46545.02,
+      "porcentagem_do_total": 10.38
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 50096.6,
+      "porcentagem_do_total": 11.17
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 50941.24,
+      "porcentagem_do_total": 11.36
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 46602.22,
+      "porcentagem_do_total": 10.39
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 46973.56,
+      "porcentagem_do_total": 10.48
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 30863.14,
+      "porcentagem_do_total": 6.88
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 8336.45,
+      "porcentagem_do_total": 1.86
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 204560,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204560",
+    "nome": "Adolfo Viana",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
+    "email": "dep.adolfoviana@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 445351.85,
+  "quantidade_transacoes": 234,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 138000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 30.99
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 123000.0,
+      "quantidade_transacoes": 36,
+      "porcentagem_do_total": 27.62
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "total": 82320.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 18.48
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 71399.19,
+      "quantidade_transacoes": 118,
+      "porcentagem_do_total": 16.03
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 11071.58,
+      "quantidade_transacoes": 37,
+      "porcentagem_do_total": 2.49
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CONSUPORTE TRANSPORTES E SERVIÇOS LTDA - EPP",
+      "cnpj": "00254564000150",
+      "total": 138000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 30.99
+    },
+    {
+      "nome": "ATA AEROTAXI ABAETE LTDA",
+      "cnpj": "14674451000119",
+      "total": 82320.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 18.48
+    },
+    {
+      "nome": "JC DE BRITO ASSESSORIA E COMINICA;'AO ME",
+      "cnpj": "28310382000179",
+      "total": 57000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 12.8
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 48266.66,
+      "quantidade_transacoes": 71,
+      "porcentagem_do_total": 10.84
+    },
+    {
+      "nome": "JOAO GLAUCE ALMEIDA ANDREA BRANDAO",
+      "cnpj": "35835406000179",
+      "total": 42000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 9.43
+    },
+    {
+      "nome": "JAGUARARI FM LTDA",
+      "cnpj": "16151359000108",
+      "total": 24000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 5.39
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 23132.53,
+      "quantidade_transacoes": 47,
+      "porcentagem_do_total": 5.19
+    },
+    {
+      "nome": "BROAD BRASIL LTDA",
+      "cnpj": "48949641000113",
+      "total": 9350.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 2.1
+    },
+    {
+      "nome": "AUTO POSTO 303 NORTE LTDA",
+      "cnpj": "38194212000120",
+      "total": 8439.3,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 1.89
+    },
+    {
+      "nome": "VIVO TELEFONIA BRASIL S/A",
+      "cnpj": "02558157000162",
+      "total": 2003.87,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.45
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 25543.65,
+      "porcentagem_do_total": 5.74
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 59221.18,
+      "porcentagem_do_total": 13.3
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 60347.15,
+      "porcentagem_do_total": 13.55
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 39573.13,
+      "porcentagem_do_total": 8.89
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 20123.26,
+      "porcentagem_do_total": 4.52
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 57672.87,
+      "porcentagem_do_total": 12.95
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 20441.32,
+      "porcentagem_do_total": 4.59
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 27297.02,
+      "porcentagem_do_total": 6.13
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 31058.22,
+      "porcentagem_do_total": 6.97
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 35004.46,
+      "porcentagem_do_total": 7.86
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 37136.57,
+      "porcentagem_do_total": 8.34
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 31933.02,
+      "porcentagem_do_total": 7.17
+    }
+  ]
+}

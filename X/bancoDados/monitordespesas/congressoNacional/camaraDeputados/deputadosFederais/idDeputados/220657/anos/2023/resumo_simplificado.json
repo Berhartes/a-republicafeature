@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220657,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220657",
+    "nome": "André Fernandes",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "CE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220657.jpg",
+    "email": "dep.andrefernandes@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 295016.87,
+  "quantidade_transacoes": 220,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 102216.0,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 34.65
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 93642.39,
+      "quantidade_transacoes": 98,
+      "porcentagem_do_total": 31.74
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 86270.53,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 29.24
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 8125.4,
+      "quantidade_transacoes": 33,
+      "porcentagem_do_total": 2.75
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 3615.41,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 1.23
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 84468.61,
+      "quantidade_transacoes": 89,
+      "porcentagem_do_total": 28.63
+    },
+    {
+      "nome": "LEOMAR LACERDA VIEIRA",
+      "cnpj": "13536133304",
+      "total": 73960.71,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 25.07
+    },
+    {
+      "nome": "DALETH VEICULOS LTDA EPP",
+      "cnpj": "04515963000189",
+      "total": 41166.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 13.95
+    },
+    {
+      "nome": "KERIGMA COMERCIO E LOCAÇÃO DE VEÍCULOS LTDA",
+      "cnpj": "51951778000117",
+      "total": 32000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 10.85
+    },
+    {
+      "nome": "LCR SERVICOS LTDA",
+      "cnpj": "08286534000138",
+      "total": 28000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 9.49
+    },
+    {
+      "nome": "BROADBRASIL LTDA",
+      "cnpj": "48949641000113",
+      "total": 6300.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 2.14
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 5920.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 2.01
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 3253.78,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.1
+    },
+    {
+      "nome": "TELEFONICA BRASIL S.A.",
+      "cnpj": "02558157001134",
+      "total": 3210.92,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 1.09
+    },
+    {
+      "nome": "BROAD BRASIL LTDA",
+      "cnpj": "48949641000113",
+      "total": 3150.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.07
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 16489.22,
+      "porcentagem_do_total": 5.59
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 19844.1,
+      "porcentagem_do_total": 6.73
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 30407.95,
+      "porcentagem_do_total": 10.31
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 34241.53,
+      "porcentagem_do_total": 11.61
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 33175.71,
+      "porcentagem_do_total": 11.25
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 24290.32,
+      "porcentagem_do_total": 8.23
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 20687.79,
+      "porcentagem_do_total": 7.01
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 30833.78,
+      "porcentagem_do_total": 10.45
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 30513.47,
+      "porcentagem_do_total": 10.34
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 28025.34,
+      "porcentagem_do_total": 9.5
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 26507.66,
+      "porcentagem_do_total": 8.99
+    }
+  ]
+}

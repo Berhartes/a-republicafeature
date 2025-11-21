@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-12T00:38:35Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "1.0.0",
+    "legislatura": 57,
+    "cnpj": "01156523000194"
+  },
+  "data": {
+    "cnpj": "01156523000194",
+    "nome": "JADE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+    "nomeFornecedor": "JADE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+    "totalTransacionado": 821.01,
+    "totalRecebido": 821.01,
+    "totalRecebidoTodos": 821.01,
+    "transacoes": 4,
+    "numeroTransacoes": 4,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 821.01,
+        "quantidade": 4
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 821.01,
+        "quantidade": 4
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2024": {
+        "valor": 821.01,
+        "transacoes": 4,
+        "deputados": 1
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

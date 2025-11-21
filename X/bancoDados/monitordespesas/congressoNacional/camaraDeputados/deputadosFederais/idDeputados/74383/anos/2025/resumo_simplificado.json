@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 74383,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74383",
+    "nome": "Giacobo",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74383.jpg",
+    "email": "dep.giacobo@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 421726.95,
+  "quantidade_transacoes": 82,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 339524.1,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 80.51
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 53844.9,
+      "quantidade_transacoes": 60,
+      "porcentagem_do_total": 12.77
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "total": 15000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.56
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 13357.95,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 3.17
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "GALZON EDITORA GRAFICA LTDA",
+      "cnpj": "07436265000186",
+      "total": 310224.1,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 73.56
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 38558.61,
+      "quantidade_transacoes": 48,
+      "porcentagem_do_total": 9.14
+    },
+    {
+      "nome": "CALGAN EDITORA GRAFICA LTDA",
+      "cnpj": "04261548000146",
+      "total": 24800.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.88
+    },
+    {
+      "nome": "voesync taxi aereo ltda",
+      "cnpj": "07557617000313",
+      "total": 15000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.56
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 11912.61,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 2.82
+    },
+    {
+      "nome": "HOTEL CURITIBA CAPITAL S/A",
+      "cnpj": "03554611000331",
+      "total": 9326.55,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 2.21
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 3373.68,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.8
+    },
+    {
+      "nome": "BT FARIA LIMA HOTEIS LTDA",
+      "cnpj": "22359283000103",
+      "total": 2681.4,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.64
+    },
+    {
+      "nome": "GUILHERME DELZOTTO RODRIGUES",
+      "cnpj": "42837689000153",
+      "total": 2500.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.59
+    },
+    {
+      "nome": "JORNAL TRIBUNA REGIONAL",
+      "cnpj": "05430495000293",
+      "total": 2000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.47
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 8435.37,
+      "porcentagem_do_total": 2.0
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 63778.19,
+      "porcentagem_do_total": 15.12
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 14898.88,
+      "porcentagem_do_total": 3.53
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 66553.02,
+      "porcentagem_do_total": 15.78
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 52028.71,
+      "porcentagem_do_total": 12.34
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 38004.92,
+      "porcentagem_do_total": 9.01
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 40633.51,
+      "porcentagem_do_total": 9.64
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 46989.35,
+      "porcentagem_do_total": 11.14
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 27805.0,
+      "porcentagem_do_total": 6.59
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 24800.0,
+      "porcentagem_do_total": 5.88
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 37800.0,
+      "porcentagem_do_total": 8.96
+    }
+  ]
+}

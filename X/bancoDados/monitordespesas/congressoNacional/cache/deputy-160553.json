@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T17:45:22Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "deputados.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "deputadoId": "160553"
+  },
+  "data": {
+    "id": "160553",
+    "nome": "Antonio Brito",
+    "nomeEleitoral": "Antonio Brito",
+    "nomeCivil": null,
+    "partido": "PSD",
+    "siglaPartido": "PSD",
+    "uf": "BA",
+    "siglaUf": "BA",
+    "urlFoto": null,
+    "totalDespesas": 885962.4400000009,
+    "numeroDespesas": 1200,
+    "fornecedoresIdentificados": 92,
+    "createdAt": "2025-11-01T17:45:19Z",
+    "gastosPorAno": {},
+    "transacoesPorAno": {},
+    "topCategorias": [],
+    "topFornecedores": [],
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "temDetalhes": false
+  }
+}

@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:02.426252"
+    "generatedAt": "2025-11-11T05:22:34.315683"
   },
   "categorias": {
     "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 1513.0
@@ -25,6 +25,7 @@
         "id": 220542,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
         "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
         "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "TO",
@@ -35,6 +36,25 @@
       "total": 1513.0,
       "transacoes": 3,
       "despesas": [
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7750499,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-10T00:00:00",
+          "numDocumento": "202400000003047",
+          "valorDocumento": 418.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3584/2024/7750499.pdf",
+          "nomeFornecedor": "OITI HOTELARIA E TURISMO LTDA ME",
+          "cnpjCpfFornecedor": "15717340000105",
+          "valorLiquido": 418.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
         {
           "ano": 2024,
           "mes": 9,
@@ -68,25 +88,6 @@
           "nomeFornecedor": "OITI HOTELARIA E TURISMO LTDA ME",
           "cnpjCpfFornecedor": "15717340000105",
           "valorLiquido": 697.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 6,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7750499,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-06-10T00:00:00",
-          "numDocumento": "202400000003047",
-          "valorDocumento": 418.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3584/2024/7750499.pdf",
-          "nomeFornecedor": "OITI HOTELARIA E TURISMO LTDA ME",
-          "cnpjCpfFornecedor": "15717340000105",
-          "valorLiquido": 418.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

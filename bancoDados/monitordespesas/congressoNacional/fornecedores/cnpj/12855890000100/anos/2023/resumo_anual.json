@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "NILVO PAULO PEZZINI - EPP",
+      "cnpj": "12855890000100",
+      "total_recebido": 436.4,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 436.4,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-07-14T00:00:00",
+    "periodo_fim": "2023-09-24T00:00:00",
+    "generatedAt": "2025-11-11T21:37:54.119482"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 436.4,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 436.4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 160.0,
+      "porcentagem_do_total": 36.66
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 276.4,
+      "porcentagem_do_total": 63.34
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7576010,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-07-14T00:00:00",
+      "numDocumento": "814400",
+      "valorDocumento": 160.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7576010.pdf",
+      "nomeFornecedor": "NILVO PAULO PEZZINI - EPP",
+      "cnpjCpfFornecedor": "12855890000100",
+      "valorLiquido": 160.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1951498,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7613549,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-09-22T00:00:00",
+      "numDocumento": "834310",
+      "valorDocumento": 142.2,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7613549.pdf",
+      "nomeFornecedor": "NILVO PAULO PEZZINI - EPP",
+      "cnpjCpfFornecedor": "12855890000100",
+      "valorLiquido": 142.2,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1971080,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7613611,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-09-24T00:00:00",
+      "numDocumento": "834754",
+      "valorDocumento": 134.2,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7613611.pdf",
+      "nomeFornecedor": "NILVO PAULO PEZZINI - EPP",
+      "cnpjCpfFornecedor": "12855890000100",
+      "valorLiquido": 134.2,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1971080,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

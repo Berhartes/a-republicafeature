@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "REAL PETROLEO LTDA",
+    "cnpj": "09405430000400",
+    "total_recebido": 1509.31,
+    "numero_transacoes": 6,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 1509.31,
+  "quantidade_transacoes": 6,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 1509.31,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1509.31,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 795.91,
+      "porcentagem_do_total": 52.73
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 240.11,
+      "porcentagem_do_total": 15.91
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 473.29,
+      "porcentagem_do_total": 31.36
+    }
+  ]
+}

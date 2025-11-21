@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220623,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220623",
+    "nome": "Duda Salabert",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
+    "email": "dep.dudasalabert@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 448457.94,
+  "quantidade_transacoes": 316,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 163659.44,
+      "quantidade_transacoes": 180,
+      "porcentagem_do_total": 36.49
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 119590.0,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 26.67
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 82735.74,
+      "quantidade_transacoes": 57,
+      "porcentagem_do_total": 18.45
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 41672.95,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 9.29
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 21347.91,
+      "quantidade_transacoes": 45,
+      "porcentagem_do_total": 4.76
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 86183.95,
+      "quantidade_transacoes": 102,
+      "porcentagem_do_total": 19.22
+    },
+    {
+      "nome": "CARAVELAS CONSULTORIA E COMUNICACAO LTDA - EPP",
+      "cnpj": "20390376000167",
+      "total": 69666.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 15.53
+    },
+    {
+      "nome": "INOVAR EMPREENDIMENTOS E NEGÓCIOS IMOBILIÁRIOS LTDA",
+      "cnpj": "26940854000141",
+      "total": 63757.55,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 14.22
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 55939.52,
+      "quantidade_transacoes": 54,
+      "porcentagem_do_total": 12.47
+    },
+    {
+      "nome": "IE Maketing Direto Eireli",
+      "cnpj": "15244857000124",
+      "total": 38500.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 8.58
+    },
+    {
+      "nome": "Empresa de Transportes Apoteose LTDA",
+      "cnpj": "66455536000100",
+      "total": 37269.77,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 8.31
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 21535.97,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 4.8
+    },
+    {
+      "nome": "COMERCIO DE COMBUSTIVEIS ALEX LTDA",
+      "cnpj": "17176561000149",
+      "total": 17719.42,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 3.95
+    },
+    {
+      "nome": "Yasmin Breckenfeld Reck 066779227925",
+      "cnpj": "39464130000110",
+      "total": 11280.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 2.52
+    },
+    {
+      "nome": "VSP PARTNER",
+      "cnpj": "22464791000143",
+      "total": 8780.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.96
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 17260.82,
+      "porcentagem_do_total": 3.85
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 46806.52,
+      "porcentagem_do_total": 10.44
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 37068.66,
+      "porcentagem_do_total": 8.27
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 46216.85,
+      "porcentagem_do_total": 10.31
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 64633.13,
+      "porcentagem_do_total": 14.41
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 31244.13,
+      "porcentagem_do_total": 6.97
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 47620.18,
+      "porcentagem_do_total": 10.62
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 23866.44,
+      "porcentagem_do_total": 5.32
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 31186.32,
+      "porcentagem_do_total": 6.95
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 79081.86,
+      "porcentagem_do_total": 17.63
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 23473.03,
+      "porcentagem_do_total": 5.23
+    }
+  ]
+}

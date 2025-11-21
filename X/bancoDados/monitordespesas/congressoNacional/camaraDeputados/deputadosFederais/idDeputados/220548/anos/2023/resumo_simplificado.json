@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220548,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220548",
+    "nome": "Camila Jara",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "MS",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
+    "email": "dep.camilajara@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 501506.4,
+  "quantidade_transacoes": 388,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 192217.35,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 38.33
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 174397.83,
+      "quantidade_transacoes": 44,
+      "porcentagem_do_total": 34.77
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 66507.74,
+      "quantidade_transacoes": 74,
+      "porcentagem_do_total": 13.26
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 37957.95,
+      "quantidade_transacoes": 229,
+      "porcentagem_do_total": 7.57
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 27100.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 5.4
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "EVERSON VIANA TAVARES STUDIO FOTOGRAFICO",
+      "cnpj": "18979303000163",
+      "total": 209000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 41.67
+    },
+    {
+      "nome": "LEONARDO PETIZ SILVA MIRANDA",
+      "cnpj": "34913910000187",
+      "total": 62765.4,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 12.52
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 47978.72,
+      "quantidade_transacoes": 60,
+      "porcentagem_do_total": 9.57
+    },
+    {
+      "nome": "ELIANE MARIA DE BARROS OLIVEIRA",
+      "cnpj": "87174740197",
+      "total": 34650.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 6.91
+    },
+    {
+      "nome": "S M SBARDELOTTO",
+      "cnpj": "32537588000103",
+      "total": 23400.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 4.67
+    },
+    {
+      "nome": "ANTONIO GRACILIANO ARGUELLO NETO 00204050146",
+      "cnpj": "45988983000154",
+      "total": 15470.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.08
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 15274.18,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.05
+    },
+    {
+      "nome": "HASSAN CAVALCANTE SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+      "cnpj": "32097711000112",
+      "total": 14000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.79
+    },
+    {
+      "nome": "ANTONIO GRACILIANO ARGUELLO NETO",
+      "cnpj": "45988983000154",
+      "total": 12815.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.56
+    },
+    {
+      "nome": "prefeitura municipal de campo grande",
+      "cnpj": "03257078000184",
+      "total": 4528.99,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 0.9
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 47253.28,
+      "porcentagem_do_total": 9.42
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 47341.52,
+      "porcentagem_do_total": 9.44
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 49453.22,
+      "porcentagem_do_total": 9.86
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 52499.54,
+      "porcentagem_do_total": 10.47
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 47597.98,
+      "porcentagem_do_total": 9.49
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 36277.14,
+      "porcentagem_do_total": 7.23
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 44360.31,
+      "porcentagem_do_total": 8.85
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 41393.99,
+      "porcentagem_do_total": 8.25
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 47217.74,
+      "porcentagem_do_total": 9.42
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 54748.18,
+      "porcentagem_do_total": 10.92
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 33363.5,
+      "porcentagem_do_total": 6.65
+    }
+  ]
+}

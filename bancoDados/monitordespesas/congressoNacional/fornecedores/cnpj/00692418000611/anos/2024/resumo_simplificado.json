@@ -1,0 +1,85 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+    "cnpj": "00692418000611",
+    "total_recebido": 5550.28,
+    "numero_transacoes": 22,
+    "numero_deputados": 4
+  },
+  "ano": 2024,
+  "total_recebido": 4176.88,
+  "quantidade_transacoes": 15,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 3546.22,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 84.9
+    },
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 630.66,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 15.1
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 4176.88,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 242.06,
+      "porcentagem_do_total": 5.8
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 778.32,
+      "porcentagem_do_total": 18.63
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 254.52,
+      "porcentagem_do_total": 6.09
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 759.62,
+      "porcentagem_do_total": 18.19
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 580.82,
+      "porcentagem_do_total": 13.91
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 294.8,
+      "porcentagem_do_total": 7.06
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 309.15,
+      "porcentagem_do_total": 7.4
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 957.59,
+      "porcentagem_do_total": 22.93
+    }
+  ]
+}

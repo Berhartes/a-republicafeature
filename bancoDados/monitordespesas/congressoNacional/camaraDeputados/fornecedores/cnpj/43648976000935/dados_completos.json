@@ -3,71 +3,53 @@
     "fornecedor": {
       "nome": "REDE DE POSTOS AUTO POSTO CENTER LTDA",
       "cnpj": "43648976000935",
-      "total_recebido": 521.14,
-      "numero_transacoes": 2,
+      "total_recebido": 180.0,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:58:14.416636"
+    "generatedAt": "2025-11-11T05:22:26.745079"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 521.14
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 180.0
   },
   "anos": {
     "2023": {
-      "total": 521.14,
-      "transacoes": 2,
+      "total": 180.0,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204388": {
+    "160559": {
       "deputado": {
-        "id": 204388,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388",
-        "nome": "Bibo Nunes",
-        "siglaPartido": "PL",
+        "id": 160559,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
+        "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
+        "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
-        "email": "dep.bibonunes@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
+        "email": "dep.alceumoreira@camara.leg.br"
       },
-      "total": 521.14,
-      "transacoes": 2,
+      "total": 180.0,
+      "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 4,
+          "mes": 6,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7523872,
+          "codDocumento": 7556009,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-04-06T00:00:00",
-          "numDocumento": "13833",
-          "valorDocumento": 232.16,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7523872",
+          "dataDocumento": "2023-06-01T00:00:00",
+          "numDocumento": "48421",
+          "valorDocumento": 180.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7556009",
           "nomeFornecedor": "REDE DE POSTOS AUTO POSTO CENTER LTDA",
           "cnpjCpfFornecedor": "43648976000935",
-          "valorLiquido": 230.66,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 4,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7523879,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-04-07T00:00:00",
-          "numDocumento": "14690",
-          "valorDocumento": 290.48,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7523879",
-          "nomeFornecedor": "REDE DE POSTOS AUTO POSTO CENTER LTDA",
-          "cnpjCpfFornecedor": "43648976000935",
-          "valorLiquido": 290.48,
+          "valorLiquido": 180.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO CHAVES LTDA",
+      "cnpj": "00746278000102",
+      "total_recebido": 364.56,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:03.213473"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 364.56
+  },
+  "anos": {
+    "2024": {
+      "total": 364.56,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 364.56,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7756551,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-13T18:30:16",
+          "numDocumento": "1691217",
+          "valorDocumento": 40.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7756551",
+          "nomeFornecedor": "AUTO POSTO CHAVES LTDA",
+          "cnpjCpfFornecedor": "00746278000102",
+          "valorLiquido": 40.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7781092,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-18T19:07:50",
+          "numDocumento": "1715856",
+          "valorDocumento": 142.08,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7781092",
+          "nomeFornecedor": "AUTO POSTO CHAVES LTDA",
+          "cnpjCpfFornecedor": "00746278000102",
+          "valorLiquido": 142.08,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7837868,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-26T12:58:46",
+          "numDocumento": "1796865",
+          "valorDocumento": 182.47,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7837868",
+          "nomeFornecedor": "AUTO POSTO CHAVES LTDA",
+          "cnpjCpfFornecedor": "00746278000102",
+          "valorLiquido": 182.47,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

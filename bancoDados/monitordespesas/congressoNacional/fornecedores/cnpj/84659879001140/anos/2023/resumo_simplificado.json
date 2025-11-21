@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "DENYS ANTONIO ABDALA TUMA",
+    "cnpj": "84659879001140",
+    "total_recebido": 1392.3300000000002,
+    "numero_transacoes": 6,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 608.16,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 608.16,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 608.16,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 200.0,
+      "porcentagem_do_total": 32.89
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 408.16,
+      "porcentagem_do_total": 67.11
+    }
+  ]
+}

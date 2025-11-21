@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO DRACENA LTDA",
+    "cnpj": "00816009000256",
+    "total_recebido": 843.4200000000001,
+    "numero_transacoes": 3,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 155.5,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 155.5,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 155.5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 155.5,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

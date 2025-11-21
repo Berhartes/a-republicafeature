@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220681,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220681",
+    "nome": "Fábio Macedo",
+    "siglaPartido": "PODE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220681.jpg",
+    "email": "dep.fabiomacedo@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 417596.8,
+  "quantidade_transacoes": 75,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 314100.0,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 75.22
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 52017.3,
+      "quantidade_transacoes": 43,
+      "porcentagem_do_total": 12.46
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 49000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 11.73
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 2479.5,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 0.59
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "FN SERVICES LTDA",
+      "cnpj": "38431985000182",
+      "total": 127000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 30.41
+    },
+    {
+      "nome": "IMS SERVIÇOS EIRELI",
+      "cnpj": "15717794000186",
+      "total": 117450.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 28.13
+    },
+    {
+      "nome": "CATI CVI LTDA",
+      "cnpj": "33336211000159",
+      "total": 50650.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 12.13
+    },
+    {
+      "nome": "SUPREMA MOBILIDADE LTDA",
+      "cnpj": "24894397000170",
+      "total": 49000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 11.73
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 32163.82,
+      "quantidade_transacoes": 35,
+      "porcentagem_do_total": 7.7
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 19853.48,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 4.75
+    },
+    {
+      "nome": "IMS SERVICOS LTDA",
+      "cnpj": "15717794000186",
+      "total": 19000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.55
+    },
+    {
+      "nome": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA.",
+      "cnpj": "37063328001058",
+      "total": 854.96,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0.2
+    },
+    {
+      "nome": "BRASAL COMBUSTIVEIS LTDA",
+      "cnpj": "00097626000168",
+      "total": 704.65,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.17
+    },
+    {
+      "nome": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "05256794000172",
+      "total": 277.48,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.07
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 1366.37,
+      "porcentagem_do_total": 0.33
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 1837.14,
+      "porcentagem_do_total": 0.44
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 3248.26,
+      "porcentagem_do_total": 0.78
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 72569.65,
+      "porcentagem_do_total": 17.38
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 33502.37,
+      "porcentagem_do_total": 8.02
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 89109.63,
+      "porcentagem_do_total": 21.34
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 52042.16,
+      "porcentagem_do_total": 12.46
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 59567.37,
+      "porcentagem_do_total": 14.26
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 66166.96,
+      "porcentagem_do_total": 15.84
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 19442.0,
+      "porcentagem_do_total": 4.66
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 18744.89,
+      "porcentagem_do_total": 4.49
+    }
+  ]
+}

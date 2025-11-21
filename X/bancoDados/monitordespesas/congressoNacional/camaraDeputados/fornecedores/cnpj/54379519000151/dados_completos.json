@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PAPEL & ESTILO LIVRARIA LTDA",
+      "cnpj": "54379519000151",
+      "total_recebido": 370.59999999999997,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:09.953053"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 370.59999999999997
+  },
+  "anos": {
+    "2024": {
+      "total": 101.7,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 268.9,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74646": {
+      "deputado": {
+        "id": 74646,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74646",
+        "nome": "Aécio Neves",
+        "nomeEleitoral": "Aécio Neves",
+        "siglaPartido": "PSDB",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74646.jpg",
+        "email": "dep.aecioneves@camara.leg.br"
+      },
+      "total": 370.59999999999997,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7763783,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-03T00:00:00",
+          "numDocumento": "216",
+          "valorDocumento": 101.7,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7763783",
+          "nomeFornecedor": "PAPEL & ESTILO LIVRARIA LTDA",
+          "cnpjCpfFornecedor": "54379519000151",
+          "valorLiquido": 101.7,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7922108,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-29T00:00:00",
+          "numDocumento": "861",
+          "valorDocumento": 268.9,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7922108",
+          "nomeFornecedor": "PAPEL & ESTILO LIVRARIA LTDA",
+          "cnpjCpfFornecedor": "54379519000151",
+          "valorLiquido": 268.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO 303 NORTE LTDA",
+    "cnpj": "38194212000120",
+    "total_recebido": 73140.10999999996,
+    "numero_transacoes": 251,
+    "numero_deputados": 2
+  },
+  "ano": 2024,
+  "total_recebido": 36168.4,
+  "quantidade_transacoes": 129,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 27729.1,
+      "quantidade_transacoes": 101,
+      "porcentagem_do_total": 76.67
+    },
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 8439.3,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 23.33
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 36168.4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 1616.46,
+      "porcentagem_do_total": 4.47
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 2619.52,
+      "porcentagem_do_total": 7.24
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 3158.37,
+      "porcentagem_do_total": 8.73
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 3898.19,
+      "porcentagem_do_total": 10.78
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 4106.85,
+      "porcentagem_do_total": 11.35
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 2096.16,
+      "porcentagem_do_total": 5.8
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 2059.64,
+      "porcentagem_do_total": 5.69
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 2632.3,
+      "porcentagem_do_total": 7.28
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 3396.11,
+      "porcentagem_do_total": 9.39
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 4658.28,
+      "porcentagem_do_total": 12.88
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 3252.73,
+      "porcentagem_do_total": 8.99
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 2673.79,
+      "porcentagem_do_total": 7.39
+    }
+  ]
+}

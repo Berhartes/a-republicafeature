@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "GRAN BARRA HOTELARIA LTDA",
+    "cnpj": "33434356000192",
+    "total_recebido": 566.5,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 566.5,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 566.5,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 566.5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 298.7,
+      "porcentagem_do_total": 52.73
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 267.8,
+      "porcentagem_do_total": 47.27
+    }
+  ]
+}

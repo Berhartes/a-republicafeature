@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "NENENS CHOPP POSTO DE COMBUSTIVEIS LTDA",
+    "cnpj": "32434124000171",
+    "total_recebido": 1934.95,
+    "numero_transacoes": 8,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 466.09,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 466.09,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 466.09,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 218.47,
+      "porcentagem_do_total": 46.87
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 247.62,
+      "porcentagem_do_total": 53.13
+    }
+  ]
+}

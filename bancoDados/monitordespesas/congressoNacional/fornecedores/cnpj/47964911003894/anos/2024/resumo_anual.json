@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "USINA DE LATICINIOS JUSSARA S A",
+      "cnpj": "47964911003894",
+      "total_recebido": 182.79,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 182.79,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-10-16T00:00:00",
+    "periodo_fim": "2024-10-16T00:00:00",
+    "generatedAt": "2025-11-11T21:38:05.100009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 182.79,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 182.79,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 182.79,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7817987,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-10-16T00:00:00",
+      "numDocumento": "015672",
+      "valorDocumento": 182.79,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7817987.pdf",
+      "nomeFornecedor": "USINA DE LATICINIOS JUSSARA S A",
+      "cnpjCpfFornecedor": "47964911003894",
+      "valorLiquido": 182.79,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2082337,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

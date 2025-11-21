@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "NOVO RIO COMERCIO DE COMBUSTIVEIS E D DE PETROLEO LTDA",
+      "cnpj": "11166265000180",
+      "total_recebido": 925.06,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:19.769587"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 925.06
+  },
+  "anos": {
+    "2023": {
+      "total": 330.04,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 340.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 255.02,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204571": {
+      "deputado": {
+        "id": 204571,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
+        "nome": "Alex Santana",
+        "nomeEleitoral": "Alex Santana",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204571.jpg",
+        "email": "dep.alexsantana@camara.leg.br"
+      },
+      "total": 925.06,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7663660,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-08T00:00:00",
+          "numDocumento": "326278",
+          "valorDocumento": 330.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7663660",
+          "nomeFornecedor": "NOVO RIO COMERCIO DE COMBUSTIVEIS E D DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "11166265000180",
+          "valorLiquido": 330.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7747588,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-05T00:00:00",
+          "numDocumento": "357826",
+          "valorDocumento": 340.01,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3287/2024/7747588.pdf",
+          "nomeFornecedor": "NOVO RIO COMERCIO DE COMBUSTIVEIS E D DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "11166265000180",
+          "valorLiquido": 340.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7962757,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-19T17:05:10",
+          "numDocumento": "444371",
+          "valorDocumento": 255.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7962757",
+          "nomeFornecedor": "NOVO RIO COMERCIO DE COMBUSTIVEIS E D DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "11166265000180",
+          "valorLiquido": 255.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

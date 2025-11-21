@@ -3,14 +3,14 @@
     "fornecedor": {
       "nome": "MAURICIO BOSAK & CIA. LTDA.",
       "cnpj": "04826592000156",
-      "total_recebido": 5500.0,
-      "numero_transacoes": 5,
+      "total_recebido": 4000.0,
+      "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:30.356147"
+    "generatedAt": "2025-11-11T05:22:41.569336"
   },
   "categorias": {
-    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 5500.0
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 4000.0
   },
   "anos": {
     "2023": {
@@ -22,11 +22,6 @@
       "total": 2000.0,
       "transacoes": 2,
       "deputados": 1
-    },
-    "2025": {
-      "total": 1500.0,
-      "transacoes": 1,
-      "deputados": 1
     }
   },
   "deputados": {
@@ -35,6 +30,7 @@
         "id": 178927,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
         "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
         "siglaPartido": "PV",
         "uriPartido": "",
         "siglaUf": "PR",
@@ -42,28 +38,9 @@
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
         "email": "dep.alielmachado@camara.leg.br"
       },
-      "total": 5500.0,
-      "transacoes": 5,
+      "total": 4000.0,
+      "transacoes": 4,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 12,
-          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7663164,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-12-18T00:00:00",
-          "numDocumento": "383",
-          "valorDocumento": 1000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2023/7663164.pdf",
-          "nomeFornecedor": "MAURICIO BOSAK & CIA. LTDA.",
-          "cnpjCpfFornecedor": "04826592000156",
-          "valorLiquido": 1000.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 10,
@@ -84,16 +61,16 @@
           "parcela": 0
         },
         {
-          "ano": 2024,
-          "mes": 11,
+          "ano": 2023,
+          "mes": 12,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7839130,
+          "codDocumento": 7663164,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-25T00:00:00",
-          "numDocumento": "453",
+          "dataDocumento": "2023-12-18T00:00:00",
+          "numDocumento": "383",
           "valorDocumento": 1000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2024/7839130.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2023/7663164.pdf",
           "nomeFornecedor": "MAURICIO BOSAK & CIA. LTDA.",
           "cnpjCpfFornecedor": "04826592000156",
           "valorLiquido": 1000.0,
@@ -122,19 +99,19 @@
           "parcela": 0
         },
         {
-          "ano": 2025,
-          "mes": 7,
+          "ano": 2024,
+          "mes": 11,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7949794,
+          "codDocumento": 7839130,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-07-15T00:00:00",
-          "numDocumento": "522",
-          "valorDocumento": 1500.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2025/7949794.pdf",
+          "dataDocumento": "2024-11-25T00:00:00",
+          "numDocumento": "453",
+          "valorDocumento": 1000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2024/7839130.pdf",
           "nomeFornecedor": "MAURICIO BOSAK & CIA. LTDA.",
           "cnpjCpfFornecedor": "04826592000156",
-          "valorLiquido": 1500.0,
+          "valorLiquido": 1000.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

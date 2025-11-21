@@ -3,52 +3,72 @@
     "fornecedor": {
       "nome": "sobral & Palacio petroleo LTDA",
       "cnpj": "07240641004664",
-      "total_recebido": 100.0,
-      "numero_transacoes": 1,
+      "total_recebido": 400.0,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:56:22.295613"
+    "generatedAt": "2025-11-11T05:22:23.583748"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 100.0
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 400.0
   },
   "anos": {
     "2025": {
-      "total": 100.0,
-      "transacoes": 1,
+      "total": 400.0,
+      "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "133439": {
+    "204549": {
       "deputado": {
-        "id": 133439,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/133439",
-        "nome": "André Figueiredo",
-        "siglaPartido": "PDT",
+        "id": 204549,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204549",
+        "nome": "AJ Albuquerque",
+        "nomeEleitoral": "AJ Albuquerque",
+        "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "CE",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/133439.jpg",
-        "email": "dep.andrefigueiredo@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204549.jpg",
+        "email": "dep.ajalbuquerque@camara.leg.br"
       },
-      "total": 100.0,
-      "transacoes": 1,
+      "total": 400.0,
+      "transacoes": 2,
       "despesas": [
         {
           "ano": 2025,
-          "mes": 1,
+          "mes": 5,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7860356,
+          "codDocumento": 7908128,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-01-30T00:00:00",
-          "numDocumento": "078838",
-          "valorDocumento": 100.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2025/7860356.pdf",
+          "dataDocumento": "2025-05-05T00:00:00",
+          "numDocumento": "018166",
+          "valorDocumento": 200.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2025/7908128.pdf",
           "nomeFornecedor": "sobral & Palacio petroleo LTDA",
           "cnpjCpfFornecedor": "07240641004664",
-          "valorLiquido": 100.0,
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7946648,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-07T00:00:00",
+          "numDocumento": "093438",
+          "valorDocumento": 200.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2025/7946648.pdf",
+          "nomeFornecedor": "sobral & Palacio petroleo LTDA",
+          "cnpjCpfFornecedor": "07240641004664",
+          "valorLiquido": 200.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

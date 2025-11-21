@@ -1,0 +1,140 @@
+{
+  "deputado": {
+    "id": 92346,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/92346",
+    "nome": "Eduardo Bolsonaro",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/92346.jpg",
+    "email": "dep.eduardobolsonaro@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 67989.74,
+  "quantidade_transacoes": 61,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 33586.73,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 49.4
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 26046.34,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 38.31
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 3819.43,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 5.62
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 2694.44,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.96
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1526.4,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 2.25
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "MARIA LUIZA PAULA ADM. E PARTICIPAÇÕES",
+      "cnpj": "11724755000155",
+      "total": 24970.34,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 36.73
+    },
+    {
+      "nome": "Novacar Locadora de Veículos Ltda",
+      "cnpj": "19374791000148",
+      "total": 21333.34,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 31.38
+    },
+    {
+      "nome": "FAS DESENVOLVIMENTO DE SOFTWARE E CNSULTORIA LTDA",
+      "cnpj": "55226129000104",
+      "total": 6400.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 9.41
+    },
+    {
+      "nome": "FOGUETEEH LOCADORA DE VEICULOS LTDA",
+      "cnpj": "12321886000154",
+      "total": 4713.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 6.93
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 3819.43,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 5.62
+    },
+    {
+      "nome": "TELEFONIA BRASIL S/A",
+      "cnpj": "02558157000162",
+      "total": 1431.69,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.11
+    },
+    {
+      "nome": "VIVO TELEFONIA BRASIL S/A",
+      "cnpj": "02558157000162",
+      "total": 1423.69,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.09
+    },
+    {
+      "nome": "TELEFONICA BRASIL S/A",
+      "cnpj": "02558157000162",
+      "total": 1402.48,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.06
+    },
+    {
+      "nome": "AUTO POSTO ALVORADA PAULISTA LTDA",
+      "cnpj": "08520563000112",
+      "total": 661.02,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.97
+    },
+    {
+      "nome": "ENEL - Eletropaulo Metropolitana Eletricidade de São Paulo S. A.",
+      "cnpj": "61695227000193",
+      "total": 447.48,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.66
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 30145.57,
+      "porcentagem_do_total": 44.34
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 22230.92,
+      "porcentagem_do_total": 32.7
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 15613.25,
+      "porcentagem_do_total": 22.96
+    }
+  ]
+}

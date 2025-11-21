@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO REINA SOFHIA LTDA",
+      "cnpj": "13935266000178",
+      "total_recebido": 165.55,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:05.958007"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 165.55
+  },
+  "anos": {
+    "2025": {
+      "total": 165.55,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 165.55,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7899195,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-06T00:00:00",
+          "numDocumento": "043463",
+          "valorDocumento": 165.55,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7899195.pdf",
+          "nomeFornecedor": "AUTO POSTO REINA SOFHIA LTDA",
+          "cnpjCpfFornecedor": "13935266000178",
+          "valorLiquido": 165.55,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2127256,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

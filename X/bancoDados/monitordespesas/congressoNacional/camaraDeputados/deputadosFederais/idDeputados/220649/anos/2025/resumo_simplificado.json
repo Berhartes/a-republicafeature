@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220649,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220649",
+    "nome": "Delegado da Cunha",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220649.jpg",
+    "email": "dep.delegadodacunha@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 376316.08,
+  "quantidade_transacoes": 179,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 203383.21,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 54.05
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 62548.9,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 16.62
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 60852.1,
+      "quantidade_transacoes": 84,
+      "porcentagem_do_total": 16.17
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 35086.25,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 9.32
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 7004.38,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 1.86
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "MAUMARTINS CONSULTORIAL LTDA",
+      "cnpj": "55230701000109",
+      "total": 156100.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 41.48
+    },
+    {
+      "nome": "Nokkel Administração de Imóveis",
+      "cnpj": "20625537000154",
+      "total": 60366.76,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 16.04
+    },
+    {
+      "nome": "GUILHERME AFFONSO MENKE",
+      "cnpj": "28309101000168",
+      "total": 30000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 7.97
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 27936.31,
+      "quantidade_transacoes": 41,
+      "porcentagem_do_total": 7.42
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 26952.53,
+      "quantidade_transacoes": 34,
+      "porcentagem_do_total": 7.16
+    },
+    {
+      "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
+      "cnpj": "19374791000148",
+      "total": 18200.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 4.84
+    },
+    {
+      "nome": "Novacar Locadora de Veículos Ltda",
+      "cnpj": "19374791000148",
+      "total": 16400.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 4.36
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 5963.26,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.58
+    },
+    {
+      "nome": "Facebook Serviços Online do Brasil Ltda.",
+      "cnpj": "13347016000117",
+      "total": 5910.17,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.57
+    },
+    {
+      "nome": "51.645.827 VICTOR HUGO CABRERA RIVERO",
+      "cnpj": "51645827000193",
+      "total": 5460.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.45
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 29337.32,
+      "porcentagem_do_total": 7.8
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 35848.19,
+      "porcentagem_do_total": 9.53
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 28971.69,
+      "porcentagem_do_total": 7.7
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 34788.91,
+      "porcentagem_do_total": 9.24
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 38463.55,
+      "porcentagem_do_total": 10.22
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 44012.25,
+      "porcentagem_do_total": 11.7
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 54660.74,
+      "porcentagem_do_total": 14.53
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 35193.22,
+      "porcentagem_do_total": 9.35
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 41498.68,
+      "porcentagem_do_total": 11.03
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 33541.53,
+      "porcentagem_do_total": 8.91
+    }
+  ]
+}

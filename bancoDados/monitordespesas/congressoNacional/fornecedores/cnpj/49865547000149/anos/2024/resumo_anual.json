@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Auto Posto Sabugal LTDA",
+      "cnpj": "49865547000149",
+      "total_recebido": 294.24,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 294.24,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-04-30T00:00:00",
+    "periodo_fim": "2024-06-21T00:00:00",
+    "generatedAt": "2025-11-11T21:38:04.696009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 294.24,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 294.24,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 139.99,
+      "porcentagem_do_total": 47.58
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 154.25,
+      "porcentagem_do_total": 52.42
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7727445,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-04-30T00:00:00",
+      "numDocumento": "001403",
+      "valorDocumento": 139.99,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7727445.pdf",
+      "nomeFornecedor": "Auto Posto Sabugal LTDA",
+      "cnpjCpfFornecedor": "49865547000149",
+      "valorLiquido": 139.99,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2034745,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7761783,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-06-21T00:00:00",
+      "numDocumento": "016167",
+      "valorDocumento": 154.25,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7761783.pdf",
+      "nomeFornecedor": "Auto Posto Sabugal LTDA",
+      "cnpjCpfFornecedor": "49865547000149",
+      "valorLiquido": 154.25,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2053166,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

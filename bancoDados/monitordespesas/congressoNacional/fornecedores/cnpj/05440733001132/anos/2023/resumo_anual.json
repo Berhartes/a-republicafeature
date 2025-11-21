@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "I B K COMERCIO E SERVIÇOS LTDA",
+      "cnpj": "05440733001132",
+      "total_recebido": 184.99,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 184.99,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-03-02T00:00:00",
+    "periodo_fim": "2023-03-02T00:00:00",
+    "generatedAt": "2025-11-11T21:38:00.609009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 184.99,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 184.99,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 184.99,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7504634,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-03-02T00:00:00",
+      "numDocumento": "367010",
+      "valorDocumento": 184.99,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3536/2023/7504634.pdf",
+      "nomeFornecedor": "I B K COMERCIO E SERVIÇOS LTDA",
+      "cnpjCpfFornecedor": "05440733001132",
+      "valorLiquido": 184.99,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1912006,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

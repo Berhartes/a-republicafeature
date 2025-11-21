@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "EXPRESS COMERCIO VAREJISTA DE DERIVADOS DE PETROLEO LTDA.",
+      "cnpj": "84537349000319",
+      "total_recebido": 350.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 350.0,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-09-24T13:59:14",
+    "periodo_fim": "2024-09-24T13:59:14",
+    "generatedAt": "2025-11-11T21:38:01.622010"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 350.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 350.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 350.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7805893,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-09-24T13:59:14",
+      "numDocumento": "26251",
+      "valorDocumento": 350.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7805893",
+      "nomeFornecedor": "EXPRESS COMERCIO VAREJISTA DE DERIVADOS DE PETROLEO LTDA.",
+      "cnpjCpfFornecedor": "84537349000319",
+      "valorLiquido": 350.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2075469,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

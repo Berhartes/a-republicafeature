@@ -1,138 +1,120 @@
-import { useCallback, useEffect, useState } from 'react'
-import { RankingsOtimizadosService } from '@/services/rankings-otimizados-service'
+import type { DeputadoProcessado } from '@/types/etl-deputados.types'
 
-export interface DeputadoRanking {
-  id: string
-  nomeEleitoral: string
-  siglaPartido: string
-  siglaUf: string
-  totalGastos?: number
-  totalValor?: number
-  quantidadeTransacoes?: number
-  totalTransacoes?: number
-  posicao?: number
-  tendencia?: string
-  categoria?: string
-  ano?: number
+export interface FiltrosRanking {
+  ano?: number | 'todos'
+  categoria?: string | 'TODAS'
+  uf?: string | 'TODAS'
 }
 
-interface RankingServiceResult {
-  ranking: DeputadoRanking[]
-  ultimaAtualizacao: Date | null
-  loading: boolean
-  error: string | null
-  refetch: () => Promise<void>
+export interface EstatisticasRanking {
+  totalDeputados: number
+  totalGastos: number
+  mediaGastos: number
 }
 
-const rankingsService = new RankingsOtimizadosService()
-
-function normalizarEntrada(entry: Record<string, unknown>, index: number): DeputadoRanking | null {
-  const id = String(
-    entry.id ??
-    entry.deputadoId ??
-    entry.codigoDeputado ??
-    entry.codigo ??
-    index
-  )
-
-  const nomeEleitoral = String(
-    entry.nomeEleitoral ??
-    entry.nome ??
-    entry.deputadoNome ??
-    entry.deputadoNomeCivil ??
-    ''
-  )
-
-  if (!id || !nomeEleitoral) {
-    return null
-  }
-
-  const siglaPartido = String(entry.siglaPartido ?? entry.partido ?? 'N/D')
-  const siglaUf = String(entry.siglaUf ?? entry.uf ?? 'N/D')
-  const totalGastos = Number(entry.totalGastos ?? entry.totalValor ?? entry.valorTotal ?? 0)
-  const totalTransacoes = Number(entry.totalTransacoes ?? entry.quantidadeTransacoes ?? entry.transacoes ?? 0)
-  const posicao = typeof entry.ranking === 'number' ? entry.ranking : undefined
-  const tendencia = typeof entry.tendencia === 'string' ? entry.tendencia : undefined
-  const categoria = typeof entry.categoria === 'string' ? entry.categoria : undefined
-  const ano = typeof entry.ano === 'number' ? entry.ano : undefined
-
-  return {
-    id,
-    nomeEleitoral,
-    siglaPartido,
-    siglaUf,
-    totalGastos,
-    totalValor: totalGastos,
-    totalTransacoes,
-    quantidadeTransacoes: totalTransacoes,
-    posicao,
-    tendencia,
-    categoria,
-    ano
-  }
+/**
+ * Returns ranking geral sorted by totalGastos (descending)
+ */
+export function getRankingGeral(
+  deputados: DeputadoProcessado[]
+): DeputadoProcessado[] {
+  return [...deputados].sort((a, b) => b.totalGastos - a.totalGastos)
 }
 
-async function carregarRanking(opcoes: { tipo: 'geral' | 'categoria'; ano?: number; categoria?: string }) {
-  if (opcoes.tipo === 'categoria') {
-    if (opcoes.categoria && typeof opcoes.ano === 'number') {
-      return rankingsService.buscarRankingCategoriaPorAno(opcoes.categoria, opcoes.ano)
-    }
-
-    if (opcoes.categoria) {
-      return rankingsService.buscarRankingCategoriaHistorico(opcoes.categoria)
-    }
-  } else {
-    if (typeof opcoes.ano === 'number') {
-      return rankingsService.buscarRankingGeralPorAno(opcoes.ano)
-    }
-  }
-
-  return rankingsService.buscarRankingGeralHistorico()
+/**
+ * Returns ranking filtered by specific year
+ */
+export function getRankingPorAno(
+  deputados: DeputadoProcessado[],
+  ano: number
+): DeputadoProcessado[] {
+  return deputados
+    .filter((dep) => dep.gastosPorAno[ano] !== undefined)
+    .map((dep) => ({
+      ...dep,
+      totalGastos: dep.gastosPorAno[ano] || 0,
+      totalTransacoes: dep.transacoesPorAno[ano] || 0,
+    }))
+    .sort((a, b) => b.totalGastos - a.totalGastos)
 }
 
-export function useRankingService(opcoes: { tipo?: 'geral' | 'categoria'; ano?: number; categoria?: string } = {}): RankingServiceResult {
-  const [ranking, setRanking] = useState<DeputadoRanking[]>([])
-  const [ultimaAtualizacao, setUltimaAtualizacao] = useState<Date | null>(null)
-  const [loading, setLoading] = useState(false)
-  const [error, setError] = useState<string | null>(null)
-
-  const { tipo = 'geral', ano, categoria } = opcoes
-
-  const carregar = useCallback(async () => {
-    setLoading(true)
-    setError(null)
-    try {
-      const resposta = await carregarRanking({ tipo, ano, categoria })
-      if (!resposta || !resposta.ranking || resposta.ranking.length === 0) {
-        setRanking([])
-        setUltimaAtualizacao(resposta?.ultimaAtualizacao ?? null)
-        return
+/**
+ * Returns ranking filtered by category
+ */
+export function getRankingPorCategoria(
+  deputados: DeputadoProcessado[],
+  categoria: string
+): DeputadoProcessado[] {
+  return deputados
+    .map((dep) => {
+      const categoriaData = dep.topCategorias.find(
+        (cat) => cat.categoria === categoria
+      )
+      return {
+        ...dep,
+        totalGastos: categoriaData?.valor || 0,
       }
+    })
+    .filter((dep) => dep.totalGastos > 0)
+    .sort((a, b) => b.totalGastos - a.totalGastos)
+}
 
-      const itens = resposta.ranking
-        .map((entry, index) => normalizarEntrada(entry as Record<string, unknown>, index))
-        .filter((item): item is DeputadoRanking => item !== null)
+/**
+ * Returns ranking with combined filters (ano, categoria, uf)
+ */
+export function getRankingFiltrado(
+  deputados: DeputadoProcessado[],
+  filtros: FiltrosRanking
+): DeputadoProcessado[] {
+  let resultado = [...deputados]
 
-      setRanking(itens)
-      setUltimaAtualizacao(resposta.ultimaAtualizacao ?? null)
-    } catch (err) {
-      console.error('[useRankingService] Falha ao carregar ranking', err)
-      setError(err instanceof Error ? err.message : 'Erro desconhecido ao carregar ranking')
-      setRanking([])
-    } finally {
-      setLoading(false)
-    }
-  }, [tipo, ano, categoria])
+  // Filter by UF
+  if (filtros.uf && filtros.uf !== 'TODAS') {
+    resultado = resultado.filter((dep) => dep.siglaUf === filtros.uf)
+  }
 
-  useEffect(() => {
-    void carregar()
-  }, [carregar])
+  // Filter by categoria
+  if (filtros.categoria && filtros.categoria !== 'TODAS') {
+    resultado = resultado
+      .map((dep) => {
+        const categoriaData = dep.topCategorias.find(
+          (cat) => cat.categoria === filtros.categoria
+        )
+        return {
+          ...dep,
+          totalGastos: categoriaData?.valor || 0,
+        }
+      })
+      .filter((dep) => dep.totalGastos > 0)
+  }
+
+  // Filter by ano
+  if (filtros.ano && filtros.ano !== 'todos') {
+    resultado = resultado
+      .filter((dep) => dep.gastosPorAno[filtros.ano as number] !== undefined)
+      .map((dep) => ({
+        ...dep,
+        totalGastos: dep.gastosPorAno[filtros.ano as number] || 0,
+        totalTransacoes: dep.transacoesPorAno[filtros.ano as number] || 0,
+      }))
+  }
+
+  return resultado.sort((a, b) => b.totalGastos - a.totalGastos)
+}
+
+/**
+ * Computes statistics for a ranking
+ */
+export function calcularEstatisticasRanking(
+  ranking: DeputadoProcessado[]
+): EstatisticasRanking {
+  const totalDeputados = ranking.length
+  const totalGastos = ranking.reduce((sum, dep) => sum + dep.totalGastos, 0)
+  const mediaGastos = totalDeputados > 0 ? totalGastos / totalDeputados : 0
 
   return {
-    ranking,
-    ultimaAtualizacao,
-    loading,
-    error,
-    refetch: carregar
+    totalDeputados,
+    totalGastos,
+    mediaGastos,
   }
 }

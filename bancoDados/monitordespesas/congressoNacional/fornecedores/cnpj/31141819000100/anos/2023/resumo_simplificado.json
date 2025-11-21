@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "Rodobrás Combustíveis",
+    "cnpj": "31141819000100",
+    "total_recebido": 166.32999999999998,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 166.33,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 166.33,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 166.33,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 166.33,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "036 - SIA - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597003627",
+      "total_recebido": 202.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:14.737023"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 202.0
+  },
+  "anos": {
+    "2024": {
+      "total": 202.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160527": {
+      "deputado": {
+        "id": 160527,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
+        "nome": "Aguinaldo Ribeiro",
+        "nomeEleitoral": "Aguinaldo Ribeiro",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "PB",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160527.jpg",
+        "email": "dep.aguinaldoribeiro@camara.leg.br"
+      },
+      "total": 202.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7836967,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-21T00:00:00",
+          "numDocumento": "748630",
+          "valorDocumento": 202.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7836967",
+          "nomeFornecedor": "036 - SIA - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+          "cnpjCpfFornecedor": "00306597003627",
+          "valorLiquido": 202.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

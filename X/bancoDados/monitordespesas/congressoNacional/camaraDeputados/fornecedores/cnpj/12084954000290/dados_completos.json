@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PARAISO COMERCIO DE COMBUSTIVEIS LTDA-EPP",
+      "cnpj": "12084954000290",
+      "total_recebido": 6198.9,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:22.106913"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 6198.9
+  },
+  "anos": {
+    "2023": {
+      "total": 553.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 5645.9,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220542": {
+      "deputado": {
+        "id": 220542,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
+        "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
+        "email": "dep.alexandreguimaraes@camara.leg.br"
+      },
+      "total": 6198.9,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7530987,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-24T00:00:00",
+          "numDocumento": "11246",
+          "valorDocumento": 553.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7530987",
+          "nomeFornecedor": "PARAISO COMERCIO DE COMBUSTIVEIS LTDA-EPP",
+          "cnpjCpfFornecedor": "12084954000290",
+          "valorLiquido": 553.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7753445,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-11T00:00:00",
+          "numDocumento": "13604",
+          "valorDocumento": 5645.9,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7753445",
+          "nomeFornecedor": "PARAISO COMERCIO DE COMBUSTIVEIS LTDAEPP",
+          "cnpjCpfFornecedor": "12084954000290",
+          "valorLiquido": 5645.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

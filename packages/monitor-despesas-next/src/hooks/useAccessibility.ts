@@ -320,9 +320,9 @@ export const useAria = () => {
   }
 }
 
-export const useSkipLinks = () => {
+export const useSkipLinks = (enabled: boolean = true) => {
   useEffect(() => {
-    if (!isBrowser || typeof document === 'undefined') {
+    if (!enabled || !isBrowser || typeof document === 'undefined') {
       return
     }
     const skipLinks = document.createElement('div')
@@ -394,14 +394,13 @@ export const useAccessibility = (options: {
   const prefersReducedMotion = useMotionPreference()
   const isHighContrast = useHighContrast()
 
-  if (enableSkipLinks) {
-    useSkipLinks()
-  }
+  useSkipLinks(enableSkipLinks)
 
   useEffect(() => {
+    const isDevHost = typeof window !== 'undefined' && ['localhost', '127.0.0.1'].includes(window.location.hostname)
     const shouldTest = enableTesting && (
       testingMode === 'always' || 
-      (testingMode === 'development' && process.env.NODE_ENV === 'development')
+      (testingMode === 'development' && isDevHost)
     )
 
     if (shouldTest) {
@@ -412,6 +411,7 @@ export const useAccessibility = (options: {
       
       return () => clearTimeout(timeoutId)
     }
+    return undefined
   }, [])
 
   return {

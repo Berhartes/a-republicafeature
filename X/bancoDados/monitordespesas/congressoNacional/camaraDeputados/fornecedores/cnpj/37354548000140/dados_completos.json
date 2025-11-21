@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO SMART EIRELI",
+      "cnpj": "37354548000140",
+      "total_recebido": 544.26,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:26.061640"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 544.26
+  },
+  "anos": {
+    "2023": {
+      "total": 248.07,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 296.19,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74057": {
+      "deputado": {
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
+      },
+      "total": 544.26,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7600273,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-12T00:00:00",
+          "numDocumento": "21643",
+          "valorDocumento": 248.07,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7600273",
+          "nomeFornecedor": "AUTO POSTO SMART EIRELI",
+          "cnpjCpfFornecedor": "37354548000140",
+          "valorLiquido": 248.07,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7695850,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-01T00:00:00",
+          "numDocumento": "49565",
+          "valorDocumento": 213.12,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7695850",
+          "nomeFornecedor": "AUTO POSTO SMART EIRELI",
+          "cnpjCpfFornecedor": "37354548000140",
+          "valorLiquido": 213.12,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7726183,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-18T11:09:16",
+          "numDocumento": "53881",
+          "valorDocumento": 83.07,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7726183",
+          "nomeFornecedor": "AUTO POSTO SMART EIRELI",
+          "cnpjCpfFornecedor": "37354548000140",
+          "valorLiquido": 83.07,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

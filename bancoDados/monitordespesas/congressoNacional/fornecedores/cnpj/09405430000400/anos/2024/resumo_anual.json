@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "REAL PETROLEO LTDA",
+      "cnpj": "09405430000400",
+      "total_recebido": 1509.31,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 1509.31,
+    "quantidade_transacoes": 6,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-07-18T09:53:24",
+    "periodo_fim": "2024-10-07T11:29:29",
+    "generatedAt": "2025-11-11T21:37:59.271009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 1509.31,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1509.31,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 795.91,
+      "porcentagem_do_total": 52.73
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 240.11,
+      "porcentagem_do_total": 15.91
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 473.29,
+      "porcentagem_do_total": 31.36
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7784781,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-07-18T09:53:24",
+      "numDocumento": "224373",
+      "valorDocumento": 270.75,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7784781",
+      "nomeFornecedor": "REAL PETROLEO LTDA",
+      "cnpjCpfFornecedor": "09405430000400",
+      "valorLiquido": 270.75,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2064733,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7784785,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-07-23T20:19:44",
+      "numDocumento": "224688",
+      "valorDocumento": 271.49,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7784785",
+      "nomeFornecedor": "REAL PETROLEO LTDA",
+      "cnpjCpfFornecedor": "09405430000400",
+      "valorLiquido": 271.49,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2064733,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7784764,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-07-31T07:03:15",
+      "numDocumento": "225111",
+      "valorDocumento": 253.67,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7784764",
+      "nomeFornecedor": "REAL PETROLEO LTDA",
+      "cnpjCpfFornecedor": "09405430000400",
+      "valorLiquido": 253.67,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2064733,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7818099,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-09-25T08:27:18",
+      "numDocumento": "228811",
+      "valorDocumento": 240.11,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7818099",
+      "nomeFornecedor": "REAL PETROLEO LTDA",
+      "cnpjCpfFornecedor": "09405430000400",
+      "valorLiquido": 240.11,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2082463,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7818111,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-10-03T16:31:05",
+      "numDocumento": "229416",
+      "valorDocumento": 231.57,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7818111",
+      "nomeFornecedor": "REAL PETROLEO LTDA",
+      "cnpjCpfFornecedor": "09405430000400",
+      "valorLiquido": 231.57,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2082660,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7818170,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-10-07T11:29:29",
+      "numDocumento": "229585",
+      "valorDocumento": 241.72,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7818170",
+      "nomeFornecedor": "REAL PETROLEO LTDA",
+      "cnpjCpfFornecedor": "09405430000400",
+      "valorLiquido": 241.72,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2082660,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

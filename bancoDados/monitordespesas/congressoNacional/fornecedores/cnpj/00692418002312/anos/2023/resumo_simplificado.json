@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+    "cnpj": "00692418002312",
+    "total_recebido": 1184.26,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 275.37,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 275.37,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 275.37,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 275.37,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

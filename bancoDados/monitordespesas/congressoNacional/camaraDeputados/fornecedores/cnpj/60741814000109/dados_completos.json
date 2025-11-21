@@ -3,52 +3,110 @@
     "fornecedor": {
       "nome": "60741814 Lara Luciana Ferreira da Silva",
       "cnpj": "60741814000109",
-      "total_recebido": 18430.0,
-      "numero_transacoes": 1,
+      "total_recebido": 14000.0,
+      "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:56:31.736281"
+    "generatedAt": "2025-11-11T05:22:30.540330"
   },
   "categorias": {
-    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 18430.0
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 14000.0
   },
   "anos": {
     "2025": {
-      "total": 18430.0,
-      "transacoes": 1,
+      "total": 14000.0,
+      "transacoes": 4,
       "deputados": 1
     }
   },
   "deputados": {
-    "123756": {
+    "204571": {
       "deputado": {
-        "id": 123756,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/123756",
-        "nome": "Antônia Lúcia",
+        "id": 204571,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
+        "nome": "Alex Santana",
+        "nomeEleitoral": "Alex Santana",
         "siglaPartido": "REPUBLICANOS",
         "uriPartido": "",
-        "siglaUf": "AC",
+        "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/123756.jpg",
-        "email": "dep.antonialucia@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204571.jpg",
+        "email": "dep.alexsantana@camara.leg.br"
       },
-      "total": 18430.0,
-      "transacoes": 1,
+      "total": 14000.0,
+      "transacoes": 4,
       "despesas": [
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7961762,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-12T00:00:00",
+          "numDocumento": "40",
+          "valorDocumento": 3500.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7961762",
+          "nomeFornecedor": "60741814 Lara Luciana Ferreira da Silva",
+          "cnpjCpfFornecedor": "60741814000109",
+          "valorLiquido": 3500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
         {
           "ano": 2025,
           "mes": 8,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7978452,
+          "codDocumento": 7972193,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-09-08T00:00:00",
-          "numDocumento": "65",
-          "valorDocumento": 18430.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7978452",
+          "dataDocumento": "2025-08-27T00:00:00",
+          "numDocumento": "57",
+          "valorDocumento": 3500.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7972193",
           "nomeFornecedor": "60741814 Lara Luciana Ferreira da Silva",
           "cnpjCpfFornecedor": "60741814000109",
-          "valorLiquido": 18430.0,
+          "valorLiquido": 3500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7987132,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-24T00:00:00",
+          "numDocumento": "72",
+          "valorDocumento": 3500.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7987132",
+          "nomeFornecedor": "60741814 Lara Luciana Ferreira da Silva",
+          "cnpjCpfFornecedor": "60741814000109",
+          "valorLiquido": 3500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 8002108,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-22T00:00:00",
+          "numDocumento": "81",
+          "valorDocumento": 3500.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8002108",
+          "nomeFornecedor": "60741814 Lara Luciana Ferreira da Silva",
+          "cnpjCpfFornecedor": "60741814000109",
+          "valorLiquido": 3500.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

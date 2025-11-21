@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GP COBERTURA JORNALISTICA LTDA",
+      "cnpj": "28800786000140",
+      "total_recebido": 22500.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:14.298959"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 22500.0
+  },
+  "anos": {
+    "2023": {
+      "total": 22500.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160527": {
+      "deputado": {
+        "id": 160527,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
+        "nome": "Aguinaldo Ribeiro",
+        "nomeEleitoral": "Aguinaldo Ribeiro",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "PB",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160527.jpg",
+        "email": "dep.aguinaldoribeiro@camara.leg.br"
+      },
+      "total": 22500.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7499417,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-16T00:00:00",
+          "numDocumento": "4",
+          "valorDocumento": 7500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2408/2023/7499417.pdf",
+          "nomeFornecedor": "GP COBERTURA JORNALISTICA LTDA",
+          "cnpjCpfFornecedor": "28800786000140",
+          "valorLiquido": 7500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7520765,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-03T00:00:00",
+          "numDocumento": "007",
+          "valorDocumento": 7500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2408/2023/7520765.pdf",
+          "nomeFornecedor": "GP COBERTURA JORNALISTICA LTDA ME",
+          "cnpjCpfFornecedor": "28800786000140",
+          "valorLiquido": 7500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7531306,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-25T00:00:00",
+          "numDocumento": "12",
+          "valorDocumento": 7500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2408/2023/7531306.pdf",
+          "nomeFornecedor": "GP COBERTURA JORNALISTICA LTDA ME",
+          "cnpjCpfFornecedor": "28800786000140",
+          "valorLiquido": 7500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

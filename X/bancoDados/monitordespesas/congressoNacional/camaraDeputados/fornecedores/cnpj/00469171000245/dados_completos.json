@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEL PHENICIA LTDA",
+      "cnpj": "00469171000245",
+      "total_recebido": 3000.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:28.850600"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 3000.0
+  },
+  "anos": {
+    "2024": {
+      "total": 3000.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "226708": {
+      "deputado": {
+        "id": 226708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
+        "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226708.jpg",
+        "email": "dep.allangarces@camara.leg.br"
+      },
+      "total": 3000.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7818836,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-18T00:00:00",
+          "numDocumento": "00000024826",
+          "valorDocumento": 1500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2024/7818836.pdf",
+          "nomeFornecedor": "HOTEL PHENICIA LTDA",
+          "cnpjCpfFornecedor": "00469171000245",
+          "valorLiquido": 1500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7818837,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-18T00:00:00",
+          "numDocumento": "00000024828",
+          "valorDocumento": 1500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2024/7818837.pdf",
+          "nomeFornecedor": "HOTEL PHENICIA LTDA",
+          "cnpjCpfFornecedor": "00469171000245",
+          "valorLiquido": 1500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

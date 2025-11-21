@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO DE COMBUSTIVEIS 309 SUL LTDA",
+      "cnpj": "32216743000190",
+      "total_recebido": 704.4100000000001,
+      "numero_transacoes": 4,
+      "numero_deputados": 3
+    },
+    "ano": 2025,
+    "total_recebido": 446.37,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 2,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-02-02T11:05:00",
+    "periodo_fim": "2025-10-21T00:00:00",
+    "generatedAt": "2025-11-11T21:38:02.163006"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 346.37,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 77.6
+    },
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 100.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 22.4
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 446.37,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 100.0,
+      "porcentagem_do_total": 22.4
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 346.37,
+      "porcentagem_do_total": 77.6
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7862644,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-02-02T11:05:00",
+      "numDocumento": "1031",
+      "valorDocumento": 100.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7862644",
+      "nomeFornecedor": "POSTO DE COMBUSTIVEIS 309 SUL LTDA",
+      "cnpjCpfFornecedor": "32216743000190",
+      "valorLiquido": 100.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2106814,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7990882,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-10-01T00:00:00",
+      "numDocumento": "21080",
+      "valorDocumento": 246.37,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7990882",
+      "nomeFornecedor": "POSTO DE COMBUSTIVEIS 309 SUL LTDA",
+      "cnpjCpfFornecedor": "32216743000190",
+      "valorLiquido": 246.37,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2181888,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2025,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 8001244,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-10-21T00:00:00",
+      "numDocumento": "23357",
+      "valorDocumento": 100.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8001244",
+      "nomeFornecedor": "POSTO DE COMBUSTIVEIS 309 SUL LTDA",
+      "cnpjCpfFornecedor": "32216743000190",
+      "valorLiquido": 100.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2183978,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    }
+  ]
+}

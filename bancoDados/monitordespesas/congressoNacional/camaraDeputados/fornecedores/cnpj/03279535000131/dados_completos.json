@@ -7,7 +7,7 @@
       "numero_transacoes": 6,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:45.431016"
+    "generatedAt": "2025-11-11T05:22:26.862533"
   },
   "categorias": {
     "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 1050.0
@@ -30,6 +30,7 @@
         "id": 160559,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
         "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
         "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -40,25 +41,6 @@
       "total": 1050.0,
       "transacoes": 6,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 7,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7597498,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-07-26T00:00:00",
-          "numDocumento": "18274",
-          "valorDocumento": 144.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2379/2023/7597498.pdf",
-          "nomeFornecedor": "HERMES TURIS HOTEL",
-          "cnpjCpfFornecedor": "03279535000131",
-          "valorLiquido": 144.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 7,
@@ -92,6 +74,25 @@
           "nomeFornecedor": "HERMES TURIS HOTEL",
           "cnpjCpfFornecedor": "03279535000131",
           "valorLiquido": 138.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7597498,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-26T00:00:00",
+          "numDocumento": "18274",
+          "valorDocumento": 144.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2379/2023/7597498.pdf",
+          "nomeFornecedor": "HERMES TURIS HOTEL",
+          "cnpjCpfFornecedor": "03279535000131",
+          "valorLiquido": 144.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

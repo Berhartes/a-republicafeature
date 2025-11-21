@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "ESPLANADA EVENTOS RESTAURANTE E DELIVERY EIRELI",
+    "cnpj": "43367434000137",
+    "total_recebido": 124.25,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 124.25,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 124.25,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 124.25,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 124.25,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

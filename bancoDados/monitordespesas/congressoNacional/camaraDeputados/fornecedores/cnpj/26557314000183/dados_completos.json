@@ -7,7 +7,7 @@
       "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:46.745306"
+    "generatedAt": "2025-11-11T05:22:05.648459"
   },
   "categorias": {
     "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 415.5
@@ -25,6 +25,7 @@
         "id": 220593,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
         "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "MT",
@@ -35,6 +36,25 @@
       "total": 415.5,
       "transacoes": 4,
       "despesas": [
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7686950,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-19T00:00:00",
+          "numDocumento": "57774",
+          "valorDocumento": 130.62,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7686950",
+          "nomeFornecedor": "POESY AVIAMENTOS E PAPELARIA EIRELI - EPP",
+          "cnpjCpfFornecedor": "26557314000183",
+          "valorLiquido": 130.62,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
         {
           "ano": 2024,
           "mes": 3,
@@ -87,25 +107,6 @@
           "nomeFornecedor": "POESY AVIAMENTOS E PAPELARIA EIRELI - EPP",
           "cnpjCpfFornecedor": "26557314000183",
           "valorLiquido": 146.86,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 2,
-          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-          "codDocumento": 7686950,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-02-19T00:00:00",
-          "numDocumento": "57774",
-          "valorDocumento": 130.62,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7686950",
-          "nomeFornecedor": "POESY AVIAMENTOS E PAPELARIA EIRELI - EPP",
-          "cnpjCpfFornecedor": "26557314000183",
-          "valorLiquido": 130.62,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "JP STEAK HOUSE CUIABA BUFFET E RESTAURANTE LTDA",
+      "cnpj": "32525790000115",
+      "total_recebido": 99.7,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 99.7,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-09-15T00:00:00",
+    "periodo_fim": "2023-09-15T00:00:00",
+    "generatedAt": "2025-11-11T21:37:55.021483"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 99.7,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 99.7,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 99.7,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7610260,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-09-15T00:00:00",
+      "numDocumento": "23340",
+      "valorDocumento": 109.67,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7610260.pdf",
+      "nomeFornecedor": "JP STEAK HOUSE CUIABA BUFFET E RESTAURANTE LTDA",
+      "cnpjCpfFornecedor": "32525790000115",
+      "valorLiquido": 99.7,
+      "valorGlosa": 9.97,
+      "numRessarcimento": "",
+      "codLote": 1969307,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

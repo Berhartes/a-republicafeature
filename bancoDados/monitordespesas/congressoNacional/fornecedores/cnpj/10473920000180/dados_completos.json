@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ALFA EMPREENDIMENTOS HOTELEIROS SA",
+      "cnpj": "10473920000180",
+      "total_recebido": 1831.95,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:55.059485"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": 1831.95
+  },
+  "anos": {
+    "2023": {
+      "total": 966.0,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 865.95,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 1831.95,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "codDocumento": 7542122,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-12T00:00:00",
+          "numDocumento": "202300000004192",
+          "valorDocumento": 379.5,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7542122.pdf",
+          "nomeFornecedor": "ALFA EMPREENDIMENTOS HOTELEIROS SA",
+          "cnpjCpfFornecedor": "10473920000180",
+          "valorLiquido": 379.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1933178,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "codDocumento": 7542126,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-12T00:00:00",
+          "numDocumento": "202300000004193",
+          "valorDocumento": 379.5,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7542126.pdf",
+          "nomeFornecedor": "ALFA EMPREENDIMENTOS HOTELEIROS SA",
+          "cnpjCpfFornecedor": "10473920000180",
+          "valorLiquido": 379.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1933178,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "codDocumento": 7542139,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-12T00:00:00",
+          "numDocumento": "202300000004202",
+          "valorDocumento": 207.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7542139.pdf",
+          "nomeFornecedor": "ALFA EMPREENDIMENTOS HOTELEIROS SA",
+          "cnpjCpfFornecedor": "10473920000180",
+          "valorLiquido": 207.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1933178,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "codDocumento": 7693395,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-27T00:00:00",
+          "numDocumento": "129353",
+          "valorDocumento": 289.8,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7693395.pdf",
+          "nomeFornecedor": "ALFA EMPREENDIMENTOS HOTELEIROS SA",
+          "cnpjCpfFornecedor": "10473920000180",
+          "valorLiquido": 289.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2016492,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "codDocumento": 7693409,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-27T00:00:00",
+          "numDocumento": "129355",
+          "valorDocumento": 289.8,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7693409.pdf",
+          "nomeFornecedor": "ALFA EMPREENDIMENTOS HOTELEIROS SA",
+          "cnpjCpfFornecedor": "10473920000180",
+          "valorLiquido": 289.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2016504,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "codDocumento": 7768208,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-24T00:00:00",
+          "numDocumento": "134235",
+          "valorDocumento": 286.35,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7768208.pdf",
+          "nomeFornecedor": "ALFA EMPREENDIMENTOS HOTELEIROS SA",
+          "cnpjCpfFornecedor": "10473920000180",
+          "valorLiquido": 286.35,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2056574,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

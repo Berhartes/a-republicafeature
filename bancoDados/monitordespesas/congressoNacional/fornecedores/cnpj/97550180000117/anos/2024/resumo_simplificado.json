@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "POSTO LEBLON LTDA-EPP",
+    "cnpj": "97550180000117",
+    "total_recebido": 72.85,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 72.85,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 72.85,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 72.85,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 72.85,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

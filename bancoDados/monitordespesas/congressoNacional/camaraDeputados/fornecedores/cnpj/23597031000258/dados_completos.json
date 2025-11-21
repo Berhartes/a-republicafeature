@@ -3,76 +3,53 @@
     "fornecedor": {
       "nome": "AUTO POSTO VIA ESTRUTURAL LTDA - LAGO SUL",
       "cnpj": "23597031000258",
-      "total_recebido": 450.13,
-      "numero_transacoes": 2,
+      "total_recebido": 100.0,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:12.989834"
+    "generatedAt": "2025-11-11T05:22:35.161938"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 450.13
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 100.0
   },
   "anos": {
-    "2023": {
-      "total": 228.65,
-      "transacoes": 1,
-      "deputados": 1
-    },
-    "2025": {
-      "total": 221.48,
+    "2024": {
+      "total": 100.0,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "74646": {
+    "160545": {
       "deputado": {
-        "id": 74646,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74646",
-        "nome": "Aécio Neves",
-        "siglaPartido": "PSDB",
+        "id": 160545,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160545",
+        "nome": "Alexandre Leite",
+        "nomeEleitoral": "Alexandre Leite",
+        "siglaPartido": "UNIÃO",
         "uriPartido": "",
-        "siglaUf": "MG",
+        "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74646.jpg",
-        "email": "dep.aecioneves@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160545.jpg",
+        "email": null
       },
-      "total": 450.13,
-      "transacoes": 2,
+      "total": 100.0,
+      "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 5,
+          "ano": 2024,
+          "mes": 12,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7547548,
+          "codDocumento": 7839956,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-05-23T00:00:00",
-          "numDocumento": "38042",
-          "valorDocumento": 228.65,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7547548",
+          "dataDocumento": "2024-12-02T12:19:19",
+          "numDocumento": "73593",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7839956",
           "nomeFornecedor": "AUTO POSTO VIA ESTRUTURAL LTDA - LAGO SUL",
           "cnpjCpfFornecedor": "23597031000258",
-          "valorLiquido": 228.65,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
-          "mes": 3,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7880336,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-03-11T13:01:46",
-          "numDocumento": "78339",
-          "valorDocumento": 221.48,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7880336",
-          "nomeFornecedor": "AUTO POSTO VIA ESTRUTURAL LTDA - LAGO SUL",
-          "cnpjCpfFornecedor": "23597031000258",
-          "valorLiquido": 221.48,
+          "valorLiquido": 100.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

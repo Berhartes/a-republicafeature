@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220582,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220582",
+    "nome": "Daniel Barbosa",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "AL",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220582.jpg",
+    "email": "dep.danielbarbosa@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 407103.55,
+  "quantidade_transacoes": 243,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 242556.7,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 59.58
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 60480.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 14.86
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 59847.57,
+      "quantidade_transacoes": 38,
+      "porcentagem_do_total": 14.7
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 28407.88,
+      "quantidade_transacoes": 173,
+      "porcentagem_do_total": 6.98
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 14827.21,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.64
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "FEAT WORK LTDA",
+      "cnpj": "50061432000180",
+      "total": 181556.7,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 44.6
+    },
+    {
+      "nome": "SUPREMA MOBILIDADE LTDA",
+      "cnpj": "24894397000170",
+      "total": 60480.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 14.86
+    },
+    {
+      "nome": "L & J SERVICOS GRAFICOS LTDA",
+      "cnpj": "28487641000131",
+      "total": 53000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 13.02
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 47190.52,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 11.59
+    },
+    {
+      "nome": "HOTEIS RITZ",
+      "cnpj": "35632819000156",
+      "total": 14153.46,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 3.48
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 12657.05,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 3.11
+    },
+    {
+      "nome": "IBN PINTO E SILVA & CIA LTDA",
+      "cnpj": "01242690000158",
+      "total": 8645.97,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 2.12
+    },
+    {
+      "nome": "POLITICA ALAGOANA LTDA",
+      "cnpj": "32748487000181",
+      "total": 8000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.97
+    },
+    {
+      "nome": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597003112",
+      "total": 7293.89,
+      "quantidade_transacoes": 50,
+      "porcentagem_do_total": 1.79
+    },
+    {
+      "nome": "NENENS CHOPP POSTO DE COMBUSTIVEIS LTDA",
+      "cnpj": "32434124000171",
+      "total": 3590.21,
+      "quantidade_transacoes": 33,
+      "porcentagem_do_total": 0.88
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 40933.63,
+      "porcentagem_do_total": 10.05
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 39380.89,
+      "porcentagem_do_total": 9.67
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 48016.83,
+      "porcentagem_do_total": 11.79
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 56433.57,
+      "porcentagem_do_total": 13.86
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 29054.21,
+      "porcentagem_do_total": 7.14
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 41125.0,
+      "porcentagem_do_total": 10.1
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 56737.83,
+      "porcentagem_do_total": 13.94
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 63078.92,
+      "porcentagem_do_total": 15.49
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 20456.07,
+      "porcentagem_do_total": 5.02
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 10402.53,
+      "porcentagem_do_total": 2.56
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 1484.07,
+      "porcentagem_do_total": 0.36
+    }
+  ]
+}

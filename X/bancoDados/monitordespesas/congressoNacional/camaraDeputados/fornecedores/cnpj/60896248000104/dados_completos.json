@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "INTERSUL",
+      "cnpj": "60896248000104",
+      "total_recebido": 341.08,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:07.779003"
+  },
+  "categorias": {
+    "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS": 341.08
+  },
+  "anos": {
+    "2025": {
+      "total": 341.08,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204528": {
+      "deputado": {
+        "id": 204528,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204528",
+        "nome": "Adriana Ventura",
+        "nomeEleitoral": "Adriana Ventura",
+        "siglaPartido": "NOVO",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
+        "email": "dep.adrianaventura@camara.leg.br"
+      },
+      "total": 341.08,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+          "codDocumento": 7939109,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-17T00:00:00",
+          "numDocumento": "10000039014",
+          "valorDocumento": 79.09,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2025/7939109.pdf",
+          "nomeFornecedor": "INTERSUL",
+          "cnpjCpfFornecedor": "60896248000104",
+          "valorLiquido": 79.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+          "codDocumento": 7972191,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-17T00:00:00",
+          "numDocumento": "2473161",
+          "valorDocumento": 86.97,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2025/7972191.pdf",
+          "nomeFornecedor": "INTERSUL",
+          "cnpjCpfFornecedor": "60896248000104",
+          "valorLiquido": 86.97,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+          "codDocumento": 7989711,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-14T00:00:00",
+          "numDocumento": "2545444",
+          "valorDocumento": 83.47,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2025/7989711.pdf",
+          "nomeFornecedor": "INTERSUL",
+          "cnpjCpfFornecedor": "60896248000104",
+          "valorLiquido": 83.47,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+          "codDocumento": 7989723,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-14T00:00:00",
+          "numDocumento": "2545445",
+          "valorDocumento": 91.55,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2025/7989723.pdf",
+          "nomeFornecedor": "INTERSUL",
+          "cnpjCpfFornecedor": "60896248000104",
+          "valorLiquido": 91.55,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

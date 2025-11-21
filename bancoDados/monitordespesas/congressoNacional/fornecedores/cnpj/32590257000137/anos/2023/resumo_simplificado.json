@@ -1,0 +1,61 @@
+{
+  "fornecedor": {
+    "nome": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+    "cnpj": "32590257000137",
+    "total_recebido": 1705.2600000000002,
+    "numero_transacoes": 12,
+    "numero_deputados": 4
+  },
+  "ano": 2023,
+  "total_recebido": 538.02,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 400.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 74.35
+    },
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 138.02,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 25.65
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 538.02,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 150.0,
+      "porcentagem_do_total": 27.88
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 138.02,
+      "porcentagem_do_total": 25.65
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 150.0,
+      "porcentagem_do_total": 27.88
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 100.0,
+      "porcentagem_do_total": 18.59
+    }
+  ]
+}

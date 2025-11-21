@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO CHAVES LTDA",
+    "cnpj": "00746278000102",
+    "total_recebido": 364.56,
+    "numero_transacoes": 3,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 364.56,
+  "quantidade_transacoes": 3,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 364.56,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 364.56,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 40.01,
+      "porcentagem_do_total": 10.97
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 142.08,
+      "porcentagem_do_total": 38.97
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 182.47,
+      "porcentagem_do_total": 50.05
+    }
+  ]
+}

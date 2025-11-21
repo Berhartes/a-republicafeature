@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 72442,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/72442",
+    "nome": "Felipe Carreras",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "PE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/72442.jpg",
+    "email": "dep.felipecarreras@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 474774.95,
+  "quantidade_transacoes": 585,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 260337.4,
+      "quantidade_transacoes": 328,
+      "porcentagem_do_total": 54.83
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 72900.0,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 15.35
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 61921.0,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 13.04
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 44571.42,
+      "quantidade_transacoes": 176,
+      "porcentagem_do_total": 9.39
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 33959.38,
+      "quantidade_transacoes": 42,
+      "porcentagem_do_total": 7.15
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 111768.82,
+      "quantidade_transacoes": 168,
+      "porcentagem_do_total": 23.54
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 89504.24,
+      "quantidade_transacoes": 76,
+      "porcentagem_do_total": 18.85
+    },
+    {
+      "nome": "VIA LOCADORA DE AUTOMOVEIS LTDA",
+      "cnpj": "45414964000114",
+      "total": 59400.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 12.51
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 59064.34,
+      "quantidade_transacoes": 84,
+      "porcentagem_do_total": 12.44
+    },
+    {
+      "nome": "BANDEIRANTES PROPAGANDA EXTERNA LTDA",
+      "cnpj": "11271475000139",
+      "total": 24400.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 5.14
+    },
+    {
+      "nome": "Carlos Eduardo de Gois Paiva Lubrificação",
+      "cnpj": "05930186000100",
+      "total": 13500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.84
+    },
+    {
+      "nome": "NOVO AGRESTE OUTDOOR LTDA - ME",
+      "cnpj": "25217375000139",
+      "total": 8000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.69
+    },
+    {
+      "nome": "AR EMPREENDIMENTOS TURISTICOS LTDA",
+      "cnpj": "50342470000101",
+      "total": 7529.06,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.59
+    },
+    {
+      "nome": "2A COMUNICAÇÃO LTDA",
+      "cnpj": "35778209000165",
+      "total": 6000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.26
+    },
+    {
+      "nome": "REDE ANDRADE LG INN HOTEL LTDA",
+      "cnpj": "43238281000128",
+      "total": 5405.85,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.14
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 17432.87,
+      "porcentagem_do_total": 3.67
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 17458.82,
+      "porcentagem_do_total": 3.68
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 33151.5,
+      "porcentagem_do_total": 6.98
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 37259.14,
+      "porcentagem_do_total": 7.85
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 40784.46,
+      "porcentagem_do_total": 8.59
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 31465.83,
+      "porcentagem_do_total": 6.63
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 38417.36,
+      "porcentagem_do_total": 8.09
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 15504.74,
+      "porcentagem_do_total": 3.27
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 45959.03,
+      "porcentagem_do_total": 9.68
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 51032.57,
+      "porcentagem_do_total": 10.75
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 66382.08,
+      "porcentagem_do_total": 13.98
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 79926.55,
+      "porcentagem_do_total": 16.83
+    }
+  ]
+}

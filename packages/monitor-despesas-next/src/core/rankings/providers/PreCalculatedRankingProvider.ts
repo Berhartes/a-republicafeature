@@ -1,6 +1,6 @@
 
-import { DataProvider, DeputyData, RankingEntry, RankingQuery, RankingResult } from '../RankingEngine.js'
-import { categoryRegistry } from '../../categories/CategoryRegistry.js'
+import { DataProvider, DeputyData, RankingEntry, RankingQuery, RankingResult } from '../RankingEngine'
+import { categoryRegistry } from '../../categories/CategoryRegistry'
 
 export class PreCalculatedRankingProvider implements DataProvider {
   name = 'PreCalculatedRankingProvider'
@@ -18,71 +18,13 @@ export class PreCalculatedRankingProvider implements DataProvider {
     const startTime = Date.now()
     
     try {
-      console.log('📊 [PreCalculatedProvider] Fetching pre-calculated ranking')
+      console.log('📊 [PreCalculatedProvider] Serviço não disponível - retornando null')
       
-  const rankingsOtimizadosService = await import('../../../services/rankings-otimizados-service')
-      const service = new rankingsOtimizadosService.RankingsOtimizadosService()
-      
-      const category = query.categoryId ? categoryRegistry.getById(query.categoryId) : undefined
-      
-      let rankingData: any = null
-      
-      if (category) {
-        if (query.year) {
-          rankingData = await service.buscarRankingCategoriaPorAno(category.displayName, query.year)
-        } else {
-          rankingData = await service.buscarRankingCategoriaHistorico(category.displayName)
-        }
-      } else {
-        if (query.year) {
-          rankingData = await service.buscarRankingGeralPorAno(query.year)
-        } else {
-          rankingData = await service.buscarRankingGeralHistorico()
-        }
-      }
-      
-      if (!rankingData || !rankingData.ranking || rankingData.ranking.length === 0) {
-        console.log('⚠️ [PreCalculatedProvider] No pre-calculated data found')
-        return null
-      }
-      
-      console.log(`📊 [PreCalculatedProvider] Found ${rankingData.ranking.length} pre-calculated entries`)
-      
-      const deputies = this.convertLegacyData(rankingData.ranking)
-      
-      const sortedDeputies = this.sortAndPaginate(deputies, query)
-      
-      const entries = this.convertToRankingEntries(sortedDeputies, query)
-      
-      const totalAmount = deputies.reduce((sum, d) => sum + d.totalAmount, 0)
-      const totalTransactions = deputies.reduce((sum, d) => sum + d.transactionCount, 0)
-      
-      const result: RankingResult = {
-        entries,
-        metadata: {
-          categoryId: query.categoryId,
-          categoryName: category?.displayName,
-          year: query.year,
-          period: query.year ? query.year.toString() : 'historical',
-          totalDeputies: deputies.length,
-          totalAmount,
-          totalTransactions,
-          dataQuality: 'high', // Dados pré-calculados são de alta qualidade
-          confidence: 0.95,
-          lastUpdate: rankingData.ultimaAtualizacao ? 
-            (rankingData.ultimaAtualizacao.toDate ? rankingData.ultimaAtualizacao.toDate() : new Date(rankingData.ultimaAtualizacao)) : 
-            new Date(),
-          source: 'pre-calculated',
-          processingTime: Date.now() - startTime
-        }
-      }
-      
-      console.log(`✅ [PreCalculatedProvider] Processed ${entries.length} entries in ${result.metadata.processingTime}ms`)
-      
-      return result
-      
+      // DESABILITADO: rankings-otimizados-service não existe mais
+      // TODO: Reimplementar usando data-actions.ts
+      return null
     } catch (error) {
-      console.error('❌ [PreCalculatedProvider] Error fetching pre-calculated data:', error)
+      console.error('❌ [PreCalculatedProvider] Error:', error)
       return null
     }
   }

@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO MODELO DE SERTAOZINHO LTDA",
+    "cnpj": "17101649000100",
+    "total_recebido": 323.14,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 323.14,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 323.14,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 323.14,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 134.93,
+      "porcentagem_do_total": 41.76
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 188.21,
+      "porcentagem_do_total": 58.24
+    }
+  ]
+}

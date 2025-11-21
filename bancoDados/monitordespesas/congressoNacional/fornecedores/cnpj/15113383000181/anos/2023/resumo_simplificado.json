@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "M.M. COMERCIO DE COMBUSTIVEIS LTDA",
+    "cnpj": "15113383000181",
+    "total_recebido": 7906.96,
+    "numero_transacoes": 8,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 2620.0,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 2620.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 2620.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 1620.0,
+      "porcentagem_do_total": 61.83
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 1000.0,
+      "porcentagem_do_total": 38.17
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "deputado": {
+    "id": 107283,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/107283",
+    "nome": "Gleisi Hoffmann",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/107283.jpg",
+    "email": null
+  },
+  "ano": 2025,
+  "total_gasto": 40210.92,
+  "quantidade_transacoes": 43,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 32358.1,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 80.47
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 7852.82,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 19.53
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CARPATI ADMINISTRAÇÃO DE BENS LTDA",
+      "cnpj": "04549702000180",
+      "total": 27420.47,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 68.19
+    },
+    {
+      "nome": "Cleiton Luiz Saviski ME",
+      "cnpj": "14108396000108",
+      "total": 3389.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 8.43
+    },
+    {
+      "nome": "053 - G PARK - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597005328",
+      "total": 1294.08,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 3.22
+    },
+    {
+      "nome": "BRASAL COMBUSTIVEIS LTDA",
+      "cnpj": "00097626000400",
+      "total": 881.34,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.19
+    },
+    {
+      "nome": "AUTO POSTO GOLDEN GAS 202 LTDA",
+      "cnpj": "30880112000145",
+      "total": 634.84,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.58
+    },
+    {
+      "nome": "AUTO POSTO PORTO PRINCIPE LTDA",
+      "cnpj": "06213021000171",
+      "total": 525.65,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.31
+    },
+    {
+      "nome": "AUTO POSTO TRES PINHEIROS LTDA",
+      "cnpj": "77898948000130",
+      "total": 504.62,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.25
+    },
+    {
+      "nome": "Claro NXT Telecomunicações S.A.",
+      "cnpj": "66970229040460",
+      "total": 463.46,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.15
+    },
+    {
+      "nome": "CLARO S/A",
+      "cnpj": "66970229040460",
+      "total": 463.42,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.15
+    },
+    {
+      "nome": "AUTO POSTO QUERUBIM LTDA",
+      "cnpj": "00415128000116",
+      "total": 422.26,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.05
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 15924.86,
+      "porcentagem_do_total": 39.6
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 19442.81,
+      "porcentagem_do_total": 48.35
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 4843.25,
+      "porcentagem_do_total": 12.04
+    }
+  ]
+}

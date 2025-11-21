@@ -3,49 +3,55 @@
     "fornecedor": {
       "nome": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
       "cnpj": "33469172002292",
-      "total_recebido": 259.59,
-      "numero_transacoes": 4,
+      "total_recebido": 129.99,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:57:06.370790"
+    "generatedAt": "2025-11-11T05:22:37.669992"
   },
   "categorias": {
-    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 259.59
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 129.99
   },
   "anos": {
     "2023": {
-      "total": 259.59,
-      "transacoes": 4,
+      "total": 63.77,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 66.22,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "160600": {
+    "221148": {
       "deputado": {
-        "id": 160600,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160600",
-        "nome": "Arthur Oliveira Maia",
-        "siglaPartido": "UNIÃO",
+        "id": 221148,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221148",
+        "nome": "Alfredinho",
+        "nomeEleitoral": "Alfredinho",
+        "siglaPartido": "PT",
         "uriPartido": "",
-        "siglaUf": "BA",
+        "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
-        "email": "dep.arthuroliveiramaia@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221148.jpg",
+        "email": "dep.alfredinho@camara.leg.br"
       },
-      "total": 259.59,
-      "transacoes": 4,
+      "total": 129.99,
+      "transacoes": 2,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 10,
+          "mes": 4,
           "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7633344,
+          "codDocumento": 7525715,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-10-18T00:00:00",
-          "numDocumento": "41441",
+          "dataDocumento": "2023-04-12T00:00:00",
+          "numDocumento": "36764",
           "valorDocumento": 63.77,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7633344",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3505/2023/7525715.pdf",
           "nomeFornecedor": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
           "cnpjCpfFornecedor": "33469172002292",
           "valorLiquido": 63.77,
@@ -55,57 +61,19 @@
           "parcela": 0
         },
         {
-          "ano": 2023,
-          "mes": 8,
+          "ano": 2024,
+          "mes": 4,
           "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7587877,
+          "codDocumento": 7717813,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-08-01T00:00:00",
-          "numDocumento": "39402",
-          "valorDocumento": 71.61,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7587877",
+          "dataDocumento": "2024-04-09T00:00:00",
+          "numDocumento": "45388",
+          "valorDocumento": 66.22,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7717813",
           "nomeFornecedor": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
           "cnpjCpfFornecedor": "33469172002292",
-          "valorLiquido": 71.61,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 8,
-          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7597076,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-08-15T00:00:00",
-          "numDocumento": "39749",
-          "valorDocumento": 64.63,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7597076",
-          "nomeFornecedor": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
-          "cnpjCpfFornecedor": "33469172002292",
-          "valorLiquido": 64.63,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 6,
-          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7565750,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-06-27T00:00:00",
-          "numDocumento": "39017",
-          "valorDocumento": 59.58,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7565750",
-          "nomeFornecedor": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
-          "cnpjCpfFornecedor": "33469172002292",
-          "valorLiquido": 59.58,
+          "valorLiquido": 66.22,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

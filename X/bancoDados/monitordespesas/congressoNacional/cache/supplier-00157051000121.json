@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:12:00Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00157051000121"
+  },
+  "data": {
+    "cnpj": "00157051000121",
+    "nome": "MARCLAU COMERCIO DE COMBUSTIVEL LTDA",
+    "nomeFornecedor": "MARCLAU COMERCIO DE COMBUSTIVEL LTDA",
+    "totalTransacionado": 1001.11,
+    "totalRecebido": 1001.11,
+    "totalRecebidoTodos": 1001.11,
+    "transacoes": 6,
+    "numeroTransacoes": 6,
+    "numeroDeputadosAtendidos": 2,
+    "deputadosAtendidos": [
+      {
+        "id": "143942",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 700.0,
+        "transacoes": 5
+      },
+      {
+        "id": "220605",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 301.11,
+        "transacoes": 1
+      }
+    ],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 1001.11,
+        "quantidade": 6
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 1001.11,
+        "quantidade": 6
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2024": {
+        "valor": 301.11,
+        "transacoes": 1,
+        "deputados": 0
+      },
+      "2025": {
+        "valor": 700.0,
+        "transacoes": 5,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 301.11,
+        "ano": 2024,
+        "mes": 12,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "151082 ROB",
+        "dataDocumento": "2024-12-11T00:00:00",
+        "deputadoId": "220605",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 200.0,
+        "ano": 2025,
+        "mes": 3,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "156721",
+        "dataDocumento": "2025-03-13T18:10:02",
+        "deputadoId": "143942",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 200.0,
+        "ano": 2025,
+        "mes": 3,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "157563",
+        "dataDocumento": "2025-03-26T20:26:18",
+        "deputadoId": "143942",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 100.0,
+        "ano": 2025,
+        "mes": 8,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "4772",
+        "dataDocumento": "2025-08-17T21:54:11",
+        "deputadoId": "143942",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 100.0,
+        "ano": 2025,
+        "mes": 5,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "39",
+        "dataDocumento": "2025-05-01T17:36:29",
+        "deputadoId": "143942",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 100.0,
+        "ano": 2025,
+        "mes": 4,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "157894",
+        "dataDocumento": "2025-04-01T11:28:35",
+        "deputadoId": "143942",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 100.0,
+        "valorLiquido": 100.0,
+        "valorDocumento": 100.0,
+        "ano": 2025,
+        "mes": 8,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2025-08-17T21:54:11",
+        "data": "2025-08-17T21:54:11",
+        "numDocumento": "4772",
+        "codDocumento": 7969164,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7969164",
+        "deputadoId": "143942",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "MARCLAU COMERCIO DE COMBUSTIVEIS LTDA",
+        "cnpj": "00157051000121",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7969164"
+      },
+      {
+        "valor": 100.0,
+        "valorLiquido": 100.0,
+        "valorDocumento": 100.0,
+        "ano": 2025,
+        "mes": 5,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2025-05-01T17:36:29",
+        "data": "2025-05-01T17:36:29",
+        "numDocumento": "39",
+        "codDocumento": 7933860,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7933860",
+        "deputadoId": "143942",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "MARCLAU COMERCIO DE COMBUSTIVEIS LTDA",
+        "cnpj": "00157051000121",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7933860"
+      },
+      {
+        "valor": 100.0,
+        "valorLiquido": 100.0,
+        "valorDocumento": 100.0,
+        "ano": 2025,
+        "mes": 4,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2025-04-01T11:28:35",
+        "data": "2025-04-01T11:28:35",
+        "numDocumento": "157894",
+        "codDocumento": 7892590,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7892590",
+        "deputadoId": "143942",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "MARCLAU COMERCIO DE COMBUSTIVEIS LTDA",
+        "cnpj": "00157051000121",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7892590"
+      },
+      {
+        "valor": 200.0,
+        "valorLiquido": 200.0,
+        "valorDocumento": 200.0,
+        "ano": 2025,
+        "mes": 3,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2025-03-13T18:10:02",
+        "data": "2025-03-13T18:10:02",
+        "numDocumento": "156721",
+        "codDocumento": 7884536,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7884536",
+        "deputadoId": "143942",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "MARCLAU COMERCIO DE COMBUSTIVEIS LTDA",
+        "cnpj": "00157051000121",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7884536"
+      },
+      {
+        "valor": 200.0,
+        "valorLiquido": 200.0,
+        "valorDocumento": 200.0,
+        "ano": 2025,
+        "mes": 3,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2025-03-26T20:26:18",
+        "data": "2025-03-26T20:26:18",
+        "numDocumento": "157563",
+        "codDocumento": 7890537,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7890537",
+        "deputadoId": "143942",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "MARCLAU COMERCIO DE COMBUSTIVEIS LTDA",
+        "cnpj": "00157051000121",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7890537"
+      },
+      {
+        "valor": 301.11,
+        "valorLiquido": 301.11,
+        "valorDocumento": 301.11,
+        "ano": 2024,
+        "mes": 12,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2024-12-11T00:00:00",
+        "data": "2024-12-11T00:00:00",
+        "numDocumento": "151082 ROB",
+        "codDocumento": 7845855,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7845855",
+        "deputadoId": "220605",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "MARCLAU COMERCIO DE COMBUSTIVEIS LTDA",
+        "cnpj": "00157051000121",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7845855"
+      }
+    ],
+    "totalTransacoesDetalhadas": 6,
+    "aliases": [
+      "00157051000121"
+    ],
+    "temDetalhes": true
+  }
+}

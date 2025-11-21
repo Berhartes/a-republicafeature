@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Comercial de Derivados de Petroleo Souza Lima Ltda",
+      "cnpj": "01343305000169",
+      "total_recebido": 241.22,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:56.335482"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 241.22
+  },
+  "anos": {
+    "2024": {
+      "total": 241.22,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 241.22,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7773360,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-07-18T13:56:53",
+          "numDocumento": "24001",
+          "valorDocumento": 241.22,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7773360",
+          "nomeFornecedor": "Comercial de Derivados de Petroleo Souza Lima Ltda",
+          "cnpjCpfFornecedor": "01343305000169",
+          "valorLiquido": 241.22,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2059096,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

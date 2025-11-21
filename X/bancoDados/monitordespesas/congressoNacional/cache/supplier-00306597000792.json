@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:12:03Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00306597000792"
+  },
+  "data": {
+    "cnpj": "00306597000792",
+    "nome": "007 - 115 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+    "nomeFornecedor": "007 - 115 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+    "totalTransacionado": 625.83,
+    "totalRecebido": 625.83,
+    "totalRecebidoTodos": 625.83,
+    "transacoes": 3,
+    "numeroTransacoes": 3,
+    "numeroDeputadosAtendidos": 3,
+    "deputadosAtendidos": [
+      {
+        "id": "204374",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 215.65,
+        "transacoes": 1
+      },
+      {
+        "id": "204388",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 210.18,
+        "transacoes": 1
+      },
+      {
+        "id": "204572",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 200.0,
+        "transacoes": 1
+      }
+    ],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 625.83,
+        "quantidade": 3
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 625.83,
+        "quantidade": 3
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 625.83,
+        "transacoes": 3,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 215.65,
+        "ano": 2023,
+        "mes": 3,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "73276",
+        "dataDocumento": "2023-03-13T00:00:00",
+        "deputadoId": "204374",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 210.18,
+        "ano": 2023,
+        "mes": 2,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "69100",
+        "dataDocumento": "2023-02-03T00:00:00",
+        "deputadoId": "204388",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 200.0,
+        "ano": 2023,
+        "mes": 5,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "77493",
+        "dataDocumento": "2023-05-22T00:00:00",
+        "deputadoId": "204572",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 200.0,
+        "valorLiquido": 200.0,
+        "valorDocumento": 200.0,
+        "ano": 2023,
+        "mes": 5,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2023-05-22T00:00:00",
+        "data": "2023-05-22T00:00:00",
+        "numDocumento": "77493",
+        "codDocumento": 7557489,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7557489",
+        "deputadoId": "204572",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "007 - 115 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "cnpj": "00306597000792",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7557489"
+      },
+      {
+        "valor": 215.65,
+        "valorLiquido": 215.65,
+        "valorDocumento": 215.65,
+        "ano": 2023,
+        "mes": 3,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2023-03-13T00:00:00",
+        "data": "2023-03-13T00:00:00",
+        "numDocumento": "73276",
+        "codDocumento": 7508972,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7508972",
+        "deputadoId": "204374",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "007 - 115 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "cnpj": "00306597000792",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7508972"
+      },
+      {
+        "valor": 210.18,
+        "valorLiquido": 210.18,
+        "valorDocumento": 210.18,
+        "ano": 2023,
+        "mes": 2,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2023-02-03T00:00:00",
+        "data": "2023-02-03T00:00:00",
+        "numDocumento": "69100",
+        "codDocumento": 7494852,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7494852",
+        "deputadoId": "204388",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "007 - 115 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "cnpj": "00306597000792",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7494852"
+      }
+    ],
+    "totalTransacoesDetalhadas": 3,
+    "aliases": [
+      "00306597000792"
+    ],
+    "temDetalhes": true
+  }
+}

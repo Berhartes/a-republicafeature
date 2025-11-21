@@ -22,6 +22,9 @@ class DeputadoApi(BaseModel):
     siglaPartido: str
     siglaUf: str
     urlFoto: str
+    nomeEleitoral: Optional[str] = None
+    nomeCivil: Optional[str] = None
+    email: Optional[str] = None
 
 
 class DespesaApi(BaseModel):
@@ -40,6 +43,7 @@ class DespesaApi(BaseModel):
 class DeputadoResumo(BaseModel):
     id: int
     nome: str
+    nomeEleitoral: Optional[str] = None
     siglaPartido: str
     siglaUf: str
     totalDespesas: float

@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO CONQUISTA DE ITAPIRAPUA LTDA",
+    "cnpj": "05310091000185",
+    "total_recebido": 724.79,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 724.79,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 724.79,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 724.79,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 260.05,
+      "porcentagem_do_total": 35.88
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 464.74,
+      "porcentagem_do_total": 64.12
+    }
+  ]
+}

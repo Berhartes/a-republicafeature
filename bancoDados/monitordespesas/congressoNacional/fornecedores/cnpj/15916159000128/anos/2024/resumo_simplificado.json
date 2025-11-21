@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AMARELINHA AUTO POSTO LTDA",
+    "cnpj": "15916159000128",
+    "total_recebido": 319.05,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 319.05,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 319.05,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 319.05,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 319.05,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

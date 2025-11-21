@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ANTONIO DOMINGUES DE OLIVEIRA SAO CARLOS",
+      "cnpj": "66921602000190",
+      "total_recebido": 120.01,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 120.01,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-04-14T00:00:00",
+    "periodo_fim": "2024-04-14T00:00:00",
+    "generatedAt": "2025-11-11T21:38:04.371008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 120.01,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 120.01,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 120.01,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7719081,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-04-14T00:00:00",
+      "numDocumento": "174324",
+      "valorDocumento": 120.01,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7719081.pdf",
+      "nomeFornecedor": "ANTONIO DOMINGUES DE OLIVEIRA SAO CARLOS",
+      "cnpjCpfFornecedor": "66921602000190",
+      "valorLiquido": 120.01,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2030486,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

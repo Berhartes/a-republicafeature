@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "DEM & DEM COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "13151920000233",
+      "total_recebido": 584.81,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:53.755483"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 584.81
+  },
+  "anos": {
+    "2023": {
+      "total": 584.81,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 584.81,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7605218,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-07-16T00:00:00",
+          "numDocumento": "74152",
+          "valorDocumento": 292.57,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7605218",
+          "nomeFornecedor": "DEM & DEM COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "13151920000233",
+          "valorLiquido": 292.57,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1966663,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7605271,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-09-01T00:00:00",
+          "numDocumento": "75312",
+          "valorDocumento": 170.09,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7605271",
+          "nomeFornecedor": "DEM & DEM COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "13151920000233",
+          "valorLiquido": 170.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1966667,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7642997,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-11-14T00:00:00",
+          "numDocumento": "77476",
+          "valorDocumento": 122.15,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7642997",
+          "nomeFornecedor": "DEM & DEM COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "13151920000233",
+          "valorLiquido": 122.15,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1988016,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

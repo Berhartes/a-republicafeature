@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-08T13:42:17Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v2",
+    "legislatura": 57,
+    "cnpj": "00306597005913"
+  },
+  "data": {
+    "cnpj": "00306597005913",
+    "nome": "059 - R FUNDO 1 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+    "nomeFornecedor": "059 - R FUNDO 1 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+    "totalTransacionado": 241.95,
+    "totalRecebido": 241.95,
+    "totalRecebidoTodos": 241.95,
+    "transacoes": 1,
+    "numeroTransacoes": 1,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 241.95,
+        "quantidade": 1
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 241.95,
+        "quantidade": 1
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2025": {
+        "valor": 241.95,
+        "transacoes": 0,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

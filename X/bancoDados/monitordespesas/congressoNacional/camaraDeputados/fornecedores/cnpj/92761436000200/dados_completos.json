@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ABAST DE COMB QUINTAO LTDA F01  PINHAL",
+      "cnpj": "92761436000200",
+      "total_recebido": 183.53,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:13.351222"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 183.53
+  },
+  "anos": {
+    "2023": {
+      "total": 183.53,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178835": {
+      "deputado": {
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
+      },
+      "total": 183.53,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7653802,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-01T00:00:00",
+          "numDocumento": "870929",
+          "valorDocumento": 183.53,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7653802",
+          "nomeFornecedor": "ABAST DE COMB QUINTAO LTDA F01  PINHAL",
+          "cnpjCpfFornecedor": "92761436000200",
+          "valorLiquido": 183.53,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "COMERCIAL DE COMBUSTIVEIS SHOPING LTDA",
+    "cnpj": "03449173000180",
+    "total_recebido": 324.05,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 324.05,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 324.05,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 324.05,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 324.05,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

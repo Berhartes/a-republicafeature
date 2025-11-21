@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GHANDI SECAF & CIA LTDA",
+      "cnpj": "45363173000102",
+      "total_recebido": 230.07,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:04.795021"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 230.07
+  },
+  "anos": {
+    "2024": {
+      "total": 230.07,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 230.07,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7832300,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-17T00:00:00",
+          "numDocumento": "1302305",
+          "valorDocumento": 230.07,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7832300.pdf",
+          "nomeFornecedor": "GHANDI SECAF & CIA LTDA",
+          "cnpjCpfFornecedor": "45363173000102",
+          "valorLiquido": 230.07,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2090039,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

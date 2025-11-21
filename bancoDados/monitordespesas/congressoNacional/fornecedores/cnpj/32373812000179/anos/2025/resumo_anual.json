@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "EDVALDO FRANCISCO DE OLIVEIRA 49191160120",
+      "cnpj": "32373812000179",
+      "total_recebido": 1713.1999999999998,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 530.1,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-06-10T00:00:00",
+    "periodo_fim": "2025-06-10T00:00:00",
+    "generatedAt": "2025-11-11T21:37:57.126484"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 530.1,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 530.1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 530.1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 6,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7932807,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-06-10T00:00:00",
+      "numDocumento": "231",
+      "valorDocumento": 530.1,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7932807",
+      "nomeFornecedor": "EDVALDO FRANCISCO DE OLIVEIRA 49191160120",
+      "cnpjCpfFornecedor": "32373812000179",
+      "valorLiquido": 530.1,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2145953,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

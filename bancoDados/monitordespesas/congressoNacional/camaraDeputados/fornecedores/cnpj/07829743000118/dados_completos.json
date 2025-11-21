@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:34.193467"
+    "generatedAt": "2025-11-11T05:22:43.507261"
   },
   "categorias": {
     "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 16454.0
@@ -25,6 +25,7 @@
         "id": 226708,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
         "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "MA",
@@ -35,25 +36,6 @@
       "total": 16454.0,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 4,
-          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7718539,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-04-12T00:00:00",
-          "numDocumento": "717",
-          "valorDocumento": 5254.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2024/7718539.pdf",
-          "nomeFornecedor": "F. P. BORGES GRAFICA E EDITORA EIRELI - EPP",
-          "cnpjCpfFornecedor": "07829743000118",
-          "valorLiquido": 5254.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 1,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "F. P. BORGES GRAFICA E EDITORA EIRELI - EPP",
           "cnpjCpfFornecedor": "07829743000118",
           "valorLiquido": 11200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7718539,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-12T00:00:00",
+          "numDocumento": "717",
+          "valorDocumento": 5254.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2024/7718539.pdf",
+          "nomeFornecedor": "F. P. BORGES GRAFICA E EDITORA EIRELI - EPP",
+          "cnpjCpfFornecedor": "07829743000118",
+          "valorLiquido": 5254.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

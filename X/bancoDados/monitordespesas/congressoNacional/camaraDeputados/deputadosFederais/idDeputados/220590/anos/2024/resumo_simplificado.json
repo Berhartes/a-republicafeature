@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 220590,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220590",
+    "nome": "Coronel Ulysses",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "AC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220590.jpg",
+    "email": "dep.coronelulysses@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 596587.45,
+  "quantidade_transacoes": 298,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 337469.07,
+      "quantidade_transacoes": 102,
+      "porcentagem_do_total": 56.57
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 106178.44,
+      "quantidade_transacoes": 123,
+      "porcentagem_do_total": 17.8
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 97527.55,
+      "quantidade_transacoes": 39,
+      "porcentagem_do_total": 16.35
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 29778.27,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 4.99
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 18304.69,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.07
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AJS DERIVADOS DE PETROLEO - EIRELI",
+      "cnpj": "34213732000181",
+      "total": 80270.46,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 13.45
+    },
+    {
+      "nome": "AC 24 HORAS LTDA",
+      "cnpj": "13218533000196",
+      "total": 75000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 12.57
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 68169.42,
+      "quantidade_transacoes": 73,
+      "porcentagem_do_total": 11.43
+    },
+    {
+      "nome": "J. R. BASILE PUBLICIDADE",
+      "cnpj": "19527767000100",
+      "total": 58000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 9.72
+    },
+    {
+      "nome": "CLAUDIO GOMES DA SILVA ME",
+      "cnpj": "20357070000109",
+      "total": 53000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 8.88
+    },
+    {
+      "nome": "ALEXANDRE BASTOS MONTEIRO",
+      "cnpj": "53584358000175",
+      "total": 39500.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 6.62
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 32038.44,
+      "quantidade_transacoes": 46,
+      "porcentagem_do_total": 5.37
+    },
+    {
+      "nome": "AGENCIA DE NOTICIAS CONTILNET LTDA - ME",
+      "cnpj": "15538862000140",
+      "total": 20000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 3.35
+    },
+    {
+      "nome": "AMAZONIA 7 PRODUCOES LTDA",
+      "cnpj": "10957640000148",
+      "total": 19000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 3.18
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 18304.69,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.07
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 66859.91,
+      "porcentagem_do_total": 11.21
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 31889.65,
+      "porcentagem_do_total": 5.35
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 75086.8,
+      "porcentagem_do_total": 12.59
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 62768.25,
+      "porcentagem_do_total": 10.52
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 47446.83,
+      "porcentagem_do_total": 7.95
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 41216.0,
+      "porcentagem_do_total": 6.91
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 35264.65,
+      "porcentagem_do_total": 5.91
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 58061.34,
+      "porcentagem_do_total": 9.73
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 75597.49,
+      "porcentagem_do_total": 12.67
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 37994.17,
+      "porcentagem_do_total": 6.37
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 34286.88,
+      "porcentagem_do_total": 5.75
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 30115.48,
+      "porcentagem_do_total": 5.05
+    }
+  ]
+}

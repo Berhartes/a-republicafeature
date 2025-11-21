@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "NOVA ESTACAO DOS FRIOS LTDA",
+      "cnpj": "54434794000120",
+      "total_recebido": 37.8,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:22.296407"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 37.8
+  },
+  "anos": {
+    "2024": {
+      "total": 37.8,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220542": {
+      "deputado": {
+        "id": 220542,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
+        "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "TO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
+        "email": "dep.alexandreguimaraes@camara.leg.br"
+      },
+      "total": 37.8,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7740508,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-20T00:00:00",
+          "numDocumento": "2648",
+          "valorDocumento": 37.8,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7740508",
+          "nomeFornecedor": "NOVA ESTACAO DOS FRIOS LTDA",
+          "cnpjCpfFornecedor": "54434794000120",
+          "valorLiquido": 37.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MARIA DE FATIMA SOUZA DE JESUS",
+      "cnpj": "11239927000103",
+      "total_recebido": 200.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:25.978090"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 200.0
+  },
+  "anos": {
+    "2023": {
+      "total": 200.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74057": {
+      "deputado": {
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
+      },
+      "total": 200.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7524710,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-31T00:00:00",
+          "numDocumento": "5093",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7524710",
+          "nomeFornecedor": "MARIA DE FATIMA SOUZA DE JESUS",
+          "cnpjCpfFornecedor": "11239927000103",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

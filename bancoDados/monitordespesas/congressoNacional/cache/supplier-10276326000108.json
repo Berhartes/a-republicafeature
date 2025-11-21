@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-12T00:38:36Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "1.0.0",
+    "legislatura": 57,
+    "cnpj": "10276326000108"
+  },
+  "data": {
+    "cnpj": "10276326000108",
+    "nome": "RESTAURANTE E CHURRASCARIA SERRA DA GRACIOSA LTDA ME",
+    "nomeFornecedor": "RESTAURANTE E CHURRASCARIA SERRA DA GRACIOSA LTDA ME",
+    "totalTransacionado": 25.98,
+    "totalRecebido": 25.98,
+    "totalRecebidoTodos": 25.98,
+    "transacoes": 1,
+    "numeroTransacoes": 1,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [],
+    "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+    "categoriaOriginal": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+    "categorias": [
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+    ],
+    "categoriasOriginais": [
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+    ],
+    "categoriasInfo": {
+      "principal": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "normalizadas": [
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+      ],
+      "principalOriginal": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "originais": [
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+      ]
+    },
+    "distribuicaoTipos": {
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": {
+        "valor": 25.98,
+        "quantidade": 1
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": {
+        "valor": 25.98,
+        "quantidade": 1
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2024": {
+        "valor": 25.98,
+        "transacoes": 1,
+        "deputados": 1
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

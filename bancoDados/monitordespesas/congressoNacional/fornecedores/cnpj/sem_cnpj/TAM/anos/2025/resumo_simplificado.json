@@ -1,0 +1,86 @@
+{
+  "fornecedor": {
+    "nome": "TAM",
+    "cnpj": null,
+    "total_recebido": 606529.2400000007,
+    "numero_transacoes": 638,
+    "numero_deputados": 5
+  },
+  "ano": 2025,
+  "total_recebido": 162667.34,
+  "quantidade_transacoes": 147,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 83132.25,
+      "quantidade_transacoes": 66,
+      "porcentagem_do_total": 51.11
+    },
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 49794.77,
+      "quantidade_transacoes": 55,
+      "porcentagem_do_total": 30.61
+    },
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 29740.32,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 18.28
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 162667.34,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 20879.34,
+      "porcentagem_do_total": 12.84
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 44656.36,
+      "porcentagem_do_total": 27.45
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 16433.67,
+      "porcentagem_do_total": 10.1
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 12703.7,
+      "porcentagem_do_total": 7.81
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 30753.4,
+      "porcentagem_do_total": 18.91
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 15006.64,
+      "porcentagem_do_total": 9.23
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 22234.23,
+      "porcentagem_do_total": 13.67
+    }
+  ]
+}

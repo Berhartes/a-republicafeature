@@ -1,0 +1,78 @@
+{
+  "fornecedor": {
+    "nome": "Telefônica Brasil S.A. VIVO",
+    "cnpj": "02558157000162",
+    "total_recebido": 23072.21,
+    "numero_transacoes": 54,
+    "numero_deputados": 3
+  },
+  "ano": 2025,
+  "total_recebido": 5735.57,
+  "quantidade_transacoes": 8,
+  "principais_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 5735.57,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "TELEFONIA",
+      "total": 5735.57,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 681.89,
+      "porcentagem_do_total": 11.89
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 681.89,
+      "porcentagem_do_total": 11.89
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 670.09,
+      "porcentagem_do_total": 11.68
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 711.89,
+      "porcentagem_do_total": 12.41
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 711.89,
+      "porcentagem_do_total": 12.41
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 732.17,
+      "porcentagem_do_total": 12.77
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 711.89,
+      "porcentagem_do_total": 12.41
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 833.86,
+      "porcentagem_do_total": 14.54
+    }
+  ]
+}

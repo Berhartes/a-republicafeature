@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO CIDADE NOVA LTDA",
+    "cnpj": "37167858000155",
+    "total_recebido": 350.0,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 150.0,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 150.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 150.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 150.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

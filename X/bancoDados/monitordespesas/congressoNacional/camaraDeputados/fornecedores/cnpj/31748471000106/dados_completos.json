@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO SOL LTDA",
+      "cnpj": "31748471000106",
+      "total_recebido": 280.06,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:15.195872"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 280.06
+  },
+  "anos": {
+    "2024": {
+      "total": 280.06,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204495": {
+      "deputado": {
+        "id": 204495,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204495",
+        "nome": "Airton Faleiro",
+        "nomeEleitoral": "Airton Faleiro",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "PA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204495.jpg",
+        "email": "dep.airtonfaleiro@camara.leg.br"
+      },
+      "total": 280.06,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7792345,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-16T00:00:00",
+          "numDocumento": "124606",
+          "valorDocumento": 280.06,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7792345",
+          "nomeFornecedor": "AUTO POSTO SOL LTDA",
+          "cnpjCpfFornecedor": "31748471000106",
+          "valorLiquido": 280.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -3,90 +3,72 @@
     "fornecedor": {
       "nome": "POSTO 29 DE MARCO DERIV DE PETR LTDA",
       "cnpj": "37441887000163",
-      "total_recebido": 750.0,
-      "numero_transacoes": 3,
+      "total_recebido": 505.0,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:56:39.545403"
+    "generatedAt": "2025-11-11T05:22:29.956293"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 750.0
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 505.0
   },
   "anos": {
-    "2024": {
-      "total": 750.0,
-      "transacoes": 3,
+    "2023": {
+      "total": 505.0,
+      "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "160553": {
+    "204571": {
       "deputado": {
-        "id": 160553,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
-        "nome": "Antonio Brito",
-        "siglaPartido": "PSD",
+        "id": 204571,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
+        "nome": "Alex Santana",
+        "nomeEleitoral": "Alex Santana",
+        "siglaPartido": "REPUBLICANOS",
         "uriPartido": "",
         "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
-        "email": "dep.antoniobrito@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204571.jpg",
+        "email": "dep.alexsantana@camara.leg.br"
       },
-      "total": 750.0,
-      "transacoes": 3,
+      "total": 505.0,
+      "transacoes": 2,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 7,
+          "ano": 2023,
+          "mes": 5,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7772695,
+          "codDocumento": 7558706,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-07-13T13:41:06",
-          "numDocumento": "337064",
+          "dataDocumento": "2023-05-02T00:00:00",
+          "numDocumento": "225106",
+          "valorDocumento": 305.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7558706",
+          "nomeFornecedor": "POSTO 29 DE MARCO DERIV DE PETR LTDA",
+          "cnpjCpfFornecedor": "37441887000163",
+          "valorLiquido": 305.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7664879,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-02T00:00:00",
+          "numDocumento": "269652",
           "valorDocumento": 200.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7772695",
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7664879",
           "nomeFornecedor": "POSTO 29 DE MARCO DERIV DE PETR LTDA",
           "cnpjCpfFornecedor": "37441887000163",
           "valorLiquido": 200.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 5,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7751493,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-05-23T19:42:38",
-          "numDocumento": "322653",
-          "valorDocumento": 450.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7751493",
-          "nomeFornecedor": "POSTO 29 DE MARCO DERIV DE PETR LTDA",
-          "cnpjCpfFornecedor": "37441887000163",
-          "valorLiquido": 450.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 4,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7741399,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-04-17T00:00:00",
-          "numDocumento": "312111",
-          "valorDocumento": 100.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2407/2024/7741399.pdf",
-          "nomeFornecedor": "POSTO 29 DE MARCO DERIV DE PETR LTDA",
-          "cnpjCpfFornecedor": "37441887000163",
-          "valorLiquido": 100.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

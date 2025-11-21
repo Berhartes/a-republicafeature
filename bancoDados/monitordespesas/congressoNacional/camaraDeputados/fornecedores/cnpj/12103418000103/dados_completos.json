@@ -3,52 +3,58 @@
     "fornecedor": {
       "nome": "POSTO DE COMBUSTIVEIS RIO CORRENTINA 1 LTDA",
       "cnpj": "12103418000103",
-      "total_recebido": 578.16,
-      "numero_transacoes": 2,
+      "total_recebido": 883.99,
+      "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:57:06.380360"
+    "generatedAt": "2025-11-11T05:22:39.861015"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 578.16
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 883.99
   },
   "anos": {
     "2023": {
-      "total": 578.16,
+      "total": 464.1,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 419.89,
       "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "160600": {
+    "74057": {
       "deputado": {
-        "id": 160600,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160600",
-        "nome": "Arthur Oliveira Maia",
-        "siglaPartido": "UNIÃO",
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
         "uriPartido": "",
         "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
-        "email": "dep.arthuroliveiramaia@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
       },
-      "total": 578.16,
-      "transacoes": 2,
+      "total": 883.99,
+      "transacoes": 4,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 7,
+          "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7587901,
+          "codDocumento": 7600269,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-07-30T00:00:00",
-          "numDocumento": "328634",
-          "valorDocumento": 195.13,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7587901",
+          "dataDocumento": "2023-08-12T00:00:00",
+          "numDocumento": "334106",
+          "valorDocumento": 212.19,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7600269",
           "nomeFornecedor": "POSTO DE COMBUSTIVEIS RIO CORRENTINA 1 LTDA",
           "cnpjCpfFornecedor": "12103418000103",
-          "valorLiquido": 195.13,
+          "valorLiquido": 212.19,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -56,18 +62,56 @@
         },
         {
           "ano": 2023,
-          "mes": 5,
+          "mes": 10,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7548882,
+          "codDocumento": 7634901,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-05-21T00:00:00",
-          "numDocumento": "300995",
-          "valorDocumento": 383.03,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7548882",
+          "dataDocumento": "2023-10-19T00:00:00",
+          "numDocumento": "365424",
+          "valorDocumento": 251.91,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7634901",
           "nomeFornecedor": "POSTO DE COMBUSTIVEIS RIO CORRENTINA 1 LTDA",
           "cnpjCpfFornecedor": "12103418000103",
-          "valorLiquido": 383.03,
+          "valorLiquido": 251.91,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7695855,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-01T10:42:43",
+          "numDocumento": "430237",
+          "valorDocumento": 271.15,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7695855",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS RIO CORRENTINA 1 LTDA",
+          "cnpjCpfFornecedor": "12103418000103",
+          "valorLiquido": 271.15,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7760855,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-21T14:09:32",
+          "numDocumento": "480218",
+          "valorDocumento": 148.74,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7760855",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEIS RIO CORRENTINA 1 LTDA",
+          "cnpjCpfFornecedor": "12103418000103",
+          "valorLiquido": 148.74,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

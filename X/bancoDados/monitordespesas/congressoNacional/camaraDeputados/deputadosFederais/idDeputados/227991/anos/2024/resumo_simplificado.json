@@ -1,0 +1,152 @@
+{
+  "deputado": {
+    "id": 227991,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227991",
+    "nome": "Dr Flávio",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/227991.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 149154.14,
+  "quantidade_transacoes": 106,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 71000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 47.6
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 50130.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 33.61
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 13625.67,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 9.14
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 13279.97,
+      "quantidade_transacoes": 69,
+      "porcentagem_do_total": 8.9
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 1118.5,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.75
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AB COMUNICAÇÃO DIGITAL LTDA",
+      "cnpj": "55292471000102",
+      "total": 52000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 34.86
+    },
+    {
+      "nome": "MAGMA SERVIÇOS ESPECIALIZADOS LTDA",
+      "cnpj": "72082423000109",
+      "total": 26130.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 17.52
+    },
+    {
+      "nome": "ALFA AUTO CAR LOCADORA DE VEÍCULO LTDA",
+      "cnpj": "11869422000114",
+      "total": 24000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 16.09
+    },
+    {
+      "nome": "IDEIASCOM COMERCIO E SERVIÇOS DE TEC.LTDA. ME",
+      "cnpj": "13453510000166",
+      "total": 19000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 12.74
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 11752.66,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 7.88
+    },
+    {
+      "nome": "AUTO POSTO ALTERNATIVO LTDA",
+      "cnpj": "04368639000185",
+      "total": 5219.02,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 3.5
+    },
+    {
+      "nome": "ALAOR ALVES BARBOSA EIRELI",
+      "cnpj": "32411100000105",
+      "total": 2232.51,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 1.5
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 1873.01,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.26
+    },
+    {
+      "nome": "AUTO POSTO JK LTDA",
+      "cnpj": "03482208000182",
+      "total": 866.42,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0.58
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEL GUERREIRINHO LTDA",
+      "cnpj": "35340529000139",
+      "total": 832.12,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.56
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 32370.29,
+      "porcentagem_do_total": 21.7
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 37881.43,
+      "porcentagem_do_total": 25.4
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 31449.45,
+      "porcentagem_do_total": 21.09
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 49120.93,
+      "porcentagem_do_total": 32.93
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": -1667.96,
+      "porcentagem_do_total": -1.12
+    }
+  ]
+}

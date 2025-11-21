@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEL COLOMBO",
+      "cnpj": "10199055000126",
+      "total_recebido": 1245.0,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 235.0,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-06-30T00:00:00",
+    "periodo_fim": "2024-06-30T00:00:00",
+    "generatedAt": "2025-11-11T21:37:55.292484"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 235.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 235.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 235.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "codDocumento": 7768081,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-06-30T00:00:00",
+      "numDocumento": "24789",
+      "valorDocumento": 235.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7768081.pdf",
+      "nomeFornecedor": "HOTEL COLOMBO",
+      "cnpjCpfFornecedor": "10199055000126",
+      "valorLiquido": 235.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2056574,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

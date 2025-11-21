@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Paulo Andreis e Cia Ltda",
+      "cnpj": "08455945000100",
+      "total_recebido": 1270.72,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 781.47,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-03-17T00:00:00",
+    "periodo_fim": "2023-12-15T00:00:00",
+    "generatedAt": "2025-11-11T21:37:54.197482"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 781.47,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 781.47,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 172.33,
+      "porcentagem_do_total": 22.05
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 416.95,
+      "porcentagem_do_total": 53.35
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 192.19,
+      "porcentagem_do_total": 24.59
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7516257,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-03-17T00:00:00",
+      "numDocumento": "201838",
+      "valorDocumento": 172.33,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7516257",
+      "nomeFornecedor": "Paulo Andreis e Cia Ltda",
+      "cnpjCpfFornecedor": "08455945000100",
+      "valorLiquido": 172.33,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1918714,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7637825,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-11-03T00:00:00",
+      "numDocumento": "219870",
+      "valorDocumento": 243.36,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7637825",
+      "nomeFornecedor": "Paulo Andreis e Cia Ltda",
+      "cnpjCpfFornecedor": "08455945000100",
+      "valorLiquido": 243.36,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1984625,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7652730,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-11-30T00:00:00",
+      "numDocumento": "222062",
+      "valorDocumento": 173.59,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7652730",
+      "nomeFornecedor": "Paulo Andreis e Cia Ltda",
+      "cnpjCpfFornecedor": "08455945000100",
+      "valorLiquido": 173.59,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1993030,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7662920,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-12-15T00:00:00",
+      "numDocumento": "223220",
+      "valorDocumento": 192.19,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7662920",
+      "nomeFornecedor": "Paulo Andreis e Cia Ltda",
+      "cnpjCpfFornecedor": "08455945000100",
+      "valorLiquido": 192.19,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1999167,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

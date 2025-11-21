@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+      "cnpj": "33469172001644",
+      "total_recebido": 663.8700000000001,
+      "numero_transacoes": 9,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 352.13,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-04-17T00:00:00",
+    "periodo_fim": "2024-12-18T00:00:00",
+    "generatedAt": "2025-11-11T21:38:03.614015"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 352.13,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 352.13,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 90.59,
+      "porcentagem_do_total": 25.73
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 82.73,
+      "porcentagem_do_total": 23.49
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 90.59,
+      "porcentagem_do_total": 25.73
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 88.22,
+      "porcentagem_do_total": 25.05
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 4,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7720881,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-04-17T00:00:00",
+      "numDocumento": "26136",
+      "valorDocumento": 90.59,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7720881",
+      "nomeFornecedor": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+      "cnpjCpfFornecedor": "33469172001644",
+      "valorLiquido": 90.59,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2031401,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7738863,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-05-21T00:00:00",
+      "numDocumento": "26547",
+      "valorDocumento": 82.73,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7738863",
+      "nomeFornecedor": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+      "cnpjCpfFornecedor": "33469172001644",
+      "valorLiquido": 82.73,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2041210,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7764608,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-07-03T00:00:00",
+      "numDocumento": "27001",
+      "valorDocumento": 90.59,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7764608",
+      "nomeFornecedor": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+      "cnpjCpfFornecedor": "33469172001644",
+      "valorLiquido": 90.59,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2055043,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7849101,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-12-18T00:00:00",
+      "numDocumento": "53184",
+      "valorDocumento": 88.22,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7849101",
+      "nomeFornecedor": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
+      "cnpjCpfFornecedor": "33469172001644",
+      "valorLiquido": 88.22,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2099166,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

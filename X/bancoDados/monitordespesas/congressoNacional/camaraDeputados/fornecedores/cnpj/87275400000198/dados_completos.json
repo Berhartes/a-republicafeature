@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEL PRADENSE",
+      "cnpj": "87275400000198",
+      "total_recebido": 642.0,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:11.091493"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 642.0
+  },
+  "anos": {
+    "2023": {
+      "total": 291.0,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 351.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "136811": {
+      "deputado": {
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
+      },
+      "total": 642.0,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7591789,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-11T00:00:00",
+          "numDocumento": "00000008262",
+          "valorDocumento": 183.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2023/7591789.pdf",
+          "nomeFornecedor": "HOTEL PRADENSE",
+          "cnpjCpfFornecedor": "87275400000198",
+          "valorLiquido": 183.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7591793,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-11T00:00:00",
+          "numDocumento": "00000008263",
+          "valorDocumento": 108.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2023/7591793.pdf",
+          "nomeFornecedor": "HOTEL PRADENSE",
+          "cnpjCpfFornecedor": "87275400000198",
+          "valorLiquido": 108.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7800860,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-06T00:00:00",
+          "numDocumento": "00000012672",
+          "valorDocumento": 118.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2024/7800860.pdf",
+          "nomeFornecedor": "HOTEL PRADENSE",
+          "cnpjCpfFornecedor": "87275400000198",
+          "valorLiquido": 118.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7800881,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-06T00:00:00",
+          "numDocumento": "00000012673",
+          "valorDocumento": 115.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2024/7800881.pdf",
+          "nomeFornecedor": "HOTEL PRADENSE",
+          "cnpjCpfFornecedor": "87275400000198",
+          "valorLiquido": 115.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7800897,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-06T00:00:00",
+          "numDocumento": "00000012674",
+          "valorDocumento": 118.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2024/7800897.pdf",
+          "nomeFornecedor": "HOTEL PRADENSE",
+          "cnpjCpfFornecedor": "87275400000198",
+          "valorLiquido": 118.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

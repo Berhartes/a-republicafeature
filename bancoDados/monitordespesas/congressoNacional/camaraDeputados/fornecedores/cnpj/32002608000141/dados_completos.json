@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.354017"
+    "generatedAt": "2025-11-11T05:22:12.963902"
   },
   "categorias": {
     "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 2500.0
@@ -25,6 +25,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -35,25 +36,6 @@
       "total": 2500.0,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 5,
-          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7730737,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-05-07T00:00:00",
-          "numDocumento": "25",
-          "valorDocumento": 1000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2024/7730737.pdf",
-          "nomeFornecedor": "ryan lopez queiroz",
-          "cnpjCpfFornecedor": "32002608000141",
-          "valorLiquido": 1000.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 1,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "ryan lopez queiroz",
           "cnpjCpfFornecedor": "32002608000141",
           "valorLiquido": 1500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7730737,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-07T00:00:00",
+          "numDocumento": "25",
+          "valorDocumento": 1000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2024/7730737.pdf",
+          "nomeFornecedor": "ryan lopez queiroz",
+          "cnpjCpfFornecedor": "32002608000141",
+          "valorLiquido": 1000.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

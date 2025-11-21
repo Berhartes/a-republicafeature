@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "AGUAS CUIABA S.A",
+    "cnpj": "14995581000153",
+    "total_recebido": 603.3499999999999,
+    "numero_transacoes": 10,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 134.6,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 134.6,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 134.6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 67.3,
+      "porcentagem_do_total": 50.0
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 67.3,
+      "porcentagem_do_total": 50.0
+    }
+  ]
+}

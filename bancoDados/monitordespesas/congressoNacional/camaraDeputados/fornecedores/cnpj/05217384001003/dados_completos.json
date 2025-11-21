@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:03.578939"
+    "generatedAt": "2025-11-11T05:22:11.293488"
   },
   "categorias": {
     "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 3985.4
@@ -25,6 +25,7 @@
         "id": 204528,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204528",
         "nome": "Adriana Ventura",
+        "nomeEleitoral": "Adriana Ventura",
         "siglaPartido": "NOVO",
         "uriPartido": "",
         "siglaUf": "SP",
@@ -39,25 +40,6 @@
           "ano": 2024,
           "mes": 12,
           "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7850127,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-12-19T00:00:00",
-          "numDocumento": "35012",
-          "valorDocumento": 1474.4,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2024/7850127.pdf",
-          "nomeFornecedor": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP FUSION",
-          "cnpjCpfFornecedor": "05217384001003",
-          "valorLiquido": 1474.4,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 12,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
           "codDocumento": 7850121,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP FUSION",
           "cnpjCpfFornecedor": "05217384001003",
           "valorLiquido": 2511.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7850127,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-19T00:00:00",
+          "numDocumento": "35012",
+          "valorDocumento": 1474.4,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2024/7850127.pdf",
+          "nomeFornecedor": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP FUSION",
+          "cnpjCpfFornecedor": "05217384001003",
+          "valorLiquido": 1474.4,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

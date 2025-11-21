@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SEVERINO ALMEIDA CHAVES POSTO CEARA 1",
+      "cnpj": "09411539000108",
+      "total_recebido": 736.06,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:15.858164"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 736.06
+  },
+  "anos": {
+    "2024": {
+      "total": 736.06,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204549": {
+      "deputado": {
+        "id": 204549,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204549",
+        "nome": "AJ Albuquerque",
+        "nomeEleitoral": "AJ Albuquerque",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204549.jpg",
+        "email": "dep.ajalbuquerque@camara.leg.br"
+      },
+      "total": 736.06,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7764173,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-01T00:00:00",
+          "numDocumento": "094983",
+          "valorDocumento": 220.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2024/7764173.pdf",
+          "nomeFornecedor": "SEVERINO ALMEIDA CHAVES POSTO CEARA 1",
+          "cnpjCpfFornecedor": "09411539000108",
+          "valorLiquido": 220.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7776120,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-28T00:00:00",
+          "numDocumento": "122198",
+          "valorDocumento": 221.03,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2024/7776120.pdf",
+          "nomeFornecedor": "SEVERINO ALMEIDA CHAVES POSTO CEARA 1",
+          "cnpjCpfFornecedor": "09411539000108",
+          "valorLiquido": 221.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7776125,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-28T00:00:00",
+          "numDocumento": "122194",
+          "valorDocumento": 295.03,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2024/7776125.pdf",
+          "nomeFornecedor": "SEVERINO ALMEIDA CHAVES POSTO CEARA 1",
+          "cnpjCpfFornecedor": "09411539000108",
+          "valorLiquido": 295.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

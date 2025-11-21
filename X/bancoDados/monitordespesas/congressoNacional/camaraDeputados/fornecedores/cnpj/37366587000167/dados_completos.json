@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIO DE COMBUSTIVEIS PETROSOJA II LTDA",
+      "cnpj": "37366587000167",
+      "total_recebido": 400.04,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:31.080318"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 400.04
+  },
+  "anos": {
+    "2024": {
+      "total": 400.04,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178881": {
+      "deputado": {
+        "id": 178881,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178881",
+        "nome": "Aluisio Mendes",
+        "nomeEleitoral": "Aluisio Mendes",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
+        "email": "dep.aluisiomendes@camara.leg.br"
+      },
+      "total": 400.04,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7817641,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-31T17:13:23",
+          "numDocumento": "189604",
+          "valorDocumento": 400.04,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7817641",
+          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS PETROSOJA II LTDA",
+          "cnpjCpfFornecedor": "37366587000167",
+          "valorLiquido": 400.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

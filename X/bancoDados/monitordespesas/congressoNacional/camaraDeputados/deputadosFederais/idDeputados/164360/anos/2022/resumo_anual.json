@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 164360,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164360",
+      "nome": "Carmen Zanotto",
+      "siglaPartido": "CIDADANIA",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+      "siglaUf": "SC",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/164360.jpg",
+      "email": null
+    },
+    "ano": 2022,
+    "total_despesas": 1200.0,
+    "quantidade_transacoes": 1,
+    "quantidade_categorias": 1,
+    "quantidade_fornecedores": 1,
+    "periodo_inicio": "2023-02-07T00:00:00",
+    "periodo_fim": "2023-02-07T00:00:00",
+    "generatedAt": "2025-11-10T22:25:36.496999"
+  },
+  "resumo_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 1200.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_fornecedores": [
+    {
+      "nome": "BEM CAMPEIRO - EDITORA E PUBLICIDADES LTDA",
+      "cnpj": "11817617000110",
+      "total": 1200.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 1200.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2022,
+      "mes": 12,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7495596,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-07T00:00:00",
+      "numDocumento": "2613",
+      "valorDocumento": 1200.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2433/2023/7495596.pdf",
+      "nomeFornecedor": "BEM CAMPEIRO - EDITORA E PUBLICIDADES LTDA",
+      "cnpjCpfFornecedor": "11817617000110",
+      "valorLiquido": 1200.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1907237,
+      "parcela": 0
+    }
+  ]
+}

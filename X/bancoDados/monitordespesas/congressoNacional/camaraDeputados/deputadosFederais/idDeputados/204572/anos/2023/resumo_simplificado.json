@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 204572,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204572",
+    "nome": "Capitão Alberto Neto",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "AM",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
+    "email": "dep.capitaoalbertoneto@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 403635.16,
+  "quantidade_transacoes": 245,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 146630.15,
+      "quantidade_transacoes": 129,
+      "porcentagem_do_total": 36.33
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 120114.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 29.76
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 57500.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 14.25
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 52225.95,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 12.94
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 13659.19,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 3.38
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 118740.85,
+      "quantidade_transacoes": 105,
+      "porcentagem_do_total": 29.42
+    },
+    {
+      "nome": "JAMES SANTOS DE SOUZA E CIA LTDA",
+      "cnpj": "28274545000105",
+      "total": 57500.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 14.25
+    },
+    {
+      "nome": "MARIA DO SOCORRO GAMA DA SILVA",
+      "cnpj": "33698627272",
+      "total": 51000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 12.64
+    },
+    {
+      "nome": "DCASTRO COMUNICAÇÃO E MARKETING LTDA",
+      "cnpj": "11642489000111",
+      "total": 49000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 12.14
+    },
+    {
+      "nome": "EMA Serviços Técnicos de Comunicações e Informática Eireli",
+      "cnpj": "17365002000187",
+      "total": 47629.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 11.8
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 26075.18,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 6.46
+    },
+    {
+      "nome": "E M A SERVICOS TECNICOS DE COMUNICACAO E INFORMATICA LTDA",
+      "cnpj": "17365002000187",
+      "total": 13985.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.46
+    },
+    {
+      "nome": "ELDORADO COMUNICACAO E JORNALISMO LTDA",
+      "cnpj": "37894749000130",
+      "total": 7500.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.86
+    },
+    {
+      "nome": "Telefônica Brasil S.A. VIVO",
+      "cnpj": "02558157000162",
+      "total": 5045.21,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.25
+    },
+    {
+      "nome": "TELEFÔNICA BRASIL S.A",
+      "cnpj": "02558157000162",
+      "total": 4612.49,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.14
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 44369.52,
+      "porcentagem_do_total": 10.99
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 40003.73,
+      "porcentagem_do_total": 9.91
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 16578.38,
+      "porcentagem_do_total": 4.11
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 33813.66,
+      "porcentagem_do_total": 8.38
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 30773.6,
+      "porcentagem_do_total": 7.62
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 15960.71,
+      "porcentagem_do_total": 3.95
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 35659.94,
+      "porcentagem_do_total": 8.83
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 26269.08,
+      "porcentagem_do_total": 6.51
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 54397.82,
+      "porcentagem_do_total": 13.48
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 54578.38,
+      "porcentagem_do_total": 13.52
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 51230.34,
+      "porcentagem_do_total": 12.69
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO REINA SOFHIA LTDA",
+    "cnpj": "13935266000178",
+    "total_recebido": 165.55,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 165.55,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 165.55,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 165.55,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 165.55,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Posto Alfa",
+      "cnpj": "35157269000160",
+      "total_recebido": 2070.24,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:15.691174"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 2070.24
+  },
+  "anos": {
+    "2023": {
+      "total": 1014.78,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 1055.46,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204549": {
+      "deputado": {
+        "id": 204549,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204549",
+        "nome": "AJ Albuquerque",
+        "nomeEleitoral": "AJ Albuquerque",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204549.jpg",
+        "email": "dep.ajalbuquerque@camara.leg.br"
+      },
+      "total": 2070.24,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7569923,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-03T00:00:00",
+          "numDocumento": "273158",
+          "valorDocumento": 334.77,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2023/7569923.pdf",
+          "nomeFornecedor": "Posto Alfa",
+          "cnpjCpfFornecedor": "35157269000160",
+          "valorLiquido": 334.77,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7598409,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-25T00:00:00",
+          "numDocumento": "294643",
+          "valorDocumento": 300.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2023/7598409.pdf",
+          "nomeFornecedor": "Posto Alfa",
+          "cnpjCpfFornecedor": "35157269000160",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7598414,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-25T00:00:00",
+          "numDocumento": "294644",
+          "valorDocumento": 380.01,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2023/7598414.pdf",
+          "nomeFornecedor": "Posto Alfa",
+          "cnpjCpfFornecedor": "35157269000160",
+          "valorLiquido": 380.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7696916,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-23T00:00:00",
+          "numDocumento": "095693",
+          "valorDocumento": 264.99,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2024/7696916.pdf",
+          "nomeFornecedor": "Posto Alfa",
+          "cnpjCpfFornecedor": "35157269000160",
+          "valorLiquido": 264.99,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7766436,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-08T00:00:00",
+          "numDocumento": "149260",
+          "valorDocumento": 133.91,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2024/7766436.pdf",
+          "nomeFornecedor": "Posto Alfa",
+          "cnpjCpfFornecedor": "35157269000160",
+          "valorLiquido": 133.91,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7776113,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-15T00:00:00",
+          "numDocumento": "152789",
+          "valorDocumento": 361.55,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2024/7776113.pdf",
+          "nomeFornecedor": "Posto Alfa",
+          "cnpjCpfFornecedor": "35157269000160",
+          "valorLiquido": 361.55,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7805168,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-13T00:00:00",
+          "numDocumento": "183201",
+          "valorDocumento": 295.01,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2024/7805168.pdf",
+          "nomeFornecedor": "Posto Alfa",
+          "cnpjCpfFornecedor": "35157269000160",
+          "valorLiquido": 295.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

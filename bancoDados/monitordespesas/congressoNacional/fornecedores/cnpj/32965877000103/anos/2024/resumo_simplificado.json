@@ -1,0 +1,49 @@
+{
+  "fornecedor": {
+    "nome": "POSTO DE COMBUSTIVEL QI 09 LAGO SUL LTDA",
+    "cnpj": "32965877000103",
+    "total_recebido": 1156.52,
+    "numero_transacoes": 4,
+    "numero_deputados": 2
+  },
+  "ano": 2024,
+  "total_recebido": 656.52,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 341.53,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 52.02
+    },
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 314.99,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 47.98
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 656.52,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 314.99,
+      "porcentagem_do_total": 47.98
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 341.53,
+      "porcentagem_do_total": 52.02
+    }
+  ]
+}

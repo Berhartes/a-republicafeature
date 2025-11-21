@@ -1,13 +1,13 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "AUTO POSTO CURUA UNA",
+      "nome": "AUTO POSTO CURUÁ",
       "cnpj": "06214562000114",
       "total_recebido": 580.01,
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:30.471551"
+    "generatedAt": "2025-11-11T05:22:22.369397"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 580.01
@@ -25,6 +25,7 @@
         "id": 204495,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204495",
         "nome": "Airton Faleiro",
+        "nomeEleitoral": "Airton Faleiro",
         "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "PA",
@@ -35,25 +36,6 @@
       "total": 580.01,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 10,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7819385,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-10-12T10:44:58",
-          "numDocumento": "144248",
-          "valorDocumento": 210.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7819385",
-          "nomeFornecedor": "AUTO POSTO CURUA UNA",
-          "cnpjCpfFornecedor": "06214562000114",
-          "valorLiquido": 210.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 3,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "AUTO POSTO CURUÁ",
           "cnpjCpfFornecedor": "06214562000114",
           "valorLiquido": 370.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7819385,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-12T10:44:58",
+          "numDocumento": "144248",
+          "valorDocumento": 210.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7819385",
+          "nomeFornecedor": "AUTO POSTO CURUA UNA",
+          "cnpjCpfFornecedor": "06214562000114",
+          "valorLiquido": 210.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

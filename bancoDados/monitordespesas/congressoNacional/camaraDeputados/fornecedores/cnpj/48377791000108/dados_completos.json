@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.355092"
+    "generatedAt": "2025-11-11T05:22:16.275873"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 327.03999999999996
@@ -25,6 +25,7 @@
         "id": 136811,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
         "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -39,25 +40,6 @@
           "ano": 2023,
           "mes": 4,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7529899,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-04-17T00:00:00",
-          "numDocumento": "75720",
-          "valorDocumento": 139.5,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7529899",
-          "nomeFornecedor": "ABASTECEDORA DE COMBUSTIVEIS SANTOS FERREIRA LTDA",
-          "cnpjCpfFornecedor": "48377791000108",
-          "valorLiquido": 139.5,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 4,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7529689,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "ABASTECEDORA DE COMBUSTIVEIS SANTOS FERREIRA LTDA",
           "cnpjCpfFornecedor": "48377791000108",
           "valorLiquido": 187.54,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7529899,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-17T00:00:00",
+          "numDocumento": "75720",
+          "valorDocumento": 139.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7529899",
+          "nomeFornecedor": "ABASTECEDORA DE COMBUSTIVEIS SANTOS FERREIRA LTDA",
+          "cnpjCpfFornecedor": "48377791000108",
+          "valorLiquido": 139.5,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

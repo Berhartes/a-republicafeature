@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO QNO LTDA",
+      "cnpj": "33714876000159",
+      "total_recebido": 1224.89,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 265.98,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-07-06T00:00:00",
+    "periodo_fim": "2023-07-06T00:00:00",
+    "generatedAt": "2025-11-11T21:38:06.145009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 265.98,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 265.98,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 265.98,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7587234,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-07-06T00:00:00",
+      "numDocumento": "233404",
+      "valorDocumento": 265.98,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7587234",
+      "nomeFornecedor": "AUTO POSTO QNO LTDA",
+      "cnpjCpfFornecedor": "33714876000159",
+      "valorLiquido": 265.98,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1957624,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    }
+  ]
+}

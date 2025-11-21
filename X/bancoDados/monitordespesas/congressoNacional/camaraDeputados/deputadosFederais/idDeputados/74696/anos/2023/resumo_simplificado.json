@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 74696,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74696",
+    "nome": "Alberto Mourão",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74696.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 448557.4,
+  "quantidade_transacoes": 141,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 383111.71,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 85.41
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 43497.16,
+      "quantidade_transacoes": 79,
+      "porcentagem_do_total": 9.7
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 12400.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 2.76
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 3792.4,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 0.85
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 3000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.67
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "G. Ursini Publicidade LTDA",
+      "cnpj": "52005427000186",
+      "total": 180000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 40.13
+    },
+    {
+      "nome": "Prime Service Eireli",
+      "cnpj": "29626284000108",
+      "total": 90000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 20.06
+    },
+    {
+      "nome": "PRIMME SERVICES LTDA",
+      "cnpj": "29626284000108",
+      "total": 60000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 13.38
+    },
+    {
+      "nome": "MENTE MESTRA SOLUÇÕES EM MARKETING LTDA",
+      "cnpj": "26349817000163",
+      "total": 41870.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 9.33
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 21296.54,
+      "quantidade_transacoes": 52,
+      "porcentagem_do_total": 4.75
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 15910.96,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 3.55
+    },
+    {
+      "nome": "Facebook Serviços Online do Brasil",
+      "cnpj": "13347016000117",
+      "total": 11241.71,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.51
+    },
+    {
+      "nome": "AUTO POSTO DI MONACO LTDA",
+      "cnpj": "71090153000115",
+      "total": 7350.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.64
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 6289.66,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 1.4
+    },
+    {
+      "nome": "AUTO POSTO PRAIA DO FORTE",
+      "cnpj": "67260315000149",
+      "total": 5050.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.13
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 16515.87,
+      "porcentagem_do_total": 3.68
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 23624.64,
+      "porcentagem_do_total": 5.27
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 24840.88,
+      "porcentagem_do_total": 5.54
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 39225.56,
+      "porcentagem_do_total": 8.74
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 3748.92,
+      "porcentagem_do_total": 0.84
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 20311.92,
+      "porcentagem_do_total": 4.53
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 49155.01,
+      "porcentagem_do_total": 10.96
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 47707.5,
+      "porcentagem_do_total": 10.64
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 49114.57,
+      "porcentagem_do_total": 10.95
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 102252.98,
+      "porcentagem_do_total": 22.8
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 72059.55,
+      "porcentagem_do_total": 16.06
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "POSTO FEDERAL COM DERIVADOS PETROLEO LT",
+    "cnpj": "55955843000133",
+    "total_recebido": 292.69,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 292.69,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 292.69,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 292.69,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 292.69,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

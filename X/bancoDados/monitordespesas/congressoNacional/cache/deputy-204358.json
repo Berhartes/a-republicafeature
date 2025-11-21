@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T17:45:22Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "deputados.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "deputadoId": "204358"
+  },
+  "data": {
+    "id": "204358",
+    "nome": "Beto Pereira",
+    "nomeEleitoral": "Beto Pereira",
+    "nomeCivil": null,
+    "partido": "PSDB",
+    "siglaPartido": "PSDB",
+    "uf": "MS",
+    "siglaUf": "MS",
+    "urlFoto": null,
+    "totalDespesas": 1560680.2599999995,
+    "numeroDespesas": 716,
+    "fornecedoresIdentificados": 33,
+    "createdAt": "2025-11-01T17:45:19Z",
+    "gastosPorAno": {},
+    "transacoesPorAno": {},
+    "topCategorias": [],
+    "topFornecedores": [],
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "temDetalhes": false
+  }
+}

@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:33.239530"
+    "generatedAt": "2025-11-11T05:22:23.492587"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 1000.0799999999999
@@ -30,6 +30,7 @@
         "id": 204549,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204549",
         "nome": "AJ Albuquerque",
+        "nomeEleitoral": "AJ Albuquerque",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "CE",
@@ -40,25 +41,6 @@
       "total": 1000.0799999999999,
       "transacoes": 3,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7810293,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-09-27T00:00:00",
-          "numDocumento": "032583",
-          "valorDocumento": 300.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2024/7810293.pdf",
-          "nomeFornecedor": "M S PETRÓLEO LTDA",
-          "cnpjCpfFornecedor": "02487286000107",
-          "valorLiquido": 300.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 6,
@@ -73,6 +55,25 @@
           "nomeFornecedor": "M S PETRÓLEO LTDA",
           "cnpjCpfFornecedor": "02487286000107",
           "valorLiquido": 300.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7810293,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-27T00:00:00",
+          "numDocumento": "032583",
+          "valorDocumento": 300.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2024/7810293.pdf",
+          "nomeFornecedor": "M S PETRÓLEO LTDA",
+          "cnpjCpfFornecedor": "02487286000107",
+          "valorLiquido": 300.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

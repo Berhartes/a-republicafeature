@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO GIGANTAO DE MARILIA LT",
+      "cnpj": "56145469000173",
+      "total_recebido": 415.49,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 125.0,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-02-04T00:00:00",
+    "periodo_fim": "2024-02-04T00:00:00",
+    "generatedAt": "2025-11-11T21:38:04.535012"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 125.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 125.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 125.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7685548,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-02-04T00:00:00",
+      "numDocumento": "137445",
+      "valorDocumento": 125.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7685548.pdf",
+      "nomeFornecedor": "AUTO POSTO GIGANTAO DE MARILIA LT",
+      "cnpjCpfFornecedor": "56145469000173",
+      "valorLiquido": 125.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2012309,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

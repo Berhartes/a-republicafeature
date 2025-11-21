@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 123086,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/123086",
+    "nome": "Átila Lira",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "PI",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/123086.jpg",
+    "email": "dep.atilamlira@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 498567.79,
+  "quantidade_transacoes": 249,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 127000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 25.47
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 84999.6,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 17.05
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 80724.95,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 16.19
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 70512.93,
+      "quantidade_transacoes": 101,
+      "porcentagem_do_total": 14.14
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 65000.0,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 13.04
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CAPITAL SERVIÇOS LTDA",
+      "cnpj": "11208910000180",
+      "total": 101600.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 20.38
+    },
+    {
+      "nome": "A4 VIGILANCIA E SEGURANCA PATRIMONIAL EIRELI - EPP",
+      "cnpj": "14585324000143",
+      "total": 84999.6,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 17.05
+    },
+    {
+      "nome": "POSTO HOMERO CASTELO BRANCO LTDA",
+      "cnpj": "08596605000107",
+      "total": 56680.8,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 11.37
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 52591.47,
+      "quantidade_transacoes": 83,
+      "porcentagem_do_total": 10.55
+    },
+    {
+      "nome": "F ANDRADE DA SILVA EIRELI",
+      "cnpj": "34907108000184",
+      "total": 33000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 6.62
+    },
+    {
+      "nome": "ANTONIETA  LIRA E SILVA",
+      "cnpj": "57932450306",
+      "total": 31088.2,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 6.24
+    },
+    {
+      "nome": "VERBO COMUNICAÇÃO",
+      "cnpj": "21689399000130",
+      "total": 28800.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 5.78
+    },
+    {
+      "nome": "CAPITAL SERVICOS LTDA",
+      "cnpj": "11208910000180",
+      "total": 25400.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 5.09
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 15206.68,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 3.05
+    },
+    {
+      "nome": "DR COMBUSTIVEIS PARA AVIACAO LTDA",
+      "cnpj": "31031766000167",
+      "total": 13862.8,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.78
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 46283.15,
+      "porcentagem_do_total": 9.28
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 45636.14,
+      "porcentagem_do_total": 9.15
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 46106.49,
+      "porcentagem_do_total": 9.25
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 47068.85,
+      "porcentagem_do_total": 9.44
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 52437.46,
+      "porcentagem_do_total": 10.52
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 43950.31,
+      "porcentagem_do_total": 8.82
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 48519.78,
+      "porcentagem_do_total": 9.73
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 49137.81,
+      "porcentagem_do_total": 9.86
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 52623.97,
+      "porcentagem_do_total": 10.56
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 33204.42,
+      "porcentagem_do_total": 6.66
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 33599.41,
+      "porcentagem_do_total": 6.74
+    }
+  ]
+}

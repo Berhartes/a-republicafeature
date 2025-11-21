@@ -1,0 +1,158 @@
+{
+  "deputado": {
+    "id": 220614,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220614",
+    "nome": "Dr. Daniel Soranz",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220614.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 181055.68,
+  "quantidade_transacoes": 149,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 83769.13,
+      "quantidade_transacoes": 87,
+      "porcentagem_do_total": 46.27
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 70593.63,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 38.99
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 18549.87,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 10.25
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 3859.05,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 2.13
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 3090.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.71
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 46992.43,
+      "quantidade_transacoes": 49,
+      "porcentagem_do_total": 25.95
+    },
+    {
+      "nome": "AH GRAFICA E BRINDES LTDA",
+      "cnpj": "41001456000153",
+      "total": 45780.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 25.29
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 26668.65,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 14.73
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 10108.05,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 5.58
+    },
+    {
+      "nome": "Facebook Serviços Online do Brasil",
+      "cnpj": "13347016000117",
+      "total": 7733.63,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.27
+    },
+    {
+      "nome": "MUNICIPIO DE RIO DE JANEIRO",
+      "cnpj": "42498733000148",
+      "total": 7650.18,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.23
+    },
+    {
+      "nome": "LUIZ CARLOS DA SILVA 90780965787",
+      "cnpj": "18295288000134",
+      "total": 7240.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.0
+    },
+    {
+      "nome": "CONDOMÍNIO DO EDIFÍCIO DARKE",
+      "cnpj": "29409760000139",
+      "total": 6908.64,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 3.82
+    },
+    {
+      "nome": "Neurodesign Editoração Eletronica LTDA",
+      "cnpj": "15102124000155",
+      "total": 4840.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.67
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 3090.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.71
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 34891.48,
+      "porcentagem_do_total": 19.27
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 29756.58,
+      "porcentagem_do_total": 16.44
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 14645.33,
+      "porcentagem_do_total": 8.09
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 24644.87,
+      "porcentagem_do_total": 13.61
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 72992.12,
+      "porcentagem_do_total": 40.31
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 4125.3,
+      "porcentagem_do_total": 2.28
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO SETE MILHAS LTDA",
+      "cnpj": "33611070000135",
+      "total_recebido": 168.03,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:54.428481"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 168.03
+  },
+  "anos": {
+    "2023": {
+      "total": 168.03,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 168.03,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7613160,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-09-23T00:00:00",
+          "numDocumento": "53539",
+          "valorDocumento": 168.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7613160",
+          "nomeFornecedor": "POSTO SETE MILHAS LTDA",
+          "cnpjCpfFornecedor": "33611070000135",
+          "valorLiquido": 168.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1970820,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

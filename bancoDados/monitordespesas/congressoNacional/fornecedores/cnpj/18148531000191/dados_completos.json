@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIO DE COMBUSTIVEIS CARMELITANO LTDA",
+      "cnpj": "18148531000191",
+      "total_recebido": 90.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:53.576485"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 90.0
+  },
+  "anos": {
+    "2023": {
+      "total": 90.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 90.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7621361,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-27T00:00:00",
+          "numDocumento": "148067",
+          "valorDocumento": 90.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7621361.pdf",
+          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS CARMELITANO LTDA",
+          "cnpjCpfFornecedor": "18148531000191",
+          "valorLiquido": 90.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1975863,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

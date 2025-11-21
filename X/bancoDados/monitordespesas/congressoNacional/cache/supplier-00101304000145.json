@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:12:08Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00101304000145"
+  },
+  "data": {
+    "cnpj": "00101304000145",
+    "nome": "DIVISA AUTO POSTO LTDA",
+    "nomeFornecedor": "DIVISA AUTO POSTO LTDA",
+    "totalTransacionado": 269.26,
+    "totalRecebido": 269.26,
+    "totalRecebidoTodos": 269.26,
+    "transacoes": 2,
+    "numeroTransacoes": 2,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [
+      {
+        "id": "220548",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 269.26,
+        "transacoes": 2
+      }
+    ],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 269.26,
+        "quantidade": 2
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 269.26,
+        "quantidade": 2
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2025": {
+        "valor": 269.26,
+        "transacoes": 2,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 204.23,
+        "ano": 2025,
+        "mes": 6,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "642236",
+        "dataDocumento": "2025-06-13T00:00:00",
+        "deputadoId": "220548",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 65.03,
+        "ano": 2025,
+        "mes": 6,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "642660",
+        "dataDocumento": "2025-06-13T00:00:00",
+        "deputadoId": "220548",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 204.23,
+        "valorLiquido": 204.23,
+        "valorDocumento": 204.23,
+        "ano": 2025,
+        "mes": 6,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2025-06-13T00:00:00",
+        "data": "2025-06-13T00:00:00",
+        "numDocumento": "642236",
+        "codDocumento": 7932680,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7932680",
+        "deputadoId": "220548",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "DIVISA AUTO POSTO LTDA",
+        "cnpj": "00101304000145",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7932680"
+      },
+      {
+        "valor": 65.03,
+        "valorLiquido": 65.03,
+        "valorDocumento": 65.03,
+        "ano": 2025,
+        "mes": 6,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2025-06-13T00:00:00",
+        "data": "2025-06-13T00:00:00",
+        "numDocumento": "642660",
+        "codDocumento": 7935415,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7935415",
+        "deputadoId": "220548",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "DIVISA AUTO POSTO LTDA",
+        "cnpj": "00101304000145",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7935415"
+      }
+    ],
+    "totalTransacoesDetalhadas": 2,
+    "aliases": [
+      "00101304000145"
+    ],
+    "temDetalhes": true
+  }
+}

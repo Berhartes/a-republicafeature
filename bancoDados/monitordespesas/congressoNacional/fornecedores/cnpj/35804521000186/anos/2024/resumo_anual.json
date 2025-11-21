@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO SANTO EXPEDITO LTDA",
+      "cnpj": "35804521000186",
+      "total_recebido": 613.24,
+      "numero_transacoes": 2,
+      "numero_deputados": 2
+    },
+    "ano": 2024,
+    "total_recebido": 245.15,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-05-17T00:00:00",
+    "periodo_fim": "2024-05-17T00:00:00",
+    "generatedAt": "2025-11-11T21:37:59.242007"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 245.15,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 245.15,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 245.15,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7749844,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-05-17T00:00:00",
+      "numDocumento": "250017",
+      "valorDocumento": 245.15,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7749844.pdf",
+      "nomeFornecedor": "POSTO SANTO EXPEDITO LTDA",
+      "cnpjCpfFornecedor": "35804521000186",
+      "valorLiquido": 245.15,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2047073,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

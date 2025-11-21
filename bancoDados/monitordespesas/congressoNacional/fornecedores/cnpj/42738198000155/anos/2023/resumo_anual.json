@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PAOLA DE ARRUDA FURTADO 03844866140",
+      "cnpj": "42738198000155",
+      "total_recebido": 37200.0,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 27200.0,
+    "quantidade_transacoes": 5,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-02-25T00:00:00",
+    "periodo_fim": "2023-12-29T00:00:00",
+    "generatedAt": "2025-11-11T21:37:54.910484"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 27200.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 27200.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 1500.0,
+      "porcentagem_do_total": 5.51
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 2800.0,
+      "porcentagem_do_total": 10.29
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 3700.0,
+      "porcentagem_do_total": 13.6
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 19200.0,
+      "porcentagem_do_total": 70.59
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7507547,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-25T00:00:00",
+      "numDocumento": "16",
+      "valorDocumento": 1500.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7507547.pdf",
+      "nomeFornecedor": "PAOLA DE ARRUDA FURTADO 03844866140",
+      "cnpjCpfFornecedor": "42738198000155",
+      "valorLiquido": 1500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1913628,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7563412,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-06-16T00:00:00",
+      "numDocumento": "22",
+      "valorDocumento": 2800.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7563412.pdf",
+      "nomeFornecedor": "PAOLA DE ARRUDA FURTADO 03844866140 RG FILMS",
+      "cnpjCpfFornecedor": "42738198000155",
+      "valorLiquido": 2800.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1944511,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7652792,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-11-27T00:00:00",
+      "numDocumento": "3",
+      "valorDocumento": 3700.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7652792.pdf",
+      "nomeFornecedor": "PAOLA DE ARRUDA FURTADO 03844866140 RG FILMS",
+      "cnpjCpfFornecedor": "42738198000155",
+      "valorLiquido": 3700.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1993060,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7669196,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-12-27T00:00:00",
+      "numDocumento": "42",
+      "valorDocumento": 5400.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7669196.pdf",
+      "nomeFornecedor": "PAOLA DE ARRUDA FURTADO 03844866140 RG FILMS",
+      "cnpjCpfFornecedor": "42738198000155",
+      "valorLiquido": 5400.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2002526,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7670479,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-12-29T00:00:00",
+      "numDocumento": "43",
+      "valorDocumento": 13800.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7670479.pdf",
+      "nomeFornecedor": "PAOLA DE ARRUDA FURTADO 03844866140 RG FILMS",
+      "cnpjCpfFornecedor": "42738198000155",
+      "valorLiquido": 13800.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2003224,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

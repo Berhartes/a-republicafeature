@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220611,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220611",
+    "nome": "General Pazuello",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg",
+    "email": "dep.generalpazuello@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 451498.47,
+  "quantidade_transacoes": 438,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 175900.0,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 38.96
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 122479.41,
+      "quantidade_transacoes": 135,
+      "porcentagem_do_total": 27.13
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 97277.04,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 21.55
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 37781.54,
+      "quantidade_transacoes": 181,
+      "porcentagem_do_total": 8.37
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 5789.89,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.28
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Target Comunicação e Tecnologia Ltda",
+      "cnpj": "33405550000140",
+      "total": 106000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 23.48
+    },
+    {
+      "nome": "Lokar Assessoria de Bens Imóveis Eireli",
+      "cnpj": "22946236000158",
+      "total": 73584.75,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 16.3
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 72558.92,
+      "quantidade_transacoes": 95,
+      "porcentagem_do_total": 16.07
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 39628.58,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 8.78
+    },
+    {
+      "nome": "CAG CRUZ LTDA",
+      "cnpj": "23589525000100",
+      "total": 37500.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 8.31
+    },
+    {
+      "nome": "TRANSFORMAR MARKETING DIGITAL LTDA",
+      "cnpj": "25391937000166",
+      "total": 20700.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 4.58
+    },
+    {
+      "nome": "LIGHT SERVICOS DE ELETRICIDADE S A",
+      "cnpj": "60444437000146",
+      "total": 11591.72,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 2.57
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 10291.91,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 2.28
+    },
+    {
+      "nome": "LOKAR ASSESSORIA DE LOCACAO DE BENS IMOVEIS LTDA.",
+      "cnpj": "22946236000158",
+      "total": 7229.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.6
+    },
+    {
+      "nome": "Transformar Gestão de Tráfego Ltda",
+      "cnpj": "49945493000121",
+      "total": 6900.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.53
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 12828.73,
+      "porcentagem_do_total": 2.84
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 52224.2,
+      "porcentagem_do_total": 11.57
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 52611.9,
+      "porcentagem_do_total": 11.65
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 63667.75,
+      "porcentagem_do_total": 14.1
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 49617.16,
+      "porcentagem_do_total": 10.99
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 32513.69,
+      "porcentagem_do_total": 7.2
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 42889.78,
+      "porcentagem_do_total": 9.5
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 28764.91,
+      "porcentagem_do_total": 6.37
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 35593.98,
+      "porcentagem_do_total": 7.88
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 38518.77,
+      "porcentagem_do_total": 8.53
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 42267.6,
+      "porcentagem_do_total": 9.36
+    }
+  ]
+}

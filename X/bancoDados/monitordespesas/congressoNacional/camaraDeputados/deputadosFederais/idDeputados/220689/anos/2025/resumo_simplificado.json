@@ -1,0 +1,129 @@
+{
+  "deputado": {
+    "id": 220689,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220689",
+    "nome": "Detinha",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220689.jpg",
+    "email": "dep.detinha@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 405097.09,
+  "quantidade_transacoes": 145,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 270000.0,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 66.65
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 103500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 25.55
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 31597.09,
+      "quantidade_transacoes": 118,
+      "porcentagem_do_total": 7.8
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CCA COELHO DE SOUZA EIRELI",
+      "cnpj": "19088859000122",
+      "total": 135000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "nome": "EVERSON CARLOS DO NASCIMENTO MOREIRA",
+      "cnpj": "37210133000100",
+      "total": 135000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "nome": "ML LOCAÇÕES EIRELI",
+      "cnpj": "26055997000170",
+      "total": 103500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 25.55
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 25997.37,
+      "quantidade_transacoes": 111,
+      "porcentagem_do_total": 6.42
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 5599.72,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 1.38
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 43463.88,
+      "porcentagem_do_total": 10.73
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 55287.06,
+      "porcentagem_do_total": 13.65
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 39442.67,
+      "porcentagem_do_total": 9.74
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 41492.25,
+      "porcentagem_do_total": 10.24
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 43730.16,
+      "porcentagem_do_total": 10.79
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 49076.48,
+      "porcentagem_do_total": 12.11
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 49604.59,
+      "porcentagem_do_total": 12.25
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 41500.0,
+      "porcentagem_do_total": 10.24
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 41500.0,
+      "porcentagem_do_total": 10.24
+    }
+  ]
+}

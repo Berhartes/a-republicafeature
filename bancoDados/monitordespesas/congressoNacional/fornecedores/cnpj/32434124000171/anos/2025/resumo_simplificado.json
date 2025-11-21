@@ -1,0 +1,66 @@
+{
+  "fornecedor": {
+    "nome": "NENENS CHOPP POSTO DE COMBUSTIVEIS LTDA",
+    "cnpj": "32434124000171",
+    "total_recebido": 1934.95,
+    "numero_transacoes": 8,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 1468.86,
+  "quantidade_transacoes": 6,
+  "principais_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 1468.86,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1468.86,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 246.07,
+      "porcentagem_do_total": 16.75
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 256.14,
+      "porcentagem_do_total": 17.44
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 200.0,
+      "porcentagem_do_total": 13.62
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 258.53,
+      "porcentagem_do_total": 17.6
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 255.25,
+      "porcentagem_do_total": 17.38
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 252.87,
+      "porcentagem_do_total": 17.22
+    }
+  ]
+}

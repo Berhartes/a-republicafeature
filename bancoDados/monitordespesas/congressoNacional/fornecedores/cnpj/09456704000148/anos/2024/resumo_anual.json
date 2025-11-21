@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "RODOSNACK NORTE LANCHONETE E RESTAURANTE LTDA",
+      "cnpj": "09456704000148",
+      "total_recebido": 177.5,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 132.81,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-03-01T00:00:00",
+    "periodo_fim": "2024-03-01T00:00:00",
+    "generatedAt": "2025-11-11T21:38:03.580011"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 132.81,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 132.81,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 132.81,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 3,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7722431,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-03-01T00:00:00",
+      "numDocumento": "097417",
+      "valorDocumento": 55.76,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7722431.pdf",
+      "nomeFornecedor": "RODOSNACK NORTE LANCHONETE E RESTAURANTE LTDA",
+      "cnpjCpfFornecedor": "09456704000148",
+      "valorLiquido": 55.76,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2032205,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 3,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7730827,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-03-01T00:00:00",
+      "numDocumento": "097418",
+      "valorDocumento": 77.05,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7730827.pdf",
+      "nomeFornecedor": "RODOSNACK NORTE LANCHONETE E RESTAURANTE LTDA",
+      "cnpjCpfFornecedor": "09456704000148",
+      "valorLiquido": 77.05,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2036626,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Hotel Galvan LTDA",
+      "cnpj": "31088525000154",
+      "total_recebido": 668.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-07T05:43:13.798860"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 668.0
+  },
+  "anos": {
+    "2025": {
+      "total": 668.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160559": {
+      "deputado": {
+        "id": 160559,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
+        "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
+        "email": "dep.alceumoreira@camara.leg.br"
+      },
+      "total": 668.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7941512,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-28T00:00:00",
+          "numDocumento": "10462",
+          "valorDocumento": 235.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2379/2025/7941512.pdf",
+          "nomeFornecedor": "Hotel Galvan LTDA",
+          "cnpjCpfFornecedor": "31088525000154",
+          "valorLiquido": 235.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7941521,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-28T00:00:00",
+          "numDocumento": "10461",
+          "valorDocumento": 235.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2379/2025/7941521.pdf",
+          "nomeFornecedor": "Hotel Galvan LTDA",
+          "cnpjCpfFornecedor": "31088525000154",
+          "valorLiquido": 235.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7941529,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-28T00:00:00",
+          "numDocumento": "10460",
+          "valorDocumento": 198.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2379/2025/7941529.pdf",
+          "nomeFornecedor": "Hotel Galvan LTDA",
+          "cnpjCpfFornecedor": "31088525000154",
+          "valorLiquido": 198.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

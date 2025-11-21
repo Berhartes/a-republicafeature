@@ -1,0 +1,47 @@
+{
+  "deputado": {
+    "id": 178905,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178905",
+    "nome": "Fabio Garcia",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "MT",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178905.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": -3321.64,
+  "quantidade_transacoes": 2,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": -3321.64,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": -3321.64,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": -1515.69,
+      "porcentagem_do_total": 0
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": -1805.95,
+      "porcentagem_do_total": 0
+    }
+  ]
+}

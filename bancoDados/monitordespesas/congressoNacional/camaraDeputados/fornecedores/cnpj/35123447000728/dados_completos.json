@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "POSTO MAGNOLIA LTDA",
       "cnpj": "35123447000728",
-      "total_recebido": 300.14,
+      "total_recebido": 222.06,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:45.152316"
+    "generatedAt": "2025-11-11T05:22:43.623505"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 300.14
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 222.06
   },
   "anos": {
-    "2023": {
-      "total": 300.14,
+    "2024": {
+      "total": 222.06,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "178881": {
+    "226708": {
       "deputado": {
-        "id": 178881,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178881",
-        "nome": "Aluisio Mendes",
-        "siglaPartido": "REPUBLICANOS",
+        "id": 226708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
+        "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
+        "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "MA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
-        "email": "dep.aluisiomendes@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226708.jpg",
+        "email": "dep.allangarces@camara.leg.br"
       },
-      "total": 300.14,
+      "total": 222.06,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 10,
+          "ano": 2024,
+          "mes": 5,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7630137,
+          "codDocumento": 7742807,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-10-08T00:00:00",
-          "numDocumento": "931390",
-          "valorDocumento": 300.14,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7630137",
+          "dataDocumento": "2024-05-27T18:24:44",
+          "numDocumento": "1008748",
+          "valorDocumento": 222.06,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7742807",
           "nomeFornecedor": "POSTO MAGNOLIA LTDA",
           "cnpjCpfFornecedor": "35123447000728",
-          "valorLiquido": 300.14,
+          "valorLiquido": 222.06,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

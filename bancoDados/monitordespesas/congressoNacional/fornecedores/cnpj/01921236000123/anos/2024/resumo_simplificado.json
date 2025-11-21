@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO LIDER DE JABOTICABAL LTDA",
+    "cnpj": "01921236000123",
+    "total_recebido": 376.45000000000005,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 376.45,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 376.45,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 376.45,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 141.09,
+      "porcentagem_do_total": 37.48
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 235.36,
+      "porcentagem_do_total": 62.52
+    }
+  ]
+}

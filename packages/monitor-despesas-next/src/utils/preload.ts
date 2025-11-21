@@ -10,7 +10,7 @@ export async function preloadRoutes(routes: string[] = [], options: PreloadOptio
     '/gastos',
     '/gastos/deputados', 
     '/gastos/fornecedores',
-    '/gastos/alertas'
+    '/gastos/relatorios'
   ];
   
   const routesToPreload = routes.length > 0 ? routes : defaultRoutes;

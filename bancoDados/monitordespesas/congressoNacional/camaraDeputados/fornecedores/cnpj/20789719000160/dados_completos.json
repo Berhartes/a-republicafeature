@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "AUTO POSTO VIP COMERCIO DE COMBUSTIVEIS LTDA",
       "cnpj": "20789719000160",
-      "total_recebido": 198.53,
+      "total_recebido": 250.0,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.358666"
+    "generatedAt": "2025-11-11T05:22:33.955364"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 198.53
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 250.0
   },
   "anos": {
-    "2024": {
-      "total": 198.53,
+    "2023": {
+      "total": 250.0,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "121948": {
+    "220542": {
       "deputado": {
-        "id": 121948,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
-        "nome": "Adriano do Baldy",
-        "siglaPartido": "PP",
+        "id": 220542,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
+        "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
+        "siglaPartido": "MDB",
         "uriPartido": "",
-        "siglaUf": "GO",
+        "siglaUf": "TO",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
-        "email": "dep.adrianodobaldy@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
+        "email": "dep.alexandreguimaraes@camara.leg.br"
       },
-      "total": 198.53,
+      "total": 250.0,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 3,
+          "ano": 2023,
+          "mes": 2,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7707214,
+          "codDocumento": 7498791,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-03-19T00:00:00",
-          "numDocumento": "506859",
-          "valorDocumento": 198.53,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7707214",
+          "dataDocumento": "2023-02-13T00:00:00",
+          "numDocumento": "352617",
+          "valorDocumento": 250.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7498791",
           "nomeFornecedor": "AUTO POSTO VIP COMERCIO DE COMBUSTIVEIS LTDA",
           "cnpjCpfFornecedor": "20789719000160",
-          "valorLiquido": 198.53,
+          "valorLiquido": 250.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

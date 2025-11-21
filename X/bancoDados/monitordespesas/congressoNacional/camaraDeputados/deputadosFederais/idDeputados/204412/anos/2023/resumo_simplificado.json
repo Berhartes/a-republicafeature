@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 204412,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204412",
+    "nome": "Dr. Zacharias Calil",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "GO",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204412.jpg",
+    "email": "dep.dr.zachariascalil@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 374406.48,
+  "quantidade_transacoes": 479,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 139857.8,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 37.35
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 106921.48,
+      "quantidade_transacoes": 68,
+      "porcentagem_do_total": 28.56
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 80526.0,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 21.51
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 28175.41,
+      "quantidade_transacoes": 128,
+      "porcentagem_do_total": 7.53
+    },
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 7036.94,
+      "quantidade_transacoes": 175,
+      "porcentagem_do_total": 1.88
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "COUTINHO E BORGES COMUNICAÇÃO LTDA - ME",
+      "cnpj": "21766578000123",
+      "total": 135357.8,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 36.15
+    },
+    {
+      "nome": "FMA - AUDIO VIDEO E INFORMÁTICA LTDA",
+      "cnpj": "14571801000111",
+      "total": 66392.5,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 17.73
+    },
+    {
+      "nome": "PONTA LOCAÇÃO DE VEÍCULOS LTDA",
+      "cnpj": "42761872000112",
+      "total": 45526.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 12.16
+    },
+    {
+      "nome": "FAL IMOBILIÁRIA",
+      "cnpj": "11696026000132",
+      "total": 26363.76,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 7.04
+    },
+    {
+      "nome": "GOLD CAR BRASILIA LOCADORA DE VEICULOS ME",
+      "cnpj": "26735227000179",
+      "total": 25000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 6.68
+    },
+    {
+      "nome": "GOLD CAR BRASILIA LOCACAO DE VEICULOS LTDA",
+      "cnpj": "26735227000179",
+      "total": 10000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.67
+    },
+    {
+      "nome": "Auto Posto Global Arena Ltda",
+      "cnpj": "29952796000164",
+      "total": 9669.46,
+      "quantidade_transacoes": 43,
+      "porcentagem_do_total": 2.58
+    },
+    {
+      "nome": "PREFEITURA DE GOIÂNIA",
+      "cnpj": "01612092000123",
+      "total": 5598.87,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.5
+    },
+    {
+      "nome": "AUTO POSTO BR 060 LTDA",
+      "cnpj": "07736181000168",
+      "total": 4749.6,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 1.27
+    },
+    {
+      "nome": "Facebook Serviços Online do Brasil",
+      "cnpj": "13347016000117",
+      "total": 4000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.07
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 6040.4,
+      "porcentagem_do_total": 1.61
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 26474.26,
+      "porcentagem_do_total": 7.07
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 26909.54,
+      "porcentagem_do_total": 7.19
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 35001.51,
+      "porcentagem_do_total": 9.35
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 28993.18,
+      "porcentagem_do_total": 7.74
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 29399.38,
+      "porcentagem_do_total": 7.85
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 28355.86,
+      "porcentagem_do_total": 7.57
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 44575.99,
+      "porcentagem_do_total": 11.91
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 35466.08,
+      "porcentagem_do_total": 9.47
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 32317.34,
+      "porcentagem_do_total": 8.63
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 41973.86,
+      "porcentagem_do_total": 11.21
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 38899.08,
+      "porcentagem_do_total": 10.39
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "FERREIRA COMERCIO DE COMBUSTIVEL LTDA",
+      "cnpj": "23460507000123",
+      "total_recebido": 140.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:08.684984"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 140.0
+  },
+  "anos": {
+    "2024": {
+      "total": 140.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "121948": {
+      "deputado": {
+        "id": 121948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "GO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br"
+      },
+      "total": 140.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7675452,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-21T07:22:48",
+          "numDocumento": "156178",
+          "valorDocumento": 140.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7675452",
+          "nomeFornecedor": "FERREIRA COMERCIO DE COMBUSTIVEL LTDA",
+          "cnpjCpfFornecedor": "23460507000123",
+          "valorLiquido": 140.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

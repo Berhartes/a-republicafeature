@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AMD COMERCIO VAREJO DE COMBUSTIVEIS LTDA",
+    "cnpj": "32255216000194",
+    "total_recebido": 188.14,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 188.14,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 188.14,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 188.14,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 188.14,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

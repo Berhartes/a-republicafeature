@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "REDE DE POSTOS CONTI COMIGO LTDA",
+    "cnpj": "19495968000164",
+    "total_recebido": 992.3299999999999,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 704.28,
+  "quantidade_transacoes": 3,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 704.28,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 704.28,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 226.28,
+      "porcentagem_do_total": 32.13
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 478.0,
+      "porcentagem_do_total": 67.87
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "deputado": {
+    "id": 161550,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/161550",
+    "nome": "Emidinho Madeira",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/161550.jpg",
+    "email": "dep.emidinhomadeira@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 135513.69,
+  "quantidade_transacoes": 108,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 85032.49,
+      "quantidade_transacoes": 92,
+      "porcentagem_do_total": 62.75
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 50481.2,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 37.25
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AUTO POSTO VILA PETRO LTDA",
+      "cnpj": "08678135000112",
+      "total": 49416.41,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 36.47
+    },
+    {
+      "nome": "ANTONIO MARQUES BUENO",
+      "cnpj": "35358572600",
+      "total": 28540.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 21.06
+    },
+    {
+      "nome": "DELMIRA DIAS FREIRE",
+      "cnpj": "74955373615",
+      "total": 21980.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 16.22
+    },
+    {
+      "nome": "MARTINS E MELO IMOBILIARIA LTDA",
+      "cnpj": "02107264000174",
+      "total": 15120.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 11.16
+    },
+    {
+      "nome": "ELVIRA ALICE SOUZA  RIBEIRO TERRA",
+      "cnpj": "76743942634",
+      "total": 11500.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 8.49
+    },
+    {
+      "nome": "CEMIG DISTRIBUIÇÃO S.A.",
+      "cnpj": "06981180000116",
+      "total": 3242.47,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 2.39
+    },
+    {
+      "nome": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA",
+      "cnpj": "11521613000190",
+      "total": 1498.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.11
+    },
+    {
+      "nome": "IANE APARECIDA BAQUIAO DA SILVA",
+      "cnpj": "00725346000157",
+      "total": 1112.5,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.82
+    },
+    {
+      "nome": "ATELLA INTERNET FIBRA OPTICA",
+      "cnpj": "15820203000100",
+      "total": 629.94,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 0.46
+    },
+    {
+      "nome": "ALEXANDRE FERREIRA GOMES",
+      "cnpj": "07818416000160",
+      "total": 545.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.4
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 13396.35,
+      "porcentagem_do_total": 9.89
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 14066.42,
+      "porcentagem_do_total": 10.38
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 13430.53,
+      "porcentagem_do_total": 9.91
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 14389.54,
+      "porcentagem_do_total": 10.62
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 14786.29,
+      "porcentagem_do_total": 10.91
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 14796.78,
+      "porcentagem_do_total": 10.92
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 14973.04,
+      "porcentagem_do_total": 11.05
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 13486.35,
+      "porcentagem_do_total": 9.95
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 12226.78,
+      "porcentagem_do_total": 9.02
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 9961.61,
+      "porcentagem_do_total": 7.35
+    }
+  ]
+}

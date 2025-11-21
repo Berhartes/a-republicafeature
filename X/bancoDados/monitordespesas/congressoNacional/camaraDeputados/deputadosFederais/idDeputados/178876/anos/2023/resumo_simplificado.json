@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 178876,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178876",
+    "nome": "Célio Silveira",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "GO",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178876.jpg",
+    "email": "dep.celiosilveira@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 312902.11,
+  "quantidade_transacoes": 158,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 240050.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 76.72
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 31740.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 10.14
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 26689.82,
+      "quantidade_transacoes": 125,
+      "porcentagem_do_total": 8.53
+    },
+    {
+      "categoria": "CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS",
+      "total": 10000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.2
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 2343.36,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 0.75
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "VINICIUS ABRANTES DE OLIVEIRA 02546171151",
+      "cnpj": "36006647000178",
+      "total": 155000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 49.54
+    },
+    {
+      "nome": "JENIVAL DO ESPIRITO SANTOS",
+      "cnpj": "04562892000175",
+      "total": 85050.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 27.18
+    },
+    {
+      "nome": "VIA LOCADORA DE AUTOMOVEIS LTDA",
+      "cnpj": "45414964000114",
+      "total": 31740.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 10.14
+    },
+    {
+      "nome": "POSTO SAO ROQUE ALIANCA LTDA",
+      "cnpj": "23049249000197",
+      "total": 11068.3,
+      "quantidade_transacoes": 47,
+      "porcentagem_do_total": 3.54
+    },
+    {
+      "nome": "MICHELLE BARROS LIMA SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+      "cnpj": "28766974000108",
+      "total": 10000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.2
+    },
+    {
+      "nome": "AUTO POSTO LUZIANIA LTDA ME",
+      "cnpj": "19914893000109",
+      "total": 4451.89,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 1.42
+    },
+    {
+      "nome": "Auto Posto Novo Millenium Ltda",
+      "cnpj": "06062742000551",
+      "total": 2158.27,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 0.69
+    },
+    {
+      "nome": "Telefônica Brasil S.A. VIVO",
+      "cnpj": "02558157000162",
+      "total": 1421.01,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0.45
+    },
+    {
+      "nome": "MM COMBUSTIVEIS LUZIANIA LTDA",
+      "cnpj": "24527917000107",
+      "total": 1331.48,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 0.43
+    },
+    {
+      "nome": "MM CORUMBA COMBUSTIVEIS LTDA",
+      "cnpj": "26223104000159",
+      "total": 1050.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0.34
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 25245.02,
+      "porcentagem_do_total": 8.07
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 23845.09,
+      "porcentagem_do_total": 7.62
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 29412.97,
+      "porcentagem_do_total": 9.4
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 30119.15,
+      "porcentagem_do_total": 9.63
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 31073.32,
+      "porcentagem_do_total": 9.93
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 78111.33,
+      "porcentagem_do_total": 24.96
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 29837.29,
+      "porcentagem_do_total": 9.54
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 65257.94,
+      "porcentagem_do_total": 20.86
+    }
+  ]
+}

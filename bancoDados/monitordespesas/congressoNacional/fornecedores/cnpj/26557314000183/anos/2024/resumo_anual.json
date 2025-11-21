@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POESY AVIAMENTOS E PAPELARIA EIRELI - EPP",
+      "cnpj": "26557314000183",
+      "total_recebido": 415.5,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 415.5,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-02-19T00:00:00",
+    "periodo_fim": "2024-03-27T00:00:00",
+    "generatedAt": "2025-11-11T21:37:56.055484"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 415.5,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 415.5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 130.62,
+      "porcentagem_do_total": 31.44
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 284.88,
+      "porcentagem_do_total": 68.56
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 2,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7686950,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-02-19T00:00:00",
+      "numDocumento": "57774",
+      "valorDocumento": 130.62,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7686950",
+      "nomeFornecedor": "POESY AVIAMENTOS E PAPELARIA EIRELI - EPP",
+      "cnpjCpfFornecedor": "26557314000183",
+      "valorLiquido": 130.62,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2013072,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 3,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7700886,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-03-12T00:00:00",
+      "numDocumento": "58395",
+      "valorDocumento": 65.92,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7700886",
+      "nomeFornecedor": "POESY AVIAMENTOS E PAPELARIA EIRELI - EPP",
+      "cnpjCpfFornecedor": "26557314000183",
+      "valorLiquido": 65.92,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2020721,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 3,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7700984,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-03-12T00:00:00",
+      "numDocumento": "58414",
+      "valorDocumento": 72.1,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7700984",
+      "nomeFornecedor": "POESY AVIAMENTOS E PAPELARIA EIRELI - EPP",
+      "cnpjCpfFornecedor": "26557314000183",
+      "valorLiquido": 72.1,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2020770,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 3,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7718129,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-03-27T00:00:00",
+      "numDocumento": "58829",
+      "valorDocumento": 146.86,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7718129",
+      "nomeFornecedor": "POESY AVIAMENTOS E PAPELARIA EIRELI - EPP",
+      "cnpjCpfFornecedor": "26557314000183",
+      "valorLiquido": 146.86,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2029997,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

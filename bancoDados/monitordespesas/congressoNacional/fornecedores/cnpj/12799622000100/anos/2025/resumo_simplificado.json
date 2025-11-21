@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO ELDORADO DE JABOTICABAL LTDA",
+    "cnpj": "12799622000100",
+    "total_recebido": 148.03,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 148.03,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 148.03,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 148.03,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 148.03,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

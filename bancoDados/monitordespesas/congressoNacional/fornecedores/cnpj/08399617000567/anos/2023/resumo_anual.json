@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SUELMEI CAMPOS BARBOSA EIRELI  F1  ROSARIO",
+      "cnpj": "08399617000567",
+      "total_recebido": 296.35,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 296.35,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-08-09T00:00:00",
+    "periodo_fim": "2023-11-04T00:00:00",
+    "generatedAt": "2025-11-11T21:37:54.694488"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 296.35,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 296.35,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 100.0,
+      "porcentagem_do_total": 33.74
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 86.31,
+      "porcentagem_do_total": 29.12
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 110.04,
+      "porcentagem_do_total": 37.13
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7605702,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-08-09T00:00:00",
+      "numDocumento": "20203",
+      "valorDocumento": 100.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7605702",
+      "nomeFornecedor": "SUELMEI CAMPOS BARBOSA EIRELI  F1  ROSARIO",
+      "cnpjCpfFornecedor": "08399617000567",
+      "valorLiquido": 100.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1966949,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7637670,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-11-04T00:00:00",
+      "numDocumento": "23714",
+      "valorDocumento": 110.04,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7637670",
+      "nomeFornecedor": "SUELMEI CAMPOS BARBOSA EIRELI  F1  ROSARIO",
+      "cnpjCpfFornecedor": "08399617000567",
+      "valorLiquido": 110.04,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1984625,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7613566,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-09-23T00:00:00",
+      "numDocumento": "513001",
+      "valorDocumento": 86.31,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7613566.pdf",
+      "nomeFornecedor": "SUELMEI CAMPOS BARBOSA EIRELI  F1  ROSARIO",
+      "cnpjCpfFornecedor": "08399617000567",
+      "valorLiquido": 86.31,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1971080,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

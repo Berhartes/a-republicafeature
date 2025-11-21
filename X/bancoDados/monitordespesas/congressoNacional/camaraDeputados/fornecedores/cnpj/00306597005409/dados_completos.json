@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "054 - PARANOA 1 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597005409",
+      "total_recebido": 213.78,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:15.199949"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 213.78
+  },
+  "anos": {
+    "2024": {
+      "total": 213.78,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204495": {
+      "deputado": {
+        "id": 204495,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204495",
+        "nome": "Airton Faleiro",
+        "nomeEleitoral": "Airton Faleiro",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "PA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204495.jpg",
+        "email": "dep.airtonfaleiro@camara.leg.br"
+      },
+      "total": 213.78,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7772195,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-15T15:45:43",
+          "numDocumento": "4366533",
+          "valorDocumento": 213.78,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7772195",
+          "nomeFornecedor": "054 - PARANOA 1 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+          "cnpjCpfFornecedor": "00306597005409",
+          "valorLiquido": 213.78,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

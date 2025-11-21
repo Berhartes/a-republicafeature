@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:21.087196"
+    "generatedAt": "2025-11-11T05:22:19.195017"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 613.74
@@ -30,6 +30,7 @@
         "id": 178835,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
         "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
         "siglaPartido": "PDT",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -61,25 +62,6 @@
         },
         {
           "ano": 2024,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7804958,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-09-19T13:45:23",
-          "numDocumento": "803851",
-          "valorDocumento": 133.98,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7804958",
-          "nomeFornecedor": "COML BUFFON COMB E TRANSP LTDA - POSTO 23",
-          "cnpjCpfFornecedor": "93489243002321",
-          "valorLiquido": 133.98,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
           "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7783842,
@@ -92,6 +74,25 @@
           "nomeFornecedor": "COML BUFFON COMB E TRANSP LTDA - POSTO 23",
           "cnpjCpfFornecedor": "93489243002321",
           "valorLiquido": 200.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7804958,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-19T13:45:23",
+          "numDocumento": "803851",
+          "valorDocumento": 133.98,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7804958",
+          "nomeFornecedor": "COML BUFFON COMB E TRANSP LTDA - POSTO 23",
+          "cnpjCpfFornecedor": "93489243002321",
+          "valorLiquido": 133.98,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

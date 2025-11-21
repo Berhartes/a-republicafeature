@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "REDE DE POSTOS SANTA MARIA LTDA (POSTO XV)",
+    "cnpj": "01418827000263",
+    "total_recebido": 1164.37,
+    "numero_transacoes": 6,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 732.6,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 732.6,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 732.6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 257.6,
+      "porcentagem_do_total": 35.16
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 367.55,
+      "porcentagem_do_total": 50.17
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 107.45,
+      "porcentagem_do_total": 14.67
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "G.J.G. DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "08667423000252",
+      "total_recebido": 128.05,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 128.05,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-06-27T00:00:00",
+    "periodo_fim": "2024-06-27T00:00:00",
+    "generatedAt": "2025-11-11T21:37:56.393482"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 128.05,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 128.05,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 128.05,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7761990,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-06-27T00:00:00",
+      "numDocumento": "21594",
+      "valorDocumento": 128.05,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7761990.pdf",
+      "nomeFornecedor": "G.J.G. DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "08667423000252",
+      "valorLiquido": 128.05,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2053270,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

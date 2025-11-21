@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 220611,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220611",
+    "nome": "General Pazuello",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg",
+    "email": "dep.generalpazuello@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 255842.84,
+  "quantidade_transacoes": 254,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 117500.0,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 45.93
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 89256.95,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 34.89
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 49085.89,
+      "quantidade_transacoes": 213,
+      "porcentagem_do_total": 19.19
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CAG CRUZ LTDA",
+      "cnpj": "23589525000100",
+      "total": 80000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 31.27
+    },
+    {
+      "nome": "Lokar Assessoria de Bens Imóveis Eireli",
+      "cnpj": "22946236000158",
+      "total": 77652.87,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 30.35
+    },
+    {
+      "nome": "RANKING COMUNICAÇÃO E MIDIA LTDA",
+      "cnpj": "56980597000132",
+      "total": 37500.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 14.66
+    },
+    {
+      "nome": "LIGHT SERVICOS DE ELETRICIDADE S A",
+      "cnpj": "60444437000146",
+      "total": 9168.47,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 3.58
+    },
+    {
+      "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+      "cnpj": "00692418000107",
+      "total": 8354.36,
+      "quantidade_transacoes": 36,
+      "porcentagem_do_total": 3.27
+    },
+    {
+      "nome": "PONEI POSTO DE GASOLINA LTDA",
+      "cnpj": "34035303000161",
+      "total": 7600.93,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 2.97
+    },
+    {
+      "nome": "AUTO POSTO INAJA LTDA",
+      "cnpj": "04521796000189",
+      "total": 5291.8,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 2.07
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS CONNECTA CEILANDIA SUL LTDA",
+      "cnpj": "12123780000227",
+      "total": 4369.63,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 1.71
+    },
+    {
+      "nome": "BELIZE COMPANY AUTO POSTO LTDA",
+      "cnpj": "29032820000147",
+      "total": 4103.71,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 1.6
+    },
+    {
+      "nome": "AUTO POSTO NM 16 LTDA",
+      "cnpj": "11948180000154",
+      "total": 2153.38,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 0.84
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 19317.25,
+      "porcentagem_do_total": 7.55
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 24027.55,
+      "porcentagem_do_total": 9.39
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 30873.05,
+      "porcentagem_do_total": 12.07
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 28904.02,
+      "porcentagem_do_total": 11.3
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 27990.97,
+      "porcentagem_do_total": 10.94
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 29816.04,
+      "porcentagem_do_total": 11.65
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 27963.45,
+      "porcentagem_do_total": 10.93
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 21376.45,
+      "porcentagem_do_total": 8.36
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 22641.04,
+      "porcentagem_do_total": 8.85
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 22476.5,
+      "porcentagem_do_total": 8.79
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 456.52,
+      "porcentagem_do_total": 0.18
+    }
+  ]
+}

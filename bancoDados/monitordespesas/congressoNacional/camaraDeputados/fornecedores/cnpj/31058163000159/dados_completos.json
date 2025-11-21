@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.337446"
+    "generatedAt": "2025-11-11T05:22:13.106022"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 491.92999999999995
@@ -25,6 +25,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -35,25 +36,6 @@
       "total": 491.92999999999995,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 8,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7783207,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-08-03T00:00:00",
-          "numDocumento": "25667",
-          "valorDocumento": 193.48,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7783207",
-          "nomeFornecedor": "AUTO POSTO BERNARDO SAYAO EIRELI",
-          "cnpjCpfFornecedor": "31058163000159",
-          "valorLiquido": 193.48,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 4,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "AUTO POSTO BERNARDO SAYAO EIRELI",
           "cnpjCpfFornecedor": "31058163000159",
           "valorLiquido": 298.45,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7783207,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-03T00:00:00",
+          "numDocumento": "25667",
+          "valorDocumento": 193.48,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7783207",
+          "nomeFornecedor": "AUTO POSTO BERNARDO SAYAO EIRELI",
+          "cnpjCpfFornecedor": "31058163000159",
+          "valorLiquido": 193.48,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

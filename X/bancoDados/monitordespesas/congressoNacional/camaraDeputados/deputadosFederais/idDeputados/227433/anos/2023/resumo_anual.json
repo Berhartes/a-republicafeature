@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 227433,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227433",
+      "nome": "Douglas Viegas",
+      "siglaPartido": "UNIÃO",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+      "siglaUf": "SP",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/227433.jpg",
+      "email": "dep.douglasviegas@camara.leg.br"
+    },
+    "ano": 2023,
+    "total_despesas": 13786.68,
+    "quantidade_transacoes": 3,
+    "quantidade_categorias": 2,
+    "quantidade_fornecedores": 2,
+    "periodo_inicio": "2023-12-28T00:00:00",
+    "periodo_fim": "2023-12-28T00:00:00",
+    "generatedAt": "2025-11-10T22:31:23.930820"
+  },
+  "resumo_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 11000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 79.79
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 2786.68,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 20.21
+    }
+  ],
+  "resumo_fornecedores": [
+    {
+      "nome": "Atos 360 LTDA",
+      "cnpj": "40439299000108",
+      "total": 11000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 79.79
+    },
+    {
+      "nome": "SUPREMA MOBILIDADE LTDA",
+      "cnpj": "24894397000170",
+      "total": 2786.68,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 20.21
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 13786.68,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7669098,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-12-28T00:00:00",
+      "numDocumento": "00000064",
+      "valorDocumento": 11000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3756/2023/7669098.pdf",
+      "nomeFornecedor": "Atos 360 LTDA",
+      "cnpjCpfFornecedor": "40439299000108",
+      "valorLiquido": 11000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2002507,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7670764,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-12-28T00:00:00",
+      "numDocumento": "000134",
+      "valorDocumento": 1393.34,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3756/2024/7670764.pdf",
+      "nomeFornecedor": "SUPREMA MOBILIDADE LTDA",
+      "cnpjCpfFornecedor": "24894397000170",
+      "valorLiquido": 1393.34,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2003390,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7670760,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-12-28T00:00:00",
+      "numDocumento": "000135",
+      "valorDocumento": 1393.34,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3756/2024/7670760.pdf",
+      "nomeFornecedor": "SUPREMA MOBILIDADE LTDA",
+      "cnpjCpfFornecedor": "24894397000170",
+      "valorLiquido": 1393.34,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2003390,
+      "parcela": 0
+    }
+  ]
+}

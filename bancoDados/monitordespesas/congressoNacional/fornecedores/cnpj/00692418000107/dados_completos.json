@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+      "cnpj": "00692418000107",
+      "total_recebido": 1388.01,
+      "numero_transacoes": 6,
+      "numero_deputados": 3
+    },
+    "generatedAt": "2025-11-11T21:37:58.651007"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 1388.01
+  },
+  "anos": {
+    "2023": {
+      "total": 150.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 300.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 938.01,
+      "transacoes": 4,
+      "deputados": 3
+    }
+  },
+  "deputados": {
+    "204379": {
+      "deputado": {
+        "id": 204379,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204379",
+        "nome": "Acácio Favacho",
+        "siglaPartido": "MDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204379.jpg",
+        "email": "dep.acaciofavacho@camara.leg.br"
+      },
+      "total": 689.62,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7850705,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-09-24T18:58:55",
+          "numDocumento": "687284",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7850705",
+          "nomeFornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+          "cnpjCpfFornecedor": "00692418000107",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2100002,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7907776,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-04-03T00:00:00",
+          "numDocumento": "837477",
+          "valorDocumento": 389.62,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7907776",
+          "nomeFornecedor": "AUTO POSTO CINCO ESTRELAS LTDA.",
+          "cnpjCpfFornecedor": "00692418000107",
+          "valorLiquido": 389.62,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2131658,
+          "parcela": 0
+        }
+      ]
+    },
+    "220714": {
+      "deputado": {
+        "id": 220714,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220714",
+        "nome": "Adail Filho",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+        "siglaUf": "AM",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
+        "email": "dep.adailfilho@camara.leg.br"
+      },
+      "total": 350.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7591213,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-08-15T00:00:00",
+          "numDocumento": "322442",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7591213",
+          "nomeFornecedor": "AUTO POSTO 5 ESTRELAS LTDA",
+          "cnpjCpfFornecedor": "00692418000107",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1959172,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7989802,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-09-10T00:00:00",
+          "numDocumento": "975986",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7989802",
+          "nomeFornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+          "cnpjCpfFornecedor": "00692418000107",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2176034,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7989794,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-09-11T00:00:00",
+          "numDocumento": "976812",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7989794",
+          "nomeFornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+          "cnpjCpfFornecedor": "00692418000107",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2176034,
+          "parcela": 0
+        }
+      ]
+    },
+    "204560": {
+      "deputado": {
+        "id": 204560,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204560",
+        "nome": "Adolfo Viana",
+        "siglaPartido": "PSDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
+        "email": "dep.adolfoviana@camara.leg.br"
+      },
+      "total": 348.39,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7939026,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-06-11T00:00:00",
+          "numDocumento": "895209",
+          "valorDocumento": 348.39,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7939026",
+          "nomeFornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+          "cnpjCpfFornecedor": "00692418000107",
+          "valorLiquido": 348.39,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2149212,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "fornecedor": {
+    "nome": "V Rocha Bevilacqua",
+    "cnpj": "10679515000113",
+    "total_recebido": 5974.650000000001,
+    "numero_transacoes": 32,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 3313.22,
+  "quantidade_transacoes": 17,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 3313.22,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 3313.22,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 147.36,
+      "porcentagem_do_total": 4.45
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 367.09,
+      "porcentagem_do_total": 11.08
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 268.02,
+      "porcentagem_do_total": 8.09
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 248.05,
+      "porcentagem_do_total": 7.49
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 229.49,
+      "porcentagem_do_total": 6.93
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 554.49,
+      "porcentagem_do_total": 16.74
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 626.13,
+      "porcentagem_do_total": 18.9
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 185.07,
+      "porcentagem_do_total": 5.59
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 687.52,
+      "porcentagem_do_total": 20.75
+    }
+  ]
+}

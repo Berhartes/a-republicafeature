@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 160666,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160666",
+    "nome": "Félix Mendonça Júnior",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160666.jpg",
+    "email": "dep.felixmendoncajunior@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 370566.3,
+  "quantidade_transacoes": 320,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 167600.0,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 45.23
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 87368.66,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 23.58
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 53085.41,
+      "quantidade_transacoes": 39,
+      "porcentagem_do_total": 14.33
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 32786.12,
+      "quantidade_transacoes": 161,
+      "porcentagem_do_total": 8.85
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 15950.79,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 4.3
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "HPE AUTOMOTORES DO BRASIL LTDA",
+      "cnpj": "46054009000186",
+      "total": 76222.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 20.57
+    },
+    {
+      "nome": "C&C Comunicação Ltda",
+      "cnpj": "48000333000147",
+      "total": 70000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 18.89
+    },
+    {
+      "nome": "TIAGO CARDOSO MACHADO",
+      "cnpj": "02360879596",
+      "total": 42171.18,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 11.38
+    },
+    {
+      "nome": "LUZEIRO FILMES LTDA - ME",
+      "cnpj": "19523530000142",
+      "total": 41200.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 11.12
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 28983.74,
+      "quantidade_transacoes": 152,
+      "porcentagem_do_total": 7.82
+    },
+    {
+      "nome": "CONTRASTE EDITORA E INDUSTRIA GRAFICA",
+      "cnpj": "33867664000101",
+      "total": 25000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 6.75
+    },
+    {
+      "nome": "Dilton Roberto Lopes dos Santos Junior",
+      "cnpj": "36531034000150",
+      "total": 20000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 5.4
+    },
+    {
+      "nome": "VIVO TELEFONICA BRASIL S.A.",
+      "cnpj": "02558157002459",
+      "total": 13728.22,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 3.7
+    },
+    {
+      "nome": "VL Veículos Ltda - EPP",
+      "cnpj": "07553121000100",
+      "total": 11146.66,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.01
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 3802.38,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.03
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 34220.06,
+      "porcentagem_do_total": 9.23
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 34226.73,
+      "porcentagem_do_total": 9.24
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 72408.53,
+      "porcentagem_do_total": 19.54
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 26836.98,
+      "porcentagem_do_total": 7.24
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 27456.37,
+      "porcentagem_do_total": 7.41
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 41917.07,
+      "porcentagem_do_total": 11.31
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 40224.28,
+      "porcentagem_do_total": 10.85
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 32402.89,
+      "porcentagem_do_total": 8.74
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 30034.48,
+      "porcentagem_do_total": 8.11
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 30838.91,
+      "porcentagem_do_total": 8.32
+    }
+  ]
+}

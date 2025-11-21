@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "REDE DE POSTOS CONTI COMIGO LTDA",
+      "cnpj": "19495968000164",
+      "total_recebido": 992.3299999999999,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 704.28,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-04-20T00:00:00",
+    "periodo_fim": "2023-06-20T00:00:00",
+    "generatedAt": "2025-11-11T21:37:54.576479"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 704.28,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 704.28,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 226.28,
+      "porcentagem_do_total": 32.13
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 478.0,
+      "porcentagem_do_total": 67.87
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7538402,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-04-20T00:00:00",
+      "numDocumento": "13182",
+      "valorDocumento": 226.28,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7538402",
+      "nomeFornecedor": "REDE DE POSTOS CONTI COMIGO LTDA",
+      "cnpjCpfFornecedor": "19495968000164",
+      "valorLiquido": 226.28,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1931087,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7560421,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-06-07T00:00:00",
+      "numDocumento": "13573",
+      "valorDocumento": 230.36,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7560421",
+      "nomeFornecedor": "REDE DE POSTOS CONTI COMIGO LTDA",
+      "cnpjCpfFornecedor": "19495968000164",
+      "valorLiquido": 230.36,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1942942,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7564602,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-06-20T00:00:00",
+      "numDocumento": "13663",
+      "valorDocumento": 247.64,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7564602",
+      "nomeFornecedor": "REDE DE POSTOS CONTI COMIGO LTDA",
+      "cnpjCpfFornecedor": "19495968000164",
+      "valorLiquido": 247.64,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1945211,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

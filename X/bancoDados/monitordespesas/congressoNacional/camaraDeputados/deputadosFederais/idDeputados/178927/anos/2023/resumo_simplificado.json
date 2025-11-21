@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 178927,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
+    "nome": "Aliel Machado",
+    "siglaPartido": "PV",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+    "email": "dep.alielmachado@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 533084.35,
+  "quantidade_transacoes": 606,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 166931.51,
+      "quantidade_transacoes": 208,
+      "porcentagem_do_total": 31.31
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 162539.0,
+      "quantidade_transacoes": 58,
+      "porcentagem_do_total": 30.49
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 82992.2,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 15.57
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 62201.0,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 11.67
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 46753.66,
+      "quantidade_transacoes": 235,
+      "porcentagem_do_total": 8.77
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 93113.46,
+      "quantidade_transacoes": 103,
+      "porcentagem_do_total": 17.47
+    },
+    {
+      "nome": "GLEIDES PAISANI",
+      "cnpj": "88317021904",
+      "total": 54052.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 10.14
+    },
+    {
+      "nome": "alex willian lopes",
+      "cnpj": "41425865000187",
+      "total": 49600.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 9.3
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 45049.72,
+      "quantidade_transacoes": 58,
+      "porcentagem_do_total": 8.45
+    },
+    {
+      "nome": "Leal Locadora de Veículos e Equip. Ltda.",
+      "cnpj": "76635119000100",
+      "total": 38202.2,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 7.17
+    },
+    {
+      "nome": "TOP LINE LOCADORA DE VEÍCULOS LTDA",
+      "cnpj": "06330812000181",
+      "total": 31200.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 5.85
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 28768.33,
+      "quantidade_transacoes": 47,
+      "porcentagem_do_total": 5.4
+    },
+    {
+      "nome": "L&S comunicação",
+      "cnpj": "50048559000160",
+      "total": 18000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.38
+    },
+    {
+      "nome": "AGENCIA PONTA DE NOTICIAS LTDA",
+      "cnpj": "11389296000109",
+      "total": 15000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 2.81
+    },
+    {
+      "nome": "marketing ltda",
+      "cnpj": "30121242000102",
+      "total": 9614.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.8
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 3020.0,
+      "porcentagem_do_total": 0.57
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 22706.65,
+      "porcentagem_do_total": 4.26
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 41074.07,
+      "porcentagem_do_total": 7.7
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 47442.32,
+      "porcentagem_do_total": 8.9
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 42610.81,
+      "porcentagem_do_total": 7.99
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 41318.78,
+      "porcentagem_do_total": 7.75
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 51621.84,
+      "porcentagem_do_total": 9.68
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 55743.34,
+      "porcentagem_do_total": 10.46
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 54803.96,
+      "porcentagem_do_total": 10.28
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 63837.83,
+      "porcentagem_do_total": 11.98
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 57730.69,
+      "porcentagem_do_total": 10.83
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 51174.06,
+      "porcentagem_do_total": 9.6
+    }
+  ]
+}

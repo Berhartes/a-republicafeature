@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.369322"
+    "generatedAt": "2025-11-11T05:22:17.165667"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 218.04000000000002
@@ -25,6 +25,7 @@
         "id": 136811,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
         "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -35,25 +36,6 @@
       "total": 218.04000000000002,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 12,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7850924,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-12-18T21:46:00",
-          "numDocumento": "410928",
-          "valorDocumento": 120.01,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7850924",
-          "nomeFornecedor": "ABASTECEDORA GM LTDA",
-          "cnpjCpfFornecedor": "05363687000143",
-          "valorLiquido": 120.01,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 8,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "ABASTECEDORA GM LTDA",
           "cnpjCpfFornecedor": "05363687000143",
           "valorLiquido": 98.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7850924,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-18T21:46:00",
+          "numDocumento": "410928",
+          "valorDocumento": 120.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7850924",
+          "nomeFornecedor": "ABASTECEDORA GM LTDA",
+          "cnpjCpfFornecedor": "05363687000143",
+          "valorLiquido": 120.01,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

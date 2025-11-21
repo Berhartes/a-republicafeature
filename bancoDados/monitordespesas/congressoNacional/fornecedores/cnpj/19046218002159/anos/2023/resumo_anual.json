@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "DECIO COM. E SERV. ROD. LTDA  RIO VERDE   POSTO",
+      "cnpj": "19046218002159",
+      "total_recebido": 298.15,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 298.15,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-09-23T00:00:00",
+    "periodo_fim": "2023-09-27T00:00:00",
+    "generatedAt": "2025-11-11T21:37:53.695485"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 298.15,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 298.15,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 298.15,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7613157,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-09-23T00:00:00",
+      "numDocumento": "201733",
+      "valorDocumento": 230.1,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7613157",
+      "nomeFornecedor": "DECIO COM. E SERV. ROD. LTDA  RIO VERDE   POSTO",
+      "cnpjCpfFornecedor": "19046218002159",
+      "valorLiquido": 230.1,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1970820,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7621352,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-09-27T00:00:00",
+      "numDocumento": "202536",
+      "valorDocumento": 68.05,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7621352",
+      "nomeFornecedor": "DECIO COM. E SERV. ROD. LTDA  RIO VERDE   POSTO",
+      "cnpjCpfFornecedor": "19046218002159",
+      "valorLiquido": 68.05,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1975864,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

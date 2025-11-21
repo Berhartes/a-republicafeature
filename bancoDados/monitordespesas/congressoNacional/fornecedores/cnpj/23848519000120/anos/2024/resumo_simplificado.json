@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "LLM COMERCIO DE PRODUTOS ALIMENTICIOS EIRELI",
+    "cnpj": "23848519000120",
+    "total_recebido": 153.67,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 153.67,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 153.67,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 153.67,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 153.67,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

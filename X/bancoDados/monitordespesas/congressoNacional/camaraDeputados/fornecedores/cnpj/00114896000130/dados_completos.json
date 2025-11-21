@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Carlenio Pereira da Silva",
+      "cnpj": "00114896000130",
+      "total_recebido": 12000.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:08.634865"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 12000.0
+  },
+  "anos": {
+    "2023": {
+      "total": 3000.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 4000.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 5000.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "121948": {
+      "deputado": {
+        "id": 121948,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
+        "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "GO",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+        "email": "dep.adrianodobaldy@camara.leg.br"
+      },
+      "total": 12000.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7657578,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-07T00:00:00",
+          "numDocumento": "311",
+          "valorDocumento": 3000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2023/7657578.pdf",
+          "nomeFornecedor": "Carlenio Pereira da Silva",
+          "cnpjCpfFornecedor": "00114896000130",
+          "valorLiquido": 3000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7778443,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-01T00:00:00",
+          "numDocumento": "345",
+          "valorDocumento": 4000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2024/7778443.pdf",
+          "nomeFornecedor": "Carlenio Pereira da Silva",
+          "cnpjCpfFornecedor": "00114896000130",
+          "valorLiquido": 4000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 8000721,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-20T00:00:00",
+          "numDocumento": "484",
+          "valorDocumento": 5000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2025/8000721.pdf",
+          "nomeFornecedor": "Carlenio Pereira da Silva",
+          "cnpjCpfFornecedor": "00114896000130",
+          "valorLiquido": 5000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

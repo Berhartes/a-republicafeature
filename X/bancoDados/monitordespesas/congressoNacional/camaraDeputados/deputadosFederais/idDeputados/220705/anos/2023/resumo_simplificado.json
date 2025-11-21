@@ -1,0 +1,152 @@
+{
+  "deputado": {
+    "id": 220705,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220705",
+    "nome": "Deltan Dallagnol",
+    "siglaPartido": "PODE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220705.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 153290.0,
+  "quantidade_transacoes": 461,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 55151.41,
+      "quantidade_transacoes": 88,
+      "porcentagem_do_total": 35.98
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 47293.0,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 30.85
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 18070.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 11.79
+    },
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 8830.93,
+      "quantidade_transacoes": 218,
+      "porcentagem_do_total": 5.76
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 6869.9,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 4.48
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Novaes Chemin Engenheiro e Incorporações Ltda",
+      "cnpj": "11143623000130",
+      "total": 40820.16,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 26.63
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 36315.53,
+      "quantidade_transacoes": 52,
+      "porcentagem_do_total": 23.69
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 16775.9,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 10.94
+    },
+    {
+      "nome": "Metricas Digitais Marketing Direto",
+      "cnpj": "36813438000136",
+      "total": 13500.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 8.81
+    },
+    {
+      "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpj": "17895646000187",
+      "total": 8301.72,
+      "quantidade_transacoes": 203,
+      "porcentagem_do_total": 5.42
+    },
+    {
+      "nome": "FABIO NUNES DE MENEZES 83209697515",
+      "cnpj": "27515542000153",
+      "total": 4350.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.84
+    },
+    {
+      "nome": "APTEK LOCAÇÃO DE EQUIPAMENTOS DE INFORMATICA EIRELI-ME",
+      "cnpj": "12183917000158",
+      "total": 3107.15,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.03
+    },
+    {
+      "nome": "PLAZA BRASILIA HOTEIS E TURISMO LTDA (STP)",
+      "cnpj": "37069853000432",
+      "total": 2409.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.57
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 2059.98,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 1.34
+    },
+    {
+      "nome": "APTEK LOCACAO DE EQUIPAMENTOS DE INFORMATICA LTDA",
+      "cnpj": "12183917000158",
+      "total": 1450.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.95
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 26498.93,
+      "porcentagem_do_total": 17.29
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 25911.46,
+      "porcentagem_do_total": 16.9
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 23466.43,
+      "porcentagem_do_total": 15.31
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 70432.47,
+      "porcentagem_do_total": 45.95
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 6980.71,
+      "porcentagem_do_total": 4.55
+    }
+  ]
+}

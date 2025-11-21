@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220639,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220639",
+    "nome": "Guilherme Boulos",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220639.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 433370.69,
+  "quantidade_transacoes": 194,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 215130.0,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 49.64
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 168279.14,
+      "quantidade_transacoes": 136,
+      "porcentagem_do_total": 38.83
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 46978.42,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 10.84
+    },
+    {
+      "categoria": "ASSINATURA DE PUBLICAÇÕES",
+      "total": 1947.5,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.45
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 1035.63,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0.24
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "OLIVA.AG MARKETING LTDA",
+      "cnpj": "25160423000108",
+      "total": 161000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 37.15
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 79807.33,
+      "quantidade_transacoes": 54,
+      "porcentagem_do_total": 18.42
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 71919.51,
+      "quantidade_transacoes": 67,
+      "porcentagem_do_total": 16.6
+    },
+    {
+      "nome": "MAIS PUBLICIDADE BRASIL LTDA",
+      "cnpj": "05611453000178",
+      "total": 34960.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 8.07
+    },
+    {
+      "nome": "LIGIA DO CARMO MOTTA SCHMIDT",
+      "cnpj": "15165292860",
+      "total": 34000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 7.85
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 16552.3,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 3.82
+    },
+    {
+      "nome": "BROADBRASIL LTDA",
+      "cnpj": "48949641000113",
+      "total": 7350.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 1.7
+    },
+    {
+      "nome": "ALVO DIGITAL INTERNET LTDA",
+      "cnpj": "08983227000106",
+      "total": 5414.32,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.25
+    },
+    {
+      "nome": "TOTALGRAF GRAFICA E EDITORA EIRELI - EPP",
+      "cnpj": "27571729000174",
+      "total": 4630.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.07
+    },
+    {
+      "nome": "VIATV EVENTOS LTDA.",
+      "cnpj": "15251961000146",
+      "total": 3700.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.85
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 21190.96,
+      "porcentagem_do_total": 4.89
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 44855.01,
+      "porcentagem_do_total": 10.35
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 29610.59,
+      "porcentagem_do_total": 6.83
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 46835.45,
+      "porcentagem_do_total": 10.81
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 44042.51,
+      "porcentagem_do_total": 10.16
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 39676.5,
+      "porcentagem_do_total": 9.16
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 47026.71,
+      "porcentagem_do_total": 10.85
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 55100.27,
+      "porcentagem_do_total": 12.71
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 40365.04,
+      "porcentagem_do_total": 9.31
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 46257.4,
+      "porcentagem_do_total": 10.67
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 18410.25,
+      "porcentagem_do_total": 4.25
+    }
+  ]
+}

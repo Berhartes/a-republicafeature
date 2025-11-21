@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220672,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220672",
+    "nome": "Henderson Pinto",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "PA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220672.jpg",
+    "email": "dep.hendersonpinto@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 538058.78,
+  "quantidade_transacoes": 335,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 220169.0,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 40.92
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 101511.57,
+      "quantidade_transacoes": 111,
+      "porcentagem_do_total": 18.87
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 80910.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 15.04
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE EMBARCAÇÕES",
+      "total": 42000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 7.81
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 40735.55,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 7.57
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "VIA LOCADORA DE AUTOMOVEIS LTDA",
+      "cnpj": "45414964000114",
+      "total": 80910.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 15.04
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 57362.69,
+      "quantidade_transacoes": 69,
+      "porcentagem_do_total": 10.66
+    },
+    {
+      "nome": "PAULO VICTOR DE ARAUJO SQUIRES",
+      "cnpj": "44112056000103",
+      "total": 55000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 10.22
+    },
+    {
+      "nome": "Calli Publicidade Soluções Digitais Eireli",
+      "cnpj": "27350405000106",
+      "total": 50796.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 9.44
+    },
+    {
+      "nome": "GLOBAL GRAFICA DA AMAZONIA LTDA.",
+      "cnpj": "03339851000151",
+      "total": 43268.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 8.04
+    },
+    {
+      "nome": "Santana Transportes Hidroviários Ltda",
+      "cnpj": "11905002000146",
+      "total": 42000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 7.81
+    },
+    {
+      "nome": "Reginaldo Castro Guimarães",
+      "cnpj": "41409787249",
+      "total": 27500.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 5.11
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 27080.44,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 5.03
+    },
+    {
+      "nome": "CAMPUS COMUNICAÇÃO E MARKETING LTDA",
+      "cnpj": "24183387000127",
+      "total": 22000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.09
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 17068.44,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 3.17
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 15447.2,
+      "porcentagem_do_total": 2.87
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 18353.68,
+      "porcentagem_do_total": 3.41
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 57467.43,
+      "porcentagem_do_total": 10.68
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 34814.99,
+      "porcentagem_do_total": 6.47
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 47609.46,
+      "porcentagem_do_total": 8.85
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 57818.33,
+      "porcentagem_do_total": 10.75
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 31378.31,
+      "porcentagem_do_total": 5.83
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 38233.55,
+      "porcentagem_do_total": 7.11
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 38559.82,
+      "porcentagem_do_total": 7.17
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 86888.95,
+      "porcentagem_do_total": 16.15
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 111487.06,
+      "porcentagem_do_total": 20.72
+    }
+  ]
+}

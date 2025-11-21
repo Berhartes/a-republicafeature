@@ -1,0 +1,152 @@
+{
+  "deputado": {
+    "id": 229069,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/229069",
+    "nome": "Capitão Samuel",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "SE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/229069.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 174704.91,
+  "quantidade_transacoes": 47,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 113166.59,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 64.78
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 42940.04,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 24.58
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 8337.64,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 4.77
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 4434.5,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 2.54
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 3612.75,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.07
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AGENCIA LIBERTY LTDA",
+      "cnpj": "36480817000151",
+      "total": 65166.59,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 37.3
+    },
+    {
+      "nome": "LOCACAO DE VEICULOS, MAQUINAS E IMPLEMENTOS AGRICO",
+      "cnpj": "10459567000184",
+      "total": 42940.04,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 24.58
+    },
+    {
+      "nome": "TELEVISAO ATALAIA LTDA",
+      "cnpj": "13079397000109",
+      "total": 24000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 13.74
+    },
+    {
+      "nome": "REDE RIO FM 102 LTDA.",
+      "cnpj": "39966766000160",
+      "total": 15000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 8.59
+    },
+    {
+      "nome": "REDE FAN DE COMUNICAÇÃO",
+      "cnpj": "13382338000105",
+      "total": 9000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 5.15
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 8337.64,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 4.77
+    },
+    {
+      "nome": "PRIME OFFICE ARACAJU",
+      "cnpj": "22967349000130",
+      "total": 4434.5,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 2.54
+    },
+    {
+      "nome": "Latam Linhas Aéreas",
+      "cnpj": "02012862000160",
+      "total": 3612.75,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.07
+    },
+    {
+      "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+      "cnpj": "00692418000107",
+      "total": 1385.4,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 0.79
+    },
+    {
+      "nome": "GOES COMBUSTIVEIS, LUBRIFICANTES E GLP LTDA",
+      "cnpj": "05454390000193",
+      "total": 558.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.32
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 17622.56,
+      "porcentagem_do_total": 10.09
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 41173.17,
+      "porcentagem_do_total": 23.57
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 50736.67,
+      "porcentagem_do_total": 29.04
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 52435.42,
+      "porcentagem_do_total": 30.01
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 12737.09,
+      "porcentagem_do_total": 7.29
+    }
+  ]
+}

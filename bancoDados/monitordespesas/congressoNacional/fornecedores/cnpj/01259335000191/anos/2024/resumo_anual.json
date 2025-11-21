@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO PRACA 14 LTDA",
+      "cnpj": "01259335000191",
+      "total_recebido": 420.01,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 170.01,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-01-26T00:00:00",
+    "periodo_fim": "2024-01-26T00:00:00",
+    "generatedAt": "2025-11-11T21:38:00.080009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 170.01,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 170.01,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 170.01,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7676592,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-01-26T00:00:00",
+      "numDocumento": "877164",
+      "valorDocumento": 170.01,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7676592",
+      "nomeFornecedor": "AUTO POSTO PRACA 14 LTDA",
+      "cnpjCpfFornecedor": "01259335000191",
+      "valorLiquido": 170.01,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2006811,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

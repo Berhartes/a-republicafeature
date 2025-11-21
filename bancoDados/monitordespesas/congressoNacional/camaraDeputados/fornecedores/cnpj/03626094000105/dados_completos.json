@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:30.443630"
+    "generatedAt": "2025-11-11T05:22:41.709584"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 440.04
@@ -25,6 +25,7 @@
         "id": 178927,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
         "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
         "siglaPartido": "PV",
         "uriPartido": "",
         "siglaUf": "PR",
@@ -35,25 +36,6 @@
       "total": 440.04,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 6,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7754512,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-06-14T22:49:52",
-          "numDocumento": "1970721",
-          "valorDocumento": 150.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7754512",
-          "nomeFornecedor": "IDEAL GUAPO - MATRIZ PALMEIRA",
-          "cnpjCpfFornecedor": "03626094000105",
-          "valorLiquido": 150.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 4,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "IDEAL GUAPO - MATRIZ PALMEIRA",
           "cnpjCpfFornecedor": "03626094000105",
           "valorLiquido": 290.04,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7754512,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-14T22:49:52",
+          "numDocumento": "1970721",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7754512",
+          "nomeFornecedor": "IDEAL GUAPO - MATRIZ PALMEIRA",
+          "cnpjCpfFornecedor": "03626094000105",
+          "valorLiquido": 150.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

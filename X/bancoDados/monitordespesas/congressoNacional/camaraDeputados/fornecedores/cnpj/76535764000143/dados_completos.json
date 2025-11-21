@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "OI SA - EM RECUPERAÇÃO JUDICIAL",
+      "cnpj": "76535764000143",
+      "total_recebido": 771.7599999999999,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:25.920692"
+  },
+  "categorias": {
+    "TELEFONIA": 771.7599999999999
+  },
+  "anos": {
+    "2023": {
+      "total": 771.7599999999999,
+      "transacoes": 6,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74057": {
+      "deputado": {
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
+      },
+      "total": 771.7599999999999,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "TELEFONIA",
+          "codDocumento": 7510441,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-22T00:00:00",
+          "numDocumento": "00002645971",
+          "valorDocumento": 102.59,
+          "urlDocumento": null,
+          "nomeFornecedor": "OI SA - EM RECUPERAÇÃO JUDICIAL",
+          "cnpjCpfFornecedor": "76535764000143",
+          "valorLiquido": 102.59,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "TELEFONIA",
+          "codDocumento": 7510561,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-25T00:00:00",
+          "numDocumento": "6964076",
+          "valorDocumento": 194.97,
+          "urlDocumento": null,
+          "nomeFornecedor": "OI SA - EM RECUPERAÇÃO JUDICIAL",
+          "cnpjCpfFornecedor": "76535764000143",
+          "valorLiquido": 194.97,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "TELEFONIA",
+          "codDocumento": 7524885,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-25T00:00:00",
+          "numDocumento": "7102882",
+          "valorDocumento": 154.19,
+          "urlDocumento": null,
+          "nomeFornecedor": "OI SA - EM RECUPERAÇÃO JUDICIAL",
+          "cnpjCpfFornecedor": "76535764000143",
+          "valorLiquido": 154.19,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "TELEFONIA",
+          "codDocumento": 7524887,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-23T00:00:00",
+          "numDocumento": "00002718505",
+          "valorDocumento": 106.67,
+          "urlDocumento": null,
+          "nomeFornecedor": "OI SA - EM RECUPERAÇÃO JUDICIAL",
+          "cnpjCpfFornecedor": "76535764000143",
+          "valorLiquido": 106.67,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "TELEFONIA",
+          "codDocumento": 7567585,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-24T00:00:00",
+          "numDocumento": "00002787592",
+          "valorDocumento": 110.35,
+          "urlDocumento": null,
+          "nomeFornecedor": "OI SA - EM RECUPERAÇÃO JUDICIAL",
+          "cnpjCpfFornecedor": "76535764000143",
+          "valorLiquido": 106.67,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "TELEFONIA",
+          "codDocumento": 7567599,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-22T00:00:00",
+          "numDocumento": "00002852872",
+          "valorDocumento": 108.9,
+          "urlDocumento": null,
+          "nomeFornecedor": "OI SA - EM RECUPERAÇÃO JUDICIAL",
+          "cnpjCpfFornecedor": "76535764000143",
+          "valorLiquido": 106.67,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

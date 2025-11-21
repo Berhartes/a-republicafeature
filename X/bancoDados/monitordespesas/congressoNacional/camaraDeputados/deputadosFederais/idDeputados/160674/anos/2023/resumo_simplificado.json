@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 160674,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160674",
+    "nome": "Hugo Motta",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "PB",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160674.jpg",
+    "email": "dep.hugomotta@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 534234.26,
+  "quantidade_transacoes": 440,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 276250.0,
+      "quantidade_transacoes": 158,
+      "porcentagem_do_total": 51.71
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 103542.7,
+      "quantidade_transacoes": 123,
+      "porcentagem_do_total": 19.38
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 87519.1,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 16.38
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 52580.53,
+      "quantidade_transacoes": 111,
+      "porcentagem_do_total": 9.84
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 9283.23,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 1.74
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ELDORADO COMUNICACAO E JORNALISMO LTDA",
+      "cnpj": "37894749000130",
+      "total": 70000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 13.1
+    },
+    {
+      "nome": "SHEKINAH LOCACAO DE VEICULOS EIRELI",
+      "cnpj": "34300771000116",
+      "total": 66519.1,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 12.45
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 61664.03,
+      "quantidade_transacoes": 84,
+      "porcentagem_do_total": 11.54
+    },
+    {
+      "nome": "GP COBERTURA JORNALISTICA LTDA ME",
+      "cnpj": "28800786000140",
+      "total": 48000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 8.98
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 33150.51,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 6.21
+    },
+    {
+      "nome": "PIONEIRO COMBUSTIVEIS LTDA",
+      "cnpj": "84010040005092",
+      "total": 29927.15,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 5.6
+    },
+    {
+      "nome": "Apoenna de Oliveira Dantas",
+      "cnpj": "34787198000117",
+      "total": 23150.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 4.33
+    },
+    {
+      "nome": "SHEKINAH LOCACAO DE VEICULOS LTDA",
+      "cnpj": "34300771000116",
+      "total": 21000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.93
+    },
+    {
+      "nome": "GP COBERTURA JORNALISTICA LTDA",
+      "cnpj": "28800786000140",
+      "total": 16000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.99
+    },
+    {
+      "nome": "ALFA COMUNICAÇÃO E MARKETING DIGITAL LTDA",
+      "cnpj": "41233483000151",
+      "total": 15000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 2.81
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 32280.03,
+      "porcentagem_do_total": 6.04
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 36892.2,
+      "porcentagem_do_total": 6.91
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 67596.68,
+      "porcentagem_do_total": 12.65
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 39251.69,
+      "porcentagem_do_total": 7.35
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 36976.48,
+      "porcentagem_do_total": 6.92
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 40977.03,
+      "porcentagem_do_total": 7.67
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 35396.42,
+      "porcentagem_do_total": 6.63
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 57745.7,
+      "porcentagem_do_total": 10.81
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 46455.2,
+      "porcentagem_do_total": 8.7
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 49788.81,
+      "porcentagem_do_total": 9.32
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 54005.59,
+      "porcentagem_do_total": 10.11
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 36868.43,
+      "porcentagem_do_total": 6.9
+    }
+  ]
+}

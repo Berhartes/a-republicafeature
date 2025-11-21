@@ -3,14 +3,14 @@
     "fornecedor": {
       "nome": "POSTO VALE OURO LTDA",
       "cnpj": "30285425000155",
-      "total_recebido": 781.4200000000001,
+      "total_recebido": 781.42,
       "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:24.397250"
+    "generatedAt": "2025-11-11T05:22:39.903686"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 781.4200000000001
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 781.42
   },
   "anos": {
     "2023": {
@@ -35,6 +35,7 @@
         "id": 74057,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
         "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
         "siglaPartido": "PCdoB",
         "uriPartido": "",
         "siglaUf": "BA",
@@ -42,7 +43,7 @@
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
         "email": "dep.aliceportugal@camara.leg.br"
       },
-      "total": 781.4200000000001,
+      "total": 781.42,
       "transacoes": 4,
       "despesas": [
         {
@@ -85,25 +86,6 @@
         },
         {
           "ano": 2025,
-          "mes": 8,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7973601,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-08-20T00:00:00",
-          "numDocumento": "8010",
-          "valorDocumento": 147.42,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7973601",
-          "nomeFornecedor": "POSTO VALE OURO LTDA",
-          "cnpjCpfFornecedor": "30285425000155",
-          "valorLiquido": 147.42,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
           "mes": 7,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7960399,
@@ -116,6 +98,25 @@
           "nomeFornecedor": "POSTO VALE OURO LTDA",
           "cnpjCpfFornecedor": "30285425000155",
           "valorLiquido": 219.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7973601,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-20T00:00:00",
+          "numDocumento": "8010",
+          "valorDocumento": 147.42,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7973601",
+          "nomeFornecedor": "POSTO VALE OURO LTDA",
+          "cnpjCpfFornecedor": "30285425000155",
+          "valorLiquido": 147.42,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

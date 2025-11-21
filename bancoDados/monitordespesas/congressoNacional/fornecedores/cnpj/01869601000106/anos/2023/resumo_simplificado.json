@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "AVENIDA PALACE HOTEL LTDA",
+    "cnpj": "01869601000106",
+    "total_recebido": 497.68,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 497.68,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 497.68,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 497.68,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 497.68,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

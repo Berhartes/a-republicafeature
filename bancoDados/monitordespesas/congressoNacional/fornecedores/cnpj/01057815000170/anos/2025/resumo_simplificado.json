@@ -1,0 +1,72 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO GIRONDA LTDA",
+    "cnpj": "01057815000170",
+    "total_recebido": 1328.8899999999999,
+    "numero_transacoes": 10,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 1055.64,
+  "quantidade_transacoes": 8,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 1055.64,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1055.64,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 134.05,
+      "porcentagem_do_total": 12.7
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 118.44,
+      "porcentagem_do_total": 11.22
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 136.02,
+      "porcentagem_do_total": 12.89
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 180.0,
+      "porcentagem_do_total": 17.05
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 192.05,
+      "porcentagem_do_total": 18.19
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 147.05,
+      "porcentagem_do_total": 13.93
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 148.03,
+      "porcentagem_do_total": 14.02
+    }
+  ]
+}

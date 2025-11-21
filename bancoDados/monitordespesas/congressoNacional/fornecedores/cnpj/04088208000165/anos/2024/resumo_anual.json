@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA",
+      "cnpj": "04088208000165",
+      "total_recebido": 12619.63,
+      "numero_transacoes": 13,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 9307.96,
+    "quantidade_transacoes": 9,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-02-03T00:00:00",
+    "periodo_fim": "2024-12-04T00:00:00",
+    "generatedAt": "2025-11-11T21:38:04.097009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 9307.96,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 9307.96,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 838.9,
+      "porcentagem_do_total": 9.01
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 963.82,
+      "porcentagem_do_total": 10.35
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 989.49,
+      "porcentagem_do_total": 10.63
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 1189.3,
+      "porcentagem_do_total": 12.78
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 1352.55,
+      "porcentagem_do_total": 14.53
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 920.93,
+      "porcentagem_do_total": 9.89
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 1078.28,
+      "porcentagem_do_total": 11.58
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 982.79,
+      "porcentagem_do_total": 10.56
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 991.9,
+      "porcentagem_do_total": 10.66
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 1,
+      "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "codDocumento": 7682285,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-02-03T00:00:00",
+      "numDocumento": "575077999",
+      "valorDocumento": 838.9,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7682285.pdf",
+      "nomeFornecedor": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA",
+      "cnpjCpfFornecedor": "04088208000165",
+      "valorLiquido": 838.9,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2010451,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 2,
+      "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "codDocumento": 7695839,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-03-03T00:00:00",
+      "numDocumento": "579267127",
+      "valorDocumento": 963.82,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7695839.pdf",
+      "nomeFornecedor": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA",
+      "cnpjCpfFornecedor": "04088208000165",
+      "valorLiquido": 963.82,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2017901,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 4,
+      "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "codDocumento": 7730889,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-05-03T00:00:00",
+      "numDocumento": "2488521479",
+      "valorDocumento": 989.49,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7730889.pdf",
+      "nomeFornecedor": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
+      "cnpjCpfFornecedor": "04088208000165",
+      "valorLiquido": 989.49,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2036627,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "codDocumento": 7746084,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-06-03T00:00:00",
+      "numDocumento": "591683303",
+      "valorDocumento": 1189.3,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7746084.pdf",
+      "nomeFornecedor": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
+      "cnpjCpfFornecedor": "04088208000165",
+      "valorLiquido": 1189.3,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2044942,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "codDocumento": 7764640,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-07-03T00:00:00",
+      "numDocumento": "595837658",
+      "valorDocumento": 1352.55,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7764640.pdf",
+      "nomeFornecedor": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
+      "cnpjCpfFornecedor": "04088208000165",
+      "valorLiquido": 1352.55,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2055041,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 8,
+      "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "codDocumento": 7796962,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-09-03T00:00:00",
+      "numDocumento": "604234268",
+      "valorDocumento": 952.08,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7796962.pdf",
+      "nomeFornecedor": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
+      "cnpjCpfFornecedor": "04088208000165",
+      "valorLiquido": 920.93,
+      "valorGlosa": 31.15,
+      "numRessarcimento": "",
+      "codLote": 2070837,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 9,
+      "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "codDocumento": 7813091,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-10-03T00:00:00",
+      "numDocumento": "608365127",
+      "valorDocumento": 1078.28,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7813091.pdf",
+      "nomeFornecedor": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
+      "cnpjCpfFornecedor": "04088208000165",
+      "valorLiquido": 1078.28,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2079957,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "codDocumento": 7825696,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-11-03T00:00:00",
+      "numDocumento": "612550755",
+      "valorDocumento": 982.79,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7825696.pdf",
+      "nomeFornecedor": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
+      "cnpjCpfFornecedor": "04088208000165",
+      "valorLiquido": 982.79,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2086485,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "codDocumento": 7840265,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-12-04T00:00:00",
+      "numDocumento": "616810521",
+      "valorDocumento": 991.9,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7840265.pdf",
+      "nomeFornecedor": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
+      "cnpjCpfFornecedor": "04088208000165",
+      "valorLiquido": 991.9,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2094422,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "LENHART E LENHART LTDA",
+      "cnpj": "03128524000312",
+      "total_recebido": 314.5,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:11.411282"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 314.5
+  },
+  "anos": {
+    "2024": {
+      "total": 314.5,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "136811": {
+      "deputado": {
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
+      },
+      "total": 314.5,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7784695,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-02T11:12:10",
+          "numDocumento": "45738",
+          "valorDocumento": 214.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7784695",
+          "nomeFornecedor": "LENHART E LENHART LTDA",
+          "cnpjCpfFornecedor": "03128524000312",
+          "valorLiquido": 214.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7784721,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-02T11:13:38",
+          "numDocumento": "45739",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7784721",
+          "nomeFornecedor": "LENHART E LENHART LTDA",
+          "cnpjCpfFornecedor": "03128524000312",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

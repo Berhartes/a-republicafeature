@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "POSTO ITAMARATY LTDA",
+    "cnpj": "00314831000138",
+    "total_recebido": 406.09,
+    "numero_transacoes": 2,
+    "numero_deputados": 2
+  },
+  "ano": 2023,
+  "total_recebido": 256.09,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 256.09,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 256.09,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 256.09,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

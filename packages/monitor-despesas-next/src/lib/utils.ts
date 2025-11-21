@@ -21,11 +21,11 @@ export function formatTime(ms: number): string {
   return `${minutes}m ${seconds}s`
 }
 
+import { formatCurrencyBRL } from '@/lib/formatters'
+
 export function formatCurrency(value: number): string {
-  return new Intl.NumberFormat('pt-BR', {
-    style: 'currency',
-    currency: 'BRL'
-  }).format(value)
+  // Usa o formatador estável da aplicação para garantir consistência SSR/CSR
+  return formatCurrencyBRL(value)
 }
 
 export function formatNumber(num: number): string {

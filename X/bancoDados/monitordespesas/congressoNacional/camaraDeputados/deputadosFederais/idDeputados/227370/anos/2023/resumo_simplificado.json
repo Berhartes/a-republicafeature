@@ -1,0 +1,128 @@
+{
+  "deputado": {
+    "id": 227370,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227370",
+    "nome": "Felipe Saliba",
+    "siglaPartido": "PRD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/227370.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 24029.25,
+  "quantidade_transacoes": 48,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 6966.66,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 28.99
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 5800.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 24.14
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 4246.36,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 17.67
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 2907.5,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 12.1
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 2663.62,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 11.08
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TARGET RENT A CAR LTDA",
+      "cnpj": "21652672000151",
+      "total": 6966.66,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 28.99
+    },
+    {
+      "nome": "IGARAPÉ ADMINISTRAÇÃO E CONSULTORIA LTDA",
+      "cnpj": "24104083000127",
+      "total": 5800.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 24.14
+    },
+    {
+      "nome": "Gol Linhas Aereas S.A.",
+      "cnpj": "07575651000159",
+      "total": 2215.41,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 9.22
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 1809.51,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 7.53
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 854.11,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.55
+    },
+    {
+      "nome": "ABAETE LINHAS AÉREAS LTDA",
+      "cnpj": "00317929000149",
+      "total": 692.09,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.88
+    },
+    {
+      "nome": "Facebook Serviços Online do Brasil ltda",
+      "cnpj": "13347016000117",
+      "total": 677.29,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.82
+    },
+    {
+      "nome": "Posto Cristiano Machado Ltda.",
+      "cnpj": "26841315000155",
+      "total": 400.01,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.66
+    },
+    {
+      "nome": "MORRO AZUL COMERCIO DE PETROLEO LTDA",
+      "cnpj": "72620412000135",
+      "total": 400.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.66
+    },
+    {
+      "nome": "QUALYCOPIAS SISTEMAS REPROGRÁFICOS E EDITORA",
+      "cnpj": "03284846000199",
+      "total": 351.2,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.46
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 24029.25,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

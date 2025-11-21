@@ -1,0 +1,152 @@
+{
+  "deputado": {
+    "id": 229106,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/229106",
+    "nome": "Carla Ayres",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "SC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/229106.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 128893.75,
+  "quantidade_transacoes": 372,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 39710.55,
+      "quantidade_transacoes": 47,
+      "porcentagem_do_total": 30.81
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 28899.27,
+      "quantidade_transacoes": 132,
+      "porcentagem_do_total": 22.42
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 26179.04,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 20.31
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 13153.07,
+      "quantidade_transacoes": 38,
+      "porcentagem_do_total": 10.2
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 12150.85,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 9.43
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 21752.63,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 16.88
+    },
+    {
+      "nome": "LOCALIZA RENT A CAR SA",
+      "cnpj": "16670085006358",
+      "total": 11471.08,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 8.9
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 10875.08,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 8.44
+    },
+    {
+      "nome": "AUTO LOCADORA HS LTDA - LOCALIZA",
+      "cnpj": "78355484000693",
+      "total": 10565.78,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 8.2
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 7082.84,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 5.5
+    },
+    {
+      "nome": "POSTO MILAO LTDA",
+      "cnpj": "06010428000100",
+      "total": 5360.54,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 4.16
+    },
+    {
+      "nome": "LUCAS MACHADO COMUNICAÇÃO",
+      "cnpj": "53945953000199",
+      "total": 4890.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.79
+    },
+    {
+      "nome": "ANTONIO VITORIO PELIZZA",
+      "cnpj": "13633818000193",
+      "total": 3467.23,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 2.69
+    },
+    {
+      "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpj": "17895646000187",
+      "total": 2669.82,
+      "quantidade_transacoes": 90,
+      "porcentagem_do_total": 2.07
+    },
+    {
+      "nome": "ZOOM VIDEO COMMUNICATIONS INC",
+      "cnpj": "00000000000010",
+      "total": 2626.99,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.04
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 5724.42,
+      "porcentagem_do_total": 4.44
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 53069.47,
+      "porcentagem_do_total": 41.17
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 33571.71,
+      "porcentagem_do_total": 26.05
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 21237.64,
+      "porcentagem_do_total": 16.48
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 15290.51,
+      "porcentagem_do_total": 11.86
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:12:10Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00121811000574"
+  },
+  "data": {
+    "cnpj": "00121811000574",
+    "nome": "POSTO SHOPPING CAR COMBUSTIVEIS LTDA - VA",
+    "nomeFornecedor": "POSTO SHOPPING CAR COMBUSTIVEIS LTDA - VA",
+    "totalTransacionado": 187.03,
+    "totalRecebido": 187.03,
+    "totalRecebidoTodos": 187.03,
+    "transacoes": 1,
+    "numeroTransacoes": 1,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [
+      {
+        "id": "178962",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 187.03,
+        "transacoes": 1
+      }
+    ],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 187.03,
+        "quantidade": 1
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 187.03,
+        "quantidade": 1
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 187.03,
+        "transacoes": 1,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 187.03,
+        "ano": 2023,
+        "mes": 8,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "500994",
+        "dataDocumento": "2023-08-26T00:00:00",
+        "deputadoId": "178962",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 187.03,
+        "valorLiquido": 187.03,
+        "valorDocumento": 187.03,
+        "ano": 2023,
+        "mes": 8,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2023-08-26T00:00:00",
+        "data": "2023-08-26T00:00:00",
+        "numDocumento": "500994",
+        "codDocumento": 7599817,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7599817",
+        "deputadoId": "178962",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "POSTO SHOPPING CAR COMBUSTIVEIS LTDA - VA",
+        "cnpj": "00121811000574",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7599817"
+      }
+    ],
+    "totalTransacoesDetalhadas": 1,
+    "aliases": [
+      "00121811000574"
+    ],
+    "temDetalhes": true
+  }
+}

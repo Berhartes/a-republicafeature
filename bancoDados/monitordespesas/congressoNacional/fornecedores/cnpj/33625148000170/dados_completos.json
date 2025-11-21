@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PRIME DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "33625148000170",
+      "total_recebido": 842.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:59.253006"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 842.0
+  },
+  "anos": {
+    "2024": {
+      "total": 260.0,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 582.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204379": {
+      "deputado": {
+        "id": 204379,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204379",
+        "nome": "Acácio Favacho",
+        "siglaPartido": "MDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204379.jpg",
+        "email": "dep.acaciofavacho@camara.leg.br"
+      },
+      "total": 842.0,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7825412,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-10-10T15:46:36",
+          "numDocumento": "138693",
+          "valorDocumento": 110.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7825412",
+          "nomeFornecedor": "PRIME DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "33625148000170",
+          "valorLiquido": 110.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2086263,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7693703,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-01-15T00:00:00",
+          "numDocumento": "413017",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7693703",
+          "nomeFornecedor": "PRIME DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "33625148000170",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2016684,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7920056,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-05-19T00:00:00",
+          "numDocumento": "158101",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7920056",
+          "nomeFornecedor": "PRIME DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "33625148000170",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2138301,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 8010477,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-10-10T00:00:00",
+          "numDocumento": "171276",
+          "valorDocumento": 282.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8010477",
+          "nomeFornecedor": "PRIME DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "33625148000170",
+          "valorLiquido": 282.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2187158,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

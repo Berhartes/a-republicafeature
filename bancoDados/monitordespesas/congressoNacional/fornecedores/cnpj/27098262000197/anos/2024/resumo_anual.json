@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Lbf - Comercio de Combustiveis Ltda",
+      "cnpj": "27098262000197",
+      "total_recebido": 1165.58,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 1165.58,
+    "quantidade_transacoes": 6,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-02-02T00:00:00",
+    "periodo_fim": "2024-12-29T00:00:00",
+    "generatedAt": "2025-11-11T21:37:56.483482"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 1165.58,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1165.58,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 109.36,
+      "porcentagem_do_total": 9.38
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 180.81,
+      "porcentagem_do_total": 15.51
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 122.27,
+      "porcentagem_do_total": 10.49
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 753.14,
+      "porcentagem_do_total": 64.62
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7681857,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-02-02T00:00:00",
+      "numDocumento": "131101",
+      "valorDocumento": 109.36,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7681857",
+      "nomeFornecedor": "Lbf - Comercio de Combustiveis Ltda",
+      "cnpjCpfFornecedor": "27098262000197",
+      "valorLiquido": 109.36,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2010252,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7814910,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-10-07T00:00:00",
+      "numDocumento": "156820",
+      "valorDocumento": 122.27,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7814910",
+      "nomeFornecedor": "Lbf - Comercio de Combustiveis Ltda",
+      "cnpjCpfFornecedor": "27098262000197",
+      "valorLiquido": 122.27,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2080757,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7852262,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-12-26T00:00:00",
+      "numDocumento": "163962",
+      "valorDocumento": 470.06,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7852262",
+      "nomeFornecedor": "Lbf - Comercio de Combustiveis Ltda",
+      "cnpjCpfFornecedor": "27098262000197",
+      "valorLiquido": 470.06,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2100893,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7852259,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-12-29T00:00:00",
+      "numDocumento": "164201",
+      "valorDocumento": 108.04,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7852259",
+      "nomeFornecedor": "Lbf - Comercio de Combustiveis Ltda",
+      "cnpjCpfFornecedor": "27098262000197",
+      "valorLiquido": 108.04,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2100893,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7772388,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-07-15T00:00:00",
+      "numDocumento": "66796",
+      "valorDocumento": 180.81,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7772388",
+      "nomeFornecedor": "Lbf - Comercio de Combustiveis Ltda",
+      "cnpjCpfFornecedor": "27098262000197",
+      "valorLiquido": 180.81,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2058605,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7841755,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-12-07T00:00:00",
+      "numDocumento": "9651",
+      "valorDocumento": 175.04,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7841755",
+      "nomeFornecedor": "Lbf - Comercio de Combustiveis Ltda",
+      "cnpjCpfFornecedor": "27098262000197",
+      "valorLiquido": 175.04,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2095285,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

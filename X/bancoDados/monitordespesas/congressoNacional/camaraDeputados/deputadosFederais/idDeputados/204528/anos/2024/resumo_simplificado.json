@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 204528,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204528",
+    "nome": "Adriana Ventura",
+    "siglaPartido": "NOVO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37901",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
+    "email": "dep.adrianaventura@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 67109.05,
+  "quantidade_transacoes": 333,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 30896.96,
+      "quantidade_transacoes": 87,
+      "porcentagem_do_total": 46.04
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 13006.28,
+      "quantidade_transacoes": 127,
+      "porcentagem_do_total": 19.38
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 11031.52,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 16.44
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 3985.4,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 5.94
+    },
+    {
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "total": 3920.76,
+      "quantidade_transacoes": 95,
+      "porcentagem_do_total": 5.84
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 16226.02,
+      "quantidade_transacoes": 83,
+      "porcentagem_do_total": 24.18
+    },
+    {
+      "nome": "Airtable",
+      "cnpj": "00000000000010",
+      "total": 8821.39,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 13.14
+    },
+    {
+      "nome": "BRASIL CLOUD SERVIÇOS DE COMPUTAÇAO EM NUVEM LTDA ME",
+      "cnpj": "07951563000104",
+      "total": 7156.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 10.66
+    },
+    {
+      "nome": "40.877.217 GEFERSON LUIZ RODRIGUES",
+      "cnpj": "40877217000107",
+      "total": 4650.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 6.93
+    },
+    {
+      "nome": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA - SCP FUSION",
+      "cnpj": "05217384001003",
+      "total": 3985.4,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 5.94
+    },
+    {
+      "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
+      "cnpj": "17895646000187",
+      "total": 3788.16,
+      "quantidade_transacoes": 93,
+      "porcentagem_do_total": 5.64
+    },
+    {
+      "nome": "Adobe Systems Software Ireland Ltd",
+      "cnpj": "00000000000010",
+      "total": 3025.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 4.51
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 2996.88,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 4.47
+    },
+    {
+      "nome": "Datafy Analytics e Desenvolvimento de Projetos LTDA",
+      "cnpj": "32836871000136",
+      "total": 2980.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.44
+    },
+    {
+      "nome": "44.561.106 THIAGO HIGINO PEREIRA",
+      "cnpj": "44561106000130",
+      "total": 2500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.73
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 5541.3,
+      "porcentagem_do_total": 8.26
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 4110.69,
+      "porcentagem_do_total": 6.13
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 3545.9,
+      "porcentagem_do_total": 5.28
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 223.52,
+      "porcentagem_do_total": 0.33
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 8710.42,
+      "porcentagem_do_total": 12.98
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 3548.35,
+      "porcentagem_do_total": 5.29
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 2432.63,
+      "porcentagem_do_total": 3.62
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 6784.87,
+      "porcentagem_do_total": 10.11
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 2329.27,
+      "porcentagem_do_total": 3.47
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 1760.02,
+      "porcentagem_do_total": 2.62
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 7024.71,
+      "porcentagem_do_total": 10.47
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 21097.37,
+      "porcentagem_do_total": 31.44
+    }
+  ]
+}

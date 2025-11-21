@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 143942,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143942",
+    "nome": "Caio Vianna",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/143942.jpg",
+    "email": "dep.caiovianna@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 236424.42,
+  "quantidade_transacoes": 236,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 100000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 42.3
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 92978.28,
+      "quantidade_transacoes": 144,
+      "porcentagem_do_total": 39.33
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 20700.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 8.76
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 8561.84,
+      "quantidade_transacoes": 45,
+      "porcentagem_do_total": 3.62
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 7217.3,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.05
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "INGRESSO TOTAL SERVICOS ELETRONICOS LTDA",
+      "cnpj": "09195837000108",
+      "total": 100000.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 42.3
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 72666.41,
+      "quantidade_transacoes": 108,
+      "porcentagem_do_total": 30.74
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 20700.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 8.76
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 11303.05,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 4.78
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 9008.82,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 3.81
+    },
+    {
+      "nome": "HOTEL BOURBON DE FOZ DO IGUACU LTDA",
+      "cnpj": "77768943000193",
+      "total": 3346.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.42
+    },
+    {
+      "nome": "SANDRA MARIA FONSECA NOGUEIRA ESTACIONAMENTOS LTDA",
+      "cnpj": "05725292001891",
+      "total": 2392.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.01
+    },
+    {
+      "nome": "CONDOMINIO DO EDIFÍCIO SHERATON BARRA",
+      "cnpj": "05597887000160",
+      "total": 2375.3,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.0
+    },
+    {
+      "nome": "WINDSOR ADMINISTRAÇÃO DE HOTEIS E SERVIÇOS LTDA",
+      "cnpj": "10348318001436",
+      "total": 2244.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.95
+    },
+    {
+      "nome": "123 Viagens e Turismo Ltda",
+      "cnpj": "26669170000157",
+      "total": 1716.68,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.73
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 6542.96,
+      "porcentagem_do_total": 2.77
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 28296.67,
+      "porcentagem_do_total": 11.97
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 38699.23,
+      "porcentagem_do_total": 16.37
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 43888.49,
+      "porcentagem_do_total": 18.56
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 47023.42,
+      "porcentagem_do_total": 19.89
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 43931.53,
+      "porcentagem_do_total": 18.58
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 16017.84,
+      "porcentagem_do_total": 6.78
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 12024.28,
+      "porcentagem_do_total": 5.09
+    }
+  ]
+}

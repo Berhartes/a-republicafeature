@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 220652,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220652",
+    "nome": "Delegado Palumbo",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220652.jpg",
+    "email": "dep.delegadopalumbo@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 462429.89,
+  "quantidade_transacoes": 545,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 180000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 38.92
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 126723.36,
+      "quantidade_transacoes": 85,
+      "porcentagem_do_total": 27.4
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 66000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 14.27
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 31900.8,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 6.9
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 28100.35,
+      "quantidade_transacoes": 127,
+      "porcentagem_do_total": 6.08
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "SLAPP COMUNICAÇÃO EIRELI ME",
+      "cnpj": "21532720000178",
+      "total": 180000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 38.92
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 66000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 14.27
+    },
+    {
+      "nome": "ANDREA WAGNER BALLARIN",
+      "cnpj": "13095178867",
+      "total": 35496.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 7.68
+    },
+    {
+      "nome": "PAULA WAGNER BALLARIN FRATECHI",
+      "cnpj": "15821150876",
+      "total": 35496.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 7.68
+    },
+    {
+      "nome": "K2G SUPRIMENTOS DE IMPRESSAO E INFORMATICA EIRELLI",
+      "cnpj": "19367661000188",
+      "total": 35094.0,
+      "quantidade_transacoes": 33,
+      "porcentagem_do_total": 7.59
+    },
+    {
+      "nome": "FORT WORK SEGURANÇA PATRIMONIAL EIRELI",
+      "cnpj": "33508807000199",
+      "total": 31900.8,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 6.9
+    },
+    {
+      "nome": "AUTO POSTO BAURU LTDA",
+      "cnpj": "60830627000100",
+      "total": 9918.54,
+      "quantidade_transacoes": 41,
+      "porcentagem_do_total": 2.14
+    },
+    {
+      "nome": "Aparece Brasil Consultoria LTDA ME",
+      "cnpj": "17673685000130",
+      "total": 7200.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.56
+    },
+    {
+      "nome": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
+      "cnpj": "04088208000165",
+      "total": 6936.08,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.5
+    },
+    {
+      "nome": "ENEL - Eletropaulo Metropolitana Eletricidade de São Paulo S. A.",
+      "cnpj": "61695227000193",
+      "total": 6748.5,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 1.46
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 40420.77,
+      "porcentagem_do_total": 8.74
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 41599.06,
+      "porcentagem_do_total": 9.0
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 42459.59,
+      "porcentagem_do_total": 9.18
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 43233.2,
+      "porcentagem_do_total": 9.35
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 42927.17,
+      "porcentagem_do_total": 9.28
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 34904.93,
+      "porcentagem_do_total": 7.55
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 34875.74,
+      "porcentagem_do_total": 7.54
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 39218.21,
+      "porcentagem_do_total": 8.48
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 35734.09,
+      "porcentagem_do_total": 7.73
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 34526.63,
+      "porcentagem_do_total": 7.47
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 37203.73,
+      "porcentagem_do_total": 8.05
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 35326.77,
+      "porcentagem_do_total": 7.64
+    }
+  ]
+}

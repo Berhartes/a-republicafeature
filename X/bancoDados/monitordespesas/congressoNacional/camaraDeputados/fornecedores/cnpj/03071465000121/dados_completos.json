@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Hotel Portal D Oeste Ltda",
+      "cnpj": "03071465000121",
+      "total_recebido": 250.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:24.633540"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 250.0
+  },
+  "anos": {
+    "2025": {
+      "total": 250.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221148": {
+      "deputado": {
+        "id": 221148,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221148",
+        "nome": "Alfredinho",
+        "nomeEleitoral": "Alfredinho",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221148.jpg",
+        "email": "dep.alfredinho@camara.leg.br"
+      },
+      "total": 250.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7958551,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-22T00:00:00",
+          "numDocumento": "167229",
+          "valorDocumento": 250.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3505/2025/7958551.pdf",
+          "nomeFornecedor": "Hotel Portal D Oeste Ltda",
+          "cnpjCpfFornecedor": "03071465000121",
+          "valorLiquido": 250.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

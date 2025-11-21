@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 143632,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143632",
+      "nome": "Domingos Neto",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "CE",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/143632.jpg",
+      "email": "dep.domingosneto@camara.leg.br"
+    },
+    "ano": 2022,
+    "total_despesas": 6168.24,
+    "quantidade_transacoes": 1,
+    "quantidade_categorias": 1,
+    "quantidade_fornecedores": 1,
+    "periodo_inicio": "2023-03-02T00:00:00",
+    "periodo_fim": "2023-03-02T00:00:00",
+    "generatedAt": "2025-11-10T22:31:06.216618"
+  },
+  "resumo_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 6168.24,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_fornecedores": [
+    {
+      "nome": "HPE AUTOMOTORES DO BRASIL LTDA",
+      "cnpj": "46054009000186",
+      "total": 6168.24,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 6168.24,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2022,
+      "mes": 12,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7503963,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-03-02T00:00:00",
+      "numDocumento": "14075",
+      "valorDocumento": 10760.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2329/2023/7503963.pdf",
+      "nomeFornecedor": "HPE AUTOMOTORES DO BRASIL LTDA",
+      "cnpjCpfFornecedor": "46054009000186",
+      "valorLiquido": 6168.24,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1911632,
+      "parcela": 1
+    }
+  ]
+}

@@ -3,71 +3,53 @@
     "fornecedor": {
       "nome": "SOBRAL &amp; FILHOS COMERCIO DE COMBUSTIVEIS LTDA -POSTO SAO",
       "cnpj": "11322064001288",
-      "total_recebido": 730.5799999999999,
-      "numero_transacoes": 2,
+      "total_recebido": 200.0,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:57:28.052083"
+    "generatedAt": "2025-11-11T05:22:40.004688"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 730.5799999999999
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 200.0
   },
   "anos": {
     "2024": {
-      "total": 730.5799999999999,
-      "transacoes": 2,
+      "total": 200.0,
+      "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "69871": {
+    "74057": {
       "deputado": {
-        "id": 69871,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/69871",
-        "nome": "Bacelar",
-        "siglaPartido": "PV",
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
         "uriPartido": "",
         "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
-        "email": "dep.bacelar@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
       },
-      "total": 730.5799999999999,
-      "transacoes": 2,
+      "total": 200.0,
+      "transacoes": 1,
       "despesas": [
         {
           "ano": 2024,
-          "mes": 5,
+          "mes": 7,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7748452,
+          "codDocumento": 7778128,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-05-28T11:07:42",
-          "numDocumento": "99260",
-          "valorDocumento": 395.31,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7748452",
+          "dataDocumento": "2024-07-09T16:41:01",
+          "numDocumento": "112145",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7778128",
           "nomeFornecedor": "SOBRAL &amp; FILHOS COMERCIO DE COMBUSTIVEIS LTDA -POSTO SAO",
           "cnpjCpfFornecedor": "11322064001288",
-          "valorLiquido": 395.31,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 4,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7733278,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-04-30T00:00:00",
-          "numDocumento": "90023",
-          "valorDocumento": 335.27,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2985/2024/7733278.pdf",
-          "nomeFornecedor": "SOBRAL &amp; FILHOS COMERCIO DE COMBUSTIVEIS LTDA -POSTO SAO",
-          "cnpjCpfFornecedor": "11322064001288",
-          "valorLiquido": 335.27,
+          "valorLiquido": 200.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

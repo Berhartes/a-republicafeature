@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "R & E LOCADORA LTDA",
+      "cnpj": "10198929000120",
+      "total_recebido": 2713.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:07.052643"
+  },
+  "categorias": {
+    "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 2713.0
+  },
+  "anos": {
+    "2023": {
+      "total": 2713.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204560": {
+      "deputado": {
+        "id": 204560,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204560",
+        "nome": "Adolfo Viana",
+        "nomeEleitoral": "Adolfo Viana",
+        "siglaPartido": "PSDB",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
+        "email": "dep.adolfoviana@camara.leg.br"
+      },
+      "total": 2713.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7543353,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-12T00:00:00",
+          "numDocumento": "12",
+          "valorDocumento": 4560.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3326/2023/7543353.pdf",
+          "nomeFornecedor": "R & E LOCADORA LTDA",
+          "cnpjCpfFornecedor": "10198929000120",
+          "valorLiquido": 2713.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

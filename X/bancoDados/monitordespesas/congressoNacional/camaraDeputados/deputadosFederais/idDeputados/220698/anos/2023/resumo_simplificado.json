@@ -1,0 +1,146 @@
+{
+  "deputado": {
+    "id": 220698,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220698",
+    "nome": "Beto Preto",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 84348.83,
+  "quantidade_transacoes": 104,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 34420.28,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 40.81
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 32850.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 38.95
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 7182.3,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 8.51
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 4877.34,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 5.78
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 2452.4,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 2.91
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TRADE COMUNICAÇAO E MARKETINGS LTDA",
+      "cnpj": "81078289000163",
+      "total": 20000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 23.71
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 16311.74,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 19.34
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 11392.09,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 13.51
+    },
+    {
+      "nome": "TRADE COMUNICACAO E MARKETING SS LTDA",
+      "cnpj": "81078289000163",
+      "total": 10000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 11.86
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 6716.45,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 7.96
+    },
+    {
+      "nome": "D'PONTA MIDIAS E CONSULTORIA LTDA",
+      "cnpj": "07136697000171",
+      "total": 2850.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.38
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 2836.39,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.36
+    },
+    {
+      "nome": "Gol Linhas Aereas S.A.",
+      "cnpj": "07575651000159",
+      "total": 2697.64,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.2
+    },
+    {
+      "nome": "Gol Linhas Aereas Inteligentes",
+      "cnpj": "06164253000187",
+      "total": 1648.27,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.95
+    },
+    {
+      "nome": "BRZ SUL COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "10601388000130",
+      "total": 1197.58,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 1.42
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 20901.07,
+      "porcentagem_do_total": 24.78
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 37802.7,
+      "porcentagem_do_total": 44.82
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 18890.48,
+      "porcentagem_do_total": 22.4
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 6754.58,
+      "porcentagem_do_total": 8.01
+    }
+  ]
+}

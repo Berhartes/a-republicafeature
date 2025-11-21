@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220665,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220665",
+    "nome": "Clarissa Tércio",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "PE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220665.jpg",
+    "email": "dep.clarissatercio@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 266745.27,
+  "quantidade_transacoes": 242,
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 66834.46,
+      "quantidade_transacoes": 36,
+      "porcentagem_do_total": 25.06
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 62469.0,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 23.42
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 48793.63,
+      "quantidade_transacoes": 126,
+      "porcentagem_do_total": 18.29
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 34800.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 13.05
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 29474.93,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 11.05
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "NASHE COMBUSTIVEIS LTDA",
+      "cnpj": "70090972000108",
+      "total": 57938.58,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 21.72
+    },
+    {
+      "nome": "HPE AUTOMOTORES DO BRASIL LTDA",
+      "cnpj": "46054009000186",
+      "total": 52140.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 19.55
+    },
+    {
+      "nome": "V.I.P Segurança LTDA",
+      "cnpj": "52065764000169",
+      "total": 34800.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 13.05
+    },
+    {
+      "nome": "ILA DE SOUZA CABRAL",
+      "cnpj": "61601152434",
+      "total": 22500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 8.44
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 20611.39,
+      "quantidade_transacoes": 83,
+      "porcentagem_do_total": 7.73
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 17462.48,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 6.55
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 10719.76,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 4.02
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 10329.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.87
+    },
+    {
+      "nome": "AUTO POSTO 305 SUL LTDA",
+      "cnpj": "32085527000152",
+      "total": 8703.65,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 3.26
+    },
+    {
+      "nome": "ON OFF Marketing",
+      "cnpj": "21491555000153",
+      "total": 4000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.5
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 15392.77,
+      "porcentagem_do_total": 5.77
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 14112.68,
+      "porcentagem_do_total": 5.29
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 21689.87,
+      "porcentagem_do_total": 8.13
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 23782.49,
+      "porcentagem_do_total": 8.92
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 16762.82,
+      "porcentagem_do_total": 6.28
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 17802.48,
+      "porcentagem_do_total": 6.67
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 15798.83,
+      "porcentagem_do_total": 5.92
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 32650.78,
+      "porcentagem_do_total": 12.24
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 38849.67,
+      "porcentagem_do_total": 14.56
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 33143.88,
+      "porcentagem_do_total": 12.43
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 36759.0,
+      "porcentagem_do_total": 13.78
+    }
+  ]
+}

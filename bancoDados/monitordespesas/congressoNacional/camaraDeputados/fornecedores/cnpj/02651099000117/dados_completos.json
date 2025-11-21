@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.272136"
+    "generatedAt": "2025-11-11T05:22:12.796777"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 761.4300000000001
@@ -30,6 +30,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -40,25 +41,6 @@
       "total": 761.4300000000001,
       "transacoes": 3,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 11,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7639178,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-11-01T00:00:00",
-          "numDocumento": "155240",
-          "valorDocumento": 170.05,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7639178",
-          "nomeFornecedor": "POSTO ALDO JATAI INDUSTRIAL LTDA",
-          "cnpjCpfFornecedor": "02651099000117",
-          "valorLiquido": 170.05,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 10,
@@ -73,6 +55,25 @@
           "nomeFornecedor": "POSTO ALDO JATAI INDUSTRIAL LTDA",
           "cnpjCpfFornecedor": "02651099000117",
           "valorLiquido": 280.06,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7639178,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-01T00:00:00",
+          "numDocumento": "155240",
+          "valorDocumento": 170.05,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7639178",
+          "nomeFornecedor": "POSTO ALDO JATAI INDUSTRIAL LTDA",
+          "cnpjCpfFornecedor": "02651099000117",
+          "valorLiquido": 170.05,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

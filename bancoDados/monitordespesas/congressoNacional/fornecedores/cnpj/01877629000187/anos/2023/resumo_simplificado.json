@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "COM. DE COMB. STA EDWIGES LTDA",
+    "cnpj": "01877629000187",
+    "total_recebido": 1200.8999999999999,
+    "numero_transacoes": 6,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 245.97,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 245.97,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 245.97,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 122.97,
+      "porcentagem_do_total": 49.99
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 123.0,
+      "porcentagem_do_total": 50.01
+    }
+  ]
+}

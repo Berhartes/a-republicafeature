@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220673,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220673",
+    "nome": "Delegado Caveira",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "PA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220673.jpg",
+    "email": "dep.delegadocaveira@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 179475.12,
+  "quantidade_transacoes": 133,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 121400.0,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 67.64
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 27527.42,
+      "quantidade_transacoes": 75,
+      "porcentagem_do_total": 15.34
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 15289.8,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 8.52
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 10598.33,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 5.91
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 3091.57,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.72
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "MARIA DE FATIMA SOUZA DE QUEIROZ",
+      "cnpj": "49603746000189",
+      "total": 50000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 27.86
+    },
+    {
+      "nome": "A M LIBERATO",
+      "cnpj": "22956171000393",
+      "total": 41000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 22.84
+    },
+    {
+      "nome": "Instituto Mais Cidades Assessoria e Consultoria ltda",
+      "cnpj": "43783350000184",
+      "total": 30400.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 16.94
+    },
+    {
+      "nome": "GERALDO JOSE DE FARIA HOTEIS",
+      "cnpj": "36203085000152",
+      "total": 9800.0,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 5.46
+    },
+    {
+      "nome": "IRMAOS TEIXEIRA LTDA",
+      "cnpj": "04976718000845",
+      "total": 5848.29,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 3.26
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 4104.47,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.29
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
+      "cnpj": "32590257000137",
+      "total": 3550.57,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.98
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 3362.18,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.87
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 3131.68,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.74
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 3091.57,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.72
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 10580.05,
+      "porcentagem_do_total": 5.89
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 11914.13,
+      "porcentagem_do_total": 6.64
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 13274.98,
+      "porcentagem_do_total": 7.4
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 8945.45,
+      "porcentagem_do_total": 4.98
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 10448.0,
+      "porcentagem_do_total": 5.82
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 52339.98,
+      "porcentagem_do_total": 29.16
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 23015.72,
+      "porcentagem_do_total": 12.82
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 15393.6,
+      "porcentagem_do_total": 8.58
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 14864.36,
+      "porcentagem_do_total": 8.28
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 18698.85,
+      "porcentagem_do_total": 10.42
+    }
+  ]
+}

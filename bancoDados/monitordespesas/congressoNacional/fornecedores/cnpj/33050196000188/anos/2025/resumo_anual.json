@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CPFL energia",
+      "cnpj": "33050196000188",
+      "total_recebido": 1005.5699999999998,
+      "numero_transacoes": 20,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 364.73,
+    "quantidade_transacoes": 8,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-01-23T00:00:00",
+    "periodo_fim": "2025-09-16T00:00:00",
+    "generatedAt": "2025-11-11T21:38:02.290013"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 364.73,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 364.73,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 38.27,
+      "porcentagem_do_total": 10.49
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 42.17,
+      "porcentagem_do_total": 11.56
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 68.36,
+      "porcentagem_do_total": 18.74
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 44.91,
+      "porcentagem_do_total": 12.31
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 42.55,
+      "porcentagem_do_total": 11.67
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 38.01,
+      "porcentagem_do_total": 10.42
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 33.33,
+      "porcentagem_do_total": 9.14
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 57.13,
+      "porcentagem_do_total": 15.66
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 1,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7866040,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-01-23T00:00:00",
+      "numDocumento": "406613322",
+      "valorDocumento": 38.27,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7866040.pdf",
+      "nomeFornecedor": "CPFL energia",
+      "cnpjCpfFornecedor": "33050196000188",
+      "valorLiquido": 38.27,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2108788,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7879579,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-02-14T00:00:00",
+      "numDocumento": "410451400",
+      "valorDocumento": 42.17,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7879579.pdf",
+      "nomeFornecedor": "CPFL energia",
+      "cnpjCpfFornecedor": "33050196000188",
+      "valorLiquido": 42.17,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2116678,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2025,
+      "mes": 3,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7892283,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-03-18T00:00:00",
+      "numDocumento": "415444526",
+      "valorDocumento": 68.36,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7892283.pdf",
+      "nomeFornecedor": "CPFL energia",
+      "cnpjCpfFornecedor": "33050196000188",
+      "valorLiquido": 68.36,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2123474,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2025,
+      "mes": 4,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7912757,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-04-16T00:00:00",
+      "numDocumento": "420632215",
+      "valorDocumento": 44.91,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7912757.pdf",
+      "nomeFornecedor": "CPFL energia",
+      "cnpjCpfFornecedor": "33050196000188",
+      "valorLiquido": 44.91,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2134432,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2025,
+      "mes": 5,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7929349,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-05-16T00:00:00",
+      "numDocumento": "425846031",
+      "valorDocumento": 42.55,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7929349.pdf",
+      "nomeFornecedor": "CPFL energia",
+      "cnpjCpfFornecedor": "33050196000188",
+      "valorLiquido": 42.55,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2144448,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2025,
+      "mes": 7,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7961829,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-07-17T00:00:00",
+      "numDocumento": "436193313",
+      "valorDocumento": 38.01,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7961829.pdf",
+      "nomeFornecedor": "CPFL energia",
+      "cnpjCpfFornecedor": "33050196000188",
+      "valorLiquido": 38.01,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2161224,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2025,
+      "mes": 8,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7980347,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-08-18T00:00:00",
+      "numDocumento": "441404441",
+      "valorDocumento": 33.33,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7980347.pdf",
+      "nomeFornecedor": "CPFL energia",
+      "cnpjCpfFornecedor": "33050196000188",
+      "valorLiquido": 33.33,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2171404,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2025,
+      "mes": 9,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7995280,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-09-16T00:00:00",
+      "numDocumento": "446630654",
+      "valorDocumento": 57.13,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7995280.pdf",
+      "nomeFornecedor": "CPFL energia",
+      "cnpjCpfFornecedor": "33050196000188",
+      "valorLiquido": 57.13,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2179093,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

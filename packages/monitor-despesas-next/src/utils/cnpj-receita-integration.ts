@@ -1,5 +1,5 @@
 import { CNPJValidationResult } from './cnpj-validator'
-import { fetchFromCDN } from './cdn-fetcher'
+// Dados devem ser carregados exclusivamente do ETL via fontes de cache
 
 export interface ReceitaData {
   cnpj: string
@@ -163,15 +163,15 @@ class CNPJReceitaIntegration {
 
   private async loadCacheFromCDN(): Promise<void> {
     try {
-      const response = await fetchFromCDN<CnpjCacheResponse>('cnpj-cache.json', {
-        preferCompressed: true
-      })
+      const { loadCacheByKeyWithSource } = await import('@/lib/cache/cache-sources')
+      const result = await loadCacheByKeyWithSource<CnpjCacheResponse>('cnpj-cache')
+      const response = result.data as CnpjCacheResponse | null
 
       if (!response || !Array.isArray(response.data) || response.data.length === 0) {
         throw new Error('cnpj-cache.json vazio ou indisponível')
       }
 
-  this.cache.clear()
+      this.cache.clear()
 
       response.data.forEach(entry => {
         const cnpj = this.normalizeCNPJ(entry.cnpj)
@@ -207,7 +207,7 @@ class CNPJReceitaIntegration {
   }
 
   async validarComReceita(cnpjOriginal: string): Promise<CNPJReceitaValidation> {
-    const { CNPJValidator } = await import('./cnpj-validator.js')
+  const { CNPJValidator } = await import('./cnpj-validator')
     const validacaoBase = CNPJValidator.validate(cnpjOriginal)
 
     const resultado: CNPJReceitaValidation = {

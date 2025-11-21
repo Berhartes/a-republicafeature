@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 220540,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220540",
+    "nome": "Duda Ramos",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "RR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
+    "email": "dep.dudaramos@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 578109.12,
+  "quantidade_transacoes": 175,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 319358.06,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 55.24
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 132176.87,
+      "quantidade_transacoes": 111,
+      "porcentagem_do_total": 22.86
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 94902.75,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 16.42
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 12322.14,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 2.13
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "total": 12000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.08
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CESAR V. M. SANTANA EIRELI-ME",
+      "cnpj": "07590103000106",
+      "total": 244428.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 42.28
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 88574.38,
+      "quantidade_transacoes": 78,
+      "porcentagem_do_total": 15.32
+    },
+    {
+      "nome": "AUTO POSTO ABEL  GALINHA LTDA MATRIZ",
+      "cnpj": "00376437000124",
+      "total": 61604.35,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 10.66
+    },
+    {
+      "nome": "WILENS DA SILVA BRASIL",
+      "cnpj": "41275183000135",
+      "total": 50000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 8.65
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS 206 LTDA",
+      "cnpj": "40084269000118",
+      "total": 33298.4,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 5.76
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 28493.7,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 4.93
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 15108.79,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 2.61
+    },
+    {
+      "nome": "A. R. T. TAXI AEREO LTDA",
+      "cnpj": "10441464000278",
+      "total": 12000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.08
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 10520.09,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.82
+    },
+    {
+      "nome": "PAULO HEYDER DA COSTA ARAUJO",
+      "cnpj": "49600213000143",
+      "total": 10000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.73
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 23372.12,
+      "porcentagem_do_total": 4.04
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 16281.35,
+      "porcentagem_do_total": 2.82
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 66555.44,
+      "porcentagem_do_total": 11.51
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 28931.89,
+      "porcentagem_do_total": 5.0
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 21111.17,
+      "porcentagem_do_total": 3.65
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 15321.99,
+      "porcentagem_do_total": 2.65
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 22806.8,
+      "porcentagem_do_total": 3.95
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 101424.16,
+      "porcentagem_do_total": 17.54
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 20921.98,
+      "porcentagem_do_total": 3.62
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 25770.35,
+      "porcentagem_do_total": 4.46
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 33802.08,
+      "porcentagem_do_total": 5.85
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 201809.79,
+      "porcentagem_do_total": 34.91
+    }
+  ]
+}

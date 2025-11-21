@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:12:13Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00063607000110"
+  },
+  "data": {
+    "cnpj": "00063607000110",
+    "nome": "PANORAMA RESTAURANTE EXECUTIVO LTDA",
+    "nomeFornecedor": "PANORAMA RESTAURANTE EXECUTIVO LTDA",
+    "totalTransacionado": 78.9,
+    "totalRecebido": 78.9,
+    "totalRecebidoTodos": 78.9,
+    "transacoes": 1,
+    "numeroTransacoes": 1,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [
+      {
+        "id": "204388",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 78.9,
+        "transacoes": 1
+      }
+    ],
+    "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+    "categoriaOriginal": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+    "categorias": [
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+    ],
+    "categoriasOriginais": [
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+    ],
+    "categoriasInfo": {
+      "principal": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "normalizadas": [
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+      ],
+      "principalOriginal": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "originais": [
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+      ]
+    },
+    "distribuicaoTipos": {
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": {
+        "valor": 78.9,
+        "quantidade": 1
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": {
+        "valor": 78.9,
+        "quantidade": 1
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 78.9,
+        "transacoes": 1,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 78.9,
+        "ano": 2023,
+        "mes": 9,
+        "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+        "documento": "56250",
+        "dataDocumento": "2023-09-02T00:00:00",
+        "deputadoId": "204388",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 78.9,
+        "valorLiquido": 78.9,
+        "valorDocumento": 78.9,
+        "ano": 2023,
+        "mes": 9,
+        "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+        "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+        "dataDocumento": "2023-09-02T00:00:00",
+        "data": "2023-09-02T00:00:00",
+        "numDocumento": "56250",
+        "codDocumento": 7601666,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7601666",
+        "deputadoId": "204388",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "PANORAMA RESTAURANTE EXECUTIVO LTDA",
+        "cnpj": "00063607000110",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7601666"
+      }
+    ],
+    "totalTransacoesDetalhadas": 1,
+    "aliases": [
+      "00063607000110"
+    ],
+    "temDetalhes": true
+  }
+}

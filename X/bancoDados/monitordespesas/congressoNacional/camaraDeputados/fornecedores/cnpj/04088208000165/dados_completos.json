@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
+      "cnpj": "04088208000165",
+      "total_recebido": 838.02,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:27.761038"
+  },
+  "categorias": {
+    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 838.02
+  },
+  "anos": {
+    "2025": {
+      "total": 838.02,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178927": {
+      "deputado": {
+        "id": 178927,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
+        "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
+        "siglaPartido": "PV",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+        "email": "dep.alielmachado@camara.leg.br"
+      },
+      "total": 838.02,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7982274,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-03T00:00:00",
+          "numDocumento": "656224658",
+          "valorDocumento": 846.92,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2025/7982274.pdf",
+          "nomeFornecedor": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
+          "cnpjCpfFornecedor": "04088208000165",
+          "valorLiquido": 838.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

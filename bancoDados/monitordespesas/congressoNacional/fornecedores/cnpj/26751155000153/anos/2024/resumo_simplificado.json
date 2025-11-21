@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "POSTO AEROPORTO DE RIBEIRAO PRETO LTDA",
+    "cnpj": "26751155000153",
+    "total_recebido": 769.9200000000001,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 374.55,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 374.55,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 374.55,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 246.55,
+      "porcentagem_do_total": 65.83
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 128.0,
+      "porcentagem_do_total": 34.17
+    }
+  ]
+}

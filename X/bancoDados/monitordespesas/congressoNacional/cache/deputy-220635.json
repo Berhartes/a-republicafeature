@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T17:45:22Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "deputados.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "deputadoId": "220635"
+  },
+  "data": {
+    "id": "220635",
+    "nome": "Bruno Ganem",
+    "nomeEleitoral": "Bruno Ganem",
+    "nomeCivil": null,
+    "partido": "PODE",
+    "siglaPartido": "PODE",
+    "uf": "SP",
+    "siglaUf": "SP",
+    "urlFoto": null,
+    "totalDespesas": 1232379.0699999998,
+    "numeroDespesas": 598,
+    "fornecedoresIdentificados": 18,
+    "createdAt": "2025-11-01T17:45:19Z",
+    "gastosPorAno": {},
+    "transacoesPorAno": {},
+    "topCategorias": [],
+    "topFornecedores": [],
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "temDetalhes": false
+  }
+}

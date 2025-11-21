@@ -42,7 +42,7 @@ export const AlertaCorrelacao: React.FC<AlertaCorrelacaoProps> = ({
         <CheckCircle className="h-4 w-4 text-green-600" />
         <AlertTitle className="text-green-800">Dados Correlacionados</AlertTitle>
         <AlertDescription className="text-green-700">
-          Os dados da categoria "{categoria}" estão consistentes entre as diferentes fontes.
+          Os dados da categoria &quot;{categoria}&quot; estão consistentes entre as diferentes fontes.
         </AlertDescription>
       </Alert>
     )

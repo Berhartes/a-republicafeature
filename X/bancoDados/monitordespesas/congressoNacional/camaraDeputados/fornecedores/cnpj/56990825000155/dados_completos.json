@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "RC SFP COM DE COMB LTDA",
+      "cnpj": "56990825000155",
+      "total_recebido": 240.78,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-07T05:43:13.894913"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 240.78
+  },
+  "anos": {
+    "2025": {
+      "total": 240.78,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160559": {
+      "deputado": {
+        "id": 160559,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
+        "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
+        "email": "dep.alceumoreira@camara.leg.br"
+      },
+      "total": 240.78,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7971183,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-14T00:00:00",
+          "numDocumento": "120340",
+          "valorDocumento": 240.78,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7971183",
+          "nomeFornecedor": "RC SFP COM DE COMB LTDA",
+          "cnpjCpfFornecedor": "56990825000155",
+          "valorLiquido": 240.78,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

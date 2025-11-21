@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO BARAO DE ARARAS LT",
+      "cnpj": "54052352000110",
+      "total_recebido": 873.6600000000001,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 748.04,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-02-17T00:00:00",
+    "periodo_fim": "2025-07-02T00:00:00",
+    "generatedAt": "2025-11-11T21:38:02.404007"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 748.04,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 748.04,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 253.68,
+      "porcentagem_do_total": 33.91
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 194.06,
+      "porcentagem_do_total": 25.94
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 300.3,
+      "porcentagem_do_total": 40.14
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7870710,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-02-17T00:00:00",
+      "numDocumento": "074884",
+      "valorDocumento": 253.68,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7870710.pdf",
+      "nomeFornecedor": "AUTO POSTO BARAO DE ARARAS LT",
+      "cnpjCpfFornecedor": "54052352000110",
+      "valorLiquido": 253.68,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2111444,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2025,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7911052,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-05-06T00:00:00",
+      "numDocumento": "141197",
+      "valorDocumento": 194.06,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7911052.pdf",
+      "nomeFornecedor": "AUTO POSTO BARAO DE ARARAS LT",
+      "cnpjCpfFornecedor": "54052352000110",
+      "valorLiquido": 194.06,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2133447,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2025,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7945043,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-07-02T00:00:00",
+      "numDocumento": "190863",
+      "valorDocumento": 300.3,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7945043.pdf",
+      "nomeFornecedor": "AUTO POSTO BARAO DE ARARAS LT",
+      "cnpjCpfFornecedor": "54052352000110",
+      "valorLiquido": 300.3,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2152417,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 74090,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74090",
+    "nome": "Átila Lins",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "AM",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74090.jpg",
+    "email": "dep.atilalins@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 471829.0,
+  "quantidade_transacoes": 90,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "total": 307300.0,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 65.13
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 59000.0,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 12.5
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 40889.3,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 8.67
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 33117.14,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 7.02
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 17162.18,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 3.64
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CTA - CLEITON TAXI AEREO LTDA",
+      "cnpj": "04984400000130",
+      "total": 205650.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 43.59
+    },
+    {
+      "nome": "AMAZONAVES TAXI AEREO LTDA",
+      "cnpj": "03090756000167",
+      "total": 66650.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 14.13
+    },
+    {
+      "nome": "N.C. DE SOUZA LTDA",
+      "cnpj": "23745434000116",
+      "total": 45000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 9.54
+    },
+    {
+      "nome": "TAXI AEREO VALE DO MADEIRA",
+      "cnpj": "22467056000193",
+      "total": 35000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 7.42
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 23605.85,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 5.0
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 17971.02,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.81
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 15094.99,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 3.2
+    },
+    {
+      "nome": "Agencia Norte - AgNorte",
+      "cnpj": "23503446000134",
+      "total": 14000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 2.97
+    },
+    {
+      "nome": "A&T Turismo Ltda.",
+      "cnpj": "36187060000102",
+      "total": 12509.5,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.65
+    },
+    {
+      "nome": "Cia Aérea - TAM",
+      "cnpj": "02012862000160",
+      "total": 6250.82,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.32
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 53761.58,
+      "porcentagem_do_total": 11.39
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 28890.64,
+      "porcentagem_do_total": 6.12
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 24417.51,
+      "porcentagem_do_total": 5.18
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 27692.26,
+      "porcentagem_do_total": 5.87
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 65145.41,
+      "porcentagem_do_total": 13.81
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 109144.26,
+      "porcentagem_do_total": 23.13
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 16529.44,
+      "porcentagem_do_total": 3.5
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 65091.76,
+      "porcentagem_do_total": 13.8
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 57514.38,
+      "porcentagem_do_total": 12.19
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 23641.76,
+      "porcentagem_do_total": 5.01
+    }
+  ]
+}

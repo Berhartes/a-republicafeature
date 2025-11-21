@@ -295,6 +295,7 @@ export const ParliamentaryMetrics = {
       name: 'supplier_analysis_duration',
       value: duration,
       unit: 'ms',
+      timestamp: Date.now(),
       tags: { 
         category: MetricCategory.SUPPLIER_ANALYSIS,
         supplierId 
@@ -307,6 +308,7 @@ export const ParliamentaryMetrics = {
       name: 'transaction_processing_duration',
       value: duration,
       unit: 'ms',
+      timestamp: Date.now(),
       tags: { 
         category: MetricCategory.TRANSACTION_PROCESSING,
         count: count.toString()
@@ -323,6 +325,7 @@ export const ParliamentaryMetrics = {
       name: 'ranking_calculation_duration',
       value: duration,
       unit: 'ms',
+      timestamp: Date.now(),
       tags: { 
         category: MetricCategory.RANKING_CALCULATION,
         type,
@@ -336,6 +339,7 @@ export const ParliamentaryMetrics = {
       name: 'worker_task_duration',
       value: taskDuration,
       unit: 'ms',
+      timestamp: Date.now(),
       tags: { 
         category: MetricCategory.WORKER_PERFORMANCE,
         worker: workerName

@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "A L DE PAULA LTDA",
+      "cnpj": "61227209000187",
+      "total_recebido": 75000.0,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:16.958577"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 75000.0
+  },
+  "anos": {
+    "2025": {
+      "total": 75000.0,
+      "transacoes": 5,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220538": {
+      "deputado": {
+        "id": 220538,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220538",
+        "nome": "Albuquerque",
+        "nomeEleitoral": "Albuquerque",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "RR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220538.jpg",
+        "email": "dep.albuquerque@camara.leg.br"
+      },
+      "total": 75000.0,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7938520,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-25T00:00:00",
+          "numDocumento": "00000002",
+          "valorDocumento": 15000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3558/2025/7938520.pdf",
+          "nomeFornecedor": "A L DE PAULA LTDA",
+          "cnpjCpfFornecedor": "61227209000187",
+          "valorLiquido": 15000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7954438,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-29T00:00:00",
+          "numDocumento": "00000003",
+          "valorDocumento": 15000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3558/2025/7954438.pdf",
+          "nomeFornecedor": "A L DE PAULA LTDA",
+          "cnpjCpfFornecedor": "61227209000187",
+          "valorLiquido": 15000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7972488,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-27T00:00:00",
+          "numDocumento": "00000005",
+          "valorDocumento": 15000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3558/2025/7972488.pdf",
+          "nomeFornecedor": "A L DE PAULA LTDA",
+          "cnpjCpfFornecedor": "61227209000187",
+          "valorLiquido": 15000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7990131,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-30T00:00:00",
+          "numDocumento": "00000007",
+          "valorDocumento": 15000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3558/2025/7990131.pdf",
+          "nomeFornecedor": "A L DE PAULA LTDA",
+          "cnpjCpfFornecedor": "61227209000187",
+          "valorLiquido": 15000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 8004563,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-27T00:00:00",
+          "numDocumento": "00000008",
+          "valorDocumento": 15000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3558/2025/8004563.pdf",
+          "nomeFornecedor": "A L DE PAULA LTDA",
+          "cnpjCpfFornecedor": "61227209000187",
+          "valorLiquido": 15000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:18.203046"
+    "generatedAt": "2025-11-11T05:22:37.938374"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 476.85
@@ -25,6 +25,7 @@
         "id": 221148,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221148",
         "nome": "Alfredinho",
+        "nomeEleitoral": "Alfredinho",
         "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "SP",
@@ -35,25 +36,6 @@
       "total": 476.85,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 12,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7846161,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-12-07T00:00:00",
-          "numDocumento": "926259",
-          "valorDocumento": 201.99,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3505/2024/7846161.pdf",
-          "nomeFornecedor": "AUTO POSTO ESTRELA DA PAZ LTDA",
-          "cnpjCpfFornecedor": "07883496000138",
-          "valorLiquido": 201.99,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 7,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "AUTO POSTO ESTRELA DA PAZ LTDA",
           "cnpjCpfFornecedor": "07883496000138",
           "valorLiquido": 274.86,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7846161,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-07T00:00:00",
+          "numDocumento": "926259",
+          "valorDocumento": 201.99,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3505/2024/7846161.pdf",
+          "nomeFornecedor": "AUTO POSTO ESTRELA DA PAZ LTDA",
+          "cnpjCpfFornecedor": "07883496000138",
+          "valorLiquido": 201.99,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

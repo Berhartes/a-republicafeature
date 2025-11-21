@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 204369,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204369",
+    "nome": "Caroline de Toni",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "SC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204369.jpg",
+    "email": "dep.carolinedetoni@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 283365.32,
+  "quantidade_transacoes": 383,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 113216.07,
+      "quantidade_transacoes": 193,
+      "porcentagem_do_total": 39.95
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 97200.0,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 34.3
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 25499.77,
+      "quantidade_transacoes": 98,
+      "porcentagem_do_total": 9.0
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 22720.45,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 8.02
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 14761.74,
+      "quantidade_transacoes": 46,
+      "porcentagem_do_total": 5.21
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "GAMBATTO VEÍCULOS LTDA",
+      "cnpj": "76863877000178",
+      "total": 58500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 20.64
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 45793.59,
+      "quantidade_transacoes": 61,
+      "porcentagem_do_total": 16.16
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 44083.4,
+      "quantidade_transacoes": 109,
+      "porcentagem_do_total": 15.56
+    },
+    {
+      "nome": "PONTA LOCAÇÃO DE VEÍCULOS LTDA",
+      "cnpj": "42761872000112",
+      "total": 38700.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 13.66
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 23339.08,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 8.24
+    },
+    {
+      "nome": "GL Editora Grafica Ltda.",
+      "cnpj": "04137442000135",
+      "total": 8581.18,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.03
+    },
+    {
+      "nome": "ABASTECEDORA AE",
+      "cnpj": "26547580000125",
+      "total": 4095.43,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 1.45
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 3796.91,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.34
+    },
+    {
+      "nome": "PARLANET WEB E TECNOLOGIA EIRELI",
+      "cnpj": "31602730000196",
+      "total": 3600.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.27
+    },
+    {
+      "nome": "VIA CATARINA HOTELARIA E PARTICIPAÇÕES LTDA",
+      "cnpj": "40633095000103",
+      "total": 3573.19,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 1.26
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 15792.1,
+      "porcentagem_do_total": 5.57
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 32199.97,
+      "porcentagem_do_total": 11.36
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 28235.54,
+      "porcentagem_do_total": 9.96
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 30652.26,
+      "porcentagem_do_total": 10.82
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 28555.94,
+      "porcentagem_do_total": 10.08
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 56127.73,
+      "porcentagem_do_total": 19.81
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 39549.74,
+      "porcentagem_do_total": 13.96
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 24195.13,
+      "porcentagem_do_total": 8.54
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 20627.62,
+      "porcentagem_do_total": 7.28
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 7429.29,
+      "porcentagem_do_total": 2.62
+    }
+  ]
+}

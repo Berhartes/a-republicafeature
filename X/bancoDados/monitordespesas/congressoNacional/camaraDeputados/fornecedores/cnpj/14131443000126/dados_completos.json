@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ABREU FLORES E PEREIRA LTDA",
+      "cnpj": "14131443000126",
+      "total_recebido": 744.46,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:10.742511"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 744.46
+  },
+  "anos": {
+    "2023": {
+      "total": 333.82000000000005,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 410.64,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "136811": {
+      "deputado": {
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
+      },
+      "total": 744.46,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7517231,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-25T00:00:00",
+          "numDocumento": "2400237",
+          "valorDocumento": 112.55,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7517231",
+          "nomeFornecedor": "ABREU FLORES E PEREIRA LTDA",
+          "cnpjCpfFornecedor": "14131443000126",
+          "valorLiquido": 112.55,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7568890,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-26T00:00:00",
+          "numDocumento": "2501294",
+          "valorDocumento": 123.62,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7568890",
+          "nomeFornecedor": "ABREU FLORES E PEREIRA LTDA",
+          "cnpjCpfFornecedor": "14131443000126",
+          "valorLiquido": 123.62,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7569087,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-01T00:00:00",
+          "numDocumento": "2505431",
+          "valorDocumento": 97.65,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7569087",
+          "nomeFornecedor": "ABREU FLORES E PEREIRA LTDA",
+          "cnpjCpfFornecedor": "14131443000126",
+          "valorLiquido": 97.65,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7800941,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-07T20:47:40",
+          "numDocumento": "2973130",
+          "valorDocumento": 100.86,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7800941",
+          "nomeFornecedor": "ABREU FLORES E PEREIRA LTDA",
+          "cnpjCpfFornecedor": "14131443000126",
+          "valorLiquido": 100.86,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7800960,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-02T22:08:58",
+          "numDocumento": "2967871",
+          "valorDocumento": 85.09,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7800960",
+          "nomeFornecedor": "ABREU FLORES E PEREIRA LTDA",
+          "cnpjCpfFornecedor": "14131443000126",
+          "valorLiquido": 85.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7807266,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-15T14:16:08",
+          "numDocumento": "2980891",
+          "valorDocumento": 224.69,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7807266",
+          "nomeFornecedor": "ABREU FLORES E PEREIRA LTDA",
+          "cnpjCpfFornecedor": "14131443000126",
+          "valorLiquido": 224.69,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

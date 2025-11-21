@@ -1,0 +1,60 @@
+{
+  "deputado": {
+    "id": 178882,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178882",
+    "nome": "André Fufuca",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178882.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": -6056.39,
+  "quantidade_transacoes": 6,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 3043.97,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": -9100.36,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 3043.97,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": -9100.36,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": -9100.36,
+      "porcentagem_do_total": 0
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 3043.97,
+      "porcentagem_do_total": 0
+    }
+  ]
+}

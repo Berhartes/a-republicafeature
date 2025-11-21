@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "CENTRO DE SERVS FRANGO ASSADO NORTE LT",
+    "cnpj": "02896671000370",
+    "total_recebido": 230.02,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 230.02,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 230.02,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 230.02,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 230.02,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

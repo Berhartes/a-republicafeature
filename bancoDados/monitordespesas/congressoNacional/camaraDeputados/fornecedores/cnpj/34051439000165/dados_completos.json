@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "AUTO POSTO EPTG LTDA",
       "cnpj": "34051439000165",
-      "total_recebido": 246.23,
+      "total_recebido": 210.39,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:59:18.131971"
+    "generatedAt": "2025-11-11T05:22:43.739533"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 246.23
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 210.39
   },
   "anos": {
-    "2025": {
-      "total": 246.23,
+    "2024": {
+      "total": 210.39,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204460": {
+    "226708": {
       "deputado": {
-        "id": 204460,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204460",
-        "nome": "Carlos Jordy",
-        "siglaPartido": "PL",
+        "id": 226708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
+        "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "RJ",
+        "siglaUf": "MA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
-        "email": "dep.carlosjordy@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226708.jpg",
+        "email": "dep.allangarces@camara.leg.br"
       },
-      "total": 246.23,
+      "total": 210.39,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2025,
-          "mes": 2,
+          "ano": 2024,
+          "mes": 10,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7875253,
+          "codDocumento": 7818803,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-02-25T21:41:12",
-          "numDocumento": "10516",
-          "valorDocumento": 246.23,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7875253",
+          "dataDocumento": "2024-10-18T16:02:35",
+          "numDocumento": "243539",
+          "valorDocumento": 210.39,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7818803",
           "nomeFornecedor": "AUTO POSTO EPTG LTDA",
           "cnpjCpfFornecedor": "34051439000165",
-          "valorLiquido": 246.23,
+          "valorLiquido": 210.39,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

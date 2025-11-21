@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Caminhos da serra gaucha",
+      "cnpj": "47815827000117",
+      "total_recebido": 20.200000000000003,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:23.506052"
+  },
+  "categorias": {
+    "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 20.200000000000003
+  },
+  "anos": {
+    "2023": {
+      "total": 20.200000000000003,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220554": {
+      "deputado": {
+        "id": 220554,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+        "nome": "Alexandre Lindenmeyer",
+        "nomeEleitoral": "Alexandre Lindenmeyer",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
+        "email": "dep.alexandrelindenmeyer@camara.leg.br"
+      },
+      "total": 20.200000000000003,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7584579,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-27T00:00:00",
+          "numDocumento": "0760390192",
+          "valorDocumento": 8.3,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2023/7584579.pdf",
+          "nomeFornecedor": "Caminhos da serra gaucha",
+          "cnpjCpfFornecedor": "47815827000117",
+          "valorLiquido": 8.3,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "codDocumento": 7661498,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-12-12T00:00:00",
+          "numDocumento": "910",
+          "valorDocumento": 11.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2023/7661498.pdf",
+          "nomeFornecedor": "Caminhos da serra gaucha",
+          "cnpjCpfFornecedor": "47815827000117",
+          "valorLiquido": 11.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

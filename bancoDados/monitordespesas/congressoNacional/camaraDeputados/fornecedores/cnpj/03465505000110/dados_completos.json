@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:30.398882"
+    "generatedAt": "2025-11-11T05:22:41.435750"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 668.9
@@ -30,6 +30,7 @@
         "id": 178927,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
         "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
         "siglaPartido": "PV",
         "uriPartido": "",
         "siglaUf": "PR",
@@ -40,25 +41,6 @@
       "total": 668.9,
       "transacoes": 3,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 7,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7582772,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-07-11T00:00:00",
-          "numDocumento": "253187",
-          "valorDocumento": 286.71,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7582772",
-          "nomeFornecedor": "AUTO POSTO FLORENSE EIRELI",
-          "cnpjCpfFornecedor": "03465505000110",
-          "valorLiquido": 286.71,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 6,
@@ -73,6 +55,25 @@
           "nomeFornecedor": "AUTO POSTO FLORENSE EIRELI",
           "cnpjCpfFornecedor": "03465505000110",
           "valorLiquido": 182.81,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7582772,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-11T00:00:00",
+          "numDocumento": "253187",
+          "valorDocumento": 286.71,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7582772",
+          "nomeFornecedor": "AUTO POSTO FLORENSE EIRELI",
+          "cnpjCpfFornecedor": "03465505000110",
+          "valorLiquido": 286.71,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

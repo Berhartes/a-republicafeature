@@ -1,0 +1,60 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO CENTRAL DE BARRINHA EIRELI",
+    "cnpj": "21192002000108",
+    "total_recebido": 1776.63,
+    "numero_transacoes": 11,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 956.41,
+  "quantidade_transacoes": 6,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 956.41,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 956.41,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 181.61,
+      "porcentagem_do_total": 18.99
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 120.84,
+      "porcentagem_do_total": 12.63
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 183.47,
+      "porcentagem_do_total": 19.18
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 310.38,
+      "porcentagem_do_total": 32.45
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 160.11,
+      "porcentagem_do_total": 16.74
+    }
+  ]
+}

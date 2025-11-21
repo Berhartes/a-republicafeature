@@ -1,0 +1,164 @@
+{
+  "deputado": {
+    "id": 221328,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+    "nome": "Adilson Barroso",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+    "email": null
+  },
+  "ano": 2025,
+  "total_gasto": 97377.68,
+  "quantidade_transacoes": 210,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 55463.7,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 56.96
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 41913.98,
+      "quantidade_transacoes": 191,
+      "porcentagem_do_total": 43.04
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AGROLANA AGRONEGÓCIOS",
+      "cnpj": "13354619000146",
+      "total": 55000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 56.48
+    },
+    {
+      "nome": "auto posto bombonato ltda",
+      "cnpj": "96640362000116",
+      "total": 27110.93,
+      "quantidade_transacoes": 123,
+      "porcentagem_do_total": 27.84
+    },
+    {
+      "nome": "AUTO POSTO GIRONDA LTDA",
+      "cnpj": "01057815000170",
+      "total": 1055.64,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 1.08
+    },
+    {
+      "nome": "AUTO POSTO ESTORIL DE SERTAOZINHO LTDA",
+      "cnpj": "26201601000156",
+      "total": 1004.05,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.03
+    },
+    {
+      "nome": "AUTO POSTO CENTRAL DE BARRINHA EIRELI",
+      "cnpj": "21192002000108",
+      "total": 956.41,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 0.98
+    },
+    {
+      "nome": "AUTO POSTO BARAO DE ARARAS LT",
+      "cnpj": "54052352000110",
+      "total": 748.04,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.77
+    },
+    {
+      "nome": "AUTO POSTO PAU SECO LT",
+      "cnpj": "43950492000199",
+      "total": 630.69,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.65
+    },
+    {
+      "nome": "AUGUSTO URIAS DA CRUZ E FILHOS LTDA",
+      "cnpj": "01138114000165",
+      "total": 608.11,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.62
+    },
+    {
+      "nome": "AUTO POSTO PANAMBY UM GDO PARTICIPACOES S A",
+      "cnpj": "27751075010476",
+      "total": 421.9,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.43
+    },
+    {
+      "nome": "Auto posto takahashi",
+      "cnpj": "10619536000143",
+      "total": 380.44,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.39
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 6495.01,
+      "porcentagem_do_total": 6.67
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 10599.06,
+      "porcentagem_do_total": 10.88
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 9510.81,
+      "porcentagem_do_total": 9.77
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 9507.17,
+      "porcentagem_do_total": 9.76
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 11030.31,
+      "porcentagem_do_total": 11.33
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 10650.02,
+      "porcentagem_do_total": 10.94
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 9771.55,
+      "porcentagem_do_total": 10.03
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 9922.26,
+      "porcentagem_do_total": 10.19
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 9645.74,
+      "porcentagem_do_total": 9.91
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 10245.75,
+      "porcentagem_do_total": 10.52
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO FENIX ODJ EIRELI",
+      "cnpj": "25004046000100",
+      "total_recebido": 502.2,
+      "numero_transacoes": 2,
+      "numero_deputados": 2
+    },
+    "ano": 2023,
+    "total_recebido": 200.0,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-03-24T00:00:00",
+    "periodo_fim": "2023-03-24T00:00:00",
+    "generatedAt": "2025-11-11T21:37:57.855011"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 200.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 200.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 200.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7520864,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-03-24T00:00:00",
+      "numDocumento": "266829",
+      "valorDocumento": 200.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7520864",
+      "nomeFornecedor": "AUTO POSTO FENIX ODJ EIRELI",
+      "cnpjCpfFornecedor": "25004046000100",
+      "valorLiquido": 200.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1921038,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

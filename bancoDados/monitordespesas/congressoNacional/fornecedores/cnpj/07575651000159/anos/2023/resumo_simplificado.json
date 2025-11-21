@@ -1,0 +1,60 @@
+{
+  "fornecedor": {
+    "nome": "Gol Linhas Aereas S.A.",
+    "cnpj": "07575651000159",
+    "total_recebido": 13112.27,
+    "numero_transacoes": 7,
+    "numero_deputados": 3
+  },
+  "ano": 2023,
+  "total_recebido": 10098.76,
+  "quantidade_transacoes": 5,
+  "principais_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 7258.95,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 71.88
+    },
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 2839.81,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 28.12
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - RPA",
+      "total": 7258.95,
+      "porcentagem_do_total": 71.88
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 2839.81,
+      "porcentagem_do_total": 28.12
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 2042.27,
+      "porcentagem_do_total": 20.22
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 4900.08,
+      "porcentagem_do_total": 48.52
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 3156.41,
+      "porcentagem_do_total": 31.26
+    }
+  ]
+}

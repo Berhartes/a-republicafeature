@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "LANCHONETE E CHURRASCARIA TRES IRMÃOS",
+    "cnpj": "02131157000181",
+    "total_recebido": 120.0,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 120.0,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 120.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS",
+      "total": 120.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 120.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 206018,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/206018",
+    "nome": "Célia Xakriabá",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/206018.jpg",
+    "email": "dep.celiaxakriaba@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 369790.19,
+  "quantidade_transacoes": 626,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 129003.0,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 34.89
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 115424.95,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 31.21
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 55789.17,
+      "quantidade_transacoes": 109,
+      "porcentagem_do_total": 15.09
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 37617.51,
+      "quantidade_transacoes": 59,
+      "porcentagem_do_total": 10.17
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 13695.16,
+      "quantidade_transacoes": 41,
+      "porcentagem_do_total": 3.7
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "LOCADORA DE VEICULOS FLORESTA LTDA",
+      "cnpj": "07560718000181",
+      "total": 115424.95,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 31.21
+    },
+    {
+      "nome": "DIONISIO FERREIRA DO VALE NETO",
+      "cnpj": "31717417000101",
+      "total": 47014.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 12.71
+    },
+    {
+      "nome": "CRISALYS PUBLICIDADE",
+      "cnpj": "31717417000101",
+      "total": 33339.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 9.02
+    },
+    {
+      "nome": "QUALIGRAFF IMPRESSOS E SERVIÇOS GRÁFICOS LTDA",
+      "cnpj": "31422968000130",
+      "total": 28000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 7.57
+    },
+    {
+      "nome": "POSTO TOCANTINS LTDA",
+      "cnpj": "17462474000158",
+      "total": 19602.46,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 5.3
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+      "cnpj": "08355825000130",
+      "total": 17878.49,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 4.83
+    },
+    {
+      "nome": "A. S. LEITE SOBRINHO GRÁFICA",
+      "cnpj": "31422968000130",
+      "total": 16050.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.34
+    },
+    {
+      "nome": "EMPRESA MINEIRA DE COMPUTADORES LTDA",
+      "cnpj": "22261093000140",
+      "total": 8546.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 2.31
+    },
+    {
+      "nome": "SUCESSO ADMINISTRACAO E PARTICIPACAO HOTELEIRA SA",
+      "cnpj": "11824567000280",
+      "total": 7240.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 1.96
+    },
+    {
+      "nome": "HOTELARIA ACCOR BRASIL S/A",
+      "cnpj": "09967852016988",
+      "total": 6069.11,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 1.64
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 20498.27,
+      "porcentagem_do_total": 5.54
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 43274.49,
+      "porcentagem_do_total": 11.7
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 21570.07,
+      "porcentagem_do_total": 5.83
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 49042.57,
+      "porcentagem_do_total": 13.26
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 27879.28,
+      "porcentagem_do_total": 7.54
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 37376.9,
+      "porcentagem_do_total": 10.11
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 32471.75,
+      "porcentagem_do_total": 8.78
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 29554.95,
+      "porcentagem_do_total": 7.99
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 25761.82,
+      "porcentagem_do_total": 6.97
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 32850.6,
+      "porcentagem_do_total": 8.88
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 24746.36,
+      "porcentagem_do_total": 6.69
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 24763.13,
+      "porcentagem_do_total": 6.7
+    }
+  ]
+}

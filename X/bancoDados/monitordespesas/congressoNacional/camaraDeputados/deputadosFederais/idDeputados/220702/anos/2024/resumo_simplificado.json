@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 220702,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220702",
+    "nome": "Geraldo Mendes",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220702.jpg",
+    "email": "dep.geraldomendes@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 325076.54,
+  "quantidade_transacoes": 130,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 214975.0,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 66.13
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 54060.56,
+      "quantidade_transacoes": 50,
+      "porcentagem_do_total": 16.63
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 48090.24,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 14.79
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 6985.93,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 2.15
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 609.4,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 0.19
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "MKT GUTIERREZ COMUNICACAO LTDA",
+      "cnpj": "13414687000153",
+      "total": 80000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 24.61
+    },
+    {
+      "nome": "KENKEI SOLUCOES EM TECNOLOGIA DA INFORMACO LTDA",
+      "cnpj": "12478402000185",
+      "total": 50000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 15.38
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 43215.76,
+      "quantidade_transacoes": 33,
+      "porcentagem_do_total": 13.29
+    },
+    {
+      "nome": "Rogério Piovesan",
+      "cnpj": "83931589900",
+      "total": 35400.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 10.89
+    },
+    {
+      "nome": "Paulo Marcelo Pereira da Silva Lustosa",
+      "cnpj": "48268157000129",
+      "total": 24000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 7.38
+    },
+    {
+      "nome": "Verônica Regina Domingues",
+      "cnpj": "53285129000150",
+      "total": 11000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.38
+    },
+    {
+      "nome": "BRIDGE AGENCIA DE PUBLICIDADE LTDA",
+      "cnpj": "27070039000131",
+      "total": 10760.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 3.31
+    },
+    {
+      "nome": "CENTROSULTV EMPREENDIMENTOS LTDA",
+      "cnpj": "11199128000142",
+      "total": 10500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.23
+    },
+    {
+      "nome": "Raiza Alves Garcia",
+      "cnpj": "34708009000173",
+      "total": 7400.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.28
+    },
+    {
+      "nome": "Luiz Carlos Totti Junior",
+      "cnpj": "52796694000119",
+      "total": 7000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.15
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 13684.4,
+      "porcentagem_do_total": 4.21
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 54609.34,
+      "porcentagem_do_total": 16.8
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 52111.49,
+      "porcentagem_do_total": 16.03
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 47320.85,
+      "porcentagem_do_total": 14.56
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 54380.69,
+      "porcentagem_do_total": 16.73
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 27201.94,
+      "porcentagem_do_total": 8.37
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 10155.49,
+      "porcentagem_do_total": 3.12
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 14385.92,
+      "porcentagem_do_total": 4.43
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 51226.42,
+      "porcentagem_do_total": 15.76
+    }
+  ]
+}

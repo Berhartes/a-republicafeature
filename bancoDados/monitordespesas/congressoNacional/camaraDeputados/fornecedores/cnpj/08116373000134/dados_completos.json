@@ -1,13 +1,13 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "C.C.D. DE SOUZA",
+      "nome": "CRIVEL COMUNICACAO LTDA",
       "cnpj": "08116373000134",
       "total_recebido": 6000.0,
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:50.251823"
+    "generatedAt": "2025-11-11T05:22:06.762471"
   },
   "categorias": {
     "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 6000.0
@@ -25,6 +25,7 @@
         "id": 204379,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204379",
         "nome": "Acácio Favacho",
+        "nomeEleitoral": "Acácio Favacho",
         "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "AP",
@@ -37,16 +38,16 @@
       "despesas": [
         {
           "ano": 2024,
-          "mes": 11,
+          "mes": 9,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7846524,
+          "codDocumento": 7828547,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-12-12T00:00:00",
-          "numDocumento": "20",
+          "dataDocumento": "2024-10-23T00:00:00",
+          "numDocumento": "18",
           "valorDocumento": 2000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7846524.pdf",
-          "nomeFornecedor": "C.C.D. DE SOUZA",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7828547.pdf",
+          "nomeFornecedor": "CRIVEL COMUNICACAO LTDA",
           "cnpjCpfFornecedor": "08116373000134",
           "valorLiquido": 2000.0,
           "valorGlosa": 0.0,
@@ -75,16 +76,16 @@
         },
         {
           "ano": 2024,
-          "mes": 9,
+          "mes": 11,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7828547,
+          "codDocumento": 7846524,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-10-23T00:00:00",
-          "numDocumento": "18",
+          "dataDocumento": "2024-12-12T00:00:00",
+          "numDocumento": "20",
           "valorDocumento": 2000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7828547.pdf",
-          "nomeFornecedor": "CRIVEL COMUNICACAO LTDA",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7846524.pdf",
+          "nomeFornecedor": "C.C.D. DE SOUZA",
           "cnpjCpfFornecedor": "08116373000134",
           "valorLiquido": 2000.0,
           "valorGlosa": 0.0,

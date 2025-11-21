@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Hotel Premier LTDA",
+      "cnpj": "34622169000103",
+      "total_recebido": 3456.8900000000003,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:28.613831"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 3456.8900000000003
+  },
+  "anos": {
+    "2023": {
+      "total": 227.69,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 3229.2000000000003,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "226708": {
+      "deputado": {
+        "id": 226708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
+        "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226708.jpg",
+        "email": "dep.allangarces@camara.leg.br"
+      },
+      "total": 3456.8900000000003,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7659335,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-23T00:00:00",
+          "numDocumento": "00044901",
+          "valorDocumento": 227.69,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2023/7659335.pdf",
+          "nomeFornecedor": "Hotel Premier LTDA",
+          "cnpjCpfFornecedor": "34622169000103",
+          "valorLiquido": 227.69,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7926697,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-09T00:00:00",
+          "numDocumento": "00074239",
+          "valorDocumento": 1076.4,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2025/7926697.pdf",
+          "nomeFornecedor": "Hotel Premier LTDA",
+          "cnpjCpfFornecedor": "34622169000103",
+          "valorLiquido": 1076.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7926698,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-09T00:00:00",
+          "numDocumento": "00074238",
+          "valorDocumento": 1076.4,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2025/7926698.pdf",
+          "nomeFornecedor": "Hotel Premier LTDA",
+          "cnpjCpfFornecedor": "34622169000103",
+          "valorLiquido": 1076.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7931891,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-09T00:00:00",
+          "numDocumento": "00074314",
+          "valorDocumento": 1076.4,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3747/2025/7931891.pdf",
+          "nomeFornecedor": "Hotel Premier LTDA",
+          "cnpjCpfFornecedor": "34622169000103",
+          "valorLiquido": 1076.4,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

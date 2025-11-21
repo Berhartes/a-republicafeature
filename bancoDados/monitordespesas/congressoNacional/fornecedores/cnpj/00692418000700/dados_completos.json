@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+      "cnpj": "00692418000700",
+      "total_recebido": 274.55,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:53.074494"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 274.55
+  },
+  "anos": {
+    "2023": {
+      "total": 176.2,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 98.35,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 274.55,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7613146,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-09-23T00:00:00",
+          "numDocumento": "143",
+          "valorDocumento": 176.2,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7613146",
+          "nomeFornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+          "cnpjCpfFornecedor": "00692418000700",
+          "valorLiquido": 176.2,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1970820,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7710906,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-03-28T00:00:00",
+          "numDocumento": "205",
+          "valorDocumento": 98.35,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7710906",
+          "nomeFornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+          "cnpjCpfFornecedor": "00692418000700",
+          "valorLiquido": 98.35,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2026063,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

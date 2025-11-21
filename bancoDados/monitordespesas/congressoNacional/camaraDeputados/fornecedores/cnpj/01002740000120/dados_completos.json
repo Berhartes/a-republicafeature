@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.307902"
+    "generatedAt": "2025-11-11T05:22:12.388742"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 124.10000000000001
@@ -30,6 +30,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -44,25 +45,6 @@
           "ano": 2023,
           "mes": 6,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7565846,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-06-20T00:00:00",
-          "numDocumento": "6278",
-          "valorDocumento": 12.21,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7565846",
-          "nomeFornecedor": "POSTO LESTE LTDA",
-          "cnpjCpfFornecedor": "01002740000120",
-          "valorLiquido": 12.21,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
-          "mes": 6,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7565842,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
@@ -73,6 +55,25 @@
           "nomeFornecedor": "POSTO LESTE LTDA",
           "cnpjCpfFornecedor": "01002740000120",
           "valorLiquido": 26.88,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7565846,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-20T00:00:00",
+          "numDocumento": "6278",
+          "valorDocumento": 12.21,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7565846",
+          "nomeFornecedor": "POSTO LESTE LTDA",
+          "cnpjCpfFornecedor": "01002740000120",
+          "valorLiquido": 12.21,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

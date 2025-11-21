@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 204531,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204531",
+      "nome": "Guilherme Derrite",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+      "siglaUf": "SP",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204531.jpg",
+      "email": "dep.guilhermederrite@camara.leg.br"
+    },
+    "ano": 2023,
+    "total_despesas": 1638.0,
+    "quantidade_transacoes": 2,
+    "quantidade_categorias": 2,
+    "quantidade_fornecedores": 2,
+    "periodo_inicio": "2023-02-01T00:00:00",
+    "periodo_fim": "2023-02-01T00:00:00",
+    "generatedAt": "2025-11-10T22:39:21.144917"
+  },
+  "resumo_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 1588.02,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 96.95
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 49.98,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.05
+    }
+  ],
+  "resumo_fornecedores": [
+    {
+      "nome": "Azul Linhas Aéreas Inteligentes S.A.",
+      "cnpj": "09296295000160",
+      "total": 1588.02,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 96.95
+    },
+    {
+      "nome": "ROTA 406 COMBUSTIVEIS LTDA",
+      "cnpj": "31165607000155",
+      "total": 49.98,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.05
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 1638.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7497614,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-02-01T00:00:00",
+      "numDocumento": "11924",
+      "valorDocumento": 49.98,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7497614",
+      "nomeFornecedor": "ROTA 406 COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "31165607000155",
+      "valorLiquido": 49.98,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1908948,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "PASSAGEM AÉREA - REEMBOLSO",
+      "codDocumento": 7498819,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-01T00:00:00",
+      "numDocumento": "ZIKPWM",
+      "valorDocumento": 1588.02,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3390/2023/7498819.pdf",
+      "nomeFornecedor": "Azul Linhas Aéreas Inteligentes S.A.",
+      "cnpjCpfFornecedor": "09296295000160",
+      "valorLiquido": 1588.02,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1908944,
+      "parcela": 0
+    }
+  ]
+}

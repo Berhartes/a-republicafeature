@@ -7,7 +7,7 @@
       "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:02.348492"
+    "generatedAt": "2025-11-11T05:22:34.223235"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 1375.4
@@ -35,6 +35,7 @@
         "id": 220542,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
         "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
         "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "TO",
@@ -66,25 +67,6 @@
         },
         {
           "ano": 2024,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7805544,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-09-14T08:53:49",
-          "numDocumento": "53333",
-          "valorDocumento": 232.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7805544",
-          "nomeFornecedor": "AUTO POSTO GOIAS LTDA",
-          "cnpjCpfFornecedor": "38132296000177",
-          "valorLiquido": 232.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
           "mes": 2,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7695118,
@@ -97,6 +79,25 @@
           "nomeFornecedor": "AUTO POSTO GOIAS LTDA",
           "cnpjCpfFornecedor": "38132296000177",
           "valorLiquido": 210.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7805544,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-14T08:53:49",
+          "numDocumento": "53333",
+          "valorDocumento": 232.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7805544",
+          "nomeFornecedor": "AUTO POSTO GOIAS LTDA",
+          "cnpjCpfFornecedor": "38132296000177",
+          "valorLiquido": 232.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

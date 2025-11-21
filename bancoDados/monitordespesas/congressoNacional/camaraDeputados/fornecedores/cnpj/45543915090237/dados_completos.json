@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:21.174144"
+    "generatedAt": "2025-11-11T05:22:38.787321"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 373.4
@@ -25,6 +25,7 @@
         "id": 220576,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220576",
         "nome": "Alfredo Gaspar",
+        "nomeEleitoral": "Alfredo Gaspar",
         "siglaPartido": "UNIÃO",
         "uriPartido": "",
         "siglaUf": "AL",
@@ -35,25 +36,6 @@
       "total": 373.4,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 10,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7822927,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-10-17T17:15:01",
-          "numDocumento": "123",
-          "valorDocumento": 173.4,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7822927",
-          "nomeFornecedor": "Posto ATACADAO MACEIO",
-          "cnpjCpfFornecedor": "45543915090237",
-          "valorLiquido": 173.4,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 6,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "Posto ATACADAO MACEIO",
           "cnpjCpfFornecedor": "45543915090237",
           "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7822927,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-17T17:15:01",
+          "numDocumento": "123",
+          "valorDocumento": 173.4,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7822927",
+          "nomeFornecedor": "Posto ATACADAO MACEIO",
+          "cnpjCpfFornecedor": "45543915090237",
+          "valorLiquido": 173.4,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

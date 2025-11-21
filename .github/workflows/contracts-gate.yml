@@ -1,0 +1,43 @@
+name: Contracts Gate
+
+on:
+  workflow_dispatch:
+    inputs:
+      legislatura:
+        description: "Legislatura para validar"
+        required: false
+        default: '57'
+  pull_request:
+    paths:
+      - 'packages/etlpython/**'
+      - 'docs/01-architecture/FLUXO-DADOS-ROADMAP.md'
+      - '.github/workflows/contracts-gate.yml'
+  schedule:
+    - cron: '0 9 * * *'
+
+permissions:
+  contents: read
+
+jobs:
+  validate-contracts:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONUNBUFFERED: "1"
+      LEGISLATURA: ${{ inputs.legislatura || '57' }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install etlpython package
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -e packages/etlpython
+
+      - name: Validate Câmara contracts (live)
+        run: |
+          python -m etlpython contracts validate --live --legislatura "$LEGISLATURA"

@@ -1,0 +1,96 @@
+{
+  "fornecedor": {
+    "nome": "T. DE JESUS PEDROSO",
+    "cnpj": "41097878000174",
+    "total_recebido": 31250.0,
+    "numero_transacoes": 20,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 16750.0,
+  "quantidade_transacoes": 11,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 16750.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 16750.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 1500.0,
+      "porcentagem_do_total": 8.96
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 1500.0,
+      "porcentagem_do_total": 8.96
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 1500.0,
+      "porcentagem_do_total": 8.96
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 1500.0,
+      "porcentagem_do_total": 8.96
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 1500.0,
+      "porcentagem_do_total": 8.96
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 1500.0,
+      "porcentagem_do_total": 8.96
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 1750.0,
+      "porcentagem_do_total": 10.45
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 1500.0,
+      "porcentagem_do_total": 8.96
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 1500.0,
+      "porcentagem_do_total": 8.96
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 1500.0,
+      "porcentagem_do_total": 8.96
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 1500.0,
+      "porcentagem_do_total": 8.96
+    }
+  ]
+}

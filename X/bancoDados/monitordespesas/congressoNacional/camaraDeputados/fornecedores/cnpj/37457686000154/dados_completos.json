@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "NC AUTO POSTO LTDA",
+      "cnpj": "37457686000154",
+      "total_recebido": 551.76,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:03.093047"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 551.76
+  },
+  "anos": {
+    "2023": {
+      "total": 154.17,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 397.59,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 551.76,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7632951,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-28T00:00:00",
+          "numDocumento": "589219",
+          "valorDocumento": 154.17,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7632951",
+          "nomeFornecedor": "NC AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "37457686000154",
+          "valorLiquido": 154.17,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7703502,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-15T08:51:15",
+          "numDocumento": "613623",
+          "valorDocumento": 397.59,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7703502",
+          "nomeFornecedor": "NC AUTO POSTO LTDA",
+          "cnpjCpfFornecedor": "37457686000154",
+          "valorLiquido": 397.59,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

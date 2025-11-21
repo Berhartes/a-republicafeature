@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AZUL LINHAS AÉREAS BRASILEIRAS",
+      "cnpj": "09296295003509",
+      "total_recebido": 3782.18,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:15.171668"
+  },
+  "categorias": {
+    "PASSAGEM AÉREA - REEMBOLSO": 3782.18
+  },
+  "anos": {
+    "2024": {
+      "total": 3782.18,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204495": {
+      "deputado": {
+        "id": 204495,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204495",
+        "nome": "Airton Faleiro",
+        "nomeEleitoral": "Airton Faleiro",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "PA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204495.jpg",
+        "email": "dep.airtonfaleiro@camara.leg.br"
+      },
+      "total": 3782.18,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "PASSAGEM AÉREA - REEMBOLSO",
+          "codDocumento": 7697870,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-10T00:00:00",
+          "numDocumento": "UFU78F",
+          "valorDocumento": 3782.18,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3406/2024/7697870.pdf",
+          "nomeFornecedor": "AZUL LINHAS AÉREAS BRASILEIRAS",
+          "cnpjCpfFornecedor": "09296295003509",
+          "valorLiquido": 3782.18,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

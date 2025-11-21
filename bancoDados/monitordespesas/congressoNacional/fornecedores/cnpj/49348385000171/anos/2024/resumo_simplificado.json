@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "COMANDANTE COSTA II STOCK COMBUSTIVEIS LTDA",
+    "cnpj": "49348385000171",
+    "total_recebido": 881.44,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 881.44,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 881.44,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 881.44,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 155.07,
+      "porcentagem_do_total": 17.59
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 495.63,
+      "porcentagem_do_total": 56.23
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 230.74,
+      "porcentagem_do_total": 26.18
+    }
+  ]
+}

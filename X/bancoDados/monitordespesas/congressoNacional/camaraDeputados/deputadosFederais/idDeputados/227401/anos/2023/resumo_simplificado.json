@@ -1,0 +1,101 @@
+{
+  "deputado": {
+    "id": 227401,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227401",
+    "nome": "Dr Fabio Rueda",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "AC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/227401.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 26132.92,
+  "quantidade_transacoes": 7,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 22500.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 86.1
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 1525.25,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.84
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 1367.51,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.23
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 740.16,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.83
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AC 24 HORAS LTDA",
+      "cnpj": "13218533000196",
+      "total": 12500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 47.83
+    },
+    {
+      "nome": "WISLANY OLIVEIRA DERZE",
+      "cnpj": "45941156000105",
+      "total": 10000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 38.27
+    },
+    {
+      "nome": "Gol Linhas Aereas S.A.",
+      "cnpj": "07575651000159",
+      "total": 1525.25,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.84
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 1367.51,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.23
+    },
+    {
+      "nome": "AUTO POSTO CAMILA LTDA - FILIAL",
+      "cnpj": "05938540000215",
+      "total": 375.13,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.44
+    },
+    {
+      "nome": "AUTO POSTO SANTO ANTONIO LTDA",
+      "cnpj": "14412076000139",
+      "total": 265.03,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.01
+    },
+    {
+      "nome": "AUTO POSTO 303 NORTE LTDA",
+      "cnpj": "38194212000120",
+      "total": 100.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.38
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 26132.92,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

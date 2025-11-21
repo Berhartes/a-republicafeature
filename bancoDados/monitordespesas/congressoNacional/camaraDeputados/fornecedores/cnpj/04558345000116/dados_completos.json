@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "POSTO DE SERVICOS JOCIMAR LTDA",
       "cnpj": "04558345000116",
-      "total_recebido": 223.03,
+      "total_recebido": 216.52,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:58:14.421867"
+    "generatedAt": "2025-11-11T05:22:27.034695"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 223.03
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 216.52
   },
   "anos": {
     "2023": {
-      "total": 223.03,
+      "total": 216.52,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204388": {
+    "160559": {
       "deputado": {
-        "id": 204388,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388",
-        "nome": "Bibo Nunes",
-        "siglaPartido": "PL",
+        "id": 160559,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
+        "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
+        "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
-        "email": "dep.bibonunes@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
+        "email": "dep.alceumoreira@camara.leg.br"
       },
-      "total": 223.03,
+      "total": 216.52,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 3,
+          "mes": 10,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7514185,
+          "codDocumento": 7629559,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-03-14T00:00:00",
-          "numDocumento": "46624",
-          "valorDocumento": 223.03,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7514185",
+          "dataDocumento": "2023-10-15T00:00:00",
+          "numDocumento": "57282",
+          "valorDocumento": 216.52,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7629559",
           "nomeFornecedor": "POSTO DE SERVICOS JOCIMAR LTDA",
           "cnpjCpfFornecedor": "04558345000116",
-          "valorLiquido": 223.03,
+          "valorLiquido": 216.52,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

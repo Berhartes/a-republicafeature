@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIO DE COMBUSTIVEIS ITALIA LTDA",
+      "cnpj": "53690958000118",
+      "total_recebido": 216.43,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:56.353480"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 216.43
+  },
+  "anos": {
+    "2024": {
+      "total": 216.43,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 216.43,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7766417,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-07-07T11:46:11",
+          "numDocumento": "37",
+          "valorDocumento": 216.43,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7766417",
+          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS ITALIA LTDA",
+          "cnpjCpfFornecedor": "53690958000118",
+          "valorLiquido": 216.43,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2055600,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

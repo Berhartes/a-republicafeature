@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T17:45:22Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "deputados.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "deputadoId": "123086"
+  },
+  "data": {
+    "id": "123086",
+    "nome": "Átila Lira",
+    "nomeEleitoral": "Átila Lira",
+    "nomeCivil": null,
+    "partido": "PP",
+    "siglaPartido": "PP",
+    "uf": "PI",
+    "siglaUf": "PI",
+    "urlFoto": null,
+    "totalDespesas": 1483032.39,
+    "numeroDespesas": 734,
+    "fornecedoresIdentificados": 24,
+    "createdAt": "2025-11-01T17:45:19Z",
+    "gastosPorAno": {},
+    "transacoesPorAno": {},
+    "topCategorias": [],
+    "topFornecedores": [],
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "temDetalhes": false
+  }
+}

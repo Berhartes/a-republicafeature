@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIAL DE COMBUST&Iacute;VEIS PAINEIRA LTDA.",
+      "cnpj": "10619261000148",
+      "total_recebido": 1300.0,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:12.968166"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1300.0
+  },
+  "anos": {
+    "2023": {
+      "total": 1100.0,
+      "transacoes": 6,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 200.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178835": {
+      "deputado": {
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
+      },
+      "total": 1300.0,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7511626,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-13T00:00:00",
+          "numDocumento": "1766595",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7511626",
+          "nomeFornecedor": "COMERCIAL DE COMBUST&Iacute;VEIS PAINEIRA LTDA.",
+          "cnpjCpfFornecedor": "10619261000148",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7522338,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-05T00:00:00",
+          "numDocumento": "1788450",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7522338",
+          "nomeFornecedor": "COMERCIAL DE COMBUST&Iacute;VEIS PAINEIRA LTDA.",
+          "cnpjCpfFornecedor": "10619261000148",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7542669,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-03T00:00:00",
+          "numDocumento": "1813066",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7542669",
+          "nomeFornecedor": "COMERCIAL DE COMBUST&Iacute;VEIS PAINEIRA LTDA.",
+          "cnpjCpfFornecedor": "10619261000148",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7572306,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-03T00:00:00",
+          "numDocumento": "1865831",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7572306",
+          "nomeFornecedor": "COMERCIAL DE COMBUST&Iacute;VEIS PAINEIRA LTDA.",
+          "cnpjCpfFornecedor": "10619261000148",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7609729,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-13T00:00:00",
+          "numDocumento": "1931975",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7609729",
+          "nomeFornecedor": "COMERCIAL DE COMBUST&Iacute;VEIS PAINEIRA LTDA.",
+          "cnpjCpfFornecedor": "10619261000148",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7619079,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-30T00:00:00",
+          "numDocumento": "1948121",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7619079",
+          "nomeFornecedor": "COMERCIAL DE COMBUST&Iacute;VEIS PAINEIRA LTDA.",
+          "cnpjCpfFornecedor": "10619261000148",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7771070,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-06T16:49:02",
+          "numDocumento": "2212067",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7771070",
+          "nomeFornecedor": "COMERCIAL DE COMBUST&Iacute;VEIS PAINEIRA LTDA.",
+          "cnpjCpfFornecedor": "10619261000148",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

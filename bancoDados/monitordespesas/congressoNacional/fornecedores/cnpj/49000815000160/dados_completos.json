@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "NACIONAL RENT A CAR LOCACAO DE VEICULOS LTDA",
+      "cnpj": "49000815000160",
+      "total_recebido": 21000.0,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:03.788010"
+  },
+  "categorias": {
+    "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 21000.0
+  },
+  "anos": {
+    "2023": {
+      "total": 11000.0,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 10000.0,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 21000.0,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7511134,
+          "tipoDocumento": "Recibos/Outros",
+          "codTipoDocumento": 1,
+          "dataDocumento": "2023-03-16T00:00:00",
+          "numDocumento": "0062023",
+          "valorDocumento": 5500.0,
+          "urlDocumento": null,
+          "nomeFornecedor": "NACIONAL RENT A CAR LOCACAO DE VEICULOS LTDA",
+          "cnpjCpfFornecedor": "49000815000160",
+          "valorLiquido": 5500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1915527,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7497942,
+          "tipoDocumento": "Recibos/Outros",
+          "codTipoDocumento": 1,
+          "dataDocumento": "2023-02-10T00:00:00",
+          "numDocumento": "002.2023",
+          "valorDocumento": 5500.0,
+          "urlDocumento": null,
+          "nomeFornecedor": "Nacional Rent a Car Locação de Veiculos LTDA",
+          "cnpjCpfFornecedor": "49000815000160",
+          "valorLiquido": 5500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1908452,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7813877,
+          "tipoDocumento": "Recibos/Outros",
+          "codTipoDocumento": 1,
+          "dataDocumento": "2024-10-08T00:00:00",
+          "numDocumento": "0732024",
+          "valorDocumento": 2500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7813877.pdf",
+          "nomeFornecedor": "Nacional Rent a Car Locação de Veiculos LTDA",
+          "cnpjCpfFornecedor": "49000815000160",
+          "valorLiquido": 2500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2080247,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7821303,
+          "tipoDocumento": "Recibos/Outros",
+          "codTipoDocumento": 1,
+          "dataDocumento": "2024-10-25T00:00:00",
+          "numDocumento": "0742024",
+          "valorDocumento": 2500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7821303.pdf",
+          "nomeFornecedor": "Nacional Rent a Car Locação de Veiculos LTDA",
+          "cnpjCpfFornecedor": "49000815000160",
+          "valorLiquido": 2500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2084079,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7833921,
+          "tipoDocumento": "Recibos/Outros",
+          "codTipoDocumento": 1,
+          "dataDocumento": "2024-11-04T00:00:00",
+          "numDocumento": "0752024",
+          "valorDocumento": 2500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7833921.pdf",
+          "nomeFornecedor": "Nacional Rent a Car Locação de Veiculos LTDA",
+          "cnpjCpfFornecedor": "49000815000160",
+          "valorLiquido": 2500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2090961,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "codDocumento": 7850746,
+          "tipoDocumento": "Recibos/Outros",
+          "codTipoDocumento": 1,
+          "dataDocumento": "2024-12-03T00:00:00",
+          "numDocumento": "089.2024",
+          "valorDocumento": 2500.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7850746.pdf",
+          "nomeFornecedor": "Nacional Rent a Car Locação de Veiculos LTDA",
+          "cnpjCpfFornecedor": "49000815000160",
+          "valorLiquido": 2500.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2100019,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

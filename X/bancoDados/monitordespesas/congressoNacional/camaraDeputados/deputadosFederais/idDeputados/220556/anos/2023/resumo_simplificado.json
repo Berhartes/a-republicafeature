@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220556,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220556",
+    "nome": "Ana Paula Lima",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "SC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
+    "email": "dep.anapaulalima@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 502766.3,
+  "quantidade_transacoes": 445,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 315605.5,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 62.77
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 83439.59,
+      "quantidade_transacoes": 73,
+      "porcentagem_do_total": 16.6
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 35069.73,
+      "quantidade_transacoes": 197,
+      "porcentagem_do_total": 6.98
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 32704.38,
+      "quantidade_transacoes": 44,
+      "porcentagem_do_total": 6.5
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 14323.02,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 2.85
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Criação Propaganda e Publicidade LTDA",
+      "cnpj": "82123266000196",
+      "total": 118800.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 23.63
+    },
+    {
+      "nome": "Master Brasil Painéis LTDA",
+      "cnpj": "18770515000136",
+      "total": 108160.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 21.51
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 49611.94,
+      "quantidade_transacoes": 50,
+      "porcentagem_do_total": 9.87
+    },
+    {
+      "nome": "Tipotil Industria Grafica Ltda.",
+      "cnpj": "86375870000160",
+      "total": 24000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.77
+    },
+    {
+      "nome": "Facebook Serviços Online do Brasil",
+      "cnpj": "13347016000117",
+      "total": 23895.5,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.75
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 22056.71,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 4.39
+    },
+    {
+      "nome": "ADEMAR KLEMZ",
+      "cnpj": "38062143953",
+      "total": 18700.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 3.72
+    },
+    {
+      "nome": "METTA DIGITAL",
+      "cnpj": "43702140000114",
+      "total": 12000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.39
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 11770.94,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 2.34
+    },
+    {
+      "nome": "BLACK PRODUTORA LTDA",
+      "cnpj": "01354178000101",
+      "total": 9900.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.97
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 7759.37,
+      "porcentagem_do_total": 1.54
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 11897.97,
+      "porcentagem_do_total": 2.37
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 16744.02,
+      "porcentagem_do_total": 3.33
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 41674.62,
+      "porcentagem_do_total": 8.29
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 14951.71,
+      "porcentagem_do_total": 2.97
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 40356.85,
+      "porcentagem_do_total": 8.03
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 37922.74,
+      "porcentagem_do_total": 7.54
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 41696.72,
+      "porcentagem_do_total": 8.29
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 55350.11,
+      "porcentagem_do_total": 11.01
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 47876.85,
+      "porcentagem_do_total": 9.52
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 186535.34,
+      "porcentagem_do_total": 37.1
+    }
+  ]
+}

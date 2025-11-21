@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO PAU SECO LT",
+      "cnpj": "43950492000199",
+      "total_recebido": 1239.79,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 609.1,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-10-01T00:00:00",
+    "periodo_fim": "2024-11-29T00:00:00",
+    "generatedAt": "2025-11-11T21:38:04.662008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 609.1,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 609.1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 300.2,
+      "porcentagem_do_total": 49.29
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 308.9,
+      "porcentagem_do_total": 50.71
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7814540,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-10-01T00:00:00",
+      "numDocumento": "157427",
+      "valorDocumento": 300.2,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7814540.pdf",
+      "nomeFornecedor": "AUTO POSTO PAU SECO LT",
+      "cnpjCpfFornecedor": "43950492000199",
+      "valorLiquido": 300.2,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2080549,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7839332,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-11-29T00:00:00",
+      "numDocumento": "358273",
+      "valorDocumento": 308.9,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7839332.pdf",
+      "nomeFornecedor": "AUTO POSTO PAU SECO LT",
+      "cnpjCpfFornecedor": "43950492000199",
+      "valorLiquido": 308.9,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2093890,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

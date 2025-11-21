@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 160541,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160541",
+    "nome": "Arthur Lira",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "AL",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160541.jpg",
+    "email": "dep.arthurlira@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 228363.42,
+  "quantidade_transacoes": 164,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 81639.7,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 35.75
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 50000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 21.89
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 39066.32,
+      "quantidade_transacoes": 128,
+      "porcentagem_do_total": 17.11
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 23880.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 10.46
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 19299.4,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 8.45
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "MRG consultoria em comunicação ltda",
+      "cnpj": "53639018000102",
+      "total": 50000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 21.89
+    },
+    {
+      "nome": "LATAM",
+      "cnpj": "00000000000010",
+      "total": 42877.8,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 18.78
+    },
+    {
+      "nome": "A STAR ALLIANCE MEMBER",
+      "cnpj": "00000000000010",
+      "total": 38761.9,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 16.97
+    },
+    {
+      "nome": "CDM LOCADORA EM GERAL LTDA",
+      "cnpj": "53353105000190",
+      "total": 14880.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 6.52
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 12900.43,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 5.65
+    },
+    {
+      "nome": "OK LOCADORA DE VEÍCULOS LTDA - EPP",
+      "cnpj": "07173027000125",
+      "total": 9000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.94
+    },
+    {
+      "nome": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA",
+      "cnpj": "11521613000190",
+      "total": 8000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.5
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 6398.97,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 2.8
+    },
+    {
+      "nome": "BROAD BRASIL LTDA",
+      "cnpj": "48949641000113",
+      "total": 3988.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.75
+    },
+    {
+      "nome": "AUTO POSTO GOLDEN GAS LAGO LTDA",
+      "cnpj": "30879261000194",
+      "total": 3500.0,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 1.53
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 3812.64,
+      "porcentagem_do_total": 1.67
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 4563.91,
+      "porcentagem_do_total": 2.0
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 96689.55,
+      "porcentagem_do_total": 42.34
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 8409.19,
+      "porcentagem_do_total": 3.68
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 9428.88,
+      "porcentagem_do_total": 4.13
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 5856.78,
+      "porcentagem_do_total": 2.56
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 13251.64,
+      "porcentagem_do_total": 5.8
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 41085.23,
+      "porcentagem_do_total": 17.99
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 36157.0,
+      "porcentagem_do_total": 15.83
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 8407.13,
+      "porcentagem_do_total": 3.68
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 701.47,
+      "porcentagem_do_total": 0.31
+    }
+  ]
+}

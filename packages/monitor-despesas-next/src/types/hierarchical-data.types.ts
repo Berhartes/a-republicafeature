@@ -13,7 +13,11 @@ import type {
   PerfilFornecedorMetadados,
   RelacionamentoDeputadosCompacto
 } from '@/lib/fornecedor-utils'
-import { ProcessedFornecedoresData } from '@/services/global-fornecedores-processor'
+// DESABILITADO: global-fornecedores-processor não existe mais
+// import { ProcessedFornecedoresData } from '@/services/global-fornecedores-processor'
+
+// Tipo fallback para ProcessedFornecedoresData
+export type ProcessedFornecedoresData = Record<string, any>
 
 
 export interface BaseHierarchicalEntity { id: string }
@@ -132,6 +136,7 @@ export interface ETLCommandResult {
   logs: string[]
 }
 
-
-export type { ProcessedFornecedoresData, ProcessingOptions } from '@/services/global-fornecedores-processor'
+// DESABILITADO: global-fornecedores-processor não existe mais
+// export type { ProcessedFornecedoresData, ProcessingOptions } from '@/services/global-fornecedores-processor'
+export type ProcessingOptions = Record<string, any>
 export type { GastoParlamentar, FornecedorSuspeito, AnaliseDeputado } from '@/types/gastos'

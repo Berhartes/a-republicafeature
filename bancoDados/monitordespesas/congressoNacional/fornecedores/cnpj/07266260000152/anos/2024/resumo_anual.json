@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Manoel Cassio de Souza Guedes - ME",
+      "cnpj": "07266260000152",
+      "total_recebido": 1049.9,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 165.5,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-01-15T00:00:00",
+    "periodo_fim": "2024-01-15T00:00:00",
+    "generatedAt": "2025-11-11T21:38:06.067023"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 165.5,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 165.5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 165.5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 1,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7689296,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-01-15T00:00:00",
+      "numDocumento": "12955",
+      "valorDocumento": 165.5,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7689296",
+      "nomeFornecedor": "Manoel Cassio de Souza Guedes",
+      "cnpjCpfFornecedor": "07266260000152",
+      "valorLiquido": 165.5,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2014417,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    }
+  ]
+}

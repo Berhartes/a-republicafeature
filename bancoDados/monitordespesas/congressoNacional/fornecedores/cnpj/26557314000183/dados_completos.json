@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POESY AVIAMENTOS E PAPELARIA EIRELI - EPP",
+      "cnpj": "26557314000183",
+      "total_recebido": 415.5,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:56.051480"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 415.5
+  },
+  "anos": {
+    "2024": {
+      "total": 415.5,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 415.5,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7686950,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-02-19T00:00:00",
+          "numDocumento": "57774",
+          "valorDocumento": 130.62,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7686950",
+          "nomeFornecedor": "POESY AVIAMENTOS E PAPELARIA EIRELI - EPP",
+          "cnpjCpfFornecedor": "26557314000183",
+          "valorLiquido": 130.62,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2013072,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7700886,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-03-12T00:00:00",
+          "numDocumento": "58395",
+          "valorDocumento": 65.92,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7700886",
+          "nomeFornecedor": "POESY AVIAMENTOS E PAPELARIA EIRELI - EPP",
+          "cnpjCpfFornecedor": "26557314000183",
+          "valorLiquido": 65.92,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2020721,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7700984,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-03-12T00:00:00",
+          "numDocumento": "58414",
+          "valorDocumento": 72.1,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7700984",
+          "nomeFornecedor": "POESY AVIAMENTOS E PAPELARIA EIRELI - EPP",
+          "cnpjCpfFornecedor": "26557314000183",
+          "valorLiquido": 72.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2020770,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7718129,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-03-27T00:00:00",
+          "numDocumento": "58829",
+          "valorDocumento": 146.86,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7718129",
+          "nomeFornecedor": "POESY AVIAMENTOS E PAPELARIA EIRELI - EPP",
+          "cnpjCpfFornecedor": "26557314000183",
+          "valorLiquido": 146.86,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2029997,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

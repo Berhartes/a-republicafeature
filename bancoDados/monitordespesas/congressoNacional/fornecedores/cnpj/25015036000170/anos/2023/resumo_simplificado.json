@@ -1,0 +1,54 @@
+{
+  "fornecedor": {
+    "nome": "AUTO VOLUME COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+    "cnpj": "25015036000170",
+    "total_recebido": 797.23,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 797.23,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 797.23,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 797.23,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 214.8,
+      "porcentagem_do_total": 26.94
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 229.27,
+      "porcentagem_do_total": 28.76
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 203.16,
+      "porcentagem_do_total": 25.48
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 150.0,
+      "porcentagem_do_total": 18.82
+    }
+  ]
+}

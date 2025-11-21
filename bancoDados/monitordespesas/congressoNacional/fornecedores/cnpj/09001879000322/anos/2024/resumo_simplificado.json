@@ -1,0 +1,66 @@
+{
+  "fornecedor": {
+    "nome": "COMERCIAL AMAZONIA 02 DE PETROLEO EIRELI",
+    "cnpj": "09001879000322",
+    "total_recebido": 15162.999999999996,
+    "numero_transacoes": 93,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 6583.54,
+  "quantidade_transacoes": 36,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 6583.54,
+      "quantidade_transacoes": 36,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 6583.54,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 548.51,
+      "porcentagem_do_total": 8.33
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 786.9,
+      "porcentagem_do_total": 11.95
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 1563.31,
+      "porcentagem_do_total": 23.75
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 1589.73,
+      "porcentagem_do_total": 24.15
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 1429.62,
+      "porcentagem_do_total": 21.72
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 665.47,
+      "porcentagem_do_total": 10.11
+    }
+  ]
+}

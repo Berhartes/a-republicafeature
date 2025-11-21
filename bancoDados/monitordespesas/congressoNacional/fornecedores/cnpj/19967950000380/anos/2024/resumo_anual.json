@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "L. Lucia Kuhn & Cia Ltda - AUTO POSTO ARAGUAIA",
+      "cnpj": "19967950000380",
+      "total_recebido": 239.97,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 239.97,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-06-16T00:00:00",
+    "periodo_fim": "2024-06-16T00:00:00",
+    "generatedAt": "2025-11-11T21:37:56.473482"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 239.97,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 239.97,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 239.97,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7756519,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-06-16T00:00:00",
+      "numDocumento": "15377",
+      "valorDocumento": 239.97,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7756519.pdf",
+      "nomeFornecedor": "L. Lucia Kuhn & Cia Ltda - AUTO POSTO ARAGUAIA",
+      "cnpjCpfFornecedor": "19967950000380",
+      "valorLiquido": 239.97,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2050439,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

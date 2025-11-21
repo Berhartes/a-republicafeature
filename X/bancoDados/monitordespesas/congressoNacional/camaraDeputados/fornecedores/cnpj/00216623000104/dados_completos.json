@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "WALTER TANNUS FREITAS",
+      "cnpj": "00216623000104",
+      "total_recebido": 1491.3600000000001,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:25.967288"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1491.3600000000001
+  },
+  "anos": {
+    "2023": {
+      "total": 590.75,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 480.45,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 420.16,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74057": {
+      "deputado": {
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
+      },
+      "total": 1491.3600000000001,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7518468,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-20T00:00:00",
+          "numDocumento": "888450",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7518468",
+          "nomeFornecedor": "WALTER TANNUS FREITAS",
+          "cnpjCpfFornecedor": "00216623000104",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7567754,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-24T00:00:00",
+          "numDocumento": "921810",
+          "valorDocumento": 242.98,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7567754",
+          "nomeFornecedor": "WALTER TANNUS FREITAS",
+          "cnpjCpfFornecedor": "00216623000104",
+          "valorLiquido": 242.98,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7585166,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-22T00:00:00",
+          "numDocumento": "931274",
+          "valorDocumento": 247.77,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7585166",
+          "nomeFornecedor": "WALTER TANNUS FREITAS",
+          "cnpjCpfFornecedor": "00216623000104",
+          "valorLiquido": 247.77,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7848245,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-08T16:24:47",
+          "numDocumento": "1141474",
+          "valorDocumento": 480.45,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7848245",
+          "nomeFornecedor": "WALTER TANNUS FREITAS",
+          "cnpjCpfFornecedor": "00216623000104",
+          "valorLiquido": 480.45,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7982188,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-22T00:00:00",
+          "numDocumento": "1221366",
+          "valorDocumento": 420.16,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7982188",
+          "nomeFornecedor": "WALTER TANNUS FREITAS",
+          "cnpjCpfFornecedor": "00216623000104",
+          "valorLiquido": 420.16,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

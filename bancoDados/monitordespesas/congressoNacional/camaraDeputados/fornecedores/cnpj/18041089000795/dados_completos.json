@@ -7,7 +7,7 @@
       "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:57.502579"
+    "generatedAt": "2025-11-11T05:22:08.898669"
   },
   "categorias": {
     "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 95.0
@@ -25,35 +25,17 @@
         "id": 221328,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
         "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
-        "email": "dep.adilsonbarroso@camara.leg.br"
+        "email": null
       },
       "total": 95.0,
       "transacoes": 4,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 6,
-          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7562625,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-06-01T00:00:00",
-          "numDocumento": "067957",
-          "valorDocumento": 26.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7562625.pdf",
-          "nomeFornecedor": "Sudeste Foods Produtos Alimenticios",
-          "cnpjCpfFornecedor": "18041089000795",
-          "valorLiquido": 26.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 5,
@@ -106,6 +88,25 @@
           "nomeFornecedor": "Sudeste Foods Produtos Alimenticios",
           "cnpjCpfFornecedor": "18041089000795",
           "valorLiquido": 23.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7562625,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-01T00:00:00",
+          "numDocumento": "067957",
+          "valorDocumento": 26.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7562625.pdf",
+          "nomeFornecedor": "Sudeste Foods Produtos Alimenticios",
+          "cnpjCpfFornecedor": "18041089000795",
+          "valorLiquido": 26.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

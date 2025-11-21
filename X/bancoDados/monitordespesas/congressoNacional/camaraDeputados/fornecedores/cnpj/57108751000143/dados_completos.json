@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MARIANA BARROS MISSI",
+      "cnpj": "57108751000143",
+      "total_recebido": 5000.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:19.229726"
+  },
+  "categorias": {
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 5000.0
+  },
+  "anos": {
+    "2025": {
+      "total": 5000.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178972": {
+      "deputado": {
+        "id": 178972,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+        "nome": "Alex Manente",
+        "nomeEleitoral": "Alex Manente",
+        "siglaPartido": "CIDADANIA",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+        "email": "dep.alexmanente@camara.leg.br"
+      },
+      "total": 5000.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7887039,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-20T00:00:00",
+          "numDocumento": "17",
+          "valorDocumento": 5000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3011/2025/7887039.pdf",
+          "nomeFornecedor": "MARIANA BARROS MISSI",
+          "cnpjCpfFornecedor": "57108751000143",
+          "valorLiquido": 5000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AGUAS CUIABA S.A",
+      "cnpj": "14995581000153",
+      "total_recebido": 603.3499999999999,
+      "numero_transacoes": 10,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 468.75,
+    "quantidade_transacoes": 8,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-04-25T00:00:00",
+    "periodo_fim": "2023-12-26T00:00:00",
+    "generatedAt": "2025-11-11T21:37:52.700480"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 468.75,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 468.75,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 43.2,
+      "porcentagem_do_total": 9.22
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 43.2,
+      "porcentagem_do_total": 9.22
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 43.2,
+      "porcentagem_do_total": 9.22
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 43.2,
+      "porcentagem_do_total": 9.22
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 43.2,
+      "porcentagem_do_total": 9.22
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 118.15,
+      "porcentagem_do_total": 25.21
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 67.3,
+      "porcentagem_do_total": 14.36
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 67.3,
+      "porcentagem_do_total": 14.36
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7657491,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-11-27T00:00:00",
+      "numDocumento": "01",
+      "valorDocumento": 67.3,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7657491.pdf",
+      "nomeFornecedor": "AGUAS CUIABA S.A",
+      "cnpjCpfFornecedor": "14995581000153",
+      "valorLiquido": 67.3,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1996163,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7552621,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-05-05T00:00:00",
+      "numDocumento": "11533052023001",
+      "valorDocumento": 43.2,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7552621.pdf",
+      "nomeFornecedor": "AGUAS CUIABA S.A",
+      "cnpjCpfFornecedor": "14995581000153",
+      "valorLiquido": 43.2,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1938600,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7587236,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-06-05T00:00:00",
+      "numDocumento": "11533062023001",
+      "valorDocumento": 43.2,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7587236.pdf",
+      "nomeFornecedor": "AGUAS CUIABA S.A",
+      "cnpjCpfFornecedor": "14995581000153",
+      "valorLiquido": 43.2,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1957493,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 7,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7587239,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-07-05T00:00:00",
+      "numDocumento": "11533072023001",
+      "valorDocumento": 43.2,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7587239.pdf",
+      "nomeFornecedor": "AGUAS CUIABA S.A",
+      "cnpjCpfFornecedor": "14995581000153",
+      "valorLiquido": 43.2,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1957494,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 8,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7605225,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-08-25T00:00:00",
+      "numDocumento": "11533082023001",
+      "valorDocumento": 43.2,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7605225.pdf",
+      "nomeFornecedor": "AGUAS CUIABA S.A",
+      "cnpjCpfFornecedor": "14995581000153",
+      "valorLiquido": 43.2,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1966665,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7625750,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-09-06T00:00:00",
+      "numDocumento": "11533092023001",
+      "valorDocumento": 118.15,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7625750.pdf",
+      "nomeFornecedor": "AGUAS CUIABA S.A",
+      "cnpjCpfFornecedor": "14995581000153",
+      "valorLiquido": 118.15,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1978242,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7671693,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-12-26T00:00:00",
+      "numDocumento": "11533122023001",
+      "valorDocumento": 67.3,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7671693.pdf",
+      "nomeFornecedor": "AGUAS CUIABA S.A",
+      "cnpjCpfFornecedor": "14995581000153",
+      "valorLiquido": 67.3,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2003936,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 4,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7538426,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-04-25T00:00:00",
+      "numDocumento": "s/n",
+      "valorDocumento": 43.2,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7538426.pdf",
+      "nomeFornecedor": "AGUAS CUIABA S.A",
+      "cnpjCpfFornecedor": "14995581000153",
+      "valorLiquido": 43.2,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1931086,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

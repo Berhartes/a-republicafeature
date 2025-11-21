@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220551,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220551",
+    "nome": "Franciane Bayer",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "RS",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220551.jpg",
+    "email": "dep.francianebayer@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 318212.6,
+  "quantidade_transacoes": 326,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 134685.0,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 42.33
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 129032.53,
+      "quantidade_transacoes": 34,
+      "porcentagem_do_total": 40.55
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 54495.07,
+      "quantidade_transacoes": 265,
+      "porcentagem_do_total": 17.13
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Critério Comunicação LTDA_ME",
+      "cnpj": "14938065000197",
+      "total": 70000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 22.0
+    },
+    {
+      "nome": "OFFICE SOLUÇÕES EM EQUIPAMENTOS E MOBILIÁRIOS LTDA",
+      "cnpj": "48992562000195",
+      "total": 51439.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 16.16
+    },
+    {
+      "nome": "FERNANDO DA SILVA CALVETE",
+      "cnpj": "65312589004",
+      "total": 46804.25,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 14.71
+    },
+    {
+      "nome": "NATIELE DOS SANTOS DIAS",
+      "cnpj": "45712192000105",
+      "total": 29300.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 9.21
+    },
+    {
+      "nome": "GRÁFICA PARAKÍ LTDA-ME",
+      "cnpj": "10310147000131",
+      "total": 23200.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 7.29
+    },
+    {
+      "nome": "PARLANET WEB E TECNOLOGIA EIRELI",
+      "cnpj": "31602730000196",
+      "total": 13348.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 4.19
+    },
+    {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+      "cnpj": "12132854000100",
+      "total": 11973.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.76
+    },
+    {
+      "nome": "HOUSE DIGITAL EIRELI",
+      "cnpj": "24436882000109",
+      "total": 10245.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.22
+    },
+    {
+      "nome": "AUTO POSTO SAMDU LTDA",
+      "cnpj": "16557959000162",
+      "total": 6806.36,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 2.14
+    },
+    {
+      "nome": "FAGUNDES COMERCIO DE COMBUSTIVEIS LTDA  FAGUNDES",
+      "cnpj": "01669391000102",
+      "total": 6310.96,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 1.98
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 36748.81,
+      "porcentagem_do_total": 11.55
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 33256.36,
+      "porcentagem_do_total": 10.45
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 30153.51,
+      "porcentagem_do_total": 9.48
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 34588.0,
+      "porcentagem_do_total": 10.87
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 34162.09,
+      "porcentagem_do_total": 10.74
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 26310.39,
+      "porcentagem_do_total": 8.27
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 38258.29,
+      "porcentagem_do_total": 12.02
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 19482.85,
+      "porcentagem_do_total": 6.12
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 33813.49,
+      "porcentagem_do_total": 10.63
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 24009.25,
+      "porcentagem_do_total": 7.55
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 5371.78,
+      "porcentagem_do_total": 1.69
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 2057.78,
+      "porcentagem_do_total": 0.65
+    }
+  ]
+}

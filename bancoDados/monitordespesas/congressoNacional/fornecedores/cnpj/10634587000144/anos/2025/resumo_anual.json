@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO MANGUEIRAO LTDA",
+      "cnpj": "10634587000144",
+      "total_recebido": 296.62,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 296.62,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-08-11T20:13:36",
+    "periodo_fim": "2025-08-11T20:13:36",
+    "generatedAt": "2025-11-11T21:37:59.679009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 296.62,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 296.62,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 296.62,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7969774,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-08-11T20:13:36",
+      "numDocumento": "82999",
+      "valorDocumento": 296.62,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7969774",
+      "nomeFornecedor": "POSTO MANGUEIRAO LTDA",
+      "cnpjCpfFornecedor": "10634587000144",
+      "valorLiquido": 296.62,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2165753,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

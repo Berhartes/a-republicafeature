@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "ONIX IMOB LTDA",
+    "cnpj": "57646566000102",
+    "total_recebido": 16072.0,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 16072.0,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 16072.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 16072.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 8036.0,
+      "porcentagem_do_total": 50.0
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 8036.0,
+      "porcentagem_do_total": 50.0
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+      "cnpj": "00692418003122",
+      "total_recebido": 671.9200000000001,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 321.92,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-11-26T09:03:56",
+    "periodo_fim": "2024-11-26T09:03:56",
+    "generatedAt": "2025-11-11T21:37:58.672013"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 321.92,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 321.92,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 321.92,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7838792,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-11-26T09:03:56",
+      "numDocumento": "143390",
+      "valorDocumento": 321.92,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7838792",
+      "nomeFornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+      "cnpjCpfFornecedor": "00692418003122",
+      "valorLiquido": 321.92,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2093583,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

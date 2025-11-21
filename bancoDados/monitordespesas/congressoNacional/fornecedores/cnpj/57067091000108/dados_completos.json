@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SCB SUSHI RESTAURANTE LTDA",
+      "cnpj": "57067091000108",
+      "total_recebido": 127.1,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:05.486007"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 127.1
+  },
+  "anos": {
+    "2024": {
+      "total": 127.1,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 127.1,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7825737,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-01T00:00:00",
+          "numDocumento": "207040",
+          "valorDocumento": 139.81,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7825737.pdf",
+          "nomeFornecedor": "SCB SUSHI RESTAURANTE LTDA",
+          "cnpjCpfFornecedor": "57067091000108",
+          "valorLiquido": 127.1,
+          "valorGlosa": 12.71,
+          "numRessarcimento": "",
+          "codLote": 2086487,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

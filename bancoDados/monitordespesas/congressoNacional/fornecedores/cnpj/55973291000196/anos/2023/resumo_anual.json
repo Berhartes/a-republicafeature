@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO DO TREVO LTDA",
+      "cnpj": "55973291000196",
+      "total_recebido": 1578.3300000000002,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 922.02,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-08-10T00:00:00",
+    "periodo_fim": "2023-12-14T00:00:00",
+    "generatedAt": "2025-11-11T21:38:03.013008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 922.02,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 922.02,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 368.64,
+      "porcentagem_do_total": 39.98
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 329.16,
+      "porcentagem_do_total": 35.7
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 224.22,
+      "porcentagem_do_total": 24.32
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7617466,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-09-26T00:00:00",
+      "numDocumento": "028552",
+      "valorDocumento": 329.16,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7617466.pdf",
+      "nomeFornecedor": "POSTO DO TREVO LTDA",
+      "cnpjCpfFornecedor": "55973291000196",
+      "valorLiquido": 329.16,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1973984,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7670280,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-12-14T00:00:00",
+      "numDocumento": "176541",
+      "valorDocumento": 224.22,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7670280.pdf",
+      "nomeFornecedor": "POSTO DO TREVO LTDA",
+      "cnpjCpfFornecedor": "55973291000196",
+      "valorLiquido": 224.22,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2003115,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7596087,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-08-10T00:00:00",
+      "numDocumento": "342320",
+      "valorDocumento": 200.24,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7596087.pdf",
+      "nomeFornecedor": "POSTO DO TREVO LTDA",
+      "cnpjCpfFornecedor": "55973291000196",
+      "valorLiquido": 200.24,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1961614,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7596074,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-08-17T00:00:00",
+      "numDocumento": "745141",
+      "valorDocumento": 168.4,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7596074.pdf",
+      "nomeFornecedor": "POSTO DO TREVO LTDA",
+      "cnpjCpfFornecedor": "55973291000196",
+      "valorLiquido": 168.4,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1961614,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

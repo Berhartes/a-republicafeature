@@ -1,0 +1,41 @@
+{
+  "deputado": {
+    "id": 204496,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204496",
+    "nome": "Celso Sabino",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "PA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204496.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": -1414.22,
+  "quantidade_transacoes": 1,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": -1414.22,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": -1414.22,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": -1414.22,
+      "porcentagem_do_total": 0
+    }
+  ]
+}

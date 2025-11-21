@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO 405 NORTE LTDA",
+      "cnpj": "33431098000190",
+      "total_recebido": 320.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:22.826210"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 320.0
+  },
+  "anos": {
+    "2024": {
+      "total": 320.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160545": {
+      "deputado": {
+        "id": 160545,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160545",
+        "nome": "Alexandre Leite",
+        "nomeEleitoral": "Alexandre Leite",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160545.jpg",
+        "email": null
+      },
+      "total": 320.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7825974,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-22T11:39:00",
+          "numDocumento": "9892",
+          "valorDocumento": 320.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7825974",
+          "nomeFornecedor": "AUTO POSTO 405 NORTE LTDA",
+          "cnpjCpfFornecedor": "33431098000190",
+          "valorLiquido": 320.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

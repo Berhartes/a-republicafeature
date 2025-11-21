@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "DECIO COM. E SERV. ROD. LTDA",
       "cnpj": "19046218001004",
-      "total_recebido": 315.03,
+      "total_recebido": 185.62,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:59:02.679425"
+    "generatedAt": "2025-11-11T05:22:37.973244"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 315.03
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 185.62
   },
   "anos": {
-    "2023": {
-      "total": 315.03,
+    "2025": {
+      "total": 185.62,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204507": {
+    "221148": {
       "deputado": {
-        "id": 204507,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204507",
-        "nome": "Carla Zambelli",
-        "siglaPartido": "PL",
+        "id": 221148,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221148",
+        "nome": "Alfredinho",
+        "nomeEleitoral": "Alfredinho",
+        "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204507.jpg",
-        "email": "dep.carlazambelli@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221148.jpg",
+        "email": "dep.alfredinho@camara.leg.br"
       },
-      "total": 315.03,
+      "total": 185.62,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 4,
+          "ano": 2025,
+          "mes": 3,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7535401,
+          "codDocumento": 7906895,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-04-30T00:00:00",
-          "numDocumento": "661878",
-          "valorDocumento": 315.03,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2023/7535401.pdf",
+          "dataDocumento": "2025-03-15T00:00:00",
+          "numDocumento": "93459",
+          "valorDocumento": 185.62,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3505/2025/7906895.pdf",
           "nomeFornecedor": "DECIO COM. E SERV. ROD. LTDA",
           "cnpjCpfFornecedor": "19046218001004",
-          "valorLiquido": 315.03,
+          "valorLiquido": 185.62,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

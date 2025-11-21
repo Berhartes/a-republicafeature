@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 141421,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141421",
+    "nome": "Eduardo da Fonte",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "PE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141421.jpg",
+    "email": "dep.eduardodafonte@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 339574.63,
+  "quantidade_transacoes": 416,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 286171.83,
+      "quantidade_transacoes": 169,
+      "porcentagem_do_total": 84.27
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 51407.1,
+      "quantidade_transacoes": 245,
+      "porcentagem_do_total": 15.14
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 1995.7,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.59
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "IM2 SERVIÇOS LTDA",
+      "cnpj": "55199007000176",
+      "total": 31500.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 9.28
+    },
+    {
+      "nome": "ON OFF Marketing",
+      "cnpj": "21491555000153",
+      "total": 28000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 8.25
+    },
+    {
+      "nome": "FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA",
+      "cnpj": "13347016000117",
+      "total": 26689.55,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 7.86
+    },
+    {
+      "nome": "MARINA OLIVEIRA AGOSTINE",
+      "cnpj": "49160680000108",
+      "total": 25000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 7.36
+    },
+    {
+      "nome": "ANA ALICE BARROS E SILVA",
+      "cnpj": "44316642000170",
+      "total": 23951.61,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 7.05
+    },
+    {
+      "nome": "MAURICIO DE NASSAU BARRETO DE MENEZES",
+      "cnpj": "49484838000197",
+      "total": 23500.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 6.92
+    },
+    {
+      "nome": "ALBERES XAVIER DE ASSUNÇÃO 04450911423",
+      "cnpj": "35746829000112",
+      "total": 18000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 5.3
+    },
+    {
+      "nome": "EDMAR LYRA CAVALCANTI JUNIOR ME",
+      "cnpj": "17782102000109",
+      "total": 18000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 5.3
+    },
+    {
+      "nome": "Blog do Elielson",
+      "cnpj": "28287999000110",
+      "total": 16500.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 4.86
+    },
+    {
+      "nome": "Facebook Serviços Online do Brasil ltda",
+      "cnpj": "13347016000117",
+      "total": 13000.67,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 3.83
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 30227.19,
+      "porcentagem_do_total": 8.9
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 31832.95,
+      "porcentagem_do_total": 9.37
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 23928.08,
+      "porcentagem_do_total": 7.05
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 25367.01,
+      "porcentagem_do_total": 7.47
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 26853.83,
+      "porcentagem_do_total": 7.91
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 34090.88,
+      "porcentagem_do_total": 10.04
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 26969.09,
+      "porcentagem_do_total": 7.94
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 29258.88,
+      "porcentagem_do_total": 8.62
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 29312.56,
+      "porcentagem_do_total": 8.63
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 31491.36,
+      "porcentagem_do_total": 9.27
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 23210.58,
+      "porcentagem_do_total": 6.84
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 27032.22,
+      "porcentagem_do_total": 7.96
+    }
+  ]
+}

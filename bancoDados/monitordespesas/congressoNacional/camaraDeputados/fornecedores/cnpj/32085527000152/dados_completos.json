@@ -1,54 +1,55 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "AUTO POSTO 305 SUL LTDA.",
+      "nome": "AUTO POSTO 305 SUL LTDA",
       "cnpj": "32085527000152",
-      "total_recebido": 50.0,
+      "total_recebido": 150.0,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:00.074149"
+    "generatedAt": "2025-11-11T05:22:35.118658"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 50.0
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 150.0
   },
   "anos": {
-    "2025": {
-      "total": 50.0,
+    "2023": {
+      "total": 150.0,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "204560": {
+    "160545": {
       "deputado": {
-        "id": 204560,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204560",
-        "nome": "Adolfo Viana",
-        "siglaPartido": "PSDB",
+        "id": 160545,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160545",
+        "nome": "Alexandre Leite",
+        "nomeEleitoral": "Alexandre Leite",
+        "siglaPartido": "UNIÃO",
         "uriPartido": "",
-        "siglaUf": "BA",
+        "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
-        "email": "dep.adolfoviana@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160545.jpg",
+        "email": null
       },
-      "total": 50.0,
+      "total": 150.0,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2025,
-          "mes": 8,
+          "ano": 2023,
+          "mes": 3,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7961227,
+          "codDocumento": 7544254,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-08-05T00:00:00",
-          "numDocumento": "9754",
-          "valorDocumento": 50.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7961227",
-          "nomeFornecedor": "AUTO POSTO 305 SUL LTDA.",
+          "dataDocumento": "2023-03-05T00:00:00",
+          "numDocumento": "109913",
+          "valorDocumento": 150.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2373/2023/7544254.pdf",
+          "nomeFornecedor": "AUTO POSTO 305 SUL LTDA",
           "cnpjCpfFornecedor": "32085527000152",
-          "valorLiquido": 50.0,
+          "valorLiquido": 150.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

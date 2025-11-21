@@ -1,0 +1,102 @@
+{
+  "fornecedor": {
+    "nome": "auto posto bombonato ltda",
+    "cnpj": "96640362000116",
+    "total_recebido": 74340.12000000007,
+    "numero_transacoes": 360,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 26453.32,
+  "quantidade_transacoes": 136,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 26453.32,
+      "quantidade_transacoes": 136,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 26453.32,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 1725.17,
+      "porcentagem_do_total": 6.52
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 2651.29,
+      "porcentagem_do_total": 10.02
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 1491.1,
+      "porcentagem_do_total": 5.64
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 2225.66,
+      "porcentagem_do_total": 8.41
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 1590.61,
+      "porcentagem_do_total": 6.01
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 2393.84,
+      "porcentagem_do_total": 9.05
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 2295.02,
+      "porcentagem_do_total": 8.68
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 3094.84,
+      "porcentagem_do_total": 11.7
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 3177.98,
+      "porcentagem_do_total": 12.01
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 2846.68,
+      "porcentagem_do_total": 10.76
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 2546.94,
+      "porcentagem_do_total": 9.63
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 414.19,
+      "porcentagem_do_total": 1.57
+    }
+  ]
+}

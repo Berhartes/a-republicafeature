@@ -1,13 +1,13 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "RESTAURANTE BENNINGOBBI",
+      "nome": "RESTAURANTE BENNINGOBBI EIRELE ME",
       "cnpj": "02997171000324",
       "total_recebido": 102.0,
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:45.385251"
+    "generatedAt": "2025-11-11T05:22:26.663825"
   },
   "categorias": {
     "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 102.0
@@ -25,6 +25,7 @@
         "id": 160559,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
         "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
         "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -37,18 +38,18 @@
       "despesas": [
         {
           "ano": 2023,
-          "mes": 12,
+          "mes": 4,
           "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7661838,
+          "codDocumento": 7529996,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-12-11T00:00:00",
-          "numDocumento": "7675",
-          "valorDocumento": 38.5,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7661838",
-          "nomeFornecedor": "RESTAURANTE BENNINGOBBI",
+          "dataDocumento": "2023-04-17T00:00:00",
+          "numDocumento": "10777",
+          "valorDocumento": 32.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7529996",
+          "nomeFornecedor": "RESTAURANTE BENNINGOBBI EIRELE ME",
           "cnpjCpfFornecedor": "02997171000324",
-          "valorLiquido": 38.5,
+          "valorLiquido": 32.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -75,18 +76,18 @@
         },
         {
           "ano": 2023,
-          "mes": 4,
+          "mes": 12,
           "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7529996,
+          "codDocumento": 7661838,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-04-17T00:00:00",
-          "numDocumento": "10777",
-          "valorDocumento": 32.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7529996",
-          "nomeFornecedor": "RESTAURANTE BENNINGOBBI EIRELE ME",
+          "dataDocumento": "2023-12-11T00:00:00",
+          "numDocumento": "7675",
+          "valorDocumento": 38.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7661838",
+          "nomeFornecedor": "RESTAURANTE BENNINGOBBI",
           "cnpjCpfFornecedor": "02997171000324",
-          "valorLiquido": 32.0,
+          "valorLiquido": 38.5,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

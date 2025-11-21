@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO DE COMBUSTIVEL 406 NORTE LTDA",
+      "cnpj": "33971293000103",
+      "total_recebido": 366.3,
+      "numero_transacoes": 2,
+      "numero_deputados": 2
+    },
+    "generatedAt": "2025-11-11T21:37:56.554481"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 366.3
+  },
+  "anos": {
+    "2024": {
+      "total": 366.3,
+      "transacoes": 2,
+      "deputados": 2
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 132.75,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7712795,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-04-01T00:00:00",
+          "numDocumento": "12831",
+          "valorDocumento": 132.75,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7712795",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEL 406 NORTE LTDA",
+          "cnpjCpfFornecedor": "33971293000103",
+          "valorLiquido": 132.75,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2027046,
+          "parcela": 0
+        }
+      ]
+    },
+    "204379": {
+      "deputado": {
+        "id": 204379,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204379",
+        "nome": "Acácio Favacho",
+        "siglaPartido": "MDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204379.jpg",
+        "email": "dep.acaciofavacho@camara.leg.br"
+      },
+      "total": 233.55,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7720712,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-04-04T06:30:27",
+          "numDocumento": "13380",
+          "valorDocumento": 233.55,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7720712",
+          "nomeFornecedor": "POSTO DE COMBUSTIVEL 406 NORTE LTDA",
+          "cnpjCpfFornecedor": "33971293000103",
+          "valorLiquido": 233.55,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2031959,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

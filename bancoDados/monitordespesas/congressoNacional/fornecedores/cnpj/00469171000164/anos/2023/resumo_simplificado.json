@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "HOTEL PHENICIA LTDA",
+    "cnpj": "00469171000164",
+    "total_recebido": 957.2,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 957.2,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 957.2,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 957.2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 594.0,
+      "porcentagem_do_total": 62.06
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 363.2,
+      "porcentagem_do_total": 37.94
+    }
+  ]
+}

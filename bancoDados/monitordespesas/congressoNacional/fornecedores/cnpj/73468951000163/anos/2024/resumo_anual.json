@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO SAO CHARBEL LTDA",
+      "cnpj": "73468951000163",
+      "total_recebido": 1942.33,
+      "numero_transacoes": 9,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 243.18,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-07-27T00:09:31",
+    "periodo_fim": "2024-07-27T00:09:31",
+    "generatedAt": "2025-11-11T21:37:53.191481"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 243.18,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 243.18,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 243.18,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7780052,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-07-27T00:09:31",
+      "numDocumento": "6774",
+      "valorDocumento": 243.18,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7780052",
+      "nomeFornecedor": "AUTO POSTO SAO CHARBEL LTDA",
+      "cnpjCpfFornecedor": "73468951000163",
+      "valorLiquido": 243.18,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2062423,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

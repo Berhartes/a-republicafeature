@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Prefeitura de Belo Horizonte MG",
+      "cnpj": "18715383000735",
+      "total_recebido": 1700.8899999999996,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:09.963724"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 1700.8899999999996
+  },
+  "anos": {
+    "2024": {
+      "total": 1700.8899999999996,
+      "transacoes": 5,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74646": {
+      "deputado": {
+        "id": 74646,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74646",
+        "nome": "Aécio Neves",
+        "nomeEleitoral": "Aécio Neves",
+        "siglaPartido": "PSDB",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74646.jpg",
+        "email": "dep.aecioneves@camara.leg.br"
+      },
+      "total": 1700.8899999999996,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7846338,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-16T00:00:00",
+          "numDocumento": "0124266108850",
+          "valorDocumento": 1480.41,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/233/2024/7846338.pdf",
+          "nomeFornecedor": "Prefeitura de Belo Horizonte MG",
+          "cnpjCpfFornecedor": "18715383000735",
+          "valorLiquido": 1480.41,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7846344,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-16T00:00:00",
+          "numDocumento": "0124266136803",
+          "valorDocumento": 55.12,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/233/2024/7846344.pdf",
+          "nomeFornecedor": "Prefeitura de Belo Horizonte MG",
+          "cnpjCpfFornecedor": "18715383000735",
+          "valorLiquido": 55.12,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7846346,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-16T00:00:00",
+          "numDocumento": "0124266147244",
+          "valorDocumento": 55.12,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/233/2024/7846346.pdf",
+          "nomeFornecedor": "Prefeitura de Belo Horizonte MG",
+          "cnpjCpfFornecedor": "18715383000735",
+          "valorLiquido": 55.12,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7846351,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-16T00:00:00",
+          "numDocumento": "0124266158017",
+          "valorDocumento": 55.12,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/233/2024/7846351.pdf",
+          "nomeFornecedor": "Prefeitura de Belo Horizonte MG",
+          "cnpjCpfFornecedor": "18715383000735",
+          "valorLiquido": 55.12,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7846352,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-12-16T00:00:00",
+          "numDocumento": "0124266166389",
+          "valorDocumento": 55.12,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/233/2024/7846352.pdf",
+          "nomeFornecedor": "Prefeitura de Belo Horizonte MG",
+          "cnpjCpfFornecedor": "18715383000735",
+          "valorLiquido": 55.12,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

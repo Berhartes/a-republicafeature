@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEL PHENICIA LTDA",
+      "cnpj": "00469171000164",
+      "total_recebido": 957.2,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 957.2,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-03-09T00:00:00",
+    "periodo_fim": "2023-04-12T00:00:00",
+    "generatedAt": "2025-11-11T21:37:55.318482"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 957.2,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 957.2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 594.0,
+      "porcentagem_do_total": 62.06
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 363.2,
+      "porcentagem_do_total": 37.94
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 3,
+      "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "codDocumento": 7521154,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-03-09T00:00:00",
+      "numDocumento": "00000001419",
+      "valorDocumento": 594.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7521154.pdf",
+      "nomeFornecedor": "HOTEL PHENICIA LTDA",
+      "cnpjCpfFornecedor": "00469171000164",
+      "valorLiquido": 594.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1923411,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 4,
+      "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "codDocumento": 7526224,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-04-12T00:00:00",
+      "numDocumento": "00000003001",
+      "valorDocumento": 363.2,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7526224.pdf",
+      "nomeFornecedor": "HOTEL PHENICIA LTDA",
+      "cnpjCpfFornecedor": "00469171000164",
+      "valorLiquido": 363.2,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1924112,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

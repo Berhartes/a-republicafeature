@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Posto Bela Vista",
+      "cnpj": "22762821000106",
+      "total_recebido": 518.54,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:15.855890"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 518.54
+  },
+  "anos": {
+    "2024": {
+      "total": 518.54,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204549": {
+      "deputado": {
+        "id": 204549,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204549",
+        "nome": "AJ Albuquerque",
+        "nomeEleitoral": "AJ Albuquerque",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204549.jpg",
+        "email": "dep.ajalbuquerque@camara.leg.br"
+      },
+      "total": 518.54,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7764165,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-21T00:00:00",
+          "numDocumento": "440978",
+          "valorDocumento": 518.54,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2024/7764165.pdf",
+          "nomeFornecedor": "Posto Bela Vista",
+          "cnpjCpfFornecedor": "22762821000106",
+          "valorLiquido": 518.54,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

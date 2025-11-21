@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "SUPERMERCADO JACOMAR LTDA",
       "cnpj": "78413325001831",
-      "total_recebido": 150.0,
+      "total_recebido": 296.91,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:58:03.305701"
+    "generatedAt": "2025-11-11T05:22:41.225843"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 150.0
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 296.91
   },
   "anos": {
     "2023": {
-      "total": 150.0,
+      "total": 296.91,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220683": {
+    "178927": {
       "deputado": {
-        "id": 220683,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220683",
-        "nome": "Beto Richa",
-        "siglaPartido": "PSDB",
+        "id": 178927,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
+        "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
+        "siglaPartido": "PV",
         "uriPartido": "",
         "siglaUf": "PR",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220683.jpg",
-        "email": "dep.betoricha@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+        "email": "dep.alielmachado@camara.leg.br"
       },
-      "total": 150.0,
+      "total": 296.91,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 4,
+          "mes": 3,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7539460,
+          "codDocumento": 7514020,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-04-28T00:00:00",
-          "numDocumento": "474289",
-          "valorDocumento": 150.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7539460",
+          "dataDocumento": "2023-03-20T00:00:00",
+          "numDocumento": "456449",
+          "valorDocumento": 296.91,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7514020",
           "nomeFornecedor": "SUPERMERCADO JACOMAR LTDA",
           "cnpjCpfFornecedor": "78413325001831",
-          "valorLiquido": 150.0,
+          "valorLiquido": 296.91,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

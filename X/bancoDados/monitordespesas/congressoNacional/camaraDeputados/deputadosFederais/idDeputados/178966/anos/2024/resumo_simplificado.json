@@ -1,0 +1,158 @@
+{
+  "deputado": {
+    "id": 178966,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178966",
+    "nome": "Geovania de Sá",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "SC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178966.jpg",
+    "email": "dep.geovaniadesa@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 236356.76,
+  "quantidade_transacoes": 290,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 108756.6,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 46.01
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 58352.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 24.69
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 35353.55,
+      "quantidade_transacoes": 120,
+      "porcentagem_do_total": 14.96
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 12947.86,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 5.48
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 8248.64,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 3.49
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "BRASIL LEASING LOCADORA DE VEICULOS LTDA",
+      "cnpj": "17153227000170",
+      "total": 58352.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 24.69
+    },
+    {
+      "nome": "MEG PRINT GRAFICA E EDITORA",
+      "cnpj": "10783346000167",
+      "total": 37284.6,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 15.77
+    },
+    {
+      "nome": "LEANDRO DOS SANTOS CACHOEIRA",
+      "cnpj": "27099897000109",
+      "total": 32630.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 13.81
+    },
+    {
+      "nome": "AGENCIA NUOVA DE COMUNICAÇÃO LTDA",
+      "cnpj": "33550964000162",
+      "total": 26422.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 11.18
+    },
+    {
+      "nome": "SOCIEDADE ABAST. SANTA BARBARA LTDA",
+      "cnpj": "83650655000132",
+      "total": 21050.93,
+      "quantidade_transacoes": 77,
+      "porcentagem_do_total": 8.91
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 8248.64,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 3.49
+    },
+    {
+      "nome": "STUDIO CLIPAGEM",
+      "cnpj": "08074472000109",
+      "total": 8150.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.45
+    },
+    {
+      "nome": "SÃO LUIZ ADMINISTRADORA DE BENS LTDA",
+      "cnpj": "18486355000106",
+      "total": 7500.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.17
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS 206 LTDA",
+      "cnpj": "40084269000118",
+      "total": 4022.28,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.7
+    },
+    {
+      "nome": "CONDOMINIO NUCLEO EMPRESARIAL UNO",
+      "cnpj": "80168685000119",
+      "total": 2674.14,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.13
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 26044.58,
+      "porcentagem_do_total": 11.02
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 42343.68,
+      "porcentagem_do_total": 17.92
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 45936.12,
+      "porcentagem_do_total": 19.44
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 39231.8,
+      "porcentagem_do_total": 16.6
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 68022.02,
+      "porcentagem_do_total": 28.78
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 14778.56,
+      "porcentagem_do_total": 6.25
+    }
+  ]
+}

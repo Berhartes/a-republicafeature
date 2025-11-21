@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEIS LA SIESTA LTDA",
+      "cnpj": "15269710000199",
+      "total_recebido": 913.5,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:02.920270"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 913.5
+  },
+  "anos": {
+    "2023": {
+      "total": 913.5,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 913.5,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7560432,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-18T00:00:00",
+          "numDocumento": "202300000004801",
+          "valorDocumento": 304.5,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7560432.pdf",
+          "nomeFornecedor": "HOTEIS LA SIESTA LTDA",
+          "cnpjCpfFornecedor": "15269710000199",
+          "valorLiquido": 304.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7560442,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-18T00:00:00",
+          "numDocumento": "202300000004802",
+          "valorDocumento": 304.5,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7560442.pdf",
+          "nomeFornecedor": "HOTEIS LA SIESTA LTDA",
+          "cnpjCpfFornecedor": "15269710000199",
+          "valorLiquido": 304.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7564632,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-18T00:00:00",
+          "numDocumento": "2023000000004801",
+          "valorDocumento": 304.5,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7564632.pdf",
+          "nomeFornecedor": "HOTEIS LA SIESTA LTDA",
+          "cnpjCpfFornecedor": "15269710000199",
+          "valorLiquido": 304.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -3,7 +3,7 @@
 from abc import ABC, abstractmethod
 from datetime import datetime
 from typing import Any, Dict, List, Optional, Set
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, ConfigDict, Field
 
 
 class BaseApiResponse(BaseModel):
@@ -127,13 +127,19 @@ class BaseFornecedor(BaseModel):
 
 class BaseLegisladorResumo(BaseModel):
     """Base summary model for legislators."""
+
+    model_config = ConfigDict(populate_by_name=True)
+
     id: int
     nome: str
+    nome_eleitoral: Optional[str] = Field(default=None, alias="nomeEleitoral")
     partido: str
+    sigla_partido: Optional[str] = Field(default=None, alias="siglaPartido")
     uf: str
-    total_despesas: float
-    numero_despesas: int
-    fornecedores_identificados: int
+    sigla_uf: Optional[str] = Field(default=None, alias="siglaUf")
+    total_despesas: float = Field(alias="totalDespesas")
+    numero_despesas: int = Field(alias="numeroDespesas")
+    fornecedores_identificados: int = Field(alias="fornecedoresIdentificados")
 
 
 class BaseManifest(BaseModel):

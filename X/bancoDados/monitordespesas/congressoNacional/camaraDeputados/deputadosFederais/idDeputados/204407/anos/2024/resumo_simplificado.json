@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 204407,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204407",
+    "nome": "Fernanda Melchionna",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "RS",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204407.jpg",
+    "email": "dep.fernandamelchionna@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 409118.0,
+  "quantidade_transacoes": 406,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 178549.0,
+      "quantidade_transacoes": 35,
+      "porcentagem_do_total": 43.64
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 86851.99,
+      "quantidade_transacoes": 73,
+      "porcentagem_do_total": 21.23
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 68011.14,
+      "quantidade_transacoes": 95,
+      "porcentagem_do_total": 16.62
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 44157.55,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 10.79
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 20802.54,
+      "quantidade_transacoes": 131,
+      "porcentagem_do_total": 5.08
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "EVAG COMUNICAÇÃO E TECNOLOGIA LTDA",
+      "cnpj": "15705697000173",
+      "total": 96000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 23.47
+    },
+    {
+      "nome": "LUIZ HENRIQUE O S MARKETING DIGITAL LTDA",
+      "cnpj": "41039008000149",
+      "total": 50400.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 12.32
+    },
+    {
+      "nome": "Freire Administradora e Serviços Prediais Ltda.",
+      "cnpj": "10420067000139",
+      "total": 45130.57,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 11.03
+    },
+    {
+      "nome": "Localiza Rent a Car S/A",
+      "cnpj": "16670085095946",
+      "total": 44157.55,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 10.79
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 29796.6,
+      "quantidade_transacoes": 37,
+      "porcentagem_do_total": 7.28
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 29073.76,
+      "quantidade_transacoes": 51,
+      "porcentagem_do_total": 7.11
+    },
+    {
+      "nome": "RODRIGO BIONDI 00211013021",
+      "cnpj": "48710028000149",
+      "total": 26859.0,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 6.57
+    },
+    {
+      "nome": "RICARDO NERY MARTINS INDUSTRIA GRAFICA EIRELI",
+      "cnpj": "94970324000104",
+      "total": 16775.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 4.1
+    },
+    {
+      "nome": "RS GRAFICA IMPRESSAO LTDA",
+      "cnpj": "55008753000135",
+      "total": 14574.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 3.56
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 9140.78,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 2.23
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 28056.9,
+      "porcentagem_do_total": 6.86
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 34676.48,
+      "porcentagem_do_total": 8.48
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 46884.76,
+      "porcentagem_do_total": 11.46
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 34488.03,
+      "porcentagem_do_total": 8.43
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 37712.96,
+      "porcentagem_do_total": 9.22
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 35058.21,
+      "porcentagem_do_total": 8.57
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 32531.78,
+      "porcentagem_do_total": 7.95
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 39695.69,
+      "porcentagem_do_total": 9.7
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 26626.49,
+      "porcentagem_do_total": 6.51
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 29420.25,
+      "porcentagem_do_total": 7.19
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 26727.07,
+      "porcentagem_do_total": 6.53
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 37239.38,
+      "porcentagem_do_total": 9.1
+    }
+  ]
+}

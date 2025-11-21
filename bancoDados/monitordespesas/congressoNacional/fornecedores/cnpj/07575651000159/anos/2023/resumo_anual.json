@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Gol Linhas Aereas S.A.",
+      "cnpj": "07575651000159",
+      "total_recebido": 13112.27,
+      "numero_transacoes": 7,
+      "numero_deputados": 3
+    },
+    "ano": 2023,
+    "total_recebido": 10098.76,
+    "quantidade_transacoes": 5,
+    "quantidade_deputados": 2,
+    "quantidade_categorias": 2,
+    "periodo_inicio": "2023-03-01T00:00:00",
+    "periodo_fim": "2023-10-04T00:00:00",
+    "generatedAt": "2025-11-11T21:37:58.316008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 7258.95,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 71.88
+    },
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 2839.81,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 28.12
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - RPA",
+      "total": 7258.95,
+      "porcentagem_do_total": 71.88
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 2839.81,
+      "porcentagem_do_total": 28.12
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 2042.27,
+      "porcentagem_do_total": 20.22
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 4900.08,
+      "porcentagem_do_total": 48.52
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 3156.41,
+      "porcentagem_do_total": 31.26
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - REEMBOLSO",
+      "codDocumento": 7543003,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-05-01T00:00:00",
+      "numDocumento": "1272194406365",
+      "valorDocumento": 1508.88,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7543003.pdf",
+      "nomeFornecedor": "Gol Linhas Aereas S.A.",
+      "cnpjCpfFornecedor": "07575651000159",
+      "valorLiquido": 1508.88,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1933616,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - REEMBOLSO",
+      "codDocumento": 7572261,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-05-06T00:00:00",
+      "numDocumento": "1272194685956",
+      "valorDocumento": 1330.93,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2023/7572261.pdf",
+      "nomeFornecedor": "Gol Linhas Aereas S.A.",
+      "cnpjCpfFornecedor": "07575651000159",
+      "valorLiquido": 1330.93,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1949504,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2023,
+      "mes": 10,
+      "tipoDespesa": "PASSAGEM AÉREA - RPA",
+      "codDocumento": 1776572,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-10-04T00:00:00",
+      "numDocumento": "Bilhete: 1272104078768",
+      "valorDocumento": 3156.41,
+      "urlDocumento": null,
+      "nomeFornecedor": "Cia Aérea - GOL",
+      "cnpjCpfFornecedor": "07575651000159",
+      "valorLiquido": 3156.41,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2023,
+      "mes": 3,
+      "tipoDespesa": "PASSAGEM AÉREA - RPA",
+      "codDocumento": 1775233,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-03-01T00:00:00",
+      "numDocumento": "Bilhete: 1272190917910",
+      "valorDocumento": 2042.27,
+      "urlDocumento": null,
+      "nomeFornecedor": "Cia Aérea - GOL",
+      "cnpjCpfFornecedor": "07575651000159",
+      "valorLiquido": 2042.27,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "PASSAGEM AÉREA - RPA",
+      "codDocumento": 1775707,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-05-03T00:00:00",
+      "numDocumento": "Bilhete: 1272194480531",
+      "valorDocumento": 2060.27,
+      "urlDocumento": null,
+      "nomeFornecedor": "Cia Aérea - GOL",
+      "cnpjCpfFornecedor": "07575651000159",
+      "valorLiquido": 2060.27,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    }
+  ]
+}

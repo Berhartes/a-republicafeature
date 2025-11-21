@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "POSTO DE COMBUSTIVEIS SANCA LTDA",
       "cnpj": "00931548000155",
-      "total_recebido": 400.02,
+      "total_recebido": 294.24,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:56:39.520834"
+    "generatedAt": "2025-11-11T05:22:39.987689"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 400.02
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 294.24
   },
   "anos": {
-    "2023": {
-      "total": 400.02,
+    "2024": {
+      "total": 294.24,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "160553": {
+    "74057": {
       "deputado": {
-        "id": 160553,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
-        "nome": "Antonio Brito",
-        "siglaPartido": "PSD",
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
         "uriPartido": "",
         "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
-        "email": "dep.antoniobrito@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
       },
-      "total": 400.02,
+      "total": 294.24,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 10,
+          "ano": 2024,
+          "mes": 6,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7634051,
+          "codDocumento": 7760824,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-10-12T00:00:00",
-          "numDocumento": "77849",
-          "valorDocumento": 400.02,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7634051",
+          "dataDocumento": "2024-06-07T14:34:10",
+          "numDocumento": "110982",
+          "valorDocumento": 294.24,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7760824",
           "nomeFornecedor": "POSTO DE COMBUSTIVEIS SANCA LTDA",
           "cnpjCpfFornecedor": "00931548000155",
-          "valorLiquido": 400.02,
+          "valorLiquido": 294.24,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

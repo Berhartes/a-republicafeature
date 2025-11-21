@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MATRIX POSTOS DE COMBUSTIVEIS LTDA",
+      "cnpj": "08864565000129",
+      "total_recebido": 1217.8799999999999,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 520.78,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-04-30T00:00:00",
+    "periodo_fim": "2024-10-24T00:00:00",
+    "generatedAt": "2025-11-11T21:37:54.046483"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 520.78,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 520.78,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 247.52,
+      "porcentagem_do_total": 47.53
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 273.26,
+      "porcentagem_do_total": 52.47
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7823921,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-10-24T00:00:00",
+      "numDocumento": "175802",
+      "valorDocumento": 273.26,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7823921.pdf",
+      "nomeFornecedor": "MATRIX POSTOS DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "08864565000129",
+      "valorLiquido": 273.26,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2085398,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7727289,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-04-30T00:00:00",
+      "numDocumento": "200211",
+      "valorDocumento": 247.52,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7727289.pdf",
+      "nomeFornecedor": "MATRIX POSTOS DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "08864565000129",
+      "valorLiquido": 247.52,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2034652,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

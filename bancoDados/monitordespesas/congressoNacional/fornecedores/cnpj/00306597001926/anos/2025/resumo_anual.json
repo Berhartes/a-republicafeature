@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "19 - 303 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597001926",
+      "total_recebido": 807.51,
+      "numero_transacoes": 3,
+      "numero_deputados": 2
+    },
+    "ano": 2025,
+    "total_recebido": 329.27,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-10-10T00:00:00",
+    "periodo_fim": "2025-10-10T00:00:00",
+    "generatedAt": "2025-11-11T21:37:58.413023"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 329.27,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 329.27,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 329.27,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 8010474,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-10-10T00:00:00",
+      "numDocumento": "7377",
+      "valorDocumento": 329.27,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8010474",
+      "nomeFornecedor": "19 - 303 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpjCpfFornecedor": "00306597001926",
+      "valorLiquido": 329.27,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2187158,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

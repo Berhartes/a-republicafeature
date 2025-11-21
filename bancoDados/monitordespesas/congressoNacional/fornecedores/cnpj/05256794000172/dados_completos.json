@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "05256794000172",
+      "total_recebido": 1701.63,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:57.874010"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 1701.63
+  },
+  "anos": {
+    "2023": {
+      "total": 260.01,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 323.96,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 1117.66,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204379": {
+      "deputado": {
+        "id": 204379,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204379",
+        "nome": "Acácio Favacho",
+        "siglaPartido": "MDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204379.jpg",
+        "email": "dep.acaciofavacho@camara.leg.br"
+      },
+      "total": 1701.63,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7603150,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-08-07T00:00:00",
+          "numDocumento": "11726",
+          "valorDocumento": 260.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7603150",
+          "nomeFornecedor": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "05256794000172",
+          "valorLiquido": 260.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1965452,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7749716,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-18T00:00:00",
+          "numDocumento": "717642",
+          "valorDocumento": 323.96,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7749716.pdf",
+          "nomeFornecedor": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "05256794000172",
+          "valorLiquido": 323.96,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2047071,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7875801,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-02-21T15:57:05",
+          "numDocumento": "829725",
+          "valorDocumento": 380.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7875801",
+          "nomeFornecedor": "AUTO POSTO LS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "05256794000172",
+          "valorLiquido": 380.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2114136,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7992983,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-08-27T00:00:00",
+          "numDocumento": "30921",
+          "valorDocumento": 376.79,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7992983",
+          "nomeFornecedor": "AUTO POSTO LS COMERCIO DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "05256794000172",
+          "valorLiquido": 376.79,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2177785,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 8010518,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2025-10-30T00:00:00",
+          "numDocumento": "54082",
+          "valorDocumento": 360.84,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8010518",
+          "nomeFornecedor": "AUTO POSTO LS COMERCIO DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "05256794000172",
+          "valorLiquido": 360.84,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2187159,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CHEROKEE GRAN POSTO LT",
+      "cnpj": "00641406000153",
+      "total_recebido": 576.34,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-07T05:43:09.341524"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 576.34
+  },
+  "anos": {
+    "2025": {
+      "total": 576.34,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 576.34,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7875116,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-02-23T00:00:00",
+          "numDocumento": "795978",
+          "valorDocumento": 284.67,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7875116.pdf",
+          "nomeFornecedor": "CHEROKEE GRAN POSTO LT",
+          "cnpjCpfFornecedor": "00641406000153",
+          "valorLiquido": 284.67,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7892650,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-03-21T00:00:00",
+          "numDocumento": "812283",
+          "valorDocumento": 291.67,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7892650.pdf",
+          "nomeFornecedor": "CHEROKEE GRAN POSTO LT",
+          "cnpjCpfFornecedor": "00641406000153",
+          "valorLiquido": 291.67,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

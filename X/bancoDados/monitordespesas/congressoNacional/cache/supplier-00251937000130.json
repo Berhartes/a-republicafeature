@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:11:59Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00251937000130"
+  },
+  "data": {
+    "cnpj": "00251937000130",
+    "nome": "POUSADA PIER DO PONTAL LTDA - EPP",
+    "nomeFornecedor": "POUSADA PIER DO PONTAL LTDA - EPP",
+    "totalTransacionado": 1232.1,
+    "totalRecebido": 1232.1,
+    "totalRecebidoTodos": 1232.1,
+    "transacoes": 4,
+    "numeroTransacoes": 4,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [
+      {
+        "id": "160600",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 1232.1,
+        "transacoes": 4
+      }
+    ],
+    "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+    "categoriaOriginal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+    "categorias": [
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+    ],
+    "categoriasOriginais": [
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+    ],
+    "categoriasInfo": {
+      "principal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "normalizadas": [
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+      ],
+      "principalOriginal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "originais": [
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+      ]
+    },
+    "distribuicaoTipos": {
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+        "valor": 1232.1,
+        "quantidade": 4
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+        "valor": 1232.1,
+        "quantidade": 4
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2025": {
+        "valor": 1232.1,
+        "transacoes": 4,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 308.7,
+        "ano": 2025,
+        "mes": 7,
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "documento": "2500000044345",
+        "dataDocumento": "2025-07-06T00:00:00",
+        "deputadoId": "160600",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 307.8,
+        "ano": 2025,
+        "mes": 7,
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "documento": "202544346",
+        "dataDocumento": "2025-07-06T00:00:00",
+        "deputadoId": "160600",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 307.8,
+        "ano": 2025,
+        "mes": 7,
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "documento": "202544347",
+        "dataDocumento": "2025-07-06T00:00:00",
+        "deputadoId": "160600",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 307.8,
+        "ano": 2025,
+        "mes": 7,
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "documento": "202544348",
+        "dataDocumento": "2025-07-06T00:00:00",
+        "deputadoId": "160600",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 308.7,
+        "valorLiquido": 308.7,
+        "valorDocumento": 308.7,
+        "ano": 2025,
+        "mes": 7,
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "dataDocumento": "2025-07-06T00:00:00",
+        "data": "2025-07-06T00:00:00",
+        "numDocumento": "2500000044345",
+        "codDocumento": 7946915,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2025/7946915.pdf",
+        "deputadoId": "160600",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "POUSADA PIER DO PONTAL LTDA - EPP",
+        "cnpj": "00251937000130",
+        "urlDocumentoPdf": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2025/7946915.pdf"
+      },
+      {
+        "valor": 307.8,
+        "valorLiquido": 307.8,
+        "valorDocumento": 307.8,
+        "ano": 2025,
+        "mes": 7,
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "dataDocumento": "2025-07-06T00:00:00",
+        "data": "2025-07-06T00:00:00",
+        "numDocumento": "202544346",
+        "codDocumento": 7946909,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2025/7946909.pdf",
+        "deputadoId": "160600",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "POUSADA PIER DO PONTAL LTDA - EPP",
+        "cnpj": "00251937000130",
+        "urlDocumentoPdf": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2025/7946909.pdf"
+      },
+      {
+        "valor": 307.8,
+        "valorLiquido": 307.8,
+        "valorDocumento": 307.8,
+        "ano": 2025,
+        "mes": 7,
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "dataDocumento": "2025-07-06T00:00:00",
+        "data": "2025-07-06T00:00:00",
+        "numDocumento": "202544347",
+        "codDocumento": 7946912,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2025/7946912.pdf",
+        "deputadoId": "160600",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "POUSADA PIER DO PONTAL LTDA - EPP",
+        "cnpj": "00251937000130",
+        "urlDocumentoPdf": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2025/7946912.pdf"
+      },
+      {
+        "valor": 307.8,
+        "valorLiquido": 307.8,
+        "valorDocumento": 307.8,
+        "ano": 2025,
+        "mes": 7,
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "dataDocumento": "2025-07-06T00:00:00",
+        "data": "2025-07-06T00:00:00",
+        "numDocumento": "202544348",
+        "codDocumento": 7946913,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2025/7946913.pdf",
+        "deputadoId": "160600",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "POUSADA PIER DO PONTAL LTDA - EPP",
+        "cnpj": "00251937000130",
+        "urlDocumentoPdf": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2225/2025/7946913.pdf"
+      }
+    ],
+    "totalTransacoesDetalhadas": 4,
+    "aliases": [
+      "00251937000130"
+    ],
+    "temDetalhes": true
+  }
+}

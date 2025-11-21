@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MARIA MILZA COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "48198322000113",
+      "total_recebido": 118.42,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:26.236242"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 118.42
+  },
+  "anos": {
+    "2025": {
+      "total": 118.42,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74057": {
+      "deputado": {
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
+      },
+      "total": 118.42,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7973682,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-21T11:24:27",
+          "numDocumento": "59543",
+          "valorDocumento": 118.42,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7973682",
+          "nomeFornecedor": "MARIA MILZA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "48198322000113",
+          "valorLiquido": 118.42,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

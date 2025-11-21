@@ -1,0 +1,79 @@
+{
+  "deputado": {
+    "id": 160508,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160508",
+    "nome": "Afonso Florence",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160508.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 7662.02,
+  "quantidade_transacoes": 7,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 4431.95,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 57.84
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 2676.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 34.93
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 554.07,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 7.23
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "José Antônio dos Santos Leandro",
+      "cnpj": "92510833553",
+      "total": 4431.95,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 57.84
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 2676.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 34.93
+    },
+    {
+      "nome": "CELULAR FUNCIONAL",
+      "cnpj": "00000000000001",
+      "total": 554.07,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 7.23
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 4781.24,
+      "porcentagem_do_total": 62.4
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 204.78,
+      "porcentagem_do_total": 2.67
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 2676.0,
+      "porcentagem_do_total": 34.93
+    }
+  ]
+}

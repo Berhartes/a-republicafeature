@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO BARAO DE ARARAS LT",
+    "cnpj": "54052352000110",
+    "total_recebido": 873.6600000000001,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 748.04,
+  "quantidade_transacoes": 3,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 748.04,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 748.04,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 253.68,
+      "porcentagem_do_total": 33.91
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 194.06,
+      "porcentagem_do_total": 25.94
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 300.3,
+      "porcentagem_do_total": 40.14
+    }
+  ]
+}

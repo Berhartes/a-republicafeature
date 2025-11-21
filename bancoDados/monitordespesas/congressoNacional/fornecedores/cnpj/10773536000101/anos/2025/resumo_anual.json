@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "DRA DERIVADO DE PETROLEO LTDA",
+      "cnpj": "10773536000101",
+      "total_recebido": 1503.9699999999998,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 1153.97,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-02-08T18:36:36",
+    "periodo_fim": "2025-10-15T07:59:37",
+    "generatedAt": "2025-11-11T21:38:01.608014"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 1153.97,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1153.97,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 275.05,
+      "porcentagem_do_total": 23.84
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 200.0,
+      "porcentagem_do_total": 17.33
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 311.02,
+      "porcentagem_do_total": 26.95
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 367.9,
+      "porcentagem_do_total": 31.88
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7867537,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-02-08T18:36:36",
+      "numDocumento": "166771",
+      "valorDocumento": 275.05,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7867537",
+      "nomeFornecedor": "DRA DERIVADO DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "10773536000101",
+      "valorLiquido": 275.05,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2109656,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7887607,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-03-20T00:00:00",
+      "numDocumento": "177146",
+      "valorDocumento": 200.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7887607",
+      "nomeFornecedor": "DRA DERIVADO DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "10773536000101",
+      "valorLiquido": 200.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2121084,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7963163,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-08-11T18:39:21",
+      "numDocumento": "214745",
+      "valorDocumento": 311.02,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7963163",
+      "nomeFornecedor": "DRA DERIVADO DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "10773536000101",
+      "valorLiquido": 311.02,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2161870,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7998181,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-10-15T07:59:37",
+      "numDocumento": "838",
+      "valorDocumento": 367.9,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7998181",
+      "nomeFornecedor": "DRA DERIVADO DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "10773536000101",
+      "valorLiquido": 367.9,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2180561,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

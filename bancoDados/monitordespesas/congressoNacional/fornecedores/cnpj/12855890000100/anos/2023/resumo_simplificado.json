@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "NILVO PAULO PEZZINI - EPP",
+    "cnpj": "12855890000100",
+    "total_recebido": 436.4,
+    "numero_transacoes": 3,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 436.4,
+  "quantidade_transacoes": 3,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 436.4,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 436.4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 160.0,
+      "porcentagem_do_total": 36.66
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 276.4,
+      "porcentagem_do_total": 63.34
+    }
+  ]
+}

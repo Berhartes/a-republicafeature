@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "PAX COMERCIO DE COMBUSTIVEIS EIRELI",
+    "cnpj": "18757700000190",
+    "total_recebido": 251.39,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 251.39,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 251.39,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 251.39,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 251.39,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "deputado": {
+    "id": 204411,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204411",
+    "nome": "Filipe Barros",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204411.jpg",
+    "email": "dep.filipebarros@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 123428.56,
+  "quantidade_transacoes": 91,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 123428.56,
+      "quantidade_transacoes": 91,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CANAA IMÓVEIS LTDA",
+      "cnpj": "23660569000189",
+      "total": 90000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 72.92
+    },
+    {
+      "nome": "Copel Distribuição S.A.",
+      "cnpj": "04368898000106",
+      "total": 10033.22,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 8.13
+    },
+    {
+      "nome": "BROAD BRASIL LTDA",
+      "cnpj": "48949641000113",
+      "total": 7650.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 6.2
+    },
+    {
+      "nome": "TELEFÔNICA BRASIL S/A - VIVO",
+      "cnpj": "02558157000162",
+      "total": 2827.92,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 2.29
+    },
+    {
+      "nome": "SANEPAR",
+      "cnpj": "76484013000145",
+      "total": 1560.78,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.26
+    },
+    {
+      "nome": "TELEFÔNICA BRASIL S/A",
+      "cnpj": "02558157000162",
+      "total": 1425.83,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.16
+    },
+    {
+      "nome": "FJP SUPRIMENTOS PARA INFORMATICA LTDA - JK",
+      "cnpj": "84858307000207",
+      "total": 1248.25,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 1.01
+    },
+    {
+      "nome": "Adobe Systems Software Ireland Ltd",
+      "cnpj": "00000000000010",
+      "total": 938.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 0.76
+    },
+    {
+      "nome": "BROAD BRASIL LTDA.",
+      "cnpj": "48949641000113",
+      "total": 850.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.69
+    },
+    {
+      "nome": "Dropbox International Unlimited Company",
+      "cnpj": "00000000000010",
+      "total": 779.58,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 0.63
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 13405.81,
+      "porcentagem_do_total": 10.86
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 14025.32,
+      "porcentagem_do_total": 11.36
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 13273.96,
+      "porcentagem_do_total": 10.75
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 13566.23,
+      "porcentagem_do_total": 10.99
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 13220.42,
+      "porcentagem_do_total": 10.71
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 14027.15,
+      "porcentagem_do_total": 11.36
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 13264.14,
+      "porcentagem_do_total": 10.75
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 13226.49,
+      "porcentagem_do_total": 10.72
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 13833.24,
+      "porcentagem_do_total": 11.21
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 1585.8,
+      "porcentagem_do_total": 1.28
+    }
+  ]
+}

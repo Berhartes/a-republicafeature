@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "POSTO DA SERRA DE SANTA RITA LT",
+    "cnpj": "52694676000126",
+    "total_recebido": 442.23,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 220.6,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 220.6,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 220.6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 220.6,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

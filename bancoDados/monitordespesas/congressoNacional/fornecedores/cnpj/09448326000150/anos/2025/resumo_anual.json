@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO MEDITERRANEO DE ARARAQUARA LTDA",
+      "cnpj": "09448326000150",
+      "total_recebido": 102.92,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 102.92,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-04-06T00:00:00",
+    "periodo_fim": "2025-04-06T00:00:00",
+    "generatedAt": "2025-11-11T21:38:05.893007"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 102.92,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 102.92,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 102.92,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7899200,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-04-06T00:00:00",
+      "numDocumento": "090790",
+      "valorDocumento": 102.92,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7899200.pdf",
+      "nomeFornecedor": "AUTO POSTO MEDITERRANEO DE ARARAQUARA LTDA",
+      "cnpjCpfFornecedor": "09448326000150",
+      "valorLiquido": 102.92,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2127256,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

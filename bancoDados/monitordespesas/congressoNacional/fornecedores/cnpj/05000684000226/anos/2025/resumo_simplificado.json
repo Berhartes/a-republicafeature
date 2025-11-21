@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO PETER PAN 01 LTDA",
+    "cnpj": "05000684000226",
+    "total_recebido": 2088.0699999999997,
+    "numero_transacoes": 6,
+    "numero_deputados": 3
+  },
+  "ano": 2025,
+  "total_recebido": 1349.32,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 1349.32,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1349.32,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 613.4,
+      "porcentagem_do_total": 45.46
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 385.92,
+      "porcentagem_do_total": 28.6
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 350.0,
+      "porcentagem_do_total": 25.94
+    }
+  ]
+}

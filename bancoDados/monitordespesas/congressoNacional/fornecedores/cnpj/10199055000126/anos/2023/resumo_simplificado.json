@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "HOTEL COLOMBO",
+    "cnpj": "10199055000126",
+    "total_recebido": 1245.0,
+    "numero_transacoes": 5,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 1010.0,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 1010.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 1010.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 500.0,
+      "porcentagem_do_total": 49.5
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 510.0,
+      "porcentagem_do_total": 50.5
+    }
+  ]
+}

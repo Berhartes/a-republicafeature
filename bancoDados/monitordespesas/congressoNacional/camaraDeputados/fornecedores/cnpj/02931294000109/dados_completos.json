@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.385405"
+    "generatedAt": "2025-11-11T05:22:17.172663"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 255.71999999999997
@@ -25,6 +25,7 @@
         "id": 136811,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
         "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -39,25 +40,6 @@
           "ano": 2024,
           "mes": 9,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7800935,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-09-08T00:00:00",
-          "numDocumento": "1075135",
-          "valorDocumento": 106.8,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7800935",
-          "nomeFornecedor": "POSTO REPUBLICA DIST DER  DE PET  LTDA",
-          "cnpjCpfFornecedor": "02931294000109",
-          "valorLiquido": 106.8,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7800933,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "POSTO REPUBLICA DIST DER  DE PET  LTDA",
           "cnpjCpfFornecedor": "02931294000109",
           "valorLiquido": 148.92,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7800935,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-08T00:00:00",
+          "numDocumento": "1075135",
+          "valorDocumento": 106.8,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7800935",
+          "nomeFornecedor": "POSTO REPUBLICA DIST DER  DE PET  LTDA",
+          "cnpjCpfFornecedor": "02931294000109",
+          "valorLiquido": 106.8,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

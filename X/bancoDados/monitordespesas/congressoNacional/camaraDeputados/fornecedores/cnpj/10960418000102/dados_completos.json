@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "TEMPERATTO RESTAURANTE LTDA",
+      "cnpj": "10960418000102",
+      "total_recebido": 300.8,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-07T05:43:13.491878"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 42.0,
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 258.8
+  },
+  "anos": {
+    "2025": {
+      "total": 300.8,
+      "transacoes": 7,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160559": {
+      "deputado": {
+        "id": 160559,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
+        "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
+        "email": "dep.alceumoreira@camara.leg.br"
+      },
+      "total": 300.8,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7866265,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-01-23T00:00:00",
+          "numDocumento": "47520",
+          "valorDocumento": 42.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7866265",
+          "nomeFornecedor": "TEMPERATTO RESTAURANTE LTDA",
+          "cnpjCpfFornecedor": "10960418000102",
+          "valorLiquido": 42.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7904881,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-14T00:00:00",
+          "numDocumento": "55267",
+          "valorDocumento": 44.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7904881",
+          "nomeFornecedor": "TEMPERATTO RESTAURANTE LTDA",
+          "cnpjCpfFornecedor": "10960418000102",
+          "valorLiquido": 44.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7912848,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-28T00:00:00",
+          "numDocumento": "56481",
+          "valorDocumento": 44.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7912848",
+          "nomeFornecedor": "TEMPERATTO RESTAURANTE LTDA",
+          "cnpjCpfFornecedor": "10960418000102",
+          "valorLiquido": 44.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7912857,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-29T00:00:00",
+          "numDocumento": "56614",
+          "valorDocumento": 44.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7912857",
+          "nomeFornecedor": "TEMPERATTO RESTAURANTE LTDA",
+          "cnpjCpfFornecedor": "10960418000102",
+          "valorLiquido": 44.5,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7923052,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-27T00:00:00",
+          "numDocumento": "59087",
+          "valorDocumento": 42.31,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7923052",
+          "nomeFornecedor": "TEMPERATTO RESTAURANTE LTDA",
+          "cnpjCpfFornecedor": "10960418000102",
+          "valorLiquido": 42.31,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7960157,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-28T00:00:00",
+          "numDocumento": "64435",
+          "valorDocumento": 37.51,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7960157",
+          "nomeFornecedor": "TEMPERATTO RESTAURANTE LTDA",
+          "cnpjCpfFornecedor": "10960418000102",
+          "valorLiquido": 37.51,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7983888,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-09T00:00:00",
+          "numDocumento": "68194",
+          "valorDocumento": 45.48,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7983888",
+          "nomeFornecedor": "TEMPERATTO RESTAURANTE LTDA",
+          "cnpjCpfFornecedor": "10960418000102",
+          "valorLiquido": 45.48,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

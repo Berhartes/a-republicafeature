@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MORADA AUTO POSTO LTDA",
+      "cnpj": "37519949000102",
+      "total_recebido": 466.25,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 466.25,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-04-21T00:00:00",
+    "periodo_fim": "2023-06-23T00:00:00",
+    "generatedAt": "2025-11-11T21:37:54.079485"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 466.25,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 466.25,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 215.04,
+      "porcentagem_do_total": 46.12
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 251.21,
+      "porcentagem_do_total": 53.88
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7531040,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-04-21T00:00:00",
+      "numDocumento": "44561",
+      "valorDocumento": 215.04,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7531040",
+      "nomeFornecedor": "MORADA AUTO POSTO LTDA",
+      "cnpjCpfFornecedor": "37519949000102",
+      "valorLiquido": 215.04,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1926495,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7564671,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-06-23T00:00:00",
+      "numDocumento": "45877",
+      "valorDocumento": 251.21,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7564671",
+      "nomeFornecedor": "MORADA AUTO POSTO LTDA",
+      "cnpjCpfFornecedor": "37519949000102",
+      "valorLiquido": 251.21,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1945211,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

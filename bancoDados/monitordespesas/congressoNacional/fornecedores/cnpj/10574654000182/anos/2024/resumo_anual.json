@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "P V BANDEIRANTES COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "10574654000182",
+      "total_recebido": 558.38,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 558.38,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-02-25T00:00:00",
+    "periodo_fim": "2024-05-20T00:00:00",
+    "generatedAt": "2025-11-11T21:38:04.864011"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 558.38,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 558.38,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 296.12,
+      "porcentagem_do_total": 53.03
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 262.26,
+      "porcentagem_do_total": 46.97
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7691498,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-02-25T00:00:00",
+      "numDocumento": "390053",
+      "valorDocumento": 296.12,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7691498.pdf",
+      "nomeFornecedor": "P V BANDEIRANTES COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "10574654000182",
+      "valorLiquido": 296.12,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2015550,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7739282,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-05-20T00:00:00",
+      "numDocumento": "413830",
+      "valorDocumento": 262.26,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7739282.pdf",
+      "nomeFornecedor": "P V BANDEIRANTES COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "10574654000182",
+      "valorLiquido": 262.26,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2041406,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

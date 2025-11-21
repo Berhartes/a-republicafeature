@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIO DE PETROLEO RSSILVA LTDA",
+      "cnpj": "13712435000100",
+      "total_recebido": 887.74,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:26.052842"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 887.74
+  },
+  "anos": {
+    "2023": {
+      "total": 227.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 332.21000000000004,
+      "transacoes": 2,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 328.53,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74057": {
+      "deputado": {
+        "id": 74057,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+        "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
+        "siglaPartido": "PCdoB",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+        "email": "dep.aliceportugal@camara.leg.br"
+      },
+      "total": 887.74,
+      "transacoes": 6,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7600264,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-11T00:00:00",
+          "numDocumento": "808352",
+          "valorDocumento": 227.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7600264",
+          "nomeFornecedor": "COMERCIO DE PETROLEO RSSILVA LTDA",
+          "cnpjCpfFornecedor": "13712435000100",
+          "valorLiquido": 227.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7760851,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-21T06:49:54",
+          "numDocumento": "929245",
+          "valorDocumento": 142.11,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7760851",
+          "nomeFornecedor": "COMERCIO DE PETROLEO RSSILVA LTDA",
+          "cnpjCpfFornecedor": "13712435000100",
+          "valorLiquido": 142.11,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7797250,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-15T05:41:42",
+          "numDocumento": "952082",
+          "valorDocumento": 190.1,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7797250",
+          "nomeFornecedor": "COMERCIO DE PETROLEO RSSILVA LTDA",
+          "cnpjCpfFornecedor": "13712435000100",
+          "valorLiquido": 190.1,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7960356,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-10T00:00:00",
+          "numDocumento": "1085755",
+          "valorDocumento": 93.62,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7960356",
+          "nomeFornecedor": "COMERCIO DE PETROLEO RSSILVA LTDA",
+          "cnpjCpfFornecedor": "13712435000100",
+          "valorLiquido": 81.62,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7973648,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-20T16:07:06",
+          "numDocumento": "1100936",
+          "valorDocumento": 134.38,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7973648",
+          "nomeFornecedor": "COMERCIO DE PETROLEO RSSILVA LTDA",
+          "cnpjCpfFornecedor": "13712435000100",
+          "valorLiquido": 134.38,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7973740,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-22T07:17:48",
+          "numDocumento": "1101407",
+          "valorDocumento": 112.53,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7973740",
+          "nomeFornecedor": "COMERCIO DE PETROLEO RSSILVA LTDA",
+          "cnpjCpfFornecedor": "13712435000100",
+          "valorLiquido": 112.53,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

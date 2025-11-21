@@ -1,0 +1,49 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO PETER PAN 01 LTDA",
+    "cnpj": "05000684000226",
+    "total_recebido": 2088.0699999999997,
+    "numero_transacoes": 6,
+    "numero_deputados": 3
+  },
+  "ano": 2023,
+  "total_recebido": 738.75,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 511.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 69.17
+    },
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 227.75,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 30.83
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 738.75,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 511.0,
+      "porcentagem_do_total": 69.17
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 227.75,
+      "porcentagem_do_total": 30.83
+    }
+  ]
+}

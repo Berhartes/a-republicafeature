@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 160666,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160666",
+    "nome": "Félix Mendonça Júnior",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160666.jpg",
+    "email": "dep.felixmendoncajunior@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 451209.37,
+  "quantidade_transacoes": 321,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 179850.0,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 39.86
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 109506.91,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 24.27
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 58436.41,
+      "quantidade_transacoes": 38,
+      "porcentagem_do_total": 12.95
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 36806.34,
+      "quantidade_transacoes": 124,
+      "porcentagem_do_total": 8.16
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 23364.57,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 5.18
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "HPE AUTOMOTORES DO BRASIL LTDA",
+      "cnpj": "46054009000186",
+      "total": 107835.0,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 23.9
+    },
+    {
+      "nome": "CONTRASTE EDITORA E INDUSTRIA GRAFICA",
+      "cnpj": "33867664000101",
+      "total": 93750.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 20.78
+    },
+    {
+      "nome": "C&C Comunicação Ltda",
+      "cnpj": "48000333000147",
+      "total": 84000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 18.62
+    },
+    {
+      "nome": "TIAGO CARDOSO MACHADO",
+      "cnpj": "02360879596",
+      "total": 48100.36,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 10.66
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 22869.71,
+      "quantidade_transacoes": 64,
+      "porcentagem_do_total": 5.07
+    },
+    {
+      "nome": "TELEFÔNICA BRASIL S.A.",
+      "cnpj": "02558157002459",
+      "total": 22250.5,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 4.93
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 13936.63,
+      "quantidade_transacoes": 60,
+      "porcentagem_do_total": 3.09
+    },
+    {
+      "nome": "Cia Aérea - GOL",
+      "cnpj": "07575651000159",
+      "total": 7675.16,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.7
+    },
+    {
+      "nome": "HIU ADMINISTRADORA DE HOTEIS E CONDOMINIOS LTDA",
+      "cnpj": "16584805000160",
+      "total": 4554.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.01
+    },
+    {
+      "nome": "E-Mais Tecnologia e Suprimentos de Informática Eireli",
+      "cnpj": "08647386000130",
+      "total": 3600.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 0.8
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 28673.51,
+      "porcentagem_do_total": 6.35
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 15956.0,
+      "porcentagem_do_total": 3.54
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 42210.12,
+      "porcentagem_do_total": 9.35
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 25880.48,
+      "porcentagem_do_total": 5.74
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 112922.43,
+      "porcentagem_do_total": 25.03
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 38764.74,
+      "porcentagem_do_total": 8.59
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 23043.42,
+      "porcentagem_do_total": 5.11
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 32612.08,
+      "porcentagem_do_total": 7.23
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 36923.35,
+      "porcentagem_do_total": 8.18
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 34319.61,
+      "porcentagem_do_total": 7.61
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 31895.12,
+      "porcentagem_do_total": 7.07
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 28008.51,
+      "porcentagem_do_total": 6.21
+    }
+  ]
+}

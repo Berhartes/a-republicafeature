@@ -1,0 +1,41 @@
+{
+  "deputado": {
+    "id": 220705,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220705",
+    "nome": "Deltan Dallagnol",
+    "siglaPartido": "PODE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220705.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": -28.37,
+  "quantidade_transacoes": 1,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": -28.37,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": -28.37,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": -28.37,
+      "porcentagem_do_total": 0
+    }
+  ]
+}

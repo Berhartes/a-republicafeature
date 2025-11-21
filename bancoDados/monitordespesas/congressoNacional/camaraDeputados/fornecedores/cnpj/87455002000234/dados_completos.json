@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.355912"
+    "generatedAt": "2025-11-11T05:22:16.266871"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 692.51
@@ -30,6 +30,7 @@
         "id": 136811,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
         "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -61,25 +62,6 @@
         },
         {
           "ano": 2024,
-          "mes": 10,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7826482,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-10-23T15:06:00",
-          "numDocumento": "366459",
-          "valorDocumento": 232.02,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7826482",
-          "nomeFornecedor": "CORRIENTES COMERCIO DE COMBUSTIVEIS LTDA.",
-          "cnpjCpfFornecedor": "87455002000234",
-          "valorLiquido": 232.02,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
           "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7797641,
@@ -92,6 +74,25 @@
           "nomeFornecedor": "CORRIENTES COMERCIO DE COMBUSTIVEIS LTDA.",
           "cnpjCpfFornecedor": "87455002000234",
           "valorLiquido": 236.98,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7826482,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-23T15:06:00",
+          "numDocumento": "366459",
+          "valorDocumento": 232.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7826482",
+          "nomeFornecedor": "CORRIENTES COMERCIO DE COMBUSTIVEIS LTDA.",
+          "cnpjCpfFornecedor": "87455002000234",
+          "valorLiquido": 232.02,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

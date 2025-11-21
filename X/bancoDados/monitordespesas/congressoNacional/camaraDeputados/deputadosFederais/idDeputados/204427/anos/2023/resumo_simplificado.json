@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 204427,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204427",
+    "nome": "Fernando Rodolfo",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "PE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204427.jpg",
+    "email": "dep.fernandorodolfo@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 543783.05,
+  "quantidade_transacoes": 423,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 224350.1,
+      "quantidade_transacoes": 200,
+      "porcentagem_do_total": 41.26
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 154598.69,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 28.43
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 118489.94,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 21.79
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 33448.16,
+      "quantidade_transacoes": 167,
+      "porcentagem_do_total": 6.15
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 10416.1,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 1.92
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 139315.35,
+      "quantidade_transacoes": 122,
+      "porcentagem_do_total": 25.62
+    },
+    {
+      "nome": "Rosildo Bezerra Mendes",
+      "cnpj": "09516816487",
+      "total": 113349.5,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 20.84
+    },
+    {
+      "nome": "RSE - RICO SOLUCOES ESTRATEGICAS LTDA",
+      "cnpj": "47544159000130",
+      "total": 69400.29,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 12.76
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 49142.43,
+      "quantidade_transacoes": 53,
+      "porcentagem_do_total": 9.04
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 35892.32,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 6.6
+    },
+    {
+      "nome": "grafica fonseca ltda",
+      "cnpj": "08513512000163",
+      "total": 31298.4,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 5.76
+    },
+    {
+      "nome": "RÁDIO CULTURA DO NORDESTE S/A",
+      "cnpj": "10003143000100",
+      "total": 26000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.78
+    },
+    {
+      "nome": "ASAS ASSESSORIA E CONSULTORIA LTDA",
+      "cnpj": "04451515000169",
+      "total": 11250.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.07
+    },
+    {
+      "nome": "Bravo Comunicação e Jornalismo",
+      "cnpj": "36097560000153",
+      "total": 10500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.93
+    },
+    {
+      "nome": "IOHANA MELO SOUZA NISHIZAWA 00501348174",
+      "cnpj": "24795500000125",
+      "total": 6150.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.13
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 10000.0,
+      "porcentagem_do_total": 1.84
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 43855.31,
+      "porcentagem_do_total": 8.06
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 50381.43,
+      "porcentagem_do_total": 9.26
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 45415.53,
+      "porcentagem_do_total": 8.35
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 44576.66,
+      "porcentagem_do_total": 8.2
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 51229.65,
+      "porcentagem_do_total": 9.42
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 30620.44,
+      "porcentagem_do_total": 5.63
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 71907.1,
+      "porcentagem_do_total": 13.22
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 69026.8,
+      "porcentagem_do_total": 12.69
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 46068.38,
+      "porcentagem_do_total": 8.47
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 51257.44,
+      "porcentagem_do_total": 9.43
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 29444.31,
+      "porcentagem_do_total": 5.41
+    }
+  ]
+}

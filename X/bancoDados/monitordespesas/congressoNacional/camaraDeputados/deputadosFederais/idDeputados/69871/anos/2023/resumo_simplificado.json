@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 69871,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/69871",
+    "nome": "Bacelar",
+    "siglaPartido": "PV",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
+    "email": "dep.bacelar@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 509641.51,
+  "quantidade_transacoes": 251,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 174686.59,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 34.28
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 139150.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 27.3
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 84174.6,
+      "quantidade_transacoes": 76,
+      "porcentagem_do_total": 16.52
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 78869.15,
+      "quantidade_transacoes": 34,
+      "porcentagem_do_total": 15.48
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 26324.75,
+      "quantidade_transacoes": 93,
+      "porcentagem_do_total": 5.17
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CONSUPORTE TRANSPORTES E SERVIÇOS LTDA - EPP",
+      "cnpj": "00254564000150",
+      "total": 126500.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 24.82
+    },
+    {
+      "nome": "YELLOW MELON COMUNICAÇÃO TDA-ME",
+      "cnpj": "17210918000168",
+      "total": 120686.59,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 23.68
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 70215.28,
+      "quantidade_transacoes": 49,
+      "porcentagem_do_total": 13.78
+    },
+    {
+      "nome": "AFRANIO CEZAR OLIVA DE MATTOS FILHO",
+      "cnpj": "89982185500",
+      "total": 62450.5,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 12.25
+    },
+    {
+      "nome": "NOEL DA SILVA VILELA FILHO",
+      "cnpj": "05532251000130",
+      "total": 21300.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.18
+    },
+    {
+      "nome": "YELLOW MELON COMUNICACAO LTDA",
+      "cnpj": "17210918000168",
+      "total": 18000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.53
+    },
+    {
+      "nome": "CONSUPORTE TRANSPORTES E SERVICOS LTDA",
+      "cnpj": "00254564000150",
+      "total": 12650.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.48
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 12458.45,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 2.44
+    },
+    {
+      "nome": "EUZARIA COMERCIO DE CONFECCOES E SERVICOS DE PUBLICIDADE LTDA",
+      "cnpj": "21756298000134",
+      "total": 10000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.96
+    },
+    {
+      "nome": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+      "cnpj": "15139629000194",
+      "total": 8775.25,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 1.72
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 13137.22,
+      "porcentagem_do_total": 2.58
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 38980.7,
+      "porcentagem_do_total": 7.65
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 37733.84,
+      "porcentagem_do_total": 7.4
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 34170.04,
+      "porcentagem_do_total": 6.7
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 67559.63,
+      "porcentagem_do_total": 13.26
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 55963.8,
+      "porcentagem_do_total": 10.98
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 48135.0,
+      "porcentagem_do_total": 9.44
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 40611.84,
+      "porcentagem_do_total": 7.97
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 51875.59,
+      "porcentagem_do_total": 10.18
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 54710.58,
+      "porcentagem_do_total": 10.74
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 53731.3,
+      "porcentagem_do_total": 10.54
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 13031.97,
+      "porcentagem_do_total": 2.56
+    }
+  ]
+}

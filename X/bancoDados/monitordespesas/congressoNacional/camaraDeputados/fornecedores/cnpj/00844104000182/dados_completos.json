@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SAN BERNARDO PARK HOTEL LTDA",
+      "cnpj": "00844104000182",
+      "total_recebido": 596.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:23.520141"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 540.0,
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 56.0
+  },
+  "anos": {
+    "2023": {
+      "total": 596.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220554": {
+      "deputado": {
+        "id": 220554,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+        "nome": "Alexandre Lindenmeyer",
+        "nomeEleitoral": "Alexandre Lindenmeyer",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
+        "email": "dep.alexandrelindenmeyer@camara.leg.br"
+      },
+      "total": 596.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7585242,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-27T00:00:00",
+          "numDocumento": "31834",
+          "valorDocumento": 270.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2023/7585242.pdf",
+          "nomeFornecedor": "SAN BERNARDO PARK HOTEL LTDA",
+          "cnpjCpfFornecedor": "00844104000182",
+          "valorLiquido": 270.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7585251,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-29T00:00:00",
+          "numDocumento": "10039",
+          "valorDocumento": 56.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7585251",
+          "nomeFornecedor": "SAN BERNARDO PARK HOTEL LTDA",
+          "cnpjCpfFornecedor": "00844104000182",
+          "valorLiquido": 56.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7585256,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-29T00:00:00",
+          "numDocumento": "31881",
+          "valorDocumento": 270.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3554/2023/7585256.pdf",
+          "nomeFornecedor": "SAN BERNARDO PARK HOTEL LTDA",
+          "cnpjCpfFornecedor": "00844104000182",
+          "valorLiquido": 270.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

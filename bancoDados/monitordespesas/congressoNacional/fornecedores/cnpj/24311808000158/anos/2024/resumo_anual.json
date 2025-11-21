@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "CONDOMÍNIO EDÍFICIL COMERCIAL CONCORDE",
+      "cnpj": "24311808000158",
+      "total_recebido": 5551.92,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 5551.92,
+    "quantidade_transacoes": 8,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-04-30T00:00:00",
+    "periodo_fim": "2024-12-10T00:00:00",
+    "generatedAt": "2025-11-11T21:37:55.982482"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 5551.92,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 5551.92,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 633.2,
+      "porcentagem_do_total": 11.41
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 600.21,
+      "porcentagem_do_total": 10.81
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 600.21,
+      "porcentagem_do_total": 10.81
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 633.2,
+      "porcentagem_do_total": 11.41
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 781.15,
+      "porcentagem_do_total": 14.07
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 741.65,
+      "porcentagem_do_total": 13.36
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 781.15,
+      "porcentagem_do_total": 14.07
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 781.15,
+      "porcentagem_do_total": 14.07
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 4,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7728213,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2024-04-30T00:00:00",
+      "numDocumento": "597279",
+      "valorDocumento": 659.77,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7728213.pdf",
+      "nomeFornecedor": "CONDOMÍNIO EDÍFICIL COMERCIAL CONCORDE",
+      "cnpjCpfFornecedor": "24311808000158",
+      "valorLiquido": 633.2,
+      "valorGlosa": 26.57,
+      "numRessarcimento": "",
+      "codLote": 2035110,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7760126,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2024-06-20T00:00:00",
+      "numDocumento": "613825",
+      "valorDocumento": 626.78,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7760126.pdf",
+      "nomeFornecedor": "CONDOMÍNIO EDÍFICIL COMERCIAL CONCORDE",
+      "cnpjCpfFornecedor": "24311808000158",
+      "valorLiquido": 600.21,
+      "valorGlosa": 26.57,
+      "numRessarcimento": "",
+      "codLote": 2052282,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7775046,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2024-07-19T00:00:00",
+      "numDocumento": "619542",
+      "valorDocumento": 659.77,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7775046.pdf",
+      "nomeFornecedor": "CONDOMÍNIO EDÍFICIL COMERCIAL CONCORDE",
+      "cnpjCpfFornecedor": "24311808000158",
+      "valorLiquido": 600.21,
+      "valorGlosa": 59.56,
+      "numRessarcimento": "",
+      "codLote": 2059931,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 8,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7797346,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2024-08-16T00:00:00",
+      "numDocumento": "625384",
+      "valorDocumento": 659.77,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7797346.pdf",
+      "nomeFornecedor": "CONDOMÍNIO EDÍFICIL COMERCIAL CONCORDE",
+      "cnpjCpfFornecedor": "24311808000158",
+      "valorLiquido": 633.2,
+      "valorGlosa": 26.57,
+      "numRessarcimento": "",
+      "codLote": 2071081,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 9,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7809414,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-09-20T00:00:00",
+      "numDocumento": "632075",
+      "valorDocumento": 938.48,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7809414.pdf",
+      "nomeFornecedor": "CONDOMÍNIO EDÍFICIL COMERCIAL CONCORDE",
+      "cnpjCpfFornecedor": "24311808000158",
+      "valorLiquido": 781.15,
+      "valorGlosa": 157.33,
+      "numRessarcimento": "",
+      "codLote": 2077351,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7838453,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2024-11-21T00:00:00",
+      "numDocumento": "633451",
+      "valorDocumento": 938.48,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7838453.pdf",
+      "nomeFornecedor": "CONDOMÍNIO EDÍFICIL COMERCIAL CONCORDE",
+      "cnpjCpfFornecedor": "24311808000158",
+      "valorLiquido": 781.15,
+      "valorGlosa": 157.33,
+      "numRessarcimento": "",
+      "codLote": 2093316,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7823230,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2024-10-11T00:00:00",
+      "numDocumento": "637371",
+      "valorDocumento": 938.48,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7823230.pdf",
+      "nomeFornecedor": "CONDOMÍNIO EDÍFICIL COMERCIAL CONCORDE",
+      "cnpjCpfFornecedor": "24311808000158",
+      "valorLiquido": 741.65,
+      "valorGlosa": 196.83,
+      "numRessarcimento": "",
+      "codLote": 2085068,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 12,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7848900,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-12-10T00:00:00",
+      "numDocumento": "651992",
+      "valorDocumento": 938.48,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7848900.pdf",
+      "nomeFornecedor": "CONDOMÍNIO EDÍFICIL COMERCIAL CONCORDE",
+      "cnpjCpfFornecedor": "24311808000158",
+      "valorLiquido": 781.15,
+      "valorGlosa": 157.33,
+      "numRessarcimento": "",
+      "codLote": 2098994,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

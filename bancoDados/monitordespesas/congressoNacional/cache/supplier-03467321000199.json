@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-12T00:38:35Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "1.0.0",
+    "legislatura": 57,
+    "cnpj": "03467321000199"
+  },
+  "data": {
+    "cnpj": "03467321000199",
+    "nome": "ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A.",
+    "nomeFornecedor": "ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A.",
+    "totalTransacionado": 20519.96,
+    "totalRecebido": 20519.96,
+    "totalRecebidoTodos": 20519.96,
+    "transacoes": 19,
+    "numeroTransacoes": 19,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [],
+    "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+    "categoriaOriginal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+    "categorias": [
+      "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+    ],
+    "categoriasOriginais": [
+      "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+    ],
+    "categoriasInfo": {
+      "principal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "normalizadas": [
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+      ],
+      "principalOriginal": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "originais": [
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+      ]
+    },
+    "distribuicaoTipos": {
+      "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+        "valor": 20519.96,
+        "quantidade": 19
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+        "valor": 20519.96,
+        "quantidade": 19
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 13622.72,
+        "transacoes": 9,
+        "deputados": 1
+      },
+      "2024": {
+        "valor": 6897.24,
+        "transacoes": 10,
+        "deputados": 1
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

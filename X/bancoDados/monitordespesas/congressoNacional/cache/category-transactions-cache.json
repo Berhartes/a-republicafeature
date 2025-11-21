@@ -1,0 +1,5719 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:11:52Z",
+    "source": "etlpython-materialize",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "totalCategorias": 20
+  },
+  "data": {
+    "categorias": [
+      {
+        "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+        "totalGasto": 36443120.4,
+        "totalTransacoes": 5114,
+        "anos": {
+          "2022": {
+            "valor": 6790.0,
+            "transacoes": 4
+          },
+          "2023": {
+            "valor": 14132279.47,
+            "transacoes": 2127
+          },
+          "2024": {
+            "valor": 13931988.86,
+            "transacoes": 1908
+          },
+          "2025": {
+            "valor": 8372062.07,
+            "transacoes": 1075
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "220538",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1250855.88,
+            "transacoes": 127
+          },
+          {
+            "id": "220714",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1115950.0,
+            "transacoes": 63
+          },
+          {
+            "id": "74057",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1009246.5,
+            "transacoes": 53
+          },
+          {
+            "id": "220574",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1001000.0,
+            "transacoes": 114
+          },
+          {
+            "id": "220542",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 995089.33,
+            "transacoes": 285
+          },
+          {
+            "id": "123756",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 968181.82,
+            "transacoes": 75
+          },
+          {
+            "id": "73579",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 919550.0,
+            "transacoes": 54
+          },
+          {
+            "id": "204356",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 888700.0,
+            "transacoes": 64
+          },
+          {
+            "id": "220556",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 824189.31,
+            "transacoes": 57
+          },
+          {
+            "id": "204379",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 790914.5,
+            "transacoes": 126
+          },
+          {
+            "id": "221148",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 775035.7,
+            "transacoes": 38
+          },
+          {
+            "id": "220577",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 760599.0,
+            "transacoes": 36
+          },
+          {
+            "id": "220635",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 748190.7,
+            "transacoes": 28
+          },
+          {
+            "id": "204358",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 713777.2,
+            "transacoes": 94
+          },
+          {
+            "id": "220676",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 713128.0,
+            "transacoes": 55
+          },
+          {
+            "id": "220576",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 685102.0,
+            "transacoes": 107
+          },
+          {
+            "id": "220544",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 684280.0,
+            "transacoes": 185
+          },
+          {
+            "id": "220690",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 674199.1,
+            "transacoes": 68
+          },
+          {
+            "id": "226708",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 673023.19,
+            "transacoes": 102
+          },
+          {
+            "id": "220707",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 665432.4,
+            "transacoes": 39
+          },
+          {
+            "id": "204495",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 645691.2,
+            "transacoes": 55
+          },
+          {
+            "id": "178937",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 629700.0,
+            "transacoes": 57
+          },
+          {
+            "id": "73701",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 616100.0,
+            "transacoes": 36
+          },
+          {
+            "id": "74696",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 606578.51,
+            "transacoes": 41
+          },
+          {
+            "id": "204515",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 597252.78,
+            "transacoes": 70
+          },
+          {
+            "id": "204501",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 589669.68,
+            "transacoes": 60
+          },
+          {
+            "id": "160512",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 567858.25,
+            "transacoes": 57
+          },
+          {
+            "id": "220548",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 541716.03,
+            "transacoes": 46
+          },
+          {
+            "id": "220638",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 520888.1,
+            "transacoes": 56
+          },
+          {
+            "id": "178972",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 514890.88,
+            "transacoes": 42
+          },
+          {
+            "id": "178829",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 512513.89,
+            "transacoes": 50
+          },
+          {
+            "id": "69871",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 491673.09,
+            "transacoes": 41
+          },
+          {
+            "id": "73433",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 480760.0,
+            "transacoes": 33
+          },
+          {
+            "id": "204374",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 475500.0,
+            "transacoes": 97
+          },
+          {
+            "id": "74262",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 469169.0,
+            "transacoes": 58
+          },
+          {
+            "id": "204423",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 433431.22,
+            "transacoes": 42
+          },
+          {
+            "id": "204571",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 425805.0,
+            "transacoes": 85
+          },
+          {
+            "id": "220612",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 399162.65,
+            "transacoes": 37
+          },
+          {
+            "id": "74646",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 392646.84,
+            "transacoes": 141
+          },
+          {
+            "id": "204507",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 392002.64,
+            "transacoes": 77
+          },
+          {
+            "id": "221328",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 377133.34,
+            "transacoes": 32
+          },
+          {
+            "id": "220683",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 374940.0,
+            "transacoes": 51
+          },
+          {
+            "id": "178927",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 372282.34,
+            "transacoes": 128
+          },
+          {
+            "id": "220675",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 367577.27,
+            "transacoes": 20
+          },
+          {
+            "id": "121948",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 356329.13,
+            "transacoes": 131
+          },
+          {
+            "id": "160527",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 355700.0,
+            "transacoes": 24
+          },
+          {
+            "id": "133439",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 340900.0,
+            "transacoes": 40
+          },
+          {
+            "id": "109429",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 335700.0,
+            "transacoes": 74
+          },
+          {
+            "id": "204460",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 335400.0,
+            "transacoes": 33
+          },
+          {
+            "id": "141398",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 332545.81,
+            "transacoes": 53
+          }
+        ]
+      },
+      {
+        "categoria": "PASSAGEM AÉREA - SIGEPA",
+        "totalGasto": 18388156.03,
+        "totalTransacoes": 16077,
+        "anos": {
+          "2023": {
+            "valor": 7835654.66,
+            "transacoes": 6934
+          },
+          "2024": {
+            "valor": 7228931.63,
+            "transacoes": 6406
+          },
+          "2025": {
+            "valor": 3323569.74,
+            "transacoes": 2737
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "160512",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 624862.34,
+            "transacoes": 481
+          },
+          {
+            "id": "204495",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 530612.54,
+            "transacoes": 581
+          },
+          {
+            "id": "178937",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 524125.49,
+            "transacoes": 321
+          },
+          {
+            "id": "204572",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 458532.76,
+            "transacoes": 323
+          },
+          {
+            "id": "123756",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 451515.52,
+            "transacoes": 311
+          },
+          {
+            "id": "160527",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 440648.68,
+            "transacoes": 269
+          },
+          {
+            "id": "74646",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 433618.61,
+            "transacoes": 339
+          },
+          {
+            "id": "160553",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 430615.59,
+            "transacoes": 325
+          },
+          {
+            "id": "133439",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 410750.04,
+            "transacoes": 340
+          },
+          {
+            "id": "220675",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 395878.56,
+            "transacoes": 259
+          },
+          {
+            "id": "74057",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 393705.19,
+            "transacoes": 314
+          },
+          {
+            "id": "74262",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 383914.89,
+            "transacoes": 658
+          },
+          {
+            "id": "220577",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 368090.66,
+            "transacoes": 303
+          },
+          {
+            "id": "204379",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 348395.59,
+            "transacoes": 294
+          },
+          {
+            "id": "178927",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 335890.28,
+            "transacoes": 345
+          },
+          {
+            "id": "220574",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 326963.47,
+            "transacoes": 232
+          },
+          {
+            "id": "220549",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 301115.63,
+            "transacoes": 310
+          },
+          {
+            "id": "220657",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 296471.67,
+            "transacoes": 270
+          },
+          {
+            "id": "178881",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 288439.72,
+            "transacoes": 236
+          },
+          {
+            "id": "204560",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 284809.76,
+            "transacoes": 214
+          },
+          {
+            "id": "204361",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 283317.79,
+            "transacoes": 242
+          },
+          {
+            "id": "178972",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 270675.42,
+            "transacoes": 201
+          },
+          {
+            "id": "220635",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 269820.27,
+            "transacoes": 269
+          },
+          {
+            "id": "160600",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 261783.18,
+            "transacoes": 224
+          },
+          {
+            "id": "123086",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 260307.58,
+            "transacoes": 279
+          },
+          {
+            "id": "220690",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 258530.17,
+            "transacoes": 235
+          },
+          {
+            "id": "220605",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 236585.56,
+            "transacoes": 201
+          },
+          {
+            "id": "204358",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 232893.31,
+            "transacoes": 177
+          },
+          {
+            "id": "143942",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 227918.93,
+            "transacoes": 210
+          },
+          {
+            "id": "204460",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 225397.49,
+            "transacoes": 199
+          },
+          {
+            "id": "204571",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 222785.76,
+            "transacoes": 245
+          },
+          {
+            "id": "73701",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 221135.54,
+            "transacoes": 167
+          },
+          {
+            "id": "220576",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 211227.15,
+            "transacoes": 142
+          },
+          {
+            "id": "204501",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 206517.25,
+            "transacoes": 226
+          },
+          {
+            "id": "220638",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 205400.59,
+            "transacoes": 302
+          },
+          {
+            "id": "221148",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 201446.89,
+            "transacoes": 182
+          },
+          {
+            "id": "226708",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 200474.23,
+            "transacoes": 194
+          },
+          {
+            "id": "178975",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 197531.43,
+            "transacoes": 198
+          },
+          {
+            "id": "160665",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 193450.76,
+            "transacoes": 150
+          },
+          {
+            "id": "220676",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 191121.6,
+            "transacoes": 168
+          },
+          {
+            "id": "220556",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 184290.82,
+            "transacoes": 144
+          },
+          {
+            "id": "204507",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 183131.08,
+            "transacoes": 190
+          },
+          {
+            "id": "69871",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 180115.79,
+            "transacoes": 143
+          },
+          {
+            "id": "220632",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 178184.1,
+            "transacoes": 144
+          },
+          {
+            "id": "220548",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 176797.57,
+            "transacoes": 169
+          },
+          {
+            "id": "204423",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 173326.96,
+            "transacoes": 171
+          },
+          {
+            "id": "160545",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 171236.88,
+            "transacoes": 183
+          },
+          {
+            "id": "204549",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 167407.59,
+            "transacoes": 116
+          },
+          {
+            "id": "73433",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 166587.99,
+            "transacoes": 128
+          },
+          {
+            "id": "160559",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 164864.25,
+            "transacoes": 129
+          }
+        ]
+      },
+      {
+        "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "totalGasto": 13722523.88,
+        "totalTransacoes": 2374,
+        "anos": {
+          "2022": {
+            "valor": 8700.0,
+            "transacoes": 2
+          },
+          "2023": {
+            "valor": 5369368.93,
+            "transacoes": 1033
+          },
+          "2024": {
+            "valor": 5603282.02,
+            "transacoes": 931
+          },
+          "2025": {
+            "valor": 2741172.93,
+            "transacoes": 408
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "204571",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 415389.0,
+            "transacoes": 41
+          },
+          {
+            "id": "69871",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 410813.0,
+            "transacoes": 33
+          },
+          {
+            "id": "123086",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 378400.0,
+            "transacoes": 31
+          },
+          {
+            "id": "204560",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 375213.0,
+            "transacoes": 33
+          },
+          {
+            "id": "220612",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 372800.0,
+            "transacoes": 32
+          },
+          {
+            "id": "109429",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 353093.0,
+            "transacoes": 56
+          },
+          {
+            "id": "133439",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 346018.28,
+            "transacoes": 40
+          },
+          {
+            "id": "178993",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 336000.0,
+            "transacoes": 28
+          },
+          {
+            "id": "221328",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 329492.34,
+            "transacoes": 76
+          },
+          {
+            "id": "204549",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 306713.0,
+            "transacoes": 30
+          },
+          {
+            "id": "160665",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 303454.0,
+            "transacoes": 36
+          },
+          {
+            "id": "204460",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 287900.0,
+            "transacoes": 52
+          },
+          {
+            "id": "204572",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 287100.0,
+            "transacoes": 24
+          },
+          {
+            "id": "204423",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 284858.0,
+            "transacoes": 57
+          },
+          {
+            "id": "160600",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 278832.59,
+            "transacoes": 27
+          },
+          {
+            "id": "204358",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 276900.0,
+            "transacoes": 53
+          },
+          {
+            "id": "220544",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 264607.5,
+            "transacoes": 23
+          },
+          {
+            "id": "121948",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 251473.6,
+            "transacoes": 63
+          },
+          {
+            "id": "160527",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 248499.99,
+            "transacoes": 47
+          },
+          {
+            "id": "204379",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 248440.0,
+            "transacoes": 28
+          },
+          {
+            "id": "178881",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 248068.94,
+            "transacoes": 33
+          },
+          {
+            "id": "220549",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 241558.56,
+            "transacoes": 74
+          },
+          {
+            "id": "204495",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 238163.7,
+            "transacoes": 44
+          },
+          {
+            "id": "204356",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 236960.99,
+            "transacoes": 52
+          },
+          {
+            "id": "204515",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 234192.65,
+            "transacoes": 45
+          },
+          {
+            "id": "160553",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 231000.0,
+            "transacoes": 42
+          },
+          {
+            "id": "220714",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 231000.0,
+            "transacoes": 39
+          },
+          {
+            "id": "220577",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 229057.48,
+            "transacoes": 31
+          },
+          {
+            "id": "220576",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 226610.0,
+            "transacoes": 51
+          },
+          {
+            "id": "220593",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 218915.86,
+            "transacoes": 52
+          },
+          {
+            "id": "210989",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 217598.85,
+            "transacoes": 60
+          },
+          {
+            "id": "204501",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 209853.0,
+            "transacoes": 38
+          },
+          {
+            "id": "178927",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 195484.85,
+            "transacoes": 42
+          },
+          {
+            "id": "220657",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 194906.0,
+            "transacoes": 36
+          },
+          {
+            "id": "204388",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 193033.33,
+            "transacoes": 47
+          },
+          {
+            "id": "136811",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 187368.0,
+            "transacoes": 35
+          },
+          {
+            "id": "220638",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 185480.0,
+            "transacoes": 39
+          },
+          {
+            "id": "220542",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 182430.0,
+            "transacoes": 33
+          },
+          {
+            "id": "73579",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 178776.0,
+            "transacoes": 24
+          },
+          {
+            "id": "178937",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 165000.0,
+            "transacoes": 30
+          },
+          {
+            "id": "220538",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 162813.44,
+            "transacoes": 17
+          },
+          {
+            "id": "220707",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 158578.0,
+            "transacoes": 25
+          },
+          {
+            "id": "204374",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 157810.0,
+            "transacoes": 34
+          },
+          {
+            "id": "220675",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 154476.0,
+            "transacoes": 13
+          },
+          {
+            "id": "220690",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 147216.0,
+            "transacoes": 37
+          },
+          {
+            "id": "178835",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 146000.0,
+            "transacoes": 33
+          },
+          {
+            "id": "204361",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 138500.0,
+            "transacoes": 22
+          },
+          {
+            "id": "221148",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 133300.0,
+            "transacoes": 43
+          },
+          {
+            "id": "178829",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 131000.0,
+            "transacoes": 42
+          },
+          {
+            "id": "178975",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 126244.4,
+            "transacoes": 27
+          }
+        ]
+      },
+      {
+        "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "totalGasto": 12531993.93,
+        "totalTransacoes": 8489,
+        "anos": {
+          "2023": {
+            "valor": 5266433.93,
+            "transacoes": 3640
+          },
+          "2024": {
+            "valor": 4878247.0,
+            "transacoes": 3365
+          },
+          "2025": {
+            "valor": 2387313.0,
+            "transacoes": 1484
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "178975",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 531320.31,
+            "transacoes": 345
+          },
+          {
+            "id": "160665",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 520014.77,
+            "transacoes": 404
+          },
+          {
+            "id": "74646",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 447343.14,
+            "transacoes": 379
+          },
+          {
+            "id": "141391",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 389622.37,
+            "transacoes": 180
+          },
+          {
+            "id": "160545",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 349882.11,
+            "transacoes": 116
+          },
+          {
+            "id": "107970",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 348156.05,
+            "transacoes": 176
+          },
+          {
+            "id": "220612",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 334088.84,
+            "transacoes": 39
+          },
+          {
+            "id": "204374",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 327884.68,
+            "transacoes": 283
+          },
+          {
+            "id": "109429",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 307686.89,
+            "transacoes": 149
+          },
+          {
+            "id": "220632",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 303674.43,
+            "transacoes": 214
+          },
+          {
+            "id": "178993",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 296364.43,
+            "transacoes": 66
+          },
+          {
+            "id": "220690",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 292581.55,
+            "transacoes": 44
+          },
+          {
+            "id": "73701",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 290462.77,
+            "transacoes": 85
+          },
+          {
+            "id": "160553",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 287380.3,
+            "transacoes": 231
+          },
+          {
+            "id": "220544",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 274929.74,
+            "transacoes": 47
+          },
+          {
+            "id": "133439",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 262121.39,
+            "transacoes": 130
+          },
+          {
+            "id": "220548",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 256110.36,
+            "transacoes": 105
+          },
+          {
+            "id": "160600",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 250725.8,
+            "transacoes": 93
+          },
+          {
+            "id": "74262",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 240881.43,
+            "transacoes": 105
+          },
+          {
+            "id": "204501",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 232986.87,
+            "transacoes": 167
+          },
+          {
+            "id": "69871",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 226617.5,
+            "transacoes": 73
+          },
+          {
+            "id": "220593",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 216736.82,
+            "transacoes": 105
+          },
+          {
+            "id": "204423",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 213769.75,
+            "transacoes": 261
+          },
+          {
+            "id": "204460",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 212841.13,
+            "transacoes": 116
+          },
+          {
+            "id": "220549",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 203217.78,
+            "transacoes": 174
+          },
+          {
+            "id": "73433",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 191671.75,
+            "transacoes": 105
+          },
+          {
+            "id": "220635",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 190827.48,
+            "transacoes": 201
+          },
+          {
+            "id": "141398",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 177855.15,
+            "transacoes": 139
+          },
+          {
+            "id": "178881",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 168516.94,
+            "transacoes": 194
+          },
+          {
+            "id": "220683",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 165218.28,
+            "transacoes": 210
+          },
+          {
+            "id": "123086",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 163640.34,
+            "transacoes": 125
+          },
+          {
+            "id": "204358",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 162735.39,
+            "transacoes": 168
+          },
+          {
+            "id": "121948",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 158588.34,
+            "transacoes": 122
+          },
+          {
+            "id": "204426",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 156246.22,
+            "transacoes": 180
+          },
+          {
+            "id": "220707",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 153463.19,
+            "transacoes": 30
+          },
+          {
+            "id": "220657",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 148858.78,
+            "transacoes": 66
+          },
+          {
+            "id": "178927",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 147649.8,
+            "transacoes": 52
+          },
+          {
+            "id": "204388",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 147508.28,
+            "transacoes": 150
+          },
+          {
+            "id": "220596",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 146197.32,
+            "transacoes": 55
+          },
+          {
+            "id": "220605",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 144827.13,
+            "transacoes": 70
+          },
+          {
+            "id": "221148",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 143917.79,
+            "transacoes": 120
+          },
+          {
+            "id": "160559",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 139786.26,
+            "transacoes": 160
+          },
+          {
+            "id": "220574",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 128700.21,
+            "transacoes": 23
+          },
+          {
+            "id": "221328",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 128174.09,
+            "transacoes": 43
+          },
+          {
+            "id": "178972",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 127267.13,
+            "transacoes": 277
+          },
+          {
+            "id": "160538",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 116023.49,
+            "transacoes": 44
+          },
+          {
+            "id": "204572",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 104782.85,
+            "transacoes": 35
+          },
+          {
+            "id": "204356",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 101056.17,
+            "transacoes": 137
+          },
+          {
+            "id": "204515",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 100365.88,
+            "transacoes": 78
+          },
+          {
+            "id": "136811",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 98594.96,
+            "transacoes": 130
+          }
+        ]
+      },
+      {
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "totalGasto": 7072271.0,
+        "totalTransacoes": 25698,
+        "anos": {
+          "2023": {
+            "valor": 2831314.01,
+            "transacoes": 11102
+          },
+          "2024": {
+            "valor": 2711643.6,
+            "transacoes": 9897
+          },
+          "2025": {
+            "valor": 1529313.39,
+            "transacoes": 4699
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "123086",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 261082.3,
+            "transacoes": 88
+          },
+          {
+            "id": "178993",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 234311.1,
+            "transacoes": 752
+          },
+          {
+            "id": "220544",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 224234.71,
+            "transacoes": 385
+          },
+          {
+            "id": "121948",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 217137.6,
+            "transacoes": 395
+          },
+          {
+            "id": "204358",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 184697.83,
+            "transacoes": 57
+          },
+          {
+            "id": "160600",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 175100.32,
+            "transacoes": 306
+          },
+          {
+            "id": "204501",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 164093.05,
+            "transacoes": 89
+          },
+          {
+            "id": "204423",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 159054.25,
+            "transacoes": 559
+          },
+          {
+            "id": "220542",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 154731.31,
+            "transacoes": 410
+          },
+          {
+            "id": "109429",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 154008.82,
+            "transacoes": 706
+          },
+          {
+            "id": "220638",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 130664.08,
+            "transacoes": 146
+          },
+          {
+            "id": "220676",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 128633.85,
+            "transacoes": 209
+          },
+          {
+            "id": "204379",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 128470.81,
+            "transacoes": 441
+          },
+          {
+            "id": "204426",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 127921.49,
+            "transacoes": 492
+          },
+          {
+            "id": "133439",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 123709.31,
+            "transacoes": 223
+          },
+          {
+            "id": "210989",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 122270.94,
+            "transacoes": 482
+          },
+          {
+            "id": "220548",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 120686.74,
+            "transacoes": 779
+          },
+          {
+            "id": "204361",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 118338.03,
+            "transacoes": 630
+          },
+          {
+            "id": "221328",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 116328.64,
+            "transacoes": 567
+          },
+          {
+            "id": "220593",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 115920.69,
+            "transacoes": 632
+          },
+          {
+            "id": "160527",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 111345.83,
+            "transacoes": 657
+          },
+          {
+            "id": "160559",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 111271.52,
+            "transacoes": 520
+          },
+          {
+            "id": "220612",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 105526.67,
+            "transacoes": 422
+          },
+          {
+            "id": "178835",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 105126.48,
+            "transacoes": 512
+          },
+          {
+            "id": "204460",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 104994.68,
+            "transacoes": 550
+          },
+          {
+            "id": "178829",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 104495.47,
+            "transacoes": 481
+          },
+          {
+            "id": "220675",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 103773.24,
+            "transacoes": 274
+          },
+          {
+            "id": "73701",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 102950.89,
+            "transacoes": 460
+          },
+          {
+            "id": "204549",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 102027.99,
+            "transacoes": 369
+          },
+          {
+            "id": "220574",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 101979.92,
+            "transacoes": 276
+          },
+          {
+            "id": "160541",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 101471.62,
+            "transacoes": 343
+          },
+          {
+            "id": "178927",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 100864.93,
+            "transacoes": 501
+          },
+          {
+            "id": "204515",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 99617.5,
+            "transacoes": 455
+          },
+          {
+            "id": "178881",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 99446.68,
+            "transacoes": 461
+          },
+          {
+            "id": "220714",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 98296.52,
+            "transacoes": 414
+          },
+          {
+            "id": "220538",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 97058.06,
+            "transacoes": 272
+          },
+          {
+            "id": "204374",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 90088.74,
+            "transacoes": 431
+          },
+          {
+            "id": "204507",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 89149.86,
+            "transacoes": 364
+          },
+          {
+            "id": "204571",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 87595.5,
+            "transacoes": 310
+          },
+          {
+            "id": "220556",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 86518.24,
+            "transacoes": 441
+          },
+          {
+            "id": "220683",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 86150.52,
+            "transacoes": 379
+          },
+          {
+            "id": "136811",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 84193.1,
+            "transacoes": 488
+          },
+          {
+            "id": "69871",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 82118.38,
+            "transacoes": 270
+          },
+          {
+            "id": "160553",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 81656.3,
+            "transacoes": 386
+          },
+          {
+            "id": "160665",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 81325.7,
+            "transacoes": 384
+          },
+          {
+            "id": "107970",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 75696.99,
+            "transacoes": 334
+          },
+          {
+            "id": "204388",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 74864.22,
+            "transacoes": 339
+          },
+          {
+            "id": "220576",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 72074.07,
+            "transacoes": 310
+          },
+          {
+            "id": "74057",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 70794.69,
+            "transacoes": 375
+          },
+          {
+            "id": "226708",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 68858.27,
+            "transacoes": 297
+          }
+        ]
+      },
+      {
+        "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "totalGasto": 1651177.0,
+        "totalTransacoes": 67,
+        "anos": {
+          "2023": {
+            "valor": 506557.0,
+            "transacoes": 22
+          },
+          "2024": {
+            "valor": 746320.0,
+            "transacoes": 27
+          },
+          "2025": {
+            "valor": 398300.0,
+            "transacoes": 18
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "74090",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 781360.0,
+            "transacoes": 39
+          },
+          {
+            "id": "220675",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 307000.0,
+            "transacoes": 4
+          },
+          {
+            "id": "123756",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 220450.0,
+            "transacoes": 9
+          },
+          {
+            "id": "204560",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 165832.8,
+            "transacoes": 7
+          },
+          {
+            "id": "178881",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 77534.2,
+            "transacoes": 3
+          },
+          {
+            "id": "220714",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 43000.0,
+            "transacoes": 1
+          },
+          {
+            "id": "204549",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 30000.0,
+            "transacoes": 2
+          },
+          {
+            "id": "160600",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 26000.0,
+            "transacoes": 2
+          }
+        ]
+      },
+      {
+        "categoria": "TELEFONIA",
+        "totalGasto": 1167573.79,
+        "totalTransacoes": 3303,
+        "anos": {
+          "2023": {
+            "valor": 597100.37,
+            "transacoes": 1936
+          },
+          "2024": {
+            "valor": 392015.52,
+            "transacoes": 969
+          },
+          "2025": {
+            "valor": 178457.9,
+            "transacoes": 398
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "73433",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 64109.81,
+            "transacoes": 135
+          },
+          {
+            "id": "178975",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 62370.37,
+            "transacoes": 107
+          },
+          {
+            "id": "74090",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 58582.34,
+            "transacoes": 65
+          },
+          {
+            "id": "160553",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 47710.32,
+            "transacoes": 36
+          },
+          {
+            "id": "178993",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 39707.86,
+            "transacoes": 54
+          },
+          {
+            "id": "204572",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 39658.9,
+            "transacoes": 33
+          },
+          {
+            "id": "160600",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 39617.09,
+            "transacoes": 127
+          },
+          {
+            "id": "107970",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 38250.82,
+            "transacoes": 51
+          },
+          {
+            "id": "74262",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 37931.35,
+            "transacoes": 99
+          },
+          {
+            "id": "178881",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 36924.19,
+            "transacoes": 34
+          },
+          {
+            "id": "204358",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 27919.17,
+            "transacoes": 62
+          },
+          {
+            "id": "204495",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 26464.95,
+            "transacoes": 30
+          },
+          {
+            "id": "141398",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 25931.15,
+            "transacoes": 166
+          },
+          {
+            "id": "178829",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 25075.55,
+            "transacoes": 22
+          },
+          {
+            "id": "74057",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 24551.08,
+            "transacoes": 57
+          },
+          {
+            "id": "204560",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 24041.91,
+            "transacoes": 58
+          },
+          {
+            "id": "204507",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 23779.08,
+            "transacoes": 50
+          },
+          {
+            "id": "133439",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 23591.96,
+            "transacoes": 79
+          },
+          {
+            "id": "160527",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 23118.05,
+            "transacoes": 65
+          },
+          {
+            "id": "121948",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 22723.61,
+            "transacoes": 112
+          },
+          {
+            "id": "160545",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 19373.83,
+            "transacoes": 78
+          },
+          {
+            "id": "160559",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 18312.37,
+            "transacoes": 67
+          },
+          {
+            "id": "160538",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 18274.33,
+            "transacoes": 88
+          },
+          {
+            "id": "178835",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 16867.32,
+            "transacoes": 57
+          },
+          {
+            "id": "141391",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 16713.07,
+            "transacoes": 86
+          },
+          {
+            "id": "73701",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 16331.05,
+            "transacoes": 102
+          },
+          {
+            "id": "69871",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 15603.76,
+            "transacoes": 37
+          },
+          {
+            "id": "204426",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 15507.09,
+            "transacoes": 30
+          },
+          {
+            "id": "160665",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 15326.99,
+            "transacoes": 47
+          },
+          {
+            "id": "220638",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 15071.85,
+            "transacoes": 32
+          },
+          {
+            "id": "123086",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 15066.7,
+            "transacoes": 92
+          },
+          {
+            "id": "220596",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 13938.82,
+            "transacoes": 31
+          },
+          {
+            "id": "204423",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 13326.19,
+            "transacoes": 40
+          },
+          {
+            "id": "220556",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 12672.8,
+            "transacoes": 81
+          },
+          {
+            "id": "220554",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 11587.14,
+            "transacoes": 13
+          },
+          {
+            "id": "74646",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 10935.44,
+            "transacoes": 47
+          },
+          {
+            "id": "220548",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 10566.92,
+            "transacoes": 42
+          },
+          {
+            "id": "136811",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 10555.95,
+            "transacoes": 63
+          },
+          {
+            "id": "204549",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 10452.24,
+            "transacoes": 25
+          },
+          {
+            "id": "204501",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 10137.57,
+            "transacoes": 20
+          },
+          {
+            "id": "220675",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8857.77,
+            "transacoes": 20
+          },
+          {
+            "id": "204528",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8759.25,
+            "transacoes": 28
+          },
+          {
+            "id": "204460",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8724.76,
+            "transacoes": 54
+          },
+          {
+            "id": "178972",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8443.12,
+            "transacoes": 32
+          },
+          {
+            "id": "220538",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8355.86,
+            "transacoes": 20
+          },
+          {
+            "id": "109429",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8325.03,
+            "transacoes": 56
+          },
+          {
+            "id": "220549",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 7886.17,
+            "transacoes": 30
+          },
+          {
+            "id": "178962",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 6999.73,
+            "transacoes": 25
+          },
+          {
+            "id": "178882",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 6884.18,
+            "transacoes": 24
+          },
+          {
+            "id": "204379",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 6169.29,
+            "transacoes": 29
+          }
+        ]
+      },
+      {
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "totalGasto": 1012626.03,
+        "totalTransacoes": 2289,
+        "anos": {
+          "2023": {
+            "valor": 403266.82,
+            "transacoes": 1025
+          },
+          "2024": {
+            "valor": 422634.78,
+            "transacoes": 913
+          },
+          "2025": {
+            "valor": 186724.43,
+            "transacoes": 351
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "160600",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 120910.56,
+            "transacoes": 236
+          },
+          {
+            "id": "220605",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 66940.41,
+            "transacoes": 70
+          },
+          {
+            "id": "178881",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 64936.48,
+            "transacoes": 91
+          },
+          {
+            "id": "210989",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 46369.91,
+            "transacoes": 171
+          },
+          {
+            "id": "220556",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 46026.48,
+            "transacoes": 99
+          },
+          {
+            "id": "204549",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 40046.0,
+            "transacoes": 2
+          },
+          {
+            "id": "107970",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 39692.41,
+            "transacoes": 49
+          },
+          {
+            "id": "226708",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 30845.22,
+            "transacoes": 48
+          },
+          {
+            "id": "204426",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 29466.9,
+            "transacoes": 176
+          },
+          {
+            "id": "220542",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 28450.09,
+            "transacoes": 54
+          },
+          {
+            "id": "220683",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 26542.77,
+            "transacoes": 76
+          },
+          {
+            "id": "136811",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 24744.48,
+            "transacoes": 109
+          },
+          {
+            "id": "178927",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 24488.42,
+            "transacoes": 66
+          },
+          {
+            "id": "220632",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 24337.78,
+            "transacoes": 27
+          },
+          {
+            "id": "160559",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 22377.16,
+            "transacoes": 103
+          },
+          {
+            "id": "220596",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 22357.29,
+            "transacoes": 49
+          },
+          {
+            "id": "220593",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 22305.4,
+            "transacoes": 61
+          },
+          {
+            "id": "121948",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 20948.9,
+            "transacoes": 110
+          },
+          {
+            "id": "160665",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 17462.8,
+            "transacoes": 25
+          },
+          {
+            "id": "204515",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 16106.64,
+            "transacoes": 33
+          },
+          {
+            "id": "143942",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 15797.24,
+            "transacoes": 10
+          },
+          {
+            "id": "204361",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 15696.28,
+            "transacoes": 56
+          },
+          {
+            "id": "204358",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 15381.95,
+            "transacoes": 18
+          },
+          {
+            "id": "204528",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 14661.68,
+            "transacoes": 12
+          },
+          {
+            "id": "221328",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 14631.53,
+            "transacoes": 18
+          },
+          {
+            "id": "220698",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 13491.85,
+            "transacoes": 40
+          },
+          {
+            "id": "160538",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 13478.51,
+            "transacoes": 73
+          },
+          {
+            "id": "229106",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 13153.07,
+            "transacoes": 38
+          },
+          {
+            "id": "220554",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 11213.32,
+            "transacoes": 41
+          },
+          {
+            "id": "220549",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 11040.19,
+            "transacoes": 27
+          },
+          {
+            "id": "178962",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 10481.73,
+            "transacoes": 24
+          },
+          {
+            "id": "133439",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 9835.68,
+            "transacoes": 38
+          },
+          {
+            "id": "204507",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 9312.76,
+            "transacoes": 15
+          },
+          {
+            "id": "178835",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8724.4,
+            "transacoes": 23
+          },
+          {
+            "id": "220638",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8649.49,
+            "transacoes": 34
+          },
+          {
+            "id": "73433",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8124.1,
+            "transacoes": 30
+          },
+          {
+            "id": "204572",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 7387.84,
+            "transacoes": 5
+          },
+          {
+            "id": "178829",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 6788.7,
+            "transacoes": 11
+          },
+          {
+            "id": "204388",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 6498.11,
+            "transacoes": 20
+          },
+          {
+            "id": "141398",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 5624.23,
+            "transacoes": 16
+          },
+          {
+            "id": "141391",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 5042.21,
+            "transacoes": 10
+          },
+          {
+            "id": "220544",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4898.54,
+            "transacoes": 1
+          },
+          {
+            "id": "220612",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4753.9,
+            "transacoes": 4
+          },
+          {
+            "id": "164360",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4581.52,
+            "transacoes": 10
+          },
+          {
+            "id": "220577",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4346.34,
+            "transacoes": 4
+          },
+          {
+            "id": "74646",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3947.0,
+            "transacoes": 3
+          },
+          {
+            "id": "73701",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3237.36,
+            "transacoes": 4
+          },
+          {
+            "id": "74696",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3000.0,
+            "transacoes": 3
+          },
+          {
+            "id": "204423",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2984.0,
+            "transacoes": 2
+          },
+          {
+            "id": "160541",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2490.0,
+            "transacoes": 1
+          }
+        ]
+      },
+      {
+        "categoria": "PASSAGEM AÉREA - RPA",
+        "totalGasto": 792438.49,
+        "totalTransacoes": 537,
+        "anos": {
+          "2023": {
+            "valor": 440511.4,
+            "transacoes": 301
+          },
+          "2024": {
+            "valor": 276337.39,
+            "transacoes": 196
+          },
+          "2025": {
+            "valor": 75589.7,
+            "transacoes": 40
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "74090",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 346545.75,
+            "transacoes": 149
+          },
+          {
+            "id": "73433",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 81524.0,
+            "transacoes": 41
+          },
+          {
+            "id": "74262",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 72621.99,
+            "transacoes": 158
+          },
+          {
+            "id": "220683",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 52807.23,
+            "transacoes": 45
+          },
+          {
+            "id": "73579",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 36660.13,
+            "transacoes": 19
+          },
+          {
+            "id": "221328",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 32562.3,
+            "transacoes": 16
+          },
+          {
+            "id": "178835",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 17200.46,
+            "transacoes": 10
+          },
+          {
+            "id": "220612",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 13415.94,
+            "transacoes": 8
+          },
+          {
+            "id": "141391",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 12515.16,
+            "transacoes": 6
+          },
+          {
+            "id": "220542",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 11114.09,
+            "transacoes": 7
+          },
+          {
+            "id": "210989",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 9802.47,
+            "transacoes": 6
+          },
+          {
+            "id": "160553",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 9177.24,
+            "transacoes": 8
+          },
+          {
+            "id": "160665",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8999.57,
+            "transacoes": 6
+          },
+          {
+            "id": "178962",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8854.0,
+            "transacoes": 6
+          },
+          {
+            "id": "123086",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8645.67,
+            "transacoes": 2
+          },
+          {
+            "id": "178975",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8495.35,
+            "transacoes": 9
+          },
+          {
+            "id": "204560",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8269.8,
+            "transacoes": 4
+          },
+          {
+            "id": "160512",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 7141.02,
+            "transacoes": 2
+          },
+          {
+            "id": "123756",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 6898.8,
+            "transacoes": 2
+          },
+          {
+            "id": "220690",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 5578.77,
+            "transacoes": 5
+          },
+          {
+            "id": "220596",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4041.15,
+            "transacoes": 2
+          },
+          {
+            "id": "178927",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3916.01,
+            "transacoes": 4
+          },
+          {
+            "id": "204379",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3780.92,
+            "transacoes": 1
+          },
+          {
+            "id": "133439",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3324.85,
+            "transacoes": 1
+          },
+          {
+            "id": "220576",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3209.85,
+            "transacoes": 1
+          },
+          {
+            "id": "136811",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3111.26,
+            "transacoes": 2
+          },
+          {
+            "id": "220574",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3074.57,
+            "transacoes": 1
+          },
+          {
+            "id": "160527",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2147.85,
+            "transacoes": 1
+          },
+          {
+            "id": "160545",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1942.85,
+            "transacoes": 1
+          },
+          {
+            "id": "160600",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1741.98,
+            "transacoes": 4
+          },
+          {
+            "id": "220556",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1652.41,
+            "transacoes": 1
+          },
+          {
+            "id": "178993",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 903.1,
+            "transacoes": 4
+          },
+          {
+            "id": "160559",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 500.0,
+            "transacoes": 1
+          },
+          {
+            "id": "178882",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 100.0,
+            "transacoes": 2
+          },
+          {
+            "id": "220544",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 89.0,
+            "transacoes": 1
+          },
+          {
+            "id": "74057",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 72.95,
+            "transacoes": 1
+          }
+        ]
+      },
+      {
+        "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+        "totalGasto": 574390.82,
+        "totalTransacoes": 126,
+        "anos": {
+          "2023": {
+            "valor": 212830.97,
+            "transacoes": 68
+          },
+          "2024": {
+            "valor": 216594.69,
+            "transacoes": 37
+          },
+          "2025": {
+            "valor": 144965.16,
+            "transacoes": 21
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "74090",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 132601.88,
+            "transacoes": 14
+          },
+          {
+            "id": "160541",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 81639.7,
+            "transacoes": 2
+          },
+          {
+            "id": "204549",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 52601.0,
+            "transacoes": 4
+          },
+          {
+            "id": "164360",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 41480.09,
+            "transacoes": 5
+          },
+          {
+            "id": "204379",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 24170.96,
+            "transacoes": 5
+          },
+          {
+            "id": "160527",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 15049.5,
+            "transacoes": 1
+          },
+          {
+            "id": "226708",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 13838.17,
+            "transacoes": 4
+          },
+          {
+            "id": "160665",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 13186.16,
+            "transacoes": 4
+          },
+          {
+            "id": "204374",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 12814.54,
+            "transacoes": 2
+          },
+          {
+            "id": "160600",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 12178.86,
+            "transacoes": 5
+          },
+          {
+            "id": "220542",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 9376.91,
+            "transacoes": 3
+          },
+          {
+            "id": "220698",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 9008.51,
+            "transacoes": 4
+          },
+          {
+            "id": "220605",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8035.36,
+            "transacoes": 3
+          },
+          {
+            "id": "220683",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 7524.1,
+            "transacoes": 5
+          },
+          {
+            "id": "204358",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 7520.58,
+            "transacoes": 2
+          },
+          {
+            "id": "204571",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 7274.54,
+            "transacoes": 2
+          },
+          {
+            "id": "220635",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 6955.38,
+            "transacoes": 3
+          },
+          {
+            "id": "160512",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 6930.07,
+            "transacoes": 3
+          },
+          {
+            "id": "107970",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 6313.29,
+            "transacoes": 7
+          },
+          {
+            "id": "220548",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 6137.42,
+            "transacoes": 1
+          },
+          {
+            "id": "74646",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 5581.94,
+            "transacoes": 2
+          },
+          {
+            "id": "220675",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4672.1,
+            "transacoes": 2
+          },
+          {
+            "id": "143942",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4501.85,
+            "transacoes": 2
+          },
+          {
+            "id": "204501",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4137.81,
+            "transacoes": 2
+          },
+          {
+            "id": "73433",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4106.94,
+            "transacoes": 3
+          },
+          {
+            "id": "178882",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4103.82,
+            "transacoes": 2
+          },
+          {
+            "id": "204495",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3782.18,
+            "transacoes": 1
+          },
+          {
+            "id": "123086",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3614.56,
+            "transacoes": 2
+          },
+          {
+            "id": "229069",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3612.75,
+            "transacoes": 1
+          },
+          {
+            "id": "220638",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3543.76,
+            "transacoes": 2
+          },
+          {
+            "id": "178962",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3377.3,
+            "transacoes": 1
+          },
+          {
+            "id": "220556",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3344.5,
+            "transacoes": 1
+          },
+          {
+            "id": "221148",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3026.42,
+            "transacoes": 1
+          },
+          {
+            "id": "73701",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2968.85,
+            "transacoes": 1
+          },
+          {
+            "id": "220632",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2911.53,
+            "transacoes": 2
+          },
+          {
+            "id": "73579",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2883.41,
+            "transacoes": 1
+          },
+          {
+            "id": "220707",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2859.55,
+            "transacoes": 1
+          },
+          {
+            "id": "210989",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2841.91,
+            "transacoes": 1
+          },
+          {
+            "id": "220690",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2750.05,
+            "transacoes": 2
+          },
+          {
+            "id": "178881",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2695.41,
+            "transacoes": 1
+          },
+          {
+            "id": "220549",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2595.95,
+            "transacoes": 1
+          },
+          {
+            "id": "220612",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2592.41,
+            "transacoes": 1
+          },
+          {
+            "id": "220544",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2441.86,
+            "transacoes": 1
+          },
+          {
+            "id": "160538",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2371.82,
+            "transacoes": 1
+          },
+          {
+            "id": "220576",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2306.85,
+            "transacoes": 1
+          },
+          {
+            "id": "220538",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2280.85,
+            "transacoes": 1
+          },
+          {
+            "id": "204423",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2243.96,
+            "transacoes": 1
+          },
+          {
+            "id": "74696",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2111.93,
+            "transacoes": 1
+          },
+          {
+            "id": "178829",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2042.17,
+            "transacoes": 2
+          },
+          {
+            "id": "204515",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2005.41,
+            "transacoes": 1
+          }
+        ]
+      },
+      {
+        "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+        "totalGasto": 318967.25,
+        "totalTransacoes": 172,
+        "anos": {
+          "2023": {
+            "valor": 97651.46,
+            "transacoes": 64
+          },
+          "2024": {
+            "valor": 165788.97,
+            "transacoes": 72
+          },
+          "2025": {
+            "valor": 55526.82,
+            "transacoes": 36
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "123086",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 203999.04,
+            "transacoes": 24
+          },
+          {
+            "id": "220707",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 43500.0,
+            "transacoes": 5
+          },
+          {
+            "id": "69871",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 33000.0,
+            "transacoes": 4
+          },
+          {
+            "id": "178975",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 10473.6,
+            "transacoes": 29
+          },
+          {
+            "id": "204358",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 9883.94,
+            "transacoes": 31
+          },
+          {
+            "id": "74262",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 5399.11,
+            "transacoes": 19
+          },
+          {
+            "id": "160545",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4938.48,
+            "transacoes": 19
+          },
+          {
+            "id": "107970",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3587.0,
+            "transacoes": 17
+          },
+          {
+            "id": "160559",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1800.0,
+            "transacoes": 12
+          },
+          {
+            "id": "204501",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1692.0,
+            "transacoes": 9
+          },
+          {
+            "id": "160665",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 694.08,
+            "transacoes": 3
+          }
+        ]
+      },
+      {
+        "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+        "totalGasto": 291036.91,
+        "totalTransacoes": 5491,
+        "anos": {
+          "2023": {
+            "valor": 148979.06,
+            "transacoes": 3283
+          },
+          "2024": {
+            "valor": 107915.89,
+            "transacoes": 1763
+          },
+          "2025": {
+            "valor": 34141.96,
+            "transacoes": 445
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "73433",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 31395.47,
+            "transacoes": 123
+          },
+          {
+            "id": "178829",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 26262.96,
+            "transacoes": 223
+          },
+          {
+            "id": "160538",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 21672.73,
+            "transacoes": 500
+          },
+          {
+            "id": "141391",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 20956.2,
+            "transacoes": 249
+          },
+          {
+            "id": "221328",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 20526.55,
+            "transacoes": 160
+          },
+          {
+            "id": "220605",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 18874.26,
+            "transacoes": 367
+          },
+          {
+            "id": "141398",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 17480.38,
+            "transacoes": 418
+          },
+          {
+            "id": "107970",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 13284.25,
+            "transacoes": 34
+          },
+          {
+            "id": "220632",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 12857.15,
+            "transacoes": 276
+          },
+          {
+            "id": "204528",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 12742.65,
+            "transacoes": 305
+          },
+          {
+            "id": "204388",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 11810.04,
+            "transacoes": 43
+          },
+          {
+            "id": "220554",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 11440.95,
+            "transacoes": 584
+          },
+          {
+            "id": "136811",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 9704.75,
+            "transacoes": 109
+          },
+          {
+            "id": "121948",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 7920.89,
+            "transacoes": 256
+          },
+          {
+            "id": "204515",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 6166.68,
+            "transacoes": 8
+          },
+          {
+            "id": "143942",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 6029.91,
+            "transacoes": 48
+          },
+          {
+            "id": "204507",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 5677.67,
+            "transacoes": 421
+          },
+          {
+            "id": "204501",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4683.27,
+            "transacoes": 20
+          },
+          {
+            "id": "210989",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3753.8,
+            "transacoes": 48
+          },
+          {
+            "id": "204426",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3059.99,
+            "transacoes": 87
+          },
+          {
+            "id": "229106",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2799.82,
+            "transacoes": 92
+          },
+          {
+            "id": "220556",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2655.5,
+            "transacoes": 182
+          },
+          {
+            "id": "178881",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2325.4,
+            "transacoes": 24
+          },
+          {
+            "id": "220549",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2064.38,
+            "transacoes": 272
+          },
+          {
+            "id": "178831",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1536.62,
+            "transacoes": 26
+          },
+          {
+            "id": "160600",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1495.78,
+            "transacoes": 51
+          },
+          {
+            "id": "220596",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1453.47,
+            "transacoes": 34
+          },
+          {
+            "id": "178927",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1411.12,
+            "transacoes": 30
+          },
+          {
+            "id": "178835",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1248.9,
+            "transacoes": 185
+          },
+          {
+            "id": "160665",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1215.41,
+            "transacoes": 54
+          },
+          {
+            "id": "220635",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1108.53,
+            "transacoes": 33
+          },
+          {
+            "id": "204361",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1078.71,
+            "transacoes": 80
+          },
+          {
+            "id": "220683",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1066.23,
+            "transacoes": 33
+          },
+          {
+            "id": "74646",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 835.29,
+            "transacoes": 40
+          },
+          {
+            "id": "204460",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 540.68,
+            "transacoes": 24
+          },
+          {
+            "id": "221148",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 471.0,
+            "transacoes": 11
+          },
+          {
+            "id": "73701",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 405.0,
+            "transacoes": 7
+          },
+          {
+            "id": "220698",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 330.8,
+            "transacoes": 8
+          },
+          {
+            "id": "204358",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 179.5,
+            "transacoes": 2
+          },
+          {
+            "id": "74057",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 163.55,
+            "transacoes": 1
+          },
+          {
+            "id": "178962",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 79.21,
+            "transacoes": 7
+          },
+          {
+            "id": "160545",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 71.14,
+            "transacoes": 3
+          },
+          {
+            "id": "164360",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 65.8,
+            "transacoes": 4
+          },
+          {
+            "id": "109429",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 45.0,
+            "transacoes": 3
+          },
+          {
+            "id": "226708",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 31.92,
+            "transacoes": 1
+          },
+          {
+            "id": "220593",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 30.0,
+            "transacoes": 1
+          },
+          {
+            "id": "204374",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 27.6,
+            "transacoes": 4
+          }
+        ]
+      },
+      {
+        "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+        "totalGasto": 201791.38,
+        "totalTransacoes": 2813,
+        "anos": {
+          "2023": {
+            "valor": 125039.5,
+            "transacoes": 1842
+          },
+          "2024": {
+            "valor": 66851.52,
+            "transacoes": 852
+          },
+          "2025": {
+            "valor": 9900.36,
+            "transacoes": 119
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "107970",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 24840.16,
+            "transacoes": 324
+          },
+          {
+            "id": "204388",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 20859.17,
+            "transacoes": 324
+          },
+          {
+            "id": "220596",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 18664.08,
+            "transacoes": 226
+          },
+          {
+            "id": "220605",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 15471.67,
+            "transacoes": 194
+          },
+          {
+            "id": "221328",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 12748.58,
+            "transacoes": 151
+          },
+          {
+            "id": "178829",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 11369.27,
+            "transacoes": 171
+          },
+          {
+            "id": "220683",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 10333.58,
+            "transacoes": 141
+          },
+          {
+            "id": "204515",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8325.95,
+            "transacoes": 134
+          },
+          {
+            "id": "136811",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 6691.6,
+            "transacoes": 116
+          },
+          {
+            "id": "204361",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 6249.69,
+            "transacoes": 84
+          },
+          {
+            "id": "160538",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 5560.21,
+            "transacoes": 126
+          },
+          {
+            "id": "160559",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 5393.11,
+            "transacoes": 76
+          },
+          {
+            "id": "220554",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 5248.92,
+            "transacoes": 90
+          },
+          {
+            "id": "220698",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 5107.34,
+            "transacoes": 58
+          },
+          {
+            "id": "178835",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4552.26,
+            "transacoes": 72
+          },
+          {
+            "id": "73701",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4106.97,
+            "transacoes": 43
+          },
+          {
+            "id": "143942",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4051.96,
+            "transacoes": 40
+          },
+          {
+            "id": "204423",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4028.89,
+            "transacoes": 30
+          },
+          {
+            "id": "220538",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4011.41,
+            "transacoes": 78
+          },
+          {
+            "id": "221148",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3975.23,
+            "transacoes": 54
+          },
+          {
+            "id": "178962",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3050.08,
+            "transacoes": 51
+          },
+          {
+            "id": "226708",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2536.93,
+            "transacoes": 33
+          },
+          {
+            "id": "73433",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2514.9,
+            "transacoes": 40
+          },
+          {
+            "id": "220632",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1864.23,
+            "transacoes": 24
+          },
+          {
+            "id": "160600",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1345.04,
+            "transacoes": 14
+          },
+          {
+            "id": "220657",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1147.14,
+            "transacoes": 15
+          },
+          {
+            "id": "229106",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1111.15,
+            "transacoes": 26
+          },
+          {
+            "id": "220556",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 966.6,
+            "transacoes": 13
+          },
+          {
+            "id": "220544",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 960.81,
+            "transacoes": 9
+          },
+          {
+            "id": "204507",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 944.24,
+            "transacoes": 7
+          },
+          {
+            "id": "220612",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 814.06,
+            "transacoes": 10
+          },
+          {
+            "id": "160665",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 652.96,
+            "transacoes": 8
+          },
+          {
+            "id": "141391",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 575.8,
+            "transacoes": 5
+          },
+          {
+            "id": "220593",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 423.56,
+            "transacoes": 5
+          },
+          {
+            "id": "74646",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 341.6,
+            "transacoes": 2
+          },
+          {
+            "id": "220549",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 301.95,
+            "transacoes": 5
+          },
+          {
+            "id": "74057",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 174.54,
+            "transacoes": 2
+          },
+          {
+            "id": "204358",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 156.78,
+            "transacoes": 2
+          },
+          {
+            "id": "220690",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 155.16,
+            "transacoes": 8
+          },
+          {
+            "id": "123756",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 89.8,
+            "transacoes": 1
+          },
+          {
+            "id": "204374",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 74.0,
+            "transacoes": 1
+          }
+        ]
+      },
+      {
+        "categoria": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+        "totalGasto": 47571.27,
+        "totalTransacoes": 225,
+        "anos": {
+          "2023": {
+            "valor": 23886.63,
+            "transacoes": 130
+          },
+          "2024": {
+            "valor": 19216.85,
+            "transacoes": 78
+          },
+          "2025": {
+            "valor": 4467.79,
+            "transacoes": 17
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "210989",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 17024.73,
+            "transacoes": 56
+          },
+          {
+            "id": "160538",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 8342.12,
+            "transacoes": 27
+          },
+          {
+            "id": "220554",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 5849.3,
+            "transacoes": 41
+          },
+          {
+            "id": "160600",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3712.24,
+            "transacoes": 23
+          },
+          {
+            "id": "204507",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3406.81,
+            "transacoes": 22
+          },
+          {
+            "id": "220632",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2148.5,
+            "transacoes": 22
+          },
+          {
+            "id": "178975",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1970.52,
+            "transacoes": 5
+          },
+          {
+            "id": "74646",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1331.0,
+            "transacoes": 6
+          },
+          {
+            "id": "220549",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 949.0,
+            "transacoes": 3
+          },
+          {
+            "id": "220556",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 890.03,
+            "transacoes": 8
+          },
+          {
+            "id": "220698",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 564.19,
+            "transacoes": 2
+          },
+          {
+            "id": "220593",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 498.0,
+            "transacoes": 2
+          },
+          {
+            "id": "204528",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 341.08,
+            "transacoes": 4
+          },
+          {
+            "id": "107970",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 233.99,
+            "transacoes": 1
+          },
+          {
+            "id": "204426",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 170.0,
+            "transacoes": 1
+          },
+          {
+            "id": "121948",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 139.76,
+            "transacoes": 2
+          }
+        ]
+      },
+      {
+        "categoria": "ASSINATURA DE PUBLICAÇÕES",
+        "totalGasto": 35681.66,
+        "totalTransacoes": 104,
+        "anos": {
+          "2023": {
+            "valor": 19647.2,
+            "transacoes": 66
+          },
+          "2024": {
+            "valor": 9352.36,
+            "transacoes": 28
+          },
+          "2025": {
+            "valor": 6682.1,
+            "transacoes": 10
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "73433",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 7080.0,
+            "transacoes": 7
+          },
+          {
+            "id": "204388",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 5816.67,
+            "transacoes": 3
+          },
+          {
+            "id": "204528",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3950.16,
+            "transacoes": 38
+          },
+          {
+            "id": "74646",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3659.8,
+            "transacoes": 12
+          },
+          {
+            "id": "141398",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3059.0,
+            "transacoes": 10
+          },
+          {
+            "id": "160559",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 3049.7,
+            "transacoes": 13
+          },
+          {
+            "id": "220632",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2011.21,
+            "transacoes": 5
+          },
+          {
+            "id": "178975",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 2010.0,
+            "transacoes": 3
+          },
+          {
+            "id": "160665",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1971.96,
+            "transacoes": 5
+          },
+          {
+            "id": "220635",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1350.0,
+            "transacoes": 1
+          },
+          {
+            "id": "220683",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 600.0,
+            "transacoes": 2
+          },
+          {
+            "id": "160538",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 574.86,
+            "transacoes": 2
+          },
+          {
+            "id": "160545",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 340.0,
+            "transacoes": 1
+          },
+          {
+            "id": "107970",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 208.3,
+            "transacoes": 2
+          }
+        ]
+      },
+      {
+        "categoria": "CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS",
+        "totalGasto": 16200.0,
+        "totalTransacoes": 2,
+        "anos": {
+          "2023": {
+            "valor": 16200.0,
+            "transacoes": 2
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "204515",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 15000.0,
+            "transacoes": 1
+          },
+          {
+            "id": "160538",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1200.0,
+            "transacoes": 1
+          }
+        ]
+      },
+      {
+        "categoria": "PARTICIPAÇÃO EM CURSO, PALESTRA OU EVENTO SIMILAR",
+        "totalGasto": 9100.0,
+        "totalTransacoes": 1,
+        "anos": {
+          "2023": {
+            "valor": 9100.0,
+            "transacoes": 1
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "220556",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 9100.0,
+            "transacoes": 1
+          }
+        ]
+      },
+      {
+        "categoria": "LOCAÇÃO OU FRETAMENTO DE EMBARCAÇÕES",
+        "totalGasto": 4800.0,
+        "totalTransacoes": 1,
+        "anos": {
+          "2025": {
+            "valor": 4800.0,
+            "transacoes": 1
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "204495",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 4800.0,
+            "transacoes": 1
+          }
+        ]
+      },
+      {
+        "categoria": "SERVIÇOS POSTAIS",
+        "totalGasto": 2714.93,
+        "totalTransacoes": 16,
+        "anos": {
+          "2025": {
+            "valor": 2714.93,
+            "transacoes": 16
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "220638",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 1130.7,
+            "transacoes": 5
+          },
+          {
+            "id": "220556",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 768.55,
+            "transacoes": 5
+          },
+          {
+            "id": "160665",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 359.1,
+            "transacoes": 3
+          },
+          {
+            "id": "133439",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 217.58,
+            "transacoes": 1
+          },
+          {
+            "id": "220683",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 134.9,
+            "transacoes": 1
+          },
+          {
+            "id": "204501",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 104.1,
+            "transacoes": 1
+          }
+        ]
+      },
+      {
+        "categoria": "AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS",
+        "totalGasto": 2258.31,
+        "totalTransacoes": 9,
+        "anos": {
+          "2023": {
+            "valor": 1698.31,
+            "transacoes": 6
+          },
+          "2024": {
+            "valor": 120.0,
+            "transacoes": 1
+          },
+          "2025": {
+            "valor": 440.0,
+            "transacoes": 2
+          }
+        },
+        "topDeputados": [
+          {
+            "id": "204361",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 610.31,
+            "transacoes": 2
+          },
+          {
+            "id": "220544",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 490.0,
+            "transacoes": 2
+          },
+          {
+            "id": "220683",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 380.0,
+            "transacoes": 1
+          },
+          {
+            "id": "204528",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 275.0,
+            "transacoes": 1
+          },
+          {
+            "id": "220632",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 218.0,
+            "transacoes": 1
+          },
+          {
+            "id": "73433",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 165.0,
+            "transacoes": 1
+          },
+          {
+            "id": "221328",
+            "nome": "",
+            "nomeEleitoral": "",
+            "siglaPartido": null,
+            "siglaUf": null,
+            "totalGasto": 120.0,
+            "transacoes": 1
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "TAVARES COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+    "cnpj": "15680284000181",
+    "total_recebido": 150.0,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 150.0,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 150.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 150.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 150.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

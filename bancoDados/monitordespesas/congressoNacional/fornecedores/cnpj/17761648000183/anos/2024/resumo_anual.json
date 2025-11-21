@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "LUCIANO BRUNO DE SOUZA GOES",
+      "cnpj": "17761648000183",
+      "total_recebido": 27600.0,
+      "numero_transacoes": 13,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 6000.0,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-05-23T00:00:00",
+    "periodo_fim": "2024-07-16T00:00:00",
+    "generatedAt": "2025-11-11T21:37:58.205009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 6000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 6000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 2000.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 2000.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 2000.0,
+      "porcentagem_do_total": 33.33
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7742039,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-05-23T00:00:00",
+      "numDocumento": "164",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7742039.pdf",
+      "nomeFornecedor": "LUCIANO BRUNO DE SOUZA GOES",
+      "cnpjCpfFornecedor": "17761648000183",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2042769,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7774406,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-06-25T00:00:00",
+      "numDocumento": "170",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7774406.pdf",
+      "nomeFornecedor": "LUCIANO BRUNO DE SOUZA GOES",
+      "cnpjCpfFornecedor": "17761648000183",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2059638,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7788533,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-07-16T00:00:00",
+      "numDocumento": "174",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7788533.pdf",
+      "nomeFornecedor": "LUCIANO BRUNO DE SOUZA GOES",
+      "cnpjCpfFornecedor": "17761648000183",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2066470,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

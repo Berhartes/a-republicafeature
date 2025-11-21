@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:12:12Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00245481000103"
+  },
+  "data": {
+    "cnpj": "00245481000103",
+    "nome": "RESTAURANTE BUFFET TEMPERO BRASILEIRO",
+    "nomeFornecedor": "RESTAURANTE BUFFET TEMPERO BRASILEIRO",
+    "totalTransacionado": 106.67,
+    "totalRecebido": 106.67,
+    "totalRecebidoTodos": 106.67,
+    "transacoes": 1,
+    "numeroTransacoes": 1,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [
+      {
+        "id": "73433",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 106.67,
+        "transacoes": 1
+      }
+    ],
+    "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+    "categoriaOriginal": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+    "categorias": [
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+    ],
+    "categoriasOriginais": [
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+    ],
+    "categoriasInfo": {
+      "principal": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "normalizadas": [
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+      ],
+      "principalOriginal": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "originais": [
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+      ]
+    },
+    "distribuicaoTipos": {
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": {
+        "valor": 106.67,
+        "quantidade": 1
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": {
+        "valor": 106.67,
+        "quantidade": 1
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2025": {
+        "valor": 106.67,
+        "transacoes": 1,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 106.67,
+        "ano": 2025,
+        "mes": 7,
+        "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+        "documento": "8898",
+        "dataDocumento": "2025-07-11T00:00:00",
+        "deputadoId": "73433",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 106.67,
+        "valorLiquido": 106.67,
+        "valorDocumento": 106.67,
+        "ano": 2025,
+        "mes": 7,
+        "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+        "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+        "dataDocumento": "2025-07-11T00:00:00",
+        "data": "2025-07-11T00:00:00",
+        "numDocumento": "8898",
+        "codDocumento": 7952514,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/974/2025/7952514.pdf",
+        "deputadoId": "73433",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "RESTAURANTE BUFFET TEMPERO BRASILEIRO",
+        "cnpj": "00245481000103",
+        "urlDocumentoPdf": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/974/2025/7952514.pdf"
+      }
+    ],
+    "totalTransacoesDetalhadas": 1,
+    "aliases": [
+      "00245481000103"
+    ],
+    "temDetalhes": true
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO TREVO SERTAOZINHO LTDA",
+      "cnpj": "05035651000130",
+      "total_recebido": 490.57,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:04.982018"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 490.57
+  },
+  "anos": {
+    "2024": {
+      "total": 490.57,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 490.57,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7735419,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-08T00:00:00",
+          "numDocumento": "209592",
+          "valorDocumento": 160.46,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7735419.pdf",
+          "nomeFornecedor": "POSTO TREVO SERTAOZINHO LTDA",
+          "cnpjCpfFornecedor": "05035651000130",
+          "valorLiquido": 160.46,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2039484,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7792575,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-23T00:00:00",
+          "numDocumento": "243386",
+          "valorDocumento": 330.11,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7792575.pdf",
+          "nomeFornecedor": "POSTO TREVO SERTAOZINHO LTDA",
+          "cnpjCpfFornecedor": "05035651000130",
+          "valorLiquido": 330.11,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2068574,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -74,24 +74,22 @@ export type EventListener<T extends keyof AnaliseEventPayloads> = (
 ) => void | Promise<void>
 
 class EventBus {
-  private listeners: {
-    [K in keyof AnaliseEventPayloads]?: Set<EventListener<K>>
-  } = {}
+  private listeners: Record<string, Set<EventListener<any>>> = {}
 
   on<T extends keyof AnaliseEventPayloads>(
     event: T,
     listener: EventListener<T>
   ): () => void {
-    if (!this.listeners[event]) {
-      this.listeners[event] = new Set() as Set<EventListener<T>>
+    if (!this.listeners[event as string]) {
+      this.listeners[event as string] = new Set()
     }
 
-    (this.listeners[event] as Set<EventListener<T>>).add(listener)
+    this.listeners[event as string].add(listener as EventListener<any>)
 
     return () => {
-      (this.listeners[event] as Set<EventListener<T>>)?.delete(listener)
-      if (this.listeners[event]?.size === 0) {
-        delete this.listeners[event]
+      this.listeners[event as string]?.delete(listener as EventListener<any>)
+      if (this.listeners[event as string]?.size === 0) {
+        delete this.listeners[event as string]
       }
     }
   }
@@ -112,7 +110,7 @@ class EventBus {
     event: T,
     payload: AnaliseEventPayloads[T]
   ): void {
-    const listeners = this.listeners[event]
+    const listeners = this.listeners[event as string]
 
     if (!listeners || listeners.size === 0) {
       return
@@ -197,13 +195,12 @@ export function useEventBus() {
 
 export function useEventListener<T extends keyof AnaliseEventPayloads>(
   event: T,
-  listener: EventListener<T>,
-  deps: React.DependencyList = []
+  listener: EventListener<T>
 ) {
   const { on } = useEventBus()
 
   useEffect(() => {
     const unsubscribe = on(event, listener)
     return unsubscribe
-  }, [event, on, ...deps])
+  }, [event, on, listener])
 }

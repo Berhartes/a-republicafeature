@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "RODOPOSTO BANDEIRANTES SUL LTDA",
+      "cnpj": "05289870000146",
+      "total_recebido": 685.78,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 432.55,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-01-29T00:00:00",
+    "periodo_fim": "2024-06-27T00:00:00",
+    "generatedAt": "2025-11-11T21:38:03.148010"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 432.55,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 432.55,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 185.43,
+      "porcentagem_do_total": 42.87
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 247.12,
+      "porcentagem_do_total": 57.13
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7678699,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-01-29T00:00:00",
+      "numDocumento": "027585",
+      "valorDocumento": 185.43,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7678699.pdf",
+      "nomeFornecedor": "RODOPOSTO BANDEIRANTES SUL LTDA",
+      "cnpjCpfFornecedor": "05289870000146",
+      "valorLiquido": 185.43,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2007970,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7767271,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-06-27T00:00:00",
+      "numDocumento": "481952",
+      "valorDocumento": 247.12,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7767271.pdf",
+      "nomeFornecedor": "RODOPOSTO BANDEIRANTES SUL LTDA",
+      "cnpjCpfFornecedor": "05289870000146",
+      "valorLiquido": 247.12,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2056069,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

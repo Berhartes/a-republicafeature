@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 204351,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204351",
+    "nome": "Dr. Luiz Ovando",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "MS",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204351.jpg",
+    "email": "dep.dr.luizovando@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 509913.7,
+  "quantidade_transacoes": 642,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 203951.63,
+      "quantidade_transacoes": 50,
+      "porcentagem_do_total": 40.0
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 122313.0,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 23.99
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 74031.86,
+      "quantidade_transacoes": 75,
+      "porcentagem_do_total": 14.52
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 54756.45,
+      "quantidade_transacoes": 318,
+      "porcentagem_do_total": 10.74
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 44017.13,
+      "quantidade_transacoes": 68,
+      "porcentagem_do_total": 8.63
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "SUPREMA MOBILIDADE LTDA",
+      "cnpj": "24894397000170",
+      "total": 122313.0,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 23.99
+    },
+    {
+      "nome": "GRAFICA GLOBO LTDA",
+      "cnpj": "04829513000160",
+      "total": 60450.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 11.85
+    },
+    {
+      "nome": "nelson benedito consultoria imobiliaria ltda",
+      "cnpj": "01755916000114",
+      "total": 52646.04,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 10.32
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 41119.14,
+      "quantidade_transacoes": 66,
+      "porcentagem_do_total": 8.06
+    },
+    {
+      "nome": "desenvolva soluçoes digitais e markeig ltda",
+      "cnpj": "34631653000190",
+      "total": 32700.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 6.41
+    },
+    {
+      "nome": "midiativa comunicação digital ltda",
+      "cnpj": "24507534000177",
+      "total": 28000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 5.49
+    },
+    {
+      "nome": "POSTO LIBERDADE LOCATELLI LTDA.",
+      "cnpj": "02394473000146",
+      "total": 15675.72,
+      "quantidade_transacoes": 101,
+      "porcentagem_do_total": 3.07
+    },
+    {
+      "nome": "Marilia Aragao Souza de Oliveira Galvão",
+      "cnpj": "23678157000176",
+      "total": 15000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.94
+    },
+    {
+      "nome": "POSTO SAO FRANCISCO LOCATELLI LTDA",
+      "cnpj": "42115947000198",
+      "total": 14314.4,
+      "quantidade_transacoes": 75,
+      "porcentagem_do_total": 2.81
+    },
+    {
+      "nome": "associação de comunicação social cristã",
+      "cnpj": "02517521000146",
+      "total": 10800.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 2.12
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 11849.06,
+      "porcentagem_do_total": 2.32
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 32607.33,
+      "porcentagem_do_total": 6.39
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 36285.95,
+      "porcentagem_do_total": 7.12
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 32495.08,
+      "porcentagem_do_total": 6.37
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 47220.18,
+      "porcentagem_do_total": 9.26
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 46557.22,
+      "porcentagem_do_total": 9.13
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 33399.04,
+      "porcentagem_do_total": 6.55
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 40867.04,
+      "porcentagem_do_total": 8.01
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 41924.34,
+      "porcentagem_do_total": 8.22
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 44935.48,
+      "porcentagem_do_total": 8.81
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 71650.37,
+      "porcentagem_do_total": 14.05
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 70122.61,
+      "porcentagem_do_total": 13.75
+    }
+  ]
+}

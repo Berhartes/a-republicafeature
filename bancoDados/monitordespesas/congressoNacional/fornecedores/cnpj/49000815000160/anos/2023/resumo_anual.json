@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "NACIONAL RENT A CAR LOCACAO DE VEICULOS LTDA",
+      "cnpj": "49000815000160",
+      "total_recebido": 21000.0,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 11000.0,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-02-10T00:00:00",
+    "periodo_fim": "2023-03-16T00:00:00",
+    "generatedAt": "2025-11-11T21:38:03.791012"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 11000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 11000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 5500.0,
+      "porcentagem_do_total": 50.0
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 5500.0,
+      "porcentagem_do_total": 50.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 3,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7511134,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-03-16T00:00:00",
+      "numDocumento": "0062023",
+      "valorDocumento": 5500.0,
+      "urlDocumento": null,
+      "nomeFornecedor": "NACIONAL RENT A CAR LOCACAO DE VEICULOS LTDA",
+      "cnpjCpfFornecedor": "49000815000160",
+      "valorLiquido": 5500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1915527,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "codDocumento": 7497942,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2023-02-10T00:00:00",
+      "numDocumento": "002.2023",
+      "valorDocumento": 5500.0,
+      "urlDocumento": null,
+      "nomeFornecedor": "Nacional Rent a Car Locação de Veiculos LTDA",
+      "cnpjCpfFornecedor": "49000815000160",
+      "valorLiquido": 5500.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1908452,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

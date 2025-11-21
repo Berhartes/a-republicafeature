@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GRAN BARRA HOTELARIA LTDA",
+      "cnpj": "33434356000192",
+      "total_recebido": 566.5,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 566.5,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-07-09T00:00:00",
+    "periodo_fim": "2024-11-27T00:00:00",
+    "generatedAt": "2025-11-11T21:37:56.736480"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 566.5,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 566.5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 298.7,
+      "porcentagem_do_total": 52.73
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 267.8,
+      "porcentagem_do_total": 47.27
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "codDocumento": 7839625,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-11-27T00:00:00",
+      "numDocumento": "11626",
+      "valorDocumento": 267.8,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7839625.pdf",
+      "nomeFornecedor": "GRAN BARRA HOTELARIA LTDA",
+      "cnpjCpfFornecedor": "33434356000192",
+      "valorLiquido": 267.8,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2094020,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "codDocumento": 7768275,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-07-09T00:00:00",
+      "numDocumento": "6499",
+      "valorDocumento": 298.7,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7768275.pdf",
+      "nomeFornecedor": "GRAN BARRA HOTELARIA LTDA",
+      "cnpjCpfFornecedor": "33434356000192",
+      "valorLiquido": 298.7,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2056575,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

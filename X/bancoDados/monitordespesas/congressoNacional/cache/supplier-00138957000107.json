@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:12:05Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00138957000107"
+  },
+  "data": {
+    "cnpj": "00138957000107",
+    "nome": "POSTO DE GASOLINA FELICCI LTDA",
+    "nomeFornecedor": "POSTO DE GASOLINA FELICCI LTDA",
+    "totalTransacionado": 409.47,
+    "totalRecebido": 409.47,
+    "totalRecebidoTodos": 409.47,
+    "transacoes": 3,
+    "numeroTransacoes": 3,
+    "numeroDeputadosAtendidos": 2,
+    "deputadosAtendidos": [
+      {
+        "id": "74057",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 326.47,
+        "transacoes": 2
+      },
+      {
+        "id": "160553",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 83.0,
+        "transacoes": 1
+      }
+    ],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 409.47,
+        "quantidade": 3
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 409.47,
+        "quantidade": 3
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 309.47,
+        "transacoes": 2,
+        "deputados": 0
+      },
+      "2024": {
+        "valor": 100.0,
+        "transacoes": 1,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 226.47,
+        "ano": 2023,
+        "mes": 4,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "1024426",
+        "dataDocumento": "2023-04-03T00:00:00",
+        "deputadoId": "74057",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 100.0,
+        "ano": 2024,
+        "mes": 11,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "1385876",
+        "dataDocumento": "2024-11-26T12:57:04",
+        "deputadoId": "74057",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 83.0,
+        "ano": 2023,
+        "mes": 10,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "1126864",
+        "dataDocumento": "2023-10-29T00:00:00",
+        "deputadoId": "160553",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 100.0,
+        "valorLiquido": 100.0,
+        "valorDocumento": 100.0,
+        "ano": 2024,
+        "mes": 11,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2024-11-26T12:57:04",
+        "data": "2024-11-26T12:57:04",
+        "numDocumento": "1385876",
+        "codDocumento": 7848229,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7848229",
+        "deputadoId": "74057",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "POSTO DE GASOLINA FELICCI LTDA",
+        "cnpj": "00138957000107",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7848229"
+      },
+      {
+        "valor": 83.0,
+        "valorLiquido": 83.0,
+        "valorDocumento": 83.0,
+        "ano": 2023,
+        "mes": 10,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2023-10-29T00:00:00",
+        "data": "2023-10-29T00:00:00",
+        "numDocumento": "1126864",
+        "codDocumento": 7634353,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7634353",
+        "deputadoId": "160553",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "POSTO DE GASOLINA FELICCI LTDA",
+        "cnpj": "00138957000107",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7634353"
+      },
+      {
+        "valor": 226.47,
+        "valorLiquido": 226.47,
+        "valorDocumento": 226.47,
+        "ano": 2023,
+        "mes": 4,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2023-04-03T00:00:00",
+        "data": "2023-04-03T00:00:00",
+        "numDocumento": "1024426",
+        "codDocumento": 7524666,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7524666",
+        "deputadoId": "74057",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "POSTO DE GASOLINA FELICCI LTDA",
+        "cnpj": "00138957000107",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7524666"
+      }
+    ],
+    "totalTransacoesDetalhadas": 3,
+    "aliases": [
+      "00138957000107"
+    ],
+    "temDetalhes": true
+  }
+}

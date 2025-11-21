@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 74646,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74646",
+    "nome": "Aécio Neves",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74646.jpg",
+    "email": "dep.aecioneves@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 478463.2,
+  "quantidade_transacoes": 389,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 161131.18,
+      "quantidade_transacoes": 131,
+      "porcentagem_do_total": 33.68
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 155482.33,
+      "quantidade_transacoes": 149,
+      "porcentagem_do_total": 32.5
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 147782.56,
+      "quantidade_transacoes": 61,
+      "porcentagem_do_total": 30.89
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 3956.4,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.83
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 3722.65,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 0.78
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "JORGE GOMES LOPES ANSADO LTDA",
+      "cnpj": "27209437000196",
+      "total": 92000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 19.23
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 85817.85,
+      "quantidade_transacoes": 79,
+      "porcentagem_do_total": 17.94
+    },
+    {
+      "nome": "ANUAR DONATO CONSULT. IMOBILIARIA",
+      "cnpj": "04292201000160",
+      "total": 83124.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 17.37
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 42187.83,
+      "quantidade_transacoes": 44,
+      "porcentagem_do_total": 8.82
+    },
+    {
+      "nome": "CONDOMÍNIO LONDON OFFICES",
+      "cnpj": "09494173000188",
+      "total": 30065.2,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 6.28
+    },
+    {
+      "nome": "InterClip - Integrada Comunicação Ltda - me",
+      "cnpj": "03434898000102",
+      "total": 30000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 6.27
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 27476.65,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 5.74
+    },
+    {
+      "nome": "MUNICÍPIO DE BELO HORIZONTE",
+      "cnpj": "18715383000140",
+      "total": 17008.96,
+      "quantidade_transacoes": 50,
+      "porcentagem_do_total": 3.55
+    },
+    {
+      "nome": "EMPRESA MINEIRA DE COMPUTADORES LTDA",
+      "cnpj": "22261093000140",
+      "total": 16940.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 3.54
+    },
+    {
+      "nome": "EXCELSIOR  COMUNICAÇÃO DIGITAL LTDA",
+      "cnpj": "27209437000196",
+      "total": 8000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.67
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 34836.48,
+      "porcentagem_do_total": 7.28
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 34402.87,
+      "porcentagem_do_total": 7.19
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 40219.54,
+      "porcentagem_do_total": 8.41
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 43011.33,
+      "porcentagem_do_total": 8.99
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 40648.25,
+      "porcentagem_do_total": 8.5
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 35873.32,
+      "porcentagem_do_total": 7.5
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 35372.72,
+      "porcentagem_do_total": 7.39
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 45737.78,
+      "porcentagem_do_total": 9.56
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 39014.6,
+      "porcentagem_do_total": 8.15
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 39034.05,
+      "porcentagem_do_total": 8.16
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 42290.42,
+      "porcentagem_do_total": 8.84
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 48021.84,
+      "porcentagem_do_total": 10.04
+    }
+  ]
+}

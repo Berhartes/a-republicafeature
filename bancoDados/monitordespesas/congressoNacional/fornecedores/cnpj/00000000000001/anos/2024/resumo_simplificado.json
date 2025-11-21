@@ -1,0 +1,56 @@
+{
+  "fornecedor": {
+    "nome": "CELULAR FUNCIONAL",
+    "cnpj": "00000000000001",
+    "total_recebido": 12741.15,
+    "numero_transacoes": 63,
+    "numero_deputados": 3
+  },
+  "ano": 2024,
+  "total_recebido": 1125.04,
+  "quantidade_transacoes": 5,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 562.52,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 50.0
+    },
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 444.8,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 39.54
+    },
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 117.72,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 10.46
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "TELEFONIA",
+      "total": 1125.04,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 418.72,
+      "porcentagem_do_total": 37.22
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 706.32,
+      "porcentagem_do_total": 62.78
+    }
+  ]
+}

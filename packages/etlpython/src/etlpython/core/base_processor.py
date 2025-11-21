@@ -20,11 +20,18 @@ class BaseDataProcessor(ABC):
 
     def __init__(self):
         self.fornecedores_data: Dict[str, FornecedorAccumulator] = {}
-        self.legisladores_stats: Dict[int, Dict] = defaultdict(lambda: {
-            "total_despesas": 0.0,
-            "numero_despesas": 0,
-            "fornecedores": set()
-        })
+
+        def _stats_factory():
+            return {
+                "total_despesas": 0.0,
+                "numero_despesas": 0,
+                "fornecedores": set(),
+                "gastos_por_ano": defaultdict(float),
+                "gastos_por_categoria": defaultdict(float),
+                "gastos_por_ano_categoria": defaultdict(lambda: defaultdict(float)),
+            }
+
+        self.legisladores_stats: Dict[int, Dict] = defaultdict(_stats_factory)
 
     def process_legislador_despesas(self, legislador: BaseLegislador, despesas: List[BaseDespesa]) -> None:
         """Process expenses for a single legislator."""
@@ -43,8 +50,12 @@ class BaseDataProcessor(ABC):
             return
 
         # Update legislador stats
-        self.legisladores_stats[legislador.id]["total_despesas"] += valor
-        self.legisladores_stats[legislador.id]["numero_despesas"] += 1
+        stats = self.legisladores_stats[legislador.id]
+        stats["total_despesas"] += valor
+        stats["numero_despesas"] += 1
+        stats["gastos_por_ano"][despesa.ano] += valor
+        stats["gastos_por_categoria"][tipo_despesa_norm] += valor
+        stats["gastos_por_ano_categoria"][despesa.ano][tipo_despesa_norm] += valor
 
         # Process supplier (use normalized values)
         supplier_key = self._get_supplier_key_from_values(despesa.fornecedor, fornecedor_documento_norm)
@@ -58,7 +69,7 @@ class BaseDataProcessor(ABC):
         self.fornecedores_data[supplier_key].add_despesa_with_normalized_values(
             despesa, legislador.id, tipo_despesa_norm
         )
-        self.legisladores_stats[legislador.id]["fornecedores"].add(supplier_key)
+        stats["fornecedores"].add(supplier_key)
 
     def _get_supplier_key(self, despesa: BaseDespesa) -> str:
         """Generate a unique key for supplier identification."""

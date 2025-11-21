@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GETULIO ABAST DE COMB LTDA",
+      "cnpj": "14089871000138",
+      "total_recebido": 151.05,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:17.815599"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 151.05
+  },
+  "anos": {
+    "2023": {
+      "total": 151.05,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160559": {
+      "deputado": {
+        "id": 160559,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
+        "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
+        "email": "dep.alceumoreira@camara.leg.br"
+      },
+      "total": 151.05,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7584016,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-19T00:00:00",
+          "numDocumento": "173728",
+          "valorDocumento": 151.05,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7584016",
+          "nomeFornecedor": "GETULIO ABAST DE COMB LTDA",
+          "cnpjCpfFornecedor": "14089871000138",
+          "valorLiquido": 151.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.294214"
+    "generatedAt": "2025-11-11T05:22:12.615295"
   },
   "categorias": {
     "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 335.0
@@ -30,6 +30,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -61,25 +62,6 @@
         },
         {
           "ano": 2024,
-          "mes": 6,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7766883,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-06-06T00:00:00",
-          "numDocumento": "01662",
-          "valorDocumento": 120.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2024/7766883.pdf",
-          "nomeFornecedor": "SHALON PALACE HOTEL",
-          "cnpjCpfFornecedor": "25348709000103",
-          "valorLiquido": 120.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
           "mes": 2,
           "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
           "codDocumento": 7700092,
@@ -92,6 +74,25 @@
           "nomeFornecedor": "SHALON PALACE HOTEL",
           "cnpjCpfFornecedor": "25348709000103",
           "valorLiquido": 110.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7766883,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-06T00:00:00",
+          "numDocumento": "01662",
+          "valorDocumento": 120.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2024/7766883.pdf",
+          "nomeFornecedor": "SHALON PALACE HOTEL",
+          "cnpjCpfFornecedor": "25348709000103",
+          "valorLiquido": 120.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

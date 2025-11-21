@@ -1,0 +1,54 @@
+{
+  "fornecedor": {
+    "nome": "GREEN'S ALIMENTOS LTDA",
+    "cnpj": "37124724000157",
+    "total_recebido": 227.41000000000003,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 227.41,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 227.41,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 227.41,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 40.8,
+      "porcentagem_do_total": 17.94
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 45.8,
+      "porcentagem_do_total": 20.14
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 95.01,
+      "porcentagem_do_total": 41.78
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 45.8,
+      "porcentagem_do_total": 20.14
+    }
+  ]
+}

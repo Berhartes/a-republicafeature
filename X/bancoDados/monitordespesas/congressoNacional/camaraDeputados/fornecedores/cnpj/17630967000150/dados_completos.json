@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PAULO CESAR SEREJO MARTINELLI EIRELI",
+      "cnpj": "17630967000150",
+      "total_recebido": 304.95,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-07T05:43:09.394314"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 34.9,
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 270.05
+  },
+  "anos": {
+    "2025": {
+      "total": 304.95,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 304.95,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7897511,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-04T00:00:00",
+          "numDocumento": "376885",
+          "valorDocumento": 34.9,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7897511.pdf",
+          "nomeFornecedor": "PAULO CESAR SEREJO MARTINELLI EIRELI",
+          "cnpjCpfFornecedor": "17630967000150",
+          "valorLiquido": 34.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7917697,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-05-09T00:00:00",
+          "numDocumento": "394338",
+          "valorDocumento": 270.05,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7917697.pdf",
+          "nomeFornecedor": "PAULO CESAR SEREJO MARTINELLI EIRELI",
+          "cnpjCpfFornecedor": "17630967000150",
+          "valorLiquido": 270.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

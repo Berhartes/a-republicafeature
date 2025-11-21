@@ -1,5 +1,5 @@
 
-import { CategoryDefinition, categoryRegistry } from '../categories/CategoryRegistry.js'
+import { CategoryDefinition, categoryRegistry } from '../categories/CategoryRegistry'
 
 export interface DeputyData {
   id: string

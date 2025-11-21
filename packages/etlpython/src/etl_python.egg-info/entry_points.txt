@@ -1,3 +1,5 @@
 [console_scripts]
+etl-contracts = etlpython.contracts_cli:contracts_cli
 etl-despesas = etlpython.cli.despesas:main
-etl-materialize = etlpython.cli.materialize_unified:main
+etl-materialize = etlpython.cli.main:materialize_command
+etlpython = etlpython.cli.main:etlpython_cli

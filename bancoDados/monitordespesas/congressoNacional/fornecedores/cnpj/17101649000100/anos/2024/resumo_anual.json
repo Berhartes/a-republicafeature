@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO MODELO DE SERTAOZINHO LTDA",
+      "cnpj": "17101649000100",
+      "total_recebido": 323.14,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 323.14,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-08-20T00:00:00",
+    "periodo_fim": "2024-10-14T00:00:00",
+    "generatedAt": "2025-11-11T21:38:04.649008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 323.14,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 323.14,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 134.93,
+      "porcentagem_do_total": 41.76
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 188.21,
+      "porcentagem_do_total": 58.24
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7791956,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-08-20T00:00:00",
+      "numDocumento": "152428",
+      "valorDocumento": 134.93,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7791956.pdf",
+      "nomeFornecedor": "AUTO POSTO MODELO DE SERTAOZINHO LTDA",
+      "cnpjCpfFornecedor": "17101649000100",
+      "valorLiquido": 134.93,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2068293,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7817989,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-10-14T00:00:00",
+      "numDocumento": "169664",
+      "valorDocumento": 188.21,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7817989.pdf",
+      "nomeFornecedor": "AUTO POSTO MODELO DE SERTAOZINHO LTDA",
+      "cnpjCpfFornecedor": "17101649000100",
+      "valorLiquido": 188.21,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2082337,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

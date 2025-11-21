@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO SHOPPING QL 06 COMERCIO DE DERIV DE PETROLEO LTDA",
+      "cnpj": "00647440000135",
+      "total_recebido": 244.61,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:56.207481"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 244.61
+  },
+  "anos": {
+    "2024": {
+      "total": 244.61,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 244.61,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7739557,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-05-21T00:00:00",
+          "numDocumento": "43608",
+          "valorDocumento": 244.61,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7739557",
+          "nomeFornecedor": "AUTO SHOPPING QL 06 COMERCIO DE DERIV DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "00647440000135",
+          "valorLiquido": 244.61,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2041548,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

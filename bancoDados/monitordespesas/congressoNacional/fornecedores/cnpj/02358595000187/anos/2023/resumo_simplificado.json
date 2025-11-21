@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "Auto Posto N01 Ltda",
+    "cnpj": "02358595000187",
+    "total_recebido": 369.28,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 77.9,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 77.9,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 77.9,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 77.9,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

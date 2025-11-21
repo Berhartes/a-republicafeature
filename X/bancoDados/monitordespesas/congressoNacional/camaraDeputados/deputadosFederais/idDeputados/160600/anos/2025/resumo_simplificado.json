@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 160600,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160600",
+    "nome": "Arthur Oliveira Maia",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
+    "email": "dep.arthuroliveiramaia@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 308600.9,
+  "quantidade_transacoes": 317,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 131955.46,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 42.76
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 58563.28,
+      "quantidade_transacoes": 132,
+      "porcentagem_do_total": 18.98
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 54893.27,
+      "quantidade_transacoes": 90,
+      "porcentagem_do_total": 17.79
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 37097.0,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 12.02
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 13077.54,
+      "quantidade_transacoes": 38,
+      "porcentagem_do_total": 4.24
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Easy Way Tecnologia e Desenvolvimento de Software LTDA",
+      "cnpj": "54287173000161",
+      "total": 67500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 21.87
+    },
+    {
+      "nome": "J. CERQUEIRA E COMPANHIA",
+      "cnpj": "12607218000198",
+      "total": 58817.65,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 19.06
+    },
+    {
+      "nome": "CARLOS EDUARDO CASAGRANDE",
+      "cnpj": "12233356000154",
+      "total": 23573.2,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 7.64
+    },
+    {
+      "nome": "Hotel Tivoli - POJUCA S/A",
+      "cnpj": "13250998000558",
+      "total": 23145.6,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 7.5
+    },
+    {
+      "nome": "VIVO TELEFONICA BRASIL S.A.",
+      "cnpj": "02558157002459",
+      "total": 8099.37,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 2.62
+    },
+    {
+      "nome": "FUNDACAO CULTURAL E EDUCACIONAL BOM JESUS",
+      "cnpj": "14617674000144",
+      "total": 7800.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.53
+    },
+    {
+      "nome": "RADIO ALVORADA LTDA - ME",
+      "cnpj": "15015167000101",
+      "total": 7000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.27
+    },
+    {
+      "nome": "RB Comunicação",
+      "cnpj": "48369608000114",
+      "total": 6865.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.22
+    },
+    {
+      "nome": "AZUL LINHAS AÉREAS BRASILEIRAS S.A.",
+      "cnpj": "09296295001484",
+      "total": 6509.82,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.11
+    },
+    {
+      "nome": "Geraldo Rocha Teixeira - ME",
+      "cnpj": "18867348000146",
+      "total": 6410.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 2.08
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 20685.14,
+      "porcentagem_do_total": 6.7
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 26472.67,
+      "porcentagem_do_total": 8.58
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 22020.9,
+      "porcentagem_do_total": 7.14
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 24499.66,
+      "porcentagem_do_total": 7.94
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 33164.62,
+      "porcentagem_do_total": 10.75
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 34536.57,
+      "porcentagem_do_total": 11.19
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 32601.33,
+      "porcentagem_do_total": 10.56
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 31914.72,
+      "porcentagem_do_total": 10.34
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 47185.63,
+      "porcentagem_do_total": 15.29
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 35519.66,
+      "porcentagem_do_total": 11.51
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO PONTAL DA SERRA LTDA",
+      "cnpj": "03165331000170",
+      "total_recebido": 286.08,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 286.08,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-08-07T00:00:00",
+    "periodo_fim": "2025-08-07T00:00:00",
+    "generatedAt": "2025-11-11T21:38:05.952006"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 286.08,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 286.08,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 286.08,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7962795,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-08-07T00:00:00",
+      "numDocumento": "552270",
+      "valorDocumento": 286.08,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7962795.pdf",
+      "nomeFornecedor": "AUTO POSTO PONTAL DA SERRA LTDA",
+      "cnpjCpfFornecedor": "03165331000170",
+      "valorLiquido": 286.08,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2161962,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

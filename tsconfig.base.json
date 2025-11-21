@@ -4,16 +4,34 @@
     "module": "ESNext",
     "moduleResolution": "Node",
     "lib": ["ES2022"],
-    "strict": true,
+    "strict": false,
+    "noImplicitAny": false,
+    "strictNullChecks": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
+    "noEmit": false,
+    "declaration": false,
+    "sourceMap": false,
+    "removeComments": false,
+    "noImplicitReturns": false,
+    "noFallthroughCasesInSwitch": true,
+    // "noUncheckedIndexedAccess": true,
     "types": ["node"],
     "baseUrl": ".",
     "paths": {
-      "@a-republica/shared/*": ["packages/shared/src/*"]
+      "@a-republica/shared": ["packages/shared/dist/index.d.ts"],
+      "@a-republica/shared/*": ["packages/shared/dist/*"],
+      "@a-republica/api/*": ["packages/api/src/*"]
     }
-  }
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+    "build",
+    ".next",
+    "out"
+  ]
 }

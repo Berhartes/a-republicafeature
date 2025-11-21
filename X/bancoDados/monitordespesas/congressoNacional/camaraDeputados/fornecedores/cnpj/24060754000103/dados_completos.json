@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIO DE COMBUSTIVEIS MP LTDA",
+      "cnpj": "24060754000103",
+      "total_recebido": 753.4300000000001,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-07T05:43:11.326768"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 753.4300000000001
+  },
+  "anos": {
+    "2025": {
+      "total": 753.4300000000001,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "136811": {
+      "deputado": {
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
+      },
+      "total": 753.4300000000001,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7926844,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-04T00:00:00",
+          "numDocumento": "732585",
+          "valorDocumento": 158.03,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7926844",
+          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS MP LTDA",
+          "cnpjCpfFornecedor": "24060754000103",
+          "valorLiquido": 158.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7969904,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-23T00:00:00",
+          "numDocumento": "776870",
+          "valorDocumento": 160.28,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7969904",
+          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS MP LTDA",
+          "cnpjCpfFornecedor": "24060754000103",
+          "valorLiquido": 160.28,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7988328,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-13T00:00:00",
+          "numDocumento": "788136",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7988328",
+          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS MP LTDA",
+          "cnpjCpfFornecedor": "24060754000103",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7998003,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-10T09:24:30",
+          "numDocumento": "802558",
+          "valorDocumento": 285.12,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7998003",
+          "nomeFornecedor": "COMERCIO DE COMBUSTIVEIS MP LTDA",
+          "cnpjCpfFornecedor": "24060754000103",
+          "valorLiquido": 285.12,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

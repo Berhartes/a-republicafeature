@@ -3,52 +3,72 @@
     "fornecedor": {
       "nome": "GOMO COMUNICAÇÂO LTDA",
       "cnpj": "51812601000130",
-      "total_recebido": 1500.0,
-      "numero_transacoes": 1,
+      "total_recebido": 5000.0,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:59:02.628621"
+    "generatedAt": "2025-11-11T05:22:25.363336"
   },
   "categorias": {
-    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 1500.0
+    "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 5000.0
   },
   "anos": {
     "2023": {
-      "total": 1500.0,
-      "transacoes": 1,
+      "total": 5000.0,
+      "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "204507": {
+    "220538": {
       "deputado": {
-        "id": 204507,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204507",
-        "nome": "Carla Zambelli",
-        "siglaPartido": "PL",
+        "id": 220538,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220538",
+        "nome": "Albuquerque",
+        "nomeEleitoral": "Albuquerque",
+        "siglaPartido": "REPUBLICANOS",
         "uriPartido": "",
-        "siglaUf": "SP",
+        "siglaUf": "RR",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204507.jpg",
-        "email": "dep.carlazambelli@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220538.jpg",
+        "email": "dep.albuquerque@camara.leg.br"
       },
-      "total": 1500.0,
-      "transacoes": 1,
+      "total": 5000.0,
+      "transacoes": 2,
       "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7634828,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-25T00:00:00",
+          "numDocumento": "16",
+          "valorDocumento": 2000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3558/2023/7634828.pdf",
+          "nomeFornecedor": "GOMO COMUNICAÇÂO LTDA",
+          "cnpjCpfFornecedor": "51812601000130",
+          "valorLiquido": 2000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
         {
           "ano": 2023,
           "mes": 11,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7659201,
+          "codDocumento": 7664686,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-12-06T00:00:00",
-          "numDocumento": "25",
-          "valorDocumento": 1500.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3244/2023/7659201.pdf",
+          "dataDocumento": "2023-12-19T00:00:00",
+          "numDocumento": "26",
+          "valorDocumento": 3000.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3558/2023/7664686.pdf",
           "nomeFornecedor": "GOMO COMUNICAÇÂO LTDA",
           "cnpjCpfFornecedor": "51812601000130",
-          "valorLiquido": 1500.0,
+          "valorLiquido": 3000.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

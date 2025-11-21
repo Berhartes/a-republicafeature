@@ -1,13 +1,13 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "POSTO ALTO DO TENENTE",
+      "nome": "POSTO AUTO DO TENENTE",
       "cnpj": "11422798000186",
       "total_recebido": 1255.81,
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:33.249334"
+    "generatedAt": "2025-11-11T05:22:23.580749"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 1255.81
@@ -25,6 +25,7 @@
         "id": 204549,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204549",
         "nome": "AJ Albuquerque",
+        "nomeEleitoral": "AJ Albuquerque",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "CE",
@@ -37,18 +38,18 @@
       "despesas": [
         {
           "ano": 2025,
-          "mes": 7,
+          "mes": 2,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7960363,
+          "codDocumento": 7869870,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-07-19T00:00:00",
-          "numDocumento": "119482",
-          "valorDocumento": 365.05,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2025/7960363.pdf",
-          "nomeFornecedor": "POSTO ALTO DO TENENTE",
+          "dataDocumento": "2025-02-15T00:00:00",
+          "numDocumento": "081334",
+          "valorDocumento": 377.01,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2025/7869870.pdf",
+          "nomeFornecedor": "POSTO AUTO DO TENENTE",
           "cnpjCpfFornecedor": "11422798000186",
-          "valorLiquido": 365.05,
+          "valorLiquido": 377.01,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -75,18 +76,18 @@
         },
         {
           "ano": 2025,
-          "mes": 2,
+          "mes": 7,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7869870,
+          "codDocumento": 7960363,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-02-15T00:00:00",
-          "numDocumento": "081334",
-          "valorDocumento": 377.01,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2025/7869870.pdf",
-          "nomeFornecedor": "POSTO AUTO DO TENENTE",
+          "dataDocumento": "2025-07-19T00:00:00",
+          "numDocumento": "119482",
+          "valorDocumento": 365.05,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2025/7960363.pdf",
+          "nomeFornecedor": "POSTO ALTO DO TENENTE",
           "cnpjCpfFornecedor": "11422798000186",
-          "valorLiquido": 377.01,
+          "valorLiquido": 365.05,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:12:10Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00000000000002"
+  },
+  "data": {
+    "cnpj": "00000000000002",
+    "nome": "LINHA DIRETA",
+    "nomeFornecedor": "LINHA DIRETA",
+    "totalTransacionado": 190.36,
+    "totalRecebido": 190.36,
+    "totalRecebidoTodos": 190.36,
+    "transacoes": 3,
+    "numeroTransacoes": 3,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [
+      {
+        "id": "220707",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 190.36,
+        "transacoes": 3
+      }
+    ],
+    "categoria": "TELEFONIA",
+    "categoriaOriginal": "TELEFONIA",
+    "categorias": [
+      "TELEFONIA"
+    ],
+    "categoriasOriginais": [
+      "TELEFONIA"
+    ],
+    "categoriasInfo": {
+      "principal": "TELEFONIA",
+      "normalizadas": [
+        "TELEFONIA"
+      ],
+      "principalOriginal": "TELEFONIA",
+      "originais": [
+        "TELEFONIA"
+      ]
+    },
+    "distribuicaoTipos": {
+      "TELEFONIA": {
+        "valor": 190.36,
+        "quantidade": 3
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "TELEFONIA": {
+        "valor": 190.36,
+        "quantidade": 3
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 190.36,
+        "transacoes": 3,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 117.9,
+        "ano": 2023,
+        "mes": 4,
+        "categoria": "TELEFONIA",
+        "documento": "7611767",
+        "dataDocumento": "2023-05-15T00:00:00",
+        "deputadoId": "220707",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 38.38,
+        "ano": 2023,
+        "mes": 5,
+        "categoria": "TELEFONIA",
+        "documento": "7644223",
+        "dataDocumento": "2023-06-15T00:00:00",
+        "deputadoId": "220707",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 34.08,
+        "ano": 2023,
+        "mes": 4,
+        "categoria": "TELEFONIA",
+        "documento": "7564976",
+        "dataDocumento": "2023-04-15T00:00:00",
+        "deputadoId": "220707",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 38.38,
+        "valorLiquido": 38.38,
+        "valorDocumento": 38.38,
+        "ano": 2023,
+        "mes": 5,
+        "categoria": "TELEFONIA",
+        "tipoDespesa": "TELEFONIA",
+        "dataDocumento": "2023-06-15T00:00:00",
+        "data": "2023-06-15T00:00:00",
+        "numDocumento": "7644223",
+        "codDocumento": 0,
+        "urlDocumento": null,
+        "deputadoId": "220707",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "LINHA DIRETA",
+        "cnpj": "00000000000002",
+        "urlDocumentoPdf": null
+      },
+      {
+        "valor": 117.9,
+        "valorLiquido": 117.9,
+        "valorDocumento": 117.9,
+        "ano": 2023,
+        "mes": 4,
+        "categoria": "TELEFONIA",
+        "tipoDespesa": "TELEFONIA",
+        "dataDocumento": "2023-05-15T00:00:00",
+        "data": "2023-05-15T00:00:00",
+        "numDocumento": "7611767",
+        "codDocumento": 0,
+        "urlDocumento": null,
+        "deputadoId": "220707",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "LINHA DIRETA",
+        "cnpj": "00000000000002",
+        "urlDocumentoPdf": null
+      },
+      {
+        "valor": 34.08,
+        "valorLiquido": 34.08,
+        "valorDocumento": 34.08,
+        "ano": 2023,
+        "mes": 4,
+        "categoria": "TELEFONIA",
+        "tipoDespesa": "TELEFONIA",
+        "dataDocumento": "2023-04-15T00:00:00",
+        "data": "2023-04-15T00:00:00",
+        "numDocumento": "7564976",
+        "codDocumento": 0,
+        "urlDocumento": null,
+        "deputadoId": "220707",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "LINHA DIRETA",
+        "cnpj": "00000000000002",
+        "urlDocumentoPdf": null
+      }
+    ],
+    "totalTransacoesDetalhadas": 3,
+    "aliases": [
+      "00000000000002"
+    ],
+    "temDetalhes": true
+  }
+}

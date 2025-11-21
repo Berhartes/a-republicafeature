@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 88256,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/88256",
+    "nome": "Clodoaldo Magalhães",
+    "siglaPartido": "PV",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+    "siglaUf": "PE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/88256.jpg",
+    "email": "dep.clodoaldomagalhaes@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 465706.77,
+  "quantidade_transacoes": 263,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 211834.05,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 45.49
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 114790.0,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 24.65
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 67289.32,
+      "quantidade_transacoes": 85,
+      "porcentagem_do_total": 14.45
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 35264.22,
+      "quantidade_transacoes": 124,
+      "porcentagem_do_total": 7.57
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 34800.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 7.47
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "APROMO PRODUCOES MARKETING E SERVICOS LTDA",
+      "cnpj": "11585966000154",
+      "total": 161300.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 34.64
+    },
+    {
+      "nome": "VIA LOCADORA DE AUTOMOVEIS LTDA",
+      "cnpj": "45414964000114",
+      "total": 114790.0,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 24.65
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 36717.31,
+      "quantidade_transacoes": 50,
+      "porcentagem_do_total": 7.88
+    },
+    {
+      "nome": "Duporto agencia de publicidade ltda",
+      "cnpj": "29128731000107",
+      "total": 25000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.37
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 20530.45,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 4.41
+    },
+    {
+      "nome": "LOURINALDO DE SIQUEIRA FILMES - ME",
+      "cnpj": "09375545000157",
+      "total": 20000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.29
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 10041.56,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 2.16
+    },
+    {
+      "nome": "BHCOM AGENCIA DE PUBLICIDADE LTDA",
+      "cnpj": "17701430000133",
+      "total": 9100.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.95
+    },
+    {
+      "nome": "ZF9 COMUNICAÇÃO E MARKETING EIRELI",
+      "cnpj": "37853792000157",
+      "total": 9100.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.95
+    },
+    {
+      "nome": "Facebook Serviços Online do Brasil",
+      "cnpj": "13347016000117",
+      "total": 6950.81,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.49
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 14157.84,
+      "porcentagem_do_total": 3.04
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 58178.83,
+      "porcentagem_do_total": 12.49
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 54803.49,
+      "porcentagem_do_total": 11.77
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 60958.91,
+      "porcentagem_do_total": 13.09
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 59925.35,
+      "porcentagem_do_total": 12.87
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 29660.68,
+      "porcentagem_do_total": 6.37
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 48354.72,
+      "porcentagem_do_total": 10.38
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 35652.47,
+      "porcentagem_do_total": 7.66
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 39361.68,
+      "porcentagem_do_total": 8.45
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 19611.72,
+      "porcentagem_do_total": 4.21
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 45041.08,
+      "porcentagem_do_total": 9.67
+    }
+  ]
+}

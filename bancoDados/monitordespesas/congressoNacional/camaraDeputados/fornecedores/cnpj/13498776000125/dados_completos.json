@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.318728"
+    "generatedAt": "2025-11-11T05:22:12.258966"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 504.4
@@ -30,6 +30,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -63,25 +64,6 @@
           "ano": 2024,
           "mes": 2,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7700046,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-02-23T00:00:00",
-          "numDocumento": "142606",
-          "valorDocumento": 114.38,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7700046",
-          "nomeFornecedor": "AUTO POSTO MINAS LTDA",
-          "cnpjCpfFornecedor": "13498776000125",
-          "valorLiquido": 114.38,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 2,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7691162,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
@@ -92,6 +74,25 @@
           "nomeFornecedor": "AUTO POSTO MINAS LTDA",
           "cnpjCpfFornecedor": "13498776000125",
           "valorLiquido": 290.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7700046,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-23T00:00:00",
+          "numDocumento": "142606",
+          "valorDocumento": 114.38,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7700046",
+          "nomeFornecedor": "AUTO POSTO MINAS LTDA",
+          "cnpjCpfFornecedor": "13498776000125",
+          "valorLiquido": 114.38,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

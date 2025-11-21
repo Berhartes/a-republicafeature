@@ -3,52 +3,72 @@
     "fornecedor": {
       "nome": "RP ALIMENTACAO E DIVERSOES LTDA",
       "cnpj": "72590656000112",
-      "total_recebido": 96.8,
-      "numero_transacoes": 1,
+      "total_recebido": 147.5,
+      "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:57:36.832688"
+    "generatedAt": "2025-11-11T05:22:43.266554"
   },
   "categorias": {
-    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 96.8
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 147.5
   },
   "anos": {
-    "2024": {
-      "total": 96.8,
-      "transacoes": 1,
+    "2023": {
+      "total": 147.5,
+      "transacoes": 2,
       "deputados": 1
     }
   },
   "deputados": {
-    "220605": {
+    "226708": {
       "deputado": {
-        "id": 220605,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220605",
-        "nome": "Bandeira de Mello",
-        "siglaPartido": "PSB",
+        "id": 226708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
+        "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "RJ",
+        "siglaUf": "MA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220605.jpg",
-        "email": "dep.bandeirademello@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226708.jpg",
+        "email": "dep.allangarces@camara.leg.br"
       },
-      "total": 96.8,
-      "transacoes": 1,
+      "total": 147.5,
+      "transacoes": 2,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 11,
+          "ano": 2023,
+          "mes": 10,
           "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7836741,
+          "codDocumento": 7638439,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-11-27T00:00:00",
-          "numDocumento": "200100",
-          "valorDocumento": 96.8,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7836741",
+          "dataDocumento": "2023-10-30T00:00:00",
+          "numDocumento": "164446",
+          "valorDocumento": 87.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7638439",
           "nomeFornecedor": "RP ALIMENTACAO E DIVERSOES LTDA",
           "cnpjCpfFornecedor": "72590656000112",
-          "valorLiquido": 96.8,
+          "valorLiquido": 87.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7638667,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-02T00:00:00",
+          "numDocumento": "162095",
+          "valorDocumento": 60.5,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7638667",
+          "nomeFornecedor": "RP ALIMENTACAO E DIVERSOES LTDA",
+          "cnpjCpfFornecedor": "72590656000112",
+          "valorLiquido": 60.5,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

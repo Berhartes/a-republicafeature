@@ -1,0 +1,140 @@
+{
+  "deputado": {
+    "id": 160552,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160552",
+    "nome": "Danrlei de Deus Hinterholz",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "RS",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160552.jpg",
+    "email": "dep.danrleidedeushinterholz@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 68316.9,
+  "quantidade_transacoes": 96,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 30386.89,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 44.48
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 22900.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 33.52
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 12170.05,
+      "quantidade_transacoes": 59,
+      "porcentagem_do_total": 17.81
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 2450.3,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.59
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 382.16,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.56
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 26925.22,
+      "quantidade_transacoes": 23,
+      "porcentagem_do_total": 39.41
+    },
+    {
+      "nome": "AUTO LOCADORA LINCK E MELLO LTDA",
+      "cnpj": "09146749000116",
+      "total": 16500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 24.15
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 6400.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 9.37
+    },
+    {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+      "cnpj": "12132854000100",
+      "total": 2450.3,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.59
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 1976.69,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.89
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 1484.98,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.17
+    },
+    {
+      "nome": "ABAST DE COMB ROMADER LTDA  POSTO ROMADER",
+      "cnpj": "09475059000100",
+      "total": 1297.3,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 1.9
+    },
+    {
+      "nome": "COMERCIAL DE COMBUSTIVEIS ANTONIO CARVALHO BR3 LTDA",
+      "cnpj": "05543248000112",
+      "total": 959.11,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.4
+    },
+    {
+      "nome": "AUTO POSTO 303 NORTE LTDA",
+      "cnpj": "38194212000120",
+      "total": 929.98,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.36
+    },
+    {
+      "nome": "REDE DE POSTOS AUTO POSTO CENTER LTDA  WENCESLAU",
+      "cnpj": "43648976000854",
+      "total": 705.79,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.03
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 9119.7,
+      "porcentagem_do_total": 13.35
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 37403.18,
+      "porcentagem_do_total": 54.75
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 21794.02,
+      "porcentagem_do_total": 31.9
+    }
+  ]
+}

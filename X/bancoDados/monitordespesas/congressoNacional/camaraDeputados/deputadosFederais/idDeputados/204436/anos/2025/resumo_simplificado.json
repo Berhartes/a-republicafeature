@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 204436,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204436",
+    "nome": "Isnaldo Bulhões Jr.",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "AL",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204436.jpg",
+    "email": "dep.isnaldobulhoesjr@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 265457.6,
+  "quantidade_transacoes": 308,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 163163.17,
+      "quantidade_transacoes": 145,
+      "porcentagem_do_total": 61.46
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 68069.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 25.64
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 26475.96,
+      "quantidade_transacoes": 133,
+      "porcentagem_do_total": 9.97
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 1927.5,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 0.73
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 1909.72,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.72
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 105861.93,
+      "quantidade_transacoes": 99,
+      "porcentagem_do_total": 39.88
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 54149.9,
+      "quantidade_transacoes": 44,
+      "porcentagem_do_total": 20.4
+    },
+    {
+      "nome": "HPE AUTOMOTORES DO BRASIL LTDA",
+      "cnpj": "46054009000186",
+      "total": 47120.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 17.75
+    },
+    {
+      "nome": "ALL SERVICE",
+      "cnpj": "48805076000110",
+      "total": 20949.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 7.89
+    },
+    {
+      "nome": "AUTO POSTO 303 NORTE LTDA",
+      "cnpj": "38194212000120",
+      "total": 3859.09,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 1.45
+    },
+    {
+      "nome": "AUTO POSTO R2 LTDA",
+      "cnpj": "08187326000181",
+      "total": 3177.85,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 1.2
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 3151.34,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.19
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 1909.72,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.72
+    },
+    {
+      "nome": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597003112",
+      "total": 1894.31,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 0.71
+    },
+    {
+      "nome": "AUTO SHOPPING QL 06 COMERCIO DE DERIV DE PETROLEO LTDA",
+      "cnpj": "00647440000135",
+      "total": 1860.2,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 0.7
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 27787.51,
+      "porcentagem_do_total": 10.47
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 37124.89,
+      "porcentagem_do_total": 13.99
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 42936.78,
+      "porcentagem_do_total": 16.17
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 22300.91,
+      "porcentagem_do_total": 8.4
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 21278.99,
+      "porcentagem_do_total": 8.02
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 42251.04,
+      "porcentagem_do_total": 15.92
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 37657.96,
+      "porcentagem_do_total": 14.19
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 15064.06,
+      "porcentagem_do_total": 5.67
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 17155.14,
+      "porcentagem_do_total": 6.46
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 1900.32,
+      "porcentagem_do_total": 0.72
+    }
+  ]
+}

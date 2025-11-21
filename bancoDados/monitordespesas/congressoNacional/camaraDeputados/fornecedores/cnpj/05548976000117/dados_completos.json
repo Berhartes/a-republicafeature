@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:54.624345"
+    "generatedAt": "2025-11-11T05:22:30.129765"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 1136.75
@@ -30,6 +30,7 @@
         "id": 204571,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
         "nome": "Alex Santana",
+        "nomeEleitoral": "Alex Santana",
         "siglaPartido": "REPUBLICANOS",
         "uriPartido": "",
         "siglaUf": "BA",
@@ -40,25 +41,6 @@
       "total": 1136.75,
       "transacoes": 3,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 2,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7693711,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-02-05T00:00:00",
-          "numDocumento": "391340",
-          "valorDocumento": 250.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7693711",
-          "nomeFornecedor": "D e B COMERCIAL LTDA",
-          "cnpjCpfFornecedor": "05548976000117",
-          "valorLiquido": 250.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 1,
@@ -73,6 +55,25 @@
           "nomeFornecedor": "D e B COMERCIAL LTDA",
           "cnpjCpfFornecedor": "05548976000117",
           "valorLiquido": 442.53,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7693711,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-05T00:00:00",
+          "numDocumento": "391340",
+          "valorDocumento": 250.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7693711",
+          "nomeFornecedor": "D e B COMERCIAL LTDA",
+          "cnpjCpfFornecedor": "05548976000117",
+          "valorLiquido": 250.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

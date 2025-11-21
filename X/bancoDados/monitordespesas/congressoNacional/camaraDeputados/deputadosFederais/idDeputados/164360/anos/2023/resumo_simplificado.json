@@ -1,0 +1,99 @@
+{
+  "deputado": {
+    "id": 164360,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164360",
+    "nome": "Carmen Zanotto",
+    "siglaPartido": "CIDADANIA",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+    "siglaUf": "SC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/164360.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 7455.71,
+  "quantidade_transacoes": 6,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 8852.29,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 118.73
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 270.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.62
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": -1666.58,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": -22.35
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Gol Linhas Aereas S.A.",
+      "cnpj": "07575651000159",
+      "total": 5748.87,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 77.11
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 3103.42,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 41.62
+    },
+    {
+      "nome": "031 - 302 NORTE CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597003112",
+      "total": 150.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.01
+    },
+    {
+      "nome": "TAVARES COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+      "cnpj": "15680284000181",
+      "total": 120.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.61
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": -1666.58,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": -22.35
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 2612.47,
+      "porcentagem_do_total": 35.04
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": -1666.58,
+      "porcentagem_do_total": -22.35
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 3223.42,
+      "porcentagem_do_total": 43.23
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 3286.4,
+      "porcentagem_do_total": 44.08
+    }
+  ]
+}

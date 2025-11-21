@@ -1,100 +1,73 @@
+'use client'
 
-import React, { useEffect, useMemo, useState } from 'react'
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
-import { Badge } from '@/components/ui/badge'
+import React, { useState } from 'react'
+import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
-import { Loader2, Trophy, Users, Eye, ChevronDown } from 'lucide-react'
-import { Link } from '@tanstack/react-router'
-import BadgesPremiacaoDeputado from '@/components/premiacoes/BadgesPremiacaoDeputado'
 import { UnifiedRankingDisplay } from '@/components/unified/UnifiedRankingDisplay'
+import type { DeputadoProcessado, PremiacoesProcessadas } from '@/types/etl-deputados.types'
 
-
-interface EstatisticasGlobais {
-  totalGeral: number
-  totalTransacoes: number
-  mediaTransacao: number
-  totalDeputados: number
-  totalFornecedores: number
-  totalCategorias: number
-  anosDisponiveis: number[]
-  estatisticasPorAno: Record<string, any>
-  estatisticasPorCategoria: Record<string, any>
-  top10Geral: DeputadoRanking[]
-  top10PorCategoria: Record<string, DeputadoRanking[]>
-  ultimaAtualizacao: Date
-}
-
-interface RankingsFiltradosProps {
-  rankingGeral: DeputadoRanking[]
-  loading: boolean
-  anoSelecionado: string
-  categoriaSelecionada: string
-  estatisticas: EstatisticasGlobais | null
+export interface RankingsFiltradosProps {
+  ranking: DeputadoProcessado[]
+  titulo: string
+  loading?: boolean
+  onDeputadoClick?: (id: string) => void
+  premiacoes?: PremiacoesProcessadas
 }
 
 export function RankingsFiltrados({
-  rankingGeral,
-  loading,
-  anoSelecionado,
-  categoriaSelecionada,
-  estatisticas
+  ranking,
+  titulo,
+  loading = false,
+  onDeputadoClick,
+  premiacoes,
 }: RankingsFiltradosProps) {
-  const [deputadosExibidos, setDeputadosExibidos] = useState(20)
-  const DEPUTADOS_POR_PAGINA = 20
+  // Implement useState for deputadosExibidos (initial: 50)
+  const [deputadosExibidos, setDeputadosExibidos] = useState(50)
 
-  React.useEffect(() => {
-    setDeputadosExibidos(20)
-  }, [anoSelecionado, categoriaSelecionada])
+  // Slice ranking array to show only first deputadosExibidos items
+  const rankingExibido = ranking.slice(0, deputadosExibidos)
+  const totalDeputados = ranking.length
+  const deputadosRestantes = Math.max(0, totalDeputados - deputadosExibidos)
+
+  // Handler to increment deputadosExibidos by 50
+  const handleVerMais = () => {
+    setDeputadosExibidos((prev) => Math.min(prev + 50, totalDeputados))
+  }
 
   return (
-    <div className="space-y-6">
-      {/* 🏆 RANKING UNIFICADO */}
-      <UnifiedRankingDisplay
-        ranking={rankingGeral}
-        loading={loading}
-        categoria={categoriaSelecionada === 'TODAS' ? undefined : categoriaSelecionada}
-        ano={anoSelecionado === 'todos' ? undefined : anoSelecionado}
-        deputadosExibidos={deputadosExibidos}
-        setDeputadosExibidos={setDeputadosExibidos}
-        mostrarControles={true}
-        mostrarEstatisticas={true}
-        tamanhoCard="lg"
-        titulo={`Ranking ${categoriaSelecionada === 'TODAS' ? 'Geral' : categoriaSelecionada} - ${anoSelecionado === 'todos' ? 'Todos os anos' : anoSelecionado}`}
-        descricao={categoriaSelecionada === 'TODAS' ? 'Top deputados por gastos totais' : `Top deputados na categoria: ${categoriaSelecionada}`}
-      />
+    <Card>
+      {/* CardHeader showing dynamic titulo */}
+      <CardHeader>
+        <CardTitle>{titulo}</CardTitle>
+        {/* CardDescription showing "Exibindo X de Y deputados" */}
+        <CardDescription>
+          Exibindo {rankingExibido.length} de {totalDeputados} deputados
+        </CardDescription>
+      </CardHeader>
 
+      {/* Render UnifiedRankingDisplay inside CardContent */}
+      <CardContent>
+        <UnifiedRankingDisplay
+          deputados={rankingExibido}
+          premiacoes={premiacoes}
+          onDeputadoClick={onDeputadoClick}
+          showBadges={true}
+        />
+      </CardContent>
 
-      {/* Card quando não há dados */}
-      {rankingGeral.length === 0 && !loading && (
-        <Card className="border-orange-200 bg-orange-50">
-          <CardContent className="p-6">
-            <div className="text-center space-y-4">
-              <div className="flex justify-center">
-                <Trophy className="h-12 w-12 text-orange-400" />
-              </div>
-              <div>
-                <h3 className="text-lg font-semibold text-orange-800">
-                  Dados não disponíveis
-                </h3>
-                <p className="text-sm text-orange-700 mt-2">
-                  Não foram encontrados dados de rankings para:
-                </p>
-                <div className="mt-3 text-sm text-orange-800 font-medium">
-                  📊 <strong>Categoria:</strong> {categoriaSelecionada === 'TODAS' ? 'Ranking Geral' : categoriaSelecionada}<br/>
-                  📅 <strong>Período:</strong> {anoSelecionado === 'todos' ? 'Histórico' : `Ano ${anoSelecionado}`}
-                </div>
-                <p className="text-xs text-orange-600 mt-3">
-                  Os rankings são calculados automaticamente a partir dos dados de transações do .<br/>
-                  Se você esperava ver dados aqui, verifique se o processamento ETL foi executado.
-                </p>
-              </div>
-            </div>
-          </CardContent>
-        </Card>
+      {/* Conditionally render Button when deputadosExibidos < ranking.length */}
+      {deputadosExibidos < totalDeputados && (
+        <CardFooter className="flex justify-center">
+          <Button
+            variant="outline"
+            size="lg"
+            onClick={handleVerMais}
+            disabled={loading}
+          >
+            Ver mais +50 deputados ({deputadosRestantes} restantes)
+          </Button>
+        </CardFooter>
       )}
-
-    </div>
+    </Card>
   )
 }
-
-export default RankingsFiltrados

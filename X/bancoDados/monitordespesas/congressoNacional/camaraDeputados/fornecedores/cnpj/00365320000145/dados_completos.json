@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO ESPLANADA LTDA",
+      "cnpj": "00365320000145",
+      "total_recebido": 934.4200000000001,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:28.852954"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 934.4200000000001
+  },
+  "anos": {
+    "2024": {
+      "total": 180.62,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 753.8,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "226708": {
+      "deputado": {
+        "id": 226708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
+        "nome": "Allan Garcês",
+        "nomeEleitoral": "Allan Garcês",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226708.jpg",
+        "email": "dep.allangarces@camara.leg.br"
+      },
+      "total": 934.4200000000001,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7824133,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-31T09:24:52",
+          "numDocumento": "280059",
+          "valorDocumento": 180.62,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7824133",
+          "nomeFornecedor": "AUTO POSTO ESPLANADA LTDA",
+          "cnpjCpfFornecedor": "00365320000145",
+          "valorLiquido": 180.62,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7858914,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-01-27T15:46:13",
+          "numDocumento": "285556",
+          "valorDocumento": 194.31,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7858914",
+          "nomeFornecedor": "AUTO POSTO ESPLANADA LTDA",
+          "cnpjCpfFornecedor": "00365320000145",
+          "valorLiquido": 194.31,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7969265,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-20T18:05:29",
+          "numDocumento": "302925",
+          "valorDocumento": 270.17,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7969265",
+          "nomeFornecedor": "AUTO POSTO ESPLANADA LTDA",
+          "cnpjCpfFornecedor": "00365320000145",
+          "valorLiquido": 270.17,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7996271,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-10T00:00:00",
+          "numDocumento": "307823",
+          "valorDocumento": 289.32,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7996271",
+          "nomeFornecedor": "AUTO POSTO ESPLANADA LTDA",
+          "cnpjCpfFornecedor": "00365320000145",
+          "valorLiquido": 289.32,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

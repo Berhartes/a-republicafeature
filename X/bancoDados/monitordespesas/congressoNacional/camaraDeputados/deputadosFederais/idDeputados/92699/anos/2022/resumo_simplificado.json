@@ -1,0 +1,41 @@
+{
+  "deputado": {
+    "id": 92699,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/92699",
+    "nome": "Fernando Monteiro",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "PE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/92699.jpg",
+    "email": "dep.fernandomonteiro@camara.leg.br"
+  },
+  "ano": 2022,
+  "total_gasto": 4890.0,
+  "quantidade_transacoes": 1,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 4890.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "PRIMAVIA RENT A CAR LOCADORA DE VEICULOS LTDA - EPP",
+      "cnpj": "06027662000131",
+      "total": 4890.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 4890.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

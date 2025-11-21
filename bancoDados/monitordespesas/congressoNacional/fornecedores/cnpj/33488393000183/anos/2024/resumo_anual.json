@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+      "cnpj": "33488393000183",
+      "total_recebido": 1373.3500000000001,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 1373.35,
+    "quantidade_transacoes": 8,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-04-12T00:00:00",
+    "periodo_fim": "2024-11-06T00:00:00",
+    "generatedAt": "2025-11-11T21:37:55.969488"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 1373.35,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 1373.35,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 474.85,
+      "porcentagem_do_total": 34.58
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 149.9,
+      "porcentagem_do_total": 10.91
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 149.9,
+      "porcentagem_do_total": 10.91
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 149.9,
+      "porcentagem_do_total": 10.91
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 149.9,
+      "porcentagem_do_total": 10.91
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 149.0,
+      "porcentagem_do_total": 10.85
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 149.9,
+      "porcentagem_do_total": 10.91
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7749701,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2024-05-11T00:00:00",
+      "numDocumento": "01",
+      "valorDocumento": 224.85,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7749701.pdf",
+      "nomeFornecedor": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+      "cnpjCpfFornecedor": "33488393000183",
+      "valorLiquido": 224.85,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2047008,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7735772,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-04-12T00:00:00",
+      "numDocumento": "1",
+      "valorDocumento": 250.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7735772.pdf",
+      "nomeFornecedor": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+      "cnpjCpfFornecedor": "33488393000183",
+      "valorLiquido": 250.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2039715,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 8,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7797837,
+      "tipoDocumento": "Recibos/Outros",
+      "codTipoDocumento": 1,
+      "dataDocumento": "2024-08-21T00:00:00",
+      "numDocumento": "216756",
+      "valorDocumento": 149.9,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7797837.pdf",
+      "nomeFornecedor": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+      "cnpjCpfFornecedor": "33488393000183",
+      "valorLiquido": 149.9,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2071363,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7827779,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-10-05T00:00:00",
+      "numDocumento": "218515",
+      "valorDocumento": 149.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7827779.pdf",
+      "nomeFornecedor": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+      "cnpjCpfFornecedor": "33488393000183",
+      "valorLiquido": 149.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2087652,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7846560,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-11-06T00:00:00",
+      "numDocumento": "218515",
+      "valorDocumento": 149.9,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7846560.pdf",
+      "nomeFornecedor": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+      "cnpjCpfFornecedor": "33488393000183",
+      "valorLiquido": 149.9,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2097841,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7771953,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-06-07T00:00:00",
+      "numDocumento": "326030",
+      "valorDocumento": 149.9,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7771953.pdf",
+      "nomeFornecedor": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+      "cnpjCpfFornecedor": "33488393000183",
+      "valorLiquido": 149.9,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2058406,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 9,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7814015,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-09-07T00:00:00",
+      "numDocumento": "571535",
+      "valorDocumento": 149.9,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7814015.pdf",
+      "nomeFornecedor": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+      "cnpjCpfFornecedor": "33488393000183",
+      "valorLiquido": 149.9,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2080309,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7787548,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-07-13T00:00:00",
+      "numDocumento": "786716",
+      "valorDocumento": 149.9,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7787548.pdf",
+      "nomeFornecedor": "BRASIL ADM E SERVIÇOS DE COBRANÇA",
+      "cnpjCpfFornecedor": "33488393000183",
+      "valorLiquido": 149.9,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2065960,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

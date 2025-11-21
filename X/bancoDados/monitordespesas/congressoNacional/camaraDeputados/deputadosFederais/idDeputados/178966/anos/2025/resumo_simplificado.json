@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 178966,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178966",
+    "nome": "Geovania de Sá",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "SC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178966.jpg",
+    "email": "dep.geovaniadesa@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 116598.15,
+  "quantidade_transacoes": 251,
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 59425.2,
+      "quantidade_transacoes": 197,
+      "porcentagem_do_total": 50.97
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 57172.95,
+      "quantidade_transacoes": 54,
+      "porcentagem_do_total": 49.03
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "SÃO LUIZ ADMINISTRADORA DE BENS LTDA",
+      "cnpj": "18486355000106",
+      "total": 30000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 25.73
+    },
+    {
+      "nome": "SOCIEDADE ABAST. SANTA BARBARA LTDA",
+      "cnpj": "83650655000132",
+      "total": 26138.04,
+      "quantidade_transacoes": 93,
+      "porcentagem_do_total": 22.42
+    },
+    {
+      "nome": "CONTÉM LUZ COMÉRCIO DE ILUMINAÇÃO LTDA",
+      "cnpj": "53766312000177",
+      "total": 8792.8,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 7.54
+    },
+    {
+      "nome": "CONDOMINIO NUCLEO EMPRESARIAL UNO",
+      "cnpj": "80168685000119",
+      "total": 5940.09,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 5.09
+    },
+    {
+      "nome": "ASK TECNOLOGIA E COMUNICACAO",
+      "cnpj": "53088411000147",
+      "total": 5599.29,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 4.8
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS 206 LTDA",
+      "cnpj": "40084269000118",
+      "total": 3945.66,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 3.38
+    },
+    {
+      "nome": "SILVANO PAPELARIA DECORACOES E MODA MASCULINA LTDA",
+      "cnpj": "43428378000101",
+      "total": 2207.9,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.89
+    },
+    {
+      "nome": "EMIDIO SOUTO PEREIRA",
+      "cnpj": "13345728000105",
+      "total": 1896.7,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 1.63
+    },
+    {
+      "nome": "LC COMERCIO E DISTRIBUICAO DE COMBUSTIVEIS LTDA",
+      "cnpj": "05007710000167",
+      "total": 1886.17,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 1.62
+    },
+    {
+      "nome": "POSTO IBIRAQUERA LTDA",
+      "cnpj": "78525490000137",
+      "total": 1348.27,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.16
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 6223.47,
+      "porcentagem_do_total": 5.34
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 7360.75,
+      "porcentagem_do_total": 6.31
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 11103.28,
+      "porcentagem_do_total": 9.52
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 10524.61,
+      "porcentagem_do_total": 9.03
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 13683.66,
+      "porcentagem_do_total": 11.74
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 12919.68,
+      "porcentagem_do_total": 11.08
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 13705.69,
+      "porcentagem_do_total": 11.75
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 14138.25,
+      "porcentagem_do_total": 12.13
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 14614.03,
+      "porcentagem_do_total": 12.53
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 11636.09,
+      "porcentagem_do_total": 9.98
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 688.64,
+      "porcentagem_do_total": 0.59
+    }
+  ]
+}

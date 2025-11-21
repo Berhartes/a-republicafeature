@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 74057,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
+    "nome": "Alice Portugal",
+    "siglaPartido": "PCdoB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+    "email": "dep.aliceportugal@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 408328.63,
+  "quantidade_transacoes": 153,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 310180.5,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 75.96
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 84163.45,
+      "quantidade_transacoes": 73,
+      "porcentagem_do_total": 20.61
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 13984.68,
+      "quantidade_transacoes": 62,
+      "porcentagem_do_total": 3.42
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ON - Z IMPRESSAO, DIVULGACAO & MARKETING DIGITAL LTDA",
+      "cnpj": "49870873000144",
+      "total": 186672.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 45.72
+    },
+    {
+      "nome": "MAXIMA IMPRESSAO RAPIDO, MARKETING DIGITAL & DIVULGACAO LT",
+      "cnpj": "29781642000157",
+      "total": 63008.5,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 15.43
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 31689.37,
+      "quantidade_transacoes": 37,
+      "porcentagem_do_total": 7.76
+    },
+    {
+      "nome": "LIBRE COMUNICAÇÃO E MARKETING EIRELI",
+      "cnpj": "08345631000154",
+      "total": 30000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 7.35
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 28397.08,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 6.95
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 24077.0,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 5.9
+    },
+    {
+      "nome": "AGÊNCIA CACTUS LTDA",
+      "cnpj": "31480804000169",
+      "total": 20000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.9
+    },
+    {
+      "nome": "THRUST MARKETING LTDA",
+      "cnpj": "37975161000100",
+      "total": 10500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.57
+    },
+    {
+      "nome": "POSTO UNIVERSITARIO LTDA",
+      "cnpj": "38276019000138",
+      "total": 1613.57,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 0.4
+    },
+    {
+      "nome": "POSTO KALILANDIA LTDA",
+      "cnpj": "15151046000502",
+      "total": 1409.25,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 0.35
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 38232.09,
+      "porcentagem_do_total": 9.36
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 47509.22,
+      "porcentagem_do_total": 11.64
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 50296.79,
+      "porcentagem_do_total": 12.32
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 48649.13,
+      "porcentagem_do_total": 11.91
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 37447.58,
+      "porcentagem_do_total": 9.17
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 31843.5,
+      "porcentagem_do_total": 7.8
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 62519.04,
+      "porcentagem_do_total": 15.31
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 31822.78,
+      "porcentagem_do_total": 7.79
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 39998.5,
+      "porcentagem_do_total": 9.8
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 20010.0,
+      "porcentagem_do_total": 4.9
+    }
+  ]
+}

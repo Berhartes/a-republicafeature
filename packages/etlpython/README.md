@@ -11,6 +11,17 @@ Python implementation of the ETL pipeline for Câmara dos Deputados expenses dat
 
 ## 🚀 Quick Start
 
+> **⚠️ Importante**: Este pacote agora usa um ambiente virtual local. Veja [SETUP.md](./SETUP.md) para instruções completas de instalação.
+
+### Primeira vez? Execute a migração
+```bash
+cd packages/etlpython
+# Windows:
+.\migrate-venv.ps1
+# Linux/Mac:
+./migrate-venv.sh
+```
+
 ### Using pnpm (recommended)
 ```bash
 cd packages/etlpython
@@ -20,30 +31,69 @@ pnpm run etl:despesasdeputados:pc 57 10
 ### Using Python directly
 ```bash
 cd packages/etlpython
-python3 -m etlpython.sources.congresso_nacional.camara_deputados.cli 57 10
+# Ativar ambiente virtual primeiro
+source .venv/bin/activate  # Linux/Mac
+.venv\Scripts\activate     # Windows
+
+# Executar ETL via CLI unificado
+python -m etlpython camara 57 10
 ```
 
 ## 📝 Usage
 
 ```bash
-python3 -m etlpython.sources.congresso_nacional.camara_deputados.cli [legislatura] [limit] [--ano-inicio AAAA] [--ano-fim AAAA]
+python -m etlpython [subcomando] [opções]
 ```
 
-- **legislatura**: Legislature number (default: 57)
-- **limit**: Maximum number of deputados to process (optional)
-- **--ano-inicio / --ano-fim**: Restrict the extraction to a specific range of years
+Subcomandos principais:
+
+- `camara` – executa o ETL completo da Câmara (mesmos argumentos do CLI anterior)
+- `contracts` – exporta ou valida contratos (`python -m etlpython contracts validate --live`)
+- `materialize` – gera caches unified/paginated com parâmetros explícitos
+
+#### Contract Gate (local)
+
+```bash
+# Validar contratos em modo live
+pnpm run contracts:validate
+
+# Regerar schemas oficiais
+pnpm run contracts:export
+```
+
+#### Run manifest
+
+Cada execução do subcomando `camara` gera um histórico em `bancoDados/monitordespesas/_etl-run-manifest.json` com:
+
+- parâmetros usados (anos, legislatura, flags)
+- hash/size dos principais artefatos (`manifest.json`, `fornecedores.json`, `monitordespesas.db`)
+- metadados do git (commit/branch/diferenças) e tempo total
+
+Os eventos intermediários ficam disponíveis em `bancoDados/monitordespesas/_etl-run.log.jsonl`, facilitando observabilidade e auditoria.
+
+#### Datalake particionado
+
+```bash
+# Reorganiza bruto/agregado por legislatura/ano e gera manifest com hashes
+pnpm run datalake:partition
+
+# Valida integridade com base no `_datalake-manifest.json`
+pnpm run datalake:verify
+```
+
+Os dados ficam em `bancoDados/monitordespesas/datalake/legislatura-XX/ano-YYYY/{bruto,agregado}` com hash SHA256 de cada arquivo registrado no `_datalake-manifest.json`.
 
 ### Examples
 
 ```bash
 # Process all deputados from legislature 57
-python3 -m etlpython.sources.congresso_nacional.camara_deputados.cli 57
+python -m etlpython camara 57
 
 # Process only first 10 deputados from legislature 57
-python3 -m etlpython.sources.congresso_nacional.camara_deputados.cli 57 10
+python -m etlpython camara 57 10
 
 # Process first 5 deputados from legislature 56, anos 2022–2023
-python3 -m etlpython.sources.congresso_nacional.camara_deputados.cli 56 5 --ano-inicio 2022 --ano-fim 2023
+python -m etlpython camara 56 5 --ano-inicio 2022 --ano-fim 2023
 ```
 
 ## 🧱 Materializar fornecedores existentes
@@ -51,22 +101,71 @@ python3 -m etlpython.sources.congresso_nacional.camara_deputados.cli 56 5 --ano-
 Replicando o comando `materialize:unified` da versão TypeScript:
 
 ```bash
-# Via pnpm
-pnpm run etl:materialize:unified -- --dataset bancoDados/monitordespesas/fornecedores/fornecedores.json --cache-output packages/monitor-despesas-next/public/cache
+# Via pnpm (script legado permanece disponível)
+pnpm run etl:materialize:unified
 
-# Via Python
-python3 -m etlpython.cli.materialize_unified --dataset bancoDados/monitordespesas/fornecedores/fornecedores.json --cache-output packages/monitor-despesas-next/public/cache
+# Via CLI unificado
+python -m etlpython materialize \
+  --tipo unified \
+  --suppliers-file bancoDados/monitordespesas/congressoNacional/camaraDeputados/fornecedores.json \
+  --deputies-dir bancoDados/monitordespesas/congressoNacional/camaraDeputados/deputadosFederais/idDeputados \
+  --output-dir packages/monitor-despesas-next/public/cache
 ```
 
-Opções disponíveis:
+**Cache Manifest**: A materialização unified gera automaticamente um arquivo `caches-manifest.json` que contém metadados de todos os arquivos cache gerados (hash SHA256, tamanho, path público, etc.). Este manifest permite validação de integridade e versionamento dos caches.
 
-- `--dataset <caminho>`: arquivo JSON de fornecedores (se não informado tenta descobrir automaticamente)
-- `--output <caminho>`: caminho do SQLite gerado (default `bancoDados/monitordespesas/monitordespesas.db`)
-- `--dry-run`: apenas valida o dataset e exibe o resumo, sem criar o arquivo
-- `--cache-output <dir>`: destino para os caches consumidos pelo frontend (default `packages/monitor-despesas-next/public/cache`)
-- `--legislatura <n>`: número da legislatura considerado nos metadados (default `57`)
-- `--cache-version <v>`: versão atribuída ao manifest/caches gerados (default `1.0.0`)
-- `--no-cache`: evita gerar arquivos de cache (útil para testes rápidos)
+## 📄 Materializar transações paginadas
+
+Gera caches paginados de transações com filtros por ano:
+
+```bash
+# Via pnpm
+pnpm run etl:materialize:paginated
+
+# Via CLI unificado
+python -m etlpython materialize \
+  --tipo paginated \
+  --transactions-dir packages/monitor-despesas-next/public/cache/transactions \
+  --incremental
+```
+
+**Cache Manifest Paginated**: Similar ao unified, o pipeline paginated também gera `caches-manifest.json` no diretório de saída, consolidando metadados de todos os arquivos de transações paginadas (por deputado, fornecedor e ano).
+
+Opções principais (podem ser combinadas nos subcomandos `materialize`):
+
+- `--suppliers-file` / `--deputies-dir` – caminhos de entrada explícitos
+- `--output-dir` / `--transactions-dir` – destino dos caches unificados/paginados
+- `--anos 2019-2024,2026` – restringe a materialização para anos específicos
+- `--incremental` + `--force-year` – controles do modo incremental dos caches paginados
+- `--limit-deputies` / `--limit-suppliers` – atalhos para rodadas de teste
+
+## 🧪 Testes de Snapshot
+
+Para garantir a estabilidade dos pipelines de materialização, implementamos testes de snapshot que validam a consistência da geração de caches:
+
+```bash
+# Executar testes de snapshot
+pnpm run test -- test_materialize_snapshots.py
+
+# Ou diretamente com pytest
+cd packages/etlpython
+.\.venv\Scripts\python.exe -m pytest tests/test_materialize_snapshots.py -v
+```
+
+### Como funcionam os snapshots
+
+1. **Primeira execução**: Os testes rodam os pipelines (unified e paginated) com fixtures reduzidas e geram snapshots dos manifests em `tests/snapshots/`
+2. **Execuções subsequentes**: Os testes comparam os manifests gerados com os snapshots salvos
+3. **Normalização**: Os snapshots ignoram campos voláteis (timestamps, hashes que dependem de timestamps) e focam em campos estáveis (tamanhos de arquivo, estrutura)
+
+### Estrutura de fixtures
+
+As fixtures de teste estão em `tests/fixtures/materialize/`:
+- `fornecedores.json` - 2 fornecedores de exemplo
+- `deputadosFederais/idDeputados/000001/` - Deputado 1 com dados de 2023
+- `deputadosFederais/idDeputados/000002/` - Deputado 2 com dados de 2024
+
+Estas fixtures permitem testes rápidos e determinísticos sem depender de dados reais completos.
 
 ## 📊 Output
 
@@ -100,6 +199,8 @@ src/etlpython/
 - **rich** - Terminal formatting
 - **pydantic** - Data validation and settings
 
+Para detalhes completos sobre setup e dependências, veja [SETUP.md](./SETUP.md).
+
 ## 🆚 vs TypeScript Version
 
 | Feature | Python | TypeScript |
@@ -127,7 +228,7 @@ python3 -m pip install -e .
 
 Run with full package structure:
 ```bash
-python3 -m etlpython.cli.despesas 57 10
+python -m etlpython camara 57 10
 ```
 
 ## 📈 Future Enhancements

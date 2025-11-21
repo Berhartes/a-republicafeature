@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "RODOPOSTO BANDEIRANTES JUNDIAI LTDA",
+    "cnpj": "05304501000185",
+    "total_recebido": 345.5,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 230.24,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 230.24,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 230.24,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 230.24,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

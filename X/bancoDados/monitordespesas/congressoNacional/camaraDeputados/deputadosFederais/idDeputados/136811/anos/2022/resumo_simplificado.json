@@ -1,0 +1,41 @@
+{
+  "deputado": {
+    "id": 136811,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+    "nome": "Afonso Hamm",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "RS",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+    "email": "dep.afonsohamm@camara.leg.br"
+  },
+  "ano": 2022,
+  "total_gasto": 8700.0,
+  "quantidade_transacoes": 2,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 8700.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "LIZIANE QUEVEDO",
+      "cnpj": "07086926000190",
+      "total": 8700.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 8700.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:21.160317"
+    "generatedAt": "2025-11-11T05:22:38.593997"
   },
   "categorias": {
     "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 12000.0
@@ -25,6 +25,7 @@
         "id": 220576,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220576",
         "nome": "Alfredo Gaspar",
+        "nomeEleitoral": "Alfredo Gaspar",
         "siglaPartido": "UNIÃO",
         "uriPartido": "",
         "siglaUf": "AL",
@@ -37,15 +38,15 @@
       "despesas": [
         {
           "ano": 2023,
-          "mes": 5,
+          "mes": 3,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7548106,
+          "codDocumento": 7524286,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-05-15T00:00:00",
-          "numDocumento": "741",
+          "dataDocumento": "2023-04-06T00:00:00",
+          "numDocumento": "732",
           "valorDocumento": 4000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3538/2023/7548106.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3538/2023/7524286.pdf",
           "nomeFornecedor": "MESCLA CONTEÚDO ESTRATÉGICO E CONSULTORIA LTDA -ME",
           "cnpjCpfFornecedor": "20692157000132",
           "valorLiquido": 4000.0,
@@ -75,15 +76,15 @@
         },
         {
           "ano": 2023,
-          "mes": 3,
+          "mes": 5,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7524286,
+          "codDocumento": 7548106,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-04-06T00:00:00",
-          "numDocumento": "732",
+          "dataDocumento": "2023-05-15T00:00:00",
+          "numDocumento": "741",
           "valorDocumento": 4000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3538/2023/7524286.pdf",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3538/2023/7548106.pdf",
           "nomeFornecedor": "MESCLA CONTEÚDO ESTRATÉGICO E CONSULTORIA LTDA -ME",
           "cnpjCpfFornecedor": "20692157000132",
           "valorLiquido": 4000.0,

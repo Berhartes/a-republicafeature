@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 204504,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204504",
+    "nome": "Cezinha de Madureira",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
+    "email": "dep.cezinhademadureira@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 508984.21,
+  "quantidade_transacoes": 331,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 188625.0,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 37.06
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 138613.0,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 27.23
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 87381.8,
+      "quantidade_transacoes": 117,
+      "porcentagem_do_total": 17.17
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 41598.68,
+      "quantidade_transacoes": 131,
+      "porcentagem_do_total": 8.17
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 26612.52,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 5.23
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAXCO LOCADORA DE BENS LTDA",
+      "cnpj": "06269793000125",
+      "total": 138613.0,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 27.23
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 78005.18,
+      "quantidade_transacoes": 101,
+      "porcentagem_do_total": 15.33
+    },
+    {
+      "nome": "Vision Comunicacao Integrada Ltda",
+      "cnpj": "49037105000104",
+      "total": 77000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 15.13
+    },
+    {
+      "nome": "RONIER BARRETO TEIXEIRA DE SOUZA PRODUÇÕES",
+      "cnpj": "37532473000140",
+      "total": 38500.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 7.56
+    },
+    {
+      "nome": "SVM COPIAS E IMPRESSOS LTDA",
+      "cnpj": "30167066000131",
+      "total": 30625.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 6.02
+    },
+    {
+      "nome": "ANDERSON PEREIRA DE SOUZA DA COSTA 71454209100",
+      "cnpj": "45013622000192",
+      "total": 18000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 3.54
+    },
+    {
+      "nome": "Telefônica Brasil S.A. VIVO",
+      "cnpj": "02558157000162",
+      "total": 14033.88,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 2.76
+    },
+    {
+      "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597006308",
+      "total": 12921.84,
+      "quantidade_transacoes": 53,
+      "porcentagem_do_total": 2.54
+    },
+    {
+      "nome": "RICARDO DOMINGUEZ FEIJOO",
+      "cnpj": "01442290803",
+      "total": 12910.87,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.54
+    },
+    {
+      "nome": "VISION COMUNICACAO INTEGRADA LTDA",
+      "cnpj": "49037105000104",
+      "total": 11000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.16
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 7860.67,
+      "porcentagem_do_total": 1.54
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 23132.32,
+      "porcentagem_do_total": 4.54
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 39226.39,
+      "porcentagem_do_total": 7.71
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 27393.66,
+      "porcentagem_do_total": 5.38
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 41159.84,
+      "porcentagem_do_total": 8.09
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 32251.3,
+      "porcentagem_do_total": 6.34
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 35836.57,
+      "porcentagem_do_total": 7.04
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 49877.78,
+      "porcentagem_do_total": 9.8
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 50623.81,
+      "porcentagem_do_total": 9.95
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 55538.72,
+      "porcentagem_do_total": 10.91
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 83868.19,
+      "porcentagem_do_total": 16.48
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 62214.96,
+      "porcentagem_do_total": 12.22
+    }
+  ]
+}

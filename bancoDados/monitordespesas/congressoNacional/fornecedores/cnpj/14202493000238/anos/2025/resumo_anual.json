@@ -1,0 +1,216 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COPEVE COMERCIO DE PETROLEO E SERVICOS LTDA",
+      "cnpj": "14202493000238",
+      "total_recebido": 1741.3,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 1591.3,
+    "quantidade_transacoes": 7,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-01-16T00:00:00",
+    "periodo_fim": "2025-09-04T09:42:47",
+    "generatedAt": "2025-11-11T21:38:01.576007"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 1591.3,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1591.3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 266.47,
+      "porcentagem_do_total": 16.75
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 213.97,
+      "porcentagem_do_total": 13.45
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 200.0,
+      "porcentagem_do_total": 12.57
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 250.0,
+      "porcentagem_do_total": 15.71
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 660.86,
+      "porcentagem_do_total": 41.53
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 7,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7955183,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-07-29T12:07:17",
+      "numDocumento": "14000",
+      "valorDocumento": 200.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7955183",
+      "nomeFornecedor": "COPEVE COMERCIO DE PETROLEO E SERVICOS LTDA",
+      "cnpjCpfFornecedor": "14202493000238",
+      "valorLiquido": 200.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2157776,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7974227,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-09-01T10:58:28",
+      "numDocumento": "20284",
+      "valorDocumento": 290.76,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7974227",
+      "nomeFornecedor": "COPEVE COMERCIO DE PETROLEO E SERVICOS LTDA",
+      "cnpjCpfFornecedor": "14202493000238",
+      "valorLiquido": 290.76,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2168134,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7977226,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-09-04T09:42:47",
+      "numDocumento": "20814",
+      "valorDocumento": 370.1,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7977226",
+      "nomeFornecedor": "COPEVE COMERCIO DE PETROLEO E SERVICOS LTDA",
+      "cnpjCpfFornecedor": "14202493000238",
+      "valorLiquido": 370.1,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2169687,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7862690,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-01-16T08:46:28",
+      "numDocumento": "24013",
+      "valorDocumento": 166.47,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7862690",
+      "nomeFornecedor": "COPEVE COMERCIO DE PETROLEO E SERVICOS LTDA",
+      "cnpjCpfFornecedor": "14202493000238",
+      "valorLiquido": 166.47,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2106812,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7862674,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-01-16T00:00:00",
+      "numDocumento": "24014",
+      "valorDocumento": 100.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7862674",
+      "nomeFornecedor": "COPEVE COMERCIO DE PETROLEO E SERVICOS LTDA",
+      "cnpjCpfFornecedor": "14202493000238",
+      "valorLiquido": 100.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2106812,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7867539,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-02-12T11:20:38",
+      "numDocumento": "28606",
+      "valorDocumento": 213.97,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7867539",
+      "nomeFornecedor": "COPEVE COMERCIO DE PETROLEO E SERVICOS LTDA",
+      "cnpjCpfFornecedor": "14202493000238",
+      "valorLiquido": 213.97,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2109656,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7955191,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-08-01T13:50:29",
+      "numDocumento": "7297",
+      "valorDocumento": 250.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7955191",
+      "nomeFornecedor": "COPEVE COMERCIO DE PETROLEO E SERVICOS LTDA",
+      "cnpjCpfFornecedor": "14202493000238",
+      "valorLiquido": 250.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2157777,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

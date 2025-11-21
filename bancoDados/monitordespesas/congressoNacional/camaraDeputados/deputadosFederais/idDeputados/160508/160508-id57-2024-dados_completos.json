@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "legislador": {
+      "id": 160508,
+      "nome": "Afonso Florence",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160508",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160508.jpg",
+      "email": null,
+      "nomeEleitoral": "Afonso Florence",
+      "siglaPartido": "PT",
+      "siglaUf": "BA",
+      "totalDespesas": 1469.95,
+      "numeroDespesas": 1,
+      "legislatura": 57,
+      "ano": 2024
+    },
+    "generatedAt": "2025-11-11T05:22:14.950961",
+    "legisladorDetalhes": {
+      "dados": {
+        "id": 160508,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160508",
+        "nomeCivil": "AFONSO BANDEIRA FLORENCE",
+        "ultimoStatus": {
+          "id": 160508,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160508",
+          "nome": "Afonso Florence",
+          "siglaPartido": "PT",
+          "uriPartido": null,
+          "siglaUf": "BA",
+          "idLegislatura": 57,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160508.jpg",
+          "email": null,
+          "data": "2025-07-17",
+          "nomeEleitoral": "Afonso Florence",
+          "gabinete": {
+            "nome": null,
+            "predio": null,
+            "sala": null,
+            "andar": null,
+            "telefone": null,
+            "email": null
+          },
+          "situacao": "Licença",
+          "condicaoEleitoral": "Titular",
+          "descricaoStatus": ""
+        },
+        "cpf": "17734150500",
+        "sexo": "M",
+        "urlWebsite": null,
+        "redeSocial": [],
+        "dataNascimento": "1960-10-15",
+        "dataFalecimento": null,
+        "ufNascimento": "BA",
+        "municipioNascimento": "Salvador",
+        "escolaridade": "Mestrado"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/160508"
+        }
+      ]
+    }
+  },
+  "ano": 2024,
+  "despesas": [
+    {
+      "ano": 2024,
+      "mes": 12,
+      "valorDocumento": 1469.95,
+      "valorLiquido": 1469.95,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "nomeFornecedor": "TAM",
+      "codDocumento": 295561,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-12-05T12:00:00",
+      "numDocumento": "9572210689482",
+      "urlDocumento": null,
+      "cnpjCpfFornecedor": "",
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ]
+}

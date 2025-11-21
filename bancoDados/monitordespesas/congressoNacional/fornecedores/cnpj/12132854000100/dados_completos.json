@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+      "cnpj": "12132854000100",
+      "total_recebido": 8524.65,
+      "numero_transacoes": 8,
+      "numero_deputados": 3
+    },
+    "generatedAt": "2025-11-11T21:37:52.837484"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 8524.65
+  },
+  "anos": {
+    "2023": {
+      "total": 6970.5,
+      "transacoes": 5,
+      "deputados": 3
+    },
+    "2024": {
+      "total": 1554.15,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 1912.4,
+      "transacoes": 4,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7508454,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-03-08T00:00:00",
+          "numDocumento": "4572",
+          "valorDocumento": 358.25,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7508454",
+          "nomeFornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+          "cnpjCpfFornecedor": "12132854000100",
+          "valorLiquido": 358.25,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1914067,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7792483,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-08-27T00:00:00",
+          "numDocumento": "5946",
+          "valorDocumento": 642.2,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7792483",
+          "nomeFornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+          "cnpjCpfFornecedor": "12132854000100",
+          "valorLiquido": 642.2,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2068539,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 12,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7850321,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-12-20T00:00:00",
+          "numDocumento": "6237",
+          "valorDocumento": 337.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7850321",
+          "nomeFornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+          "cnpjCpfFornecedor": "12132854000100",
+          "valorLiquido": 337.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2099771,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7700889,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-03-11T00:00:00",
+          "numDocumento": "5485",
+          "valorDocumento": 574.95,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7700889",
+          "nomeFornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+          "cnpjCpfFornecedor": "12132854000100",
+          "valorLiquido": 574.95,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2020721,
+          "parcela": 0
+        }
+      ]
+    },
+    "220714": {
+      "deputado": {
+        "id": 220714,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220714",
+        "nome": "Adail Filho",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+        "siglaUf": "AM",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
+        "email": "dep.adailfilho@camara.leg.br"
+      },
+      "total": 945.2,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7507335,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-03-08T00:00:00",
+          "numDocumento": "4574",
+          "valorDocumento": 945.2,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7507335",
+          "nomeFornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+          "cnpjCpfFornecedor": "12132854000100",
+          "valorLiquido": 945.2,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1913509,
+          "parcela": 0
+        }
+      ]
+    },
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 5667.05,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7541508,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-05-11T00:00:00",
+          "numDocumento": "4778",
+          "valorDocumento": 892.65,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7541508",
+          "nomeFornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+          "cnpjCpfFornecedor": "12132854000100",
+          "valorLiquido": 892.65,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1932814,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7621095,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-10-04T00:00:00",
+          "numDocumento": "5148",
+          "valorDocumento": 230.7,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7621095",
+          "nomeFornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+          "cnpjCpfFornecedor": "12132854000100",
+          "valorLiquido": 230.7,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1975625,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 12,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7659966,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-12-12T00:00:00",
+          "numDocumento": "5304",
+          "valorDocumento": 4543.7,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7659966",
+          "nomeFornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+          "cnpjCpfFornecedor": "12132854000100",
+          "valorLiquido": 4543.7,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1997543,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

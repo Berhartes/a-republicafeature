@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:30.441364"
+    "generatedAt": "2025-11-11T05:22:41.718578"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 692.04
@@ -25,6 +25,7 @@
         "id": 178927,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
         "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
         "siglaPartido": "PV",
         "uriPartido": "",
         "siglaUf": "PR",
@@ -35,25 +36,6 @@
       "total": 692.04,
       "transacoes": 3,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 7,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7783005,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-07-24T10:52:08",
-          "numDocumento": "16944",
-          "valorDocumento": 100.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7783005",
-          "nomeFornecedor": "MAHLE PURUNA COMERCIO DE COMBUSTIVEIS LTDA",
-          "cnpjCpfFornecedor": "46884558000188",
-          "valorLiquido": 100.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 5,
@@ -87,6 +69,25 @@
           "nomeFornecedor": "MAHLE PURUNA COMERCIO DE COMBUSTIVEIS LTDA",
           "cnpjCpfFornecedor": "46884558000188",
           "valorLiquido": 296.9,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7783005,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-24T10:52:08",
+          "numDocumento": "16944",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7783005",
+          "nomeFornecedor": "MAHLE PURUNA COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "46884558000188",
+          "valorLiquido": 100.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

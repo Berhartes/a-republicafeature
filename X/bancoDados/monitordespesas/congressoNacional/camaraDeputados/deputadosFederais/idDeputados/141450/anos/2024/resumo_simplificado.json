@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 141450,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141450",
+    "nome": "Hugo Leal",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141450.jpg",
+    "email": "dep.hugoleal@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 285200.5,
+  "quantidade_transacoes": 492,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 145046.59,
+      "quantidade_transacoes": 229,
+      "porcentagem_do_total": 50.86
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 66120.49,
+      "quantidade_transacoes": 55,
+      "porcentagem_do_total": 23.18
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 31111.29,
+      "quantidade_transacoes": 107,
+      "porcentagem_do_total": 10.91
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 20430.52,
+      "quantidade_transacoes": 41,
+      "porcentagem_do_total": 7.16
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 14419.94,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 5.06
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 93382.3,
+      "quantidade_transacoes": 188,
+      "porcentagem_do_total": 32.74
+    },
+    {
+      "nome": "MAINTENANCE COMERCIO E MANUTENCAO EM INFORMATICA LTDA",
+      "cnpj": "07749842000190",
+      "total": 39500.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 13.85
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 31965.12,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 11.21
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 19699.17,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 6.91
+    },
+    {
+      "nome": "Limport Vigilancia LTDA",
+      "cnpj": "10957856000103",
+      "total": 14419.94,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 5.06
+    },
+    {
+      "nome": "São Miguel",
+      "cnpj": "39617500000102",
+      "total": 8599.77,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 3.02
+    },
+    {
+      "nome": "AUTO POSTO PARQUE DO FLAMENGO LIMITADA",
+      "cnpj": "42363077000176",
+      "total": 7170.43,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 2.51
+    },
+    {
+      "nome": "AUTO POSTO BONSUCESSO LTDA",
+      "cnpj": "31124027000110",
+      "total": 5309.81,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 1.86
+    },
+    {
+      "nome": "LIGHT SERVICOS DE ELETRICIDADE S A",
+      "cnpj": "60444437000146",
+      "total": 4863.57,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.71
+    },
+    {
+      "nome": "Posto de Combustiveis Garantia Ltda (AGUAS CLARAS)",
+      "cnpj": "72578438000405",
+      "total": 4629.8,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 1.62
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 20.0,
+      "porcentagem_do_total": 0.01
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 9237.04,
+      "porcentagem_do_total": 3.24
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 22946.76,
+      "porcentagem_do_total": 8.05
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 18397.02,
+      "porcentagem_do_total": 6.45
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 34818.53,
+      "porcentagem_do_total": 12.21
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 21086.25,
+      "porcentagem_do_total": 7.39
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 11097.87,
+      "porcentagem_do_total": 3.89
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 21103.03,
+      "porcentagem_do_total": 7.4
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 18755.12,
+      "porcentagem_do_total": 6.58
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 36089.85,
+      "porcentagem_do_total": 12.65
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 54768.91,
+      "porcentagem_do_total": 19.2
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 36880.12,
+      "porcentagem_do_total": 12.93
+    }
+  ]
+}

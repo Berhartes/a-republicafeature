@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "GODRIVE",
+    "cnpj": "39786983001906",
+    "total_recebido": 41690.0,
+    "numero_transacoes": 11,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 7580.0,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 7580.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 7580.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 3790.0,
+      "porcentagem_do_total": 50.0
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 3790.0,
+      "porcentagem_do_total": 50.0
+    }
+  ]
+}

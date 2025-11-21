@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:30.484537"
+    "generatedAt": "2025-11-11T05:22:22.530387"
   },
   "categorias": {
     "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 9200.0
@@ -25,6 +25,7 @@
         "id": 204495,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204495",
         "nome": "Airton Faleiro",
+        "nomeEleitoral": "Airton Faleiro",
         "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "PA",
@@ -35,25 +36,6 @@
       "total": 9200.0,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2025,
-          "mes": 7,
-          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7970382,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-08-19T00:00:00",
-          "numDocumento": "45",
-          "valorDocumento": 4200.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3406/2025/7970382.pdf",
-          "nomeFornecedor": "EDIANDRA TAMIRES SOUSA DA SILVA",
-          "cnpjCpfFornecedor": "44130910000164",
-          "valorLiquido": 4200.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2025,
           "mes": 6,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "EDIANDRA TAMIRES SOUSA DA SILVA",
           "cnpjCpfFornecedor": "44130910000164",
           "valorLiquido": 5000.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7970382,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-19T00:00:00",
+          "numDocumento": "45",
+          "valorDocumento": 4200.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3406/2025/7970382.pdf",
+          "nomeFornecedor": "EDIANDRA TAMIRES SOUSA DA SILVA",
+          "cnpjCpfFornecedor": "44130910000164",
+          "valorLiquido": 4200.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

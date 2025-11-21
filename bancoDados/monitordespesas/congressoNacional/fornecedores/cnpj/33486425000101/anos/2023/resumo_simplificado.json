@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "MAXIMUM COMERCIO VAREJISTA DE DERIVADOS DE PETROLEO LTDA",
+    "cnpj": "33486425000101",
+    "total_recebido": 146.44,
+    "numero_transacoes": 1,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 146.44,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 146.44,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 146.44,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 146.44,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

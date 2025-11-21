@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "BATARA COMERCIO DE PETROLEO LTDA",
+      "cnpj": "11220341000199",
+      "total_recebido": 1852.2199999999998,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 550.0,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-02-12T00:00:00",
+    "periodo_fim": "2023-04-18T00:00:00",
+    "generatedAt": "2025-11-11T21:38:00.154006"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 550.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 550.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 450.0,
+      "porcentagem_do_total": 81.82
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 100.0,
+      "porcentagem_do_total": 18.18
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7497307,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-02-12T00:00:00",
+      "numDocumento": "1366071",
+      "valorDocumento": 250.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7497307",
+      "nomeFornecedor": "BATARA COMERCIO DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "11220341000199",
+      "valorLiquido": 250.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1908121,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7501739,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-02-19T00:00:00",
+      "numDocumento": "1367171",
+      "valorDocumento": 200.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7501739",
+      "nomeFornecedor": "BATARA COMERCIO DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "11220341000199",
+      "valorLiquido": 200.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1910459,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2023,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7529050,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-04-18T00:00:00",
+      "numDocumento": "1377300",
+      "valorDocumento": 100.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7529050",
+      "nomeFornecedor": "BATARA COMERCIO DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "11220341000199",
+      "valorLiquido": 100.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1925518,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

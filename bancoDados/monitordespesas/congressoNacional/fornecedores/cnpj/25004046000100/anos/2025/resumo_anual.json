@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO FENIX ODJ EIRELI",
+      "cnpj": "25004046000100",
+      "total_recebido": 502.2,
+      "numero_transacoes": 2,
+      "numero_deputados": 2
+    },
+    "ano": 2025,
+    "total_recebido": 302.2,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-02-25T18:24:37",
+    "periodo_fim": "2025-02-25T18:24:37",
+    "generatedAt": "2025-11-11T21:37:57.861010"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 302.2,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 302.2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 302.2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7874672,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-02-25T18:24:37",
+      "numDocumento": "63300",
+      "valorDocumento": 302.2,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7874672",
+      "nomeFornecedor": "AUTO POSTO FENIX ODJ LTDA",
+      "cnpjCpfFornecedor": "25004046000100",
+      "valorLiquido": 302.2,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2113493,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 204364,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204364",
+    "nome": "Eli Borges",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "TO",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204364.jpg",
+    "email": "dep.eliborges@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 131054.87,
+  "quantidade_transacoes": 402,
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 88633.72,
+      "quantidade_transacoes": 361,
+      "porcentagem_do_total": 67.63
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 42421.15,
+      "quantidade_transacoes": 41,
+      "porcentagem_do_total": 32.37
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "RIBEIRO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+      "cnpj": "09473531000176",
+      "total": 26712.75,
+      "quantidade_transacoes": 103,
+      "porcentagem_do_total": 20.38
+    },
+    {
+      "nome": "VALE IMÓVEIS - Sala 07",
+      "cnpj": "14242431000179",
+      "total": 25911.28,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 19.77
+    },
+    {
+      "nome": "Matsuse Comercio de Derivados de Petroleo Ltda",
+      "cnpj": "02503452000111",
+      "total": 14476.02,
+      "quantidade_transacoes": 55,
+      "porcentagem_do_total": 11.05
+    },
+    {
+      "nome": "DRA4 DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "19257042000130",
+      "total": 7051.31,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 5.38
+    },
+    {
+      "nome": "BROAD BRASIL LTDA",
+      "cnpj": "48949641000113",
+      "total": 3900.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 2.98
+    },
+    {
+      "nome": "PETROSHOP - COMERCIO DE COMBUSTIVEIS LTDA - ME",
+      "cnpj": "13716765000174",
+      "total": 3365.61,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 2.57
+    },
+    {
+      "nome": "CLÍNICA ODONTOLÓGICA INTEGRATO LTDA",
+      "cnpj": "10277166000103",
+      "total": 3150.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.4
+    },
+    {
+      "nome": "VALE IMÓVEIS - Sala 04",
+      "cnpj": "14242431000179",
+      "total": 3150.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.4
+    },
+    {
+      "nome": "E.A.R. PEREIRA COMBUSTIVEIS EIRELI",
+      "cnpj": "09275539000209",
+      "total": 2714.89,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 2.07
+    },
+    {
+      "nome": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.",
+      "cnpj": "25086034000171",
+      "total": 2040.58,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 1.56
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 10318.81,
+      "porcentagem_do_total": 7.87
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 14951.36,
+      "porcentagem_do_total": 11.41
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 11597.33,
+      "porcentagem_do_total": 8.85
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 13136.38,
+      "porcentagem_do_total": 10.02
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 12906.02,
+      "porcentagem_do_total": 9.85
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 12169.31,
+      "porcentagem_do_total": 9.29
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 13059.64,
+      "porcentagem_do_total": 9.97
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 13876.5,
+      "porcentagem_do_total": 10.59
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 14033.86,
+      "porcentagem_do_total": 10.71
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 12338.13,
+      "porcentagem_do_total": 9.41
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 2667.53,
+      "porcentagem_do_total": 2.04
+    }
+  ]
+}

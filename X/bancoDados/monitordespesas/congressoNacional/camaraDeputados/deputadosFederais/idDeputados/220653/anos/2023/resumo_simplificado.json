@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220653,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220653",
+    "nome": "Fábio Teruel",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220653.jpg",
+    "email": "dep.fabioteruel@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 326368.8,
+  "quantidade_transacoes": 598,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 101465.93,
+      "quantidade_transacoes": 301,
+      "porcentagem_do_total": 31.09
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 69595.0,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 21.32
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 67008.5,
+      "quantidade_transacoes": 51,
+      "porcentagem_do_total": 20.53
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - RPA",
+      "total": 33723.82,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 10.33
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 20692.08,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 6.34
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 65809.4,
+      "quantidade_transacoes": 252,
+      "porcentagem_do_total": 20.16
+    },
+    {
+      "nome": "DALETH VEICULOS LTDA EPP",
+      "cnpj": "04515963000189",
+      "total": 42000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 12.87
+    },
+    {
+      "nome": "Cia Aérea - TAM",
+      "cnpj": "02012862000160",
+      "total": 33723.82,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 10.33
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 32113.56,
+      "quantidade_transacoes": 43,
+      "porcentagem_do_total": 9.84
+    },
+    {
+      "nome": "NAAVA ASSESSORIA EMPRESARIAL LTDA",
+      "cnpj": "26086655000118",
+      "total": 18829.58,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 5.77
+    },
+    {
+      "nome": "PR NEWSWIRE LTDA",
+      "cnpj": "08678540000130",
+      "total": 16093.84,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 4.93
+    },
+    {
+      "nome": "E.LIFE MONITOR ESTUDOS DE MERCADO LTDA",
+      "cnpj": "06301219000107",
+      "total": 13798.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 4.23
+    },
+    {
+      "nome": "IK ECOSSITEMA DA INOVAÇÃO LTDA",
+      "cnpj": "09585500000107",
+      "total": 12027.51,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 3.69
+    },
+    {
+      "nome": "NAAAVA ASSESSORIA EMPRESARIAL LTDA",
+      "cnpj": "26086655000118",
+      "total": 11545.5,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.54
+    },
+    {
+      "nome": "DALETH VEICULOS LTDA",
+      "cnpj": "04515963000189",
+      "total": 11015.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.38
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 24271.72,
+      "porcentagem_do_total": 7.44
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 36776.02,
+      "porcentagem_do_total": 11.27
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 30739.13,
+      "porcentagem_do_total": 9.42
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 33983.28,
+      "porcentagem_do_total": 10.41
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 29409.8,
+      "porcentagem_do_total": 9.01
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 17710.22,
+      "porcentagem_do_total": 5.43
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 29278.65,
+      "porcentagem_do_total": 8.97
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 28653.32,
+      "porcentagem_do_total": 8.78
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 43256.15,
+      "porcentagem_do_total": 13.25
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 24127.56,
+      "porcentagem_do_total": 7.39
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 28162.95,
+      "porcentagem_do_total": 8.63
+    }
+  ]
+}

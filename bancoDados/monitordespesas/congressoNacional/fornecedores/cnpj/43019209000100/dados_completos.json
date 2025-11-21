@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GIOVANNA LEONEL DA SILVA LTDA",
+      "cnpj": "43019209000100",
+      "total_recebido": 250.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:55.222482"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": 250.0
+  },
+  "anos": {
+    "2023": {
+      "total": 250.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 250.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "codDocumento": 7609235,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-16T00:00:00",
+          "numDocumento": "1648",
+          "valorDocumento": 250.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7609235.pdf",
+          "nomeFornecedor": "GIOVANNA LEONEL DA SILVA LTDA",
+          "cnpjCpfFornecedor": "43019209000100",
+          "valorLiquido": 250.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1968815,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

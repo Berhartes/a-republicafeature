@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:21.174469"
+    "generatedAt": "2025-11-11T05:22:38.856921"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 527.0
@@ -25,6 +25,7 @@
         "id": 220576,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220576",
         "nome": "Alfredo Gaspar",
+        "nomeEleitoral": "Alfredo Gaspar",
         "siglaPartido": "UNIÃO",
         "uriPartido": "",
         "siglaUf": "AL",
@@ -35,25 +36,6 @@
       "total": 527.0,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7813267,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-09-25T00:00:00",
-          "numDocumento": "5404",
-          "valorDocumento": 277.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7813267",
-          "nomeFornecedor": "AUTO POSTO LAGOA CAFE",
-          "cnpjCpfFornecedor": "07886068000169",
-          "valorLiquido": 277.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 8,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "AUTO POSTO LAGOA CAFE",
           "cnpjCpfFornecedor": "07886068000169",
           "valorLiquido": 250.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7813267,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-25T00:00:00",
+          "numDocumento": "5404",
+          "valorDocumento": 277.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7813267",
+          "nomeFornecedor": "AUTO POSTO LAGOA CAFE",
+          "cnpjCpfFornecedor": "07886068000169",
+          "valorLiquido": 277.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -3,138 +3,53 @@
     "fornecedor": {
       "nome": "AUGUSTO URIAS DA CRUZ E FILHOS LTDA",
       "cnpj": "01138114000165",
-      "total_recebido": 1051.99,
-      "numero_transacoes": 5,
+      "total_recebido": 255.99,
+      "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:57.489895"
+    "generatedAt": "2025-11-11T05:22:28.290517"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 1051.99
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 255.99
   },
   "anos": {
-    "2023": {
-      "total": 153.94,
-      "transacoes": 1,
-      "deputados": 1
-    },
     "2024": {
-      "total": 581.48,
-      "transacoes": 3,
-      "deputados": 1
-    },
-    "2025": {
-      "total": 316.57,
+      "total": 255.99,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "221328": {
+    "204501": {
       "deputado": {
-        "id": 221328,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
-        "nome": "Adilson Barroso",
-        "siglaPartido": "PL",
+        "id": 204501,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204501",
+        "nome": "Alencar Santana",
+        "nomeEleitoral": "Alencar Santana",
+        "siglaPartido": "PT",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
-        "email": "dep.adilsonbarroso@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204501.jpg",
+        "email": "dep.alencarsantana@camara.leg.br"
       },
-      "total": 1051.99,
-      "transacoes": 5,
+      "total": 255.99,
+      "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7609534,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-09-14T00:00:00",
-          "numDocumento": "823359",
-          "valorDocumento": 153.94,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7609534.pdf",
-          "nomeFornecedor": "AUGUSTO URIAS DA CRUZ E FILHOS LTDA",
-          "cnpjCpfFornecedor": "01138114000165",
-          "valorLiquido": 153.94,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
           "ano": 2024,
-          "mes": 7,
+          "mes": 12,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7767858,
+          "codDocumento": 7846083,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-07-04T00:00:00",
-          "numDocumento": "1156822",
-          "valorDocumento": 183.48,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7767858",
+          "dataDocumento": "2024-12-06T14:13:38",
+          "numDocumento": "1345963",
+          "valorDocumento": 255.99,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7846083",
           "nomeFornecedor": "AUGUSTO URIAS DA CRUZ E FILHOS LTDA",
           "cnpjCpfFornecedor": "01138114000165",
-          "valorLiquido": 183.48,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 7,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7785723,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-07-27T00:00:00",
-          "numDocumento": "1190810",
-          "valorDocumento": 180.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7785723.pdf",
-          "nomeFornecedor": "AUGUSTO URIAS DA CRUZ E FILHOS LTDA",
-          "cnpjCpfFornecedor": "01138114000165",
-          "valorLiquido": 180.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 5,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7742974,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-05-21T00:00:00",
-          "numDocumento": "1105067",
-          "valorDocumento": 221.2,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7742974",
-          "nomeFornecedor": "AUGUSTO URIAS DA CRUZ E FILHOS LTDA",
-          "cnpjCpfFornecedor": "01138114000165",
-          "valorLiquido": 218.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7980410,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-09-05T00:00:00",
-          "numDocumento": "1726380",
-          "valorDocumento": 316.57,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7980410.pdf",
-          "nomeFornecedor": "AUGUSTO URIAS DA CRUZ E FILHOS LTDA",
-          "cnpjCpfFornecedor": "01138114000165",
-          "valorLiquido": 316.57,
+          "valorLiquido": 255.99,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

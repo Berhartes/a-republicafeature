@@ -1,0 +1,48 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO SAO CHARBEL LTDA",
+    "cnpj": "73468951000163",
+    "total_recebido": 1942.33,
+    "numero_transacoes": 9,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 1699.15,
+  "quantidade_transacoes": 8,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 1699.15,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1699.15,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 815.84,
+      "porcentagem_do_total": 48.01
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 635.33,
+      "porcentagem_do_total": 37.39
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 247.98,
+      "porcentagem_do_total": 14.59
+    }
+  ]
+}

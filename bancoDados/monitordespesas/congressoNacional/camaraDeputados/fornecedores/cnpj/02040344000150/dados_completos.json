@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "POSTO SIA 3 LTDA",
       "cnpj": "02040344000150",
-      "total_recebido": 286.29,
+      "total_recebido": 240.02,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:58:52.779140"
+    "generatedAt": "2025-11-11T05:22:30.059771"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 286.29
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 240.02
   },
   "anos": {
-    "2024": {
-      "total": 286.29,
+    "2023": {
+      "total": 240.02,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "178829": {
+    "204571": {
       "deputado": {
-        "id": 178829,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178829",
-        "nome": "Capitão Augusto",
-        "siglaPartido": "PL",
+        "id": 204571,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
+        "nome": "Alex Santana",
+        "nomeEleitoral": "Alex Santana",
+        "siglaPartido": "REPUBLICANOS",
         "uriPartido": "",
-        "siglaUf": "SP",
+        "siglaUf": "BA",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
-        "email": "dep.capitaoaugusto@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204571.jpg",
+        "email": "dep.alexsantana@camara.leg.br"
       },
-      "total": 286.29,
+      "total": 240.02,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2024,
-          "mes": 12,
+          "ano": 2023,
+          "mes": 9,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7838527,
+          "codDocumento": 7620477,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-12-02T00:00:00",
-          "numDocumento": "28981",
-          "valorDocumento": 286.29,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7838527",
+          "dataDocumento": "2023-09-21T00:00:00",
+          "numDocumento": "27348",
+          "valorDocumento": 240.02,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7620477",
           "nomeFornecedor": "POSTO SIA 3 LTDA",
           "cnpjCpfFornecedor": "02040344000150",
-          "valorLiquido": 286.29,
+          "valorLiquido": 240.02,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

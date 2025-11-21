@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:20.303838"
+    "generatedAt": "2025-11-11T05:22:16.352442"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 320.91999999999996
@@ -25,6 +25,7 @@
         "id": 136811,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
         "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -35,25 +36,6 @@
       "total": 320.91999999999996,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 10,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7638231,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-10-30T00:00:00",
-          "numDocumento": "784740",
-          "valorDocumento": 165.7,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7638231",
-          "nomeFornecedor": "POSTO DE COMB MOINHOS LTDA",
-          "cnpjCpfFornecedor": "19462797000177",
-          "valorLiquido": 165.7,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 5,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "POSTO DE COMB MOINHOS LTDA",
           "cnpjCpfFornecedor": "19462797000177",
           "valorLiquido": 155.22,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7638231,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-30T00:00:00",
+          "numDocumento": "784740",
+          "valorDocumento": 165.7,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7638231",
+          "nomeFornecedor": "POSTO DE COMB MOINHOS LTDA",
+          "cnpjCpfFornecedor": "19462797000177",
+          "valorLiquido": 165.7,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

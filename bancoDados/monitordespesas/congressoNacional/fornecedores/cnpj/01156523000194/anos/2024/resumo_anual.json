@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "JADE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "01156523000194",
+      "total_recebido": 821.01,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 821.01,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-03-11T00:00:00",
+    "periodo_fim": "2024-05-10T00:00:00",
+    "generatedAt": "2025-11-11T21:38:04.816009"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 821.01,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 821.01,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 476.96,
+      "porcentagem_do_total": 58.09
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 224.03,
+      "porcentagem_do_total": 27.29
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 120.02,
+      "porcentagem_do_total": 14.62
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7707103,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-03-22T00:00:00",
+      "numDocumento": "251447",
+      "valorDocumento": 256.3,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7707103",
+      "nomeFornecedor": "JADE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "01156523000194",
+      "valorLiquido": 256.3,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2023993,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7707100,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-03-11T00:00:00",
+      "numDocumento": "25777",
+      "valorDocumento": 220.66,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7707100",
+      "nomeFornecedor": "JADE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "01156523000194",
+      "valorLiquido": 220.66,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2023993,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7722236,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-04-09T00:00:00",
+      "numDocumento": "28567",
+      "valorDocumento": 224.03,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7722236",
+      "nomeFornecedor": "JADE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "01156523000194",
+      "valorLiquido": 224.03,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2032095,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 5,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7761375,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-05-10T00:00:00",
+      "numDocumento": "31193",
+      "valorDocumento": 120.02,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7761375",
+      "nomeFornecedor": "JADE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "01156523000194",
+      "valorLiquido": 120.02,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2053158,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

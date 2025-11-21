@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO MAHLE BRASIL COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "33360635000159",
+      "total_recebido": 1715.23,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:27.165623"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1715.23
+  },
+  "anos": {
+    "2023": {
+      "total": 618.69,
+      "transacoes": 4,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 1096.54,
+      "transacoes": 4,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178927": {
+      "deputado": {
+        "id": 178927,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
+        "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
+        "siglaPartido": "PV",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+        "email": "dep.alielmachado@camara.leg.br"
+      },
+      "total": 1715.23,
+      "transacoes": 8,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7498903,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-02-09T00:00:00",
+          "numDocumento": "204665",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7498903",
+          "nomeFornecedor": "POSTO MAHLE BRASIL COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "33360635000159",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7529693,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-18T00:00:00",
+          "numDocumento": "232224",
+          "valorDocumento": 268.69,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7529693",
+          "nomeFornecedor": "POSTO MAHLE BRASIL COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "33360635000159",
+          "valorLiquido": 268.69,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7576643,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-15T00:00:00",
+          "numDocumento": "262635",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7576643",
+          "nomeFornecedor": "POSTO MAHLE BRASIL COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "33360635000159",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7626756,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-03T00:00:00",
+          "numDocumento": "290064",
+          "valorDocumento": 50.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7626756",
+          "nomeFornecedor": "POSTO MAHLE BRASIL COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "33360635000159",
+          "valorLiquido": 50.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7708637,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-25T00:00:00",
+          "numDocumento": "361649",
+          "valorDocumento": 290.65,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7708637",
+          "nomeFornecedor": "POSTO MAHLE BRASIL COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "33360635000159",
+          "valorLiquido": 290.65,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7754495,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-10T16:03:52",
+          "numDocumento": "391732",
+          "valorDocumento": 301.91,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7754495",
+          "nomeFornecedor": "POSTO MAHLE BRASIL COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "33360635000159",
+          "valorLiquido": 301.91,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7782938,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-15T14:04:31",
+          "numDocumento": "405334",
+          "valorDocumento": 303.98,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7782938",
+          "nomeFornecedor": "POSTO MAHLE BRASIL COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "33360635000159",
+          "valorLiquido": 303.98,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7782981,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-25T17:16:06",
+          "numDocumento": "409863",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7782981",
+          "nomeFornecedor": "POSTO MAHLE BRASIL COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "33360635000159",
+          "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

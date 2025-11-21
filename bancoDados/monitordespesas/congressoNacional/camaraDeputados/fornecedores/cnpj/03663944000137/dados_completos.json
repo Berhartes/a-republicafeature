@@ -3,14 +3,14 @@
     "fornecedor": {
       "nome": "AUTO POSTO JAAL LT",
       "cnpj": "03663944000137",
-      "total_recebido": 321.6,
-      "numero_transacoes": 2,
+      "total_recebido": 430.6,
+      "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:57.507867"
+    "generatedAt": "2025-11-11T05:22:08.851807"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 321.6
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 430.6
   },
   "anos": {
     "2023": {
@@ -22,6 +22,11 @@
       "total": 133.02,
       "transacoes": 1,
       "deputados": 1
+    },
+    "2025": {
+      "total": 109.0,
+      "transacoes": 1,
+      "deputados": 1
     }
   },
   "deputados": {
@@ -30,15 +35,16 @@
         "id": 221328,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
         "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
-        "email": "dep.adilsonbarroso@camara.leg.br"
+        "email": null
       },
-      "total": 321.6,
-      "transacoes": 2,
+      "total": 430.6,
+      "transacoes": 3,
       "despesas": [
         {
           "ano": 2023,
@@ -73,6 +79,25 @@
           "nomeFornecedor": "AUTO POSTO JAAL LT",
           "cnpjCpfFornecedor": "03663944000137",
           "valorLiquido": 133.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 8005540,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-27T00:00:00",
+          "numDocumento": "276467",
+          "valorDocumento": 109.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/8005540.pdf",
+          "nomeFornecedor": "CENTRO AUTOMOTIVO SERRA AZUL LTDA",
+          "cnpjCpfFornecedor": "03663944000137",
+          "valorLiquido": 109.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "LOCATELLI DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "00781054000131",
+      "total_recebido": 229.09,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:53.954482"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 229.09
+  },
+  "anos": {
+    "2023": {
+      "total": 229.09,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 229.09,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7553234,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2023-04-16T00:00:00",
+          "numDocumento": "781029",
+          "valorDocumento": 229.09,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7553234",
+          "nomeFornecedor": "LOCATELLI DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "00781054000131",
+          "valorLiquido": 229.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1938961,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "transamerica primavera do leste -scp",
+    "cnpj": "41820336000188",
+    "total_recebido": 506.1,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 506.1,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 506.1,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 506.1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 506.1,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

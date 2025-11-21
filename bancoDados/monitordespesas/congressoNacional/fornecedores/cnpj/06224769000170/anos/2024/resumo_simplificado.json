@@ -1,0 +1,90 @@
+{
+  "fornecedor": {
+    "nome": "POSTO TOCANTINS LTDA",
+    "cnpj": "06224769000170",
+    "total_recebido": 8630.35,
+    "numero_transacoes": 47,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 4092.38,
+  "quantidade_transacoes": 24,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 4092.38,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 4092.38,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 160.91,
+      "porcentagem_do_total": 3.93
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 148.19,
+      "porcentagem_do_total": 3.62
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 500.0,
+      "porcentagem_do_total": 12.22
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 575.6,
+      "porcentagem_do_total": 14.07
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 400.0,
+      "porcentagem_do_total": 9.77
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 333.05,
+      "porcentagem_do_total": 8.14
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 341.84,
+      "porcentagem_do_total": 8.35
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 1007.87,
+      "porcentagem_do_total": 24.63
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 442.62,
+      "porcentagem_do_total": 10.82
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 182.3,
+      "porcentagem_do_total": 4.45
+    }
+  ]
+}

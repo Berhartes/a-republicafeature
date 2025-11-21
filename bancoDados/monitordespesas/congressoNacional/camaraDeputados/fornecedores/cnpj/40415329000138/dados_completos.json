@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:54.614594"
+    "generatedAt": "2025-11-11T05:22:30.281763"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 623.04
@@ -30,6 +30,7 @@
         "id": 204571,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
         "nome": "Alex Santana",
+        "nomeEleitoral": "Alex Santana",
         "siglaPartido": "REPUBLICANOS",
         "uriPartido": "",
         "siglaUf": "BA",
@@ -61,25 +62,6 @@
         },
         {
           "ano": 2025,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7991322,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-09-13T00:00:00",
-          "numDocumento": "227373",
-          "valorDocumento": 190.01,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7991322",
-          "nomeFornecedor": "DERIVADOS DE PETROLEO ITALIA LTDA",
-          "cnpjCpfFornecedor": "40415329000138",
-          "valorLiquido": 190.01,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
           "mes": 4,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7908596,
@@ -92,6 +74,25 @@
           "nomeFornecedor": "DERIVADOS DE PETROLEO ITALIA LTDA.",
           "cnpjCpfFornecedor": "40415329000138",
           "valorLiquido": 233.01,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7991322,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-09-13T00:00:00",
+          "numDocumento": "227373",
+          "valorDocumento": 190.01,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7991322",
+          "nomeFornecedor": "DERIVADOS DE PETROLEO ITALIA LTDA",
+          "cnpjCpfFornecedor": "40415329000138",
+          "valorLiquido": 190.01,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

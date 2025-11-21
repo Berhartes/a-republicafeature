@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ROTA COMBUSTIVEIS LTDA",
+      "cnpj": "32084893000278",
+      "total_recebido": 500.07,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:05.050008"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 500.07
+  },
+  "anos": {
+    "2024": {
+      "total": 500.07,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 500.07,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7785405,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-08-06T14:59:10",
+          "numDocumento": "83932",
+          "valorDocumento": 320.07,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7785405",
+          "nomeFornecedor": "ROTA COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "32084893000278",
+          "valorLiquido": 320.07,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2065225,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7825774,
+          "tipoDocumento": "Nota Fiscal Eletrônica",
+          "codTipoDocumento": 4,
+          "dataDocumento": "2024-11-03T19:33:20",
+          "numDocumento": "93457",
+          "valorDocumento": 180.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7825774",
+          "nomeFornecedor": "ROTA COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "32084893000278",
+          "valorLiquido": 180.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2086488,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

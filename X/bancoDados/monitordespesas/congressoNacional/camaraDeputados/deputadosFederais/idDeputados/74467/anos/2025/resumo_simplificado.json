@@ -1,0 +1,168 @@
+{
+  "deputado": {
+    "id": 74467,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74467",
+    "nome": "Damião Feliciano",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "PB",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74467.jpg",
+    "email": "dep.damiaofeliciano@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 398262.45,
+  "quantidade_transacoes": 120,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 190000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 47.71
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 77161.02,
+      "quantidade_transacoes": 91,
+      "porcentagem_do_total": 19.37
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 68998.43,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 17.32
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 61000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 15.32
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 1103.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.28
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "MAIS PROPAGANDA LTDA.",
+      "cnpj": "02773723000159",
+      "total": 171000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 42.94
+    },
+    {
+      "nome": "BEZERRA  BEZERRA LTDA",
+      "cnpj": "14903080000108",
+      "total": 68998.43,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 17.32
+    },
+    {
+      "nome": "SHEKINAH LOCACAO DE VEICULOS EIRELI",
+      "cnpj": "34300771000116",
+      "total": 61000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 15.32
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 33656.57,
+      "quantidade_transacoes": 40,
+      "porcentagem_do_total": 8.45
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 32889.4,
+      "quantidade_transacoes": 43,
+      "porcentagem_do_total": 8.26
+    },
+    {
+      "nome": "damata filmes ltda",
+      "cnpj": "17138369000168",
+      "total": 19000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.77
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 10615.05,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 2.67
+    },
+    {
+      "nome": "segpol serviços de segurança eletrônica ltda",
+      "cnpj": "11666572000120",
+      "total": 1103.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.28
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 28658.1,
+      "porcentagem_do_total": 7.2
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 52771.14,
+      "porcentagem_do_total": 13.25
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 44442.98,
+      "porcentagem_do_total": 11.16
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 43419.3,
+      "porcentagem_do_total": 10.9
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 40959.17,
+      "porcentagem_do_total": 10.28
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 46094.98,
+      "porcentagem_do_total": 11.57
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 66396.62,
+      "porcentagem_do_total": 16.67
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 34334.89,
+      "porcentagem_do_total": 8.62
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 34185.27,
+      "porcentagem_do_total": 8.58
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 7000.0,
+      "porcentagem_do_total": 1.76
+    }
+  ]
+}

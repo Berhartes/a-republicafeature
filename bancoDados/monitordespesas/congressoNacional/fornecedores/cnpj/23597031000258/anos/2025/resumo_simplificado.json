@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO VIA ESTRUTURAL LTDA - LAGO SUL",
+    "cnpj": "23597031000258",
+    "total_recebido": 1025.01,
+    "numero_transacoes": 3,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 875.01,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 875.01,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 875.01,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 500.0,
+      "porcentagem_do_total": 57.14
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 375.01,
+      "porcentagem_do_total": 42.86
+    }
+  ]
+}

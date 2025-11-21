@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 204409,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204409",
+    "nome": "Daniel Trzeciak",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "RS",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204409.jpg",
+    "email": "dep.danieltrzeciak@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 556771.81,
+  "quantidade_transacoes": 738,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 139054.47,
+      "quantidade_transacoes": 123,
+      "porcentagem_do_total": 24.98
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 136944.7,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 24.6
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 92743.96,
+      "quantidade_transacoes": 149,
+      "porcentagem_do_total": 16.66
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 90333.53,
+      "quantidade_transacoes": 220,
+      "porcentagem_do_total": 16.22
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 41989.99,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 7.54
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "SOM NA KAIXA COMÉRCIO DE ALARMES E SOM LTDA",
+      "cnpj": "04281529000181",
+      "total": 136944.7,
+      "quantidade_transacoes": 31,
+      "porcentagem_do_total": 24.6
+    },
+    {
+      "nome": "ED CHAFFE CORRETAGEM DE IMÓVEIS EIRELI",
+      "cnpj": "32865449000109",
+      "total": 72000.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 12.93
+    },
+    {
+      "nome": "VIGHOR EMPREENDIMENTOS LTDA",
+      "cnpj": "11018882000139",
+      "total": 44838.29,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 8.05
+    },
+    {
+      "nome": "AUXILIADORA PREDIAL LTDA. GRUPO AUXILIADORA PREDIAL",
+      "cnpj": "92780600000138",
+      "total": 34966.97,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 6.28
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 33606.57,
+      "quantidade_transacoes": 59,
+      "porcentagem_do_total": 6.04
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 32466.39,
+      "quantidade_transacoes": 58,
+      "porcentagem_do_total": 5.83
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 26671.0,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 4.79
+    },
+    {
+      "nome": "Pierre Cruz Veiga 00108710041",
+      "cnpj": "21751796000194",
+      "total": 25000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.49
+    },
+    {
+      "nome": "AUTO POSTO 303 NORTE LTDA",
+      "cnpj": "38194212000120",
+      "total": 8242.49,
+      "quantidade_transacoes": 36,
+      "porcentagem_do_total": 1.48
+    },
+    {
+      "nome": "F5 GRAFICA E SERIGRAFIA LTDA",
+      "cnpj": "26435812000153",
+      "total": 7680.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.38
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 42178.49,
+      "porcentagem_do_total": 7.58
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 44792.27,
+      "porcentagem_do_total": 8.04
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 59723.39,
+      "porcentagem_do_total": 10.73
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 42697.67,
+      "porcentagem_do_total": 7.67
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 40809.49,
+      "porcentagem_do_total": 7.33
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 44265.83,
+      "porcentagem_do_total": 7.95
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 46052.59,
+      "porcentagem_do_total": 8.27
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 39310.95,
+      "porcentagem_do_total": 7.06
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 43210.01,
+      "porcentagem_do_total": 7.76
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 30513.17,
+      "porcentagem_do_total": 5.48
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 46575.84,
+      "porcentagem_do_total": 8.37
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 76642.11,
+      "porcentagem_do_total": 13.77
+    }
+  ]
+}

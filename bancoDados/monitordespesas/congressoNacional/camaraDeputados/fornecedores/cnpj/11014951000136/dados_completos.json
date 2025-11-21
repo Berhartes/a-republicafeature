@@ -1,54 +1,55 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "O BOHEMIO BAR E RESTAURANTE LTDA:11014951000136",
+      "nome": "O BOHEMIO BAR E RESTAURANTE LTDA:11014951000",
       "cnpj": "11014951000136",
-      "total_recebido": 53.0,
+      "total_recebido": 45.0,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:58:22.642260"
+    "generatedAt": "2025-11-11T05:22:27.416296"
   },
   "categorias": {
-    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 53.0
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 45.0
   },
   "anos": {
-    "2023": {
-      "total": 53.0,
+    "2024": {
+      "total": 45.0,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "160538": {
+    "160559": {
       "deputado": {
-        "id": 160538,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160538",
-        "nome": "Bohn Gass",
-        "siglaPartido": "PT",
+        "id": 160559,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160559",
+        "nome": "Alceu Moreira",
+        "nomeEleitoral": "Alceu Moreira",
+        "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "RS",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160538.jpg",
-        "email": "dep.bohngass@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
+        "email": "dep.alceumoreira@camara.leg.br"
       },
-      "total": 53.0,
+      "total": 45.0,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 3,
+          "ano": 2024,
+          "mes": 11,
           "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-          "codDocumento": 7514480,
+          "codDocumento": 7841424,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-03-20T00:00:00",
-          "numDocumento": "29241",
-          "valorDocumento": 53.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7514480",
-          "nomeFornecedor": "O BOHEMIO BAR E RESTAURANTE LTDA:11014951000136",
+          "dataDocumento": "2024-11-25T00:00:00",
+          "numDocumento": "48529",
+          "valorDocumento": 45.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7841424",
+          "nomeFornecedor": "O BOHEMIO BAR E RESTAURANTE LTDA:11014951000",
           "cnpjCpfFornecedor": "11014951000136",
-          "valorLiquido": 53.0,
+          "valorLiquido": 45.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

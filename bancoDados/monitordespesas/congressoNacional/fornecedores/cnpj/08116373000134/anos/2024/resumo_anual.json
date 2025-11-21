@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "C.C.D. DE SOUZA",
+      "cnpj": "08116373000134",
+      "total_recebido": 6000.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 6000.0,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-10-23T00:00:00",
+    "periodo_fim": "2024-12-12T00:00:00",
+    "generatedAt": "2025-11-11T21:37:59.371011"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 6000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 6000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 2000.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 2000.0,
+      "porcentagem_do_total": 33.33
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 2000.0,
+      "porcentagem_do_total": 33.33
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7846520,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-12-12T00:00:00",
+      "numDocumento": "19",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7846520.pdf",
+      "nomeFornecedor": "C.C.D. DE SOUZA",
+      "cnpjCpfFornecedor": "08116373000134",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2097785,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 11,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7846524,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-12-12T00:00:00",
+      "numDocumento": "20",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7846524.pdf",
+      "nomeFornecedor": "C.C.D. DE SOUZA",
+      "cnpjCpfFornecedor": "08116373000134",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2097788,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 9,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7828547,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-10-23T00:00:00",
+      "numDocumento": "18",
+      "valorDocumento": 2000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2024/7828547.pdf",
+      "nomeFornecedor": "CRIVEL COMUNICACAO LTDA",
+      "cnpjCpfFornecedor": "08116373000134",
+      "valorLiquido": 2000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2088103,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

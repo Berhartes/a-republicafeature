@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "RODOSNACK LANCHONETE E RESTAURANTE",
+      "cnpj": "09456714000183",
+      "total_recebido": 52.6,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 52.6,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-06-27T00:00:00",
+    "periodo_fim": "2024-07-05T00:00:00",
+    "generatedAt": "2025-11-11T21:38:05.439013"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 52.6,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 52.6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 39.7,
+      "porcentagem_do_total": 75.48
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 12.9,
+      "porcentagem_do_total": 24.52
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 6,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7767320,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-06-27T00:00:00",
+      "numDocumento": "136626",
+      "valorDocumento": 39.7,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7767320.pdf",
+      "nomeFornecedor": "RODOSNACK LANCHONETE E RESTAURANTE",
+      "cnpjCpfFornecedor": "09456714000183",
+      "valorLiquido": 39.7,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2056070,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2024,
+      "mes": 7,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7772637,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2024-07-05T00:00:00",
+      "numDocumento": "696726",
+      "valorDocumento": 12.9,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7772637.pdf",
+      "nomeFornecedor": "RODOSNACK LANCHONETE E RESTAURANTE",
+      "cnpjCpfFornecedor": "09456714000183",
+      "valorLiquido": 12.9,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2058732,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

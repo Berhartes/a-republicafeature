@@ -1,0 +1,90 @@
+{
+  "fornecedor": {
+    "nome": "auto posto bombonato ltda",
+    "cnpj": "96640362000116",
+    "total_recebido": 74340.12000000007,
+    "numero_transacoes": 360,
+    "numero_deputados": 1
+  },
+  "ano": 2025,
+  "total_recebido": 27110.93,
+  "quantidade_transacoes": 123,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 27110.93,
+      "quantidade_transacoes": 123,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 27110.93,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 715.13,
+      "porcentagem_do_total": 2.64
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 3232.1,
+      "porcentagem_do_total": 11.92
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 2201.8,
+      "porcentagem_do_total": 8.12
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 2294.33,
+      "porcentagem_do_total": 8.46
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 3657.81,
+      "porcentagem_do_total": 13.49
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 2803.49,
+      "porcentagem_do_total": 10.34
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 1722.93,
+      "porcentagem_do_total": 6.36
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 2862.42,
+      "porcentagem_do_total": 10.56
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 3023.2,
+      "porcentagem_do_total": 11.15
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 4597.72,
+      "porcentagem_do_total": 16.96
+    }
+  ]
+}

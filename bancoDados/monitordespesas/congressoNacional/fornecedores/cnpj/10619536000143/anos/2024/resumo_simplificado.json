@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "Auto posto takahashi",
+    "cnpj": "10619536000143",
+    "total_recebido": 749.28,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 368.84,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 368.84,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 368.84,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 368.84,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "deputados": [
+    {
+      "id": 123,
+      "nome": "Deputado Teste",
+      "nomeEleitoral": "Dep Teste",
+      "siglaPartido": "ABC",
+      "siglaUf": "SP",
+      "urlFoto": "https://via.placeholder.com/100x100.png?text=Dep",
+      "totalGasto": 100000,
+      "anos": [
+        { "ano": 2023, "total": 60000 },
+        { "ano": 2024, "total": 40000 }
+      ],
+      "gastosPorAno": { "2023": 60000, "2024": 40000 }
+    }
+  ]
+}

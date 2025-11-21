@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 220665,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220665",
+    "nome": "Clarissa Tércio",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "PE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220665.jpg",
+    "email": "dep.clarissatercio@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 346108.24,
+  "quantidade_transacoes": 208,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 146491.48,
+      "quantidade_transacoes": 52,
+      "porcentagem_do_total": 42.33
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 73530.3,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 21.24
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 70892.38,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 20.48
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 22787.69,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 6.58
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 19973.58,
+      "quantidade_transacoes": 76,
+      "porcentagem_do_total": 5.77
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ON OFF Marketing",
+      "cnpj": "21491555000153",
+      "total": 48000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 13.87
+    },
+    {
+      "nome": "DIRCEU DIAS DE FRANÇA LINS",
+      "cnpj": "02918607452",
+      "total": 44000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 12.71
+    },
+    {
+      "nome": "ROBSON EDUARDO MELLO OURO PRETO",
+      "cnpj": "33055300000127",
+      "total": 36000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 10.4
+    },
+    {
+      "nome": "TALENTOS LOCADORA DE VEICULOS LTDA",
+      "cnpj": "23782319000111",
+      "total": 35800.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 10.34
+    },
+    {
+      "nome": "HPE AUTOMOTORES DO BRASIL LTDA",
+      "cnpj": "46054009000186",
+      "total": 23172.38,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 6.7
+    },
+    {
+      "nome": "PATRICIA MORAIS DA SILVA 03627458460",
+      "cnpj": "32133276000134",
+      "total": 20000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 5.78
+    },
+    {
+      "nome": "ILA DE SOUZA CABRAL",
+      "cnpj": "61601152434",
+      "total": 15000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.33
+    },
+    {
+      "nome": "NASHE COMBUSTIVEIS LTDA",
+      "cnpj": "70090972000108",
+      "total": 13953.73,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 4.03
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 11920.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 3.44
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 11058.57,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 3.2
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 37399.11,
+      "porcentagem_do_total": 10.81
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 32148.98,
+      "porcentagem_do_total": 9.29
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 40158.53,
+      "porcentagem_do_total": 11.6
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 38767.01,
+      "porcentagem_do_total": 11.2
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 41468.01,
+      "porcentagem_do_total": 11.98
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 22740.36,
+      "porcentagem_do_total": 6.57
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 200.0,
+      "porcentagem_do_total": 0.06
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 64167.92,
+      "porcentagem_do_total": 18.54
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 69058.32,
+      "porcentagem_do_total": 19.95
+    }
+  ]
+}

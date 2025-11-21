@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Telefônica Brasil S.A. VIVO",
+      "cnpj": "02558157000162",
+      "total_recebido": 23072.21,
+      "numero_transacoes": 54,
+      "numero_deputados": 3
+    },
+    "ano": 2025,
+    "total_recebido": 5735.57,
+    "quantidade_transacoes": 8,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-01-22T00:00:00",
+    "periodo_fim": "2025-09-25T00:00:00",
+    "generatedAt": "2025-11-11T21:37:52.810483"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 5735.57,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "TELEFONIA",
+      "total": 5735.57,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 681.89,
+      "porcentagem_do_total": 11.89
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 681.89,
+      "porcentagem_do_total": 11.89
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 670.09,
+      "porcentagem_do_total": 11.68
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 711.89,
+      "porcentagem_do_total": 12.41
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 711.89,
+      "porcentagem_do_total": 12.41
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 732.17,
+      "porcentagem_do_total": 12.77
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 711.89,
+      "porcentagem_do_total": 12.41
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 833.86,
+      "porcentagem_do_total": 14.54
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 4,
+      "tipoDespesa": "TELEFONIA",
+      "codDocumento": 7910450,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-04-23T00:00:00",
+      "numDocumento": "68449192",
+      "valorDocumento": 726.34,
+      "urlDocumento": null,
+      "nomeFornecedor": "TELEFONIA BRASIL S/A",
+      "cnpjCpfFornecedor": "02558157000162",
+      "valorLiquido": 670.09,
+      "valorGlosa": 56.25,
+      "numRessarcimento": "",
+      "codLote": 2133125,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2025,
+      "mes": 8,
+      "tipoDespesa": "TELEFONIA",
+      "codDocumento": 7990124,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-08-25T00:00:00",
+      "numDocumento": "74099811",
+      "valorDocumento": 711.89,
+      "urlDocumento": null,
+      "nomeFornecedor": "Telefonica Brasil S.A",
+      "cnpjCpfFornecedor": "02558157000162",
+      "valorLiquido": 711.89,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2176199,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "TELEFONIA",
+      "codDocumento": 7890808,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-02-23T00:00:00",
+      "numDocumento": "00000683164470",
+      "valorDocumento": 681.89,
+      "urlDocumento": null,
+      "nomeFornecedor": "Telefônica Brasil S.A. VIVO",
+      "cnpjCpfFornecedor": "02558157000162",
+      "valorLiquido": 681.89,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2129747,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2025,
+      "mes": 6,
+      "tipoDespesa": "TELEFONIA",
+      "codDocumento": 7944833,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-06-23T00:00:00",
+      "numDocumento": "00000742267652",
+      "valorDocumento": 711.89,
+      "urlDocumento": null,
+      "nomeFornecedor": "TELEFÔNICA BRASIL S/A - VIVO",
+      "cnpjCpfFornecedor": "02558157000162",
+      "valorLiquido": 711.89,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2152279,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2025,
+      "mes": 5,
+      "tipoDespesa": "TELEFONIA",
+      "codDocumento": 7939009,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-05-24T00:00:00",
+      "numDocumento": "698504",
+      "valorDocumento": 711.89,
+      "urlDocumento": null,
+      "nomeFornecedor": "TELEFÔNICA BRASIL S/A - VIVO",
+      "cnpjCpfFornecedor": "02558157000162",
+      "valorLiquido": 711.89,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2149209,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2025,
+      "mes": 7,
+      "tipoDespesa": "TELEFONIA",
+      "codDocumento": 7961132,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-07-23T00:00:00",
+      "numDocumento": "72655185",
+      "valorDocumento": 791.87,
+      "urlDocumento": null,
+      "nomeFornecedor": "TELEFÔNICA BRASIL S/A - VIVO",
+      "cnpjCpfFornecedor": "02558157000162",
+      "valorLiquido": 732.17,
+      "valorGlosa": 59.7,
+      "numRessarcimento": "",
+      "codLote": 2160933,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2025,
+      "mes": 9,
+      "tipoDespesa": "TELEFONIA",
+      "codDocumento": 8004331,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-09-25T00:00:00",
+      "numDocumento": "75454348",
+      "valorDocumento": 833.86,
+      "urlDocumento": null,
+      "nomeFornecedor": "TELEFÔNICA BRASIL S/A - VIVO",
+      "cnpjCpfFornecedor": "02558157000162",
+      "valorLiquido": 833.86,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2183956,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    },
+    {
+      "ano": 2025,
+      "mes": 1,
+      "tipoDespesa": "TELEFONIA",
+      "codDocumento": 7875140,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-01-22T00:00:00",
+      "numDocumento": "64318721",
+      "valorDocumento": 681.89,
+      "urlDocumento": null,
+      "nomeFornecedor": "VIVO TELEFONIA BRASIL S/A",
+      "cnpjCpfFornecedor": "02558157000162",
+      "valorLiquido": 681.89,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2113755,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    }
+  ]
+}

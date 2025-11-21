@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO BOA VISTA LTDA",
+      "cnpj": "77488005001020",
+      "total_recebido": 1624.54,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:27.583787"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1624.54
+  },
+  "anos": {
+    "2024": {
+      "total": 150.0,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 1474.54,
+      "transacoes": 6,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178927": {
+      "deputado": {
+        "id": 178927,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
+        "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
+        "siglaPartido": "PV",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+        "email": "dep.alielmachado@camara.leg.br"
+      },
+      "total": 1624.54,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 1,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7688160,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-01-28T00:00:00",
+          "numDocumento": "323000",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7688160",
+          "nomeFornecedor": "POSTO BOA VISTA LTDA",
+          "cnpjCpfFornecedor": "77488005001020",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7944983,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-06T00:00:00",
+          "numDocumento": "716477",
+          "valorDocumento": 221.69,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7944983",
+          "nomeFornecedor": "POSTO BOA VISTA LTDA",
+          "cnpjCpfFornecedor": "77488005001020",
+          "valorLiquido": 221.69,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7983548,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-28T00:00:00",
+          "numDocumento": "13753",
+          "valorDocumento": 209.77,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7983548",
+          "nomeFornecedor": "POSTO BOA VISTA LTDA",
+          "cnpjCpfFornecedor": "77488005001020",
+          "valorLiquido": 209.77,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7983553,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-21T00:00:00",
+          "numDocumento": "10224",
+          "valorDocumento": 289.35,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7983553",
+          "nomeFornecedor": "POSTO BOA VISTA LTDA",
+          "cnpjCpfFornecedor": "77488005001020",
+          "valorLiquido": 289.35,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7994041,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-02T00:00:00",
+          "numDocumento": "30865",
+          "valorDocumento": 256.12,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7994041",
+          "nomeFornecedor": "POSTO BOA VISTA LTDA",
+          "cnpjCpfFornecedor": "77488005001020",
+          "valorLiquido": 256.12,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 8009796,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-22T00:00:00",
+          "numDocumento": "40707",
+          "valorDocumento": 281.99,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8009796",
+          "nomeFornecedor": "POSTO BOA VISTA LTDA",
+          "cnpjCpfFornecedor": "77488005001020",
+          "valorLiquido": 281.99,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 8009799,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-23T00:00:00",
+          "numDocumento": "41226",
+          "valorDocumento": 215.62,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8009799",
+          "nomeFornecedor": "POSTO BOA VISTA LTDA",
+          "cnpjCpfFornecedor": "77488005001020",
+          "valorLiquido": 215.62,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

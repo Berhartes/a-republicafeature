@@ -1,6 +1,5 @@
 
 import { CNPJValidator, CNPJValidationResult } from './cnpj-validator';
-import { SHA256 } from 'crypto-js';
 import { FornecedorBasico, FornecedorCnpjAlertPayload, FornecedorDadosOriginais } from '../types/fornecedores';
 
 export interface FornecedorAuditado {
@@ -289,7 +288,22 @@ export class CNPJAuditSystem {
         nomeOriginal: item.nomeOriginal
       }))
     );
-    return SHA256(dadosString).toString();
+
+    return this.fnv1a64(dadosString);
+  }
+
+  private fnv1a64(input: string): string {
+    const offsetBasis = 0xcbf29ce484222325n;
+    const prime = 0x100000001b3n;
+
+    let hash = offsetBasis;
+
+    for (let index = 0; index < input.length; index += 1) {
+      hash ^= BigInt(input.charCodeAt(index));
+      hash = (hash * prime) & 0xffffffffffffffffn;
+    }
+
+    return hash.toString(16).padStart(16, '0');
   }
   
   obterEstatisticasRapidas(): {

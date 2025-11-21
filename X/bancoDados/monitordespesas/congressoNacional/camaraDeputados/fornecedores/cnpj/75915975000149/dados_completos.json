@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "FOZ PRESIDENTE HOTEL LTDA",
+      "cnpj": "75915975000149",
+      "total_recebido": 1050.0,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:27.489271"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 1050.0
+  },
+  "anos": {
+    "2023": {
+      "total": 1050.0,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178927": {
+      "deputado": {
+        "id": 178927,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178927",
+        "nome": "Aliel Machado",
+        "nomeEleitoral": "Aliel Machado",
+        "siglaPartido": "PV",
+        "uriPartido": "",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+        "email": "dep.alielmachado@camara.leg.br"
+      },
+      "total": 1050.0,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7597368,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-24T00:00:00",
+          "numDocumento": "20239414",
+          "valorDocumento": 420.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2023/7597368.pdf",
+          "nomeFornecedor": "FOZ PRESIDENTE HOTEL LTDA",
+          "cnpjCpfFornecedor": "75915975000149",
+          "valorLiquido": 420.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7597836,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-13T00:00:00",
+          "numDocumento": "20239984",
+          "valorDocumento": 630.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2915/2023/7597836.pdf",
+          "nomeFornecedor": "FOZ PRESIDENTE HOTEL LTDA",
+          "cnpjCpfFornecedor": "75915975000149",
+          "valorLiquido": 630.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

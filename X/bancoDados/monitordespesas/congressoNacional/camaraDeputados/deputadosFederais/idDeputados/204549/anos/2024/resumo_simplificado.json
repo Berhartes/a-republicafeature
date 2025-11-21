@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 204549,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204549",
+    "nome": "AJ Albuquerque",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "CE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204549.jpg",
+    "email": "dep.ajalbuquerque@camara.leg.br"
+  },
+  "ano": 2024,
+  "total_gasto": 417110.81,
+  "quantidade_transacoes": 307,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 120000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 28.77
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 65000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 15.58
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 58427.7,
+      "quantidade_transacoes": 64,
+      "porcentagem_do_total": 14.01
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 53481.14,
+      "quantidade_transacoes": 198,
+      "porcentagem_do_total": 12.82
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 52601.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 12.61
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "MONT CAR",
+      "cnpj": "04874173000190",
+      "total": 120000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 28.77
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 52792.29,
+      "quantidade_transacoes": 61,
+      "porcentagem_do_total": 12.66
+    },
+    {
+      "nome": "GEVE COMINICAÇÃO LTDA",
+      "cnpj": "55969979000100",
+      "total": 28000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 6.71
+    },
+    {
+      "nome": "UNITED",
+      "cnpj": "00000000000010",
+      "total": 26301.6,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 6.31
+    },
+    {
+      "nome": "Booking",
+      "cnpj": "00000000000010",
+      "total": 24432.5,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.86
+    },
+    {
+      "nome": "PETROLEO MASSAPE",
+      "cnpj": "23484470000173",
+      "total": 18076.67,
+      "quantidade_transacoes": 65,
+      "porcentagem_do_total": 4.33
+    },
+    {
+      "nome": "REDE CEARÁ DE COMUNICAÇÃO",
+      "cnpj": "48595387000100",
+      "total": 17000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.08
+    },
+    {
+      "nome": "BOOKING.COM BRASIL SERVIÇOS DE RESERVA DE HOTEIS LTDA",
+      "cnpj": "10625931000139",
+      "total": 15613.5,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.74
+    },
+    {
+      "nome": "TERRAL TAXI AEREO LTDA EPP",
+      "cnpj": "01274847000127",
+      "total": 15000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.6
+    },
+    {
+      "nome": "AIRFRANCE",
+      "cnpj": "00000000000010",
+      "total": 12926.6,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.1
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 20649.29,
+      "porcentagem_do_total": 4.95
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 25101.81,
+      "porcentagem_do_total": 6.02
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 78029.3,
+      "porcentagem_do_total": 18.71
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 22242.75,
+      "porcentagem_do_total": 5.33
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 25872.65,
+      "porcentagem_do_total": 6.2
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 32519.34,
+      "porcentagem_do_total": 7.8
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 32274.25,
+      "porcentagem_do_total": 7.74
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 30772.57,
+      "porcentagem_do_total": 7.38
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 15445.44,
+      "porcentagem_do_total": 3.7
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 47816.41,
+      "porcentagem_do_total": 11.46
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 49920.21,
+      "porcentagem_do_total": 11.97
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 36466.79,
+      "porcentagem_do_total": 8.74
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GREEN'S ALIMENTOS LTDA",
+      "cnpj": "37124724000157",
+      "total_recebido": 227.41000000000003,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 227.41,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-05-31T00:00:00",
+    "periodo_fim": "2023-11-08T00:00:00",
+    "generatedAt": "2025-11-11T21:38:03.397011"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 227.41,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 227.41,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 40.8,
+      "porcentagem_do_total": 17.94
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 45.8,
+      "porcentagem_do_total": 20.14
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 95.01,
+      "porcentagem_do_total": 41.78
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 45.8,
+      "porcentagem_do_total": 20.14
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7556147,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-05-31T00:00:00",
+      "numDocumento": "447774",
+      "valorDocumento": 44.88,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7556147",
+      "nomeFornecedor": "GREEN'S ALIMENTOS LTDA",
+      "cnpjCpfFornecedor": "37124724000157",
+      "valorLiquido": 40.8,
+      "valorGlosa": 4.08,
+      "numRessarcimento": "",
+      "codLote": 1940999,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 8,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7602043,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-08-22T00:00:00",
+      "numDocumento": "469665",
+      "valorDocumento": 50.38,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7602043",
+      "nomeFornecedor": "GREEN'S ALIMENTOS LTDA",
+      "cnpjCpfFornecedor": "37124724000157",
+      "valorLiquido": 45.8,
+      "valorGlosa": 4.58,
+      "numRessarcimento": "",
+      "codLote": 1964849,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7618292,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-09-12T00:00:00",
+      "numDocumento": "474702",
+      "valorDocumento": 104.51,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7618292",
+      "nomeFornecedor": "GREEN'S ALIMENTOS LTDA",
+      "cnpjCpfFornecedor": "37124724000157",
+      "valorLiquido": 95.01,
+      "valorGlosa": 9.5,
+      "numRessarcimento": "",
+      "codLote": 1973985,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 11,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7639862,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-11-08T00:00:00",
+      "numDocumento": "488494",
+      "valorDocumento": 50.38,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7639862",
+      "nomeFornecedor": "GREEN'S ALIMENTOS LTDA",
+      "cnpjCpfFornecedor": "37124724000157",
+      "valorLiquido": 45.8,
+      "valorGlosa": 4.58,
+      "numRessarcimento": "",
+      "codLote": 1985801,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

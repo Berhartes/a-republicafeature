@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 204494,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+    "nome": "Fred Costa",
+    "siglaPartido": "PRD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+    "siglaUf": "MG",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+    "email": "dep.fredcosta@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 121574.19,
+  "quantidade_transacoes": 182,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 97395.94,
+      "quantidade_transacoes": 62,
+      "porcentagem_do_total": 80.11
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 24178.25,
+      "quantidade_transacoes": 120,
+      "porcentagem_do_total": 19.89
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "ERA EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+      "cnpj": "21096219000106",
+      "total": 57288.6,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 47.12
+    },
+    {
+      "nome": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA",
+      "cnpj": "22256978000151",
+      "total": 18791.47,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 15.46
+    },
+    {
+      "nome": "MUNICÍPIO DE BELO HORIZONTE",
+      "cnpj": "18715383000140",
+      "total": 4549.48,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 3.74
+    },
+    {
+      "nome": "MR COPIADORA DIGITAIS LTDA.",
+      "cnpj": "05222003000193",
+      "total": 4500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 3.7
+    },
+    {
+      "nome": "CLARO S.A",
+      "cnpj": "40432544011262",
+      "total": 4273.79,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 3.52
+    },
+    {
+      "nome": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597003112",
+      "total": 3629.94,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 2.99
+    },
+    {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+      "cnpj": "12132854000100",
+      "total": 2875.4,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 2.37
+    },
+    {
+      "nome": "Prefeitura de Belo Horizonte MG",
+      "cnpj": "18715383000735",
+      "total": 2274.83,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.87
+    },
+    {
+      "nome": "CEMIG DISTRIBUIÇÃO S.A.",
+      "cnpj": "06981180000116",
+      "total": 1892.27,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.56
+    },
+    {
+      "nome": "072 - 403 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597007290",
+      "total": 1862.57,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.53
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 12484.19,
+      "porcentagem_do_total": 10.27
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 18007.62,
+      "porcentagem_do_total": 14.81
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 6798.67,
+      "porcentagem_do_total": 5.59
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 10845.37,
+      "porcentagem_do_total": 8.92
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 14389.93,
+      "porcentagem_do_total": 11.84
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 15351.98,
+      "porcentagem_do_total": 12.63
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 6428.77,
+      "porcentagem_do_total": 5.29
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 11834.13,
+      "porcentagem_do_total": 9.73
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 12372.76,
+      "porcentagem_do_total": 10.18
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 9346.39,
+      "porcentagem_do_total": 7.69
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 3714.38,
+      "porcentagem_do_total": 3.06
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "RODOPOSTO BANDEIRANTES SUL LTDA",
+    "cnpj": "05289870000146",
+    "total_recebido": 685.78,
+    "numero_transacoes": 3,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 432.55,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 432.55,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 432.55,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 185.43,
+      "porcentagem_do_total": 42.87
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 247.12,
+      "porcentagem_do_total": 57.13
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO GASPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "17142572000612",
+      "total_recebido": 1529.0,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 950.0,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-01-06T23:55:39",
+    "periodo_fim": "2025-08-17T15:40:41",
+    "generatedAt": "2025-11-11T21:37:59.959016"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 950.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 950.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 150.0,
+      "porcentagem_do_total": 15.79
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 200.0,
+      "porcentagem_do_total": 21.05
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 300.0,
+      "porcentagem_do_total": 31.58
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 300.0,
+      "porcentagem_do_total": 31.58
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7860267,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-01-06T23:55:39",
+      "numDocumento": "1085429",
+      "valorDocumento": 150.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7860267",
+      "nomeFornecedor": "AUTO POSTO GASPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "17142572000612",
+      "valorLiquido": 150.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2105497,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7910678,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-04-27T17:20:09",
+      "numDocumento": "1132850",
+      "valorDocumento": 200.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7910678",
+      "nomeFornecedor": "AUTO POSTO GASPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "17142572000612",
+      "valorLiquido": 200.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2133250,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7924677,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-06-04T12:28:42",
+      "numDocumento": "1150374",
+      "valorDocumento": 300.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7924677",
+      "nomeFornecedor": "AUTO POSTO GASPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "17142572000612",
+      "valorLiquido": 300.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2140697,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2025,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7968206,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-08-17T15:40:41",
+      "numDocumento": "1180968",
+      "valorDocumento": 300.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7968206",
+      "nomeFornecedor": "AUTO POSTO GASPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "cnpjCpfFornecedor": "17142572000612",
+      "valorLiquido": 300.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2164935,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

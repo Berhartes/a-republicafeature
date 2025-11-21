@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T17:45:22Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "deputados.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "deputadoId": "220657"
+  },
+  "data": {
+    "id": "220657",
+    "nome": "André Fernandes",
+    "nomeEleitoral": "André Fernandes",
+    "nomeCivil": null,
+    "partido": "PL",
+    "siglaPartido": "PL",
+    "uf": "CE",
+    "siglaUf": "CE",
+    "urlFoto": null,
+    "totalDespesas": 627410.06,
+    "numeroDespesas": 510,
+    "fornecedoresIdentificados": 34,
+    "createdAt": "2025-11-01T17:45:19Z",
+    "gastosPorAno": {},
+    "transacoesPorAno": {},
+    "topCategorias": [],
+    "topFornecedores": [],
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "temDetalhes": false
+  }
+}

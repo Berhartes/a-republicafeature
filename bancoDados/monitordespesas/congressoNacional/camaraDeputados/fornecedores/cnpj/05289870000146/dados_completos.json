@@ -3,14 +3,14 @@
     "fornecedor": {
       "nome": "RODOPOSTO BANDEIRANTES SUL LTDA",
       "cnpj": "05289870000146",
-      "total_recebido": 939.04,
-      "numero_transacoes": 4,
+      "total_recebido": 1032.81,
+      "numero_transacoes": 5,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:57.511606"
+    "generatedAt": "2025-11-11T05:22:08.846806"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 939.04
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1032.81
   },
   "anos": {
     "2023": {
@@ -24,8 +24,8 @@
       "deputados": 1
     },
     "2025": {
-      "total": 253.26,
-      "transacoes": 1,
+      "total": 347.03,
+      "transacoes": 2,
       "deputados": 1
     }
   },
@@ -35,15 +35,16 @@
         "id": 221328,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
         "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
-        "email": "dep.adilsonbarroso@camara.leg.br"
+        "email": null
       },
-      "total": 939.04,
-      "transacoes": 4,
+      "total": 1032.81,
+      "transacoes": 5,
       "despesas": [
         {
           "ano": 2023,
@@ -59,25 +60,6 @@
           "nomeFornecedor": "RODOPOSTO BANDEIRANTES SUL LTDA",
           "cnpjCpfFornecedor": "05289870000146",
           "valorLiquido": 253.23,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2024,
-          "mes": 6,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7767271,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-06-27T00:00:00",
-          "numDocumento": "481952",
-          "valorDocumento": 247.12,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7767271.pdf",
-          "nomeFornecedor": "RODOPOSTO BANDEIRANTES SUL LTDA",
-          "cnpjCpfFornecedor": "05289870000146",
-          "valorLiquido": 247.12,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -103,6 +85,25 @@
           "parcela": 0
         },
         {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7767271,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-27T00:00:00",
+          "numDocumento": "481952",
+          "valorDocumento": 247.12,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7767271.pdf",
+          "nomeFornecedor": "RODOPOSTO BANDEIRANTES SUL LTDA",
+          "cnpjCpfFornecedor": "05289870000146",
+          "valorLiquido": 247.12,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
           "ano": 2025,
           "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
@@ -116,6 +117,25 @@
           "nomeFornecedor": "RODOPOSTO BANDEIRANTES SUL LTDA",
           "cnpjCpfFornecedor": "05289870000146",
           "valorLiquido": 253.26,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 8005543,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-24T00:00:00",
+          "numDocumento": "95775",
+          "valorDocumento": 93.77,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/8005543.pdf",
+          "nomeFornecedor": "RODOPOSTO BANDEIRANTES SUL LTDA",
+          "cnpjCpfFornecedor": "05289870000146",
+          "valorLiquido": 93.77,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

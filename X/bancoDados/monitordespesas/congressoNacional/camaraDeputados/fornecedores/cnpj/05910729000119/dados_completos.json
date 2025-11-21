@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO DE COMBUSTIVEIS MANGUEIRA",
+      "cnpj": "05910729000119",
+      "total_recebido": 300.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:31.168709"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 300.0
+  },
+  "anos": {
+    "2025": {
+      "total": 300.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178881": {
+      "deputado": {
+        "id": 178881,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178881",
+        "nome": "Aluisio Mendes",
+        "nomeEleitoral": "Aluisio Mendes",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
+        "email": "dep.aluisiomendes@camara.leg.br"
+      },
+      "total": 300.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7968785,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-02T19:26:23",
+          "numDocumento": "215789",
+          "valorDocumento": 300.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7968785",
+          "nomeFornecedor": "AUTO POSTO DE COMBUSTIVEIS MANGUEIRA",
+          "cnpjCpfFornecedor": "05910729000119",
+          "valorLiquido": 300.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

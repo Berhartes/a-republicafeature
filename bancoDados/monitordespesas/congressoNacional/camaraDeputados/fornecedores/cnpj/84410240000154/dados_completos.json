@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GRAMPOS OIAPOC LTDA",
+      "cnpj": "84410240000154",
+      "total_recebido": 194.49,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T05:22:06.897339"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 194.49
+  },
+  "anos": {
+    "2025": {
+      "total": 194.49,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204379": {
+      "deputado": {
+        "id": 204379,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204379",
+        "nome": "Acácio Favacho",
+        "nomeEleitoral": "Acácio Favacho",
+        "siglaPartido": "MDB",
+        "uriPartido": "",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204379.jpg",
+        "email": "dep.acaciofavacho@camara.leg.br"
+      },
+      "total": 194.49,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 8001668,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-10-05T00:00:00",
+          "numDocumento": "137714",
+          "valorDocumento": 194.49,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8001668",
+          "nomeFornecedor": "GRAMPOS OIAPOC LTDA",
+          "cnpjCpfFornecedor": "84410240000154",
+          "valorLiquido": 194.49,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

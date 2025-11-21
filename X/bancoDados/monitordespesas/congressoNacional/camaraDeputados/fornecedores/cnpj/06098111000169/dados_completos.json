@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "TUDO DE BOM COMERCIO DE ALIMENTOS LTDA",
+      "cnpj": "06098111000169",
+      "total_recebido": 341.6,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:09.968404"
+  },
+  "categorias": {
+    "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 341.6
+  },
+  "anos": {
+    "2025": {
+      "total": 341.6,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "74646": {
+      "deputado": {
+        "id": 74646,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74646",
+        "nome": "Aécio Neves",
+        "nomeEleitoral": "Aécio Neves",
+        "siglaPartido": "PSDB",
+        "uriPartido": "",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74646.jpg",
+        "email": "dep.aecioneves@camara.leg.br"
+      },
+      "total": 341.6,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 2,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7874497,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-02-12T00:00:00",
+          "numDocumento": "19933",
+          "valorDocumento": 189.3,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7874497",
+          "nomeFornecedor": "TUDO DE BOM COMERCIO DE ALIMENTOS LTDA",
+          "cnpjCpfFornecedor": "06098111000169",
+          "valorLiquido": 170.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "codDocumento": 7897077,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-09T00:00:00",
+          "numDocumento": "22313",
+          "valorDocumento": 189.3,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7897077",
+          "nomeFornecedor": "TUDO DE BOM COMERCIO DE ALIMENTOS LTDA",
+          "cnpjCpfFornecedor": "06098111000169",
+          "valorLiquido": 170.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

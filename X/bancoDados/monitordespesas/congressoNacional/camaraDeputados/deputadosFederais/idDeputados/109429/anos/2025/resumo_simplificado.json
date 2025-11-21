@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 109429,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/109429",
+    "nome": "Benes Leocádio",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "RN",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/109429.jpg",
+    "email": "dep.benesleocadio@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 161828.4,
+  "quantidade_transacoes": 275,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 110439.13,
+      "quantidade_transacoes": 47,
+      "porcentagem_do_total": 68.24
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 51389.27,
+      "quantidade_transacoes": 228,
+      "porcentagem_do_total": 31.76
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "Claudio Manoel de Amorim Santos",
+      "cnpj": "10685090400",
+      "total": 92329.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 57.05
+    },
+    {
+      "nome": "TRANSPORTES E COMERCIO NOVO HORIZONTE LTDA",
+      "cnpj": "35283670000147",
+      "total": 19241.05,
+      "quantidade_transacoes": 81,
+      "porcentagem_do_total": 11.89
+    },
+    {
+      "nome": "PREFEITURA MUNICIPAL DO NATAL",
+      "cnpj": "08241747000658",
+      "total": 6505.36,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 4.02
+    },
+    {
+      "nome": "LOCAINFO",
+      "cnpj": "04999366000177",
+      "total": 6165.5,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 3.81
+    },
+    {
+      "nome": "COSERN",
+      "cnpj": "08324196000181",
+      "total": 5439.27,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 3.36
+    },
+    {
+      "nome": "DOMINGOS COMERCIAL DE COMBUSTiVEIS PLANALTO",
+      "cnpj": "32586338000163",
+      "total": 3417.13,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 2.11
+    },
+    {
+      "nome": "CIRNE PNEUS COMERCIO E SERVICO LTDA",
+      "cnpj": "35304542000213",
+      "total": 2684.97,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 1.66
+    },
+    {
+      "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597006308",
+      "total": 2558.1,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 1.58
+    },
+    {
+      "nome": "AUTO POSTO ORIGINAL BRASILIA 409 DERIVADOS DE PETROLEO LTDA",
+      "cnpj": "20645413000130",
+      "total": 2243.19,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 1.39
+    },
+    {
+      "nome": "PARELHAS GAS LTDA",
+      "cnpj": "24206617000800",
+      "total": 1927.31,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 1.19
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 20660.16,
+      "porcentagem_do_total": 12.77
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 15682.45,
+      "porcentagem_do_total": 9.69
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 14496.24,
+      "porcentagem_do_total": 8.96
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 14673.47,
+      "porcentagem_do_total": 9.07
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 15482.89,
+      "porcentagem_do_total": 9.57
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 16910.82,
+      "porcentagem_do_total": 10.45
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 15004.75,
+      "porcentagem_do_total": 9.27
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 18649.37,
+      "porcentagem_do_total": 11.52
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 16309.04,
+      "porcentagem_do_total": 10.08
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 13440.2,
+      "porcentagem_do_total": 8.31
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 519.01,
+      "porcentagem_do_total": 0.32
+    }
+  ]
+}

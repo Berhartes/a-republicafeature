@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:12:02Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00102390000100"
+  },
+  "data": {
+    "cnpj": "00102390000100",
+    "nome": "HOTEL BEIRA RIO DE ITUMBIARA LTDA",
+    "nomeFornecedor": "HOTEL BEIRA RIO DE ITUMBIARA LTDA",
+    "totalTransacionado": 753.0,
+    "totalRecebido": 753.0,
+    "totalRecebidoTodos": 753.0,
+    "transacoes": 3,
+    "numeroTransacoes": 3,
+    "numeroDeputadosAtendidos": 2,
+    "deputadosAtendidos": [
+      {
+        "id": "210989",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 509.0,
+        "transacoes": 2
+      },
+      {
+        "id": "204515",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 244.0,
+        "transacoes": 1
+      }
+    ],
+    "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+    "categoriaOriginal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+    "categorias": [
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+    ],
+    "categoriasOriginais": [
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+    ],
+    "categoriasInfo": {
+      "principal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "normalizadas": [
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+      ],
+      "principalOriginal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "originais": [
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+      ]
+    },
+    "distribuicaoTipos": {
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+        "valor": 753.0,
+        "quantidade": 3
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+        "valor": 753.0,
+        "quantidade": 3
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 509.0,
+        "transacoes": 2,
+        "deputados": 0
+      },
+      "2025": {
+        "valor": 244.0,
+        "transacoes": 1,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 285.0,
+        "ano": 2023,
+        "mes": 9,
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "documento": "0000104858",
+        "dataDocumento": "2023-09-07T00:00:00",
+        "deputadoId": "210989",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 244.0,
+        "ano": 2025,
+        "mes": 10,
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "documento": "0000127608",
+        "dataDocumento": "2025-10-24T00:00:00",
+        "deputadoId": "204515",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 224.0,
+        "ano": 2023,
+        "mes": 9,
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "documento": "0000104847",
+        "dataDocumento": "2023-09-07T00:00:00",
+        "deputadoId": "210989",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 244.0,
+        "valorLiquido": 244.0,
+        "valorDocumento": 244.0,
+        "ano": 2025,
+        "mes": 10,
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "dataDocumento": "2025-10-24T00:00:00",
+        "data": "2025-10-24T00:00:00",
+        "numDocumento": "0000127608",
+        "codDocumento": 8004863,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2025/8004863.pdf",
+        "deputadoId": "204515",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "HOTEL BEIRA RIO DE ITUMBIARA LTDA",
+        "cnpj": "00102390000100",
+        "urlDocumentoPdf": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3257/2025/8004863.pdf"
+      },
+      {
+        "valor": 285.0,
+        "valorLiquido": 285.0,
+        "valorDocumento": 285.0,
+        "ano": 2023,
+        "mes": 9,
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "dataDocumento": "2023-09-07T00:00:00",
+        "data": "2023-09-07T00:00:00",
+        "numDocumento": "0000104858",
+        "codDocumento": 7608079,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3624/2023/7608079.pdf",
+        "deputadoId": "210989",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "HOTEL BEIRA RIO DE ITUMBIARA LTDA",
+        "cnpj": "00102390000100",
+        "urlDocumentoPdf": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3624/2023/7608079.pdf"
+      },
+      {
+        "valor": 224.0,
+        "valorLiquido": 224.0,
+        "valorDocumento": 224.0,
+        "ano": 2023,
+        "mes": 9,
+        "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+        "dataDocumento": "2023-09-07T00:00:00",
+        "data": "2023-09-07T00:00:00",
+        "numDocumento": "0000104847",
+        "codDocumento": 7608074,
+        "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3624/2023/7608074.pdf",
+        "deputadoId": "210989",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "HOTEL BEIRA RIO DE ITUMBIARA LTDA",
+        "cnpj": "00102390000100",
+        "urlDocumentoPdf": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3624/2023/7608074.pdf"
+      }
+    ],
+    "totalTransacoesDetalhadas": 3,
+    "aliases": [
+      "00102390000100"
+    ],
+    "temDetalhes": true
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "RODOSNACK CORAL LANCHONETE E RESTAURANTE LTDA",
+      "cnpj": "09456178000116",
+      "total_recebido": 21.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 21.0,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-02-26T00:00:00",
+    "periodo_fim": "2023-02-26T00:00:00",
+    "generatedAt": "2025-11-11T21:38:03.555008"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 21.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 21.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 21.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 2,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7502808,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-26T00:00:00",
+      "numDocumento": "036824",
+      "valorDocumento": 21.0,
+      "urlDocumento": null,
+      "nomeFornecedor": "RODOSNACK CORAL LANCHONETE E RESTAURANTE LTDA",
+      "cnpjCpfFornecedor": "09456178000116",
+      "valorLiquido": 21.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1911187,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

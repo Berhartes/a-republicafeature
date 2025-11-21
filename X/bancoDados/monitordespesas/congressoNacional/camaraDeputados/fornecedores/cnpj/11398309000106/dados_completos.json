@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO B & M LTDA",
+      "cnpj": "11398309000106",
+      "total_recebido": 160.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:15.885350"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 160.0
+  },
+  "anos": {
+    "2024": {
+      "total": 160.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204549": {
+      "deputado": {
+        "id": 204549,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204549",
+        "nome": "AJ Albuquerque",
+        "nomeEleitoral": "AJ Albuquerque",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204549.jpg",
+        "email": "dep.ajalbuquerque@camara.leg.br"
+      },
+      "total": 160.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7800293,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-06T00:00:00",
+          "numDocumento": "044318",
+          "valorDocumento": 160.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2024/7800293.pdf",
+          "nomeFornecedor": "POSTO B & M LTDA",
+          "cnpjCpfFornecedor": "11398309000106",
+          "valorLiquido": 160.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

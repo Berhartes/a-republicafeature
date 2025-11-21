@@ -1,13 +1,13 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "rRSPUBLICIDADES - ROGERIO SILVA SOUSA",
+      "nome": "R S SOUSA LTDA",
       "cnpj": "17882247000181",
       "total_recebido": 1400.0,
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:02.409302"
+    "generatedAt": "2025-11-11T05:22:34.099344"
   },
   "categorias": {
     "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 1400.0
@@ -25,6 +25,7 @@
         "id": 220542,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
         "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
         "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "TO",
@@ -37,25 +38,6 @@
       "despesas": [
         {
           "ano": 2023,
-          "mes": 5,
-          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7567013,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-06-24T00:00:00",
-          "numDocumento": "20230000000018",
-          "valorDocumento": 700.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3584/2023/7567013.pdf",
-          "nomeFornecedor": "rRSPUBLICIDADES - ROGERIO SILVA SOUSA",
-          "cnpjCpfFornecedor": "17882247000181",
-          "valorLiquido": 700.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2023,
           "mes": 4,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
           "codDocumento": 7540086,
@@ -66,6 +48,25 @@
           "valorDocumento": 700.0,
           "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3584/2023/7540086.pdf",
           "nomeFornecedor": "R S SOUSA LTDA",
+          "cnpjCpfFornecedor": "17882247000181",
+          "valorLiquido": 700.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "codDocumento": 7567013,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-06-24T00:00:00",
+          "numDocumento": "20230000000018",
+          "valorDocumento": 700.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3584/2023/7567013.pdf",
+          "nomeFornecedor": "rRSPUBLICIDADES - ROGERIO SILVA SOUSA",
           "cnpjCpfFornecedor": "17882247000181",
           "valorLiquido": 700.0,
           "valorGlosa": 0.0,

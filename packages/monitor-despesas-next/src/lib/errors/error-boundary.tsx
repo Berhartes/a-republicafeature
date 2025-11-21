@@ -1,7 +1,7 @@
 
 import React, { Component, ErrorInfo, ReactNode } from 'react'
-import { ParliamentaryError, ErrorCode, ErrorSeverity, ErrorFactory } from './error-types.js'
-import { ErrorHandler } from './error-handler.js'
+import { ParliamentaryError, ErrorCode, ErrorSeverity, ErrorFactory } from './error-types'
+import { ErrorHandler } from './error-handler'
 
 interface ErrorBoundaryProps {
   children: ReactNode
@@ -41,8 +41,7 @@ export class ErrorBoundary extends Component<ErrorBoundaryProps, ErrorBoundarySt
       error.message,
       {
         severity: ErrorSeverity.HIGH,
-        stack: error.stack,
-        technicalDetails: error.name,
+        technicalDetails: `${error.name}: ${error.stack}`,
         context: {
           component: 'ErrorBoundary',
           action: 'render'
@@ -245,7 +244,7 @@ export const RouteErrorBoundary: React.FC<{ children: ReactNode; route?: string 
 }) => (
   <ErrorBoundary
     level="page"
-    resetKeys={[route]}
+    resetKeys={route ? [route] : undefined}
     onError={(error) => {
       console.error(`[RouteErrorBoundary] Route error in ${route}:`, error)
     }}

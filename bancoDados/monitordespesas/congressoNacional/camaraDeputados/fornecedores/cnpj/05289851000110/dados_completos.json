@@ -3,14 +3,14 @@
     "fornecedor": {
       "nome": "RODOPOSTO BANDEIRANTES NORTE LTDA",
       "cnpj": "05289851000110",
-      "total_recebido": 894.65,
-      "numero_transacoes": 6,
+      "total_recebido": 734.06,
+      "numero_transacoes": 5,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:57.509589"
+    "generatedAt": "2025-11-11T05:22:08.826104"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 894.65
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 734.06
   },
   "anos": {
     "2023": {
@@ -24,8 +24,8 @@
       "deputados": 1
     },
     "2025": {
-      "total": 424.24,
-      "transacoes": 4,
+      "total": 263.65000000000003,
+      "transacoes": 3,
       "deputados": 1
     }
   },
@@ -35,15 +35,16 @@
         "id": 221328,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
         "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "SP",
         "idLegislatura": 57,
         "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
-        "email": "dep.adilsonbarroso@camara.leg.br"
+        "email": null
       },
-      "total": 894.65,
-      "transacoes": 6,
+      "total": 734.06,
+      "transacoes": 5,
       "despesas": [
         {
           "ano": 2023,
@@ -85,6 +86,25 @@
         },
         {
           "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7945034,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-05T00:00:00",
+          "numDocumento": "308743",
+          "valorDocumento": 40.8,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7945034.pdf",
+          "nomeFornecedor": "RODOPOSTO BANDEIRANTES NORTE LTDA",
+          "cnpjCpfFornecedor": "05289851000110",
+          "valorLiquido": 40.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
           "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
           "codDocumento": 7962838,
@@ -116,44 +136,6 @@
           "nomeFornecedor": "RODOPOSTO BANDEIRANTES NORTE LTDA",
           "cnpjCpfFornecedor": "05289851000110",
           "valorLiquido": 50.04,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
-          "mes": 7,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7945034,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-07-05T00:00:00",
-          "numDocumento": "308743",
-          "valorDocumento": 40.8,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7945034.pdf",
-          "nomeFornecedor": "RODOPOSTO BANDEIRANTES NORTE LTDA",
-          "cnpjCpfFornecedor": "05289851000110",
-          "valorLiquido": 40.8,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
-        {
-          "ano": 2025,
-          "mes": 6,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7940382,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-06-27T00:00:00",
-          "numDocumento": "313560",
-          "valorDocumento": 160.59,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2025/7940382.pdf",
-          "nomeFornecedor": "RODOPOSTO BANDEIRANTES NORTE LTDA",
-          "cnpjCpfFornecedor": "05289851000110",
-          "valorLiquido": 160.59,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "069 - PENISULA - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597006995",
+      "total_recebido": 2266.43,
+      "numero_transacoes": 7,
+      "numero_deputados": 3
+    },
+    "ano": 2024,
+    "total_recebido": 1286.03,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-01-31T00:00:00",
+    "periodo_fim": "2024-09-11T10:24:58",
+    "generatedAt": "2025-11-11T21:37:52.896481"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 1286.03,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1286.03,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 380.09,
+      "porcentagem_do_total": 29.56
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 605.94,
+      "porcentagem_do_total": 47.12
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 300.0,
+      "porcentagem_do_total": 23.33
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7686941,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-01-31T00:00:00",
+      "numDocumento": "284524",
+      "valorDocumento": 380.09,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7686941",
+      "nomeFornecedor": "069 - PENISULA - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpjCpfFornecedor": "00306597006995",
+      "valorLiquido": 380.09,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2013095,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7686937,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-02-07T00:00:00",
+      "numDocumento": "285911",
+      "valorDocumento": 305.94,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7686937",
+      "nomeFornecedor": "069 - PENISULA - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpjCpfFornecedor": "00306597006995",
+      "valorLiquido": 305.94,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2013097,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 2,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7706657,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-02-23T00:00:00",
+      "numDocumento": "289100",
+      "valorDocumento": 312.99,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7706657",
+      "nomeFornecedor": "069 - PENISULA - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpjCpfFornecedor": "00306597006995",
+      "valorLiquido": 300.0,
+      "valorGlosa": 12.99,
+      "numRessarcimento": "",
+      "codLote": 2023798,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    },
+    {
+      "ano": 2024,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7806672,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-09-11T10:24:58",
+      "numDocumento": "335167",
+      "valorDocumento": 300.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7806672",
+      "nomeFornecedor": "069 - PENISULA - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpjCpfFornecedor": "00306597006995",
+      "valorLiquido": 300.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2075948,
+      "parcela": 0,
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho"
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "BALBINO & CIA LTDA",
+      "nome": "BALBINO E CIA LTDA",
       "cnpj": "08623068000139",
       "total_recebido": 450.0,
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:21.175034"
+    "generatedAt": "2025-11-11T05:22:38.846913"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 450.0
@@ -25,6 +25,7 @@
         "id": 220576,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220576",
         "nome": "Alfredo Gaspar",
+        "nomeEleitoral": "Alfredo Gaspar",
         "siglaPartido": "UNIÃO",
         "uriPartido": "",
         "siglaUf": "AL",
@@ -35,25 +36,6 @@
       "total": 450.0,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7813256,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-09-23T00:00:00",
-          "numDocumento": "4355",
-          "valorDocumento": 250.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7813256",
-          "nomeFornecedor": "BALBINO & CIA LTDA",
-          "cnpjCpfFornecedor": "08623068000139",
-          "valorLiquido": 250.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 7,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "BALBINO E CIA LTDA",
           "cnpjCpfFornecedor": "08623068000139",
           "valorLiquido": 200.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7813256,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-23T00:00:00",
+          "numDocumento": "4355",
+          "valorDocumento": 250.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7813256",
+          "nomeFornecedor": "BALBINO & CIA LTDA",
+          "cnpjCpfFornecedor": "08623068000139",
+          "valorLiquido": 250.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

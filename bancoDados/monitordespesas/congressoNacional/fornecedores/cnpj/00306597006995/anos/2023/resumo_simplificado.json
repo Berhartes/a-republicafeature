@@ -1,0 +1,62 @@
+{
+  "fornecedor": {
+    "nome": "069 - PENISULA - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+    "cnpj": "00306597006995",
+    "total_recebido": 2266.43,
+    "numero_transacoes": 7,
+    "numero_deputados": 3
+  },
+  "ano": 2023,
+  "total_recebido": 980.4,
+  "quantidade_transacoes": 3,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 413.35,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 42.16
+    },
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 335.91,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 34.26
+    },
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 231.14,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 23.58
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 980.4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 231.14,
+      "porcentagem_do_total": 23.58
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 335.91,
+      "porcentagem_do_total": 34.26
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 413.35,
+      "porcentagem_do_total": 42.16
+    }
+  ]
+}

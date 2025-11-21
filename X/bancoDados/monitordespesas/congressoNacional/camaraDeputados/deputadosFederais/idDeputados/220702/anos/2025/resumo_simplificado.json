@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220702,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220702",
+    "nome": "Geraldo Mendes",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220702.jpg",
+    "email": "dep.geraldomendes@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 430878.0,
+  "quantidade_transacoes": 195,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 232450.0,
+      "quantidade_transacoes": 48,
+      "porcentagem_do_total": 53.95
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 74502.8,
+      "quantidade_transacoes": 47,
+      "porcentagem_do_total": 17.29
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 56900.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 13.21
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 48859.99,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 11.34
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 14501.34,
+      "quantidade_transacoes": 62,
+      "porcentagem_do_total": 3.37
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "JAINE FACHINI JACULI - ME",
+      "cnpj": "30509361000129",
+      "total": 57000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 13.23
+    },
+    {
+      "nome": "BR GONCALVES EPP",
+      "cnpj": "06177379000196",
+      "total": 56900.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 13.21
+    },
+    {
+      "nome": "FORTEPLAY PODCAST E PRODUCOES LTDA",
+      "cnpj": "50014698000172",
+      "total": 48000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 11.14
+    },
+    {
+      "nome": "WEB WORX STRATEGY ASSESSORIA LTDA",
+      "cnpj": "57633601000159",
+      "total": 42000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 9.75
+    },
+    {
+      "nome": "Confianza Imóveis",
+      "cnpj": "24551899000107",
+      "total": 41539.66,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 9.64
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 37751.52,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 8.76
+    },
+    {
+      "nome": "CELSO ANTONIO BREDA",
+      "cnpj": "16594872000165",
+      "total": 23000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 5.34
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 22573.36,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 5.24
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 14177.92,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 3.29
+    },
+    {
+      "nome": "LAURA HELLEN RIVIERI",
+      "cnpj": "59517351000117",
+      "total": 12000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 2.79
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 52442.41,
+      "porcentagem_do_total": 12.17
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 41457.07,
+      "porcentagem_do_total": 9.62
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 49422.36,
+      "porcentagem_do_total": 11.47
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 71984.16,
+      "porcentagem_do_total": 16.71
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 42388.0,
+      "porcentagem_do_total": 9.84
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 45475.67,
+      "porcentagem_do_total": 10.55
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 52080.49,
+      "porcentagem_do_total": 12.09
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 40641.55,
+      "porcentagem_do_total": 9.43
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 28503.89,
+      "porcentagem_do_total": 6.62
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 6482.4,
+      "porcentagem_do_total": 1.5
+    }
+  ]
+}

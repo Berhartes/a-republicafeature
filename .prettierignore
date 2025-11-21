@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+.pnpm-home/
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Cache directories
+.cache/
+.turbo/
+
+# Database files
+*.sqlite
+*.db
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Git
+.git/
+
+# Package manager files
+pnpm-lock.yaml
+package-lock.json
+yarn.lock

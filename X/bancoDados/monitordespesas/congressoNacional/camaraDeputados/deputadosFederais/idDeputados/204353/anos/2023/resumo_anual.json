@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 204353,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204353",
+      "nome": "Aline Gurgel",
+      "siglaPartido": "REPUBLICANOS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+      "siglaUf": "AP",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204353.jpg",
+      "email": null
+    },
+    "ano": 2023,
+    "total_despesas": -3928.04,
+    "quantidade_transacoes": 5,
+    "quantidade_categorias": 2,
+    "quantidade_fornecedores": 2,
+    "periodo_inicio": "2023-02-15T00:00:00",
+    "periodo_fim": "2023-06-19T12:00:00",
+    "generatedAt": "2025-11-10T22:18:35.226097"
+  },
+  "resumo_categorias": [
+    {
+      "categoria": "TELEFONIA",
+      "total": 117.9,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": -4045.94,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "resumo_fornecedores": [
+    {
+      "nome": "CELULAR FUNCIONAL",
+      "cnpj": "00000000000001",
+      "total": 117.9,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": -4045.94,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 117.9,
+      "porcentagem_do_total": 0
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": -4045.94,
+      "porcentagem_do_total": 0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 1,
+      "tipoDespesa": "TELEFONIA",
+      "codDocumento": 0,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-02-15T00:00:00",
+      "numDocumento": "7526639",
+      "valorDocumento": 117.9,
+      "urlDocumento": null,
+      "nomeFornecedor": "CELULAR FUNCIONAL",
+      "cnpjCpfFornecedor": "00000000000001",
+      "valorLiquido": 117.9,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": 97534,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-06-12T12:00:00",
+      "numDocumento": "1272176088189",
+      "valorDocumento": -31.37,
+      "urlDocumento": null,
+      "nomeFornecedor": "GOL",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -31.37,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": 113986,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-06-19T12:00:00",
+      "numDocumento": "1272182642588",
+      "valorDocumento": -270.52,
+      "urlDocumento": null,
+      "nomeFornecedor": "GOL",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -270.52,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": 118148,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-06-13T12:00:00",
+      "numDocumento": "1272184452853",
+      "valorDocumento": -1868.43,
+      "urlDocumento": null,
+      "nomeFornecedor": "GOL",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -1868.43,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "PASSAGEM AÉREA - SIGEPA",
+      "codDocumento": 118225,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-06-13T12:00:00",
+      "numDocumento": "1272184474185",
+      "valorDocumento": -1875.62,
+      "urlDocumento": null,
+      "nomeFornecedor": "GOL",
+      "cnpjCpfFornecedor": "",
+      "valorLiquido": -1875.62,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "0",
+      "codLote": 0,
+      "parcela": 0
+    }
+  ]
+}

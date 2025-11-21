@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.341981"
+    "generatedAt": "2025-11-11T05:22:13.140443"
   },
   "categorias": {
     "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 895.6
@@ -25,6 +25,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -35,25 +36,6 @@
       "total": 895.6,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 8,
-          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
-          "codDocumento": 7778560,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-08-01T00:00:00",
-          "numDocumento": "22799",
-          "valorDocumento": 597.6,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2024/7778560.pdf",
-          "nomeFornecedor": "MS ADMINISTRAÇAO & HOTEIS LTDA",
-          "cnpjCpfFornecedor": "17190186000191",
-          "valorLiquido": 597.6,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 5,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "MS ADMINISTRAÇAO & HOTEIS LTDA",
           "cnpjCpfFornecedor": "17190186000191",
           "valorLiquido": 298.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7778560,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-01T00:00:00",
+          "numDocumento": "22799",
+          "valorDocumento": 597.6,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3353/2024/7778560.pdf",
+          "nomeFornecedor": "MS ADMINISTRAÇAO & HOTEIS LTDA",
+          "cnpjCpfFornecedor": "17190186000191",
+          "valorLiquido": 597.6,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

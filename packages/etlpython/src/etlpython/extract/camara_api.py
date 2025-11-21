@@ -8,6 +8,7 @@ import requests
 from rich.console import Console
 
 from ..models import CamaraListResponse, DeputadoApi, DespesaApi
+from ..core.rate_limiter import get_rate_limiter
 
 console = Console()
 
@@ -22,6 +23,12 @@ class CamaraApiClient:
     def __init__(self, base_url: str = CAMARA_API_BASE, wait_ms: int = WAIT_BETWEEN_REQUESTS_MS):
         self.base_url = base_url
         self.wait_seconds = wait_ms / 1000.0
+        # Global rate limiter shared across client instances
+        self.rate_limiter = get_rate_limiter()
+        try:
+            self.rate_limiter.set_min_interval(self.wait_seconds)
+        except Exception:
+            pass
         self.session = requests.Session()
         self.session.headers.update({
             "Accept": "application/json",
@@ -30,6 +37,12 @@ class CamaraApiClient:
 
     def _fetch_json(self, url: str) -> dict:
         """Fetch JSON data from API endpoint with error handling."""
+        # Respect the global rate limiter before making the HTTP request
+        try:
+            self.rate_limiter.wait_if_needed()
+        except Exception:
+            # Don't fail if limiter has an issue; fall back to local wait
+            pass
         try:
             response = self.session.get(url, timeout=30)
             response.raise_for_status()
@@ -66,7 +79,11 @@ class CamaraApiClient:
             url = next_url
 
             if url:
-                time.sleep(self.wait_seconds)
+                # Use the global rate limiter between paginated requests
+                try:
+                    self.rate_limiter.wait_if_needed()
+                except Exception:
+                    time.sleep(self.wait_seconds)
 
         return all_data
 

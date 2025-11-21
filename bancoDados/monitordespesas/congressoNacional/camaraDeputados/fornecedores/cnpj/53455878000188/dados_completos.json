@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.333414"
+    "generatedAt": "2025-11-11T05:22:13.123434"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 254.81
@@ -25,6 +25,7 @@
         "id": 121948,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
         "nome": "Adriano do Baldy",
+        "nomeEleitoral": "Adriano do Baldy",
         "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "GO",
@@ -35,25 +36,6 @@
       "total": 254.81,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7807345,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-09-21T00:00:00",
-          "numDocumento": "183",
-          "valorDocumento": 150.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7807345",
-          "nomeFornecedor": "PORTAL DO PETROLEO XV E DERIVADOS LTDA",
-          "cnpjCpfFornecedor": "53455878000188",
-          "valorLiquido": 150.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 4,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "PORTAL DO PETROLEO XV E DERIVADOS LTDA",
           "cnpjCpfFornecedor": "53455878000188",
           "valorLiquido": 104.81,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7807345,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-09-21T00:00:00",
+          "numDocumento": "183",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7807345",
+          "nomeFornecedor": "PORTAL DO PETROLEO XV E DERIVADOS LTDA",
+          "cnpjCpfFornecedor": "53455878000188",
+          "valorLiquido": 150.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

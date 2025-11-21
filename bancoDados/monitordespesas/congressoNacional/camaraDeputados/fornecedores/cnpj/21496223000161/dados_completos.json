@@ -1,13 +1,13 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "Amazzon Car Ltda",
+      "nome": "AMAZZON CAR LTDA",
       "cnpj": "21496223000161",
       "total_recebido": 27000.0,
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:50.275285"
+    "generatedAt": "2025-11-11T05:22:06.861395"
   },
   "categorias": {
     "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 27000.0
@@ -25,6 +25,7 @@
         "id": 204379,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204379",
         "nome": "Acácio Favacho",
+        "nomeEleitoral": "Acácio Favacho",
         "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "AP",
@@ -37,16 +38,16 @@
       "despesas": [
         {
           "ano": 2025,
-          "mes": 4,
+          "mes": 2,
           "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
-          "codDocumento": 7903873,
+          "codDocumento": 7895855,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-04-01T00:00:00",
-          "numDocumento": "563",
+          "dataDocumento": "2025-03-31T00:00:00",
+          "numDocumento": "561",
           "valorDocumento": 9000.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7903873",
-          "nomeFornecedor": "Amazzon Car Ltda",
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2025/7895855.pdf",
+          "nomeFornecedor": "AMAZZON CAR LTDA",
           "cnpjCpfFornecedor": "21496223000161",
           "valorLiquido": 9000.0,
           "valorGlosa": 0.0,
@@ -75,16 +76,16 @@
         },
         {
           "ano": 2025,
-          "mes": 2,
+          "mes": 4,
           "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
-          "codDocumento": 7895855,
+          "codDocumento": 7903873,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-03-31T00:00:00",
-          "numDocumento": "561",
+          "dataDocumento": "2025-04-01T00:00:00",
+          "numDocumento": "563",
           "valorDocumento": 9000.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2025/7895855.pdf",
-          "nomeFornecedor": "AMAZZON CAR LTDA",
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7903873",
+          "nomeFornecedor": "Amazzon Car Ltda",
           "cnpjCpfFornecedor": "21496223000161",
           "valorLiquido": 9000.0,
           "valorGlosa": 0.0,

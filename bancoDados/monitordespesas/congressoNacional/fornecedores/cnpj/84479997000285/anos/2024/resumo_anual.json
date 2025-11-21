@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO 3000 LTDA",
+      "cnpj": "84479997000285",
+      "total_recebido": 1335.08,
+      "numero_transacoes": 8,
+      "numero_deputados": 1
+    },
+    "ano": 2024,
+    "total_recebido": 935.08,
+    "quantidade_transacoes": 6,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2024-01-19T16:19:53",
+    "periodo_fim": "2024-10-28T11:14:14",
+    "generatedAt": "2025-11-11T21:38:01.091010"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 935.08,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 935.08,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 335.08,
+      "porcentagem_do_total": 35.83
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 150.0,
+      "porcentagem_do_total": 16.04
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 150.0,
+      "porcentagem_do_total": 16.04
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 100.0,
+      "porcentagem_do_total": 10.69
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 200.0,
+      "porcentagem_do_total": 21.39
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2024,
+      "mes": 8,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7788736,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-08-18T09:17:45",
+      "numDocumento": "14385",
+      "valorDocumento": 100.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7788736",
+      "nomeFornecedor": "POSTO 3000 LTDA",
+      "cnpjCpfFornecedor": "84479997000285",
+      "valorLiquido": 100.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2066572,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2024,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7821771,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-10-28T11:14:14",
+      "numDocumento": "25205",
+      "valorDocumento": 200.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7821771",
+      "nomeFornecedor": "POSTO 3000 LTDA",
+      "cnpjCpfFornecedor": "84479997000285",
+      "valorLiquido": 200.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2084342,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2024,
+      "mes": 4,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7714864,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-04-05T00:00:00",
+      "numDocumento": "3286",
+      "valorDocumento": 150.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7714864",
+      "nomeFornecedor": "POSTO 3000 LTDA",
+      "cnpjCpfFornecedor": "84479997000285",
+      "valorLiquido": 150.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2028155,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2024,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7674836,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-01-19T16:19:53",
+      "numDocumento": "557805",
+      "valorDocumento": 170.05,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7674836",
+      "nomeFornecedor": "POSTO 3000 LTDA",
+      "cnpjCpfFornecedor": "84479997000285",
+      "valorLiquido": 170.05,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2005864,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2024,
+      "mes": 1,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7674838,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-01-22T14:33:56",
+      "numDocumento": "559314",
+      "valorDocumento": 165.03,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7674838",
+      "nomeFornecedor": "POSTO 3000 LTDA",
+      "cnpjCpfFornecedor": "84479997000285",
+      "valorLiquido": 165.03,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2005864,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2024,
+      "mes": 3,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7696573,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2024-03-02T00:00:00",
+      "numDocumento": "584392",
+      "valorDocumento": 150.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7696573",
+      "nomeFornecedor": "POSTO 3000 LTDA",
+      "cnpjCpfFornecedor": "84479997000285",
+      "valorLiquido": 150.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2018345,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

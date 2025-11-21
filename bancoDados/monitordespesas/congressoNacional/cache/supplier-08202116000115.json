@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-12T00:38:35Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "1.0.0",
+    "legislatura": 57,
+    "cnpj": "08202116000115"
+  },
+  "data": {
+    "cnpj": "08202116000115",
+    "nome": "AUTO POSTO AEROPORTO LTDA",
+    "nomeFornecedor": "AUTO POSTO AEROPORTO LTDA",
+    "totalTransacionado": 4183.88,
+    "totalRecebido": 4183.88,
+    "totalRecebidoTodos": 4183.88,
+    "transacoes": 18,
+    "numeroTransacoes": 18,
+    "numeroDeputadosAtendidos": 4,
+    "deputadosAtendidos": [],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 4183.88,
+        "quantidade": 18
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 4183.88,
+        "quantidade": 18
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 1730.88,
+        "transacoes": 8,
+        "deputados": 4
+      },
+      "2024": {
+        "valor": 795.79,
+        "transacoes": 5,
+        "deputados": 2
+      },
+      "2025": {
+        "valor": 1657.21,
+        "transacoes": 5,
+        "deputados": 2
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

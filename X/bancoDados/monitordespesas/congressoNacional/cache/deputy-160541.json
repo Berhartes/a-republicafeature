@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T17:45:22Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "deputados.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "deputadoId": "160541"
+  },
+  "data": {
+    "id": "160541",
+    "nome": "Arthur Lira",
+    "nomeEleitoral": "Arthur Lira",
+    "nomeCivil": null,
+    "partido": "PP",
+    "siglaPartido": "PP",
+    "uf": "AL",
+    "siglaUf": "AL",
+    "urlFoto": null,
+    "totalDespesas": 411114.0199999999,
+    "numeroDespesas": 472,
+    "fornecedoresIdentificados": 65,
+    "createdAt": "2025-11-01T17:45:19Z",
+    "gastosPorAno": {},
+    "transacoesPorAno": {},
+    "topCategorias": [],
+    "topFornecedores": [],
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "temDetalhes": false
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO AEROPORTO LTDA",
+    "cnpj": "08202116000115",
+    "total_recebido": 4183.88,
+    "numero_transacoes": 18,
+    "numero_deputados": 4
+  },
+  "ano": 2024,
+  "total_recebido": 795.79,
+  "quantidade_transacoes": 5,
+  "principais_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 495.79,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 62.3
+    },
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 300.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 37.7
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 795.79,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 326.53,
+      "porcentagem_do_total": 41.03
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 100.0,
+      "porcentagem_do_total": 12.57
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 100.0,
+      "porcentagem_do_total": 12.57
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 269.26,
+      "porcentagem_do_total": 33.84
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "deputado": {
+    "id": 204412,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204412",
+    "nome": "Dr. Zacharias Calil",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "GO",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204412.jpg",
+    "email": "dep.dr.zachariascalil@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 108926.78,
+  "quantidade_transacoes": 185,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 84829.28,
+      "quantidade_transacoes": 73,
+      "porcentagem_do_total": 77.88
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 24097.5,
+      "quantidade_transacoes": 112,
+      "porcentagem_do_total": 22.12
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "FAL IMOBILIÁRIA",
+      "cnpj": "11696026000132",
+      "total": 47781.32,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 43.87
+    },
+    {
+      "nome": "FMA - AUDIO VIDEO E INFORMÁTICA LTDA",
+      "cnpj": "14571801000111",
+      "total": 28950.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 26.58
+    },
+    {
+      "nome": "Auto Posto Global Arena Ltda",
+      "cnpj": "29952796000164",
+      "total": 8548.81,
+      "quantidade_transacoes": 40,
+      "porcentagem_do_total": 7.85
+    },
+    {
+      "nome": "AUTO POSTO GOIANAO LTDA - ME",
+      "cnpj": "19169625000100",
+      "total": 4421.0,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 4.06
+    },
+    {
+      "nome": "AUTO POSTO BR 060 LTDA",
+      "cnpj": "07736181000168",
+      "total": 4243.09,
+      "quantidade_transacoes": 17,
+      "porcentagem_do_total": 3.9
+    },
+    {
+      "nome": "AUTO POSTO PAINEIRAS LTDA",
+      "cnpj": "01304695000168",
+      "total": 1979.23,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.82
+    },
+    {
+      "nome": "ANTONELLI E VITORINO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "41501940000141",
+      "total": 1952.06,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.79
+    },
+    {
+      "nome": "ENEL - COMPANHIA DE ENERGIA ELÉTRICA",
+      "cnpj": "01543032000104",
+      "total": 1911.01,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 1.75
+    },
+    {
+      "nome": "ALPHA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+      "cnpj": "23901336000120",
+      "total": 1578.4,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 1.45
+    },
+    {
+      "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+      "cnpj": "12132854000100",
+      "total": 1548.1,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.42
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 10451.83,
+      "porcentagem_do_total": 9.6
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 12358.46,
+      "porcentagem_do_total": 11.35
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 11988.11,
+      "porcentagem_do_total": 11.01
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 10936.08,
+      "porcentagem_do_total": 10.04
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 12488.13,
+      "porcentagem_do_total": 11.46
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 12353.63,
+      "porcentagem_do_total": 11.34
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 11473.43,
+      "porcentagem_do_total": 10.53
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 12302.66,
+      "porcentagem_do_total": 11.29
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 9508.87,
+      "porcentagem_do_total": 8.73
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 4788.98,
+      "porcentagem_do_total": 4.4
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 276.6,
+      "porcentagem_do_total": 0.25
+    }
+  ]
+}

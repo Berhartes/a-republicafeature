@@ -1,0 +1,110 @@
+{
+  "fornecedor": {
+    "nome": "AZUL",
+    "cnpj": null,
+    "total_recebido": 116120.80000000003,
+    "numero_transacoes": 134,
+    "numero_deputados": 5
+  },
+  "ano": 2024,
+  "total_recebido": 63435.49,
+  "quantidade_transacoes": 72,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 37657.3,
+      "quantidade_transacoes": 45,
+      "porcentagem_do_total": 59.36
+    },
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 20566.34,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 32.42
+    },
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 5211.85,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 8.22
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 63435.49,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 4325.15,
+      "porcentagem_do_total": 6.82
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 5352.98,
+      "porcentagem_do_total": 8.44
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 2983.72,
+      "porcentagem_do_total": 4.7
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 12832.27,
+      "porcentagem_do_total": 20.23
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 9075.45,
+      "porcentagem_do_total": 14.31
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 1351.09,
+      "porcentagem_do_total": 2.13
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 9280.75,
+      "porcentagem_do_total": 14.63
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 5512.17,
+      "porcentagem_do_total": 8.69
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 10430.54,
+      "porcentagem_do_total": 16.44
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 2322.32,
+      "porcentagem_do_total": 3.66
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": -30.95,
+      "porcentagem_do_total": -0.05
+    }
+  ]
+}

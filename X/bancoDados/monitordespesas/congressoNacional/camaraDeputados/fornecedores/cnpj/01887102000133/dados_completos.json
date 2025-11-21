@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HANAUER COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "01887102000133",
+      "total_recebido": 415.91999999999996,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-07T05:43:12.095626"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 415.91999999999996
+  },
+  "anos": {
+    "2025": {
+      "total": 415.91999999999996,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "178835": {
+      "deputado": {
+        "id": 178835,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
+        "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
+        "siglaPartido": "PDT",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+        "email": "dep.afonsomotta@camara.leg.br"
+      },
+      "total": 415.91999999999996,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7967403,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-06-24T00:00:00",
+          "numDocumento": "807377",
+          "valorDocumento": 167.45,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7967403",
+          "nomeFornecedor": "HANAUER COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "01887102000133",
+          "valorLiquido": 167.45,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7967411,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-15T12:47:14",
+          "numDocumento": "813633",
+          "valorDocumento": 98.47,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7967411",
+          "nomeFornecedor": "HANAUER COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "01887102000133",
+          "valorLiquido": 98.47,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7985405,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-08-14T11:55:33",
+          "numDocumento": "822212",
+          "valorDocumento": 150.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7985405",
+          "nomeFornecedor": "HANAUER COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "01887102000133",
+          "valorLiquido": 150.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

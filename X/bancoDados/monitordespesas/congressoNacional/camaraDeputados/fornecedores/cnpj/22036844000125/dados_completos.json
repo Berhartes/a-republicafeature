@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO SITIO NOVO COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+      "cnpj": "22036844000125",
+      "total_recebido": 1568.4,
+      "numero_transacoes": 5,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:19.633474"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1568.4
+  },
+  "anos": {
+    "2023": {
+      "total": 1048.26,
+      "transacoes": 3,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 300.03,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2025": {
+      "total": 220.11,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204571": {
+      "deputado": {
+        "id": 204571,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204571",
+        "nome": "Alex Santana",
+        "nomeEleitoral": "Alex Santana",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204571.jpg",
+        "email": "dep.alexsantana@camara.leg.br"
+      },
+      "total": 1568.4,
+      "transacoes": 5,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7534473,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-27T00:00:00",
+          "numDocumento": "532337",
+          "valorDocumento": 360.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7534473",
+          "nomeFornecedor": "POSTO SITIO NOVO COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+          "cnpjCpfFornecedor": "22036844000125",
+          "valorLiquido": 360.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7581969,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-07-22T00:00:00",
+          "numDocumento": "552304",
+          "valorDocumento": 300.09,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7581969",
+          "nomeFornecedor": "RONI COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "22036844000125",
+          "valorLiquido": 300.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7586587,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-08-05T00:00:00",
+          "numDocumento": "555305",
+          "valorDocumento": 388.17,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7586587",
+          "nomeFornecedor": "RONI COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "22036844000125",
+          "valorLiquido": 388.17,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 5,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7747603,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-05-04T00:00:00",
+          "numDocumento": "624623",
+          "valorDocumento": 300.03,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3287/2024/7747603.pdf",
+          "nomeFornecedor": "RONI COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "22036844000125",
+          "valorLiquido": 300.03,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7909856,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-04-06T15:41:21",
+          "numDocumento": "716167",
+          "valorDocumento": 220.11,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7909856",
+          "nomeFornecedor": "RONI COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "22036844000125",
+          "valorLiquido": 220.11,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

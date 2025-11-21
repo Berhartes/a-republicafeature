@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "FARIAS E LESSA COMERCIO DE COMBUSTIVEIS LTDA",
       "cnpj": "20266767000174",
-      "total_recebido": 400.0,
+      "total_recebido": 200.0,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:57:01.196964"
+    "generatedAt": "2025-11-11T05:22:38.696354"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 400.0
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 200.0
   },
   "anos": {
     "2023": {
-      "total": 400.0,
+      "total": 200.0,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "160541": {
+    "220576": {
       "deputado": {
-        "id": 160541,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160541",
-        "nome": "Arthur Lira",
-        "siglaPartido": "PP",
+        "id": 220576,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220576",
+        "nome": "Alfredo Gaspar",
+        "nomeEleitoral": "Alfredo Gaspar",
+        "siglaPartido": "UNIÃO",
         "uriPartido": "",
         "siglaUf": "AL",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160541.jpg",
-        "email": "dep.arthurlira@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220576.jpg",
+        "email": "dep.alfredogaspar@camara.leg.br"
       },
-      "total": 400.0,
+      "total": 200.0,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2023,
-          "mes": 12,
+          "mes": 11,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7664577,
+          "codDocumento": 7649820,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-12-04T00:00:00",
-          "numDocumento": "870912",
-          "valorDocumento": 400.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7664577",
+          "dataDocumento": "2023-11-24T00:00:00",
+          "numDocumento": "865290",
+          "valorDocumento": 200.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7649820",
           "nomeFornecedor": "FARIAS E LESSA COMERCIO DE COMBUSTIVEIS LTDA",
           "cnpjCpfFornecedor": "20266767000174",
-          "valorLiquido": 400.0,
+          "valorLiquido": 200.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

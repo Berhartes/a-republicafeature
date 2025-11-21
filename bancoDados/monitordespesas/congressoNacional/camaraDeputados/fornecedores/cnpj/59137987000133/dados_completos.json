@@ -7,7 +7,7 @@
       "numero_transacoes": 3,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:02.441225"
+    "generatedAt": "2025-11-11T05:22:34.435924"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 535.01
@@ -25,6 +25,7 @@
         "id": 220542,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
         "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
         "siglaPartido": "MDB",
         "uriPartido": "",
         "siglaUf": "TO",
@@ -35,25 +36,6 @@
       "total": 535.01,
       "transacoes": 3,
       "despesas": [
-        {
-          "ano": 2025,
-          "mes": 7,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7946817,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2025-07-07T00:00:00",
-          "numDocumento": "11547",
-          "valorDocumento": 100.0,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7946817",
-          "nomeFornecedor": "POSTO BIG PETRO I",
-          "cnpjCpfFornecedor": "59137987000133",
-          "valorLiquido": 100.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2025,
           "mes": 6,
@@ -84,6 +66,25 @@
           "numDocumento": "8733",
           "valorDocumento": 100.0,
           "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7948756",
+          "nomeFornecedor": "POSTO BIG PETRO I",
+          "cnpjCpfFornecedor": "59137987000133",
+          "valorLiquido": 100.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7946817,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-07T00:00:00",
+          "numDocumento": "11547",
+          "valorDocumento": 100.0,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7946817",
           "nomeFornecedor": "POSTO BIG PETRO I",
           "cnpjCpfFornecedor": "59137987000133",
           "valorLiquido": 100.0,

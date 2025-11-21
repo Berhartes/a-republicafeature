@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+      "cnpj": "09001879001728",
+      "total_recebido": 1533.1799999999998,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:03.137583"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 1533.1799999999998
+  },
+  "anos": {
+    "2024": {
+      "total": 1533.1799999999998,
+      "transacoes": 7,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 1533.1799999999998,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7681828,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-01T00:00:00",
+          "numDocumento": "13491",
+          "valorDocumento": 245.32,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7681828",
+          "nomeFornecedor": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "09001879001728",
+          "valorLiquido": 245.32,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7718141,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-25T14:08:19",
+          "numDocumento": "14124",
+          "valorDocumento": 241.77,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7718141",
+          "nomeFornecedor": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "09001879001728",
+          "valorLiquido": 241.77,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 4,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7724335,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-04-19T18:24:48",
+          "numDocumento": "14478",
+          "valorDocumento": 179.85,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7724335",
+          "nomeFornecedor": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "09001879001728",
+          "valorLiquido": 179.85,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7780007,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-29T10:38:09",
+          "numDocumento": "15786",
+          "valorDocumento": 259.8,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7780007",
+          "nomeFornecedor": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "09001879001728",
+          "valorLiquido": 259.8,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7781116,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-20T00:00:00",
+          "numDocumento": "449379",
+          "valorDocumento": 164.09,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7781116.pdf",
+          "nomeFornecedor": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "09001879001728",
+          "valorLiquido": 164.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7781159,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-23T00:00:00",
+          "numDocumento": "450480",
+          "valorDocumento": 152.97,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2024/7781159.pdf",
+          "nomeFornecedor": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "09001879001728",
+          "valorLiquido": 152.97,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 10,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7821675,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-10-05T17:56:44",
+          "numDocumento": "16750",
+          "valorDocumento": 289.38,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7821675",
+          "nomeFornecedor": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "09001879001728",
+          "valorLiquido": 289.38,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

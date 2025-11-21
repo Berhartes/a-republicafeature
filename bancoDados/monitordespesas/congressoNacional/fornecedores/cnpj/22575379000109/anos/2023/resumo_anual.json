@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "GONTIJO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "22575379000109",
+      "total_recebido": 1210.58,
+      "numero_transacoes": 6,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 660.58,
+    "quantidade_transacoes": 3,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-06-17T00:00:00",
+    "periodo_fim": "2023-12-19T00:00:00",
+    "generatedAt": "2025-11-11T21:38:00.583010"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 660.58,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 660.58,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 200.0,
+      "porcentagem_do_total": 30.28
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 260.58,
+      "porcentagem_do_total": 39.45
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 200.0,
+      "porcentagem_do_total": 30.28
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 9,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7616893,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-09-28T00:00:00",
+      "numDocumento": "5227",
+      "valorDocumento": 260.58,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7616893",
+      "nomeFornecedor": "GONTIJO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "22575379000109",
+      "valorLiquido": 260.58,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1973210,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7560500,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-06-17T00:00:00",
+      "numDocumento": "548",
+      "valorDocumento": 200.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7560500",
+      "nomeFornecedor": "GONTIJO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "22575379000109",
+      "valorLiquido": 200.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1942976,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    },
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7671306,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-12-19T00:00:00",
+      "numDocumento": "80375",
+      "valorDocumento": 200.0,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7671306",
+      "nomeFornecedor": "GONTIJO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "22575379000109",
+      "valorLiquido": 200.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2003702,
+      "parcela": 0,
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho"
+    }
+  ]
+}

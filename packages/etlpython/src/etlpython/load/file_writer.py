@@ -21,9 +21,9 @@ class DataLakeWriter:
         self.data_lake_dir = self.project_root / "bancoDados"
         self.monitor_dir = self.data_lake_dir / "monitordespesas"
         self.congresso_dir = self.monitor_dir / "congressoNacional"
-        self.deputados_raw_dir = self.congresso_dir / "deputadosFederais" / "idDeputados"
+        self.deputados_raw_dir = self.congresso_dir / "camaraDeputados" / "deputadosFederais" / "idDeputados"
         self.fornecedores_dir = self.congresso_dir / "fornecedores"
-        self.deputados_resumo_dir = self.congresso_dir / "deputadosFederais"
+        self.deputados_resumo_dir = self.congresso_dir / "camaraDeputados" / "deputadosFederais"
 
     def ensure_directories(self) -> None:
         """Create necessary directories if they don't exist."""
@@ -88,6 +88,11 @@ class DataLakeWriter:
         deputados_path = self.deputados_resumo_dir / "deputados.json"
         deputados_data = [deputado.dict() for deputado in deputados]
         self.write_json(deputados_path, deputados_data)
+
+    def write_premiacoes(self, prem_data: Dict[str, Any]) -> None:
+        """Persist the premiações cache alongside other consolidated files."""
+        prem_path = self.congresso_dir / "premiacoes-cache.json"
+        self.write_json(prem_path, prem_data)
 
     def write_manifest(
         self,

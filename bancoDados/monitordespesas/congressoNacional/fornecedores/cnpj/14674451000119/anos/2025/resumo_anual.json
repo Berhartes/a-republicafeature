@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "ATA AEROTAXI ABAETE LTDA",
+      "cnpj": "14674451000119",
+      "total_recebido": 165832.8,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "ano": 2025,
+    "total_recebido": 21000.0,
+    "quantidade_transacoes": 1,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2025-06-20T00:00:00",
+    "periodo_fim": "2025-06-20T00:00:00",
+    "generatedAt": "2025-11-11T21:38:06.569011"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 21000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "total": 21000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 21000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 6,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "codDocumento": 7938627,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-06-20T00:00:00",
+      "numDocumento": "7559",
+      "valorDocumento": 21000.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3326/2025/7938627.pdf",
+      "nomeFornecedor": "ATA AEROTAXI ABAETE LTDA",
+      "cnpjCpfFornecedor": "14674451000119",
+      "valorLiquido": 21000.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2149211,
+      "parcela": 0,
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220652,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220652",
+    "nome": "Delegado Palumbo",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220652.jpg",
+    "email": "dep.delegadopalumbo@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 462779.27,
+  "quantidade_transacoes": 655,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 135000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 29.17
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 90171.72,
+      "quantidade_transacoes": 53,
+      "porcentagem_do_total": 19.48
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 77449.4,
+      "quantidade_transacoes": 118,
+      "porcentagem_do_total": 16.74
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 54000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 11.67
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 53900.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 11.65
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "SLAPP COMUNICAÇÃO EIRELI ME",
+      "cnpj": "21532720000178",
+      "total": 105000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 22.69
+    },
+    {
+      "nome": "ANDREA WAGNER BALLARIN",
+      "cnpj": "13095178867",
+      "total": 57926.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 12.52
+    },
+    {
+      "nome": "PANTANAL VEÍCULOS LTDA",
+      "cnpj": "07319323000191",
+      "total": 49000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 10.59
+    },
+    {
+      "nome": "FORT WORK SEGURANÇA PATRIMONIAL EIRELI",
+      "cnpj": "33508807000199",
+      "total": 42000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 9.08
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 36230.59,
+      "quantidade_transacoes": 49,
+      "porcentagem_do_total": 7.83
+    },
+    {
+      "nome": "SLAPP COMUNICACAO LTDA",
+      "cnpj": "21532720000178",
+      "total": 30000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 6.48
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 29511.38,
+      "quantidade_transacoes": 49,
+      "porcentagem_do_total": 6.38
+    },
+    {
+      "nome": "K2G SUPRIMENTOS DE IMPRESSAO E INFORMATICA EIRELLI",
+      "cnpj": "19367661000188",
+      "total": 19080.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 4.12
+    },
+    {
+      "nome": "FORT WORK SEGURANCA PATRIMONIAL LTDA",
+      "cnpj": "33508807000199",
+      "total": 12000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.59
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 11707.43,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 2.53
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 16007.32,
+      "porcentagem_do_total": 3.46
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 21999.83,
+      "porcentagem_do_total": 4.75
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 44527.49,
+      "porcentagem_do_total": 9.62
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 48319.33,
+      "porcentagem_do_total": 10.44
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 44252.15,
+      "porcentagem_do_total": 9.56
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 41162.9,
+      "porcentagem_do_total": 8.89
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 53136.19,
+      "porcentagem_do_total": 11.48
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 49308.26,
+      "porcentagem_do_total": 10.65
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 50732.88,
+      "porcentagem_do_total": 10.96
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 50715.75,
+      "porcentagem_do_total": 10.96
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 42617.17,
+      "porcentagem_do_total": 9.21
+    }
+  ]
+}

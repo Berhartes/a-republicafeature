@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:55:24.430314"
+    "generatedAt": "2025-11-11T05:22:39.939689"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 291.90999999999997
@@ -25,6 +25,7 @@
         "id": 74057,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74057",
         "nome": "Alice Portugal",
+        "nomeEleitoral": "Alice Portugal",
         "siglaPartido": "PCdoB",
         "uriPartido": "",
         "siglaUf": "BA",
@@ -35,25 +36,6 @@
       "total": 291.90999999999997,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2024,
-          "mes": 6,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7766656,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2024-06-21T18:01:54",
-          "numDocumento": "485583",
-          "valorDocumento": 139.49,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7766656",
-          "nomeFornecedor": "OLIVEIRA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
-          "cnpjCpfFornecedor": "01668012000151",
-          "valorLiquido": 139.49,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2024,
           "mes": 3,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "OLIVEIRA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
           "cnpjCpfFornecedor": "01668012000151",
           "valorLiquido": 152.42,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7766656,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-21T18:01:54",
+          "numDocumento": "485583",
+          "valorDocumento": 139.49,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7766656",
+          "nomeFornecedor": "OLIVEIRA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+          "cnpjCpfFornecedor": "01668012000151",
+          "valorLiquido": 139.49,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

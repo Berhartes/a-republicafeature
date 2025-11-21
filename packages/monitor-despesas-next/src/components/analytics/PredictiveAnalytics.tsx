@@ -259,15 +259,10 @@ export function PredictiveAnalytics({ onPredicaoGerada }: PredictiveAnalyticsPro
                   </linearGradient>
                 </defs>
                 <CartesianGrid strokeDasharray="3 3" />
-                {/* @ts-expect-error */}
                 <XAxis dataKey="mes" />
-                {/* @ts-expect-error */}
                 <YAxis />
-                {/* @ts-expect-error */}
                 <Tooltip />
-                {/* @ts-expect-error */}
                 <Legend />
-                {/* @ts-expect-error */}
                 <Area 
                   type="monotone" 
                   dataKey="real" 
@@ -276,7 +271,6 @@ export function PredictiveAnalytics({ onPredicaoGerada }: PredictiveAnalyticsPro
                   fill="url(#colorReal)" 
                   name="Score Real"
                 />
-                {/* @ts-expect-error */}
                 <Area 
                   type="monotone" 
                   dataKey="previsto" 

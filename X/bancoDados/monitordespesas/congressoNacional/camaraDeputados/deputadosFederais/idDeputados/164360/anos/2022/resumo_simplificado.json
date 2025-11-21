@@ -1,0 +1,41 @@
+{
+  "deputado": {
+    "id": 164360,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164360",
+    "nome": "Carmen Zanotto",
+    "siglaPartido": "CIDADANIA",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+    "siglaUf": "SC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/164360.jpg",
+    "email": null
+  },
+  "ano": 2022,
+  "total_gasto": 1200.0,
+  "quantidade_transacoes": 1,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 1200.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "BEM CAMPEIRO - EDITORA E PUBLICIDADES LTDA",
+      "cnpj": "11817617000110",
+      "total": 1200.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 1200.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "metadata": {
     "fornecedor": {
-      "nome": "RÁDIO CULTURA DE ALEGRETE LTDA",
+      "nome": "RADIO CULTURA DE ALEGRETE LTDA",
       "cnpj": "89510382000107",
       "total_recebido": 2360.0,
       "numero_transacoes": 4,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:54:21.035012"
+    "generatedAt": "2025-11-11T05:22:18.928223"
   },
   "categorias": {
     "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 2360.0
@@ -30,6 +30,7 @@
         "id": 178835,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178835",
         "nome": "Afonso Motta",
+        "nomeEleitoral": "Afonso Motta",
         "siglaPartido": "PDT",
         "uriPartido": "",
         "siglaUf": "RS",
@@ -42,18 +43,18 @@
       "despesas": [
         {
           "ano": 2023,
-          "mes": 12,
+          "mes": 3,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7667228,
+          "codDocumento": 7516319,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-12-19T00:00:00",
-          "numDocumento": "13654",
-          "valorDocumento": 400.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2880/2023/7667228.pdf",
-          "nomeFornecedor": "RÁDIO CULTURA DE ALEGRETE LTDA",
+          "dataDocumento": "2023-03-22T00:00:00",
+          "numDocumento": "12540",
+          "valorDocumento": 800.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2880/2023/7516319.pdf",
+          "nomeFornecedor": "RADIO CULTURA DE ALEGRETE LTDA",
           "cnpjCpfFornecedor": "89510382000107",
-          "valorLiquido": 400.0,
+          "valorLiquido": 800.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,
@@ -80,18 +81,18 @@
         },
         {
           "ano": 2023,
-          "mes": 3,
+          "mes": 12,
           "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-          "codDocumento": 7516319,
+          "codDocumento": 7667228,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-03-22T00:00:00",
-          "numDocumento": "12540",
-          "valorDocumento": 800.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2880/2023/7516319.pdf",
-          "nomeFornecedor": "RADIO CULTURA DE ALEGRETE LTDA",
+          "dataDocumento": "2023-12-19T00:00:00",
+          "numDocumento": "13654",
+          "valorDocumento": 400.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2880/2023/7667228.pdf",
+          "nomeFornecedor": "RÁDIO CULTURA DE ALEGRETE LTDA",
           "cnpjCpfFornecedor": "89510382000107",
-          "valorLiquido": 800.0,
+          "valorLiquido": 400.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

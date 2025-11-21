@@ -2,16 +2,45 @@
   "name": "a-republica",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "engines": {
     "node": ">=20.0.0",
     "pnpm": ">=8.0.0"
   },
   "packageManager": "pnpm@8.15.8",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.18.0",
+    "@typescript-eslint/parser": "^7.18.0",
+    "eslint": "^8.57.0",
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.2",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5",
+    "zod": "^3.23.8"
+  },
   "scripts": {
-    "dev:backend": "pnpm --filter @a-republica/backend dev",
+    "dev": "pnpm -r --parallel dev",
+    "dev:backend": "pnpm --filter @a-republica/api dev",
     "dev:monitor": "pnpm --filter @a-republica/monitor-despesas-next dev",
-    "materialize:unified": "pnpm --filter @a-republica/etl materialize:unified",
-    "lint": "pnpm -r lint",
-    "build": "pnpm -r build"
+    "dev:web": "pnpm --filter @a-republica/monitor-despesas-next dev",
+    "build": "pnpm -r build",
+    "build:backend": "pnpm --filter @a-republica/api build",
+    "build:web": "pnpm --filter @a-republica/monitor-despesas-next build",
+    "build:shared": "pnpm --filter @a-republica/shared build",
+    "lint": "eslint . --ext .ts,.tsx,.js,.jsx",
+    "lint:fix": "eslint . --ext .ts,.tsx,.js,.jsx --fix",
+    "lint:packages": "pnpm -r lint",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "type-check": "pnpm -r type-check",
+    "clean": "pnpm -r clean && node scripts/clean.js node_modules/.cache",
+    "test": "pnpm -r test",
+    "test:watch": "pnpm -r test:watch",
+    "materialize:unified": "pnpm --filter @a-republica/etl-python run etl:materialize:unified",
+    "contracts:validate": "pnpm --filter @a-republica/etl-python run contracts:validate",
+    "contracts:export": "pnpm --filter @a-republica/etl-python run contracts:export",
+    "datalake:partition": "pnpm --filter @a-republica/etl-python run datalake:partition",
+    "datalake:verify": "pnpm --filter @a-republica/etl-python run datalake:verify",
+    "prepare": "husky"
   }
 }

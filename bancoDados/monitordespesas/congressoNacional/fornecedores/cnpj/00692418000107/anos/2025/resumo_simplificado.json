@@ -1,0 +1,62 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
+    "cnpj": "00692418000107",
+    "total_recebido": 1388.0099999999998,
+    "numero_transacoes": 6,
+    "numero_deputados": 3
+  },
+  "ano": 2025,
+  "total_recebido": 938.01,
+  "quantidade_transacoes": 4,
+  "principais_deputados": [
+    {
+      "deputado_id": 204379,
+      "deputado_nome": "Acácio Favacho",
+      "total": 389.62,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 41.54
+    },
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 348.39,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 37.14
+    },
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 200.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 21.32
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 938.01,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 389.62,
+      "porcentagem_do_total": 41.54
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 348.39,
+      "porcentagem_do_total": 37.14
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 200.0,
+      "porcentagem_do_total": 21.32
+    }
+  ]
+}

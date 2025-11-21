@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "PETROMAY DERIVADOS DE PETROLEO LTDA",
+    "cnpj": "01691433000101",
+    "total_recebido": 343.01,
+    "numero_transacoes": 2,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 143.01,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 143.01,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 143.01,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 143.01,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

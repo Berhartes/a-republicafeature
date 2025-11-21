@@ -1,0 +1,47 @@
+{
+  "deputado": {
+    "id": 212625,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/212625",
+    "nome": "Dr. Gonçalo",
+    "siglaPartido": "PODE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/212625.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 1137.17,
+  "quantidade_transacoes": 2,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 1137.17,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 1137.17,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 1959.07,
+      "porcentagem_do_total": 172.28
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": -821.9,
+      "porcentagem_do_total": -72.28
+    }
+  ]
+}

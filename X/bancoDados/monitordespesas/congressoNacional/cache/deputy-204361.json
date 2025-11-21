@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T17:45:22Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "deputados.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "deputadoId": "204361"
+  },
+  "data": {
+    "id": "204361",
+    "nome": "Carlos Chiodini",
+    "nomeEleitoral": "Carlos Chiodini",
+    "nomeCivil": null,
+    "partido": "MDB",
+    "siglaPartido": "MDB",
+    "uf": "SC",
+    "siglaUf": "SC",
+    "urlFoto": null,
+    "totalDespesas": 688619.25,
+    "numeroDespesas": 1200,
+    "fornecedoresIdentificados": 187,
+    "createdAt": "2025-11-01T17:45:19Z",
+    "gastosPorAno": {},
+    "transacoesPorAno": {},
+    "topCategorias": [],
+    "topFornecedores": [],
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "temDetalhes": false
+  }
+}

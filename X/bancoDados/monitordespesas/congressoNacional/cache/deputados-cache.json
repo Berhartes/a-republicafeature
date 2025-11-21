@@ -1,0 +1,31 @@
+{
+  "deputados": [
+    {
+      "id": "204469",
+      "nome": "Albuquerque",
+      "nomeEleitoral": "Albuquerque",
+      "siglaPartido": "UNIÃO",
+      "siglaUf": "BA",
+      "urlFoto": "https://via.placeholder.com/100x100.png?text=Albuquerque",
+      "gastosPorAno": { "2023": 1200000.0, "2024": 1624065.15 },
+      "transacoesPorAno": { "2023": 480, "2024": 597 },
+      "anosDisponiveis": [2023, 2024]
+    },
+    {
+      "id": "73486",
+      "nome": "Alice Portugal",
+      "nomeEleitoral": "Alice Portugal",
+      "siglaPartido": "PCdoB",
+      "siglaUf": "BA",
+      "urlFoto": "https://via.placeholder.com/100x100.png?text=Alice",
+      "gastosPorAno": { "2023": 1300000.0, "2024": 1427295.41 },
+      "transacoesPorAno": { "2023": 800, "2024": 882 },
+      "anosDisponiveis": [2023, 2024]
+    }
+  ],
+  "metadata": {
+    "totalDeputados": 2,
+    "anosDisponiveis": [2023, 2024],
+    "generatedAt": "2025-11-10T00:00:00Z"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "deputado": {
+    "id": 204423,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204423",
+    "nome": "André Ferreira",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "PE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204423.jpg",
+    "email": "dep.andreferreira@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 52719.29,
+  "quantidade_transacoes": 79,
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 52719.29,
+      "quantidade_transacoes": 79,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "COND. EMPRES. ILHA DO LEITE",
+      "cnpj": "01834611000106",
+      "total": 36700.0,
+      "quantidade_transacoes": 40,
+      "porcentagem_do_total": 69.61
+    },
+    {
+      "nome": "IDA KITOVER",
+      "cnpj": "19803591487",
+      "total": 7500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 14.23
+    },
+    {
+      "nome": "Companhia Energética de Pernambuco",
+      "cnpj": "10835932000108",
+      "total": 7060.51,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 13.39
+    },
+    {
+      "nome": "Claro S.A - Embratel",
+      "cnpj": "40432544000147",
+      "total": 903.98,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.71
+    },
+    {
+      "nome": "EDVALDO FRANCISCO DE OLIVEIRA 49191160120",
+      "cnpj": "32373812000179",
+      "total": 503.8,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.96
+    },
+    {
+      "nome": "AVG Technologies",
+      "cnpj": "00000000000010",
+      "total": 51.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.1
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 6582.64,
+      "porcentagem_do_total": 12.49
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 7621.88,
+      "porcentagem_do_total": 14.46
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 6935.81,
+      "porcentagem_do_total": 13.16
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 6404.88,
+      "porcentagem_do_total": 12.15
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 2929.63,
+      "porcentagem_do_total": 5.56
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 4312.98,
+      "porcentagem_do_total": 8.18
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 4937.49,
+      "porcentagem_do_total": 9.37
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 4490.12,
+      "porcentagem_do_total": 8.52
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 4873.86,
+      "porcentagem_do_total": 9.24
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 3630.0,
+      "porcentagem_do_total": 6.89
+    }
+  ]
+}

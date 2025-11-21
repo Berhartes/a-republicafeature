@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "POSTO BONANZA",
+      "cnpj": "19302875000176",
+      "total_recebido": 98.95,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:15.224999"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 98.95
+  },
+  "anos": {
+    "2024": {
+      "total": 98.95,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204495": {
+      "deputado": {
+        "id": 204495,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204495",
+        "nome": "Airton Faleiro",
+        "nomeEleitoral": "Airton Faleiro",
+        "siglaPartido": "PT",
+        "uriPartido": "",
+        "siglaUf": "PA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204495.jpg",
+        "email": "dep.airtonfaleiro@camara.leg.br"
+      },
+      "total": 98.95,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7823304,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-30T11:53:10",
+          "numDocumento": "181928",
+          "valorDocumento": 98.95,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7823304",
+          "nomeFornecedor": "POSTO BONANZA",
+          "cnpjCpfFornecedor": "19302875000176",
+          "valorLiquido": 98.95,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

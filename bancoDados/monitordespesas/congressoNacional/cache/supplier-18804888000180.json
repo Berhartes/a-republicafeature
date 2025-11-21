@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-12T00:38:35Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "1.0.0",
+    "legislatura": 57,
+    "cnpj": "18804888000180"
+  },
+  "data": {
+    "cnpj": "18804888000180",
+    "nome": "BRASIL ONE SERVICOS DE TECNOLOGIA DA INFORMACAO LTDA DEXATEC",
+    "nomeFornecedor": "BRASIL ONE SERVICOS DE TECNOLOGIA DA INFORMACAO LTDA DEXATEC",
+    "totalTransacionado": 8100.0,
+    "totalRecebido": 8100.0,
+    "totalRecebidoTodos": 8100.0,
+    "transacoes": 4,
+    "numeroTransacoes": 4,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [],
+    "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+    "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+    "categorias": [
+      "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+    ],
+    "categoriasOriginais": [
+      "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+    ],
+    "categoriasInfo": {
+      "principal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "normalizadas": [
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+      ],
+      "principalOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "originais": [
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+      ]
+    },
+    "distribuicaoTipos": {
+      "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+        "valor": 5000.0,
+        "quantidade": 4
+      },
+      "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+        "valor": 3100.0,
+        "quantidade": 4
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+        "valor": 5000.0,
+        "quantidade": 4
+      },
+      "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": {
+        "valor": 3100.0,
+        "quantidade": 4
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 8100.0,
+        "transacoes": 4,
+        "deputados": 1
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "PSJ SAO SIMAO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "30025773000193",
+      "total_recebido": 279.5,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:05.011010"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES": 279.5
+  },
+  "anos": {
+    "2024": {
+      "total": 279.5,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 279.5,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7758660,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-17T00:00:00",
+          "numDocumento": "237563",
+          "valorDocumento": 143.02,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7758660.pdf",
+          "nomeFornecedor": "PSJ SAO SIMAO COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "30025773000193",
+          "valorLiquido": 143.02,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2051797,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 8,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+          "codDocumento": 7791960,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-08-16T00:00:00",
+          "numDocumento": "253446",
+          "valorDocumento": 136.48,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7791960.pdf",
+          "nomeFornecedor": "PSJ SAO SIMAO COMERCIO DE COMBUSTIVEIS LTDA",
+          "cnpjCpfFornecedor": "30025773000193",
+          "valorLiquido": 136.48,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2068293,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

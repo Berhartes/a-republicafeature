@@ -1,0 +1,48 @@
+{
+  "deputado": {
+    "id": 230088,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/230088",
+    "nome": "Dra. Mayra Pinheiro",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "CE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/230088.jpg",
+    "email": null
+  },
+  "ano": 2025,
+  "total_gasto": 100.7,
+  "quantidade_transacoes": 2,
+  "principais_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 100.7,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "G S LIMA ALIMENTOS",
+      "cnpj": "30089327000142",
+      "total": 59.7,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 59.29
+    },
+    {
+      "nome": "EMPORIO DA TAPIOCA",
+      "cnpj": "29327597000165",
+      "total": 41.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 40.71
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 100.7,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

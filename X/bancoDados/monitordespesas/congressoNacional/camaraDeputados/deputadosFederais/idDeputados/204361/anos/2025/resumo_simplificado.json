@@ -1,0 +1,140 @@
+{
+  "deputado": {
+    "id": 204361,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361",
+    "nome": "Carlos Chiodini",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "SC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+    "email": null
+  },
+  "ano": 2025,
+  "total_gasto": 21243.33,
+  "quantidade_transacoes": 73,
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 10745.37,
+      "quantidade_transacoes": 55,
+      "porcentagem_do_total": 50.58
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 5890.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 27.73
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 3361.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 15.82
+    },
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 907.26,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 4.27
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 249.8,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.18
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "LETSROCKET COMUNICAÇÃO DIGITAL LTDA",
+      "cnpj": "22507365000140",
+      "total": 5890.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 27.73
+    },
+    {
+      "nome": "Posto Grid Ltda",
+      "cnpj": "07063295000437",
+      "total": 2131.11,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 10.03
+    },
+    {
+      "nome": "DRT Hotel LTDA",
+      "cnpj": "08963640000109",
+      "total": 1650.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 7.77
+    },
+    {
+      "nome": "AUTO POSTO 302 SUL LTDA",
+      "cnpj": "30642701000195",
+      "total": 1200.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 5.65
+    },
+    {
+      "nome": "POSTO ITAJUBA LTDA",
+      "cnpj": "00745841000128",
+      "total": 957.97,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 4.51
+    },
+    {
+      "nome": "HOTEL 7 ITAJAÍ",
+      "cnpj": "37802695000135",
+      "total": 730.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.44
+    },
+    {
+      "nome": "POSTOS FLEX BAEPENDI LTDA",
+      "cnpj": "97530307000136",
+      "total": 700.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 3.3
+    },
+    {
+      "nome": "REDE DE POSTOS APOLO LTDA",
+      "cnpj": "09164791000755",
+      "total": 572.39,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 2.69
+    },
+    {
+      "nome": "INDUSTRIA DE HOTEIS GUZZONI S/A",
+      "cnpj": "64631344000262",
+      "total": 504.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.37
+    },
+    {
+      "nome": "ATLANTICA HOTELS INTERNATIONAL BRASIL LTDA",
+      "cnpj": "02223966010690",
+      "total": 477.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.25
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 7822.85,
+      "porcentagem_do_total": 36.82
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 12687.48,
+      "porcentagem_do_total": 59.72
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 733.0,
+      "porcentagem_do_total": 3.45
+    }
+  ]
+}

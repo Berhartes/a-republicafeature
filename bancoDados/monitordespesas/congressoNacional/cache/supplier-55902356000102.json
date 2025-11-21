@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-12T00:38:35Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "1.0.0",
+    "legislatura": 57,
+    "cnpj": "55902356000102"
+  },
+  "data": {
+    "cnpj": "55902356000102",
+    "nome": "Arte Print Comunicação Visual e Gráfica LTDA",
+    "nomeFornecedor": "Arte Print Comunicação Visual e Gráfica LTDA",
+    "totalTransacionado": 12000.0,
+    "totalRecebido": 12000.0,
+    "totalRecebidoTodos": 12000.0,
+    "transacoes": 1,
+    "numeroTransacoes": 1,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [],
+    "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+    "categoriaOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+    "categorias": [
+      "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+    ],
+    "categoriasOriginais": [
+      "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+    ],
+    "categoriasInfo": {
+      "principal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "normalizadas": [
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+      ],
+      "principalOriginal": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "originais": [
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR"
+      ]
+    },
+    "distribuicaoTipos": {
+      "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+        "valor": 12000.0,
+        "quantidade": 1
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR": {
+        "valor": 12000.0,
+        "quantidade": 1
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2024": {
+        "valor": 12000.0,
+        "transacoes": 1,
+        "deputados": 1
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "POSTO ESTRELA",
       "cnpj": "35017201000186",
-      "total_recebido": 228.0,
+      "total_recebido": 388.39,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:56:22.285379"
+    "generatedAt": "2025-11-11T05:22:23.243371"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 228.0
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 388.39
   },
   "anos": {
-    "2025": {
-      "total": 228.0,
+    "2023": {
+      "total": 388.39,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "133439": {
+    "204549": {
       "deputado": {
-        "id": 133439,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/133439",
-        "nome": "André Figueiredo",
-        "siglaPartido": "PDT",
+        "id": 204549,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204549",
+        "nome": "AJ Albuquerque",
+        "nomeEleitoral": "AJ Albuquerque",
+        "siglaPartido": "PP",
         "uriPartido": "",
         "siglaUf": "CE",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/133439.jpg",
-        "email": "dep.andrefigueiredo@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204549.jpg",
+        "email": "dep.ajalbuquerque@camara.leg.br"
       },
-      "total": 228.0,
+      "total": 388.39,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2025,
-          "mes": 6,
+          "ano": 2023,
+          "mes": 2,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7936340,
+          "codDocumento": 7500112,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2025-06-24T00:00:00",
-          "numDocumento": "218868",
-          "valorDocumento": 228.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1748/2025/7936340.pdf",
+          "dataDocumento": "2023-02-18T00:00:00",
+          "numDocumento": "122960",
+          "valorDocumento": 388.39,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3216/2023/7500112.pdf",
           "nomeFornecedor": "POSTO ESTRELA",
           "cnpjCpfFornecedor": "35017201000186",
-          "valorLiquido": 228.0,
+          "valorLiquido": 388.39,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

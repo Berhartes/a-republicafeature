@@ -1,0 +1,176 @@
+{
+  "deputado": {
+    "id": 160598,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160598",
+    "nome": "Flávia Morais",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "GO",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
+    "email": "dep.flaviamorais@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 430525.22,
+  "quantidade_transacoes": 143,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 233000.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 54.12
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 88940.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 20.66
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 77872.8,
+      "quantidade_transacoes": 42,
+      "porcentagem_do_total": 18.09
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 19796.47,
+      "quantidade_transacoes": 64,
+      "porcentagem_do_total": 4.6
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 10915.95,
+      "quantidade_transacoes": 16,
+      "porcentagem_do_total": 2.54
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AAZ ASSESSORIA DE IMPRENSA E COMUNICAÇÃO - EIRELI-ME",
+      "cnpj": "27203299000138",
+      "total": 135000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 31.36
+    },
+    {
+      "nome": "SUPREMA MOBILIDADE LTDA",
+      "cnpj": "24894397000170",
+      "total": 75500.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 17.54
+    },
+    {
+      "nome": "HELDER ROCHA LEÃO",
+      "cnpj": "56524650182",
+      "total": 64470.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 14.97
+    },
+    {
+      "nome": "LAMS COMERCIO E SERVIÇOS LTDA",
+      "cnpj": "40875917000154",
+      "total": 50000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 11.61
+    },
+    {
+      "nome": "AMV GRÁFICA LTDA",
+      "cnpj": "02911413000153",
+      "total": 48000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 11.15
+    },
+    {
+      "nome": "TRANSPORTES GRITSCH LTDA",
+      "cnpj": "90739624000118",
+      "total": 13440.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.12
+    },
+    {
+      "nome": "PREFEITURA DE GOIÂNIA",
+      "cnpj": "01612092000123",
+      "total": 8857.64,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 2.06
+    },
+    {
+      "nome": "TELEFÔNICA BRASIL S/A - VIVO",
+      "cnpj": "02558157000162",
+      "total": 4799.74,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.11
+    },
+    {
+      "nome": "VIVO TELEFONIA BRASIL S/A",
+      "cnpj": "02558157000162",
+      "total": 2400.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 0.56
+    },
+    {
+      "nome": "Claro NXT Telecomunicações S.A",
+      "cnpj": "66970229001805",
+      "total": 1318.86,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 0.31
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 29452.5,
+      "porcentagem_do_total": 6.84
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 29524.51,
+      "porcentagem_do_total": 6.86
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 84534.7,
+      "porcentagem_do_total": 19.64
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 36306.93,
+      "porcentagem_do_total": 8.43
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 37208.95,
+      "porcentagem_do_total": 8.64
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 42147.69,
+      "porcentagem_do_total": 9.79
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 38598.4,
+      "porcentagem_do_total": 8.97
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 89157.53,
+      "porcentagem_do_total": 20.71
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 43594.01,
+      "porcentagem_do_total": 10.13
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "deputado": {
+    "id": 171623,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/171623",
+    "nome": "Fabio Reis",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "SE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/171623.jpg",
+    "email": "dep.fabioreis@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 58985.11,
+  "quantidade_transacoes": 52,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 18000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 30.52
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 14831.08,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 25.14
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 9898.86,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 16.78
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 8000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 13.56
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 6071.47,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 10.29
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "V & M LOCADORA",
+      "cnpj": "05902461000173",
+      "total": 18000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 30.52
+    },
+    {
+      "nome": "AUTO POSTO ROCHA LTDA",
+      "cnpj": "07855647000144",
+      "total": 11903.98,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 20.18
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 9898.86,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 16.78
+    },
+    {
+      "nome": "GERALDO CAITANO DOS SANTOS",
+      "cnpj": "50560962000173",
+      "total": 3000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 5.09
+    },
+    {
+      "nome": "TELEFÔNICA BRASIL S/A - VIVO",
+      "cnpj": "02558157000162",
+      "total": 2599.98,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.41
+    },
+    {
+      "nome": "AMORETTO CAFES EXPRESSO LTDA",
+      "cnpj": "08532429000131",
+      "total": 2100.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 3.56
+    },
+    {
+      "nome": "ASSOCIACAO DE RADIODIFUSAO COMUNITARIA LAGARTENSE",
+      "cnpj": "08881517000149",
+      "total": 2000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.39
+    },
+    {
+      "nome": "ROGéRIO C. COSTA MONTEIRO LTDA",
+      "cnpj": "48879840000100",
+      "total": 2000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.39
+    },
+    {
+      "nome": "Telefônica Brasil S.A. VIVO",
+      "cnpj": "02558157000162",
+      "total": 1300.13,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.2
+    },
+    {
+      "nome": "STARLINK BRAZIL SERVIÇOS DE INTERNET LTDA",
+      "cnpj": "40154884000153",
+      "total": 1152.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 1.95
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 591.8,
+      "porcentagem_do_total": 1.0
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 13255.22,
+      "porcentagem_do_total": 22.47
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 21901.78,
+      "porcentagem_do_total": 37.13
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 17911.27,
+      "porcentagem_do_total": 30.37
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 5025.99,
+      "porcentagem_do_total": 8.52
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 299.05,
+      "porcentagem_do_total": 0.51
+    }
+  ]
+}

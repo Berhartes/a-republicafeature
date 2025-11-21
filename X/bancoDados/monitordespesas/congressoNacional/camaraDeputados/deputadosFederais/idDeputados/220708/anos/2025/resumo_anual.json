@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "deputado": {
+      "id": 220708,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220708",
+      "nome": "Gabriel Nunes",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "BA",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220708.jpg",
+      "email": "dep.gabrielnunes@camara.leg.br"
+    },
+    "ano": 2025,
+    "total_despesas": 2159.4,
+    "quantidade_transacoes": 5,
+    "quantidade_categorias": 1,
+    "quantidade_fornecedores": 2,
+    "periodo_inicio": "2025-01-10T00:00:00",
+    "periodo_fim": "2025-06-03T00:00:00",
+    "generatedAt": "2025-11-10T22:37:27.799608"
+  },
+  "resumo_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 2159.4,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_fornecedores": [
+    {
+      "nome": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+      "cnpj": "15139629000194",
+      "total": 1986.52,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 91.99
+    },
+    {
+      "nome": "ATACADAO DIA A DIA S.A",
+      "cnpj": "17457404002589",
+      "total": 172.88,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 8.01
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 716.04,
+      "porcentagem_do_total": 33.16
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 1270.48,
+      "porcentagem_do_total": 58.83
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 172.88,
+      "porcentagem_do_total": 8.01
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2025,
+      "mes": 6,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7927045,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2025-06-03T00:00:00",
+      "numDocumento": "9882",
+      "valorDocumento": 172.88,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7927045",
+      "nomeFornecedor": "ATACADAO DIA A DIA S.A",
+      "cnpjCpfFornecedor": "17457404002589",
+      "valorLiquido": 172.88,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2144038,
+      "parcela": 0
+    },
+    {
+      "ano": 2025,
+      "mes": 1,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7858192,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-01-10T00:00:00",
+      "numDocumento": "838625905",
+      "valorDocumento": 246.21,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3645/2025/7858192.pdf",
+      "nomeFornecedor": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+      "cnpjCpfFornecedor": "15139629000194",
+      "valorLiquido": 246.21,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2104417,
+      "parcela": 0
+    },
+    {
+      "ano": 2025,
+      "mes": 1,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7858191,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-01-10T00:00:00",
+      "numDocumento": "838638401",
+      "valorDocumento": 469.83,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3645/2025/7858191.pdf",
+      "nomeFornecedor": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+      "cnpjCpfFornecedor": "15139629000194",
+      "valorLiquido": 469.83,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 2104417,
+      "parcela": 0
+    },
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7871581,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-02-11T00:00:00",
+      "numDocumento": "846384402",
+      "valorDocumento": 483.82,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3645/2025/7871581.pdf",
+      "nomeFornecedor": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+      "cnpjCpfFornecedor": "15139629000194",
+      "valorLiquido": 479.18,
+      "valorGlosa": 4.64,
+      "numRessarcimento": "",
+      "codLote": 2111889,
+      "parcela": 0
+    },
+    {
+      "ano": 2025,
+      "mes": 2,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "codDocumento": 7871578,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2025-02-11T00:00:00",
+      "numDocumento": "846403869",
+      "valorDocumento": 799.94,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3645/2025/7871578.pdf",
+      "nomeFornecedor": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
+      "cnpjCpfFornecedor": "15139629000194",
+      "valorLiquido": 791.3,
+      "valorGlosa": 8.64,
+      "numRessarcimento": "",
+      "codLote": 2111889,
+      "parcela": 0
+    }
+  ]
+}

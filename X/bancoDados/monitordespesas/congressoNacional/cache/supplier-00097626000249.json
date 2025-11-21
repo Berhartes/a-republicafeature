@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-01T01:12:04Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "v1.0.0",
+    "legislatura": 57,
+    "cnpj": "00097626000249"
+  },
+  "data": {
+    "cnpj": "00097626000249",
+    "nome": "BRASAL COMBUSTIVEIS LTDA",
+    "nomeFornecedor": "BRASAL COMBUSTIVEIS LTDA",
+    "totalTransacionado": 550.9,
+    "totalRecebido": 550.9,
+    "totalRecebidoTodos": 550.9,
+    "transacoes": 3,
+    "numeroTransacoes": 3,
+    "numeroDeputadosAtendidos": 3,
+    "deputadosAtendidos": [
+      {
+        "id": "226708",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 250.89,
+        "transacoes": 1
+      },
+      {
+        "id": "178993",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 200.01,
+        "transacoes": 1
+      },
+      {
+        "id": "204374",
+        "nome": "",
+        "nomeEleitoral": "",
+        "siglaPartido": null,
+        "siglaUf": null,
+        "totalGasto": 100.0,
+        "transacoes": 1
+      }
+    ],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 550.9,
+        "quantidade": 3
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 550.9,
+        "quantidade": 3
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 300.01,
+        "transacoes": 2,
+        "deputados": 0
+      },
+      "2024": {
+        "valor": 250.89,
+        "transacoes": 1,
+        "deputados": 0
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [
+      {
+        "valor": 250.89,
+        "ano": 2024,
+        "mes": 3,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "552265",
+        "dataDocumento": "2024-03-22T12:19:14",
+        "deputadoId": "226708",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 200.01,
+        "ano": 2023,
+        "mes": 3,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "419141",
+        "dataDocumento": "2023-03-18T00:00:00",
+        "deputadoId": "178993",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      },
+      {
+        "valor": 100.0,
+        "ano": 2023,
+        "mes": 8,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "documento": "475746",
+        "dataDocumento": "2023-08-19T00:00:00",
+        "deputadoId": "204374",
+        "deputadoNome": "",
+        "siglaPartido": null,
+        "siglaUf": null
+      }
+    ],
+    "transacoesDetalhadas": [
+      {
+        "valor": 250.89,
+        "valorLiquido": 250.89,
+        "valorDocumento": 250.89,
+        "ano": 2024,
+        "mes": 3,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2024-03-22T12:19:14",
+        "data": "2024-03-22T12:19:14",
+        "numDocumento": "552265",
+        "codDocumento": 7707069,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7707069",
+        "deputadoId": "226708",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "BRASAL COMBUSTIVEIS LTDA",
+        "cnpj": "00097626000249",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7707069"
+      },
+      {
+        "valor": 100.0,
+        "valorLiquido": 100.0,
+        "valorDocumento": 100.0,
+        "ano": 2023,
+        "mes": 8,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2023-08-19T00:00:00",
+        "data": "2023-08-19T00:00:00",
+        "numDocumento": "475746",
+        "codDocumento": 7595026,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7595026",
+        "deputadoId": "204374",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "BRASAL COMBUSTIVEIS LTDA",
+        "cnpj": "00097626000249",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7595026"
+      },
+      {
+        "valor": 200.01,
+        "valorLiquido": 200.01,
+        "valorDocumento": 200.01,
+        "ano": 2023,
+        "mes": 3,
+        "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+        "dataDocumento": "2023-03-18T00:00:00",
+        "data": "2023-03-18T00:00:00",
+        "numDocumento": "419141",
+        "codDocumento": 7512054,
+        "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7512054",
+        "deputadoId": "178993",
+        "deputadoNome": null,
+        "deputadoNomeEleitoral": null,
+        "siglaPartido": null,
+        "siglaUf": null,
+        "fornecedorNome": "BRASAL COMBUSTIVEIS LTDA",
+        "cnpj": "00097626000249",
+        "urlDocumentoPdf": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7512054"
+      }
+    ],
+    "totalTransacoesDetalhadas": 3,
+    "aliases": [
+      "00097626000249"
+    ],
+    "temDetalhes": true
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "deputado": {
+    "id": 132504,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/132504",
+    "nome": "Enio Verri",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/132504.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 75644.75,
+  "quantidade_transacoes": 22,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 51000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 67.42
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 8738.76,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 11.55
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 7180.75,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 9.49
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 4885.46,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 6.46
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 2938.56,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 3.88
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "FERNANDO CUNHA NEVES",
+      "cnpj": "48789733000183",
+      "total": 36000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 47.59
+    },
+    {
+      "nome": "A SANT ANA ANDRADE SCHMIDT - MARKETING E TREINAMENTO ME",
+      "cnpj": "28473077000106",
+      "total": 15000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 19.83
+    },
+    {
+      "nome": "MARFAM ASSESSORIA COMERCIAL LTDA",
+      "cnpj": "06057369000117",
+      "total": 7180.75,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 9.49
+    },
+    {
+      "nome": "SIAO AUTO POSTO LTDA",
+      "cnpj": "24350771000177",
+      "total": 4885.46,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 6.46
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 4329.49,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 5.72
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 2615.94,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 3.46
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 1793.33,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.37
+    },
+    {
+      "nome": "TAM LINHAS AEREAS S/A.",
+      "cnpj": "02012862000160",
+      "total": 1575.71,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.08
+    },
+    {
+      "nome": "Gol Linhas Aereas Inteligentes",
+      "cnpj": "06164253000187",
+      "total": 1362.85,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.8
+    },
+    {
+      "nome": "CELULAR FUNCIONAL",
+      "cnpj": "00000000000001",
+      "total": 901.22,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 1.19
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 8663.52,
+      "porcentagem_do_total": 11.45
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 61117.09,
+      "porcentagem_do_total": 80.79
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 5864.14,
+      "porcentagem_do_total": 7.75
+    }
+  ]
+}

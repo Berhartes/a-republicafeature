@@ -1,0 +1,42 @@
+{
+  "fornecedor": {
+    "nome": "AUTO POSTO 302 SUL LTDA",
+    "cnpj": "30642701000195",
+    "total_recebido": 1420.2,
+    "numero_transacoes": 5,
+    "numero_deputados": 2
+  },
+  "ano": 2025,
+  "total_recebido": 653.01,
+  "quantidade_transacoes": 2,
+  "principais_deputados": [
+    {
+      "deputado_id": 204560,
+      "deputado_nome": "Adolfo Viana",
+      "total": 653.01,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 653.01,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 351.55,
+      "porcentagem_do_total": 53.84
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 301.46,
+      "porcentagem_do_total": 46.16
+    }
+  ]
+}

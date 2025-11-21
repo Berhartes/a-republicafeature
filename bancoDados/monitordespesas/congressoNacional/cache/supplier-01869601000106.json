@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-12T00:38:35Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "1.0.0",
+    "legislatura": 57,
+    "cnpj": "01869601000106"
+  },
+  "data": {
+    "cnpj": "01869601000106",
+    "nome": "AVENIDA PALACE HOTEL LTDA",
+    "nomeFornecedor": "AVENIDA PALACE HOTEL LTDA",
+    "totalTransacionado": 497.68,
+    "totalRecebido": 497.68,
+    "totalRecebidoTodos": 497.68,
+    "transacoes": 2,
+    "numeroTransacoes": 2,
+    "numeroDeputadosAtendidos": 1,
+    "deputadosAtendidos": [],
+    "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+    "categoriaOriginal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+    "categorias": [
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+    ],
+    "categoriasOriginais": [
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+    ],
+    "categoriasInfo": {
+      "principal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "normalizadas": [
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+      ],
+      "principalOriginal": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "originais": [
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL"
+      ]
+    },
+    "distribuicaoTipos": {
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+        "valor": 497.68,
+        "quantidade": 2
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": {
+        "valor": 497.68,
+        "quantidade": 2
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2023": {
+        "valor": 497.68,
+        "transacoes": 2,
+        "deputados": 1
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

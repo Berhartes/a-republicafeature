@@ -63,7 +63,9 @@ class BaseDataWriter(ABC):
         legislador: BaseLegislador,
         despesas: List[BaseDespesa],
         legislatura: int,
-        anos: List[int]
+        anos: List[int],
+        save_by_year: bool = True,
+        detalhes: Dict | None = None
     ) -> None:
         """Write legislator's expenses data."""
         pass

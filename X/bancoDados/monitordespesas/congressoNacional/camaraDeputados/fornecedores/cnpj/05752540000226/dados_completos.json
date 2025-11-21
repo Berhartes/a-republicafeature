@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AUTO POSTO NIVALDO MAZZI JR",
+      "cnpj": "05752540000226",
+      "total_recebido": 552.98,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:05.779177"
+  },
+  "categorias": {
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 552.98
+  },
+  "anos": {
+    "2023": {
+      "total": 360.99,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 191.99,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "nomeEleitoral": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 552.98,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7647632,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-11-08T00:00:00",
+          "numDocumento": "513925",
+          "valorDocumento": 360.99,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7647632.pdf",
+          "nomeFornecedor": "AUTO POSTO NIVALDO MAZZI JR",
+          "cnpjCpfFornecedor": "05752540000226",
+          "valorLiquido": 360.99,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7825749,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-01T00:00:00",
+          "numDocumento": "603843",
+          "valorDocumento": 191.99,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7825749.pdf",
+          "nomeFornecedor": "AUTO POSTO NIVALDO MAZZI JR",
+          "cnpjCpfFornecedor": "05752540000226",
+          "valorLiquido": 191.99,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

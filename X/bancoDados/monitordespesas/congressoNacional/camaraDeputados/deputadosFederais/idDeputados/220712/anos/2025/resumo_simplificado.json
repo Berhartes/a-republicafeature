@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 220712,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220712",
+    "nome": "Fausto Santos Jr.",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "AM",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220712.jpg",
+    "email": "dep.faustosantosjr@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 396055.96,
+  "quantidade_transacoes": 261,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 116408.06,
+      "quantidade_transacoes": 128,
+      "porcentagem_do_total": 29.39
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 99000.0,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 25.0
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 98000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 24.74
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "total": 57000.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 14.39
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 20672.42,
+      "quantidade_transacoes": 104,
+      "porcentagem_do_total": 5.22
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 99482.0,
+      "quantidade_transacoes": 117,
+      "porcentagem_do_total": 25.12
+    },
+    {
+      "nome": "ON LINE PUBLICIDADE E IMPRESSÃO LTDA",
+      "cnpj": "37783935000100",
+      "total": 98000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 24.74
+    },
+    {
+      "nome": "NEXOGEST SERVIÇOS DE PUBLICIDADE E COMUNICAÇÃO LTDA",
+      "cnpj": "59394284000190",
+      "total": 58500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 14.77
+    },
+    {
+      "nome": "N.C. DE SOUZA LTDA",
+      "cnpj": "23745434000116",
+      "total": 40500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 10.23
+    },
+    {
+      "nome": "TAXI AEREO VALE DO MADEIRA",
+      "cnpj": "22467056000193",
+      "total": 35000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 8.84
+    },
+    {
+      "nome": "CTA - CLEITON TAXI AEREO LTDA",
+      "cnpj": "04984400000130",
+      "total": 22000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.55
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 11509.44,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 2.91
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 5416.62,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.37
+    },
+    {
+      "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "cnpj": "00306597006308",
+      "total": 3631.85,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 0.92
+    },
+    {
+      "nome": "ROTA 411 COMBUSTIVEIS LTDA",
+      "cnpj": "32077655000154",
+      "total": 2597.96,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 0.66
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 45285.32,
+      "porcentagem_do_total": 11.43
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 38388.35,
+      "porcentagem_do_total": 9.69
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 51796.72,
+      "porcentagem_do_total": 13.08
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 58318.37,
+      "porcentagem_do_total": 14.72
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 34301.2,
+      "porcentagem_do_total": 8.66
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 32959.38,
+      "porcentagem_do_total": 8.32
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 59548.62,
+      "porcentagem_do_total": 15.04
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 14629.0,
+      "porcentagem_do_total": 3.69
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 28223.0,
+      "porcentagem_do_total": 7.13
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 32606.0,
+      "porcentagem_do_total": 8.23
+    }
+  ]
+}

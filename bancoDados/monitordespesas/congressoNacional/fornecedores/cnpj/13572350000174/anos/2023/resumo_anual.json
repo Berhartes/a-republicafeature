@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "MATO GROSSO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpj": "13572350000174",
+      "total_recebido": 282.96000000000004,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 282.96,
+    "quantidade_transacoes": 2,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-10-05T00:00:00",
+    "periodo_fim": "2023-12-18T00:00:00",
+    "generatedAt": "2025-11-11T21:37:54.002484"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 282.96,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 282.96,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 130.68,
+      "porcentagem_do_total": 46.18
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 152.28,
+      "porcentagem_do_total": 53.82
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 10,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7622951,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-10-05T00:00:00",
+      "numDocumento": "13683",
+      "valorDocumento": 130.68,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7622951",
+      "nomeFornecedor": "MATO GROSSO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "13572350000174",
+      "valorLiquido": 130.68,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1976736,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    },
+    {
+      "ano": 2023,
+      "mes": 12,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "codDocumento": 7663382,
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "codTipoDocumento": 4,
+      "dataDocumento": "2023-12-18T00:00:00",
+      "numDocumento": "14020",
+      "valorDocumento": 152.28,
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7663382",
+      "nomeFornecedor": "MATO GROSSO COMERCIO DE COMBUSTIVEIS LTDA",
+      "cnpjCpfFornecedor": "13572350000174",
+      "valorLiquido": 152.28,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1999437,
+      "parcela": 0,
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini"
+    }
+  ]
+}

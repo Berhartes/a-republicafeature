@@ -1,2 +1,1 @@
-declare module 'crypto-js';
-declare module 'crypto-js/sha256';
+// placeholder file intentionally left blank after crypto-js removal

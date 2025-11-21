@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 73701,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73701",
+    "nome": "Benedita da Silva",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73701.jpg",
+    "email": "dep.beneditadasilva@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 342419.83,
+  "quantidade_transacoes": 246,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 180000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 52.57
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 83965.48,
+      "quantidade_transacoes": 24,
+      "porcentagem_do_total": 24.52
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 36414.2,
+      "quantidade_transacoes": 150,
+      "porcentagem_do_total": 10.63
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 35750.67,
+      "quantidade_transacoes": 34,
+      "porcentagem_do_total": 10.44
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "total": 2968.85,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.87
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "AGENDA EM FOCO",
+      "cnpj": "22154714000197",
+      "total": 180000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 52.57
+    },
+    {
+      "nome": "IMOBILIARIA ATLANTICA LTDA",
+      "cnpj": "33124330000148",
+      "total": 52675.99,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 15.38
+    },
+    {
+      "nome": "PONTTUAL COMERCIO, SERVICOS, CONSULTORIA E GESTAO LTDA",
+      "cnpj": "09327036000159",
+      "total": 30000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 8.76
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 19764.96,
+      "quantidade_transacoes": 13,
+      "porcentagem_do_total": 5.77
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 15985.71,
+      "quantidade_transacoes": 21,
+      "porcentagem_do_total": 4.67
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS 206 LTDA",
+      "cnpj": "40084269000118",
+      "total": 12024.33,
+      "quantidade_transacoes": 32,
+      "porcentagem_do_total": 3.51
+    },
+    {
+      "nome": "Gol Linhas Aereas S.A.",
+      "cnpj": "07575651000159",
+      "total": 2968.85,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.87
+    },
+    {
+      "nome": "POSTO PALACIO GUANABARA LTDA",
+      "cnpj": "04816108000108",
+      "total": 2954.56,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 0.86
+    },
+    {
+      "nome": "AUTO POSTO INAJA LTDA",
+      "cnpj": "04521796000189",
+      "total": 2816.56,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 0.82
+    },
+    {
+      "nome": "BOTAFOGO SERVE BEM AUTO POSTO LTDA",
+      "cnpj": "00608401000129",
+      "total": 2788.64,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 0.81
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 28309.99,
+      "porcentagem_do_total": 8.27
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 35388.7,
+      "porcentagem_do_total": 10.33
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 37001.25,
+      "porcentagem_do_total": 10.81
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 37614.54,
+      "porcentagem_do_total": 10.98
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 38124.2,
+      "porcentagem_do_total": 11.13
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 33138.07,
+      "porcentagem_do_total": 9.68
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 42131.76,
+      "porcentagem_do_total": 12.3
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 32831.47,
+      "porcentagem_do_total": 9.59
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 31674.3,
+      "porcentagem_do_total": 9.25
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 26205.55,
+      "porcentagem_do_total": 7.65
+    }
+  ]
+}

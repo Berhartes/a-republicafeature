@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "Sudeste Foods Produtos Alimenticios",
+      "cnpj": "18041089000795",
+      "total_recebido": 95.0,
+      "numero_transacoes": 4,
+      "numero_deputados": 1
+    },
+    "ano": 2023,
+    "total_recebido": 95.0,
+    "quantidade_transacoes": 4,
+    "quantidade_deputados": 1,
+    "quantidade_categorias": 1,
+    "periodo_inicio": "2023-05-11T00:00:00",
+    "periodo_fim": "2023-06-01T00:00:00",
+    "generatedAt": "2025-11-11T21:38:03.670012"
+  },
+  "resumo_deputados": [
+    {
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso",
+      "total": 95.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "resumo_categorias": [
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 95.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 69.0,
+      "porcentagem_do_total": 72.63
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 26.0,
+      "porcentagem_do_total": 27.37
+    }
+  ],
+  "despesas_detalhadas": [
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7556150,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-05-11T00:00:00",
+      "numDocumento": "055444",
+      "valorDocumento": 23.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7556150.pdf",
+      "nomeFornecedor": "Sudeste Foods Produtos Alimenticios",
+      "cnpjCpfFornecedor": "18041089000795",
+      "valorLiquido": 23.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1940998,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7556153,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-05-18T00:00:00",
+      "numDocumento": "055931",
+      "valorDocumento": 23.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7556153.pdf",
+      "nomeFornecedor": "Sudeste Foods Produtos Alimenticios",
+      "cnpjCpfFornecedor": "18041089000795",
+      "valorLiquido": 23.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1940998,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 5,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7562621,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-05-25T00:00:00",
+      "numDocumento": "067189",
+      "valorDocumento": 23.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7562621.pdf",
+      "nomeFornecedor": "Sudeste Foods Produtos Alimenticios",
+      "cnpjCpfFornecedor": "18041089000795",
+      "valorLiquido": 23.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1944118,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    },
+    {
+      "ano": 2023,
+      "mes": 6,
+      "tipoDespesa": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "codDocumento": 7562625,
+      "tipoDocumento": "Nota Fiscal",
+      "codTipoDocumento": 0,
+      "dataDocumento": "2023-06-01T00:00:00",
+      "numDocumento": "067957",
+      "valorDocumento": 26.0,
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7562625.pdf",
+      "nomeFornecedor": "Sudeste Foods Produtos Alimenticios",
+      "cnpjCpfFornecedor": "18041089000795",
+      "valorLiquido": 26.0,
+      "valorGlosa": 0.0,
+      "numRessarcimento": "",
+      "codLote": 1944119,
+      "parcela": 0,
+      "deputado_id": 221328,
+      "deputado_nome": "Adilson Barroso"
+    }
+  ]
+}

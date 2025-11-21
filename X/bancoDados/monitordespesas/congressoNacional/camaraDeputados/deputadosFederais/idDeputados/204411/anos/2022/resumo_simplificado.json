@@ -1,0 +1,41 @@
+{
+  "deputado": {
+    "id": 204411,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204411",
+    "nome": "Filipe Barros",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "PR",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204411.jpg",
+    "email": "dep.filipebarros@camara.leg.br"
+  },
+  "ano": 2022,
+  "total_gasto": 50000.0,
+  "quantidade_transacoes": 1,
+  "principais_categorias": [
+    {
+      "categoria": "CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS",
+      "total": 50000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "LEANDRO ROSA ADVOGADOS ASSOCIADOS",
+      "cnpj": "21246199000102",
+      "total": 50000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 50000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

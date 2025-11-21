@@ -1,0 +1,132 @@
+{
+  "deputado": {
+    "id": 227324,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227324",
+    "nome": "Henrique Júnior",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "MA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/227324.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 146956.59,
+  "quantidade_transacoes": 49,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 37500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 25.52
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 36723.71,
+      "quantidade_transacoes": 35,
+      "porcentagem_do_total": 24.99
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 30221.4,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 20.56
+    },
+    {
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA",
+      "total": 25500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 17.35
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 13000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 8.85
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "LOCAVIP- Locadora de Veículos Eireli",
+      "cnpj": "12353201000151",
+      "total": 37500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 25.52
+    },
+    {
+      "nome": "Topper Investimentos, Bens e Capital - Eireli",
+      "cnpj": "31266155000106",
+      "total": 30000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 20.41
+    },
+    {
+      "nome": "Triângullo Services Limp. Conser. E Segurança Privada",
+      "cnpj": "33150138000126",
+      "total": 25500.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 17.35
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 24170.7,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 16.45
+    },
+    {
+      "nome": "H V RIOS E CIA LTDA-ME",
+      "cnpj": "11091017000118",
+      "total": 13000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 8.85
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 12553.01,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 8.54
+    },
+    {
+      "nome": "Cia Aérea - GOL",
+      "cnpj": "07575651000159",
+      "total": 4011.48,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 2.73
+    },
+    {
+      "nome": "Manoel Cassio de Souza Guedes",
+      "cnpj": "07266260000152",
+      "total": 221.4,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 0.15
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 44214.74,
+      "porcentagem_do_total": 30.09
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 39567.69,
+      "porcentagem_do_total": 26.92
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 50174.16,
+      "porcentagem_do_total": 34.14
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 13000.0,
+      "porcentagem_do_total": 8.85
+    }
+  ]
+}

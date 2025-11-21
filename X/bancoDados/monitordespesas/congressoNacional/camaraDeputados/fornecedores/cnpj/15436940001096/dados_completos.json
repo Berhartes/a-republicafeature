@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA",
+      "cnpj": "15436940001096",
+      "total_recebido": 1020.6099999999998,
+      "numero_transacoes": 7,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:07.720408"
+  },
+  "categorias": {
+    "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 1020.6099999999998
+  },
+  "anos": {
+    "2023": {
+      "total": 191.6,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 829.01,
+      "transacoes": 6,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "204528": {
+      "deputado": {
+        "id": 204528,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204528",
+        "nome": "Adriana Ventura",
+        "nomeEleitoral": "Adriana Ventura",
+        "siglaPartido": "NOVO",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
+        "email": "dep.adrianaventura@camara.leg.br"
+      },
+      "total": 1020.6099999999998,
+      "transacoes": 7,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 5,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7560686,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-05-28T00:00:00",
+          "numDocumento": "7453287",
+          "valorDocumento": 191.6,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7560686",
+          "nomeFornecedor": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA",
+          "cnpjCpfFornecedor": "15436940001096",
+          "valorLiquido": 191.6,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7702247,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-23T00:00:00",
+          "numDocumento": "11536577",
+          "valorDocumento": 358.79,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2024/7702247.pdf",
+          "nomeFornecedor": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA",
+          "cnpjCpfFornecedor": "15436940001096",
+          "valorLiquido": 358.79,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7702248,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-22T00:00:00",
+          "numDocumento": "50872829",
+          "valorDocumento": 53.78,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2024/7702248.pdf",
+          "nomeFornecedor": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA",
+          "cnpjCpfFornecedor": "15436940001096",
+          "valorLiquido": 53.78,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 2,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7702250,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-02-22T00:00:00",
+          "numDocumento": "11525259",
+          "valorDocumento": 11.92,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2024/7702250.pdf",
+          "nomeFornecedor": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA",
+          "cnpjCpfFornecedor": "15436940001096",
+          "valorLiquido": 11.92,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 3,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7725203,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-03-12T00:00:00",
+          "numDocumento": "11836393",
+          "valorDocumento": 147.05,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3195/2024/7725203.pdf",
+          "nomeFornecedor": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA",
+          "cnpjCpfFornecedor": "15436940001096",
+          "valorLiquido": 147.05,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 7,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7795508,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-07-10T00:00:00",
+          "numDocumento": "13607692",
+          "valorDocumento": 207.17,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7795508",
+          "nomeFornecedor": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA",
+          "cnpjCpfFornecedor": "15436940001096",
+          "valorLiquido": 207.17,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 11,
+          "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "codDocumento": 7849863,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-11-16T00:00:00",
+          "numDocumento": "15747463",
+          "valorDocumento": 50.3,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7849863",
+          "nomeFornecedor": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA",
+          "cnpjCpfFornecedor": "15436940001096",
+          "valorLiquido": 50.3,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

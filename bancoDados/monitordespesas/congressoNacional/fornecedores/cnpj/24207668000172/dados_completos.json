@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HI RIBEIRÃO PRETO HOTEIS E CONDOMINIOS",
+      "cnpj": "24207668000172",
+      "total_recebido": 1616.88,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:38:03.693012"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": 1616.88
+  },
+  "anos": {
+    "2023": {
+      "total": 1290.32,
+      "transacoes": 1,
+      "deputados": 1
+    },
+    "2024": {
+      "total": 326.56,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "221328": {
+      "deputado": {
+        "id": 221328,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328",
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+        "email": null
+      },
+      "total": 1616.88,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 10,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "codDocumento": 7636258,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-10-31T00:00:00",
+          "numDocumento": "83341",
+          "valorDocumento": 1290.32,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2023/7636258.pdf",
+          "nomeFornecedor": "HI RIBEIRÃO PRETO HOTEIS E CONDOMINIOS",
+          "cnpjCpfFornecedor": "24207668000172",
+          "valorLiquido": 1290.32,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1983689,
+          "parcela": 0
+        },
+        {
+          "ano": 2024,
+          "mes": 6,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "codDocumento": 7757856,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2024-06-22T00:00:00",
+          "numDocumento": "100295",
+          "valorDocumento": 326.56,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3712/2024/7757856.pdf",
+          "nomeFornecedor": "HI RIBEIRÃO PRETO HOTEIS E CONDOMINIOS",
+          "cnpjCpfFornecedor": "24207668000172",
+          "valorLiquido": 326.56,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 2051172,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

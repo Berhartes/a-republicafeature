@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-12T00:38:36Z",
+    "source": "etlpython-materialize",
+    "arquivoFonte": "fornecedores.json",
+    "version": "1.0.0",
+    "legislatura": 57,
+    "cnpj": "33971293000103"
+  },
+  "data": {
+    "cnpj": "33971293000103",
+    "nome": "POSTO DE COMBUSTIVEL 406 NORTE LTDA",
+    "nomeFornecedor": "POSTO DE COMBUSTIVEL 406 NORTE LTDA",
+    "totalTransacionado": 366.3,
+    "totalRecebido": 366.3,
+    "totalRecebidoTodos": 366.3,
+    "transacoes": 2,
+    "numeroTransacoes": 2,
+    "numeroDeputadosAtendidos": 2,
+    "deputadosAtendidos": [],
+    "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categoriaOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "categorias": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasOriginais": [
+      "COMBUSTÍVEIS E LUBRIFICANTES"
+    ],
+    "categoriasInfo": {
+      "principal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "normalizadas": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ],
+      "principalOriginal": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "originais": [
+        "COMBUSTÍVEIS E LUBRIFICANTES"
+      ]
+    },
+    "distribuicaoTipos": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 366.3,
+        "quantidade": 2
+      }
+    },
+    "distribuicaoTiposOriginais": {
+      "COMBUSTÍVEIS E LUBRIFICANTES": {
+        "valor": 366.3,
+        "quantidade": 2
+      }
+    },
+    "scoreSuspeicao": 0,
+    "evolucaoAnual": {
+      "2024": {
+        "valor": 366.3,
+        "transacoes": 2,
+        "deputados": 2
+      }
+    },
+    "alertas": [],
+    "medalhas": [],
+    "padroesSazonais": {},
+    "topTransacoes": [],
+    "transacoesDetalhadas": [],
+    "totalTransacoesDetalhadas": 0,
+    "aliases": [],
+    "temDetalhes": true
+  }
+}

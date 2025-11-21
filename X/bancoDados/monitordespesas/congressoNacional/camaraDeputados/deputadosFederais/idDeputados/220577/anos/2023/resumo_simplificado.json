@@ -1,0 +1,194 @@
+{
+  "deputado": {
+    "id": 220577,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220577",
+    "nome": "Augusto Puppio",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "AP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220577.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 543917.48,
+  "quantidade_transacoes": 335,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 291099.0,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 53.52
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 114269.05,
+      "quantidade_transacoes": 153,
+      "porcentagem_do_total": 21.01
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 70416.66,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 12.95
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 31132.0,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 5.72
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 29597.68,
+      "quantidade_transacoes": 123,
+      "porcentagem_do_total": 5.44
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TRAVEL TO AMAZON EIRELI - EPP",
+      "cnpj": "23982484000117",
+      "total": 106100.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 19.51
+    },
+    {
+      "nome": "SUPREMA MOBILIDADE LTDA",
+      "cnpj": "24894397000170",
+      "total": 70416.66,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 12.95
+    },
+    {
+      "nome": "J PANTOJA MENESCAL DE SOUSA MARKETING E COMUNICAÇÃO",
+      "cnpj": "19696961000100",
+      "total": 66000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 12.13
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 57571.73,
+      "quantidade_transacoes": 71,
+      "porcentagem_do_total": 10.58
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 46638.56,
+      "quantidade_transacoes": 74,
+      "porcentagem_do_total": 8.57
+    },
+    {
+      "nome": "TRAVEL TO AMAZON LTDA",
+      "cnpj": "23982484000117",
+      "total": 45600.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 8.38
+    },
+    {
+      "nome": "LA LOBATO LTDA",
+      "cnpj": "32606835000186",
+      "total": 28000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.15
+    },
+    {
+      "nome": "R F EMPREENDIMENTOS EIRELI-EPP",
+      "cnpj": "07424461000130",
+      "total": 23827.5,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 4.38
+    },
+    {
+      "nome": "CHARLES SOARES ALMEIDA 00605885273",
+      "cnpj": "30328507000130",
+      "total": 22000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.04
+    },
+    {
+      "nome": "J PANTOJA MENESCAL DE SOUSA MARKETING E COMUNICACAO",
+      "cnpj": "19696961000100",
+      "total": 22000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 4.04
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 900.0,
+      "porcentagem_do_total": 0.17
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 39749.83,
+      "porcentagem_do_total": 7.31
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 38420.58,
+      "porcentagem_do_total": 7.06
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 34458.84,
+      "porcentagem_do_total": 6.34
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 43337.44,
+      "porcentagem_do_total": 7.97
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 46321.18,
+      "porcentagem_do_total": 8.52
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 51862.01,
+      "porcentagem_do_total": 9.53
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 46436.39,
+      "porcentagem_do_total": 8.54
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 63606.22,
+      "porcentagem_do_total": 11.69
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 52053.2,
+      "porcentagem_do_total": 9.57
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 47171.66,
+      "porcentagem_do_total": 8.67
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 79600.13,
+      "porcentagem_do_total": 14.63
+    }
+  ]
+}

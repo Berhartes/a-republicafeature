@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEL PHENICIA LTDA",
+      "cnpj": "00469171000164",
+      "total_recebido": 957.2,
+      "numero_transacoes": 2,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-11T21:37:55.315482"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL": 957.2
+  },
+  "anos": {
+    "2023": {
+      "total": 957.2,
+      "transacoes": 2,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "220593": {
+      "deputado": {
+        "id": 220593,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MT",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+        "email": null
+      },
+      "total": 957.2,
+      "transacoes": 2,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "codDocumento": 7521154,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-09T00:00:00",
+          "numDocumento": "00000001419",
+          "valorDocumento": 594.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7521154.pdf",
+          "nomeFornecedor": "HOTEL PHENICIA LTDA",
+          "cnpjCpfFornecedor": "00469171000164",
+          "valorLiquido": 594.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1923411,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 4,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+          "codDocumento": 7526224,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-04-12T00:00:00",
+          "numDocumento": "00000003001",
+          "valorDocumento": 363.2,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7526224.pdf",
+          "nomeFornecedor": "HOTEL PHENICIA LTDA",
+          "cnpjCpfFornecedor": "00469171000164",
+          "valorLiquido": 363.2,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": 1924112,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

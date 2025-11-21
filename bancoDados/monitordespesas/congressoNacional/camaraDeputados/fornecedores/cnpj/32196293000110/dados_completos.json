@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "Gc Combustiveis Ltda",
       "cnpj": "32196293000110",
-      "total_recebido": 225.87,
+      "total_recebido": 129.1,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:36:09.339271"
+    "generatedAt": "2025-11-11T05:22:34.333450"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 225.87
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 129.1
   },
   "anos": {
     "2024": {
-      "total": 225.87,
+      "total": 129.1,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "121948": {
+    "220542": {
       "deputado": {
-        "id": 121948,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/121948",
-        "nome": "Adriano do Baldy",
-        "siglaPartido": "PP",
+        "id": 220542,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220542",
+        "nome": "Alexandre Guimarães",
+        "nomeEleitoral": "Alexandre Guimarães",
+        "siglaPartido": "MDB",
         "uriPartido": "",
-        "siglaUf": "GO",
+        "siglaUf": "TO",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
-        "email": "dep.adrianodobaldy@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
+        "email": "dep.alexandreguimaraes@camara.leg.br"
       },
-      "total": 225.87,
+      "total": 129.1,
       "transacoes": 1,
       "despesas": [
         {
           "ano": 2024,
           "mes": 8,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7778936,
+          "codDocumento": 7786448,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2024-08-01T15:44:10",
-          "numDocumento": "5388",
-          "valorDocumento": 225.87,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7778936",
+          "dataDocumento": "2024-08-01T00:00:00",
+          "numDocumento": "4966",
+          "valorDocumento": 129.1,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7786448",
           "nomeFornecedor": "Gc Combustiveis Ltda",
           "cnpjCpfFornecedor": "32196293000110",
-          "valorLiquido": 225.87,
+          "valorLiquido": 129.1,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

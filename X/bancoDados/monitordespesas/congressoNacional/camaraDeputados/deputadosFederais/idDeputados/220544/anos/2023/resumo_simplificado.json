@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 220544,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220544",
+    "nome": "Antonio Andrade",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "TO",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
+    "email": "dep.antonioandrade@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 501307.06,
+  "quantidade_transacoes": 269,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 199080.0,
+      "quantidade_transacoes": 76,
+      "porcentagem_do_total": 39.71
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 120607.5,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 24.06
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 93996.54,
+      "quantidade_transacoes": 15,
+      "porcentagem_do_total": 18.75
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 73054.02,
+      "quantidade_transacoes": 142,
+      "porcentagem_do_total": 14.57
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 8130.65,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 1.62
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "MM ALUGUEL DE MAQUINAS E EQUIPAMENTOS LTDA",
+      "cnpj": "25166775000162",
+      "total": 120607.5,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 24.06
+    },
+    {
+      "nome": "ALFREDO TAVARES DE AGUIAR",
+      "cnpj": "32305729120",
+      "total": 93500.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 18.65
+    },
+    {
+      "nome": "EL SHADDAI PUBLICIDADE LTDA",
+      "cnpj": "03850971000119",
+      "total": 72580.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 14.48
+    },
+    {
+      "nome": "MEGA FOCO MARKETING DIREITO EIRELI",
+      "cnpj": "30317433000136",
+      "total": 52500.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 10.47
+    },
+    {
+      "nome": "FERREIRA NETO COMERCIO VAREJISTA DE COMB EIRELI",
+      "cnpj": "25298246000112",
+      "total": 23520.27,
+      "quantidade_transacoes": 20,
+      "porcentagem_do_total": 4.69
+    },
+    {
+      "nome": "Portal CT Comunicação Eireli - ME",
+      "cnpj": "09617148000144",
+      "total": 15000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 2.99
+    },
+    {
+      "nome": "LEOBAS E CIA LTDA",
+      "cnpj": "02463588000145",
+      "total": 11853.08,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 2.36
+    },
+    {
+      "nome": "BATISTA PEREIRA & RODRIGUES LTDA",
+      "cnpj": "33210337000182",
+      "total": 9823.95,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 1.96
+    },
+    {
+      "nome": "MARCELINO DE JESUS QUIRINO PEREIRA 01489913190",
+      "cnpj": "48477881000162",
+      "total": 9000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 1.8
+    },
+    {
+      "nome": "ROMILTON BARBOSA PEREIRA",
+      "cnpj": "32242756000133",
+      "total": 9000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 1.8
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 47684.85,
+      "porcentagem_do_total": 9.51
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 45536.85,
+      "porcentagem_do_total": 9.08
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 46995.85,
+      "porcentagem_do_total": 9.37
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 49562.36,
+      "porcentagem_do_total": 9.89
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 52666.58,
+      "porcentagem_do_total": 10.51
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 45165.58,
+      "porcentagem_do_total": 9.01
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 49142.85,
+      "porcentagem_do_total": 9.8
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 43498.17,
+      "porcentagem_do_total": 8.68
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 47702.94,
+      "porcentagem_do_total": 9.52
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 44118.41,
+      "porcentagem_do_total": 8.8
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 29232.62,
+      "porcentagem_do_total": 5.83
+    }
+  ]
+}

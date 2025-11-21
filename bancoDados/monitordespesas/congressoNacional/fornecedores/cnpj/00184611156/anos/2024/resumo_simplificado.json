@@ -1,0 +1,84 @@
+{
+  "fornecedor": {
+    "nome": "JOSÉ MIGUEL DE ARRUDA PELISSARI",
+    "cnpj": "00184611156",
+    "total_recebido": 63000.0,
+    "numero_transacoes": 9,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 63000.0,
+  "quantidade_transacoes": 9,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 63000.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 63000.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 7000.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 7000.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 7000.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 7000.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 7000.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 7000.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 7000.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 7000.0,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 7000.0,
+      "porcentagem_do_total": 11.11
+    }
+  ]
+}

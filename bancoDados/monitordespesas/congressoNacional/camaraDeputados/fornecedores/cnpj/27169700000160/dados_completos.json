@@ -3,52 +3,53 @@
     "fornecedor": {
       "nome": "AUTO POSTO CRIOLO LTDA",
       "cnpj": "27169700000160",
-      "total_recebido": 237.19,
+      "total_recebido": 263.1,
       "numero_transacoes": 1,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T19:58:41.735613"
+    "generatedAt": "2025-11-11T05:22:21.495632"
   },
   "categorias": {
-    "COMBUSTÍVEIS E LUBRIFICANTES.": 237.19
+    "COMBUSTÍVEIS E LUBRIFICANTES.": 263.1
   },
   "anos": {
-    "2023": {
-      "total": 237.19,
+    "2024": {
+      "total": 263.1,
       "transacoes": 1,
       "deputados": 1
     }
   },
   "deputados": {
-    "220548": {
+    "160527": {
       "deputado": {
-        "id": 220548,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220548",
-        "nome": "Camila Jara",
-        "siglaPartido": "PT",
+        "id": 160527,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
+        "nome": "Aguinaldo Ribeiro",
+        "nomeEleitoral": "Aguinaldo Ribeiro",
+        "siglaPartido": "PP",
         "uriPartido": "",
-        "siglaUf": "MS",
+        "siglaUf": "PB",
         "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
-        "email": "dep.camilajara@camara.leg.br"
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160527.jpg",
+        "email": "dep.aguinaldoribeiro@camara.leg.br"
       },
-      "total": 237.19,
+      "total": 263.1,
       "transacoes": 1,
       "despesas": [
         {
-          "ano": 2023,
-          "mes": 5,
+          "ano": 2024,
+          "mes": 1,
           "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7551412,
+          "codDocumento": 7684347,
           "tipoDocumento": "Nota Fiscal",
           "codTipoDocumento": 0,
-          "dataDocumento": "2023-05-29T00:00:00",
-          "numDocumento": "15349",
-          "valorDocumento": 237.19,
-          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7551412",
+          "dataDocumento": "2024-01-26T00:00:00",
+          "numDocumento": "31526",
+          "valorDocumento": 263.1,
+          "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7684347",
           "nomeFornecedor": "AUTO POSTO CRIOLO LTDA",
           "cnpjCpfFornecedor": "27169700000160",
-          "valorLiquido": 237.19,
+          "valorLiquido": 263.1,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

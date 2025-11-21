@@ -1,0 +1,54 @@
+{
+  "fornecedor": {
+    "nome": "RENASCENCA  - LOS ANGELES",
+    "cnpj": "04825223000572",
+    "total_recebido": 8976.650000000001,
+    "numero_transacoes": 61,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 1484.64,
+  "quantidade_transacoes": 10,
+  "principais_deputados": [
+    {
+      "deputado_id": 220593,
+      "deputado_nome": "Abilio Brunini",
+      "total": 1484.64,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 1484.64,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 468.39,
+      "porcentagem_do_total": 31.55
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 387.35,
+      "porcentagem_do_total": 26.09
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 371.0,
+      "porcentagem_do_total": 24.99
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 257.9,
+      "porcentagem_do_total": 17.37
+    }
+  ]
+}

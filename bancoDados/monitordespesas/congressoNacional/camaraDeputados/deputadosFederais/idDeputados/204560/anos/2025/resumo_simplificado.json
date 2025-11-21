@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 204560,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204560",
+    "nome": "Adolfo Viana",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
+    "email": "dep.adolfoviana@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 363564.28,
+  "quantidade_transacoes": 177,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 122000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 33.56
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 100000.0,
+      "quantidade_transacoes": 29,
+      "porcentagem_do_total": 27.51
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 72077.17,
+      "quantidade_transacoes": 79,
+      "porcentagem_do_total": 19.83
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 30908.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 8.5
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "total": 21000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.78
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "CONSUPORTE TRANSPORTES E SERVIÇOS LTDA - EPP",
+      "cnpj": "00254564000150",
+      "total": 122000.0,
+      "quantidade_transacoes": 10,
+      "porcentagem_do_total": 33.56
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 49794.77,
+      "quantidade_transacoes": 55,
+      "porcentagem_do_total": 13.7
+    },
+    {
+      "nome": "JC DE BRITO ASSESSORIA E COMINICA;'AO ME",
+      "cnpj": "28310382000179",
+      "total": 40000.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 11.0
+    },
+    {
+      "nome": "JOAO GLAUCE ALMEIDA ANDREA BRANDAO",
+      "cnpj": "35835406000179",
+      "total": 31500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 8.66
+    },
+    {
+      "nome": "ATA AEROTAXI ABAETE LTDA",
+      "cnpj": "14674451000119",
+      "total": 21000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 5.78
+    },
+    {
+      "nome": "JAGUARARI FM LTDA",
+      "cnpj": "16151359000108",
+      "total": 20850.0,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 5.73
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 20339.31,
+      "quantidade_transacoes": 22,
+      "porcentagem_do_total": 5.59
+    },
+    {
+      "nome": "ONIX IMOB LTDA",
+      "cnpj": "57646566000102",
+      "total": 16072.0,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.42
+    },
+    {
+      "nome": "MARIANGELA CALIL",
+      "cnpj": "27432866520",
+      "total": 8036.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.21
+    },
+    {
+      "nome": "BROAD BRASIL LTDA",
+      "cnpj": "48949641000113",
+      "total": 5950.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 1.64
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 29967.52,
+      "porcentagem_do_total": 8.24
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 43816.94,
+      "porcentagem_do_total": 12.05
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 33386.4,
+      "porcentagem_do_total": 9.18
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 29025.22,
+      "porcentagem_do_total": 7.98
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 44292.8,
+      "porcentagem_do_total": 12.18
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 51069.27,
+      "porcentagem_do_total": 14.05
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 38242.28,
+      "porcentagem_do_total": 10.52
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 33156.62,
+      "porcentagem_do_total": 9.12
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 33614.49,
+      "porcentagem_do_total": 9.25
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 26992.74,
+      "porcentagem_do_total": 7.42
+    }
+  ]
+}

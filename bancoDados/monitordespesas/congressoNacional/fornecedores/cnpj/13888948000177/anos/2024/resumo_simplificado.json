@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "ARENA PETROLEO COMBUSTIVEIS LTDA",
+    "cnpj": "13888948000177",
+    "total_recebido": 750.0,
+    "numero_transacoes": 4,
+    "numero_deputados": 1
+  },
+  "ano": 2024,
+  "total_recebido": 200.0,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 200.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 200.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 200.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

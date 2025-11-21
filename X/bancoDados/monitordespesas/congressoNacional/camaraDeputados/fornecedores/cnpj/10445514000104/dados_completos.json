@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
+      "cnpj": "10445514000104",
+      "total_recebido": 340.0,
+      "numero_transacoes": 1,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-10T14:02:22.771148"
+  },
+  "categorias": {
+    "ASSINATURA DE PUBLICAÇÕES": 340.0
+  },
+  "anos": {
+    "2023": {
+      "total": 340.0,
+      "transacoes": 1,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "160545": {
+      "deputado": {
+        "id": 160545,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160545",
+        "nome": "Alexandre Leite",
+        "nomeEleitoral": "Alexandre Leite",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "",
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160545.jpg",
+        "email": null
+      },
+      "total": 340.0,
+      "transacoes": 1,
+      "despesas": [
+        {
+          "ano": 2023,
+          "mes": 3,
+          "tipoDespesa": "ASSINATURA DE PUBLICAÇÕES",
+          "codDocumento": 7509085,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-03-13T00:00:00",
+          "numDocumento": "2156",
+          "valorDocumento": 340.0,
+          "urlDocumento": null,
+          "nomeFornecedor": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA EIRELI",
+          "cnpjCpfFornecedor": "10445514000104",
+          "valorLiquido": 340.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

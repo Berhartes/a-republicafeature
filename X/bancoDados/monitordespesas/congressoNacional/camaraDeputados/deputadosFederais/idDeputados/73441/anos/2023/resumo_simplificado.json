@@ -1,0 +1,188 @@
+{
+  "deputado": {
+    "id": 73441,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73441",
+    "nome": "Celso Russomanno",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+    "siglaUf": "SP",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73441.jpg",
+    "email": "dep.celsorussomanno@camara.leg.br"
+  },
+  "ano": 2023,
+  "total_gasto": 218691.91,
+  "quantidade_transacoes": 592,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 73950.52,
+      "quantidade_transacoes": 111,
+      "porcentagem_do_total": 33.81
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 53805.09,
+      "quantidade_transacoes": 217,
+      "porcentagem_do_total": 24.6
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - RPA",
+      "total": 34569.97,
+      "quantidade_transacoes": 18,
+      "porcentagem_do_total": 15.81
+    },
+    {
+      "categoria": "TELEFONIA",
+      "total": 27732.48,
+      "quantidade_transacoes": 59,
+      "porcentagem_do_total": 12.68
+    },
+    {
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "total": 9334.4,
+      "quantidade_transacoes": 136,
+      "porcentagem_do_total": 4.27
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 39433.35,
+      "quantidade_transacoes": 69,
+      "porcentagem_do_total": 18.03
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 31550.75,
+      "quantidade_transacoes": 38,
+      "porcentagem_do_total": 14.43
+    },
+    {
+      "nome": "AUTO POSTO BUG LT",
+      "cnpj": "43368281000142",
+      "total": 23761.67,
+      "quantidade_transacoes": 100,
+      "porcentagem_do_total": 10.87
+    },
+    {
+      "nome": "Telefônica Brasil S.A. VIVO",
+      "cnpj": "02558157000162",
+      "total": 20083.73,
+      "quantidade_transacoes": 41,
+      "porcentagem_do_total": 9.18
+    },
+    {
+      "nome": "Cia Aérea - TAM",
+      "cnpj": "02012862000160",
+      "total": 19382.1,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 8.86
+    },
+    {
+      "nome": "Cia Aérea - GOL",
+      "cnpj": "07575651000159",
+      "total": 15187.87,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 6.94
+    },
+    {
+      "nome": "TELEFÔNICA BRASIL S.A",
+      "cnpj": "02558157000162",
+      "total": 5357.8,
+      "quantidade_transacoes": 11,
+      "porcentagem_do_total": 2.45
+    },
+    {
+      "nome": "ALOFT MONTEVIDEO",
+      "cnpj": "00000000000010",
+      "total": 4731.66,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 2.16
+    },
+    {
+      "nome": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA",
+      "cnpj": "04088208000165",
+      "total": 3237.08,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 1.48
+    },
+    {
+      "nome": "AUTO POSTO GOLDEN GAS 202 LTDA",
+      "cnpj": "30880112000145",
+      "total": 3080.0,
+      "quantidade_transacoes": 12,
+      "porcentagem_do_total": 1.41
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 21013.34,
+      "porcentagem_do_total": 9.61
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 28054.8,
+      "porcentagem_do_total": 12.83
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 11371.68,
+      "porcentagem_do_total": 5.2
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 26452.07,
+      "porcentagem_do_total": 12.1
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 15295.76,
+      "porcentagem_do_total": 6.99
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 10174.98,
+      "porcentagem_do_total": 4.65
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 30413.56,
+      "porcentagem_do_total": 13.91
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 13676.81,
+      "porcentagem_do_total": 6.25
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 19608.15,
+      "porcentagem_do_total": 8.97
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 19771.37,
+      "porcentagem_do_total": 9.04
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 22859.39,
+      "porcentagem_do_total": 10.45
+    }
+  ]
+}

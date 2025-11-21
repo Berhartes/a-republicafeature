@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 230765,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/230765",
+    "nome": "Enfermeira Rejane",
+    "siglaPartido": "PCdoB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+    "siglaUf": "RJ",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/230765.jpg",
+    "email": "dep.enfermeirarejane@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 179957.08,
+  "quantidade_transacoes": 145,
+  "principais_categorias": [
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 67500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 37.51
+    },
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 38090.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 21.17
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 28488.18,
+      "quantidade_transacoes": 33,
+      "porcentagem_do_total": 15.83
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 25192.1,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 14.0
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 14813.56,
+      "quantidade_transacoes": 72,
+      "porcentagem_do_total": 8.23
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "HORIZONTE 16 LOCADORA DE VEÍCULOS LTDA",
+      "cnpj": "21921129000102",
+      "total": 67500.0,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 37.51
+    },
+    {
+      "nome": "Sonia Regina Alves Ferreira",
+      "cnpj": "21209367734",
+      "total": 25192.1,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 14.0
+    },
+    {
+      "nome": "AMANDA MELO RAITER CLARINDO LTDA",
+      "cnpj": "46383819000186",
+      "total": 20000.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 11.11
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 18583.4,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 10.33
+    },
+    {
+      "nome": "Imprint 2001 Grafica e Editora Ltda",
+      "cnpj": "02495060000158",
+      "total": 15590.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 8.66
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 9904.78,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 5.5
+    },
+    {
+      "nome": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
+      "cnpj": "08355825000130",
+      "total": 7149.13,
+      "quantidade_transacoes": 27,
+      "porcentagem_do_total": 3.97
+    },
+    {
+      "nome": "JULIANA FRANCA MEDEIROS",
+      "cnpj": "44128731000192",
+      "total": 2500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.39
+    },
+    {
+      "nome": "Gol Linhas Aereas S.A.",
+      "cnpj": "07575651000159",
+      "total": 2421.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.35
+    },
+    {
+      "nome": "Latam Linhas Aéreas S.A",
+      "cnpj": "02012862000160",
+      "total": 1943.85,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 1.08
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 10024.81,
+      "porcentagem_do_total": 5.57
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 15884.2,
+      "porcentagem_do_total": 8.83
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 14142.92,
+      "porcentagem_do_total": 7.86
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 17084.56,
+      "porcentagem_do_total": 9.49
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 25011.86,
+      "porcentagem_do_total": 13.9
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 17825.27,
+      "porcentagem_do_total": 9.91
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 18310.57,
+      "porcentagem_do_total": 10.17
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 9549.33,
+      "porcentagem_do_total": 5.31
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 23203.21,
+      "porcentagem_do_total": 12.89
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 28920.35,
+      "porcentagem_do_total": 16.07
+    }
+  ]
+}

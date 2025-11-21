@@ -1,0 +1,84 @@
+{
+  "deputado": {
+    "id": 220715,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220715",
+    "nome": "Amom Mandel",
+    "siglaPartido": "CIDADANIA",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+    "siglaUf": "AM",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
+    "email": "dep.amommandel@camara.leg.br"
+  },
+  "ano": 2025,
+  "total_gasto": 50300.5,
+  "quantidade_transacoes": 54,
+  "principais_categorias": [
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 50300.5,
+      "quantidade_transacoes": 54,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 38362.77,
+      "quantidade_transacoes": 48,
+      "porcentagem_do_total": 76.27
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 11937.73,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 23.73
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 0.0,
+      "porcentagem_do_total": 0.0
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 7719.49,
+      "porcentagem_do_total": 15.35
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 14108.42,
+      "porcentagem_do_total": 28.05
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 6012.31,
+      "porcentagem_do_total": 11.95
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 9205.5,
+      "porcentagem_do_total": 18.3
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 8174.02,
+      "porcentagem_do_total": 16.25
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 5080.76,
+      "porcentagem_do_total": 10.1
+    }
+  ]
+}

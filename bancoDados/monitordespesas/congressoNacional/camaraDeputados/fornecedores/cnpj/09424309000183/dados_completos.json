@@ -7,7 +7,7 @@
       "numero_transacoes": 2,
       "numero_deputados": 1
     },
-    "generatedAt": "2025-10-22T20:35:46.675179"
+    "generatedAt": "2025-11-11T05:22:05.404256"
   },
   "categorias": {
     "COMBUSTÍVEIS E LUBRIFICANTES.": 309.09000000000003
@@ -25,6 +25,7 @@
         "id": 220593,
         "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593",
         "nome": "Abilio Brunini",
+        "nomeEleitoral": "Abilio Brunini",
         "siglaPartido": "PL",
         "uriPartido": "",
         "siglaUf": "MT",
@@ -35,25 +36,6 @@
       "total": 309.09000000000003,
       "transacoes": 2,
       "despesas": [
-        {
-          "ano": 2023,
-          "mes": 9,
-          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
-          "codDocumento": 7613616,
-          "tipoDocumento": "Nota Fiscal",
-          "codTipoDocumento": 0,
-          "dataDocumento": "2023-09-24T00:00:00",
-          "numDocumento": "53560",
-          "valorDocumento": 55.0,
-          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7613616.pdf",
-          "nomeFornecedor": "AUTO POSTO BACABA LTDA",
-          "cnpjCpfFornecedor": "09424309000183",
-          "valorLiquido": 55.0,
-          "valorGlosa": 0.0,
-          "numRessarcimento": "",
-          "codLote": null,
-          "parcela": 0
-        },
         {
           "ano": 2023,
           "mes": 7,
@@ -68,6 +50,25 @@
           "nomeFornecedor": "AUTO POSTO BACABA LTDA",
           "cnpjCpfFornecedor": "09424309000183",
           "valorLiquido": 254.09,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2023,
+          "mes": 9,
+          "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "codDocumento": 7613616,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2023-09-24T00:00:00",
+          "numDocumento": "53560",
+          "valorDocumento": 55.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3687/2023/7613616.pdf",
+          "nomeFornecedor": "AUTO POSTO BACABA LTDA",
+          "cnpjCpfFornecedor": "09424309000183",
+          "valorLiquido": 55.0,
           "valorGlosa": 0.0,
           "numRessarcimento": "",
           "codLote": null,

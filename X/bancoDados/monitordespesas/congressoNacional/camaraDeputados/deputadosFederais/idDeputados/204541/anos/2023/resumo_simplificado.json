@@ -1,0 +1,164 @@
+{
+  "deputado": {
+    "id": 204541,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204541",
+    "nome": "Eduardo Bismarck",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "CE",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204541.jpg",
+    "email": null
+  },
+  "ano": 2023,
+  "total_gasto": 336191.3,
+  "quantidade_transacoes": 305,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 91400.0,
+      "quantidade_transacoes": 8,
+      "porcentagem_do_total": 27.19
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 87500.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 26.03
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 57421.98,
+      "quantidade_transacoes": 84,
+      "porcentagem_do_total": 17.08
+    },
+    {
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "total": 38421.96,
+      "quantidade_transacoes": 14,
+      "porcentagem_do_total": 11.43
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 34290.51,
+      "quantidade_transacoes": 113,
+      "porcentagem_do_total": 10.2
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "G3 NETO SERVIÇOS EIRELI-ME",
+      "cnpj": "11305235000108",
+      "total": 75000.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 22.31
+    },
+    {
+      "nome": "LARA PRODUÇÕES E FILMES LTDA",
+      "cnpj": "10212619000113",
+      "total": 56000.0,
+      "quantidade_transacoes": 3,
+      "porcentagem_do_total": 16.66
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 54044.79,
+      "quantidade_transacoes": 82,
+      "porcentagem_do_total": 16.08
+    },
+    {
+      "nome": "coworking.etc.br",
+      "cnpj": "27362264000141",
+      "total": 35000.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 10.41
+    },
+    {
+      "nome": "R & K PRODUÇÕES E ASSESSORIA LTDA - ME",
+      "cnpj": "16880815000142",
+      "total": 34000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 10.11
+    },
+    {
+      "nome": "G3 NETO SERVICOS LTDA",
+      "cnpj": "11305235000108",
+      "total": 12500.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 3.72
+    },
+    {
+      "nome": "Air France",
+      "cnpj": "00000000000010",
+      "total": 9624.98,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 2.86
+    },
+    {
+      "nome": "SOBRAL & PALACIO PETROLEO LTDA",
+      "cnpj": "07240641000324",
+      "total": 8092.92,
+      "quantidade_transacoes": 25,
+      "porcentagem_do_total": 2.41
+    },
+    {
+      "nome": "JC COMERCIO DE COMBUSTIVEL LTDA",
+      "cnpj": "23570062000134",
+      "total": 7466.99,
+      "quantidade_transacoes": 26,
+      "porcentagem_do_total": 2.22
+    },
+    {
+      "nome": "POUSADA JARDIM DOS ORIXAS LTDA - ME",
+      "cnpj": "20639947000154",
+      "total": 6540.02,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 1.95
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 45046.6,
+      "porcentagem_do_total": 13.4
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 40191.81,
+      "porcentagem_do_total": 11.96
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 52791.36,
+      "porcentagem_do_total": 15.7
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 60586.11,
+      "porcentagem_do_total": 18.02
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 53975.11,
+      "porcentagem_do_total": 16.05
+    },
+    {
+      "mes": 11,
+      "nome_mes": "Novembro",
+      "total": 51681.29,
+      "porcentagem_do_total": 15.37
+    },
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 31919.02,
+      "porcentagem_do_total": 9.49
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "fornecedor": {
+      "nome": "HOTEL FIORIO - VILSO FIORIO & CIA. LTDA",
+      "cnpj": "97404826000158",
+      "total_recebido": 580.0,
+      "numero_transacoes": 3,
+      "numero_deputados": 1
+    },
+    "generatedAt": "2025-11-07T05:43:11.398772"
+  },
+  "categorias": {
+    "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 580.0
+  },
+  "anos": {
+    "2025": {
+      "total": 580.0,
+      "transacoes": 3,
+      "deputados": 1
+    }
+  },
+  "deputados": {
+    "136811": {
+      "deputado": {
+        "id": 136811,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811",
+        "nome": "Afonso Hamm",
+        "nomeEleitoral": "Afonso Hamm",
+        "siglaPartido": "PP",
+        "uriPartido": "",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+        "email": "dep.afonsohamm@camara.leg.br"
+      },
+      "total": 580.0,
+      "transacoes": 3,
+      "despesas": [
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7956274,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-18T00:00:00",
+          "numDocumento": "62259",
+          "valorDocumento": 165.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2025/7956274.pdf",
+          "nomeFornecedor": "HOTEL FIORIO - VILSO FIORIO & CIA. LTDA",
+          "cnpjCpfFornecedor": "97404826000158",
+          "valorLiquido": 165.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7956278,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-18T00:00:00",
+          "numDocumento": "62258",
+          "valorDocumento": 165.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2025/7956278.pdf",
+          "nomeFornecedor": "HOTEL FIORIO - VILSO FIORIO & CIA. LTDA",
+          "cnpjCpfFornecedor": "97404826000158",
+          "valorLiquido": 165.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        },
+        {
+          "ano": 2025,
+          "mes": 7,
+          "tipoDespesa": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "codDocumento": 7956280,
+          "tipoDocumento": "Nota Fiscal",
+          "codTipoDocumento": 0,
+          "dataDocumento": "2025-07-18T00:00:00",
+          "numDocumento": "62260",
+          "valorDocumento": 250.0,
+          "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1758/2025/7956280.pdf",
+          "nomeFornecedor": "HOTEL FIORIO - VILSO FIORIO & CIA. LTDA",
+          "cnpjCpfFornecedor": "97404826000158",
+          "valorLiquido": 250.0,
+          "valorGlosa": 0.0,
+          "numRessarcimento": "",
+          "codLote": null,
+          "parcela": 0
+        }
+      ]
+    }
+  }
+}

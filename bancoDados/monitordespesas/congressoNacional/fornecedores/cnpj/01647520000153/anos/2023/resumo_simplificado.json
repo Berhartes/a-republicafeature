@@ -1,0 +1,36 @@
+{
+  "fornecedor": {
+    "nome": "DAT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+    "cnpj": "01647520000153",
+    "total_recebido": 4253.0599999999995,
+    "numero_transacoes": 18,
+    "numero_deputados": 1
+  },
+  "ano": 2023,
+  "total_recebido": 150.0,
+  "quantidade_transacoes": 1,
+  "principais_deputados": [
+    {
+      "deputado_id": 220714,
+      "deputado_nome": "Adail Filho",
+      "total": 150.0,
+      "quantidade_transacoes": 1,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "principais_categorias": [
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 150.0,
+      "porcentagem_do_total": 100.0
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 12,
+      "nome_mes": "Dezembro",
+      "total": 150.0,
+      "porcentagem_do_total": 100.0
+    }
+  ]
+}

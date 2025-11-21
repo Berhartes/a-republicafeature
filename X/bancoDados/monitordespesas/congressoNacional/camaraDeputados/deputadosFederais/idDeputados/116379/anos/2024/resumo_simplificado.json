@@ -1,0 +1,182 @@
+{
+  "deputado": {
+    "id": 116379,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/116379",
+    "nome": "Darci de Matos",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "SC",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/116379.jpg",
+    "email": null
+  },
+  "ano": 2024,
+  "total_gasto": 409927.5,
+  "quantidade_transacoes": 514,
+  "principais_categorias": [
+    {
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR",
+      "total": 187930.0,
+      "quantidade_transacoes": 30,
+      "porcentagem_do_total": 45.84
+    },
+    {
+      "categoria": "PASSAGEM AÉREA - SIGEPA",
+      "total": 79136.69,
+      "quantidade_transacoes": 102,
+      "porcentagem_do_total": 19.31
+    },
+    {
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "total": 55124.49,
+      "quantidade_transacoes": 9,
+      "porcentagem_do_total": 13.45
+    },
+    {
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES",
+      "total": 49886.52,
+      "quantidade_transacoes": 199,
+      "porcentagem_do_total": 12.17
+    },
+    {
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL",
+      "total": 20982.42,
+      "quantidade_transacoes": 49,
+      "porcentagem_do_total": 5.12
+    }
+  ],
+  "principais_fornecedores": [
+    {
+      "nome": "PRATICA PUBLICIDADE LTDA",
+      "cnpj": "07444783000141",
+      "total": 56980.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 13.9
+    },
+    {
+      "nome": "MUNICIPIO DE MEDIANEIRA/PR",
+      "cnpj": "07444783000141",
+      "total": 40250.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 9.82
+    },
+    {
+      "nome": "BERIMBAU PRODUÇÕES",
+      "cnpj": "18912417000196",
+      "total": 38000.0,
+      "quantidade_transacoes": 4,
+      "porcentagem_do_total": 9.27
+    },
+    {
+      "nome": "mav - veículos e serviços ltda",
+      "cnpj": "24367079000151",
+      "total": 36550.0,
+      "quantidade_transacoes": 6,
+      "porcentagem_do_total": 8.92
+    },
+    {
+      "nome": "AZUL",
+      "cnpj": "",
+      "total": 29700.11,
+      "quantidade_transacoes": 28,
+      "porcentagem_do_total": 7.25
+    },
+    {
+      "nome": "TAM",
+      "cnpj": "",
+      "total": 26633.69,
+      "quantidade_transacoes": 55,
+      "porcentagem_do_total": 6.5
+    },
+    {
+      "nome": "GOL",
+      "cnpj": "",
+      "total": 22802.89,
+      "quantidade_transacoes": 19,
+      "porcentagem_do_total": 5.56
+    },
+    {
+      "nome": "LOCALIZA RENT A CAR",
+      "cnpj": "16670085011009",
+      "total": 17846.92,
+      "quantidade_transacoes": 2,
+      "porcentagem_do_total": 4.35
+    },
+    {
+      "nome": "IMPACTO AGENCIA DE NOTICIAS LTDA",
+      "cnpj": "33194612000111",
+      "total": 17250.0,
+      "quantidade_transacoes": 7,
+      "porcentagem_do_total": 4.21
+    },
+    {
+      "nome": "LETSROCKET COMUNICAÇÃO DIGITAL LTDA",
+      "cnpj": "22507365000140",
+      "total": 12500.0,
+      "quantidade_transacoes": 5,
+      "porcentagem_do_total": 3.05
+    }
+  ],
+  "distribuicao_mensal": [
+    {
+      "mes": 1,
+      "nome_mes": "Janeiro",
+      "total": 37791.22,
+      "porcentagem_do_total": 9.22
+    },
+    {
+      "mes": 2,
+      "nome_mes": "Fevereiro",
+      "total": 56139.11,
+      "porcentagem_do_total": 13.69
+    },
+    {
+      "mes": 3,
+      "nome_mes": "Março",
+      "total": 49864.62,
+      "porcentagem_do_total": 12.16
+    },
+    {
+      "mes": 4,
+      "nome_mes": "Abril",
+      "total": 55460.25,
+      "porcentagem_do_total": 13.53
+    },
+    {
+      "mes": 5,
+      "nome_mes": "Maio",
+      "total": 44441.31,
+      "porcentagem_do_total": 10.84
+    },
+    {
+      "mes": 6,
+      "nome_mes": "Junho",
+      "total": 192.52,
+      "porcentagem_do_total": 0.05
+    },
+    {
+      "mes": 7,
+      "nome_mes": "Julho",
+      "total": 49860.71,
+      "porcentagem_do_total": 12.16
+    },
+    {
+      "mes": 8,
+      "nome_mes": "Agosto",
+      "total": 59351.47,
+      "porcentagem_do_total": 14.48
+    },
+    {
+      "mes": 9,
+      "nome_mes": "Setembro",
+      "total": 44362.14,
+      "porcentagem_do_total": 10.82
+    },
+    {
+      "mes": 10,
+      "nome_mes": "Outubro",
+      "total": 12464.15,
+      "porcentagem_do_total": 3.04
+    }
+  ]
+}
