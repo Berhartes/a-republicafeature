@@ -109,7 +109,7 @@ export const UnifiedRankingDisplay: React.FC<UnifiedRankingDisplayProps> = ({
     }
   }
 
-  const QuadroDouradoPremiacoes = useCallback(({ deputadoId, deputadoNome }: { deputadoId: string, deputadoNome: string }) => {
+  const QuadroDouradoPremiacoes: React.FC<{ deputadoId: string; deputadoNome: string }> = ({ deputadoId, deputadoNome }) => {
     const [hasPremiacoes, setHasPremiacoes] = useState(false)
 
     const verificarPremiacoes = useCallback(() => {
@@ -121,7 +121,7 @@ export const UnifiedRankingDisplay: React.FC<UnifiedRankingDisplayProps> = ({
         }
 
         const premiacoesGlobais = JSON.parse(premiacoesGlobaisCache)
-        
+
         const coroas = premiacoesGlobais.coroas?.filter((c: any) => c.deputadoId === deputadoId) || []
         const trofeus = premiacoesGlobais.trofeus?.filter((t: any) => t.deputadoId === deputadoId) || []
         const medalhas = premiacoesGlobais.medalhas?.filter((m: any) => m.deputadoId === deputadoId) || []
@@ -139,11 +139,11 @@ export const UnifiedRankingDisplay: React.FC<UnifiedRankingDisplayProps> = ({
     }, [verificarPremiacoes])
 
     return (
-      <div className={hasPremiacoes ? 
-        "bg-gradient-to-r from-yellow-100 to-amber-100 border-2 border-yellow-300 rounded-lg p-1 shadow-sm inline-block" : 
-        "inline-block"
+      <div className={hasPremiacoes ?
+        'bg-gradient-to-r from-yellow-100 to-amber-100 border-2 border-yellow-300 rounded-lg p-1 shadow-sm inline-block' :
+        'inline-block'
       }>
-        <BadgesPremiacaoDeputado 
+        <BadgesPremiacaoDeputado
           deputadoId={deputadoId}
           deputadoNome={deputadoNome}
           size="sm"
@@ -152,7 +152,7 @@ export const UnifiedRankingDisplay: React.FC<UnifiedRankingDisplayProps> = ({
         />
       </div>
     )
-  }, [])
+  }
 
   if (loading) {
     return (
