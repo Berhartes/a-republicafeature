@@ -1,1 +1,0 @@
-export { ExibicaoPremiacoes } from './ExibicaoPremiacoes'

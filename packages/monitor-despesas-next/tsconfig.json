@@ -1,7 +1,11 @@
 {
   "extends": "../../tsconfig.base.json",
   "compilerOptions": {
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
     "allowJs": true,
     "noEmit": true,
     "module": "esnext",
@@ -9,18 +13,44 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-    "baseUrl": ".",
+    "baseUrl": "./src/app/monitor",
     "paths": {
-      "@/pages/*": ["src/client/pages/*"],
-      "@/*": ["src/*"],
-      "@/lib/router/navigation": ["src/lib/router/navigation"],
-      "@a-republica/shared": ["../../packages/shared/src/index.ts"],
-      "@a-republica/shared/*": ["../../packages/shared/src/*"],
-      "@a-republica/api/*": ["../api/src/*"]
+      "@/*": [
+        "./*"
+      ],
+      "@a-republica/shared": [
+        "../../../packages/shared/src/index.ts"
+      ],
+      "@a-republica/shared/*": [
+        "../../../packages/shared/src/*"
+      ],
+      "@a-republica/api/*": [
+        "../../api/src/*"
+      ]
     },
-    "plugins": [{ "name": "next" }],
-    "types": ["node", "vitest", "@testing-library/jest-dom"]
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "types": [
+      "node",
+      "vitest",
+      "@testing-library/jest-dom"
+    ]
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "**/*.d.ts", ".next/types/**/*.ts"],
-  "exclude": ["node_modules", "dist", "build", ".next", "out"]
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.d.ts",
+    ".next/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "build",
+    ".next",
+    "out"
+  ]
 }

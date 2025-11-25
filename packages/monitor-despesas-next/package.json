@@ -1,6 +1,8 @@
 {
-  "name": "@a-republica/monitor-despesas-next",
+  "name": "features-republica",
   "version": "0.1.0",
+  "description": "Sistema de monitoramento e análise de gastos de deputados federais brasileiros",
+  "author": "A República",
   "private": true,
   "scripts": {
     "cache:publish": "tsc --project scripts/tsconfig.publish.json && node scripts/dist/publish_cache.js",
@@ -19,6 +21,7 @@
     "test:e2e:report": "playwright show-report"
   },
   "dependencies": {
+    "@a-republica/shared": "workspace:^",
     "@opentelemetry/api": "^1.9.0",
     "@opentelemetry/exporter-trace-otlp-http": "^0.208.0",
     "@opentelemetry/resources": "^2.2.0",

@@ -1,5 +1,5 @@
-import { createLogger } from './lib/logger'
-import { getEnv } from './lib/env'
+import { createLogger } from '@/lib/logger'
+import { getEnv } from '@/lib/env'
 
 // Next.js executa esta função na inicialização do app (Node/Edge),
 // ideal para configurar métricas, traces e observabilidade.

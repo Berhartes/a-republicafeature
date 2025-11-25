@@ -56,13 +56,7 @@ const nextConfig = {
   },
 
   async redirects() {
-    return [
-      {
-        source: '/gastos/deputados',
-        destination: '/monitor/deputados',
-        permanent: true,
-      },
-    ]
+    return []
   },
 
   // Environment variables
