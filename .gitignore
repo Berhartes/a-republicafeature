@@ -1,63 +1,54 @@
+# Dependencies
 node_modules/
+**/node_modules/
 .pnpm-store/
 .pnpm-home/
-dist/
-build/
-.next/
-.env
-.env.local
-.env.*.local
-coverage/
-# Arquivos de banco de dados
-bancodeDados/monitordespesas/*.db
-bancodeDados/monitordespesas/*.sqlite
-bancodeDados/monitordespesas/*.sqlite3
-*.db
-*.sqlite
-*.sqlite3
-node_modules/
-.pnpm-store/
-.pnpm-home/
-dist/
-build/
-.next/
-.env
-.env.local
-.env.*.local
-coverage/
-# Arquivos de banco de dados
-bancoDados/monitordespesas/*.db
-bancoDados/monitordespesas/*.sqlite
-bancoDados/monitordespesas/*.sqlite3
-*.db
-*.sqlite
-*.sqlite3
 
-# Cache files
-packages/monitor-despesas-next/public/cache/*
-!packages/monitor-despesas-next/public/cache/.gitkeep
+# Build outputs
+dist/
+build/
+.next/
+**/.next/
+**/.turbo/
+coverage/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Database - IGNORE ALL
+bancoDados/
+bancodeDados/
+*.db
+*.sqlite
+*.sqlite3
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Cache
 *.cache
 .cache/
-pnpm-lock.yaml
-# Python virtual environments
+**/.cache/
+packages/monitor-despesas-next/public/cache/
+packages/monitor-despesas-next/public/cache/**
+
+# Python
 venv/
 .venv/
 packages/etlpython/venv/
 packages/etlpython/.venv/
-packages/etlpython/packages/etlpython/venv_wsl/
-packages/backup/
-
-# Python environment at root (legacy - should be removed)
-Lib/
-Scripts/
 pyvenv.cfg
-python3
+__pycache__/
+**/*.pyc
 
-# Allow cache publication tooling inside monitor-despesas-next
-!packages/monitor-despesas-next/scripts/
-!packages/monitor-despesas-next/scripts/**
-
-# Backup folders
-bbbackup/
-
-# Ignore test-cache-output if desired
+# Misc
+.DS_Store
+ranking_*.html
